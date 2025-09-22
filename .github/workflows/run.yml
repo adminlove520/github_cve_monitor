@@ -1,0 +1,28 @@
+name: cve-monitor
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+jobs:
+  cve-monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    environment: CI
+    steps:
+      - name: checkout the repo
+        uses: actions/checkout@v2
+      - name: install dependencies
+        run: |
+          pip3 install -r requirements.txt
+      - name: run scraper
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          python3 main.py
+      - name: save changes
+        run: |
+          git config --global user.email "cve-monitor@users.noreply.github.com"
+          git config --global user.name "CVE-Bot"
+          git commit --all --message "Updated by CVE-Bot 🤖" || echo "no changes to commit"
+          git push
