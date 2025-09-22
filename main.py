@@ -101,7 +101,7 @@ def update_daily_index():
         f.write("## 可用报告\n\n")
     
     # 遍历所有日期目录
-    date_dirs = sorted([d for d in data_dir.glob("*-周-*-*")], reverse=True)
+    date_dirs = sorted([d for d in data_dir.glob("*-W*-*-*")], reverse=True)
     
     for date_dir in date_dirs:
         dir_name = date_dir.name
@@ -156,7 +156,7 @@ def update_sidebar():
             new_lines.append(line)
             # 在主页链接后添加每日报告链接
             if "- [主页](README.md)" in line or "- [Home](README.md)" in line:
-                new_lines.append("- [每日报告](Data/index.md)\n")
+                new_lines.append("- [每日报告](/Data/index.md)\n")
         
         # 写回文件
         with open(sidebar_path, 'w', encoding='utf-8') as f:
