@@ -3,9 +3,6 @@
 
 > 使用 Github Actions 自动监控 Github 上的 CVE 信息
 
-[![github-cve-monitor](https://github.com/adminlove520/github_cve_monitor/actions/workflows/run.yml/badge.svg)](https://github.com/adminlove520/github_cve_monitor/actions/workflows/run.yml)[![pages-build-deployment](https://github.com/adminlove520/github_cve_monitor/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/adminlove520/github_cve_monitor/actions/workflows/pages/pages-build-deployment)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/adminlove520/github_cve_monitor/blob/main/LICENSE)
 
 ## 文档 📖 
 
@@ -53,7 +50,8 @@ Github API 每页限制返回 100 条记录
 
 | 状态 | 任务  | 版本 |
 |---|---|---|
-| 🛠 | 添加描述（译文）功能【】 | 2.1 |
+| 🛠 | 添加**钉钉**、**飞书**推送*当日 情报速递 报告* | 2.2 |
+| 🛠 | 添加描述（译文）功能【暂定采用主翻译（**有道**）次翻译（**Google Translate**）】 | 2.1 |
 | 🛠 | 添加统计功能 | 2.1 |
 | ✅ | ~~修复CVE字段的bug~~ | 2.0c | 
 | ✅ | ~~按CVE排序~~ | 2.0b |  
@@ -70,3 +68,6 @@ Github API 每页限制返回 100 条记录
 | 🟢 | 待办 | 
 | 🟡 | 可能有一天会做 |
 | 🔴 | 永不  |
+#### Author
+- [Anonymous](https://github.com/adminlove520)
+- [**东方隐侠安全实验室**](https://www.dfyxsec.com/)
