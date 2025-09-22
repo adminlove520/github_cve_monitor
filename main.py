@@ -82,13 +82,13 @@ def init_daily_file(date_str):
     return file_path
 
 def write_daily_file(file_path, new_contents):
-    """写入每日报告文件"""
+    """写入每日 情报速递 报告文件"""
     with open(file_path, 'a', encoding='utf-8') as f:
         f.write(new_contents)
     f.close()
 
 def update_daily_index():
-    """更新每日报告索引文件"""
+    """更新每日 情报速递 报告索引文件"""
     data_dir = Path("docs/Data")
     if not data_dir.exists():
         return
@@ -96,7 +96,7 @@ def update_daily_index():
     # 创建索引文件
     index_path = data_dir / "index.md"
     with open(index_path, 'w', encoding='utf-8') as f:
-        f.write("# 每日 CVE 监控报告索引\n\n")
+        f.write("# 每日 情报速递 报告索引\n\n")
         f.write("> Automatic monitor Github CVE using Github Actions\n\n")
         f.write("## 可用报告\n\n")
     
@@ -301,7 +301,7 @@ def main():
     result = cur.fetchall()
     
     # 写入报告头部
-    newline = f"""# 全量 CVE 数据报告
+    newline = f"""# 全量 情报速递 数据报告
 
 > Automatic monitor Github CVE using Github Actions 
 
@@ -331,7 +331,7 @@ def main():
     
     # 记录原始today_list长度
     original_today_list_len = len(today_list)
-    print(f"生成当日报告，共 {len(today_list)} 条记录")
+    print(f"生成当日 情报速递 报告，共 {len(today_list)} 条记录")
     
     # 如果当日没有数据，使用最近的数据
     if len(today_list) == 0:
@@ -372,7 +372,7 @@ def main():
         if original_today_list_len == 0:
             with open(daily_file_path, 'a', encoding='utf-8') as f:
                 f.write("\n\n> 由于没有获取到当日数据，使用近7天记录\n\n")
-        print(f"成功写入 {len(today_list)} 条记录到每日报告")
+        print(f"成功写入 {len(today_list)} 条记录到每日 情报速递 报告")
     
     # 写入每日报告
     for entry in today_list:
