@@ -42,8 +42,9 @@ def init_file():
         f.write(newline) 
     f.close()
 
-def write_file(new_contents):
-    with open('docs/README.md','a', encoding='utf-8') as f:
+def write_file(new_contents, overwrite=False):
+    mode = 'w' if overwrite else 'a'
+    with open('docs/README.md', mode, encoding='utf-8') as f:
         f.write(new_contents)
     f.close()
 
@@ -164,32 +165,52 @@ def update_sidebar():
 
 def get_info(year):
     try:
-        api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=1&per_page=100".format(year)
-        # 获取GitHub Token（如果存在）
+        all_items = []
+        page = 1
+        per_page = 100 # 默认每页100条，有token时使用
         github_token = os.environ.get('GITHUB_TOKEN')
         headers = {}
-        
-        # 如果有Token，添加到请求头中
+
         if github_token:
+            print(f"DEBUG: GITHUB_TOKEN is set. Value: {github_token[:5]}...") # Print partial token for security
             headers['Authorization'] = f'token {github_token}'
             print(f"Using GitHub Token for authentication (Year: {year})")
-            # 有token时使用更大的per_page值
-            api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=1&per_page=100".format(year)
         else:
+            print("DEBUG: GITHUB_TOKEN is NOT set.")
+            per_page = 30 # 无token时每页30条
             print(f"No GitHub Token found, using unauthenticated request (Year: {year})")
-            # 无token时使用默认的per_page值
-            api = "https://api.github.com/search/repositories?q=CVE-{}&sort=updated&page=1&per_page=30".format(year)
-        
-        # API请求
-        response = requests.get(api, headers=headers)
-        
-        # 输出API限制信息（如果可用）
-        if 'X-RateLimit-Limit' in response.headers:
-            print(f"API Rate Limit: {response.headers.get('X-RateLimit-Remaining')}/{response.headers.get('X-RateLimit-Limit')}")
-        
-        req = response.json()
-        items = req["items"]
-        return items
+
+        print("DEBUG: os.environ content:")
+        for key, value in os.environ.items():
+            if "GITHUB" in key.upper(): # Only print relevant environment variables
+                print(f"  {key}: {value[:10]}...")
+
+        while True:
+            api = f"https://api.github.com/search/repositories?q=CVE-{year}&sort=updated&page={page}&per_page={per_page}"
+            response = requests.get(api, headers=headers)
+
+            if 'X-RateLimit-Limit' in response.headers:
+                print(f"API Rate Limit: {response.headers.get('X-RateLimit-Remaining')}/{response.headers.get('X-RateLimit-Limit')}")
+
+            req = response.json()
+            items = req.get("items")
+
+            if not items:
+                break
+
+            all_items.extend(items)
+
+            # 如果当前页返回的item数量小于per_page，说明已经是最后一页
+            if len(items) < per_page:
+                break
+            
+            page += 1
+            # 随机等待以避免API限制 (仅在无token时等待)
+            if not github_token:
+                count = random.randint(3, 15)
+                time.sleep(count)
+
+        return all_items
     except Exception as e:
         print("An error occurred in the network request", e)
         return None
@@ -246,10 +267,10 @@ def main():
     
     # 初始化全量数据文件
     init_file()
-    
+
     # 初始化每日报告文件
     daily_file_path = init_daily_file(date_str)
-    
+
     # 收集数据
     sorted_list = []
     today_list = []  # 存储当日数据
@@ -315,8 +336,8 @@ def main():
 | CVE | 名称 | 描述 | 日期 |
 |:---|:---|:---|:---|
 """
-    write_file(newline)
-    
+    write_file(newline, overwrite=True) # 首次写入时覆盖文件
+
     # 写入每条记录
     for row in result:
         Publish_Date = row[4]
@@ -362,18 +383,10 @@ def main():
         
         print(f"当日无数据，使用最近 {len(today_list)} 条记录")
     
-    # 初始化每日报告文件
-    date_str = datetime.now().strftime("%Y%m%d")
-    daily_file_path = init_daily_file(date_str)
-    
     # 写入每日报告文件
     if len(today_list) > 0:
-        # 如果是使用最近记录，则在报告中增加说明
-        if original_today_list_len == 0:
-            with open(daily_file_path, 'a', encoding='utf-8') as f:
-                f.write("\n\n> 由于没有获取到当日数据，使用近7天记录\n\n")
         print(f"成功写入 {len(today_list)} 条记录到每日 情报速递 报告")
-    
+
     # 写入每日报告
     for entry in today_list:
         cve = entry["cve"]
@@ -381,21 +394,26 @@ def main():
         description = entry["description"].replace('|','-')
         url = entry["url"]
         created_at = entry["created_at"]
-        
+
         if cve.upper() == "CVE NOT FOUND":
             newline = f"| {cve.upper()} | [{full_name}]({url}) | {description} | {created_at}|\n"
         else:
             newline = f"| [{cve.upper()}](https://www.cve.org/CVERecord?id={cve.upper()}) | [{full_name}]({url}) | {description} | {created_at}|\n"
-        
+
         # 写入每日报告文件
         write_daily_file(daily_file_path, newline)
-    
+
+    # 如果是使用最近记录，则在报告中增加说明 (移动到此处)
+    if original_today_list_len == 0:
+        with open(daily_file_path, 'a', encoding='utf-8') as f:
+            f.write("\n\n> 由于没有获取到当日数据，使用近7天记录\n\n")
+
     # 更新索引文件，列出所有每日报告
     update_daily_index()
-    
+
     # Statistics
     ## TODO HERE WILL COME THE CODE FOR STATISTICS 
-        
+
 if __name__ == "__main__":
-    init_file()
+    # init_file() # 移除此行，因为全量报告的写入会覆盖文件
     main()
