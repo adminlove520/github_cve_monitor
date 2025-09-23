@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
   <title>Github CVE Monitor 👀</title>
@@ -12,36 +12,124 @@
    <meta property="og:title" content="Github CVE Monitor 👀">
    <meta property="og:description" content="Automatic monitor Github CVE using Github Actions">
    <meta property="og:image" content="adminlove520.github.io/cve.png">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
-  <style>
-    .cover-main h1 a span {
-        color: #ffffff;
-        font-weight: bold;
+   <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f8f9fa;
     }
-    .cover-main blockquote {
-        color: #5e5e5e;
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
     }
-</style>
+    h1 {
+      color: #EF3A38;
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .nav {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin: 30px 0;
+    }
+    .nav-item {
+      background: #f8f9fa;
+      padding: 20px;
+      border-radius: 8px;
+      text-decoration: none;
+      color: #333;
+      border: 2px solid #e9ecef;
+      transition: all 0.3s ease;
+    }
+    .nav-item:hover {
+      border-color: #EF3A38;
+      background: #fff;
+      transform: translateY(-2px);
+    }
+    .nav-item h3 {
+      margin: 0 0 10px 0;
+      color: #EF3A38;
+    }
+    .nav-item p {
+      margin: 0;
+      color: #666;
+      font-size: 14px;
+    }
+    .stats {
+      background: linear-gradient(135deg, #EF3A38, #ff6b6b);
+      color: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+      text-align: center;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #e9ecef;
+      color: #666;
+    }
+   </style>
 </head>
 <body>
-  <div id="app"></div>
-  <script>
-    window.$docsify = {      
-      noEmoji: true,
-      coverpage: false,
-      subMaxLevel: 3,
-      loadSidebar: true,
-      autoHeader: true,
-      alias: {
-        '/_sidebar.md': '/github_cve_monitor/_sidebar.md',
-      },
-      name: 'Github CVE Monitor 👀',
-      themeColor: '#EF3A38',
-      externalLinkTarget: '_blank',
-      repo: 'https://github.com/adminlove520/github_cve_monitor',      
-      plugins: []
-    }
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <div class="container">
+    <h1>Github CVE Monitor 👀</h1>
+    
+    <div class="stats">
+      <h2>每日情报速递 - 自动CVE监控系统</h2>
+      <p>基于GitHub Actions的自动化安全情报收集工具</p>
+    </div>
+
+    <div class="nav">
+      <a href="README.md" class="nav-item">
+        <h3>📋 监控报告</h3>
+        <p>查看全量CVE监控数据报告</p>
+      </a>
+      
+      <a href="Data/" class="nav-item">
+        <h3>📅 每日报告</h3>
+        <p>每日情报速递和详细数据分析</p>
+      </a>
+      
+      <a href="changelog.md" class="nav-item">
+        <h3>📝 更新日志</h3>
+        <p>项目版本更新和改进记录</p>
+      </a>
+      
+      <a href="stats.md" class="nav-item">
+        <h3>📊 统计数据</h3>
+        <p>CVE趋势分析和统计信息</p>
+      </a>
+      
+      <a href="apropos.md" class="nav-item">
+        <h3>ℹ️ 关于项目</h3>
+        <p>项目介绍和作者信息</p>
+      </a>
+      
+      <a href="https://github.com/adminlove520/github_cve_monitor" class="nav-item" target="_blank">
+        <h3>🚀 GitHub仓库</h3>
+        <p>源代码和项目路线图</p>
+      </a>
+    </div>
+    
+    <div class="stats">
+      <h3>最新数据</h3>
+      <p>总记录数: 27,113+ | 更新时间: 2025-09-23</p>
+    </div>
+
+    <div class="footer">
+      <p>© 2025 <a href="https://github.com/adminlove520" target="_blank">adminlove520</a> | 
+         <img src="https://img.shields.io/badge/version-2.1-blue.svg" alt="Version 2.1">
+      </p>
+    </div>
+  </div>
 </body>
 </html>
