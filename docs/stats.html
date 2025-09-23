@@ -1071,13 +1071,15 @@
     
     // 页面加载完成后执行
     document.addEventListener('DOMContentLoaded', async function() {
-      // 显示加载状态
+      // 显示加载状态并开始调试
       document.getElementById('total-cves').textContent = '🔄 加载中...';
       document.getElementById('days-running').textContent = '🔄 计算中...';
       document.getElementById('system-uptime').textContent = '🔄 检测中...';
       document.getElementById('api-limit').textContent = '🔄 获取中...';
       
       console.log('开始加载统计数据...');
+      console.log('当前页面URL:', window.location.href);
+      console.log('当前域名:', window.location.hostname);
       
       await Promise.all([
         loadDynamicStats().catch(err => console.error('loadDynamicStats失败:', err)),
