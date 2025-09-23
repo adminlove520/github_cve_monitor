@@ -178,52 +178,108 @@
   </div>
 
   <script>
-    // 模拟加载CVE数据
-    setTimeout(() => {
-      const loading = document.getElementById('loading');
-      const table = document.getElementById('cveTable');
-      const tbody = document.getElementById('cveTableBody');
-      
-      // 示例数据（实际应该从README.md或API获取）
-      const sampleData = [
-        {
-          cve: 'CVE-2025-8088',
-          repo: 'knight0x07/WinRAR-CVE-2025-8088-PoC-RAR',
-          description: 'WinRAR 0day CVE-2025-8088 PoC RAR Archive',
-          date: '2025-08-12T13:16:47Z'
-        },
-        {
-          cve: 'CVE-2025-57819',
-          repo: 'watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819',
-          description: 'FreePBX SQL Injection Exploit',
-          date: '2025-09-08T15:28:14Z'
-        },
-        // 可以添加更多示例数据
-      ];
-      
-      sampleData.forEach(item => {
-        const row = tbody.insertRow();
-        row.innerHTML = `
-          <td><a href="https://www.cve.org/CVERecord?id=${item.cve}" class="cve-link" target="_blank">${item.cve}</a></td>
-          <td><a href="https://github.com/${item.repo}" class="repo-link" target="_blank">${item.repo}</a></td>
-          <td>${item.description}</td>
-          <td>${new Date(item.date).toLocaleDateString('zh-CN')}</td>
-        `;
-      });
-      
-      loading.style.display = 'none';
-      table.style.display = 'table';
-    }, 1500);
+    // 加载并解析README.md文件
+    async function loadREADME() {
+      try {
+        const response = await fetch('README.md');
+        const markdown = await response.text();
+        
+        // 解析基本信息
+        const lines = markdown.split('\n');
+        let totalRecords = '27,113+';
+        let updateTime = '2025-09-23';
+        
+        // 查找生成时间和总记录数
+        for (let i = 0; i < lines.length; i++) {
+          const line = lines[i];
+          if (line.includes('生成时间')) {
+            const match = line.match(/\d{4}-\d{2}-\d{2}/);
+            if (match) updateTime = match[0];
+          }
+          if (line.includes('总记录数')) {
+            const match = line.match(/\d+/);
+            if (match) totalRecords = parseInt(match[0]).toLocaleString() + '+';
+          }
+        }
+        
+        // 更新统计数据
+        document.getElementById('total-records').textContent = totalRecords;
+        document.getElementById('update-time').textContent = updateTime;
+        
+        // 解析表格数据
+        const tableStart = markdown.indexOf('| CVE | 相关仓库');
+        if (tableStart !== -1) {
+          const tableSection = markdown.substring(tableStart);
+          const tableLines = tableSection.split('\n').slice(2); // 跳过表头和分隔线
+          
+          const tbody = document.getElementById('cveTableBody');
+          tbody.innerHTML = '';
+          
+          // 只显示前100条记录以提高性能
+          for (let i = 0; i < Math.min(tableLines.length, 100); i++) {
+            const line = tableLines[i].trim();
+            if (line && line.startsWith('|')) {
+              const cols = line.split('|').map(col => col.trim()).filter(col => col);
+              if (cols.length >= 4) {
+                const row = tbody.insertRow();
+                
+                // CVE链接
+                const cveMatch = cols[0].match(/\[([^\]]+)\]\(([^)]+)\)/);
+                const cveText = cveMatch ? cveMatch[1] : cols[0];
+                const cveLink = cveMatch ? cveMatch[2] : `https://www.cve.org/CVERecord?id=${cols[0]}`;
+                
+                // 仓库链接
+                const repoMatch = cols[1].match(/\[([^\]]+)\]\(([^)]+)\)/);
+                const repoText = repoMatch ? repoMatch[1] : cols[1];
+                const repoLink = repoMatch ? repoMatch[2] : `https://github.com/${cols[1]}`;
+                
+                row.innerHTML = `
+                  <td><a href="${cveLink}" class="cve-link" target="_blank">${cveText}</a></td>
+                  <td><a href="${repoLink}" class="repo-link" target="_blank">${repoText}</a></td>
+                  <td>${cols[2]}</td>
+                  <td>${new Date(cols[3]).toLocaleDateString('zh-CN')}</td>
+                `;
+              }
+            }
+          }
+          
+          if (tableLines.length > 100) {
+            const moreRow = tbody.insertRow();
+            moreRow.innerHTML = `
+              <td colspan="4" style="text-align: center; color: #666; font-style: italic;">
+                📝 显示前100条记录，共${tableLines.length}条数据 | 
+                <a href="README.md" target="_blank" style="color: #EF3A38;">查看完整数据</a>
+              </td>
+            `;
+          }
+        }
+        
+        document.getElementById('loading').style.display = 'none';
+        document.getElementById('cveTable').style.display = 'table';
+        
+      } catch (error) {
+        console.error('加载README.md失败:', error);
+        document.getElementById('loading').innerHTML = '🚨 加载数据失败，请稍后重试 | <a href="README.md" target="_blank" style="color: #EF3A38;">直接查看源文件</a>';
+      }
+    }
+    
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', loadREADME);
     
     // 搜索功能
-    document.getElementById('searchBox').addEventListener('input', function(e) {
-      const searchTerm = e.target.value.toLowerCase();
-      const rows = document.querySelectorAll('#cveTableBody tr');
-      
-      rows.forEach(row => {
-        const text = row.textContent.toLowerCase();
-        row.style.display = text.includes(searchTerm) ? '' : 'none';
-      });
+    document.addEventListener('DOMContentLoaded', function() {
+      const searchBox = document.getElementById('searchBox');
+      if (searchBox) {
+        searchBox.addEventListener('input', function(e) {
+          const searchTerm = e.target.value.toLowerCase();
+          const rows = document.querySelectorAll('#cveTableBody tr');
+          
+          rows.forEach(row => {
+            const text = row.textContent.toLowerCase();
+            row.style.display = text.includes(searchTerm) ? '' : 'none';
+          });
+        });
+      }
     });
   </script>
 </body>

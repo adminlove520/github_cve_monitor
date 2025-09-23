@@ -325,6 +325,31 @@
     const timeDiff = currentDate.getTime() - startDate.getTime();
     const daysDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
     document.getElementById('days-running').textContent = daysDiff;
+    
+    // 加载并解析stats.md文件
+    async function loadStats() {
+      try {
+        const response = await fetch('stats.md');
+        const markdown = await response.text();
+        
+        // stats.md 目前只有 "# COMING SOON"，所以保留当前的预览内容
+        // 在页面底部添加链接到原始Markdown文件
+        const footer = document.querySelector('.container > div:last-child');
+        if (footer) {
+          footer.innerHTML += `
+            <br><p style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #e9ecef;">
+              📄 <a href="stats.md" target="_blank" style="color: #EF3A38;">查看原始统计数据文件</a>
+            </p>
+          `;
+        }
+        
+      } catch (error) {
+        console.error('加载stats.md失败:', error);
+      }
+    }
+    
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', loadStats);
   </script>
 </body>
 </html>

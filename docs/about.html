@@ -323,5 +323,32 @@ set GITHUB_TOKEN=your_token_here     # Windows
       </p>
     </div>
   </div>
+
+  <script>
+    // 加载并解析apropos.md文件
+    async function loadApropos() {
+      try {
+        const response = await fetch('apropos.md');
+        const markdown = await response.text();
+        
+        // apropos.md 包含作者信息和版本信息，保留当前的详细内容
+        // 在页面底部添加链接到原始Markdown文件
+        const footer = document.querySelector('.container > div:last-child');
+        if (footer) {
+          footer.innerHTML += `
+            <br><p style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #e9ecef;">
+              📄 <a href="apropos.md" target="_blank" style="color: #EF3A38;">查看原始项目介绍文件</a>
+            </p>
+          `;
+        }
+        
+      } catch (error) {
+        console.error('加载apropos.md失败:', error);
+      }
+    }
+    
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', loadApropos);
+  </script>
 </body>
 </html>

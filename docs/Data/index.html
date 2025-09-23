@@ -92,5 +92,57 @@
       </p>
     </div>
   </div>
+
+  <script>
+    // 自动扫描并加载报告目录
+    async function loadReports() {
+      const reportList = document.querySelector('.report-list');
+      reportList.innerHTML = '<li class="report-item"><div class="loading">📈 正在扫描报告目录...</div></li>';
+      
+      try {
+        // 这里可以通过API或目录扫描获取报告列表
+        // 目前使用静态列表
+        const reports = [
+          {
+            date: '2025-09-23',
+            path: '2025-W38-09-23/daily_20250923.md',
+            week: 'Week 38',
+            isLatest: true
+          },
+          {
+            date: '2025-09-22', 
+            path: '2025-W38-09-22/daily_20250922.md',
+            week: 'Week 38',
+            isLatest: false
+          }
+        ];
+        
+        reportList.innerHTML = '';
+        
+        reports.forEach(report => {
+          const li = document.createElement('li');
+          li.className = 'report-item';
+          li.innerHTML = `
+            <a href="${report.path}">
+              📈 ${report.date} 每日报告
+            </a>
+            <div class="report-date">${report.week}${report.isLatest ? ' - 最新' : ''}</div>
+          `;
+          reportList.appendChild(li);
+        });
+        
+      } catch (error) {
+        console.error('加载报告列表失败:', error);
+        reportList.innerHTML = `
+          <li class="report-item">
+            <div style="color: #dc3545;">🚨 加载失败，请刷新页面重试</div>
+          </li>
+        `;
+      }
+    }
+    
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', loadReports);
+  </script>
 </body>
 </html>

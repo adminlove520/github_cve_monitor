@@ -285,5 +285,32 @@
       </p>
     </div>
   </div>
+
+  <script>
+    // 加载并解析changelog.md文件
+    async function loadChangelog() {
+      try {
+        const response = await fetch('changelog.md');
+        const markdown = await response.text();
+        
+        // 如果Markdown文件有内容但比较简单，保留当前的静态内容
+        // 但在页面底部添加一个链接到原始Markdown文件
+        const footer = document.querySelector('.container > div:last-child');
+        if (footer) {
+          footer.innerHTML += `
+            <br><p style="text-align: center; margin-top: 20px; padding-top: 20px; border-top: 1px solid #e9ecef;">
+              📄 <a href="changelog.md" target="_blank" style="color: #EF3A38;">查看原始更新日志文件</a>
+            </p>
+          `;
+        }
+        
+      } catch (error) {
+        console.error('加载changelog.md失败:', error);
+      }
+    }
+    
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', loadChangelog);
+  </script>
 </body>
 </html>
