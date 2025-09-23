@@ -1,6 +1,6 @@
 {
   "date": "2025-09-23",
-  "count": 9,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2025-53770",
@@ -52,6 +52,13 @@
       "raw_date": "2025-09-23T06:07:00Z"
     },
     {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[amalpvatayam67/day10-nextjs-middleware-lab](https://github.com/amalpvatayam67/day10-nextjs-middleware-lab)",
+      "description": "Next.js middleware auth-bypass lab (CVE-2025-29927 simulation)",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T11:22:00Z"
+    },
+    {
       "cve_id": "CVE-2024-21413",
       "repo_info": "[yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-](https://github.com/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-)",
       "description": "no description",
@@ -66,9 +73,9 @@
       "raw_date": "2025-09-23T03:52:06Z"
     }
   ],
-  "generated_at": "2025-09-23T13:25:56.994371",
+  "generated_at": "2025-09-23T13:57:22.001091",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 10,
     "date_range": "2025-09-23",
     "source": "README.md",
     "script_version": "2.0"

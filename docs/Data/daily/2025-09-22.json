@@ -1,6 +1,6 @@
 {
   "date": "2025-09-22",
-  "count": 12,
+  "count": 13,
   "cves": [
     {
       "cve_id": "CVE-2025-8088",
@@ -59,6 +59,13 @@
       "raw_date": "2025-09-22T19:57:27Z"
     },
     {
+      "cve_id": "CVE-2023-6933",
+      "repo_info": "[Trex96/vulnerable-bsr-lab-CVE-2023-6933](https://github.com/Trex96/vulnerable-bsr-lab-CVE-2023-6933)",
+      "description": "no description",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T10:01:10Z"
+    },
+    {
       "cve_id": "CVE-2023-20048",
       "repo_info": "[oguzhanozuzun301/cisco-rv-rce-poc](https://github.com/oguzhanozuzun301/cisco-rv-rce-poc)",
       "description": "PoC and exploit scripts for CVE-2023-20048 - Remote Code Execution vulnerability affecting Cisco RV series routers.  Includes a vulnerability checker (PoC) and a working exploit for gaining remote shell access. For educational and research purposes only.",
@@ -87,9 +94,9 @@
       "raw_date": "2025-09-22T15:20:26Z"
     }
   ],
-  "generated_at": "2025-09-23T13:25:56.994152",
+  "generated_at": "2025-09-23T13:57:22.000847",
   "metadata": {
-    "total_cves": 12,
+    "total_cves": 13,
     "date_range": "2025-09-22",
     "source": "README.md",
     "script_version": "2.0"
