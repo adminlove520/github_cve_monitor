@@ -162,19 +162,19 @@
     
     <div class="stats-grid">
       <div class="stat-card">
-        <h3>27,113+</h3>
+        <h3 id="total-cves">📊 加载中...</h3>
         <p>总CVE记录数</p>
       </div>
       <div class="stat-card">
-        <h3 id="days-running">2</h3>
+        <h3 id="days-running">⏰ 计算中...</h3>
         <p>监控天数</p>
       </div>
       <div class="stat-card">
-        <h3>100%</h3>
+        <h3 id="system-uptime">⚙️ 检测中...</h3>
         <p>系统可用性</p>
       </div>
       <div class="stat-card">
-        <h3>5000</h3>
+        <h3 id="api-limit">🔄 获取中...</h3>
         <p>API限制/小时</p>
       </div>
     </div>
@@ -319,12 +319,82 @@
   </div>
 
   <script>
-    // 计算运行天数
-    const startDate = new Date('2025-09-22');
-    const currentDate = new Date();
-    const timeDiff = currentDate.getTime() - startDate.getTime();
-    const daysDiff = Math.ceil(timeDiff / (1000 * 3600 * 24));
-    document.getElementById('days-running').textContent = daysDiff;
+    // 动态加载统计数据
+    async function loadDynamicStats() {
+      try {
+        // 加载主报告统计
+        const readmeResponse = await fetch('README.md');
+        if (readmeResponse.ok) {
+          const markdown = await readmeResponse.text();
+          const lines = markdown.split('\n');
+          
+          let totalRecords = '无数据';
+          let updateTime = '未知';
+          
+          // 解析基本统计数据
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+            if (line.includes('生成时间')) {
+              const match = line.match(/(\d{4}-\d{2}-\d{2})/);
+              if (match) updateTime = match[1];
+            }
+            if (line.includes('总记录数')) {
+              const match = line.match(/(\d+)/);
+              if (match) totalRecords = parseInt(match[1]).toLocaleString();
+            }
+          }
+          
+          // 更新CVE总数
+          document.getElementById('total-cves').textContent = totalRecords + '+';
+          
+          // 计算监控天数
+          if (updateTime !== '未知') {
+            const startDate = new Date('2025-09-22'); // 项目启动日期
+            const currentDate = new Date(updateTime);
+            const daysDiff = Math.ceil((currentDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+            document.getElementById('days-running').textContent = Math.max(1, daysDiff);
+          } else {
+            // 如果无法获取更新时间，使用当前日期计算
+            const startDate = new Date('2025-09-22');
+            const currentDate = new Date();
+            const daysDiff = Math.ceil((currentDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+            document.getElementById('days-running').textContent = Math.max(1, daysDiff);
+          }
+        }
+        
+        // 加载系统状态
+        try {
+          const apiResponse = await fetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
+          if (apiResponse.ok) {
+            document.getElementById('system-uptime').textContent = '100%';
+            
+            // 获取API限制信息
+            const remainingRequests = apiResponse.headers.get('X-RateLimit-Remaining');
+            const totalRequests = apiResponse.headers.get('X-RateLimit-Limit');
+            if (totalRequests) {
+              document.getElementById('api-limit').textContent = totalRequests;
+            } else {
+              document.getElementById('api-limit').textContent = '5000';
+            }
+          } else {
+            document.getElementById('system-uptime').textContent = '检测失败';
+            document.getElementById('api-limit').textContent = '未知';
+          }
+        } catch (systemError) {
+          console.warn('系统状态检测失败:', systemError);
+          document.getElementById('system-uptime').textContent = '无法检测';
+          document.getElementById('api-limit').textContent = '无法获取';
+        }
+        
+      } catch (error) {
+        console.error('加载统计数据失败:', error);
+        // 显示错误信息
+        document.getElementById('total-cves').textContent = '加载失败';
+        document.getElementById('days-running').textContent = '加载失败';
+        document.getElementById('system-uptime').textContent = '加载失败';
+        document.getElementById('api-limit').textContent = '加载失败';
+      }
+    }
     
     // 加载并解析stats.md文件
     async function loadStats() {
@@ -333,7 +403,7 @@
         const markdown = await response.text();
         
         // stats.md 目前只有 "# COMING SOON"，所以保留当前的预览内容
-        // 在页面底部添加链接到原始Markdown文件
+        // 在页面底部添加链接到原始文件
         const footer = document.querySelector('.container > div:last-child');
         if (footer) {
           footer.innerHTML += `
@@ -349,7 +419,12 @@
     }
     
     // 页面加载完成后执行
-    document.addEventListener('DOMContentLoaded', loadStats);
+    document.addEventListener('DOMContentLoaded', async function() {
+      await Promise.all([
+        loadDynamicStats(),
+        loadStats()
+      ]);
+    });
   </script>
 </body>
 </html>

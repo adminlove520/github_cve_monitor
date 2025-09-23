@@ -71,17 +71,7 @@
     
     <ul class="report-list">
       <li class="report-item">
-        <a href="2025-W38-09-23/daily_20250923.md">
-          📊 2025-09-23 每日报告
-        </a>
-        <div class="report-date">Week 38 - 最新</div>
-      </li>
-      
-      <li class="report-item">
-        <a href="2025-W38-09-22/daily_20250922.md">
-          📊 2025-09-22 每日报告
-        </a>
-        <div class="report-date">Week 38</div>
+        <div class="loading">🔄 正在扫描报告目录...</div>
       </li>
     </ul>
     
@@ -206,45 +196,15 @@
       } catch (error) {
         console.error('加载报告列表失败:', error);
         
-        // 回退到静态列表
-        const fallbackReports = [
-          {
-            date: '2025-09-23',
-            path: '2025-W38-09-23/daily_20250923.md',
-            week: 'Week 38',
-            isLatest: true
-          },
-          {
-            date: '2025-09-22', 
-            path: '2025-W38-09-22/daily_20250922.md',
-            week: 'Week 38',
-            isLatest: false
-          }
-        ];
-        
-        reportList.innerHTML = '';
-        
-        fallbackReports.forEach(report => {
-          const li = document.createElement('li');
-          li.className = 'report-item';
-          li.innerHTML = `
-            <a href="${report.path}">
-              📈 ${report.date} 每日报告
-            </a>
-            <div class="report-date">${report.week}${report.isLatest ? ' - 最新' : ''} (静态)</div>
-          `;
-          reportList.appendChild(li);
-        });
-        
-        // 添加错误提示
-        const errorLi = document.createElement('li');
-        errorLi.className = 'report-item';
-        errorLi.innerHTML = `
-          <div style="color: #dc3545; font-size: 14px;">
-            ⚠️ 无法动态加载报告列表，显示静态列表。错误: ${error.message}
-          </div>
+        reportList.innerHTML = `
+          <li class="report-item">
+            <div style="color: #dc3545;">
+              🚨 无法加载报告列表
+              <br><small>API错误: ${error.message}</small>
+              <br><small>请检查网络连接或稍后重试</small>
+            </div>
+          </li>
         `;
-        reportList.appendChild(errorLi);
       }
     }
     

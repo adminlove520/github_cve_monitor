@@ -121,6 +121,33 @@
       border-color: #EF3A38;
       outline: none;
     }
+    .controls {
+      display: flex;
+      gap: 15px;
+      align-items: center;
+      margin: 20px 0;
+      flex-wrap: wrap;
+    }
+    .sort-select {
+      padding: 12px;
+      border: 2px solid #ddd;
+      border-radius: 8px;
+      font-size: 16px;
+      background: white;
+      min-width: 200px;
+    }
+    .sort-select:focus {
+      border-color: #EF3A38;
+      outline: none;
+    }
+    @media (max-width: 768px) {
+      .controls {
+        flex-direction: column;
+      }
+      .search-box, .sort-select {
+        width: 100%;
+      }
+    }
   </style>
 </head>
 <body>
@@ -134,11 +161,11 @@
     
     <div class="stats">
       <div class="stat-card">
-        <h3 id="total-records">27,113+</h3>
+        <h3 id="total-records">📊 加载中...</h3>
         <p>总记录数</p>
       </div>
       <div class="stat-card">
-        <h3 id="update-time">2025-09-23</h3>
+        <h3 id="update-time">⏰ 获取中...</h3>
         <p>最后更新</p>
       </div>
       <div class="stat-card">
@@ -147,8 +174,16 @@
       </div>
     </div>
     
-    <div style="margin: 30px 0;">
+    <div class="controls">
       <input type="text" class="search-box" id="searchBox" placeholder="🔍 搜索CVE编号、仓库名或描述...">
+      <select class="sort-select" id="sortSelect">
+        <option value="date-desc">📅 日期逆序 (最新在前)</option>
+        <option value="date-asc">📅 日期正序 (最早在前)</option>
+        <option value="cve-asc">🏷️ CVE编号正序</option>
+        <option value="cve-desc">🏷️ CVE编号逆序</option>
+        <option value="repo-asc">📁 仓库名正序</option>
+        <option value="repo-desc">📁 仓库名逆序</option>
+      </select>
     </div>
     
     <div class="data-table">
@@ -178,6 +213,8 @@
   </div>
 
   <script>
+    let cveData = []; // 存储解析后的CVE数据
+    
     // 加载并解析README.md文件
     async function loadREADME() {
       try {
@@ -186,8 +223,8 @@
         
         // 解析基本信息
         const lines = markdown.split('\n');
-        let totalRecords = '27,113+';
-        let updateTime = '2025-09-23';
+        let totalRecords = '无数据';
+        let updateTime = '未知';
         
         // 查找生成时间和总记录数
         for (let i = 0; i < lines.length; i++) {
@@ -212,17 +249,14 @@
           const tableSection = markdown.substring(tableStart);
           const tableLines = tableSection.split('\n').slice(2); // 跳过表头和分隔线
           
-          const tbody = document.getElementById('cveTableBody');
-          tbody.innerHTML = '';
+          cveData = []; // 清空数据
           
-          // 只显示前100条记录以提高性能
-          for (let i = 0; i < Math.min(tableLines.length, 100); i++) {
+          // 解析所有数据
+          for (let i = 0; i < tableLines.length; i++) {
             const line = tableLines[i].trim();
             if (line && line.startsWith('|')) {
               const cols = line.split('|').map(col => col.trim()).filter(col => col);
               if (cols.length >= 4) {
-                const row = tbody.insertRow();
-                
                 // CVE链接
                 const cveMatch = cols[0].match(/\[([^\]]+)\]\(([^)]+)\)/);
                 const cveText = cveMatch ? cveMatch[1] : cols[0];
@@ -233,25 +267,27 @@
                 const repoText = repoMatch ? repoMatch[1] : cols[1];
                 const repoLink = repoMatch ? repoMatch[2] : `https://github.com/${cols[1]}`;
                 
-                row.innerHTML = `
-                  <td><a href="${cveLink}" class="cve-link" target="_blank">${cveText}</a></td>
-                  <td><a href="${repoLink}" class="repo-link" target="_blank">${repoText}</a></td>
-                  <td>${cols[2]}</td>
-                  <td>${new Date(cols[3]).toLocaleDateString('zh-CN')}</td>
-                `;
+                // 解析日期
+                const dateStr = cols[3];
+                const dateObj = new Date(dateStr);
+                
+                cveData.push({
+                  cve: cveText,
+                  cveLink: cveLink,
+                  repo: repoText,
+                  repoLink: repoLink,
+                  description: cols[2],
+                  date: dateStr,
+                  dateObj: dateObj,
+                  originalIndex: i
+                });
               }
             }
           }
           
-          if (tableLines.length > 100) {
-            const moreRow = tbody.insertRow();
-            moreRow.innerHTML = `
-              <td colspan="4" style="text-align: center; color: #666; font-style: italic;">
-                📝 显示前100条记录，共${tableLines.length}条数据 | 
-                <a href="README.md" target="_blank" style="color: #EF3A38;">查看完整数据</a>
-              </td>
-            `;
-          }
+          // 默认按日期逆序排列
+          sortData('date-desc');
+          renderTable();
         }
         
         document.getElementById('loading').style.display = 'none';
@@ -263,21 +299,107 @@
       }
     }
     
-    // 页面加载完成后执行
-    document.addEventListener('DOMContentLoaded', loadREADME);
+    // 排序数据
+    function sortData(sortType) {
+      switch(sortType) {
+        case 'date-desc':
+          cveData.sort((a, b) => b.dateObj - a.dateObj);
+          break;
+        case 'date-asc':
+          cveData.sort((a, b) => a.dateObj - b.dateObj);
+          break;
+        case 'cve-asc':
+          cveData.sort((a, b) => a.cve.localeCompare(b.cve));
+          break;
+        case 'cve-desc':
+          cveData.sort((a, b) => b.cve.localeCompare(a.cve));
+          break;
+        case 'repo-asc':
+          cveData.sort((a, b) => a.repo.localeCompare(b.repo));
+          break;
+        case 'repo-desc':
+          cveData.sort((a, b) => b.repo.localeCompare(a.repo));
+          break;
+        default:
+          cveData.sort((a, b) => b.dateObj - a.dateObj);
+      }
+    }
+    
+    // 渲染表格
+    function renderTable(filteredData = null) {
+      const tbody = document.getElementById('cveTableBody');
+      tbody.innerHTML = '';
+      
+      const dataToRender = filteredData || cveData;
+      
+      // 只显示前100条记录以提高性能
+      const maxRecords = 100;
+      for (let i = 0; i < Math.min(dataToRender.length, maxRecords); i++) {
+        const item = dataToRender[i];
+        const row = tbody.insertRow();
+        
+        row.innerHTML = `
+          <td><a href="${item.cveLink}" class="cve-link" target="_blank">${item.cve}</a></td>
+          <td><a href="${item.repoLink}" class="repo-link" target="_blank">${item.repo}</a></td>
+          <td>${item.description}</td>
+          <td>${item.dateObj.toLocaleDateString('zh-CN')}</td>
+        `;
+      }
+      
+      if (dataToRender.length > maxRecords) {
+        const moreRow = tbody.insertRow();
+        moreRow.innerHTML = `
+          <td colspan="4" style="text-align: center; color: #666; font-style: italic;">
+            📝 显示前${maxRecords}条记录，共${dataToRender.length}条数据 | 
+            <a href="README.md" target="_blank" style="color: #EF3A38;">查看完整数据</a>
+          </td>
+        `;
+      }
+    }
     
     // 搜索功能
+    function filterData(searchTerm) {
+      if (!searchTerm) {
+        renderTable();
+        return;
+      }
+      
+      const filteredData = cveData.filter(item => {
+        return item.cve.toLowerCase().includes(searchTerm) ||
+               item.repo.toLowerCase().includes(searchTerm) ||
+               item.description.toLowerCase().includes(searchTerm);
+      });
+      
+      renderTable(filteredData);
+    }
+    
+    // 页面加载完成后执行
     document.addEventListener('DOMContentLoaded', function() {
+      loadREADME();
+      
+      // 搜索功能
       const searchBox = document.getElementById('searchBox');
       if (searchBox) {
         searchBox.addEventListener('input', function(e) {
           const searchTerm = e.target.value.toLowerCase();
-          const rows = document.querySelectorAll('#cveTableBody tr');
+          filterData(searchTerm);
+        });
+      }
+      
+      // 排序功能
+      const sortSelect = document.getElementById('sortSelect');
+      if (sortSelect) {
+        sortSelect.addEventListener('change', function(e) {
+          const sortType = e.target.value;
+          sortData(sortType);
           
-          rows.forEach(row => {
-            const text = row.textContent.toLowerCase();
-            row.style.display = text.includes(searchTerm) ? '' : 'none';
-          });
+          // 如果有搜索条件，重新应用搜索
+          const searchTerm = document.getElementById('searchBox').value.toLowerCase();
+          if (searchTerm) {
+            filterData(searchTerm);
+          } else {
+            renderTable();
+          }
         });
       }
     });
