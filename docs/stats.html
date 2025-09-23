@@ -287,9 +287,20 @@
 
   <script>
     // GitHub API调用函数（支持token认证）
-    function githubFetch(url, options = {}) {
-      // GitHub Personal Access Token (设置为环境变量或在此配置)
-      const GITHUB_TOKEN = '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'; // TODO: 移至环境变量
+    async function githubFetch(url, options = {}) {
+      // GitHub Personal Access Token - 将通过GitHub Actions动态生成
+      let GITHUB_TOKEN = '';
+      
+      // 在生产环境中，尝试从配置文件加载token
+      try {
+        const configResponse = await fetch('./config.json');
+        if (configResponse.ok) {
+          const config = await configResponse.json();
+          GITHUB_TOKEN = config.github_token || '';
+        }
+      } catch (e) {
+        console.warn('无法加载配置文件，使用公共API模式');
+      }
       
       const headers = {
         'Accept': 'application/vnd.github.v3+json',

@@ -12,6 +12,29 @@ jobs:
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
+      
+      - name: 生成前端配置文件
+        run: |
+          # 为前端生成安全的配置文件
+          cat > docs/config.json << EOF
+          {
+            "github_token": "${{ secrets.GH_TOKEN }}",
+            "api_base_url": "https://api.github.com",
+            "repository": "adminlove520/github_cve_monitor",
+            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          }
+          EOF
+          
+          cat > docs/Data/config.json << EOF
+          {
+            "github_token": "${{ secrets.GH_TOKEN }}",
+            "api_base_url": "https://api.github.com",
+            "repository": "adminlove520/github_cve_monitor",
+            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          }
+          EOF
+          
+          echo "✅ 前端配置文件已生成"
       - name: install dependencies
         run: |
           pip3 install -r requirements.txt

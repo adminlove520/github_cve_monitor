@@ -1,0 +1,7 @@
+{
+  "github_token": "your_token_here",
+  "api_base_url": "https://api.github.com",
+  "repository": "adminlove520/github_cve_monitor",
+  "generated_at": "2025-09-23T00:00:00Z",
+  "note": "这是示例配置文件，实际的config.json由GitHub Actions自动生成"
+}

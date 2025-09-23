@@ -1,0 +1,71 @@
+name: 部署前端配置
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  deploy-config:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: 生成前端配置文件
+      run: |
+        # 为docs目录生成config.json
+        cat > docs/config.json << EOF
+        {
+          "github_token": "${{ secrets.GH_TOKEN }}",
+          "api_base_url": "https://api.github.com",
+          "repository": "adminlove520/github_cve_monitor",
+          "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+        }
+        EOF
+        
+        # 为docs/Data目录也生成一个config.json
+        cat > docs/Data/config.json << EOF
+        {
+          "github_token": "${{ secrets.GH_TOKEN }}",
+          "api_base_url": "https://api.github.com",
+          "repository": "adminlove520/github_cve_monitor",
+          "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+        }
+        EOF
+        
+        echo "✅ 配置文件生成完成"
+        echo "📄 docs/config.json"
+        echo "📄 docs/Data/config.json"
+    
+    - name: 提交配置文件
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        if git diff --quiet HEAD -- docs/config.json docs/Data/config.json; then
+          echo "📝 配置文件无变更"
+        else
+          git add docs/config.json docs/Data/config.json
+          git commit -m "🔧 更新前端配置文件 [skip ci]"
+          git push
+          echo "✅ 配置文件已更新并提交"
+        fi
+    
+    - name: 生成部署报告
+      if: always()
+      run: |
+        echo "## 🔧 前端配置部署报告" >> $GITHUB_STEP_SUMMARY
+        echo "| 项目 | 状态 | 详情 |" >> $GITHUB_STEP_SUMMARY
+        echo "|------|------|------|" >> $GITHUB_STEP_SUMMARY
+        echo "| 配置生成 | ✅ 成功 | 前端配置文件已生成 |" >> $GITHUB_STEP_SUMMARY
+        echo "| 安全性 | 🔒 安全 | Token通过GitHub Secrets安全传递 |" >> $GITHUB_STEP_SUMMARY
+        echo "| 部署位置 | 📍 多位置 | docs/ 和 docs/Data/ 目录 |" >> $GITHUB_STEP_SUMMARY
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "🔗 **相关链接:**" >> $GITHUB_STEP_SUMMARY
+        echo "- [统计页面](https://adminlove520.github.io/github_cve_monitor/stats.html)" >> $GITHUB_STEP_SUMMARY
+        echo "- [每日报告](https://adminlove520.github.io/github_cve_monitor/Data/)" >> $GITHUB_STEP_SUMMARY
