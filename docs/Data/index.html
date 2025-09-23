@@ -84,19 +84,36 @@
   </div>
 
   <script>
+    // GitHub API调用函数（支持token认证）
+    function githubFetch(url, options = {}) {
+      // GitHub Personal Access Token
+      const GITHUB_TOKEN = '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'; // TODO: 移至环境变量
+      
+      const headers = {
+        'Accept': 'application/vnd.github.v3+json',
+        ...options.headers
+      };
+      
+      // 如果有token，添加认证头
+      if (GITHUB_TOKEN && GITHUB_TOKEN !== 'your_token_here') {
+        headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+      }
+      
+      return fetch(url, {
+        ...options,
+        headers
+      });
+    }
+    
     // 通过GitHub API自动扫描并加载报告目录
     async function loadReports() {
       const reportList = document.querySelector('.report-list');
       reportList.innerHTML = '<li class="report-item"><div class="loading">🔄 正在扫描报告目录...</div></li>';
       
       try {
-        // 使用GitHub公共API获取Data目录列表
+        // 使用GitHub认证API获取Data目录列表
         const apiUrl = 'https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data';
-        const response = await fetch(apiUrl, {
-          headers: {
-            'Accept': 'application/vnd.github.v3+json'
-          }
-        });
+        const response = await githubFetch(apiUrl);
         
         if (response.ok) {
           const data = await response.json();
@@ -129,7 +146,7 @@
             
             try {
               // 获取目录下的文件列表
-              const dirResponse = await fetch(`https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data/${dir.path}`);
+              const dirResponse = await githubFetch(`https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data/${dir.path}`);
               
               if (dirResponse.ok) {
                 const dirData = await dirResponse.json();

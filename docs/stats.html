@@ -286,14 +286,24 @@
   </div>
 
   <script>
-    // 创建公共API调用请求（已移除敏感token）
-    function publicFetch(url, options = {}) {
+    // GitHub API调用函数（支持token认证）
+    function githubFetch(url, options = {}) {
+      // GitHub Personal Access Token (设置为环境变量或在此配置)
+      const GITHUB_TOKEN = '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'; // TODO: 移至环境变量
+      
+      const headers = {
+        'Accept': 'application/vnd.github.v3+json',
+        ...options.headers
+      };
+      
+      // 如果有token，添加认证头
+      if (GITHUB_TOKEN && GITHUB_TOKEN !== 'your_token_here') {
+        headers['Authorization'] = `token ${GITHUB_TOKEN}`;
+      }
+      
       return fetch(url, {
         ...options,
-        headers: {
-          'Accept': 'application/vnd.github.v3+json',
-          ...options.headers
-        }
+        headers
       });
     }
     // 动态加载统计数据 - 优先API，降级到README
@@ -332,9 +342,9 @@
           console.warn('README.md读取失败');
         }
         
-        // 方案2: 尝试GitHub API（使用公共API）
+        // 方案2: 尝试GitHub API（使用认证token）
         try {
-          const apiResponse = await publicFetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
+          const apiResponse = await githubFetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
           
           if (apiResponse.ok) {
             const repoData = await apiResponse.json();
@@ -352,11 +362,11 @@
               monitoringDays = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24));
             }
             
-            console.log('✅ GitHub API调用成功 (公共API)');
+            console.log('✅ GitHub API调用成功 (认证API)');
           } else if (apiResponse.status === 403) {
-            console.warn('⚠️ 遇到速率限制，使用公共API限制');
+            console.warn('⚠️ 遇到速率限制，使用限制模式');
             systemUptime = '95%';
-            apiLimit = '公共限制';
+            apiLimit = '限制中';
           }
         } catch (apiError) {
           console.warn('🔄 API调用失败:', apiError.message);
