@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>更新日志 - Github CVE Monitor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 20px;
+      background-color: #f8f9fa;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      background: white;
+      padding: 30px;
+      border-radius: 8px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 40px;
+      padding-bottom: 20px;
+      border-bottom: 2px solid #EF3A38;
+    }
+    .header h1 {
+      color: #EF3A38;
+      margin: 0;
+    }
+    .version {
+      background: white;
+      border: 1px solid #e9ecef;
+      border-radius: 8px;
+      margin: 20px 0;
+      overflow: hidden;
+    }
+    .version-header {
+      background: linear-gradient(135deg, #EF3A38, #ff6b6b);
+      color: white;
+      padding: 15px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    .version-title {
+      font-size: 1.3em;
+      font-weight: 600;
+      margin: 0;
+    }
+    .version-date {
+      font-size: 0.9em;
+      opacity: 0.9;
+    }
+    .version-content {
+      padding: 20px;
+    }
+    .change-section {
+      margin-bottom: 20px;
+    }
+    .change-section h4 {
+      color: #333;
+      margin: 0 0 10px 0;
+      font-size: 1.1em;
+    }
+    .change-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .change-item {
+      display: flex;
+      align-items: flex-start;
+      margin: 8px 0;
+      padding: 8px;
+      border-radius: 4px;
+      background: #f8f9fa;
+    }
+    .change-icon {
+      margin-right: 10px;
+      font-size: 1.1em;
+    }
+    .roadmap {
+      background: #f8f9fa;
+      border-radius: 8px;
+      padding: 20px;
+      margin: 30px 0;
+    }
+    .roadmap h3 {
+      color: #EF3A38;
+      margin-top: 0;
+    }
+    .status-badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 12px;
+      font-size: 0.8em;
+      font-weight: 500;
+      margin-right: 8px;
+    }
+    .status-completed { background: #d4edda; color: #155724; }
+    .status-progress { background: #fff3cd; color: #856404; }
+    .status-planned { background: #d1ecf1; color: #0c5460; }
+    .back-link {
+      display: inline-block;
+      margin-bottom: 20px;
+      color: #EF3A38;
+      text-decoration: none;
+      font-weight: 500;
+    }
+    .back-link:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <a href="./" class="back-link">← 返回首页</a>
+    
+    <div class="header">
+      <h1>📝 更新日志</h1>
+      <p style="color: #666;">项目版本更新和改进记录</p>
+    </div>
+    
+    <div class="version">
+      <div class="version-header">
+        <div class="version-title">版本 2.1</div>
+        <div class="version-date">2025-09-22</div>
+      </div>
+      <div class="version-content">
+        <div class="change-section">
+          <h4>✨ 新增功能</h4>
+          <ul class="change-list">
+            <li class="change-item">
+              <span class="change-icon">🔄</span>
+              <span>实现自动化CVE监控系统</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">📊</span>
+              <span>生成每日情报速递报告</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">🌐</span>
+              <span>集成GitHub Pages展示界面</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">📝</span>
+              <span>添加Markdown格式报告生成</span>
+            </li>
+          </ul>
+        </div>
+        
+        <div class="change-section">
+          <h4>🚀 改进优化</h4>
+          <ul class="change-list">
+            <li class="change-item">
+              <span class="change-icon">⚡</span>
+              <span>优化数据获取性能</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">📈</span>
+              <span>改进报告生成逻辑</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">🎨</span>
+              <span>美化输出格式和界面设计</span>
+            </li>
+          </ul>
+        </div>
+        
+        <div class="change-section">
+          <h4>🐛 修复问题</h4>
+          <ul class="change-list">
+            <li class="change-item">
+              <span class="change-icon">🔧</span>
+              <span>修复CVE字段解析错误</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">🌐</span>
+              <span>解决API限制问题</span>
+            </li>
+            <li class="change-item">
+              <span class="change-icon">📱</span>
+              <span>修复移动端显示问题</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+    <div class="version">
+      <div class="version-header">
+        <div class="version-title">版本 2.0c</div>
+        <div class="version-date">2025-09-21</div>
+      </div>
+      <div class="version-content">
+        <div class="change-section">
+          <h4>🐛 修复问题</h4>
+          <ul class="change-list">
+            <li class="change-item">
+              <span class="change-icon">🔧</span>
+              <span>修复CVE字段的bug</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+    <div class="version">
+      <div class="version-header">
+        <div class="version-title">版本 2.0b</div>
+        <div class="version-date">2025-09-20</div>
+      </div>
+      <div class="version-content">
+        <div class="change-section">
+          <h4>✨ 新增功能</h4>
+          <ul class="change-list">
+            <li class="change-item">
+              <span class="change-icon">📋</span>
+              <span>按CVE排序功能</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    
+    <div class="roadmap">
+      <h3>🗺️ 项目路线图</h3>
+      
+      <h4>即将发布 (v2.2)</h4>
+      <div style="margin-bottom: 20px;">
+        <div class="change-item">
+          <span class="status-badge status-progress">进行中</span>
+          <span><strong>通知集成</strong> - 添加钉钉、飞书推送每日情报速递报告</span>
+        </div>
+        <div class="change-item">
+          <span class="status-badge status-progress">进行中</span>
+          <span><strong>多语言支持</strong> - 添加描述翻译功能（有道+Google Translate）</span>
+        </div>
+        <div class="change-item">
+          <span class="status-badge status-progress">进行中</span>
+          <span><strong>统计功能</strong> - 添加统计功能和趋势分析</span>
+        </div>
+      </div>
+      
+      <h4>计划中 (v3.0)</h4>
+      <div style="margin-bottom: 20px;">
+        <div class="change-item">
+          <span class="status-badge status-planned">待办</span>
+          <span><strong>API限制绕过</strong> - 实现更高效的API调用策略</span>
+        </div>
+        <div class="change-item">
+          <span class="status-badge status-planned">待办</span>
+          <span><strong>实时监控</strong> - 支持实时CVE监控和即时通知</span>
+        </div>
+        <div class="change-item">
+          <span class="status-badge status-planned">待办</span>
+          <span><strong>数据分析</strong> - 高级数据分析和可视化</span>
+        </div>
+      </div>
+      
+      <h4>已完成</h4>
+      <div>
+        <div class="change-item">
+          <span class="status-badge status-completed">已完成</span>
+          <span><strong>CVE提取</strong> - 基础CVE提取和处理功能</span>
+        </div>
+        <div class="change-item">
+          <span class="status-badge status-completed">已完成</span>
+          <span><strong>API增强</strong> - 增加API调用响应数量</span>
+        </div>
+        <div class="change-item">
+          <span class="status-badge status-completed">已完成</span>
+          <span><strong>自动化部署</strong> - GitHub Actions工作流</span>
+        </div>
+      </div>
+    </div>
+    
+    <div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #e9ecef;">
+      <p style="color: #666;">
+        💡 有建议或发现问题？请访问 
+        <a href="https://github.com/adminlove520/github_cve_monitor/issues" target="_blank" style="color: #EF3A38;">GitHub Issues</a>
+      </p>
+    </div>
+  </div>
+</body>
+</html>
