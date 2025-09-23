@@ -28,9 +28,11 @@ jobs:
           git commit --all --message "Updated by CVE-Bot 🤖" || echo "no changes to commit"
           git push
       - name: 部署到GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          folder: docs  # 包含网站内容的文件夹
-          branch: gh-pages  # 目标分支
-          clean: true  # 清除旧文件
-          token: ${{ secrets.GH_TOKEN }}  # 使用已有的Token
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          force_orphan: true
+          allow_empty_commit: false
+          commit_message: Updated by CVE-Bot 🤖
