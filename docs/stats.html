@@ -285,18 +285,15 @@
       try {
         // 方案1: 尝试从README.md获取真实数据（优先，因为更可靠）
         try {
-          console.log('📋 尝试读取README.md...');
           const readmeResponse = await fetch('./README.md');
           
           if (readmeResponse.ok) {
             const markdown = await readmeResponse.text();
-            console.log('✅ README.md读取成功，长度:', markdown.length);
             
             // 解析总记录数
             const recordsMatch = markdown.match(/总记录数.*?(\d+)/);
             if (recordsMatch) {
               totalRecords = parseInt(recordsMatch[1]).toLocaleString();
-              console.log('✅ 从README获取CVE总数:', totalRecords);
             }
             
             // 解析生成时间
@@ -305,23 +302,18 @@
               const updateDate = new Date(timeMatch[1]);
               const estimatedStartDate = new Date('2024-01-01');
               monitoringDays = Math.ceil((updateDate - estimatedStartDate) / (1000 * 60 * 60 * 24));
-              console.log('✅ 根据README计算监控天数:', monitoringDays);
             }
-          } else {
-            console.warn('⚠️ README.md响应失败:', readmeResponse.status);
           }
         } catch (readmeError) {
-          console.warn('⚠️ README.md读取失败:', readmeError.message);
+          console.warn('README.md读取失败');
         }
         
         // 方案2: 尝试GitHub API（用于获取精确信息）
         try {
-          console.log('🔗 尝试GitHub API...');
           const apiResponse = await fetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
           
           if (apiResponse.ok) {
             const repoData = await apiResponse.json();
-            console.log('✅ GitHub API调用成功');
             
             systemUptime = '100%';
             const rateLimitHeader = apiResponse.headers.get('X-RateLimit-Limit');
@@ -334,18 +326,14 @@
               const repoCreatedAt = new Date(repoData.created_at);
               const currentDate = new Date();
               monitoringDays = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24));
-              console.log('✅ 根据API计算精确监控天数:', monitoringDays);
             }
-          } else {
-            console.warn('⚠️ GitHub API响应失败:', apiResponse.status);
           }
         } catch (apiError) {
-          console.warn('⚠️ GitHub API调用失败:', apiError.message);
           // API失败不影响显示，使用README数据即可
         }
         
       } catch (error) {
-        console.error('❌ 统计数据加载出现错误:', error);
+        console.error('统计数据加载出现错误:', error);
       }
       
       // 最终更新显示（确保有合理的值）
@@ -353,13 +341,6 @@
       document.getElementById('days-running').textContent = Math.max(1, monitoringDays || 300);
       document.getElementById('system-uptime').textContent = systemUptime;
       document.getElementById('api-limit').textContent = apiLimit;
-      
-      console.log('✅ 统计数据更新完成:', {
-        totalRecords,
-        monitoringDays,
-        systemUptime,
-        apiLimit
-      });
     }
     
     // 分析CVE数据并生成分类统计
@@ -1020,8 +1001,6 @@
       document.getElementById('api-limit').textContent = '🔄 获取中...';
       
       console.log('开始加载统计数据...');
-      console.log('当前页面URL:', window.location.href);
-      console.log('当前域名:', window.location.hostname);
       
       await Promise.all([
         loadDynamicStats().catch(err => console.error('loadDynamicStats失败:', err)),
@@ -1029,8 +1008,6 @@
         analyzeCVEData().catch(err => console.error('analyzeCVEData失败:', err)),
         loadDailyTrend().catch(err => console.error('loadDailyTrend失败:', err))
       ]);
-      
-      console.log('统计数据加载完成');
     });
   </script>
 </body>
