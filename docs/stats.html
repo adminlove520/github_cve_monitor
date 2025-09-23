@@ -275,52 +275,14 @@
     // 动态加载统计数据
     async function loadDynamicStats() {
       try {
-        // 加载主报告统计
-        const readmeResponse = await fetch('README.md');
-        if (readmeResponse.ok) {
-          const markdown = await readmeResponse.text();
-          const lines = markdown.split('\n');
-          
-          let totalRecords = '无数据';
-          let updateTime = '未知';
-          
-          // 解析基本统计数据
-          for (let i = 0; i < lines.length; i++) {
-            const line = lines[i];
-            if (line.includes('生成时间')) {
-              const match = line.match(/(\d{4}-\d{2}-\d{2})/);
-              if (match) updateTime = match[1];
-            }
-            if (line.includes('总记录数')) {
-              const match = line.match(/(\d+)/);
-              if (match) totalRecords = parseInt(match[1]).toLocaleString();
-            }
-          }
-          
-          // 更新CVE总数
-          document.getElementById('total-cves').textContent = totalRecords + '+';
-          
-          // 获取仓库创建时间并计算监控天数
-          const repoData = await apiResponse.json();
-          const repoCreatedAt = new Date(repoData.created_at);
-          
-          // 计算监控天数
-          if (updateTime !== '未知') {
-            const currentDate = new Date(updateTime);
-            const daysDiff = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24)) + 1;
-            document.getElementById('days-running').textContent = Math.max(1, daysDiff);
-          } else {
-            // 如果无法获取更新时间，使用当前日期计算
-            const currentDate = new Date();
-            const daysDiff = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24)) + 1;
-            document.getElementById('days-running').textContent = Math.max(1, daysDiff);
-          }
-        }
-        
-        // 加载系统状态
+        // 1. 首先获取GitHub仓库信息，用于计算监控天数和系统状态
+        let repoData = null;
         try {
           const apiResponse = await fetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
           if (apiResponse.ok) {
+            repoData = await apiResponse.json();
+            
+            // 更新系统可用性
             document.getElementById('system-uptime').textContent = '100%';
             
             // 获取API限制信息
@@ -332,13 +294,84 @@
               document.getElementById('api-limit').textContent = '5000';
             }
           } else {
-            document.getElementById('system-uptime').textContent = '检测失败';
-            document.getElementById('api-limit').textContent = '未知';
+            throw new Error('GitHub API响应失败');
           }
-        } catch (systemError) {
-          console.warn('系统状态检测失败:', systemError);
-          document.getElementById('system-uptime').textContent = '无法检测';
-          document.getElementById('api-limit').textContent = '无法获取';
+        } catch (apiError) {
+          console.warn('GitHub API调用失败:', apiError);
+          document.getElementById('system-uptime').textContent = '检测失败';
+          document.getElementById('api-limit').textContent = '未知';
+        }
+        
+        // 2. 加载并解析README.md文件获取CVE统计数据
+        try {
+          const readmeResponse = await fetch('README.md');
+          if (readmeResponse.ok) {
+            const markdown = await readmeResponse.text();
+            const lines = markdown.split('\n');
+            
+            let totalRecords = '无数据';
+            let updateTime = '未知';
+            
+            // 解析基本统计数据
+            for (let i = 0; i < lines.length; i++) {
+              const line = lines[i];
+              
+              // 查找生成时间
+              if (line.includes('生成时间') || line.includes('更新时间')) {
+                const timeMatch = line.match(/(\d{4}-\d{2}-\d{2})/); 
+                if (timeMatch) {
+                  updateTime = timeMatch[1];
+                }
+              }
+              
+              // 查找总记录数
+              if (line.includes('总记录数') || line.includes('记录总数') || line.includes('Total')) {
+                const countMatch = line.match(/(\d+)/);
+                if (countMatch) {
+                  totalRecords = parseInt(countMatch[1]).toLocaleString();
+                }
+              }
+              
+              // 也尝试从表格行数推算总数
+              if (line.startsWith('| [CVE-') && totalRecords === '无数据') {
+                // 如果找不到明确的总数，尝试计算表格行数
+                const remainingLines = lines.slice(i);
+                const tableRows = remainingLines.filter(l => l.startsWith('| [CVE-')).length;
+                if (tableRows > 0) {
+                  totalRecords = tableRows.toLocaleString();
+                }
+              }
+            }
+            
+            // 更新CVE总数
+            document.getElementById('total-cves').textContent = totalRecords === '无数据' ? '数据加载中...' : totalRecords;
+            
+            // 3. 计算监控天数
+            if (repoData && repoData.created_at) {
+              const repoCreatedAt = new Date(repoData.created_at);
+              
+              if (updateTime !== '未知') {
+                // 使用数据更新时间计算
+                const currentDate = new Date(updateTime);
+                const daysDiff = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24)) + 1;
+                document.getElementById('days-running').textContent = Math.max(1, daysDiff);
+              } else {
+                // 使用当前时间计算
+                const currentDate = new Date();
+                const daysDiff = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24)) + 1;
+                document.getElementById('days-running').textContent = Math.max(1, daysDiff);
+              }
+            } else {
+              document.getElementById('days-running').textContent = '计算失败';
+            }
+            
+          } else {
+            throw new Error('无法加载README.md文件');
+          }
+        } catch (readmeError) {
+          console.error('README.md加载失败:', readmeError);
+          document.getElementById('total-cves').textContent = '加载失败';
+          document.getElementById('days-running').textContent = '加载失败';
         }
         
       } catch (error) {
