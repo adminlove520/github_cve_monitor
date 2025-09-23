@@ -88,6 +88,14 @@
       <p>基于GitHub Actions的自动化安全情报收集工具</p>
     </div>
 
+    <!-- 最新报告预览 -->
+    <div id="latest-report" class="stats" style="display: none;">
+      <h3>📅 最新每日报告</h3>
+      <div id="latest-report-content">
+        <p>🔄 正在加载最新报告...</p>
+      </div>
+    </div>
+
     <div class="nav">
       <a href="reports.html" class="nav-item">
         <h3>📋 监控报告</h3>
@@ -122,7 +130,7 @@
     
     <div class="stats">
       <h3>最新数据</h3>
-      <p>总记录数: 27,113+ | 更新时间: 2025-09-23</p>
+      <p id="dynamic-stats">🔄 正在加载数据...</p>
     </div>
 
     <div class="footer">
@@ -131,5 +139,140 @@
       </p>
     </div>
   </div>
+
+  <script>
+    // 自动扫描Data目录获取报告列表
+    async function scanDataDirectory() {
+      try {
+        // 尝试通过GitHub API获取目录列表
+        const apiUrl = 'https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data';
+        const response = await fetch(apiUrl);
+        
+        if (response.ok) {
+          const data = await response.json();
+          const directories = data.filter(item => item.type === 'dir')
+                                 .map(dir => dir.name)
+                                 .sort((a, b) => b.localeCompare(a)); // 按日期降序
+          return directories;
+        } else {
+          throw new Error('API 调用失败');
+        }
+      } catch (error) {
+        console.warn('无法通过API获取目录列表:', error);
+        // 回退到静态列表
+        return ['2025-W38-09-23', '2025-W38-09-22'];
+      }
+    }
+
+    // 加载最新报告预览
+    async function loadLatestReport() {
+      try {
+        const directories = await scanDataDirectory();
+        if (directories.length === 0) return;
+
+        const latestDir = directories[0];
+        const reportFiles = ['daily_' + latestDir.split('-').slice(-1)[0].replace('-', '') + '.md'];
+        
+        // 尝试加载最新报告的头部信息
+        const reportUrl = `Data/${latestDir}/${reportFiles[0]}`;
+        const response = await fetch(reportUrl);
+        
+        if (response.ok) {
+          const markdown = await response.text();
+          const lines = markdown.split('\n');
+          
+          // 提取报告信息
+          let reportInfo = {
+            title: '每日情报速递',
+            date: latestDir.split('-').slice(-1)[0],
+            totalRecords: '0',
+            updateTime: '未知'
+          };
+          
+          for (let i = 0; i < Math.min(lines.length, 20); i++) {
+            const line = lines[i];
+            if (line.includes('生成时间')) {
+              const match = line.match(/(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})/);
+              if (match) reportInfo.updateTime = match[1];
+            }
+            if (line.includes('总记录数')) {
+              const match = line.match(/(\d+)/);
+              if (match) reportInfo.totalRecords = parseInt(match[1]).toLocaleString();
+            }
+          }
+          
+          // 显示最新报告信息
+          const latestReportDiv = document.getElementById('latest-report');
+          const contentDiv = document.getElementById('latest-report-content');
+          
+          contentDiv.innerHTML = `
+            <p>📅 <strong>${reportInfo.date}</strong> | 📈 新增记录: ${reportInfo.totalRecords} | ⏰ ${reportInfo.updateTime}</p>
+            <a href="${reportUrl}" target="_blank" style="color: white; text-decoration: underline;">查看完整报告 →</a>
+          `;
+          
+          latestReportDiv.style.display = 'block';
+          
+          // 更新底部统计数据
+          const statsElement = document.getElementById('dynamic-stats');
+          statsElement.innerHTML = `总记录数: ${reportInfo.totalRecords}+ | 更新时间: ${reportInfo.updateTime.split(' ')[0]}`;
+          
+        } else {
+          throw new Error('无法加载报告文件');
+        }
+        
+      } catch (error) {
+        console.error('加载最新报告失败:', error);
+        // 显示错误信息
+        const statsElement = document.getElementById('dynamic-stats');
+        if (statsElement) {
+          statsElement.innerHTML = '总记录数: 27,113+ | 更新时间: 2025-09-23 (静态)';
+        }
+      }
+    }
+
+    // 加载全量报告统计信息
+    async function loadMainReportStats() {
+      try {
+        const response = await fetch('README.md');
+        if (response.ok) {
+          const markdown = await response.text();
+          const lines = markdown.split('\n');
+          
+          let totalRecords = '27,113+';
+          let updateTime = '2025-09-23';
+          
+          // 查找生成时间和总记录数
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+            if (line.includes('生成时间')) {
+              const match = line.match(/\d{4}-\d{2}-\d{2}/);
+              if (match) updateTime = match[0];
+            }
+            if (line.includes('总记录数')) {
+              const match = line.match(/\d+/);
+              if (match) totalRecords = parseInt(match[0]).toLocaleString() + '+';
+            }
+          }
+          
+          // 更新统计数据（如果没有每日报告数据）
+          const statsElement = document.getElementById('dynamic-stats');
+          if (statsElement && statsElement.textContent.includes('正在加载')) {
+            statsElement.innerHTML = `总记录数: ${totalRecords} | 更新时间: ${updateTime}`;
+          }
+        }
+      } catch (error) {
+        console.error('加载主报告统计失败:', error);
+      }
+    }
+
+    // 页面加载完成后执行
+    document.addEventListener('DOMContentLoaded', async function() {
+      // 并行加载数据
+      await Promise.all([
+        loadLatestReport(),
+        loadMainReportStats()
+      ]);
+    });
+  </script>
 </body>
 </html>
