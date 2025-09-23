@@ -37,7 +37,7 @@ db.connect()
 db.create_tables([CVE_DB])
 
 def init_file():
-    newline = "# Github CVE Monitor\n\n> Automatic monitor github cve using Github Actions \n\n Last generated : {}\n\n| CVE | 名称 | 描述 | 日期 |\n|---|---|---|---|\n".format(datetime.now())
+    newline = "# Github CVE Monitor\n\n> Automatic monitor github cve using Github Actions \n\n Last generated : {}\n\n| CVE | 相关仓库（poc/exp） | 描述 | 日期 |\n|---|---|---|---|\n".format(datetime.now())
     with open('docs/README.md','w', encoding='utf-8') as f:
         f.write(newline) 
     f.close()
@@ -73,7 +73,7 @@ def init_daily_file(date_str):
 
 ## 今日 情报速递
 
-| CVE | 名称 | 描述 | 日期 |
+| CVE | 相关仓库（poc/exp） | 描述 | 日期 |
 |:---|:---|:---|:---|
 """
     
@@ -331,9 +331,9 @@ def main():
 - **数据来源**: GitHub CVE 数据库
 - **总记录数**: {len(result)}
 
-## CVE 完整列表
+## 全量数据报告
 
-| CVE | 名称 | 描述 | 日期 |
+| CVE | 相关仓库（poc/exp） | 描述 | 日期 |
 |:---|:---|:---|:---|
 """
     write_file(newline, overwrite=True) # 首次写入时覆盖文件
