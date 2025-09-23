@@ -1,0 +1,34 @@
+{
+  "date": "2018-01-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8570",
+      "repo_info": "[sigbitsadmin/diff](https://github.com/sigbitsadmin/diff)",
+      "description": "Simply diff for CVE-2017-0785",
+      "date": "2018-01-07",
+      "raw_date": "2018-01-07T18:30:42Z"
+    },
+    {
+      "cve_id": "CVE-2017-5753",
+      "repo_info": "[albertleecn/cve-2017-5753](https://github.com/albertleecn/cve-2017-5753)",
+      "description": "OSX 10.13.2, CVE-2017-5753, Spectre, PoC, C, ASM for OSX, MAC, Intel Arch, Proof of Concept, Hopper.App Output",
+      "date": "2018-01-07",
+      "raw_date": "2018-01-07T02:46:38Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[Manouchehri/hitron-cfg-decrypter](https://github.com/Manouchehri/hitron-cfg-decrypter)",
+      "description": "CVE-2014-10069",
+      "date": "2018-01-07",
+      "raw_date": "2018-01-07T14:37:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.599445",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-01-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2022-01-04",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0147",
+      "repo_info": "[RobertoLeonFR-ES/Exploit-Win32.CVE-2017-0147.A](https://github.com/RobertoLeonFR-ES/Exploit-Win32.CVE-2017-0147.A)",
+      "description": "the name of virus is the detection of microsoft defender, is the tipic antivirus",
+      "date": "2022-01-04",
+      "raw_date": "2022-01-04T10:25:39Z"
+    },
+    {
+      "cve_id": "CVE-2014-7205",
+      "repo_info": "[AndrewTrube/CVE-2014-7205](https://github.com/AndrewTrube/CVE-2014-7205)",
+      "description": "Bassmaster Plugin NodeJS RCE",
+      "date": "2022-01-04",
+      "raw_date": "2022-01-04T02:59:32Z"
+    },
+    {
+      "cve_id": "CVE-2012-2593",
+      "repo_info": "[AndrewTrube/CVE-2012-2593](https://github.com/AndrewTrube/CVE-2012-2593)",
+      "description": "Atmail XSS-CSRF-RCE Exploit Chain",
+      "date": "2022-01-04",
+      "raw_date": "2022-01-04T02:47:46Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.660395",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-01-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

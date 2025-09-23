@@ -1,0 +1,41 @@
+{
+  "date": "2021-10-19",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-13933",
+      "repo_info": "[KingBangQ/CVE-2020-13933Project](https://github.com/KingBangQ/CVE-2020-13933Project)",
+      "description": "此项目为复现CVE-2020-13933 shiro漏洞所搭建的简易springboot+shiro项目",
+      "date": "2021-10-19",
+      "raw_date": "2021-10-19T09:33:46Z"
+    },
+    {
+      "cve_id": "CVE-2019-6339",
+      "repo_info": "[Vulnmachines/drupal-cve-2019-6339](https://github.com/Vulnmachines/drupal-cve-2019-6339)",
+      "description": "Drupal remote code execution vulnerabilty",
+      "date": "2021-10-19",
+      "raw_date": "2021-10-19T06:59:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-3980",
+      "repo_info": "[Barbarisch/CVE-2019-3980](https://github.com/Barbarisch/CVE-2019-3980)",
+      "description": "CVE-2019-3980 exploit written in win32/c++ (openssl dependency). Port of https://github.com/tenable/poc/blob/master/Solarwinds/Dameware/dwrcs_dwDrvInst_rce.py",
+      "date": "2021-10-19",
+      "raw_date": "2021-10-19T18:28:47Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[bibo318/kali-CVE-2019-0708-lab](https://github.com/bibo318/kali-CVE-2019-0708-lab)",
+      "description": "no description",
+      "date": "2021-10-19",
+      "raw_date": "2021-10-19T06:49:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.582415",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-10-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

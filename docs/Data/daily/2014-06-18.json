@@ -1,0 +1,20 @@
+{
+  "date": "2014-06-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-3137",
+      "repo_info": "[r1-/cve-2012-3137](https://github.com/r1-/cve-2012-3137)",
+      "description": "Exploit for cve-2012-3137 Oracle challenge",
+      "date": "2014-06-18",
+      "raw_date": "2014-06-18T16:23:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.310110",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-06-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

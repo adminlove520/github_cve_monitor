@@ -1,0 +1,20 @@
+{
+  "date": "2014-04-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[adrienthebo/cve-2014-2734](https://github.com/adrienthebo/cve-2014-2734)",
+      "description": "I think this CVE is full of lies and deceit and very confusing code.",
+      "date": "2014-04-17",
+      "raw_date": "2014-04-17T06:51:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.301044",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-04-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

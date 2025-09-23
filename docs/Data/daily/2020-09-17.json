@@ -1,0 +1,41 @@
+{
+  "date": "2020-09-17",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-25265",
+      "repo_info": "[refi64/CVE-2020-25265-25266](https://github.com/refi64/CVE-2020-25265-25266)",
+      "description": "no description",
+      "date": "2020-09-17",
+      "raw_date": "2020-09-17T20:25:02Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[zeronetworks/zerologon](https://github.com/zeronetworks/zerologon)",
+      "description": "Test script for CVE-2020-1472 for both RPC/TCP and RPC/SMB",
+      "date": "2020-09-17",
+      "raw_date": "2020-09-17T16:53:17Z"
+    },
+    {
+      "cve_id": "CVE-2019-11510",
+      "repo_info": "[pwn3z/CVE-2019-11510-PulseVPN](https://github.com/pwn3z/CVE-2019-11510-PulseVPN)",
+      "description": "no description",
+      "date": "2020-09-17",
+      "raw_date": "2020-09-17T17:53:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-13379",
+      "repo_info": "[pwn3z/CVE-2018-13379-FortinetVPN](https://github.com/pwn3z/CVE-2018-13379-FortinetVPN)",
+      "description": "no description",
+      "date": "2020-09-17",
+      "raw_date": "2020-09-17T18:00:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.203566",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

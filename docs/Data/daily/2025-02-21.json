@@ -1,0 +1,69 @@
+{
+  "date": "2025-02-21",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-26466",
+      "repo_info": "[dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466](https://github.com/dolutech/patch-manual-CVE-2025-26465-e-CVE-2025-26466)",
+      "description": "Patch Manual para a correção das  CVE-2025-26465-e-CVE-2025-26466, para sistemas sem update do OpenSSH",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T09:19:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-0924",
+      "repo_info": "[skrkcb2/CVE-2025-0924](https://github.com/skrkcb2/CVE-2025-0924)",
+      "description": "no description",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T04:49:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-43583",
+      "repo_info": "[Kvngtheta/CVE-2024-43583-PoC](https://github.com/Kvngtheta/CVE-2024-43583-PoC)",
+      "description": "Proof of Concept for CVE-2024-43583",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T19:37:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[funixone/CVE-2024-24919---Exploit-Script](https://github.com/funixone/CVE-2024-24919---Exploit-Script)",
+      "description": "no description",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T16:36:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-22243",
+      "repo_info": "[Reivap/CVE-2024-22243](https://github.com/Reivap/CVE-2024-22243)",
+      "description": "Code used from @SeanPesce",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T05:03:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-1698",
+      "repo_info": "[X3RX3SSec/CVE-2023-1698](https://github.com/X3RX3SSec/CVE-2023-1698)",
+      "description": "CVE-2023-1698 Proof of Concept (PoC)",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T15:38:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-35978",
+      "repo_info": "[Seriousattempts/Bootloader_Unlock_Retroid_Pocket_3Plus](https://github.com/Seriousattempts/Bootloader_Unlock_Retroid_Pocket_3Plus)",
+      "description": "Bootloader unlock using CVE-2022-38694 for Retroid Pocket 3+",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T06:55:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-9338",
+      "repo_info": "[Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338](https://github.com/Pazhanivelmani/frameworks_base_Android_6.0.1_r22_CVE-2018-9338)",
+      "description": "no description",
+      "date": "2025-02-21",
+      "raw_date": "2025-02-21T12:06:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.935176",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2025-02-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

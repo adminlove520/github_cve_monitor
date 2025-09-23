@@ -1,0 +1,55 @@
+{
+  "date": "2023-06-26",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-35844",
+      "repo_info": "[Szlein/CVE-2023-35844](https://github.com/Szlein/CVE-2023-35844)",
+      "description": "Lightdash文件读取漏洞（CVE-2023-35844）",
+      "date": "2023-06-26",
+      "raw_date": "2023-06-26T10:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-34598",
+      "repo_info": "[Szlein/CVE-2023-34598](https://github.com/Szlein/CVE-2023-34598)",
+      "description": "Gibbon本地文件包含漏洞（CVE-2023-34598）",
+      "date": "2023-06-26",
+      "raw_date": "2023-06-26T15:14:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-32243",
+      "repo_info": "[manavvedawala/CVE-2023-32243-proof-of-concept](https://github.com/manavvedawala/CVE-2023-32243-proof-of-concept)",
+      "description": "no description",
+      "date": "2023-06-26",
+      "raw_date": "2023-06-26T08:17:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[birdlinux/CVE-2021-42013](https://github.com/birdlinux/CVE-2021-42013)",
+      "description": "Apache 2.4.50 Automated Remote Code Execution and Path traversal",
+      "date": "2023-06-26",
+      "raw_date": "2023-06-26T06:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-9496",
+      "repo_info": "[birdlinux/CVE-2020-9496](https://github.com/birdlinux/CVE-2020-9496)",
+      "description": "ApacheOfBiz 17.12.01 Remote Code Execution",
+      "date": "2023-06-26",
+      "raw_date": "2023-06-26T06:56:38Z"
+    },
+    {
+      "cve_id": "CVE-2015-6967",
+      "repo_info": "[FredBrave/CVE-2015-6967](https://github.com/FredBrave/CVE-2015-6967)",
+      "description": "An exploit for the Nibbles manager version 4.0.3. This exploit allows RCE to be performed.",
+      "date": "2023-06-26",
+      "raw_date": "2023-06-26T19:15:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.226818",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-06-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

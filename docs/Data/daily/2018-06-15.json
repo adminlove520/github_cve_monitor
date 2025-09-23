@@ -1,0 +1,20 @@
+{
+  "date": "2018-06-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0824",
+      "repo_info": "[codewhitesec/UnmarshalPwn](https://github.com/codewhitesec/UnmarshalPwn)",
+      "description": "POC for CVE-2018-0824",
+      "date": "2018-06-15",
+      "raw_date": "2018-06-15T08:59:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.660072",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-06-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

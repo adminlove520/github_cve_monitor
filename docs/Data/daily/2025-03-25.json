@@ -1,0 +1,195 @@
+{
+  "date": "2025-03-25",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-29972",
+      "repo_info": "[ThemeHackers/CVE-2025-29972](https://github.com/ThemeHackers/CVE-2025-29972)",
+      "description": "CVE-2025-29927 Proof of Concept",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T17:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[furmak331/CVE-2025-29927](https://github.com/furmak331/CVE-2025-29927)",
+      "description": "Critical vulnerability in next.js : Bypass middleware authentication",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T02:20:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[maronnjapan/claude-create-CVE-2025-29927](https://github.com/maronnjapan/claude-create-CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T22:36:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[c0dejump/CVE-2025-29927-check](https://github.com/c0dejump/CVE-2025-29927-check)",
+      "description": "script to check cve &quot;CVE-2025-29927&quot; while waiting to add it to HExHTTP",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T18:02:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[TheresAFewConors/CVE-2025-29927-Testing](https://github.com/TheresAFewConors/CVE-2025-29927-Testing)",
+      "description": "Script to test if a web app is vulnerable to CVE-2025-29927",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T11:39:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[0xcucumbersalad/cve-2025-29927](https://github.com/0xcucumbersalad/cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T15:33:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[0xPThree/next.js_cve-2025-29927](https://github.com/0xPThree/next.js_cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T13:21:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[bronsoneaver/vme-escape](https://github.com/bronsoneaver/vme-escape)",
+      "description": "(including : CVE-2025-22226, CVE-2025-22225, CVE-2025-22224)",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T12:53:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[alihussainzada/CVE-2025-29927-PoC](https://github.com/alihussainzada/CVE-2025-29927-PoC)",
+      "description": "PoC for CVE-2025-29927: Next.js Middleware Bypass Vulnerability. Demonstrates how x-middleware-subrequest can bypass authentication checks. Includes Docker setup for testing.",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T10:30:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[takumade/ghost-route](https://github.com/takumade/ghost-route)",
+      "description": "Ghost Route detects if a Next JS site is vulnerable to the corrupt middleware bypass bug (CVE-2025-29927)",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T06:14:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[jeymo092/cve-2025-29927](https://github.com/jeymo092/cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T09:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[0xPb1/Next.js-CVE-2025-29927](https://github.com/0xPb1/Next.js-CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T07:15:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[memmedrehimzade/CVE-2025-29927-vuln-app](https://github.com/memmedrehimzade/CVE-2025-29927-vuln-app)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T06:36:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-29306",
+      "repo_info": "[somatrasss/CVE-2025-29306](https://github.com/somatrasss/CVE-2025-29306)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T08:12:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-22953",
+      "repo_info": "[maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953)",
+      "description": "EPICOR HCM Unauthenticated Blind SQL Injection CVE-2025-22953",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T14:47:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[yanmarques/CVE-2025-1974](https://github.com/yanmarques/CVE-2025-1974)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T18:49:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[yoshino-s/CVE-2025-1974](https://github.com/yoshino-s/CVE-2025-1974)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T13:23:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-1734",
+      "repo_info": "[WolfThere/cve_2025-1734](https://github.com/WolfThere/cve_2025-1734)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T12:38:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-1734",
+      "repo_info": "[Jull3Hax0r/next.js-exploit](https://github.com/Jull3Hax0r/next.js-exploit)",
+      "description": "Hoe to exploit next.js with CVE-2025–29927",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T10:49:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[elamani-drawing/CVE-2024-4367-POC-PDFJS](https://github.com/elamani-drawing/CVE-2024-4367-POC-PDFJS)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T16:27:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-31114",
+      "repo_info": "[Nxploited/CVE-2024-31114](https://github.com/Nxploited/CVE-2024-31114)",
+      "description": "Shortcode Addons &lt;= 3.2.5 - Authenticated (Admin+) Arbitrary File Upload",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T00:12:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413](https://github.com/ArtemCyberLab/Project-NTLM-Hash-Capture-and-Phishing-Email-Exploitation-for-CVE-2024-21413)",
+      "description": "The project was created to demonstrate the use of various tools for capturing NTLM hashes from users on a network and for executing phishing attacks using email. This showcases how network authentication vulnerabilities and phishing methods can be exploited to compromise systems.",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T22:49:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[n00o00b/CVE-2023-30258-RCE-POC](https://github.com/n00o00b/CVE-2023-30258-RCE-POC)",
+      "description": "POC for CVE-2023-30258-RCE by n0o0b",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T16:00:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[cypherlobo/DirtyPipe-BSI](https://github.com/cypherlobo/DirtyPipe-BSI)",
+      "description": "A root exploit for CVE-2022-0847 (Dirty Pipe)",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T22:16:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-3493",
+      "repo_info": "[azazhe1/Ransomware_CVE_2021_3493](https://github.com/azazhe1/Ransomware_CVE_2021_3493)",
+      "description": "no description",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T04:27:17Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[moften/cve-2018-15473-poc](https://github.com/moften/cve-2018-15473-poc)",
+      "description": "Check if a username is valid on the SSH server by attempting an authentication.     The server response will indicate whether the username exists.",
+      "date": "2025-03-25",
+      "raw_date": "2025-03-25T18:08:47Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.961809",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2025-03-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

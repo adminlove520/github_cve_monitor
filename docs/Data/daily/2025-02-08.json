@@ -1,0 +1,41 @@
+{
+  "date": "2025-02-08",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-23369",
+      "repo_info": "[hakivvi/CVE-2025-23369](https://github.com/hakivvi/CVE-2025-23369)",
+      "description": "GitHub Entreprise Server SAML authentication bypass (CVE-2025-23369) exploit",
+      "date": "2025-02-08",
+      "raw_date": "2025-02-08T18:13:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-6244",
+      "repo_info": "[Nxploited/CVE-2024-6244](https://github.com/Nxploited/CVE-2024-6244)",
+      "description": "pz-frontend-manager &lt; 1.0.6 - CSRF Profile Picture Exploit",
+      "date": "2025-02-08",
+      "raw_date": "2025-02-08T20:17:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-54916",
+      "repo_info": "[SAHALLL/CVE-2024-54916](https://github.com/SAHALLL/CVE-2024-54916)",
+      "description": "no description",
+      "date": "2025-02-08",
+      "raw_date": "2025-02-08T01:55:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[ten-ops/baron-samedit](https://github.com/ten-ops/baron-samedit)",
+      "description": "This repository contains a Proof-of-Concept (PoC) exploit for the Baron Samedit vulnerability (CVE-2021-3156). The exploit demonstrates privilege escalation on Ubuntu 20.04 with sudo version 1.8.31 and glibc version 2.31. It includes an assembly-based exploit, a shared object payload, and a Makefile for automated compilation.",
+      "date": "2025-02-08",
+      "raw_date": "2025-02-08T23:26:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.923483",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2025-02-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

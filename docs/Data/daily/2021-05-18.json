@@ -1,0 +1,27 @@
+{
+  "date": "2021-05-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9484",
+      "repo_info": "[RepublicR0K/CVE-2020-9484](https://github.com/RepublicR0K/CVE-2020-9484)",
+      "description": "Apache Tomcat RCE (CVE-2020-9484)",
+      "date": "2021-05-18",
+      "raw_date": "2021-05-18T13:26:18Z"
+    },
+    {
+      "cve_id": "CVE-2020-28018",
+      "repo_info": "[zr0tt/CVE-2020-28018](https://github.com/zr0tt/CVE-2020-28018)",
+      "description": "Exploit for Exim4 4.93 CVE-2020-28018",
+      "date": "2021-05-18",
+      "raw_date": "2021-05-18T17:22:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.356372",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-05-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

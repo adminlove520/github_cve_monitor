@@ -1,0 +1,48 @@
+{
+  "date": "2023-02-24",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-999993",
+      "repo_info": "[yrtsec/CVE-2023-999993](https://github.com/yrtsec/CVE-2023-999993)",
+      "description": "no description",
+      "date": "2023-02-24",
+      "raw_date": "2023-02-24T01:31:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[z3n70/CVE-2023-23752](https://github.com/z3n70/CVE-2023-23752)",
+      "description": "simple program for joomla CVE-2023-23752 scanner for pentesting and educational purpose",
+      "date": "2023-02-24",
+      "raw_date": "2023-02-24T01:33:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-21839",
+      "repo_info": "[hacats/CVE-2023-21839](https://github.com/hacats/CVE-2023-21839)",
+      "description": "Weblogic CVE-2023-21839 RCE",
+      "date": "2023-02-24",
+      "raw_date": "2023-02-24T08:44:26Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[Serendipity-Lucky/CVE-2020-14882_ALL](https://github.com/Serendipity-Lucky/CVE-2020-14882_ALL)",
+      "description": "综合利用工具",
+      "date": "2023-02-24",
+      "raw_date": "2023-02-24T11:44:06Z"
+    },
+    {
+      "cve_id": "CVE-2019-10945",
+      "repo_info": "[dpgg101/CVE-2019-10945](https://github.com/dpgg101/CVE-2019-10945)",
+      "description": "Joomla! Core 1.5.0 - 3.9.4 - Directory Traversal / Authenticated Arbitrary File Deletion in Python3",
+      "date": "2023-02-24",
+      "raw_date": "2023-02-24T10:58:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.140136",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-02-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

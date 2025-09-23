@@ -1,0 +1,48 @@
+{
+  "date": "2020-11-03",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955](https://github.com/ExploitBox/git-lfs-RCE-exploit-CVE-2020-27955)",
+      "description": "Git-lfs RCE exploit CVE-2020-27955 - tested on Windows on: git, gh cli, GitHub Desktop, Visual Studio, SourceTree etc.",
+      "date": "2020-11-03",
+      "raw_date": "2020-11-03T17:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[GGyao/CVE-2020-14882_ALL](https://github.com/GGyao/CVE-2020-14882_ALL)",
+      "description": "CVE-2020-14882_ALL综合利用工具，支持命令回显检测、批量命令回显、外置xml无回显命令执行等功能。",
+      "date": "2020-11-03",
+      "raw_date": "2020-11-03T10:49:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-7356",
+      "repo_info": "[ngpentest007/CVE-2019-7356](https://github.com/ngpentest007/CVE-2019-7356)",
+      "description": "no description",
+      "date": "2020-11-03",
+      "raw_date": "2020-11-03T07:04:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Yashrk078/Test_CVE-2018-6574](https://github.com/Yashrk078/Test_CVE-2018-6574)",
+      "description": "no description",
+      "date": "2020-11-03",
+      "raw_date": "2020-11-03T10:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2017-9769",
+      "repo_info": "[kkent030315/CVE-2017-9769](https://github.com/kkent030315/CVE-2017-9769)",
+      "description": "A specially crafted IOCTL can be issued to the rzpnk.sys driver in Razer Synapse 2.20.15.1104 that is forwarded to ZwOpenProcess allowing a handle to be opened to an arbitrary process.",
+      "date": "2020-11-03",
+      "raw_date": "2020-11-03T10:58:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.223612",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2020-11-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

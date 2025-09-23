@@ -1,0 +1,111 @@
+{
+  "date": "2024-03-29",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Fractal-Tess/CVE-2024-3094](https://github.com/Fractal-Tess/CVE-2024-3094)",
+      "description": "no description",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T23:36:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Hacker-Hermanos/CVE-2024-3094_xz_check](https://github.com/Hacker-Hermanos/CVE-2024-3094_xz_check)",
+      "description": "This repository contains a Bash script and a one-liner command to verify if a system is running a vulnerable version of the &quot;xz&quot; utility, as specified by CVE-2024-3094.",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T23:21:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[bioless/xz_cve-2024-3094_detection](https://github.com/bioless/xz_cve-2024-3094_detection)",
+      "description": "Script to detect CVE-2024-3094.",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T23:20:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[byinarie/CVE-2024-3094-info](https://github.com/byinarie/CVE-2024-3094-info)",
+      "description": "Information for CVE-2024-3094",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T17:03:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[lypd0/CVE-2024-3094-Vulnerabity-Checker](https://github.com/lypd0/CVE-2024-3094-Vulnerabity-Checker)",
+      "description": "Verify that your XZ Utils version is not vulnerable to CVE-2024-3094",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T20:52:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[OpensourceICTSolutions/xz_utils-CVE-2024-3094](https://github.com/OpensourceICTSolutions/xz_utils-CVE-2024-3094)",
+      "description": "no description",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T21:41:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[FabioBaroni/CVE-2024-3094-checker](https://github.com/FabioBaroni/CVE-2024-3094-checker)",
+      "description": "Quick and dirty PoC for checking whether a vulnerable version of xz-utils is installed (CVE-2024-3094)",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T20:28:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-1698",
+      "repo_info": "[kamranhasan/CVE-2024-1698-Exploit](https://github.com/kamranhasan/CVE-2024-1698-Exploit)",
+      "description": "This is an exploit script to find out wordpress admin&#x27;s username and password hash by exploiting CVE-2024-1698.",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T04:11:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[ysanatomic/io_uring_LPE-CVE-2024-0582](https://github.com/ysanatomic/io_uring_LPE-CVE-2024-0582)",
+      "description": "LPE exploit for CVE-2024-0582 (io_uring)",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T14:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[2308652512/JJWT_BUG](https://github.com/2308652512/JJWT_BUG)",
+      "description": "Details of CVE-2024-31033",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T04:44:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[QDming/cve](https://github.com/QDming/cve)",
+      "description": "Use CVE-2024-29278",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T08:20:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-5044",
+      "repo_info": "[KubernetesBachelor/CVE-2023-5044](https://github.com/KubernetesBachelor/CVE-2023-5044)",
+      "description": "Poc for CVE 2023 5044",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T18:53:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-48022",
+      "repo_info": "[jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022](https://github.com/jakabakos/ShadowRay-RCE-PoC-CVE-2023-48022)",
+      "description": "ShadowRay RCE POC (CVE-2023-48022)",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T09:54:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-35078",
+      "repo_info": "[0nsec/CVE-2023-35078](https://github.com/0nsec/CVE-2023-35078)",
+      "description": "CVE-2023-35078 Remote Unauthenticated API Access vulnerability has been discovered in Ivanti Endpoint Manager Mobile (EPMM), formerly known as MobileIron Core.",
+      "date": "2024-03-29",
+      "raw_date": "2024-03-29T14:15:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.645964",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2024-03-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

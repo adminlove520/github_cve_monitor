@@ -1,0 +1,62 @@
+{
+  "date": "2023-12-16",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-21305",
+      "repo_info": "[tandasat/CVE-2024-21305](https://github.com/tandasat/CVE-2024-21305)",
+      "description": "Report and exploit of CVE-2024-21305.",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T23:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-50132",
+      "repo_info": "[sajaljat/CVE-2023-50132](https://github.com/sajaljat/CVE-2023-50132)",
+      "description": "no description",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T08:14:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-50131",
+      "repo_info": "[sajaljat/CVE-2023-50131](https://github.com/sajaljat/CVE-2023-50131)",
+      "description": "XSS",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T08:08:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-50071",
+      "repo_info": "[geraldoalcantara/CVE-2023-50071](https://github.com/geraldoalcantara/CVE-2023-50071)",
+      "description": "Multiple SQL injection vulnerabilities in /customer_support/ajax.php?action=save_department in Customer Support System 1.0 allow authenticated attackers to execute arbitrary SQL commands via id or name.",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T23:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-4966",
+      "repo_info": "[morganwdavis/overread](https://github.com/morganwdavis/overread)",
+      "description": "Simulates CVE-2023-4966 Citrix Bleed overread bug",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T21:55:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[dcm2406/CVE-2023-46604](https://github.com/dcm2406/CVE-2023-46604)",
+      "description": "no description",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T13:50:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[dcm2406/CVE-2021-44228](https://github.com/dcm2406/CVE-2021-44228)",
+      "description": "no description",
+      "date": "2023-12-16",
+      "raw_date": "2023-12-16T13:50:35Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.345330",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-12-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

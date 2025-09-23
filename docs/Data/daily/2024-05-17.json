@@ -1,0 +1,118 @@
+{
+  "date": "2024-05-17",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[amalmurali47/git_rce](https://github.com/amalmurali47/git_rce)",
+      "description": "Exploit PoC for CVE-2024-32002",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T19:33:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[amalmurali47/hook](https://github.com/amalmurali47/hook)",
+      "description": "Hook for the PoC for exploiting CVE-2024-32002",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T19:35:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-32640",
+      "repo_info": "[0x3f3c/CVE-2024-32640-SQLI-MuraCMS](https://github.com/0x3f3c/CVE-2024-32640-SQLI-MuraCMS)",
+      "description": "no description",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T13:43:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[markuta/CVE-2024-32002](https://github.com/markuta/CVE-2024-32002)",
+      "description": "no description",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T15:35:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-29895",
+      "repo_info": "[Rubioo02/CVE-2024-29895](https://github.com/Rubioo02/CVE-2024-29895)",
+      "description": "CVE-2024-29895 - RCE on CACTI 1.3.X dev",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T22:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-29895",
+      "repo_info": "[markuta/hooky](https://github.com/markuta/hooky)",
+      "description": "A submodule for exploiting CVE-2024-32002 vulnerability.",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T15:37:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-27130",
+      "repo_info": "[watchtowrlabs/CVE-2024-27130](https://github.com/watchtowrlabs/CVE-2024-27130)",
+      "description": "PoC for CVE-2024-27130",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T07:58:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-27130",
+      "repo_info": "[absholi7ly/WordPress-XStore-theme-SQL-Injection](https://github.com/absholi7ly/WordPress-XStore-theme-SQL-Injection)",
+      "description": "(CVE-2024-33559) The XStore theme for WordPress is vulnerable to SQL Injection  due to insufficient escaping on the user supplied parameter and lack of sufficient preparation on the existing SQL query",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T04:15:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-21111",
+      "repo_info": "[10cks/CVE-2024-21111-del](https://github.com/10cks/CVE-2024-21111-del)",
+      "description": "no description",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T03:09:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-21111",
+      "repo_info": "[actuator/com.solarized.firedown](https://github.com/actuator/com.solarized.firedown)",
+      "description": "CVE-2024-31974",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T02:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-34992",
+      "repo_info": "[horizon3ai/CVE-2023-34992](https://github.com/horizon3ai/CVE-2023-34992)",
+      "description": "CVE-2023-34992: Fortinet FortiSIEM Command Injection Proof of Concept Exploit",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T12:07:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-22978",
+      "repo_info": "[wan9xx/CVE-2022-22978-demo](https://github.com/wan9xx/CVE-2022-22978-demo)",
+      "description": "CVE-2022-22978漏洞实例代码",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T07:26:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-27252",
+      "repo_info": "[OccultSlolem/GatorMed](https://github.com/OccultSlolem/GatorMed)",
+      "description": "A simulation of CVE-2020-27252 for CSC699.",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T20:35:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[FedericoTorres233/CVE-2019-9053-Fixed](https://github.com/FedericoTorres233/CVE-2019-9053-Fixed)",
+      "description": "CVE-2019-9054 exploit added support for python3 + bug fixes",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T00:33:54Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Dannners/CVE-2018-6574-go-get-RCE](https://github.com/Dannners/CVE-2018-6574-go-get-RCE)",
+      "description": "CVE-2018-6574-go-get-RCE",
+      "date": "2024-05-17",
+      "raw_date": "2024-05-17T17:30:06Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.696128",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-05-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

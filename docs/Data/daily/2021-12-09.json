@@ -1,0 +1,48 @@
+{
+  "date": "2021-12-09",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce](https://github.com/tangxiaofeng7/CVE-2021-44228-Apache-Log4j-Rce)",
+      "description": "Apache Log4j 远程代码执行",
+      "date": "2021-12-09",
+      "raw_date": "2021-12-09T15:27:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Glease/Healer](https://github.com/Glease/Healer)",
+      "description": "Patch up CVE-2021-44228 for minecraft forge 1.7.10 - 1.12.2",
+      "date": "2021-12-09",
+      "raw_date": "2021-12-09T21:49:33Z"
+    },
+    {
+      "cve_id": "CVE-2019-18276",
+      "repo_info": "[M-ensimag/CVE-2019-18276](https://github.com/M-ensimag/CVE-2019-18276)",
+      "description": "no description",
+      "date": "2021-12-09",
+      "raw_date": "2021-12-09T20:22:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-18276",
+      "repo_info": "[Marbocatcat/46635.py](https://github.com/Marbocatcat/46635.py)",
+      "description": "update to Daniele Scanu's SQL Injection Exploit - CVE-2019-9053",
+      "date": "2021-12-09",
+      "raw_date": "2021-12-09T17:39:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-1207",
+      "repo_info": "[mgargiullo/cve-2018-1207](https://github.com/mgargiullo/cve-2018-1207)",
+      "description": "Exploit iDRAC 7 & 8 firmware  <  2.52.52.52",
+      "date": "2021-12-09",
+      "raw_date": "2021-12-09T23:47:22Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.636620",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-12-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

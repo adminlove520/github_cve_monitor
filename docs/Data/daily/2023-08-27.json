@@ -1,0 +1,62 @@
+{
+  "date": "2023-08-27",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[ignis-sec/CVE-2023-38831-RaRCE](https://github.com/ignis-sec/CVE-2023-38831-RaRCE)",
+      "description": "An easy to install and easy to run tool for generating exploit payloads for CVE-2023-38831, WinRAR RCE before versions 6.23",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T21:49:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[Garck3h/cve-2023-38831](https://github.com/Garck3h/cve-2023-38831)",
+      "description": "一款用于生成winrar程序RCE（即cve-2023-38831）的POC的工具。",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T14:08:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[IR-HuntGuardians/CVE-2023-38831-HUNT](https://github.com/IR-HuntGuardians/CVE-2023-38831-HUNT)",
+      "description": "no description",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T08:42:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-38389",
+      "repo_info": "[codeb0ss/CVE-2023-38389-PoC](https://github.com/codeb0ss/CVE-2023-38389-PoC)",
+      "description": "CVE-2023-38389 &lt; Wordpress &lt; JupiterX Core &lt; Unauthenticated Account Takeover",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T00:30:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-24489",
+      "repo_info": "[whalebone7/CVE-2023-24489-poc](https://github.com/whalebone7/CVE-2023-24489-poc)",
+      "description": "POC for CVE-2023-24489 with bash.",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T11:53:59Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[Chocapikk/CVE-2017-9841](https://github.com/Chocapikk/CVE-2017-9841)",
+      "description": "PHPUnit RCE",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T21:20:19Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[fracergu/CVE-2017-7921](https://github.com/fracergu/CVE-2017-7921)",
+      "description": "CVE-2017-7921 exploit. Allows admin password retrieval and automatic snapshot download.",
+      "date": "2023-08-27",
+      "raw_date": "2023-08-27T17:29:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.269579",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

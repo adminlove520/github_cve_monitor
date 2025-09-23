@@ -1,0 +1,139 @@
+{
+  "date": "2025-08-22",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-55575",
+      "repo_info": "[Aether-0/CVE-2025-55575](https://github.com/Aether-0/CVE-2025-55575)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T19:04:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-55230",
+      "repo_info": "[barbaraeivyu/CVE-2025-55230-Exploit](https://github.com/barbaraeivyu/CVE-2025-55230-Exploit)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T10:43:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-53632",
+      "repo_info": "[pandatix/CVE-2025-53632](https://github.com/pandatix/CVE-2025-53632)",
+      "description": "An exploit of CVE-2025-53632 to confirm exploitability",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T12:37:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-47987",
+      "repo_info": "[Kryptoenix/CVE-2025-47987_PoC](https://github.com/Kryptoenix/CVE-2025-47987_PoC)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T09:42:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-43300",
+      "repo_info": "[XiaomingX/CVE-2025-43300-exp](https://github.com/XiaomingX/CVE-2025-43300-exp)",
+      "description": "CVE-2025-43300的在野利用代码.",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T10:13:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-34159",
+      "repo_info": "[Eyodav/CVE-2025-34159](https://github.com/Eyodav/CVE-2025-34159)",
+      "description": "A critical Remote Code Execution (RCE) vulnerability exists in Coolify&#x27;s application deployment workflow. This flaw allows a low-privileged member to inject arbitrary Docker Compose directives during project creation or updates. By defining a malicious service that mounts the host filesystem an attacker can achieve root-level command execution on",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T09:11:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-2776",
+      "repo_info": "[kwerty138/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2](https://github.com/kwerty138/Reflected-XSS-in-Vvveb-CMS-v1.0.7.2)",
+      "description": "CVE-2025-9728: Reflected XSS in Login Form (Email &amp; Password Fields) Vvveb CMS v1.0.7.2",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T03:01:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-27519",
+      "repo_info": "[Diabl0xE/CVE-2025-27519](https://github.com/Diabl0xE/CVE-2025-27519)",
+      "description": "PoC exploit for Below privilege escalation (CVE-2025-27591) allowing local root access via symlink manipulation in world-writable log directory.",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T08:05:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[x0da6h/POC-for-CVE-2025-24893](https://github.com/x0da6h/POC-for-CVE-2025-24893)",
+      "description": "Some poorly crafted exploit scripts",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T06:56:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[LitBot123/CVE.py](https://github.com/LitBot123/CVE.py)",
+      "description": "CVE-2025-8418.py",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T06:53:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-1337",
+      "repo_info": "[ada-z3r0/CVE-2025-1337-PoC](https://github.com/ada-z3r0/CVE-2025-1337-PoC)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T02:34:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[0xr2r/CVE-2024-4367](https://github.com/0xr2r/CVE-2024-4367)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T05:51:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-37054",
+      "repo_info": "[NiteeshPujari/CVE-2024-37054-MLflow-RCE](https://github.com/NiteeshPujari/CVE-2024-37054-MLflow-RCE)",
+      "description": "NiteeshPujari/CVE-2024-37054, This repository contains a Proof of Concept (PoC) a critical deserialization vulnerability in MLflow that allows for Remote Code Execution (RCE).",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T12:54:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-25813",
+      "repo_info": "[SOONHO-21/curd_CVE_2023_25813](https://github.com/SOONHO-21/curd_CVE_2023_25813)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T03:12:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-4244",
+      "repo_info": "[shoucheng3/codehaus-plexus__plexus-utils_CVE-2022-4244_3-0-23](https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2022-4244_3-0-23)",
+      "description": "no description",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T03:19:49Z"
+    },
+    {
+      "cve_id": "CVE-2019-18935",
+      "repo_info": "[0xsharz/telerik-scanner-CVE-2019-18935](https://github.com/0xsharz/telerik-scanner-CVE-2019-18935)",
+      "description": "Telerik CVE-2019-18935 Vulnerability Scanner",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T19:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[MarioAlejos-Cs/dirtycow-lab](https://github.com/MarioAlejos-Cs/dirtycow-lab)",
+      "description": "Explotación vulnerabilidad Dirty COW (CVE-2016-5195) en Ubuntu 16.04.1.",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T15:09:10Z"
+    },
+    {
+      "cve_id": "CVE-2008-1447",
+      "repo_info": "[hamlasiraj/metasploit-bailiwicked_domain-fix](https://github.com/hamlasiraj/metasploit-bailiwicked_domain-fix)",
+      "description": "Fix for undefined method each in Metasploit’s bailiwicked_domain.rb (CVE-2008-1447 DNS cache poisoning module)",
+      "date": "2025-08-22",
+      "raw_date": "2025-08-22T13:11:21Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.111481",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2025-08-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

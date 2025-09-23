@@ -1,0 +1,27 @@
+{
+  "date": "2013-10-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-3319",
+      "repo_info": "[fi01/libmsm_cameraconfig_exploit](https://github.com/fi01/libmsm_cameraconfig_exploit)",
+      "description": "CVE-2013-2595 exploit",
+      "date": "2013-10-03",
+      "raw_date": "2013-10-03T04:38:27Z"
+    },
+    {
+      "cve_id": "CVE-2013-1300",
+      "repo_info": "[guhe120/CVE20131491-JIT](https://github.com/guhe120/CVE20131491-JIT)",
+      "description": "JIT spray version of cve-2013-1491",
+      "date": "2013-10-03",
+      "raw_date": "2013-10-03T07:10:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.288481",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2013-10-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

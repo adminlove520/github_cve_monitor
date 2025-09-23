@@ -1,0 +1,153 @@
+{
+  "date": "2025-08-03",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8471",
+      "repo_info": "[byteReaper77/CVE-2025-8471](https://github.com/byteReaper77/CVE-2025-8471)",
+      "description": "Exploit SQL injection in  projectworlds Online Admissions System v1.0",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T17:43:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)",
+      "description": "PoC for CVE-2025-48384",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T02:51:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[beishanxueyuan/CVE-2025-48384](https://github.com/beishanxueyuan/CVE-2025-48384)",
+      "description": "no description",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T11:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[fluoworite/CVE-2025-48384](https://github.com/fluoworite/CVE-2025-48384)",
+      "description": "PoC for CVE-2025-48384",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T03:29:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[fluoworite/CVE-2025-48384-sub](https://github.com/fluoworite/CVE-2025-48384-sub)",
+      "description": "no description",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T03:29:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[Infinit3i/CVE-2025-24893](https://github.com/Infinit3i/CVE-2025-24893)",
+      "description": "This Python script exploits CVE-2025-24893, a remote code execution (RCE) vulnerability in XWiki caused by improper sandboxing in Groovy macros rendered asynchronously. It allows arbitrary command execution through injection into RSS-based SolrSearch endpoints.",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T14:49:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[hackersonsteroids/cve-2025-24893](https://github.com/hackersonsteroids/cve-2025-24893)",
+      "description": "Modified exploit for CVE-2025-24893",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T12:39:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[dhiaZnaidi/CVE-2025-24893-PoC](https://github.com/dhiaZnaidi/CVE-2025-24893-PoC)",
+      "description": "no description",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T11:38:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[AzureADTrent/CVE-2025-24893-Reverse-Shell](https://github.com/AzureADTrent/CVE-2025-24893-Reverse-Shell)",
+      "description": "Reverse Shell Payload for CVE-2025-24893",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T14:54:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[MihranGIT/POC_CVE-2024-4367](https://github.com/MihranGIT/POC_CVE-2024-4367)",
+      "description": "POC",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T14:48:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[MihranGIT/CVE-2024-4367](https://github.com/MihranGIT/CVE-2024-4367)",
+      "description": "no description",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T14:57:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-32019",
+      "repo_info": "[AliElKhatteb/CVE-2024-32019-POC](https://github.com/AliElKhatteb/CVE-2024-32019-POC)",
+      "description": "this is a poc for the CVE-2025-24893",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T11:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-32019",
+      "repo_info": "[AzureADTrent/CVE-2024-32019-POC](https://github.com/AzureADTrent/CVE-2024-32019-POC)",
+      "description": "POC for netdata ndsudo vulnerability - CVE-2024-32019",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T04:41:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-2782",
+      "repo_info": "[whale93/CVE-2024-2782-PoC](https://github.com/whale93/CVE-2024-2782-PoC)",
+      "description": "CVE-2024-2782 Proof-of-Concept",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T06:12:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-2771",
+      "repo_info": "[whale93/CVE-2024-2771-PoC](https://github.com/whale93/CVE-2024-2771-PoC)",
+      "description": "CVE-2024-2771 Proof-of-Concept",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T06:06:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution](https://github.com/Tolu12wani/Demonstration-of-CVE-2023-38831-via-Reverse-Shell-Execution)",
+      "description": "This project demonstrates a simulated exploitation of the WinRAR vulnerability CVE-2023-38831 to execute a reverse shell. The purpose of this task was to showcase how attackers can weaponize compressed archive files to gain remote access to a target machine.",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T22:07:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-0461",
+      "repo_info": "[b1nhack/CVE-2023-0461](https://github.com/b1nhack/CVE-2023-0461)",
+      "description": "no description",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T08:12:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[GrantBirki/redash-vulnerable](https://github.com/GrantBirki/redash-vulnerable)",
+      "description": "A Dockerized Redash instance that is vulnerable to CVE-2021-21239",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T03:36:47Z"
+    },
+    {
+      "cve_id": "CVE-2019-0555",
+      "repo_info": "[kai6u/TriBell_Edge_SandBox_Escape](https://github.com/kai6u/TriBell_Edge_SandBox_Escape)",
+      "description": "Tribell Edge Sandbox Escape - PoCs of Edge&#x27;s legacy vulnerabilities BadgeUpdateManager / TileFlyoutUpdateManager / ToastNotificationManager to exploit cross-boundary XmlDocument sharing and escape Edge’s LPAC sandbox (CVE-2019-0555).",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T01:53:27Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[SincIDK/CVE-2012-2982-Exploit-Script](https://github.com/SincIDK/CVE-2012-2982-Exploit-Script)",
+      "description": "A short and sweet simple exploit script for the CVE-2012-2982 Authenticated RCE vulnerability in the /file/show.cgi/bin endpoint.",
+      "date": "2025-08-03",
+      "raw_date": "2025-08-03T18:58:19Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.092757",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2025-08-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

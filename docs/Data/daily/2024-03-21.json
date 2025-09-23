@@ -1,0 +1,167 @@
+{
+  "date": "2024-03-21",
+  "count": 22,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-29455",
+      "repo_info": "[yashpatelphd/CVE-2024-29455](https://github.com/yashpatelphd/CVE-2024-29455)",
+      "description": "Arbitrary File Upload Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:54:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-29454",
+      "repo_info": "[yashpatelphd/CVE-2024-29454](https://github.com/yashpatelphd/CVE-2024-29454)",
+      "description": "Remote Command Execution Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:49:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-29452",
+      "repo_info": "[yashpatelphd/CVE-2024-29452](https://github.com/yashpatelphd/CVE-2024-29452)",
+      "description": "Insecure Deserialization Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:44:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-29450",
+      "repo_info": "[yashpatelphd/CVE-2024-29450](https://github.com/yashpatelphd/CVE-2024-29450)",
+      "description": "Privilege Escalation in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:37:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-29449",
+      "repo_info": "[yashpatelphd/CVE-2024-29449](https://github.com/yashpatelphd/CVE-2024-29449)",
+      "description": "Cleartext Transmission Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:32:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-29448",
+      "repo_info": "[yashpatelphd/CVE-2024-29448](https://github.com/yashpatelphd/CVE-2024-29448)",
+      "description": "Buffer Overflow Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:25:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-29447",
+      "repo_info": "[yashpatelphd/CVE-2024-29447](https://github.com/yashpatelphd/CVE-2024-29447)",
+      "description": "Security Misconfiguration in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:22:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-29445",
+      "repo_info": "[yashpatelphd/CVE-2024-29445](https://github.com/yashpatelphd/CVE-2024-29445)",
+      "description": "Information Leakage in ROS2 Humble Hawksbill via Plaintext Message Transmission",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:17:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-29444",
+      "repo_info": "[yashpatelphd/CVE-2024-29444](https://github.com/yashpatelphd/CVE-2024-29444)",
+      "description": "OS Command Injection Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:14:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-29443",
+      "repo_info": "[yashpatelphd/CVE-2024-29443](https://github.com/yashpatelphd/CVE-2024-29443)",
+      "description": "Shell Injection Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T14:05:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-29442",
+      "repo_info": "[yashpatelphd/CVE-2024-29442](https://github.com/yashpatelphd/CVE-2024-29442)",
+      "description": "Unauthorized Information Access Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T13:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-29441",
+      "repo_info": "[yashpatelphd/CVE-2024-29441](https://github.com/yashpatelphd/CVE-2024-29441)",
+      "description": "Denial-of-Service (DoS) Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T13:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-29440",
+      "repo_info": "[yashpatelphd/CVE-2024-29440](https://github.com/yashpatelphd/CVE-2024-29440)",
+      "description": "Unauthorized Access Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T13:48:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-29439",
+      "repo_info": "[yashpatelphd/CVE-2024-29439](https://github.com/yashpatelphd/CVE-2024-29439)",
+      "description": "Unauthorized Node Injection Vulnerability in ROS2 Humble Hawksbill",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T13:43:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-21412",
+      "repo_info": "[wr00t/CVE-2024-21412_Water-Hydra](https://github.com/wr00t/CVE-2024-21412_Water-Hydra)",
+      "description": "according to trendmicro&#x27;s research",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T15:57:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[pxcs/CLFS](https://github.com/pxcs/CLFS)",
+      "description": "it&#x27;s a CVE-2023-28252 ( patched ), but feel free to use it for check any outdated software or reseach",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T16:16:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-36424",
+      "repo_info": "[Nassim-Asrir/CVE-2023-36424](https://github.com/Nassim-Asrir/CVE-2023-36424)",
+      "description": "Windows Kernel Pool (clfs.sys) Corruption Privilege Escalation",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T21:39:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-30943",
+      "repo_info": "[RubyCat1337/CVE-2023-30943](https://github.com/RubyCat1337/CVE-2023-30943)",
+      "description": "CVE-2023-30943 (Moodle XSS)",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T08:08:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-22518",
+      "repo_info": "[Lilly-dox/Exploit-CVE-2023-22518](https://github.com/Lilly-dox/Exploit-CVE-2023-22518)",
+      "description": "no description",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T07:55:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-43217",
+      "repo_info": "[JolynNgSC/EFS_CVE-2021-43217](https://github.com/JolynNgSC/EFS_CVE-2021-43217)",
+      "description": "no description",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T05:12:25Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[JolynNgSC/Zerologon_CVE-2020-1472](https://github.com/JolynNgSC/Zerologon_CVE-2020-1472)",
+      "description": "no description",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T05:52:40Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[CpyRe/CVE-2012-2982](https://github.com/CpyRe/CVE-2012-2982)",
+      "description": "Practice POC scripting in Tryhackme’s intro poc scripting room (For Linux)",
+      "date": "2024-03-21",
+      "raw_date": "2024-03-21T13:08:33Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.637922",
+  "metadata": {
+    "total_cves": 22,
+    "date_range": "2024-03-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

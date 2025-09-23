@@ -1,0 +1,90 @@
+{
+  "date": "2022-10-15",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-41358",
+      "repo_info": "[thecasual/CVE-2022-41358](https://github.com/thecasual/CVE-2022-41358)",
+      "description": "no description",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T17:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[backcr4t/CVE-2022-41082-RCE-POC](https://github.com/backcr4t/CVE-2022-41082-RCE-POC)",
+      "description": "ProxyNotShell(CVE-2022-41082/CVE-2022-41040) all analyze, mitigation script and  a python wrapper to acieve RCE for Proxynotshell",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T13:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[Chocapikk/CVE-2022-40684](https://github.com/Chocapikk/CVE-2022-40684)",
+      "description": "Fortinet Critical Authentication Bypass Vulnerability (CVE-2022-40684) [ Mass Exploit ]",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T16:51:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[mohamedbenchikh/CVE-2022-40684](https://github.com/mohamedbenchikh/CVE-2022-40684)",
+      "description": "Exploit for CVE-2022-40684 vulnerability",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T17:02:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[ClickCyber/cve-2022-40684](https://github.com/ClickCyber/cve-2022-40684)",
+      "description": "exploit for CVE-2022-40684 Fortinet",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T11:34:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-37434",
+      "repo_info": "[xen0bit/CVE-2022-37434_poc](https://github.com/xen0bit/CVE-2022-37434_poc)",
+      "description": "u think that it doesnt but it do",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T00:29:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[n0npro/CVE-2022-3236-RCE-POC](https://github.com/n0npro/CVE-2022-3236-RCE-POC)",
+      "description": "CVE-2022-3236 Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T12:43:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[kailing0220/CVE-2022-26134](https://github.com/kailing0220/CVE-2022-26134)",
+      "description": "在受影响的Confluence Server 和Data Center 版本中，存在一个OGNL 注入漏洞，该漏洞允许未经身份验证的攻击者在Confluence Server 或Data Center 服务器上执行任意代码。",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T15:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[yigexioabai/CVE-2022-26134-cve1](https://github.com/yigexioabai/CVE-2022-26134-cve1)",
+      "description": "no description",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T06:01:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-46422",
+      "repo_info": "[yigexioabai/CVE-2021-46422_RCE](https://github.com/yigexioabai/CVE-2021-46422_RCE)",
+      "description": "no description",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T15:13:48Z"
+    },
+    {
+      "cve_id": "CVE-2021-46422",
+      "repo_info": "[Awei507/CVE-2021-46422](https://github.com/Awei507/CVE-2021-46422)",
+      "description": "CVE-2021-46422漏洞",
+      "date": "2022-10-15",
+      "raw_date": "2022-10-15T12:46:31Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.902737",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2022-10-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

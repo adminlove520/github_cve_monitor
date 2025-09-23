@@ -1,0 +1,118 @@
+{
+  "date": "2025-08-08",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8730",
+      "repo_info": "[byteReaper77/CVE-2025-8730](https://github.com/byteReaper77/CVE-2025-8730)",
+      "description": "Exploit demonstrating an authentication bypass vulnerability  in the web interface of Belkin F9K1009 and F9K1010 routers.",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T21:12:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-6384",
+      "repo_info": "[mbadanoiu/CVE-2025-6384](https://github.com/mbadanoiu/CVE-2025-6384)",
+      "description": "CVE-2025-6384: Groovy Sandbox Bypass 2 in CrafterCMS",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T20:25:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-53786",
+      "repo_info": "[barbaraeivyu/CVE-2025-53786](https://github.com/barbaraeivyu/CVE-2025-53786)",
+      "description": "no description",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T09:46:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[Nowafen/CVE-2025-32463](https://github.com/Nowafen/CVE-2025-32463)",
+      "description": "This CVE addresses a vulnerability in sudo versions 1.9.14 to 1.9.17, enabling unauthorized local privilege escalation to root access.",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T20:00:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-31722",
+      "repo_info": "[Nick6371/CVE-2025-31722](https://github.com/Nick6371/CVE-2025-31722)",
+      "description": "Used to demo CVE-2025-31722.",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T17:35:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[alaxar/CVE-2025-24893](https://github.com/alaxar/CVE-2025-24893)",
+      "description": "XWiki 15.10.11, 16.4.1 and 16.5.0RC1 Unauthenticated Remote code execution POC",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T20:01:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[The-Red-Serpent/CVE-2025-24893](https://github.com/The-Red-Serpent/CVE-2025-24893)",
+      "description": "POC",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T09:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[Hex00-0x4/CVE-2025-24893-XWiki-RCE](https://github.com/Hex00-0x4/CVE-2025-24893-XWiki-RCE)",
+      "description": "This vulnerability could allow a malicious user to execute remote code by sending appropriately crafted requests to the default search engine SolrSearch",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T05:38:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-24354",
+      "repo_info": "[Admin9961/CVE-2025-24354-PoC](https://github.com/Admin9961/CVE-2025-24354-PoC)",
+      "description": "SSRF in ImgProxy (only for educational purpose)",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T15:47:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-22963",
+      "repo_info": "[samplev45/CVE-2025-22963](https://github.com/samplev45/CVE-2025-22963)",
+      "description": "no description",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T05:45:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-22131",
+      "repo_info": "[p0et08/DWrwq](https://github.com/p0et08/DWrwq)",
+      "description": "This is a EXP For CVE-2025-57576. PHPGurukul Online Shopping Portal 2.1 is vulnerable to Cross Site &gt; Scripting (XSS) in /admin/updateorder.php",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T05:33:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[skysliently/CVE-2022-22947-pb-ai](https://github.com/skysliently/CVE-2022-22947-pb-ai)",
+      "description": "一个由AI生成的漏洞验证应用",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T08:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution](https://github.com/rajaabdullahnasir/CVE-2018-7600-Remote-Code-Execution)",
+      "description": "This repository contains a completely original and self-developed Proof-of-Concept (PoC) for CVE-2018-7600, also known as Drupalgeddon 2 — a critical remote code execution vulnerability affecting Drupal 7 and 8 core versions.",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T19:20:39Z"
+    },
+    {
+      "cve_id": "CVE-2011-3192",
+      "repo_info": "[Xinjis/Apache_ByteRange_DoS_cve_2011_3192](https://github.com/Xinjis/Apache_ByteRange_DoS_cve_2011_3192)",
+      "description": "Script en python para comprobar CVE",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T14:19:13Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[As9xm/BrokenDoor-CVE-2011-2523-](https://github.com/As9xm/BrokenDoor-CVE-2011-2523-)",
+      "description": "A classic Exploit updated for vsftpd backdoor 2.3.4",
+      "date": "2025-08-08",
+      "raw_date": "2025-08-08T01:03:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.098446",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

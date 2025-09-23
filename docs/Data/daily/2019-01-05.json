@@ -1,0 +1,41 @@
+{
+  "date": "2019-01-05",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-11788",
+      "repo_info": "[qiantu88/2018-cve](https://github.com/qiantu88/2018-cve)",
+      "description": "2018-cve",
+      "date": "2019-01-05",
+      "raw_date": "2019-01-05T11:16:38Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000499",
+      "repo_info": "[Villaquiranm/5MMISSI-CVE-2017-1000499](https://github.com/Villaquiranm/5MMISSI-CVE-2017-1000499)",
+      "description": "no description",
+      "date": "2019-01-05",
+      "raw_date": "2019-01-05T16:33:08Z"
+    },
+    {
+      "cve_id": "CVE-2016-4971",
+      "repo_info": "[mbadanoiu/CVE-2016-4971](https://github.com/mbadanoiu/CVE-2016-4971)",
+      "description": "CVE-2016-4971 Wget 1.18/1.14-13.el7 Client Exploit",
+      "date": "2019-01-05",
+      "raw_date": "2019-01-05T15:50:52Z"
+    },
+    {
+      "cve_id": "CVE-2009-1330",
+      "repo_info": "[war4uthor/CVE-2009-1330](https://github.com/war4uthor/CVE-2009-1330)",
+      "description": "CVE-2009-1330 - Easy RM to MP3 Converter Local Buffer Overflow. Tested on Windows XP Professional SP3",
+      "date": "2019-01-05",
+      "raw_date": "2019-01-05T17:32:00Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.737340",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-01-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

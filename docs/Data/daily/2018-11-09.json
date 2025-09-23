@@ -1,0 +1,41 @@
+{
+  "date": "2018-11-09",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7422",
+      "repo_info": "[0x00-0x00/CVE-2018-7422](https://github.com/0x00-0x00/CVE-2018-7422)",
+      "description": "Wordpress plugin Site-Editor v1.1.1 LFI exploit",
+      "date": "2018-11-09",
+      "raw_date": "2018-11-09T14:42:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-19127",
+      "repo_info": "[ab1gale/phpcms-2008-CVE-2018-19127](https://github.com/ab1gale/phpcms-2008-CVE-2018-19127)",
+      "description": "no description",
+      "date": "2018-11-09",
+      "raw_date": "2018-11-09T09:51:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-12613",
+      "repo_info": "[0x00-0x00/CVE-2018-12613](https://github.com/0x00-0x00/CVE-2018-12613)",
+      "description": "PHPMyAdmin v4.8.0 and v.4.8.1 LFI exploit",
+      "date": "2018-11-09",
+      "raw_date": "2018-11-09T14:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2018-10517",
+      "repo_info": "[0x00-0x00/CVE-2018-10517](https://github.com/0x00-0x00/CVE-2018-10517)",
+      "description": "CMS Made Simple 2.2.7 RCE exploit",
+      "date": "2018-11-09",
+      "raw_date": "2018-11-09T16:09:39Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.711445",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-11-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

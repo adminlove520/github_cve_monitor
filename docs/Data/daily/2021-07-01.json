@@ -1,0 +1,41 @@
+{
+  "date": "2021-07-01",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-35464",
+      "repo_info": "[Y4er/openam-CVE-2021-35464](https://github.com/Y4er/openam-CVE-2021-35464)",
+      "description": "openam-CVE-2021-35464 tomcat 执行命令回显",
+      "date": "2021-07-01",
+      "raw_date": "2021-07-01T03:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2016-0638",
+      "repo_info": "[Katarina-1997/IM-113-2016-Cvetkov-Katarina](https://github.com/Katarina-1997/IM-113-2016-Cvetkov-Katarina)",
+      "description": "no description",
+      "date": "2021-07-01",
+      "raw_date": "2021-07-01T10:52:05Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[k4u5h41/usermap_script_CVE-2007-2447](https://github.com/k4u5h41/usermap_script_CVE-2007-2447)",
+      "description": "no description",
+      "date": "2021-07-01",
+      "raw_date": "2021-07-01T21:58:36Z"
+    },
+    {
+      "cve_id": "CVE-2004-2687",
+      "repo_info": "[k4u5h41/distccd_rce_CVE-2004-2687](https://github.com/k4u5h41/distccd_rce_CVE-2004-2687)",
+      "description": "no description",
+      "date": "2021-07-01",
+      "raw_date": "2021-07-01T21:56:34Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.471057",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-07-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2021-04-30",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9496",
+      "repo_info": "[g33xter/CVE-2020-9496](https://github.com/g33xter/CVE-2020-9496)",
+      "description": "Apache OFBiz unsafe deserialization of XMLRPC arguments",
+      "date": "2021-04-30",
+      "raw_date": "2021-04-30T06:55:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[HK69s/CVE-2020-27955](https://github.com/HK69s/CVE-2020-27955)",
+      "description": "CVE-2020-27955",
+      "date": "2021-04-30",
+      "raw_date": "2021-04-30T14:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[DeeLMind/CVE-2020-27955-LFS](https://github.com/DeeLMind/CVE-2020-27955-LFS)",
+      "description": "no description",
+      "date": "2021-04-30",
+      "raw_date": "2021-04-30T09:38:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-4878",
+      "repo_info": "[lvyoshino/CVE-2018-4878](https://github.com/lvyoshino/CVE-2018-4878)",
+      "description": "no description",
+      "date": "2021-04-30",
+      "raw_date": "2021-04-30T20:45:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-18333",
+      "repo_info": "[mrx04programmer/Dr.DLL-CVE-2018-18333](https://github.com/mrx04programmer/Dr.DLL-CVE-2018-18333)",
+      "description": "Versión Dr. DLL (CVE-2018-18333)",
+      "date": "2021-04-30",
+      "raw_date": "2021-04-30T01:23:33Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.341669",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-04-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

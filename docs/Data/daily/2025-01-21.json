@@ -1,0 +1,97 @@
+{
+  "date": "2025-01-21",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-25763",
+      "repo_info": "[J-0k3r/CVE-2025-25763](https://github.com/J-0k3r/CVE-2025-25763)",
+      "description": "no description",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T09:09:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-6460",
+      "repo_info": "[Nxploited/CVE-2024-6460](https://github.com/Nxploited/CVE-2024-6460)",
+      "description": "Grow by Tradedoubler &lt; 2.0.22 - Unauthenticated LFI",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T14:12:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-55591",
+      "repo_info": "[sysirq/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/sysirq/fortios-auth-bypass-poc-CVE-2024-55591)",
+      "description": "no description",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T12:30:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-49138",
+      "repo_info": "[bananoname/CVE-2024-49138-POC](https://github.com/bananoname/CVE-2024-49138-POC)",
+      "description": "no description",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T01:50:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-41570",
+      "repo_info": "[Wind010/CVE-2024-41570](https://github.com/Wind010/CVE-2024-41570)",
+      "description": "no description",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T02:02:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-41570",
+      "repo_info": "[kit4py/CVE-2024-41570](https://github.com/kit4py/CVE-2024-41570)",
+      "description": "Automated Reverse Shell Exploit via WebSocket - Havoc-C2-SSRF with RCE",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T09:41:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-41570",
+      "repo_info": "[sebr-dev/Havoc-C2-SSRF-to-RCE](https://github.com/sebr-dev/Havoc-C2-SSRF-to-RCE)",
+      "description": "This is a modified version of the CVE-2024-41570 SSRF PoC from @chebuya chained with the auth RCE exploit from @hyperreality. This exploit executes code remotely to a target due to multiple vulnerabilities in Havoc C2 Framework. (https://github.com/HavocFramework/Havoc)",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T06:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-41570",
+      "repo_info": "[PapayaJackal/ipeeyoupeewepee](https://github.com/PapayaJackal/ipeeyoupeewepee)",
+      "description": "Scanner and attack suite for hosts that forward unauthenticated packets via IPIP and GRE protocols. (CVE-2020-10136 CVE-2024-7595)",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T19:41:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-23733",
+      "repo_info": "[ekcrsm/CVE-2024-23733](https://github.com/ekcrsm/CVE-2024-23733)",
+      "description": "no description",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T13:30:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-12084",
+      "repo_info": "[themirze/cve-2024-12084](https://github.com/themirze/cve-2024-12084)",
+      "description": "no description",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T02:13:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[Mephierr/DirtyPipe_exploit](https://github.com/Mephierr/DirtyPipe_exploit)",
+      "description": "CVE-2022-0847",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T11:15:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-40438",
+      "repo_info": "[element-security/check-point-gateways-rce](https://github.com/element-security/check-point-gateways-rce)",
+      "description": "Check Point Security Gateways RCE via CVE-2021-40438",
+      "date": "2025-01-21",
+      "raw_date": "2025-01-21T13:16:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.907433",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2025-01-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2018-12-19",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8120",
+      "repo_info": "[qiantu88/CVE-2018-8120](https://github.com/qiantu88/CVE-2018-8120)",
+      "description": "no description",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T10:58:55Z"
+    },
+    {
+      "cve_id": "CVE-2018-4878",
+      "repo_info": "[Yable/CVE-2018-4878](https://github.com/Yable/CVE-2018-4878)",
+      "description": "no description",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T13:22:03Z"
+    },
+    {
+      "cve_id": "CVE-2018-4878",
+      "repo_info": "[nikhil1232/LibSSH-Authentication-Bypass](https://github.com/nikhil1232/LibSSH-Authentication-Bypass)",
+      "description": "LibSSH Authentication Bypass CVE-2018-10933",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T15:33:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-0296",
+      "repo_info": "[qiantu88/CVE-2018-0296](https://github.com/qiantu88/CVE-2018-0296)",
+      "description": "https://github.com/milo2012/CVE-2018-0296.git",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T11:57:43Z"
+    },
+    {
+      "cve_id": "CVE-2017-12617",
+      "repo_info": "[qiantu88/CVE-2017-12617](https://github.com/qiantu88/CVE-2017-12617)",
+      "description": "no description",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T10:26:33Z"
+    },
+    {
+      "cve_id": "CVE-2016-3957",
+      "repo_info": "[sj/web2py-e94946d-CVE-2016-3957](https://github.com/sj/web2py-e94946d-CVE-2016-3957)",
+      "description": "web2py/web2py @ e94946d",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T16:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2012-5106",
+      "repo_info": "[war4uthor/CVE-2012-5106](https://github.com/war4uthor/CVE-2012-5106)",
+      "description": "CVE-2012-5106 - Freefloat FTP Server Buffer Overflow Vulnerability. Tested on Windows XP Professional SP3.",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T22:40:51Z"
+    },
+    {
+      "cve_id": "CVE-2007-1567",
+      "repo_info": "[war4uthor/CVE-2007-1567](https://github.com/war4uthor/CVE-2007-1567)",
+      "description": "CVE-2007-1567 - WarFTP 1.65 'USER' Remote Buffer Overflow Vulnerability. Tested on Windows XP Professional SP3.",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T22:02:54Z"
+    },
+    {
+      "cve_id": "CVE-2004-2271",
+      "repo_info": "[war4uthor/CVE-2004-2271](https://github.com/war4uthor/CVE-2004-2271)",
+      "description": "CVE-2004-2271 - Minishare 1.4.1 HTTP Server Remote Buffer Overflow Vulnerability. Tested on Windows XP Professional SP3.",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T00:27:20Z"
+    },
+    {
+      "cve_id": "CVE-2003-0264",
+      "repo_info": "[war4uthor/CVE-2003-0264](https://github.com/war4uthor/CVE-2003-0264)",
+      "description": "CVE-2003-0264 - SLMail 5.5 POP3 'PASS' Remote Buffer Overflow Vulnerability. Tested on Windows XP Professional SP3.",
+      "date": "2018-12-19",
+      "raw_date": "2018-12-19T22:49:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.732774",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2018-12-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,664 @@
+{
+  "date": "2023-01-24",
+  "count": 93,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-24055",
+      "repo_info": "[deetl/CVE-2023-24055](https://github.com/deetl/CVE-2023-24055)",
+      "description": "POC and Scanner for CVE-2023-24055",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:19:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-23488",
+      "repo_info": "[r3nt0n/CVE-2023-23488-PoC](https://github.com/r3nt0n/CVE-2023-23488-PoC)",
+      "description": "Unauthenticated SQL Injection - Paid Memberships Pro &lt; 2.9.8 (WordPress Plugin)",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T18:26:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-23331",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23331](https://github.com/Live-Hack-CVE/CVE-2023-23331)",
+      "description": "Amano Xoffice parking solutions 7.1.3879 is vulnerable to SQL Injection. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-22960",
+      "repo_info": "[manas3c/CVE-2023-22960](https://github.com/manas3c/CVE-2023-22960)",
+      "description": "no description",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T20:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-22960",
+      "repo_info": "[t3l3machus/CVE-2023-22960](https://github.com/t3l3machus/CVE-2023-22960)",
+      "description": "This vulnerability allows an attacker to bypass the credentials brute-force prevention mechanism of the Embedded Web Server (interface) of more than 60 Lexmark printer models. This issue affects both username-password and PIN authentication.",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T08:33:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-22485",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22485](https://github.com/Live-Hack-CVE/CVE-2023-22485)",
+      "description": "cmark-gfm is GitHub&#x27;s fork of cmark, a CommonMark parsing and rendering library and program in C. In versions prior 0.29.0.gfm.7, a crafted markdown document can trigger an out-of-bounds read in the `validate_protocol` function. We believe this bug is harmless in practice, because the out-of-bounds read accesses `mallo CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-22484",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22484](https://github.com/Live-Hack-CVE/CVE-2023-22484)",
+      "description": "cmark-gfm is GitHub&#x27;s fork of cmark, a CommonMark parsing and rendering library and program in C. Versions prior to 0.29.0.gfm.7 are subject to a polynomial time complexity issue in cmark-gfm that may lead to unbounded resource exhaustion and subsequent denial of service. This vulnerability has been patched in 0.29.0.g CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T02:08:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-22483",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22483](https://github.com/Live-Hack-CVE/CVE-2023-22483)",
+      "description": "cmark-gfm is GitHub&#x27;s fork of cmark, a CommonMark parsing and rendering library and program in C. Versions prior to 0.29.0.gfm.7 are subject to several polynomial time complexity issues in cmark-gfm that may lead to unbounded resource exhaustion and subsequent denial of service. Various commands, when piped to cmark-gf CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T02:08:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-22398",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22398](https://github.com/Live-Hack-CVE/CVE-2023-22398)",
+      "description": "An Access of Uninitialized Pointer vulnerability in the Routing Protocol Daemon (rpd) of Juniper Networks Junos OS and Junos OS Evolved allows a locally authenticated attacker with low privileges to cause a Denial of Service (DoS). When an MPLS ping is performed on BGP LSPs, the RPD might crash. Repeated execution of t CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:49:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-21879",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21879](https://github.com/Live-Hack-CVE/CVE-2023-21879)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-21878",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21878](https://github.com/Live-Hack-CVE/CVE-2023-21878)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-21877",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21877](https://github.com/Live-Hack-CVE/CVE-2023-21877)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-21876",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21876](https://github.com/Live-Hack-CVE/CVE-2023-21876)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-21875",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21875](https://github.com/Live-Hack-CVE/CVE-2023-21875)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Security: Encryption).  Supported versions that are affected are 8.0.31 and prior. Difficult to exploit vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks o CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-21874",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21874](https://github.com/Live-Hack-CVE/CVE-2023-21874)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Thread Pooling).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this v CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:05:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-21873",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21873](https://github.com/Live-Hack-CVE/CVE-2023-21873)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-21872",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21872](https://github.com/Live-Hack-CVE/CVE-2023-21872)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.29 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-21871",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21871](https://github.com/Live-Hack-CVE/CVE-2023-21871)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-21870",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21870](https://github.com/Live-Hack-CVE/CVE-2023-21870)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-21869",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21869](https://github.com/Live-Hack-CVE/CVE-2023-21869)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: InnoDB).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnerability can CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:04:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-21868",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21868](https://github.com/Live-Hack-CVE/CVE-2023-21868)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows low privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulnera CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-21867",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21867](https://github.com/Live-Hack-CVE/CVE-2023-21867)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:05:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-21866",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21866](https://github.com/Live-Hack-CVE/CVE-2023-21866)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.28 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:05:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-21865",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21865](https://github.com/Live-Hack-CVE/CVE-2023-21865)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.30 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:05:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-21863",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21863](https://github.com/Live-Hack-CVE/CVE-2023-21863)",
+      "description": "Vulnerability in the MySQL Server product of Oracle MySQL (component: Server: Optimizer).  Supported versions that are affected are 8.0.31 and prior. Easily exploitable vulnerability allows high privileged attacker with network access via multiple protocols to compromise MySQL Server.  Successful attacks of this vulner CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T22:05:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-21796",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21796](https://github.com/Live-Hack-CVE/CVE-2023-21796)",
+      "description": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21795. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T02:08:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-21795",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21795](https://github.com/Live-Hack-CVE/CVE-2023-21795)",
+      "description": "Microsoft Edge (Chromium-based) Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21796. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T02:08:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-21775",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21775](https://github.com/Live-Hack-CVE/CVE-2023-21775)",
+      "description": "Microsoft Edge (Chromium-based) Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T02:08:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-21719",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21719](https://github.com/Live-Hack-CVE/CVE-2023-21719)",
+      "description": "Microsoft Edge (Chromium-based) Security Feature Bypass Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T02:08:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-0323",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0323](https://github.com/Live-Hack-CVE/CVE-2023-0323)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 10.5.14. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:39:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-45639",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45639](https://github.com/Live-Hack-CVE/CVE-2022-45639)",
+      "description": "OS Command injection vulnerability in sleuthkit fls tool 4.11.1 allows attackers to execute arbitrary commands via a crafted value to the m parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-4554",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4554](https://github.com/Live-Hack-CVE/CVE-2022-4554)",
+      "description": "B2B Customer Ordering System developed by ID Software Project and Consultancy Services before version 1.0.0.347 has an authenticated Reflected XSS vulnerability. This has been fixed in the version 1.0.0.347. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T12:08:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-25046",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-25046](https://github.com/Live-Hack-CVE/CVE-2022-25046)",
+      "description": "A path traversal vulnerability in loader.php of CWP v0.9.8.1122 allows attackers to execute arbitrary code via a crafted POST request. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-23529",
+      "repo_info": "[iswaxan/JailedCement](https://github.com/iswaxan/JailedCement)",
+      "description": "Simple iOS bootlooper using CVE-2022-46689. Desguised as onlyfans",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T23:13:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[mutur4/CVE-2022-0847](https://github.com/mutur4/CVE-2022-0847)",
+      "description": "This is a repo to showcase the dirty pipe Linux Kernel Vulnerability.",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T08:44:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-0808",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-0808](https://github.com/Live-Hack-CVE/CVE-2022-0808)",
+      "description": "Use after free in Chrome OS Shell in Google Chrome on Chrome OS prior to 99.0.4844.51 allowed a remote attacker who convinced a user to engage in a series of user interaction to potentially exploit heap corruption via user interactions. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[mutur4/CVE-2021-4034](https://github.com/mutur4/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T08:29:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-39027",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-39027](https://github.com/Live-Hack-CVE/CVE-2021-39027)",
+      "description": "IBM Guardium Data Encryption (GDE) 4.0.0 and 5.0.0 prepares a structured message for communication with another component, but encoding or escaping of the data is either missing or done incorrectly. As a result, the intended structure of the message is not preserved. IBM X-Force ID: 213865. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-31324",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31324](https://github.com/Live-Hack-CVE/CVE-2021-31324)",
+      "description": "The unprivileged user portal part of CentOS Web Panel is affected by a Command Injection vulnerability leading to root Remote Code Execution. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:49:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-31316",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31316](https://github.com/Live-Hack-CVE/CVE-2021-31316)",
+      "description": "The unprivileged user portal part of CentOS Web Panel is affected by a SQL Injection via the &#x27;idsession&#x27; HTTP POST parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:49:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-29447",
+      "repo_info": "[0xRar/CVE-2021-29447-PoC](https://github.com/0xRar/CVE-2021-29447-PoC)",
+      "description": "A proof of concept exploit for a wordpress media library vulnerability",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T16:43:13Z"
+    },
+    {
+      "cve_id": "CVE-2021-29024",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-29024](https://github.com/Live-Hack-CVE/CVE-2021-29024)",
+      "description": "In InvoicePlane 1.5.11 a misconfigured web server allows unauthenticated directory listing and file download. Allowing an attacker to directory traversal and download files suppose to be private without authentication. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:17Z"
+    },
+    {
+      "cve_id": "CVE-2020-8026",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-8026](https://github.com/Live-Hack-CVE/CVE-2020-8026)",
+      "description": "A Incorrect Default Permissions vulnerability in the packaging of inn in openSUSE Leap 15.2, openSUSE Tumbleweed, openSUSE Leap 15.1 allows local attackers with control of the new user to escalate their privileges to root. This issue affects: openSUSE Leap 15.2 inn version 2.6.2-lp152.1.26 and prior versions. openSUSE  CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-5791",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-5791](https://github.com/Live-Hack-CVE/CVE-2020-5791)",
+      "description": "Improper neutralization of special elements used in an OS command in Nagios XI 5.7.3 allows a remote, authenticated admin user to execute operating system commands with the privileges of the apache user. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-5497",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-5497](https://github.com/Live-Hack-CVE/CVE-2020-5497)",
+      "description": "The OpenID Connect reference implementation for MITREid Connect through 1.3.3 allows XSS due to userInfoJson being included in the page unsanitized. This is related to header.tag. The issue can be exploited to execute arbitrary JavaScript. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-5496",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-5496](https://github.com/Live-Hack-CVE/CVE-2020-5496)",
+      "description": "FontForge 20190801 has a heap-based buffer overflow in the Type2NotDefSplines() function in splinesave.c. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-5395",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-5395](https://github.com/Live-Hack-CVE/CVE-2020-5395)",
+      "description": "FontForge 20190801 has a use-after-free in SFD_GetFontMetaData in sfd.c. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-5313",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-5313](https://github.com/Live-Hack-CVE/CVE-2020-5313)",
+      "description": "libImaging/FliDecode.c in Pillow before 6.2.2 has an FLI buffer overflow. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:41:05Z"
+    },
+    {
+      "cve_id": "CVE-2020-25269",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-25269](https://github.com/Live-Hack-CVE/CVE-2020-25269)",
+      "description": "An issue was discovered in InspIRCd 2 before 2.0.29 and 3 before 3.6.0. The pgsql module contains a use after free vulnerability. When combined with the sqlauth or sqloper modules, this vulnerability can be used for remote crashing of an InspIRCd server by any user able to connect to a server. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:28Z"
+    },
+    {
+      "cve_id": "CVE-2020-24370",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24370](https://github.com/Live-Hack-CVE/CVE-2020-24370)",
+      "description": "ldebug.c in Lua 5.4.0 allows a negation overflow and segmentation fault in getlocal and setlocal, as demonstrated by getlocal(3,2^31). CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:10Z"
+    },
+    {
+      "cve_id": "CVE-2020-17505",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-17505](https://github.com/Live-Hack-CVE/CVE-2020-17505)",
+      "description": "Artica Web Proxy 4.30.000000 allows an authenticated remote attacker to inject commands via the service-cmds parameter in cyrus.php. These commands are executed with root privileges via service_cmds_peform. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:52Z"
+    },
+    {
+      "cve_id": "CVE-2020-17353",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-17353](https://github.com/Live-Hack-CVE/CVE-2020-17353)",
+      "description": "scm/define-stencil-commands.scm in LilyPond through 2.20.0, and 2.21.x through 2.21.4, when -dsafe is used, lacks restrictions on embedded-ps and embedded-svg, as demonstrated by including dangerous PostScript code. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:59Z"
+    },
+    {
+      "cve_id": "CVE-2020-15701",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15701](https://github.com/Live-Hack-CVE/CVE-2020-15701)",
+      "description": "An unhandled exception in check_ignored() in apport/report.py can be exploited by a local attacker to cause a denial of service. If the mtime attribute is a string value in apport-ignore.xml, it will trigger an unhandled exception, resulting in a crash. Fixed in 2.20.1-0ubuntu2.24, 2.20.9-0ubuntu7.16, 2.20.11-0ubuntu27 CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:56Z"
+    },
+    {
+      "cve_id": "CVE-2020-15645",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15645](https://github.com/Live-Hack-CVE/CVE-2020-15645)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole 5.5.0.64. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the getFileFromURL method of the  CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-15643",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15643](https://github.com/Live-Hack-CVE/CVE-2020-15643)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of Marvell QConvergeConsole 5.5.0.64. Although authentication is required to exploit this vulnerability, the existing authentication mechanism can be bypassed. The specific flaw exists within the saveAsText method of the GWTT CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-15624",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15624](https://github.com/Live-Hack-CVE/CVE-2020-15624)",
+      "description": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_new_account.php. When parsing the domain parameter, the process does not proper CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-15620",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15620](https://github.com/Live-Hack-CVE/CVE-2020-15620)",
+      "description": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_list_accounts.php. When parsing the id parameter, the process does not properly CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:40Z"
+    },
+    {
+      "cve_id": "CVE-2020-15616",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15616](https://github.com/Live-Hack-CVE/CVE-2020-15616)",
+      "description": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_list_accounts.php. When parsing the package parameter, the process does not pro CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-15612",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15612](https://github.com/Live-Hack-CVE/CVE-2020-15612)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_ftp_manager.php. When parsing the userLogin parameter, the process does not properly va CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-15435",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15435](https://github.com/Live-Hack-CVE/CVE-2020-15435)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_dashboard.php. When parsing the service_start parameter, the process does not properly  CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-15434",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15434](https://github.com/Live-Hack-CVE/CVE-2020-15434)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_php_pecl.php. When parsing the canal parameter, the process does not properly validate  CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:51:05Z"
+    },
+    {
+      "cve_id": "CVE-2020-15429",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15429](https://github.com/Live-Hack-CVE/CVE-2020-15429)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_crons.php. When parsing the user parameter, the process does not properly validate a us CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:28Z"
+    },
+    {
+      "cve_id": "CVE-2020-15422",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15422](https://github.com/Live-Hack-CVE/CVE-2020-15422)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of CentOS Web Panel cwp-e17.0.9.8.923. Authentication is not required to exploit this vulnerability. The specific flaw exists within ajax_mod_security.php. When parsing the archivo parameter, the process does not properly val CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-15094",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15094](https://github.com/Live-Hack-CVE/CVE-2020-15094)",
+      "description": "In Symfony before versions 4.4.13 and 5.1.5, the CachingHttpClient class from the HttpClient Symfony component relies on the HttpCache class to handle requests. HttpCache uses internal headers like X-Body-Eval and X-Body-File to control the restoration of cached responses. The class was initially written with surrogate CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-14350",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14350](https://github.com/Live-Hack-CVE/CVE-2020-14350)",
+      "description": "It was found that some PostgreSQL extensions did not use search_path safely in their installation script. An attacker with sufficient privileges could use this flaw to trick an administrator into executing a specially crafted script, during the installation or update of such extension. This affects PostgreSQL versions  CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:02Z"
+    },
+    {
+      "cve_id": "CVE-2020-14349",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14349](https://github.com/Live-Hack-CVE/CVE-2020-14349)",
+      "description": "It was found that PostgreSQL versions before 12.4, before 11.9 and before 10.14 did not properly sanitize the search_path during logical replication. An authenticated attacker could use this flaw in an attack similar to CVE-2018-1058, in order to execute arbitrary SQL command in the context of the user used for replica CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-10056",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-10056](https://github.com/Live-Hack-CVE/CVE-2020-10056)",
+      "description": "A vulnerability has been identified in License Management Utility (LMU) (All versions &lt; V2.4). The lmgrd service of the affected application is executed with local SYSTEM privileges on the server while its configuration can be modified by local users. The vulnerability could allow a local authenticated attacker to exec CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:41:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-7646",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-7646](https://github.com/Live-Hack-CVE/CVE-2019-7646)",
+      "description": "CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.763 is vulnerable to Stored/Persistent XSS for the &quot;Package Name&quot; field via the add_package module parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-25044",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25044](https://github.com/Live-Hack-CVE/CVE-2019-25044)",
+      "description": "The block subsystem in the Linux kernel before 5.2 has a use-after-free that can lead to arbitrary code execution in the kernel context and privilege escalation, aka CID-c3e2219216c9. This is related to blk_mq_free_rqs and blk_cleanup_queue. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-20382",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-20382](https://github.com/Live-Hack-CVE/CVE-2019-20382)",
+      "description": "QEMU 4.1.0 has a memory leak in zrle_compress_data in ui/vnc-enc-zrle.c during a VNC disconnect operation because libz is misused, resulting in a situation where memory allocated in deflateInit2 is not freed in deflateEnd. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-18860",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-18860](https://github.com/Live-Hack-CVE/CVE-2019-18860)",
+      "description": "Squid before 4.9, when certain web browsers are used, mishandles HTML in the host (aka hostname) parameter to cachemgr.cgi. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:20Z"
+    },
+    {
+      "cve_id": "CVE-2019-16775",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-16775](https://github.com/Live-Hack-CVE/CVE-2019-16775)",
+      "description": "Versions of the npm CLI prior to 6.13.3 are vulnerable to an Arbitrary File Write. It is possible for packages to create symlinks to files outside of thenode_modules folder through the bin field upon installation. A properly constructed entry in the package.json bin field would allow a package publisher to create a sym CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-15235",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-15235](https://github.com/Live-Hack-CVE/CVE-2019-15235)",
+      "description": "CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.864 allows an attacker to get a victim&#x27;s session file name from /home/[USERNAME]/tmp/session/sess_xxxxxx, and the victim&#x27;s token value from /usr/local/cwpsrv/logs/access_log, then use them to gain access to the victim&#x27;s password (for the OS and phpMyAdmin) via an att CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:21Z"
+    },
+    {
+      "cve_id": "CVE-2019-14729",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-14729](https://github.com/Live-Hack-CVE/CVE-2019-14729)",
+      "description": "In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.851, an insecure object reference allows an attacker to delete a sub-domain from a victim&#x27;s account via an attacker account. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-14726",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-14726](https://github.com/Live-Hack-CVE/CVE-2019-14726)",
+      "description": "In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.851, an insecure object reference allows an attacker to access and delete DNS records of a victim&#x27;s account via an attacker account. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:51:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-13359",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-13359](https://github.com/Live-Hack-CVE/CVE-2019-13359)",
+      "description": "In CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.836, a cwpsrv-xxx cookie allows a normal user to craft and upload a session file to the /tmp directory, and use it to become the root user. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-5962",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-5962](https://github.com/Live-Hack-CVE/CVE-2018-5962)",
+      "description": "index.php in CentOS-WebPanel.com (aka CWP) CentOS Web Panel through v0.9.8.12 has XSS via the id parameter to the phpini_editor module or the email_address parameter to the mail_add-new module. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-5961",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-5961](https://github.com/Live-Hack-CVE/CVE-2018-5961)",
+      "description": "CentOS-WebPanel.com (aka CWP) CentOS Web Panel through v0.9.8.12 has XSS via the `module` value of the `index.php` file. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:13Z"
+    },
+    {
+      "cve_id": "CVE-2018-18774",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-18774](https://github.com/Live-Hack-CVE/CVE-2018-18774)",
+      "description": "CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.740 allows XSS via the admin/index.php module parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-18772",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-18772](https://github.com/Live-Hack-CVE/CVE-2018-18772)",
+      "description": "CentOS-WebPanel.com (aka CWP) CentOS Web Panel through 0.9.8.740 allows CSRF via admin/index.php?module=send_ssh, as demonstrated by executing an arbitrary OS command. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-18322",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-18322](https://github.com/Live-Hack-CVE/CVE-2018-18322)",
+      "description": "CentOS-WebPanel.com (aka CWP) CentOS Web Panel 0.9.8.480 has Command Injection via shell metacharacters in the admin/index.php service_start, service_restart, service_fullstatus, or service_stop parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T19:50:17Z"
+    },
+    {
+      "cve_id": "CVE-2018-0315",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-0315](https://github.com/Live-Hack-CVE/CVE-2018-0315)",
+      "description": "A vulnerability in the authentication, authorization, and accounting (AAA) security services of Cisco IOS XE Software could allow an unauthenticated, remote attacker to execute arbitrary code on an affected device or cause an affected device to reload, resulting in a denial of service (DoS) condition. The vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:11Z"
+    },
+    {
+      "cve_id": "CVE-2016-6664",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-6664](https://github.com/Live-Hack-CVE/CVE-2016-6664)",
+      "description": "mysqld_safe in Oracle MySQL through 5.5.51, 5.6.x through 5.6.32, and 5.7.x through 5.7.14; MariaDB; Percona Server before 5.5.51-38.2, 5.6.x before 5.6.32-78-1, and 5.7.x before 5.7.14-8; and Percona XtraDB Cluster before 5.5.41-37.0, 5.6.x before 5.6.32-25.17, and 5.7.x before 5.7.14-26.17, when using file-based logg CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:16Z"
+    },
+    {
+      "cve_id": "CVE-2016-4183",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4183](https://github.com/Live-Hack-CVE/CVE-2016-4183)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:21Z"
+    },
+    {
+      "cve_id": "CVE-2016-4182",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4182](https://github.com/Live-Hack-CVE/CVE-2016-4182)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2016-4181",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4181](https://github.com/Live-Hack-CVE/CVE-2016-4181)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:29Z"
+    },
+    {
+      "cve_id": "CVE-2016-4180",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4180](https://github.com/Live-Hack-CVE/CVE-2016-4180)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-4172, CVE-2016-4175, CVE-2016-417 CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T15:28:25Z"
+    },
+    {
+      "cve_id": "CVE-2014-3394",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-3394](https://github.com/Live-Hack-CVE/CVE-2014-3394)",
+      "description": "The Smart Call Home (SCH) implementation in Cisco ASA Software 8.2 before 8.2(5.50), 8.4 before 8.4(7.15), 8.6 before 8.6(1.14), 8.7 before 8.7(1.13), 9.0 before 9.0(4.8), and 9.1 before 9.1(5.1) allows remote attackers to bypass certificate validation via an arbitrary VeriSign certificate, aka Bug ID CSCun10916. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:21Z"
+    },
+    {
+      "cve_id": "CVE-2013-7490",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-7490](https://github.com/Live-Hack-CVE/CVE-2013-7490)",
+      "description": "An issue was discovered in the DBI module before 1.632 for Perl. Using many arguments to methods for Callbacks may lead to memory corruption. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:35Z"
+    },
+    {
+      "cve_id": "CVE-2013-0899",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-0899](https://github.com/Live-Hack-CVE/CVE-2013-0899)",
+      "description": "Integer overflow in the padding implementation in the opus_packet_parse_impl function in src/opus_decoder.c in Opus before 1.0.2, as used in Google Chrome before 25.0.1364.97 on Windows and Linux and before 25.0.1364.99 on Mac OS X and other products, allows remote attackers to cause a denial of service (out-of-bounds  CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2013-0898",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-0898](https://github.com/Live-Hack-CVE/CVE-2013-0898)",
+      "description": "Use-after-free vulnerability in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors involving a URL. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2013-0880",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-0880](https://github.com/Live-Hack-CVE/CVE-2013-0880)",
+      "description": "Use-after-free vulnerability in Google Chrome before 25.0.1364.97 on Windows and Linux, and before 25.0.1364.99 on Mac OS X, allows remote attackers to cause a denial of service or possibly have unspecified other impact via vectors related to databases. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T06:40:53Z"
+    },
+    {
+      "cve_id": "CVE-2009-3732",
+      "repo_info": "[Live-Hack-CVE/CVE-2009-3732](https://github.com/Live-Hack-CVE/CVE-2009-3732)",
+      "description": "Format string vulnerability in vmware-vmrc.exe build 158248 in VMware Remote Console (aka VMrc) allows remote attackers to execute arbitrary code via unspecified vectors. CVE project by @Sn0wAlice",
+      "date": "2023-01-24",
+      "raw_date": "2023-01-24T17:40:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.081349",
+  "metadata": {
+    "total_cves": 93,
+    "date_range": "2023-01-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

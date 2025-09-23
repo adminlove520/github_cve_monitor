@@ -1,0 +1,41 @@
+{
+  "date": "2019-06-11",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[at0mik/CVE-2019-0708-PoC](https://github.com/at0mik/CVE-2019-0708-PoC)",
+      "description": "CVE-2019-0708-PoC It is a semi-functional exploit capable of remotely accessing a Windows computer by exploiting the aforementioned vulnerability, this repository also contains notes on how to complete the attack.",
+      "date": "2019-06-11",
+      "raw_date": "2019-06-11T09:38:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[Pa55w0rd/CVE-2019-0708](https://github.com/Pa55w0rd/CVE-2019-0708)",
+      "description": "CVE-2019-0708批量检测",
+      "date": "2019-06-11",
+      "raw_date": "2019-06-11T05:38:26Z"
+    },
+    {
+      "cve_id": "CVE-2014-9222",
+      "repo_info": "[BenChaliah/MIPS-CVE-2014-9222](https://github.com/BenChaliah/MIPS-CVE-2014-9222)",
+      "description": "Lets have fun by digging into a Zyxel router firmware and MIPS Arch",
+      "date": "2019-06-11",
+      "raw_date": "2019-06-11T18:00:36Z"
+    },
+    {
+      "cve_id": "CVE-2009-1244",
+      "repo_info": "[piotrbania/vmware_exploit_pack_CVE-2009-1244](https://github.com/piotrbania/vmware_exploit_pack_CVE-2009-1244)",
+      "description": "vmware cloudburst exploit CVE-2009-1244",
+      "date": "2019-06-11",
+      "raw_date": "2019-06-11T09:08:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.797665",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-06-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

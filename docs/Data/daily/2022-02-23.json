@@ -1,0 +1,41 @@
+{
+  "date": "2022-02-23",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0242",
+      "repo_info": "[pazhanivel07/frameworks_av-10-r33_CVE-2020-0242](https://github.com/pazhanivel07/frameworks_av-10-r33_CVE-2020-0242)",
+      "description": "no description",
+      "date": "2022-02-23",
+      "raw_date": "2022-02-23T11:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2020-0219",
+      "repo_info": "[pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219](https://github.com/pazhanivel07/Settings_10-r33_CVE-CVE-2020-0219)",
+      "description": "no description",
+      "date": "2022-02-23",
+      "raw_date": "2022-02-23T10:10:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-0209",
+      "repo_info": "[pazhanivel07/frameworks_base_CVE-2020-0209](https://github.com/pazhanivel07/frameworks_base_CVE-2020-0209)",
+      "description": "no description",
+      "date": "2022-02-23",
+      "raw_date": "2022-02-23T10:44:33Z"
+    },
+    {
+      "cve_id": "CVE-2012-2661",
+      "repo_info": "[Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-](https://github.com/Blackyguy/-CVE-2012-2661-ActiveRecord-SQL-injection-)",
+      "description": "no description",
+      "date": "2022-02-23",
+      "raw_date": "2022-02-23T10:15:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.696369",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-02-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

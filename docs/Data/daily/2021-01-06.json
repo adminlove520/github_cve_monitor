@@ -1,0 +1,97 @@
+{
+  "date": "2021-01-06",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-28052",
+      "repo_info": "[shanika04/apache_skywalking](https://github.com/shanika04/apache_skywalking)",
+      "description": "CVE-2020-9483 OR CVE-2020-13921",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:22:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[B1anda0/CVE-2020-17519](https://github.com/B1anda0/CVE-2020-17519)",
+      "description": "Apache Flink 目录遍历漏洞批量检测 (CVE-2020-17519)",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T02:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[dolevf/apache-flink-directory-traversal.nse](https://github.com/dolevf/apache-flink-directory-traversal.nse)",
+      "description": "Apache Flink Directory Traversal (CVE-2020-17519) Nmap NSE Script",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T16:03:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[QmF0c3UK/CVE-2020-17519](https://github.com/QmF0c3UK/CVE-2020-17519)",
+      "description": "no description",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:41:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-17518",
+      "repo_info": "[QmF0c3UK/CVE-2020-17518](https://github.com/QmF0c3UK/CVE-2020-17518)",
+      "description": "no description",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:40:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-17518",
+      "repo_info": "[shanika04/apache_kylin](https://github.com/shanika04/apache_kylin)",
+      "description": "CVE-2020-1937",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:31:20Z"
+    },
+    {
+      "cve_id": "CVE-2020-17518",
+      "repo_info": "[yshdxm/CVE-2020](https://github.com/yshdxm/CVE-2020)",
+      "description": "2020一些漏洞",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:45:59Z"
+    },
+    {
+      "cve_id": "CVE-2020-0001",
+      "repo_info": "[Zachinio/CVE-2020-0001](https://github.com/Zachinio/CVE-2020-0001)",
+      "description": "POC to run system component in an untrusted-app process",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T18:51:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[shanika04/hibernate-orm](https://github.com/shanika04/hibernate-orm)",
+      "description": "CVE-2019-14900",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:06:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-16651",
+      "repo_info": "[ropbear/CVE-2017-16651](https://github.com/ropbear/CVE-2017-16651)",
+      "description": "Python implementation of Roundcube LFI (CVE-2017-16651)",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T01:46:39Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[shanika04/dashbuilder](https://github.com/shanika04/dashbuilder)",
+      "description": "CVE-2016-4999",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T13:02:50Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[shanika04/cloudfoundry_uaa](https://github.com/shanika04/cloudfoundry_uaa)",
+      "description": "CVE-2016-4468",
+      "date": "2021-01-06",
+      "raw_date": "2021-01-06T12:34:36Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.261554",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2021-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

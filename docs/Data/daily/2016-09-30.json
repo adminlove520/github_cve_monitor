@@ -1,0 +1,27 @@
+{
+  "date": "2016-09-30",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-2776",
+      "repo_info": "[infobyte/CVE-2016-2776](https://github.com/infobyte/CVE-2016-2776)",
+      "description": "CVE-2016-2776",
+      "date": "2016-09-30",
+      "raw_date": "2016-09-30T00:40:44Z"
+    },
+    {
+      "cve_id": "CVE-2015-3864",
+      "repo_info": "[HenryVHuang/CVE-2015-3864](https://github.com/HenryVHuang/CVE-2015-3864)",
+      "description": "just some research notes",
+      "date": "2016-09-30",
+      "raw_date": "2016-09-30T03:39:14Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.449606",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-09-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

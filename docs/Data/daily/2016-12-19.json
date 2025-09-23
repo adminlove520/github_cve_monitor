@@ -1,0 +1,20 @@
+{
+  "date": "2016-12-19",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-6282",
+      "repo_info": "[timwr/CVE-2013-6282](https://github.com/timwr/CVE-2013-6282)",
+      "description": "CVE-2013-6282 proof of concept for Android",
+      "date": "2016-12-19",
+      "raw_date": "2016-12-19T16:14:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.469354",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-12-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

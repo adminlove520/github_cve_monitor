@@ -1,0 +1,55 @@
+{
+  "date": "2024-01-21",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-65230",
+      "repo_info": "[keru6k/Online-Admission-System-RCE-PoC](https://github.com/keru6k/Online-Admission-System-RCE-PoC)",
+      "description": "projectworlds&#x27; Online Admission System RCE vulnerability PoC, Categorized as CVE-2024-0783",
+      "date": "2024-01-21",
+      "raw_date": "2024-01-21T13:26:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-29384",
+      "repo_info": "[randshell/CVE-2024-29384](https://github.com/randshell/CVE-2024-29384)",
+      "description": "no description",
+      "date": "2024-01-21",
+      "raw_date": "2024-01-21T13:33:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-24141",
+      "repo_info": "[BurakSevben/CVE-2024-24141](https://github.com/BurakSevben/CVE-2024-24141)",
+      "description": "no description",
+      "date": "2024-01-21",
+      "raw_date": "2024-01-21T23:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-24140",
+      "repo_info": "[BurakSevben/CVE-2024-24140](https://github.com/BurakSevben/CVE-2024-24140)",
+      "description": "no description",
+      "date": "2024-01-21",
+      "raw_date": "2024-01-21T21:45:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[prasad-1808/tool-29489](https://github.com/prasad-1808/tool-29489)",
+      "description": "This Tool is used to check for CVE-2023-29489 Vulnerability in the provided URL with the set of payloads available",
+      "date": "2024-01-21",
+      "raw_date": "2024-01-21T19:23:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-45688",
+      "repo_info": "[scabench/jsonorg-fn1](https://github.com/scabench/jsonorg-fn1)",
+      "description": "simple application with a CVE-2022-45688 vulnerability",
+      "date": "2024-01-21",
+      "raw_date": "2024-01-21T01:28:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.370678",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2024-01-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

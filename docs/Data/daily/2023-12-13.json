@@ -1,0 +1,97 @@
+{
+  "date": "2023-12-13",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-6553",
+      "repo_info": "[Chocapikk/CVE-2023-6553](https://github.com/Chocapikk/CVE-2023-6553)",
+      "description": "Backup Migration &lt;= 1.3.7 - Unauthenticated Remote Code Execution",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T20:26:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-5561",
+      "repo_info": "[pog007/CVE-2023-5561-PoC](https://github.com/pog007/CVE-2023-5561-PoC)",
+      "description": "WordPress does not properly restrict which user fields are searchable via the REST API, allowing unauthenticated attackers to discern the email addresses of users who have published public posts on an affected website via an Oracle style attack",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T16:43:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-50164",
+      "repo_info": "[jakabakos/CVE-2023-50164-Apache-Struts-RCE](https://github.com/jakabakos/CVE-2023-50164-Apache-Struts-RCE)",
+      "description": "A critical security vulnerability, identified as CVE-2023-50164 (CVE: 9.8) was found in Apache Struts, allowing attackers to manipulate file upload parameters that can potentially lead to unauthorized path traversal and remote code execution (RCE).",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T09:31:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-4636",
+      "repo_info": "[ThatNotEasy/CVE-2023-4636](https://github.com/ThatNotEasy/CVE-2023-4636)",
+      "description": "Unauthenticated Remote Code Execution with default Imagick",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T17:59:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-26035",
+      "repo_info": "[heapbytes/CVE-2023-26035](https://github.com/heapbytes/CVE-2023-26035)",
+      "description": "POC script for CVE-2023-26035 (zoneminder 1.36.32)",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T15:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[C1ph3rX13/CVE-2023-23752](https://github.com/C1ph3rX13/CVE-2023-23752)",
+      "description": "CVE-2023-23752 Joomla Unauthenticated Information Disclosure",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T03:13:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[codeb0ss/CVE-2023-20198-PoC](https://github.com/codeb0ss/CVE-2023-20198-PoC)",
+      "description": "CVE-2023-20198 / 0day - Cisco - Authentication Bypass/RCE",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T22:45:25Z"
+    },
+    {
+      "cve_id": "CVE-2020-25668",
+      "repo_info": "[hshivhare67/Kernel_4.1.15_CVE-2020-25668](https://github.com/hshivhare67/Kernel_4.1.15_CVE-2020-25668)",
+      "description": "no description",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T09:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-5029",
+      "repo_info": "[SpiralBL0CK/cve2019-0539](https://github.com/SpiralBL0CK/cve2019-0539)",
+      "description": "no description",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T20:17:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[hev0x/CVE-2018-25031-PoC](https://github.com/hev0x/CVE-2018-25031-PoC)",
+      "description": "PoC of CVE-2018-25031",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T18:42:20Z"
+    },
+    {
+      "cve_id": "CVE-2017-16995",
+      "repo_info": "[mareks1007/cve-2017-16995](https://github.com/mareks1007/cve-2017-16995)",
+      "description": "no description",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T18:49:54Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[MY7H404/CVE-2014-6271-Shellshock](https://github.com/MY7H404/CVE-2014-6271-Shellshock)",
+      "description": "The Shellshock Exploit is a tool designed to efficiently exploit the Shellshock vulnerability (CVE-2014-6271) in susceptible CGI servers, enabling a precise takeover of the target server. Shellshock is a critical security vulnerability that affects the Bash shell, allowing attackers to execute arbitrary commands on the targeted system",
+      "date": "2023-12-13",
+      "raw_date": "2023-12-13T20:43:33Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.343750",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2023-12-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

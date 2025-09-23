@@ -1,0 +1,27 @@
+{
+  "date": "2015-04-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-2208",
+      "repo_info": "[Shmoopi/RootPipe-Demo](https://github.com/Shmoopi/RootPipe-Demo)",
+      "description": "Proof of Concept OS X Application for RootPipe Privilege Escalation Vulnerability (CVE-2015-1130)",
+      "date": "2015-04-10",
+      "raw_date": "2015-04-10T20:43:13Z"
+    },
+    {
+      "cve_id": "CVE-2015-1592",
+      "repo_info": "[lightsey/cve-2015-1592](https://github.com/lightsey/cve-2015-1592)",
+      "description": "Metasploit modules and payload generation files from my Houston Perl Mongers talk about this vulnerability.",
+      "date": "2015-04-10",
+      "raw_date": "2015-04-10T16:16:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.350233",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2015-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2019-04-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-3396",
+      "repo_info": "[Yt1g3r/CVE-2019-3396_EXP](https://github.com/Yt1g3r/CVE-2019-3396_EXP)",
+      "description": "CVE-2019-3396 confluence SSTI RCE",
+      "date": "2019-04-10",
+      "raw_date": "2019-04-10T02:15:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-4411",
+      "repo_info": "[lilang-wu/POC-CVE-2018-4411](https://github.com/lilang-wu/POC-CVE-2018-4411)",
+      "description": "no description",
+      "date": "2019-04-10",
+      "raw_date": "2019-04-10T08:55:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.777268",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

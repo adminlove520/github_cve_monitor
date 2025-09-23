@@ -1,0 +1,20 @@
+{
+  "date": "2020-03-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[w1ld3r/SMBGhost_Scanner](https://github.com/w1ld3r/SMBGhost_Scanner)",
+      "description": "Advanced scanner for CVE-2020-0796 - SMBv3 RCE",
+      "date": "2020-03-14",
+      "raw_date": "2020-03-14T02:07:16Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.927651",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-03-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

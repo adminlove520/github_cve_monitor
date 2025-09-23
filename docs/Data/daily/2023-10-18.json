@@ -1,0 +1,125 @@
+{
+  "date": "2023-10-18",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5540",
+      "repo_info": "[cli-ish/CVE-2023-5540](https://github.com/cli-ish/CVE-2023-5540)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T07:58:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-5539",
+      "repo_info": "[cli-ish/CVE-2023-5539](https://github.com/cli-ish/CVE-2023-5539)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T07:58:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-45966",
+      "repo_info": "[jet-pentest/CVE-2023-45966](https://github.com/jet-pentest/CVE-2023-45966)",
+      "description": "Blind SSRF in umputun/remark42 &lt;= 1.12.1",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T18:18:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-45857",
+      "repo_info": "[valentin-panov/CVE-2023-45857](https://github.com/valentin-panov/CVE-2023-45857)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T12:19:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-28330",
+      "repo_info": "[cli-ish/CVE-2023-28330](https://github.com/cli-ish/CVE-2023-28330)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T07:58:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-28329",
+      "repo_info": "[cli-ish/CVE-2023-28329](https://github.com/cli-ish/CVE-2023-28329)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T07:58:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[alekos3/CVE_2023_20198_Remediator](https://github.com/alekos3/CVE_2023_20198_Remediator)",
+      "description": "Remediate CVE_2023_20198 on Cisco IOS-XE devices.",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T17:45:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[exp166/CVE-2023-20198](https://github.com/exp166/CVE-2023-20198)",
+      "description": "Cisco IOS XE exploit CVE-2023-20198",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T17:36:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[ditekshen/ansible-cve-2023-20198](https://github.com/ditekshen/ansible-cve-2023-20198)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T16:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[alekos3/CVE_2023_20198_Detector](https://github.com/alekos3/CVE_2023_20198_Detector)",
+      "description": "This script can identify if Cisco IOS XE devices are vulnerable to CVE-2023-20198",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T15:04:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[cert-orangecyberdefense/Cisco_CVE-2023-20198](https://github.com/cert-orangecyberdefense/Cisco_CVE-2023-20198)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T08:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[JoyGhoshs/CVE-2023-20198](https://github.com/JoyGhoshs/CVE-2023-20198)",
+      "description": "Checker for CVE-2023-20198 , Not a full POC Just checks the implementation and detects if hex is in response or not",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T07:53:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[moonrockcowboy/CVE-2023-20198-scanner](https://github.com/moonrockcowboy/CVE-2023-20198-scanner)",
+      "description": "Detect and mitigate the critical CVE-2023-20198 vulnerability in Cisco IOS XE Software. Our Python-based scanner helps security professionals identify potential implants and secure their systems. Scan for active exploitation, detect implants, and generate detailed logs.",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T03:12:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[Tounsi007/CVE-2023-20198](https://github.com/Tounsi007/CVE-2023-20198)",
+      "description": "CVE-2023-20198 PoC (!)",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T08:50:49Z"
+    },
+    {
+      "cve_id": "CVE-2019-9978",
+      "repo_info": "[20dani09/CVE-2019-9978](https://github.com/20dani09/CVE-2019-9978)",
+      "description": "no description",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T19:44:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-7843",
+      "repo_info": "[yanissec/CVE-2018-7843](https://github.com/yanissec/CVE-2018-7843)",
+      "description": "CVE-2018-7843",
+      "date": "2023-10-18",
+      "raw_date": "2023-10-18T09:58:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.305169",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2023-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2023-07-12",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-36884",
+      "repo_info": "[Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline](https://github.com/Maxwitat/CVE-2023-36884-Scripts-for-Intune-Remediation-SCCM-Compliance-Baseline)",
+      "description": "The remediation script should set the reg entries described in https://msrc.microsoft.com/update-guide/vulnerability/CVE-2023-36884 . The detection script checks if they exist. Provided AS-IS without any warrenty.",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T14:13:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-35744",
+      "repo_info": "[ADSSA-IT/CVE-2023-35744](https://github.com/ADSSA-IT/CVE-2023-35744)",
+      "description": "no description",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T07:28:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-28252",
+      "repo_info": "[Malwareman007/CVE-2023-28252](https://github.com/Malwareman007/CVE-2023-28252)",
+      "description": "POC for CVE-2023-28252",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T17:52:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-28252",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-28252-vseik](https://github.com/hheeyywweellccoommee/CVE-2023-28252-vseik)",
+      "description": "POC for CVE-2023-28252",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T18:00:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-28121",
+      "repo_info": "[rio128128/Mass-CVE-2023-28121-kdoec](https://github.com/rio128128/Mass-CVE-2023-28121-kdoec)",
+      "description": "CVE-2023-28121 - WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T06:04:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-28121",
+      "repo_info": "[im-hanzou/Mass-CVE-2023-28121](https://github.com/im-hanzou/Mass-CVE-2023-28121)",
+      "description": "CVE-2023-28121 -  WooCommerce Payments &lt; 5.6.2 - Unauthenticated Privilege Escalation [ Mass Add Admin User ]",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T02:41:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-24489",
+      "repo_info": "[adhikara13/CVE-2023-24489-ShareFile](https://github.com/adhikara13/CVE-2023-24489-ShareFile)",
+      "description": "This project is a Python script that exploits the CVE-2023-24489 vulnerability in ShareFile. It allows remote command execution on the target server. The script supports both Windows and Linux (On testing) platforms, and it can be used to exploit individual targets or perform mass checking on a list of URLs.",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T13:01:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-3904",
+      "repo_info": "[RandomRobbieBF/CVE-2022-3904](https://github.com/RandomRobbieBF/CVE-2022-3904)",
+      "description": "CVE-2022-3904 MonsterInsights &lt; 8.9.1 - Stored Cross-Site Scripting via Google Analytics",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T09:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study](https://github.com/SudeepaShiranthaka/F5-BIG-IP-Remote-Code-Execution-Vulnerability-CVE-2022-1388-A-Case-Study)",
+      "description": "F5-BIG-IP Remote Code Execution Vulnerability CVE-2022-1388: A Case Study",
+      "date": "2023-07-12",
+      "raw_date": "2023-07-12T15:53:33Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.238994",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-07-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

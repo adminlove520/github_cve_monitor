@@ -1,0 +1,118 @@
+{
+  "date": "2025-09-18",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[hbesljx/CVE-2025-8088-EXP](https://github.com/hbesljx/CVE-2025-8088-EXP)",
+      "description": "WinRAR漏洞CVE-2025-8088的payload一键生成工具",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T06:53:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[amalpvatayam67/day06-foxcms-rce](https://github.com/amalpvatayam67/day06-foxcms-rce)",
+      "description": "This tiny lab simulates the core idea behind CVE-2025-29306: unsafe use of `unserialize()` on attacker-controlled input leading to remote code execution.",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T04:53:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-59359",
+      "repo_info": "[mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover](https://github.com/mrk336/Cluster-Chaos-Exploiting-CVE-2025-59359-for-Kubernetes-Takeover)",
+      "description": "A hands-on forensic walkthrough of CVE-2025-59359, a critical OS command injection flaw in Chaos-Mesh. Learn how attackers hijack Kubernetes clusters via GraphQL mutations, and how to detect, analyze, and report the breach using ELK.",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T03:03:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-59342",
+      "repo_info": "[byteReaper77/CVE-2025-59342](https://github.com/byteReaper77/CVE-2025-59342)",
+      "description": "Exploit Path Traversal in esm-dev",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T22:34:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-57819",
+      "repo_info": "[orange0Mint/CVE-2025-57819_FreePBX](https://github.com/orange0Mint/CVE-2025-57819_FreePBX)",
+      "description": "This repository includes two PoC scripts for CVE-2025-57819 in FreePBX: one to create a new admin user (poc_admin.py), and another to extract credentials using sqlmap (poc_auto_get_username_pass.py). For educational and authorized use only.",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T20:38:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-55888",
+      "repo_info": "[0xZeroSec/CVE-2025-55888](https://github.com/0xZeroSec/CVE-2025-55888)",
+      "description": "no description",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T16:19:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-55887",
+      "repo_info": "[0xZeroSec/CVE-2025-55887](https://github.com/0xZeroSec/CVE-2025-55887)",
+      "description": "no description",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T16:21:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-55886",
+      "repo_info": "[0xZeroSec/CVE-2025-55886](https://github.com/0xZeroSec/CVE-2025-55886)",
+      "description": "no description",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T16:20:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-53772",
+      "repo_info": "[go-bi/CVE-2025-53772-](https://github.com/go-bi/CVE-2025-53772-)",
+      "description": "no description",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T14:07:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-43300",
+      "repo_info": "[veniversum/cve-2025-43300](https://github.com/veniversum/cve-2025-43300)",
+      "description": "no description",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T08:19:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[iteride/CVE-2025-32433](https://github.com/iteride/CVE-2025-32433)",
+      "description": "test",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T15:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-49367",
+      "repo_info": "[barisbaydur/CVE-2023-49367](https://github.com/barisbaydur/CVE-2023-49367)",
+      "description": "Information Disclosure in user interface in Kyocera Command Center RX EXOSYS M5521cdn allows remote to access user information via inspecting sent packages by user.",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T14:25:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System](https://github.com/abdullohqurbon0v/CVE-2023-30258-Exploit-For-Magnus-Billing-System)",
+      "description": "There are Exploit for Magnus Billing v7 system get root privilages",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T15:32:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[Joshua8821/CNVD](https://github.com/Joshua8821/CNVD)",
+      "description": "Ghostcat read file/code execute,CNVD-2020-10487(CVE-2020-1938)",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T03:50:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-3396",
+      "repo_info": "[HK4zCzi/CVE-2019-3396-Velocity-Server-Side-Template-Injection](https://github.com/HK4zCzi/CVE-2019-3396-Velocity-Server-Side-Template-Injection)",
+      "description": "no description",
+      "date": "2025-09-18",
+      "raw_date": "2025-09-18T04:29:21Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.139702",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-09-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

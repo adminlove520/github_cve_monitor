@@ -1,0 +1,27 @@
+{
+  "date": "2019-12-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8639",
+      "repo_info": "[timwhitez/CVE-2018-8639-EXP](https://github.com/timwhitez/CVE-2018-8639-EXP)",
+      "description": "CVE-2018-8639-EXP",
+      "date": "2019-12-27",
+      "raw_date": "2019-12-27T07:39:07Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[roughiz/cve-2014-6287.py](https://github.com/roughiz/cve-2014-6287.py)",
+      "description": "HttpFileServer httpd 2.3",
+      "date": "2019-12-27",
+      "raw_date": "2019-12-27T13:01:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.878286",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-12-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

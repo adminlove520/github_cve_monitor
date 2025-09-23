@@ -1,0 +1,104 @@
+{
+  "date": "2022-05-18",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30780",
+      "repo_info": "[p0dalirius/CVE-2022-30780-lighttpd-denial-of-service](https://github.com/p0dalirius/CVE-2022-30780-lighttpd-denial-of-service)",
+      "description": "CVE-2022-30780 - lighttpd remote denial of service",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T12:01:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[trhacknon/CVE-2022-30525-Reverse-Shell](https://github.com/trhacknon/CVE-2022-30525-Reverse-Shell)",
+      "description": "no description",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T15:57:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[Chocapikk/CVE-2022-30525-Reverse-Shell](https://github.com/Chocapikk/CVE-2022-30525-Reverse-Shell)",
+      "description": "Simple python script to exploit CVE-2022-30525 (FIXED): Zyxel Firewall Unauthenticated Remote Command Injection",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T15:22:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[kuznyJan1972/CVE-2022-30525-mass](https://github.com/kuznyJan1972/CVE-2022-30525-mass)",
+      "description": "zyxel firewall unauthenticated rce mass multi threaded exploit",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T12:10:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-30489",
+      "repo_info": "[trhacknon/XSS-CVE-2022-30489](https://github.com/trhacknon/XSS-CVE-2022-30489)",
+      "description": "no description",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T23:28:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-23131",
+      "repo_info": "[trhacknon/CVE-2022-23131](https://github.com/trhacknon/CVE-2022-23131)",
+      "description": "no description",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T17:18:45Z"
+    },
+    {
+      "cve_id": "CVE-2021-46417",
+      "repo_info": "[Henry4E36/CVE-2021-46417](https://github.com/Henry4E36/CVE-2021-46417)",
+      "description": "Franklin Fueling Systems Colibri Controller Module - Local File Inclusion",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T09:14:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[kuznyJan1972/CVE-2021-44228-mass](https://github.com/kuznyJan1972/CVE-2021-44228-mass)",
+      "description": "CVE-2021-44228 PoC for more than 12 affected softwares(not publicly disclossed yet) with mass exploitation script for each.",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T12:30:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-3572",
+      "repo_info": "[litios/cve_2021_3572-old-pip](https://github.com/litios/cve_2021_3572-old-pip)",
+      "description": "no description",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T10:08:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-1732",
+      "repo_info": "[reccoon-dev/CVE-2021-1732](https://github.com/reccoon-dev/CVE-2021-1732)",
+      "description": "Analysis, POC and Explanation of CVE-2021-1732",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T13:34:07Z"
+    },
+    {
+      "cve_id": "CVE-2020-4450",
+      "repo_info": "[yonggui-li/CVE-2020-4464-and-CVE-2020-4450](https://github.com/yonggui-li/CVE-2020-4464-and-CVE-2020-4450)",
+      "description": "no description",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T02:02:51Z"
+    },
+    {
+      "cve_id": "CVE-2017-9096",
+      "repo_info": "[jakabakos/CVE-2017-9096](https://github.com/jakabakos/CVE-2017-9096)",
+      "description": "no description",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T10:03:53Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195](https://github.com/malinthag62/The-exploitation-of-Dirty-Cow-CVE-2016-5195)",
+      "description": "The Repository contains documents that explains the explotation of CVE-2016-5195",
+      "date": "2022-05-18",
+      "raw_date": "2022-05-18T10:51:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.771562",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2022-05-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

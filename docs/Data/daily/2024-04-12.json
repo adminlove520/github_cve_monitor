@@ -1,0 +1,90 @@
+{
+  "date": "2024-04-12",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[DrewskyDev/CVE-2024-3400](https://github.com/DrewskyDev/CVE-2024-3400)",
+      "description": "This script is designed to demonstrate the exploitation of vulnerabilities in PAN-OS firewalls. It sends a specially crafted payload to the firewall&#x27;s API endpoint to execute arbitrary commands.",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T17:39:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-29269",
+      "repo_info": "[YongYe-Security/CVE-2024-29269](https://github.com/YongYe-Security/CVE-2024-29269)",
+      "description": "Telesquare TLR-2005KSH_RCE (CVE-2024-29269) Batch scan/exploit",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T07:36:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-2879",
+      "repo_info": "[JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)",
+      "description": "NEW POC CVE-2024-2879 Exploit ----&gt; RCE",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T12:14:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-28255",
+      "repo_info": "[YongYe-Security/CVE-2024-28255](https://github.com/YongYe-Security/CVE-2024-28255)",
+      "description": "OpenMetadata_RCE (CVE-2024-28255)  Batch scan/exploit",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T04:29:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-24576",
+      "repo_info": "[corysabol/batbadbut-demo](https://github.com/corysabol/batbadbut-demo)",
+      "description": "This is a simple demo for the BadBatBut vulnerability CVE-2024-24576",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T23:36:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-21894",
+      "repo_info": "[AlexLondan/CVE-2024-21894-Proof-of-concept](https://github.com/AlexLondan/CVE-2024-21894-Proof-of-concept)",
+      "description": "no description",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T08:50:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-21508",
+      "repo_info": "[Geniorio01/CVE-2024-21508-mysql2-RCE](https://github.com/Geniorio01/CVE-2024-21508-mysql2-RCE)",
+      "description": "no description",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T09:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-21426",
+      "repo_info": "[Geniorio01/CVE-2024-21426-SharePoint-RCE](https://github.com/Geniorio01/CVE-2024-21426-SharePoint-RCE)",
+      "description": "no description",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T08:58:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-20356",
+      "repo_info": "[nettitude/CVE-2024-20356](https://github.com/nettitude/CVE-2024-20356)",
+      "description": "This is a proof of concept for CVE-2024-20356, a Command Injection vulnerability in Cisco&#x27;s CIMC.",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T15:07:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-45288",
+      "repo_info": "[hex0punk/cont-flood-poc](https://github.com/hex0punk/cont-flood-poc)",
+      "description": "PoC for CVE-2023-45288, continuation flood vulnerability",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T07:36:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-26377",
+      "repo_info": "[watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc](https://github.com/watchtowrlabs/ibm-qradar-ajp_smuggling_CVE-2022-26377_poc)",
+      "description": "no description",
+      "date": "2024-04-12",
+      "raw_date": "2024-04-12T03:59:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.661014",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-04-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

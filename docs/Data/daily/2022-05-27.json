@@ -1,0 +1,97 @@
+{
+  "date": "2022-05-27",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-28346",
+      "repo_info": "[pthlong9991/CVE-2022-28346](https://github.com/pthlong9991/CVE-2022-28346)",
+      "description": "no description",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T10:08:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[vportal/AFD](https://github.com/vportal/AFD)",
+      "description": "CVE-2022-24494",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T09:52:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-22814",
+      "repo_info": "[DShankle/CVE-2022-22814_PoC](https://github.com/DShankle/CVE-2022-22814_PoC)",
+      "description": "no description",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T00:33:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-1609",
+      "repo_info": "[savior-only/CVE-2022-1609](https://github.com/savior-only/CVE-2022-1609)",
+      "description": "CVE-2022-1609 WordPress Weblizar后门",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T13:15:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-46353",
+      "repo_info": "[efchatz/easy-exploits](https://github.com/efchatz/easy-exploits)",
+      "description": "Exploits of different CVE IDs (CVE-2021-37910, CVE-2021-40288, CVE-2021-41435, CVE-2021-41436, CVE-2021-41437, CVE-2021-41441, CVE-2021-41442, CVE-2021-41445, CVE-2021-41449, CVE-2021-41450, CVE-2021-41451, CVE-2021-41753, CVE-2021-41788, CVE-2021-46353)",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T21:09:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-9729",
+      "repo_info": "[recozone/HyperSine](https://github.com/recozone/HyperSine)",
+      "description": "CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T15:34:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Cypheer/exploit_CVE-2018-6574](https://github.com/Cypheer/exploit_CVE-2018-6574)",
+      "description": "Exploit for Pentester Labs",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T14:35:11Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[jftierno/CVE-2018-6574-2](https://github.com/jftierno/CVE-2018-6574-2)",
+      "description": "no description",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T15:10:11Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[jiahuiLeee/test](https://github.com/jiahuiLeee/test)",
+      "description": "CVE-2018-17456复现",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T11:56:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[jftierno/CVE-2018-6574](https://github.com/jftierno/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T14:34:28Z"
+    },
+    {
+      "cve_id": "CVE-2017-6516",
+      "repo_info": "[Rubytox/CVE-2017-6516-mcsiwrapper-](https://github.com/Rubytox/CVE-2017-6516-mcsiwrapper-)",
+      "description": "A PoC / methodology to exploit CVE-2017-6516",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T10:24:41Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[MFernstrom/OffensivePascal-CVE-2011-2523](https://github.com/MFernstrom/OffensivePascal-CVE-2011-2523)",
+      "description": "FreePascal implementation of CVE-2011-2523",
+      "date": "2022-05-27",
+      "raw_date": "2022-05-27T20:47:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.779088",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-05-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

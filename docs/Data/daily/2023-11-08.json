@@ -1,0 +1,90 @@
+{
+  "date": "2023-11-08",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp](https://github.com/justdoit-cai/CVE-2023-46604-Apache-ActiveMQ-RCE-exp)",
+      "description": "CVE-2023-46604 Apache ActiveMQ RCE exp 基于python",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T07:48:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[jhonnybonny/Bitrix24DoS](https://github.com/jhonnybonny/Bitrix24DoS)",
+      "description": "This Python script is designed to exploit a security vulnerability in Bitrix24, leading to a Denial of Service (DoS) attack. The vulnerability, identified as CVE-2023-1718, allows an attacker to disrupt the normal operation of a Bitrix24 instance.",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T07:45:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-39539",
+      "repo_info": "[ndrscodes/http2-rst-stream-attacker](https://github.com/ndrscodes/http2-rst-stream-attacker)",
+      "description": "Highly configurable tool to check a server&#x27;s vulnerability against CVE-2023-44487 by rapidly sending HEADERS and RST_STREAM frames and documenting the server&#x27;s responses.",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T20:56:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-36900",
+      "repo_info": "[RomanRybachek/CVE-2023-36900](https://github.com/RomanRybachek/CVE-2023-36900)",
+      "description": "Denial-of-Service PoC - Writeup - Header with CLFS structures - Imhex pattern for .blf extension",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T10:39:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-34048",
+      "repo_info": "[K1i7n/CVE-2023-34048-findings](https://github.com/K1i7n/CVE-2023-34048-findings)",
+      "description": "no description",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T17:31:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-34048",
+      "repo_info": "[teraGL/looneyCVE](https://github.com/teraGL/looneyCVE)",
+      "description": "Looney Tunables CVE-2023-4911",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T09:34:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[LucasPDiniz/CVE-2023-22515](https://github.com/LucasPDiniz/CVE-2023-22515)",
+      "description": "Server Broken Access Control in Confluence - CVE-2023-22515",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T05:18:30Z"
+    },
+    {
+      "cve_id": "CVE-2021-3560",
+      "repo_info": "[LucasPDiniz/CVE-2021-3560](https://github.com/LucasPDiniz/CVE-2021-3560)",
+      "description": "Exploitation of the CVE-2021-3560 polkit vulnerability",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T05:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-16341",
+      "repo_info": "[CN016/Nuxeo-CVE-2018-16341](https://github.com/CN016/Nuxeo-CVE-2018-16341)",
+      "description": "no description",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T06:08:42Z"
+    },
+    {
+      "cve_id": "CVE-2015-3196",
+      "repo_info": "[nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2015-3196)",
+      "description": "no description",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T11:03:10Z"
+    },
+    {
+      "cve_id": "CVE-2015-1791",
+      "repo_info": "[Trinadh465/OpenSSL-1_0_1g_CVE-2015-1791](https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-1791)",
+      "description": "no description",
+      "date": "2023-11-08",
+      "raw_date": "2023-11-08T07:28:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.320100",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2023-11-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

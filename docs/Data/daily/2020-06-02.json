@@ -1,0 +1,20 @@
+{
+  "date": "2020-06-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-7616",
+      "repo_info": "[random-robbie/CVE-2019-7616](https://github.com/random-robbie/CVE-2019-7616)",
+      "description": "POC for CVE-2019-7616 / ESA-2019-09",
+      "date": "2020-06-02",
+      "raw_date": "2020-06-02T07:28:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.976046",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-06-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

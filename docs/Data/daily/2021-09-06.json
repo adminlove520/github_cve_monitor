@@ -1,0 +1,27 @@
+{
+  "date": "2021-09-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-5420",
+      "repo_info": "[j4k0m/CVE-2019-5420](https://github.com/j4k0m/CVE-2019-5420)",
+      "description": "A vulnerability can allow an attacker to guess the automatically generated development mode secret token.",
+      "date": "2021-09-06",
+      "raw_date": "2021-09-06T12:28:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-0114",
+      "repo_info": "[steefn/cve2018-6574](https://github.com/steefn/cve2018-6574)",
+      "description": "no description",
+      "date": "2021-09-06",
+      "raw_date": "2021-09-06T13:55:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.551106",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-09-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

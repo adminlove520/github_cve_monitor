@@ -1,0 +1,97 @@
+{
+  "date": "2024-11-26",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-53255",
+      "repo_info": "[0x4M3R/CVE-2024-53255](https://github.com/0x4M3R/CVE-2024-53255)",
+      "description": "boid CMS 2.1.1 - reflected Cross-Site Scripting (XSS)",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T09:41:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-51567",
+      "repo_info": "[XiaomingX/cve-2024-51567-poc](https://github.com/XiaomingX/cve-2024-51567-poc)",
+      "description": "CVE-2024-51567 is a Python PoC exploit targeting an RCE vulnerability in CyberPanel v2.3.6’s upgrademysqlstatus endpoint, bypassing CSRF protections.",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T02:18:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-43468",
+      "repo_info": "[synacktiv/CVE-2024-43468](https://github.com/synacktiv/CVE-2024-43468)",
+      "description": "no description",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T12:39:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-11477",
+      "repo_info": "[maybelookis/CVE-2024-11477](https://github.com/maybelookis/CVE-2024-11477)",
+      "description": "no description",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T16:09:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-11477",
+      "repo_info": "[DoTTak/WP-Event-Tickets-with-Ticket-Scanner-CVE-Report](https://github.com/DoTTak/WP-Event-Tickets-with-Ticket-Scanner-CVE-Report)",
+      "description": "Event Tickets with Ticket Scanner WordPress 플러그인(CVE-2024-52427)의 불완전 패치 발견 및 권한 범위 확대(Author → Contributor) 취약점 분석",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T18:29:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-10542",
+      "repo_info": "[ubaii/CVE-2024-10542](https://github.com/ubaii/CVE-2024-10542)",
+      "description": "WordPress Spam protection, AntiSpam, FireWall by CleanTalk Plugin &lt;= 6.43.2 is vulnerable to Unauthenticated Arbitrary Plugin Installation Installation",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T23:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[JayRyz/CVE-2023-38646-PoC-Metabase](https://github.com/JayRyz/CVE-2023-38646-PoC-Metabase)",
+      "description": "Proof-of-Concept script for exploiting CVE-2023-38646. Intended for educational and research purposes only.",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T19:05:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-32428",
+      "repo_info": "[gergelykalman/CVE-2023-32428-a-macOS-LPE-via-MallocStackLogging](https://github.com/gergelykalman/CVE-2023-32428-a-macOS-LPE-via-MallocStackLogging)",
+      "description": "no description",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T07:52:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-25845",
+      "repo_info": "[ph0ebus/CVE-2022-25845-In-Spring](https://github.com/ph0ebus/CVE-2022-25845-In-Spring)",
+      "description": "exploit by python",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T13:03:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-36260",
+      "repo_info": "[aengussong/hikvision_probe](https://github.com/aengussong/hikvision_probe)",
+      "description": "Identify hikvision ip and probe for cve-s (CVE-2017-7921,  CVE-2022-28171, CVE-2021-36260)",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T13:02:18Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[RadYio/CVE-2014-6271](https://github.com/RadYio/CVE-2014-6271)",
+      "description": "Projet de présentation d&#x27;une CVE (ShellShock) avec pdf, démonstration technique et reproductible",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T09:07:24Z"
+    },
+    {
+      "cve_id": "CVE-2012-1831",
+      "repo_info": "[Astrowmist/POC-CVE-2012-1831](https://github.com/Astrowmist/POC-CVE-2012-1831)",
+      "description": "Proof Of Concept for the CVE-2012-1831 (Kingview Touchview 6.53)",
+      "date": "2024-11-26",
+      "raw_date": "2024-11-26T07:29:58Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.865406",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-11-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2018-12-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-18649",
+      "repo_info": "[zur250/Zur-Go-GET-RCE-Solution](https://github.com/zur250/Zur-Go-GET-RCE-Solution)",
+      "description": "CVE-2018-6574",
+      "date": "2018-12-25",
+      "raw_date": "2018-12-25T07:08:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.735362",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-12-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

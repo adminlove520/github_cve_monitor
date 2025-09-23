@@ -1,0 +1,48 @@
+{
+  "date": "2020-01-08",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-5736",
+      "repo_info": "[GGyao/weblogic_2019_2725_wls_batch](https://github.com/GGyao/weblogic_2019_2725_wls_batch)",
+      "description": "weblogic CVE-2019-2725利用exp。",
+      "date": "2020-01-08",
+      "raw_date": "2020-01-08T06:35:28Z"
+    },
+    {
+      "cve_id": "CVE-2019-5736",
+      "repo_info": "[geropl/CVE-2019-5736](https://github.com/geropl/CVE-2019-5736)",
+      "description": "no description",
+      "date": "2020-01-08",
+      "raw_date": "2020-01-08T09:37:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-20197",
+      "repo_info": "[jas502n/CVE-2019-20197](https://github.com/jas502n/CVE-2019-20197)",
+      "description": "Nagios XI远程命令执行漏洞 &lt;v5.6.9",
+      "date": "2020-01-08",
+      "raw_date": "2020-01-08T08:16:30Z"
+    },
+    {
+      "cve_id": "CVE-2019-20197",
+      "repo_info": "[lp008/CVE-2019-20197](https://github.com/lp008/CVE-2019-20197)",
+      "description": "CVE-2019-20197",
+      "date": "2020-01-08",
+      "raw_date": "2020-01-08T08:11:58Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[ekgg/Overflow-Demo-CVE-2017-11882](https://github.com/ekgg/Overflow-Demo-CVE-2017-11882)",
+      "description": "Simple Overflow demo, like CVE-2017-11882 exp",
+      "date": "2020-01-08",
+      "raw_date": "2020-01-08T16:27:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.883266",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2020-01-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

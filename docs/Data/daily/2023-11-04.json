@@ -1,0 +1,62 @@
+{
+  "date": "2023-11-04",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-47488",
+      "repo_info": "[nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)",
+      "description": "no description",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T21:42:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[evkl1d/CVE-2023-46604](https://github.com/evkl1d/CVE-2023-46604)",
+      "description": "no description",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T11:58:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-45158",
+      "repo_info": "[Evan-Zhangyf/CVE-2023-45158](https://github.com/Evan-Zhangyf/CVE-2023-45158)",
+      "description": "no description",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T21:14:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-44487",
+      "repo_info": "[sigridou/CVE-2023-44487](https://github.com/sigridou/CVE-2023-44487)",
+      "description": "HTTP/2 RAPID RESET",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T22:34:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-21716",
+      "repo_info": "[MojithaR/CVE-2023-21716-EXPLOIT.py](https://github.com/MojithaR/CVE-2023-21716-EXPLOIT.py)",
+      "description": "This is an exploit file which is used to check CVE-2021-21716 vulnerability",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T08:49:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-36393",
+      "repo_info": "[T0X1Cx/CVE-2021-36393-Exploit](https://github.com/T0X1Cx/CVE-2021-36393-Exploit)",
+      "description": "This script demonstrates a time-based blind SQL injection on Moodle platforms, exploiting response delays to extract data.",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T11:45:55Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[mmezirard/cve-2007-2447](https://github.com/mmezirard/cve-2007-2447)",
+      "description": "A POC written in Python to exploit CVE 2007-2447.",
+      "date": "2023-11-04",
+      "raw_date": "2023-11-04T18:34:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.318091",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-11-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

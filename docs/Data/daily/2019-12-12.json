@@ -1,0 +1,27 @@
+{
+  "date": "2019-12-12",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19356",
+      "repo_info": "[shadowgatt/CVE-2019-19356](https://github.com/shadowgatt/CVE-2019-19356)",
+      "description": "Netis router RCE exploit ( CVE-2019-19356)",
+      "date": "2019-12-12",
+      "raw_date": "2019-12-12T11:01:23Z"
+    },
+    {
+      "cve_id": "CVE-2019-18935",
+      "repo_info": "[noperator/CVE-2019-18935](https://github.com/noperator/CVE-2019-18935)",
+      "description": "RCE exploit for a .NET JSON deserialization vulnerability in Telerik UI for ASP.NET AJAX.",
+      "date": "2019-12-12",
+      "raw_date": "2019-12-12T07:58:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.870580",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-12-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

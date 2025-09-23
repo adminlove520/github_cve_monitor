@@ -1,0 +1,27 @@
+{
+  "date": "2020-03-19",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8423",
+      "repo_info": "[striblab/20200322-cvecon](https://github.com/striblab/20200322-cvecon)",
+      "description": "Analysis of job sectors in past recessions",
+      "date": "2020-03-19",
+      "raw_date": "2020-03-19T20:08:37Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[mhamed366/CVE-2018-6574](https://github.com/mhamed366/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2020-03-19",
+      "raw_date": "2020-03-19T15:09:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.931815",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-03-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2024-12-23",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9290",
+      "repo_info": "[Harshit-Mashru/iTop-CVEs-exploit](https://github.com/Harshit-Mashru/iTop-CVEs-exploit)",
+      "description": "This repository contains exploits for iTOP CVE-2024-52002, 52000, 31998, 31448 that involve CSRF+XSS chaining to get RCE",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T19:56:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[Q0LT/VM-CVE-2024-53677](https://github.com/Q0LT/VM-CVE-2024-53677)",
+      "description": "Struts Vulnerability - CVE-2024-53677",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T16:32:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[0xdeviner/CVE-2024-53677](https://github.com/0xdeviner/CVE-2024-53677)",
+      "description": "no description",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T14:22:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-53345",
+      "repo_info": "[ShadowByte1/CVE-2024-53345](https://github.com/ShadowByte1/CVE-2024-53345)",
+      "description": "Critical 0 Day in Car Rental Management System Versions 1.0 - 1.3",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T08:48:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-51228",
+      "repo_info": "[tequilasunsh1ne/CVE_2024_51228](https://github.com/tequilasunsh1ne/CVE_2024_51228)",
+      "description": "no description",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T02:36:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-50623",
+      "repo_info": "[verylazytech/CVE-2024-50623](https://github.com/verylazytech/CVE-2024-50623)",
+      "description": "CVE-2024-50623 POC - Cleo Unrestricted file upload and download",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T08:52:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[dear-cell/CVE-2024-50379](https://github.com/dear-cell/CVE-2024-50379)",
+      "description": "CVE-2024-50379利用",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T14:11:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[SleepingBag945/CVE-2024-50379](https://github.com/SleepingBag945/CVE-2024-50379)",
+      "description": "tomcat CVE-2024-50379/CVE-2024-56337 条件竞争文件上传exp",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T07:20:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-48246",
+      "repo_info": "[ShadowByte1/CVE-2024-48246](https://github.com/ShadowByte1/CVE-2024-48246)",
+      "description": "Vehicle Management System 1.0 - Stored Cross-Site Scripting (XSS)",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T09:23:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-48245",
+      "repo_info": "[ShadowByte1/CVE-2024-48245](https://github.com/ShadowByte1/CVE-2024-48245)",
+      "description": "SQL Injection Vulnerability in Vehicle Management System 1.0 - 1.3",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T09:16:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-11349",
+      "repo_info": "[linunyang/CVE-2024-11349](https://github.com/linunyang/CVE-2024-11349)",
+      "description": "CVE-2024-11349: Authentication Bypass Using an Alternate Path or Channel (CWE-288)",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T12:55:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-28293",
+      "repo_info": "[CrazyDaveX86/CVE-2023-28293](https://github.com/CrazyDaveX86/CVE-2023-28293)",
+      "description": "Exploit for CVE-2023-28293",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T10:25:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-24278",
+      "repo_info": "[NeCr00/CVE-2023-24278_XSS-in-Squidex](https://github.com/NeCr00/CVE-2023-24278_XSS-in-Squidex)",
+      "description": "It was  discovered two reflected cross site scripting (XSS) vulnerabilities in the Squidex open source headless CMS software. The Reflected Cross Site Scripting vulnerabilities affect all versions of Squidex prior to 7.4.0 and affect both authenticated and unauthenticated victim users.",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T13:10:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-46463",
+      "repo_info": "[CodeSecurityTeam/harbor](https://github.com/CodeSecurityTeam/harbor)",
+      "description": "CVE-2022-46463 harbor公开镜像全自动下载脚本",
+      "date": "2024-12-23",
+      "raw_date": "2024-12-23T08:35:30Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.885691",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2024-12-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2022-01-29",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0114",
+      "repo_info": "[CyberSecurityUP/CVE-2018-0114-Exploit](https://github.com/CyberSecurityUP/CVE-2018-0114-Exploit)",
+      "description": "no description",
+      "date": "2022-01-29",
+      "raw_date": "2022-01-29T02:04:44Z"
+    },
+    {
+      "cve_id": "CVE-2017-0213",
+      "repo_info": "[Anonymous-Family/CVE-2017-0213](https://github.com/Anonymous-Family/CVE-2017-0213)",
+      "description": "Windows COM Aggregate Marshaler in Microsoft Windows Server 2008 SP2 and R2 SP1, Windows 7 SP1, Windows 8.1, Windows Server 2012 Gold and R2, Windows RT 8.1, Windows 10 Gold, 1511, 1607, and 1703, and Windows Server 2016 allows an elevation privilege vulnerability when an attacker runs a specially crafted application, aka \"Windows COM Elevation of Privilege Vulnerability\". This CVE ID is unique from CVE-2017-0214.",
+      "date": "2022-01-29",
+      "raw_date": "2022-01-29T00:36:46Z"
+    },
+    {
+      "cve_id": "CVE-2013-3660",
+      "repo_info": "[ExploitCN/CVE-2013-3660-x64-WIN7](https://github.com/ExploitCN/CVE-2013-3660-x64-WIN7)",
+      "description": "CVE-2013-3660的x64 win7平台EXP源代码，成功率100%。",
+      "date": "2022-01-29",
+      "raw_date": "2022-01-29T02:14:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.678215",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-01-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

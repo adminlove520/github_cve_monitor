@@ -1,0 +1,48 @@
+{
+  "date": "2025-03-15",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-22604",
+      "repo_info": "[ishwardeepp/CVE-2025-22604-Cacti-RCE](https://github.com/ishwardeepp/CVE-2025-22604-Cacti-RCE)",
+      "description": "no description",
+      "date": "2025-03-15",
+      "raw_date": "2025-03-15T18:16:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-8926",
+      "repo_info": "[Night-have-dreams/php-cgi-Injector](https://github.com/Night-have-dreams/php-cgi-Injector)",
+      "description": "一個測試CVE-2024-4577和CVE-2024-8926的安全滲透工具",
+      "date": "2025-03-15",
+      "raw_date": "2025-03-15T11:21:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-5535",
+      "repo_info": "[websecnl/CVE-2024-5535](https://github.com/websecnl/CVE-2024-5535)",
+      "description": "PoC - OpenSSL NPN Buffer Overread",
+      "date": "2025-03-15",
+      "raw_date": "2025-03-15T17:00:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-51788",
+      "repo_info": "[Nxploited/CVE-2024-51788](https://github.com/Nxploited/CVE-2024-51788)",
+      "description": "CVE-2024-51788 - WordPress The Novel Design Store Directory plugin &lt;= 4.3.0 - Unauthenticated Arbitrary File Upload Vulnerability",
+      "date": "2025-03-15",
+      "raw_date": "2025-03-15T04:20:19Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[LiEnby/PSSRoot](https://github.com/LiEnby/PSSRoot)",
+      "description": "One-Click-Root program based on CVE-2016-5195, that works on the old &#x27;PlayStation Certified&#x27; android devices",
+      "date": "2025-03-15",
+      "raw_date": "2025-03-15T01:17:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.953710",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2025-03-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

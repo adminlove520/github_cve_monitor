@@ -1,0 +1,97 @@
+{
+  "date": "2024-03-01",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[K3ysTr0K3R/CVE-2024-25600-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-25600-EXPLOIT)",
+      "description": "A PoC exploit for CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE)",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T09:28:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-23652",
+      "repo_info": "[abian2/CVE-2024-23652](https://github.com/abian2/CVE-2024-23652)",
+      "description": "no description",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T09:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[tr1pl3ight/CVE-2024-21762-POC](https://github.com/tr1pl3ight/CVE-2024-21762-POC)",
+      "description": "CVE-2024-21762 proof of concept is an exploitation out of bound write vulnerability in fortinet SSL VPN which leads to unauthenticated RCE if successfully explited.",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T19:56:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-21672",
+      "repo_info": "[swagcrafted/CVE-2024-21672-POC](https://github.com/swagcrafted/CVE-2024-21672-POC)",
+      "description": "POC for CVE-2024-21672",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T20:42:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-21626",
+      "repo_info": "[abian2/CVE-2024-21626](https://github.com/abian2/CVE-2024-21626)",
+      "description": "no description",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T09:58:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-21410",
+      "repo_info": "[FreakyM0ndy/CVE-2024-21410-poc](https://github.com/FreakyM0ndy/CVE-2024-21410-poc)",
+      "description": "Microsoft Exchange server Privilege Escalation - WORK!!",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T21:37:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-1512",
+      "repo_info": "[rat-c/CVE-2024-1512](https://github.com/rat-c/CVE-2024-1512)",
+      "description": "PoC for CVE-2024-1512 in MasterStudy LMS WordPress Plugin.",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T11:08:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-0967",
+      "repo_info": "[Oxdestiny/CVE-2024-0967-exploit](https://github.com/Oxdestiny/CVE-2024-0967-exploit)",
+      "description": "ArcSight ESM up to 24.0 information disclosure proof-of-concept",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T22:31:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-48084",
+      "repo_info": "[Hamibubu/CVE-2023-48084](https://github.com/Hamibubu/CVE-2023-48084)",
+      "description": "Python program to dump all the databases, exploiting NagiosXI sqli vulnerability",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T04:06:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-47218",
+      "repo_info": "[gogobuster/CVE-2023-47218-POC](https://github.com/gogobuster/CVE-2023-47218-POC)",
+      "description": "POC for CVE-2023-47218",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T22:12:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-46694",
+      "repo_info": "[invisiblebyte/CVE-2023-46694](https://github.com/invisiblebyte/CVE-2023-46694)",
+      "description": "CVE-2023-46694 proof-of-concept",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T11:00:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-43318",
+      "repo_info": "[str2ver/CVE-2023-43318](https://github.com/str2ver/CVE-2023-43318)",
+      "description": "JetStream Smart Switch - TL-SG2210P v5.0/ Improper Access Control / CVE-2023-43318",
+      "date": "2024-03-01",
+      "raw_date": "2024-03-01T11:35:47Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.615386",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-03-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

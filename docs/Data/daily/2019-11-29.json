@@ -1,0 +1,27 @@
+{
+  "date": "2019-11-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[drset/golang](https://github.com/drset/golang)",
+      "description": "test for CVE-2018-6574: go get RCE pentesterlab",
+      "date": "2019-11-29",
+      "raw_date": "2019-11-29T14:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2007-0038",
+      "repo_info": "[Axua/CVE-2007-0038](https://github.com/Axua/CVE-2007-0038)",
+      "description": "IE7 buffer overflow through an ANI file",
+      "date": "2019-11-29",
+      "raw_date": "2019-11-29T11:15:39Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.864432",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-11-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

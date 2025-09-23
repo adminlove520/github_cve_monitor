@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-5736",
+      "repo_info": "[BBRathnayaka/POC-CVE-2019-5736](https://github.com/BBRathnayaka/POC-CVE-2019-5736)",
+      "description": "no description",
+      "date": "2020-05-10",
+      "raw_date": "2020-05-10T04:49:28Z"
+    },
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[Hansindu-M/CVE-2017-7494_IT19115344](https://github.com/Hansindu-M/CVE-2017-7494_IT19115344)",
+      "description": "A remote code execution flaw was found in Samba. A malicious authenticated samba client, having write access to the samba share, could use this flaw to execute arbitrary code as root.",
+      "date": "2020-05-10",
+      "raw_date": "2020-05-10T21:17:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.959421",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-05-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

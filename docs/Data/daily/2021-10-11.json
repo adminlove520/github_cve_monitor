@@ -1,0 +1,27 @@
+{
+  "date": "2021-10-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-18818",
+      "repo_info": "[rasyidfox/CVE-2019-18818](https://github.com/rasyidfox/CVE-2019-18818)",
+      "description": "no description",
+      "date": "2021-10-11",
+      "raw_date": "2021-10-11T05:24:04Z"
+    },
+    {
+      "cve_id": "CVE-2019-15858",
+      "repo_info": "[orangmuda/CVE-2019-15858](https://github.com/orangmuda/CVE-2019-15858)",
+      "description": "Unauthenticated Remote Code Execution at Woody Ad Snippets (PoC)",
+      "date": "2021-10-11",
+      "raw_date": "2021-10-11T21:37:06Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.575111",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

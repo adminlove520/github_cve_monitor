@@ -1,0 +1,62 @@
+{
+  "date": "2022-08-25",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-37153",
+      "repo_info": "[5l1v3r1/CVE-2022-37153](https://github.com/5l1v3r1/CVE-2022-37153)",
+      "description": "There is a XSS  vulnerability  in Artica Proxy 4.30.000000",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T08:27:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-37152",
+      "repo_info": "[Fjowel/CVE-2022-37152](https://github.com/Fjowel/CVE-2022-37152)",
+      "description": "An SQL injection was discovered inOnline Diagnostic Lab Management System",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T01:45:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-37151",
+      "repo_info": "[Fjowel/CVE-2022-37151](https://github.com/Fjowel/CVE-2022-37151)",
+      "description": "There is an unauthorized access vulnerability in Online Diagnostic Lab Management System 1.0",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T01:27:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-37150",
+      "repo_info": "[Fjowel/CVE-2022-37150](https://github.com/Fjowel/CVE-2022-37150)",
+      "description": "Online Diagnostic Lab Management System Stored XSS",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T00:58:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-37042",
+      "repo_info": "[aels/CVE-2022-37042](https://github.com/aels/CVE-2022-37042)",
+      "description": "Zimbra CVE-2022-37042 Nuclei weaponized template",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T10:43:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-21371",
+      "repo_info": "[Vulnmachines/Oracle-WebLogic-CVE-2022-21371](https://github.com/Vulnmachines/Oracle-WebLogic-CVE-2022-21371)",
+      "description": "Oracle WebLogic CVE-2022-21371",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T14:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[eurogig/jankybank](https://github.com/eurogig/jankybank)",
+      "description": "Simple Java Front and Back end with bad log4j version featuring CVE-2021-44228",
+      "date": "2022-08-25",
+      "raw_date": "2022-08-25T21:35:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.854926",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

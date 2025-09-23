@@ -1,0 +1,20 @@
+{
+  "date": "2019-07-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-4431",
+      "repo_info": "[imjdl/CVE-2012-4431](https://github.com/imjdl/CVE-2012-4431)",
+      "description": "no description",
+      "date": "2019-07-03",
+      "raw_date": "2019-07-03T14:13:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.809086",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-07-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

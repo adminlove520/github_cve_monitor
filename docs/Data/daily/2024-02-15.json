@@ -1,0 +1,62 @@
+{
+  "date": "2024-02-15",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25466",
+      "repo_info": "[FixedOctocat/CVE-2024-25466](https://github.com/FixedOctocat/CVE-2024-25466)",
+      "description": "Description for CVE-2024-25466",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T07:47:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[abdomagdy0/CVE-2024-23897-htb](https://github.com/abdomagdy0/CVE-2024-23897-htb)",
+      "description": "no description",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T12:37:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[duy-31/CVE-2024-21413](https://github.com/duy-31/CVE-2024-21413)",
+      "description": "Microsoft Outlook Information Disclosure Vulnerability (leak password hash) - Expect Script POC",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T19:57:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-20666",
+      "repo_info": "[nnotwen/Script-For-CVE-2024-20666](https://github.com/nnotwen/Script-For-CVE-2024-20666)",
+      "description": "PowerShell script that can help you automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2024-20666.",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T13:53:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[imhunterand/CVE-2023-36845](https://github.com/imhunterand/CVE-2023-36845)",
+      "description": "Juniper - Remote Code Execution (CVE-2023-36845) PreAuth-RCE Exploits",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T20:17:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-2023",
+      "repo_info": "[druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation](https://github.com/druxter-x/PHP-CVE-2023-2023-2640-POC-Escalation)",
+      "description": "no description",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T16:35:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[letsr00t/CVE-2022-0847](https://github.com/letsr00t/CVE-2022-0847)",
+      "description": "no description",
+      "date": "2024-02-15",
+      "raw_date": "2024-02-15T02:27:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.574837",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-02-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

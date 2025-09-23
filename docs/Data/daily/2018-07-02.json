@@ -1,0 +1,20 @@
+{
+  "date": "2018-07-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8890",
+      "repo_info": "[thinkycx/CVE-2017-8890](https://github.com/thinkycx/CVE-2017-8890)",
+      "description": "no description",
+      "date": "2018-07-02",
+      "raw_date": "2018-07-02T02:21:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.664521",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-07-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-12",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-22567",
+      "repo_info": "[labesterOct/CVE-2024-22567](https://github.com/labesterOct/CVE-2024-22567)",
+      "description": "File Upload vulnerability in MCMS 5.3.5",
+      "date": "2024-02-12",
+      "raw_date": "2024-02-12T06:19:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-51000",
+      "repo_info": "[Team-Byerus/CVE-2023-51000](https://github.com/Team-Byerus/CVE-2023-51000)",
+      "description": "no description",
+      "date": "2024-02-12",
+      "raw_date": "2024-02-12T12:06:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-34527",
+      "repo_info": "[whoami-chmod777/CVE-2021-1675-CVE-2021-34527](https://github.com/whoami-chmod777/CVE-2021-1675-CVE-2021-34527)",
+      "description": "no description",
+      "date": "2024-02-12",
+      "raw_date": "2024-02-12T20:54:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[SamTruss/LMU-CVE-2021-3156](https://github.com/SamTruss/LMU-CVE-2021-3156)",
+      "description": "no description",
+      "date": "2024-02-12",
+      "raw_date": "2024-02-12T11:24:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-1675",
+      "repo_info": "[whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-](https://github.com/whoami-chmod777/CVE-2021-1675---PrintNightmare-LPE-PowerShell-)",
+      "description": "no description",
+      "date": "2024-02-12",
+      "raw_date": "2024-02-12T20:59:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.555247",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2024-02-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2019-08-25",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[Pichuuuuu/CVE-2019-15107](https://github.com/Pichuuuuu/CVE-2019-15107)",
+      "description": "This is a script that exploits a known vulnerability (CVE-2019-15107) in web applications, allowing an attacker to inject commands on the target server. It takes a file containing a list of target URLs as input and attempts to find vulnerable URLs. It should only be used for security testing and with proper authorization.",
+      "date": "2019-08-25",
+      "raw_date": "2019-08-25T05:31:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-9248",
+      "repo_info": "[giacomoferretti/janus-toolkit](https://github.com/giacomoferretti/janus-toolkit)",
+      "description": "A collection of tools for the Janus exploit [CVE-2017-13156].",
+      "date": "2019-08-25",
+      "raw_date": "2019-08-25T16:31:16Z"
+    },
+    {
+      "cve_id": "CVE-2016-6210",
+      "repo_info": "[justlce/CVE-2016-6210-Exploit](https://github.com/justlce/CVE-2016-6210-Exploit)",
+      "description": "OpenSSH Username Enumeration - CVE-2016-6210",
+      "date": "2019-08-25",
+      "raw_date": "2019-08-25T07:23:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.828036",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2019-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

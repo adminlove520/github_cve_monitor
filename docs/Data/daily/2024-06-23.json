@@ -1,0 +1,55 @@
+{
+  "date": "2024-06-23",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-34470",
+      "repo_info": "[th3gokul/CVE-2024-34470](https://github.com/th3gokul/CVE-2024-34470)",
+      "description": "CVE-2024-34470 : An Unauthenticated Path Traversal Vulnerability in HSC Mailinspector",
+      "date": "2024-06-23",
+      "raw_date": "2024-06-23T02:23:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-34313",
+      "repo_info": "[vincentscode/CVE-2024-34313](https://github.com/vincentscode/CVE-2024-34313)",
+      "description": "☣️  This repository contains the description and a proof of concept for CVE-2024-34313",
+      "date": "2024-06-23",
+      "raw_date": "2024-06-23T09:02:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-34312",
+      "repo_info": "[vincentscode/CVE-2024-34312](https://github.com/vincentscode/CVE-2024-34312)",
+      "description": "☣️ This repository contains the description and a proof of concept for CVE-2024-34312",
+      "date": "2024-06-23",
+      "raw_date": "2024-06-23T08:37:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-21514",
+      "repo_info": "[bigb0x/CVE-2024-21514](https://github.com/bigb0x/CVE-2024-21514)",
+      "description": "SQL Injection POC for CVE-2024-21514: Divido payment extension for OpenCart",
+      "date": "2024-06-23",
+      "raw_date": "2024-06-23T00:55:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-21338",
+      "repo_info": "[tykawaii98/CVE-2024-21338_PoC](https://github.com/tykawaii98/CVE-2024-21338_PoC)",
+      "description": "no description",
+      "date": "2024-06-23",
+      "raw_date": "2024-06-23T06:03:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-23388",
+      "repo_info": "[ynwarcs/CVE-2023-23388](https://github.com/ynwarcs/CVE-2023-23388)",
+      "description": "poc for CVE-2023-23388 (LPE in Windows 10/11 bthserv service)",
+      "date": "2024-06-23",
+      "raw_date": "2024-06-23T19:52:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.735204",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2024-06-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

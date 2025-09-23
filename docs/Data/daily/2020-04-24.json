@@ -1,0 +1,20 @@
+{
+  "date": "2020-04-24",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-1306",
+      "repo_info": "[JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306](https://github.com/JJSO12/Apache-Pluto-3.0.0--CVE-2018-1306)",
+      "description": "no description",
+      "date": "2020-04-24",
+      "raw_date": "2020-04-24T06:34:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.949125",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-04-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

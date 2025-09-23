@@ -1,0 +1,27 @@
+{
+  "date": "2015-03-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-8609",
+      "repo_info": "[android-rooting-tools/libmsm_vfe_read_exploit](https://github.com/android-rooting-tools/libmsm_vfe_read_exploit)",
+      "description": "CVE-2014-4321 exploit",
+      "date": "2015-03-08",
+      "raw_date": "2015-03-08T06:13:36Z"
+    },
+    {
+      "cve_id": "CVE-2014-0226",
+      "repo_info": "[mpgn/heartbleed-PoC](https://github.com/mpgn/heartbleed-PoC)",
+      "description": ":broken_heart: Hearbleed exploit to retrieve sensitive information CVE-2014-0160 :broken_heart:",
+      "date": "2015-03-08",
+      "raw_date": "2015-03-08T19:54:33Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.343045",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2015-03-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

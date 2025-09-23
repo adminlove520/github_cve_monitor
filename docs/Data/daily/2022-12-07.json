@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-07",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30129",
+      "repo_info": "[RoccoPearce/CVE-2022-30129](https://github.com/RoccoPearce/CVE-2022-30129)",
+      "description": "no description",
+      "date": "2022-12-07",
+      "raw_date": "2022-12-07T17:46:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-20441",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20441)",
+      "description": "no description",
+      "date": "2022-12-07",
+      "raw_date": "2022-12-07T05:31:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-41805",
+      "repo_info": "[I-Am-Nelson/CVE-2021-41805](https://github.com/I-Am-Nelson/CVE-2021-41805)",
+      "description": "HashiCorp Consul exploit with python. (CVE-2021-41805)",
+      "date": "2022-12-07",
+      "raw_date": "2022-12-07T10:50:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-20323",
+      "repo_info": "[ndmalc/CVE-2021-20323](https://github.com/ndmalc/CVE-2021-20323)",
+      "description": "no description",
+      "date": "2022-12-07",
+      "raw_date": "2022-12-07T21:15:23Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[MadExploits/PHPunit-Exploit](https://github.com/MadExploits/PHPunit-Exploit)",
+      "description": "PHPunit Checker CVE-2017-9841 By MrMad",
+      "date": "2022-12-07",
+      "raw_date": "2022-12-07T11:26:16Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.942359",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-12-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

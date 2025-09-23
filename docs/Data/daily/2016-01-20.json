@@ -1,0 +1,27 @@
+{
+  "date": "2016-01-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-0728",
+      "repo_info": "[kennetham/cve_2016_0728](https://github.com/kennetham/cve_2016_0728)",
+      "description": "CVE-2016-0728 Linux Kernel Vulnerability",
+      "date": "2016-01-20",
+      "raw_date": "2016-01-20T15:23:52Z"
+    },
+    {
+      "cve_id": "CVE-2016-0728",
+      "repo_info": "[isnuryusuf/cve_2016_0728](https://github.com/isnuryusuf/cve_2016_0728)",
+      "description": "cve_2016_0728",
+      "date": "2016-01-20",
+      "raw_date": "2016-01-20T12:22:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.392392",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-01-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

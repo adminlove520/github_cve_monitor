@@ -1,0 +1,34 @@
+{
+  "date": "2021-01-29",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[erk3/gitlab-12.9.0-file-read](https://github.com/erk3/gitlab-12.9.0-file-read)",
+      "description": "A (wanted to be) better script than what can be found on exploit-db about the authenticated arbitrary read file on GitLab v12.9.0 (CVE-2020-10977)",
+      "date": "2021-01-29",
+      "raw_date": "2021-01-29T16:17:10Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[pwn3z/CVE-2020-14882-WebLogic](https://github.com/pwn3z/CVE-2020-14882-WebLogic)",
+      "description": "no description",
+      "date": "2021-01-29",
+      "raw_date": "2021-01-29T13:12:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/chrisjd20/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)",
+      "description": "This python file will decrypt the configurationFile used by hikvision cameras vulnerable to CVE-2017-7921.",
+      "date": "2021-01-29",
+      "raw_date": "2021-01-29T16:08:35Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.274890",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-01-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

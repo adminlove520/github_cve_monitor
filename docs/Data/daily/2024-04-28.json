@@ -1,0 +1,62 @@
+{
+  "date": "2024-04-28",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-2667",
+      "repo_info": "[Puvipavan/CVE-2024-2667](https://github.com/Puvipavan/CVE-2024-2667)",
+      "description": "This is POC for CVE-2024-2667 (InstaWP Connect – 1-click WP Staging &amp; Migration &lt;= 0.1.0.22 - Unauthenticated Arbitrary File Upload)",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T17:14:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-2667",
+      "repo_info": "[balckgu1/Poc](https://github.com/balckgu1/Poc)",
+      "description": "This repository is a proof of vulnerability for CVE-2024-33339",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T01:56:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-21345",
+      "repo_info": "[FoxyProxys/CVE-2024-21345](https://github.com/FoxyProxys/CVE-2024-21345)",
+      "description": "no description",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T21:36:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[0xx01/CVE-2023-23752](https://github.com/0xx01/CVE-2023-23752)",
+      "description": "A simple bash script to exploit Joomla! &lt; 4.2.8 - Unauthenticated information disclosure",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T16:32:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[Codeb3af/CVE-2023-20198-RCE](https://github.com/Codeb3af/CVE-2023-20198-RCE)",
+      "description": "CVE-2023-20198-RCE, support adding/deleting users and executing cli commands/system commands.",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T01:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-42063",
+      "repo_info": "[Cappricio-Securities/CVE-2021-42063](https://github.com/Cappricio-Securities/CVE-2021-42063)",
+      "description": "Tool for finding CVE-2021-42063",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T06:09:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-26084",
+      "repo_info": "[nahcusira/CVE-2021-26084](https://github.com/nahcusira/CVE-2021-26084)",
+      "description": "no description",
+      "date": "2024-04-28",
+      "raw_date": "2024-04-28T08:56:30Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.677084",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-04-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2025-05-30",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5329",
+      "repo_info": "[sahici/CVE-2025-5329](https://github.com/sahici/CVE-2025-5329)",
+      "description": "USOM Tarafından resmi yayın beklenmektedir.",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T09:41:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-5319",
+      "repo_info": "[sahici/CVE-2025-5319](https://github.com/sahici/CVE-2025-5319)",
+      "description": "USOM Tarafından resmi yayın beklenmektedir.",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T09:40:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-47577",
+      "repo_info": "[Yucaerin/CVE-2025-47577](https://github.com/Yucaerin/CVE-2025-47577)",
+      "description": "WordPress TI WooCommerce Wishlist Plugin &lt;= 2.9.2 Arbitrary File Upload",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T18:55:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-7399",
+      "repo_info": "[davidxbors/CVE-2024-7399-POC](https://github.com/davidxbors/CVE-2024-7399-POC)",
+      "description": "no description",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T15:42:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[MQKGitHub/Moniker-Link-CVE-2024-21413](https://github.com/MQKGitHub/Moniker-Link-CVE-2024-21413)",
+      "description": "no description",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T11:57:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-11234",
+      "repo_info": "[cyivor/CVE-2024-11234](https://github.com/cyivor/CVE-2024-11234)",
+      "description": "practicing assembly by recreating an exploit i wrote in python, in x86-64 nasm",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T03:05:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-49496",
+      "repo_info": "[HuangYanQwQ/CVE-2023-49496_PoC](https://github.com/HuangYanQwQ/CVE-2023-49496_PoC)",
+      "description": "no description",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T03:15:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[DelphineTan/Murdoch-CVE-2022-0847](https://github.com/DelphineTan/Murdoch-CVE-2022-0847)",
+      "description": "no description",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T13:12:48Z"
+    },
+    {
+      "cve_id": "CVE-2021-26828",
+      "repo_info": "[ridpath/CVE-2021-26828-Ultimate](https://github.com/ridpath/CVE-2021-26828-Ultimate)",
+      "description": "ScadaFlare Authenticated RCE Exploit Framework for ScadaBR (CVE-2021-26828) OpenPLC ScadaBR",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T00:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-2560",
+      "repo_info": "[DelphineTan/Murdoch-CVE-2021-2560](https://github.com/DelphineTan/Murdoch-CVE-2021-2560)",
+      "description": "no description",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T13:13:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[makmour/open-ssh-user-enumeration](https://github.com/makmour/open-ssh-user-enumeration)",
+      "description": "This script checks for the OpenSSH 7.7 (and prior) username enumeration vulnerability (CVE-2018-15473). It sends a malformed authentication packet and interprets the SSH server’s response to identify valid usernames.",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T10:58:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-0144",
+      "repo_info": "[pelagornisandersi/WIndows-7-automated-exploitation-using-metasploit-framework-](https://github.com/pelagornisandersi/WIndows-7-automated-exploitation-using-metasploit-framework-)",
+      "description": "Automated bash script which scans an ip for potential vulnerability to eternalblue using nmap and then exploit using metasploit framework which uses the CVE-2017-0144 vulnerability[Code name: EternalBlue] in (windows 7,windows 2008 servers,etc.) to gain access to a windows 7 machine and establish a reverse meterpreter shell.",
+      "date": "2025-05-30",
+      "raw_date": "2025-05-30T17:17:05Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.028060",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2025-05-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

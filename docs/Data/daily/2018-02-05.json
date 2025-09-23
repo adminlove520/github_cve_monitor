@@ -1,0 +1,27 @@
+{
+  "date": "2018-02-05",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-4878",
+      "repo_info": "[brianwrf/CVE-2017-4878-Samples](https://github.com/brianwrf/CVE-2017-4878-Samples)",
+      "description": "CVE-2017-4878 Samples - http://blog.talosintelligence.com/2018/02/group-123-goes-wild.html",
+      "date": "2018-02-05",
+      "raw_date": "2018-02-05T05:01:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-12542",
+      "repo_info": "[skelsec/CVE-2017-12542](https://github.com/skelsec/CVE-2017-12542)",
+      "description": "Test and exploit for CVE-2017-12542",
+      "date": "2018-02-05",
+      "raw_date": "2018-02-05T18:55:56Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.614026",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-02-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

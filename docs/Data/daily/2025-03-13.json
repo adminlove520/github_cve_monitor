@@ -1,0 +1,90 @@
+{
+  "date": "2025-03-13",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-26319",
+      "repo_info": "[YuoLuo/CVE-2025-26319](https://github.com/YuoLuo/CVE-2025-26319)",
+      "description": "no description",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T08:06:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-25500",
+      "repo_info": "[H3T76/CVE-2025-25500](https://github.com/H3T76/CVE-2025-25500)",
+      "description": "no description",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T00:29:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[iSee857/CVE-2025-24813-PoC](https://github.com/iSee857/CVE-2025-24813-PoC)",
+      "description": "Apache Tomcat 远程代码执行漏洞批量检测脚本(CVE-2025-24813)",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T10:00:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-1661",
+      "repo_info": "[gbrsh/CVE-2025-1661](https://github.com/gbrsh/CVE-2025-1661)",
+      "description": "HUSKY – Products Filter Professional for WooCommerce &lt; 1.3.6.6 - Local File Inclusion PoC",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T13:45:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-1639",
+      "repo_info": "[Nxploited/CVE-2025-1639](https://github.com/Nxploited/CVE-2025-1639)",
+      "description": "Animation Addons for Elementor Pro &lt;= 1.6 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T10:48:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-0411",
+      "repo_info": "[dpextreme/7-Zip-CVE-2025-0411-POC](https://github.com/dpextreme/7-Zip-CVE-2025-0411-POC)",
+      "description": "This repository contains POC scenarios as part of CVE-2025-0411 MotW bypass.",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T19:53:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-25092",
+      "repo_info": "[Nxploited/CVE-2024-25092](https://github.com/Nxploited/CVE-2024-25092)",
+      "description": "WordPress NextMove Lite plugin &lt;= 2.17.0 - Subscriber+ Arbitrary Plugin Installation/Activation vulnerability",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T11:27:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-24451",
+      "repo_info": "[SpiralBL0CK/CVE-2024-24451](https://github.com/SpiralBL0CK/CVE-2024-24451)",
+      "description": "hypo for CVE-2024-24451",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T21:48:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-24450",
+      "repo_info": "[SpiralBL0CK/-CVE-2024-24450-](https://github.com/SpiralBL0CK/-CVE-2024-24450-)",
+      "description": "test later for hypo poc for  CVE-2024-24450",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T21:18:37Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[0xbinder/android-kernel-exploitation-lab](https://github.com/0xbinder/android-kernel-exploitation-lab)",
+      "description": "This lab guides you through setting up an environment to explore CVE-2019-2215, a critical Android kernel vulnerability in the binder subsystem.",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T06:42:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-2115",
+      "repo_info": "[Fred12301/CVE-2019-2115-Pixel-2-2-XL](https://github.com/Fred12301/CVE-2019-2115-Pixel-2-2-XL)",
+      "description": "CVE-2019-2115 &quot;test&quot;",
+      "date": "2025-03-13",
+      "raw_date": "2025-03-13T00:03:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.952103",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2025-03-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

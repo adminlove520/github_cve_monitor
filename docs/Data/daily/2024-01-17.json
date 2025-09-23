@@ -1,0 +1,118 @@
+{
+  "date": "2024-01-17",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-22145",
+      "repo_info": "[RandomRobbieBF/CVE-2024-22145](https://github.com/RandomRobbieBF/CVE-2024-22145)",
+      "description": "InstaWP Connect &lt;= 0.1.0.8 - Missing Authorization to Arbitrary Options Update (Subscriber+)",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T20:56:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-22145",
+      "repo_info": "[TheRedDevil1/Check-Vulns-Script](https://github.com/TheRedDevil1/Check-Vulns-Script)",
+      "description": "Here is a script to check vulns CVE-2023-46805 and CVE-2024-21887",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T10:29:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-20698",
+      "repo_info": "[RomanRybachek/CVE-2024-20698](https://github.com/RomanRybachek/CVE-2024-20698)",
+      "description": "Analysis of the vulnerability",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T04:35:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-6895",
+      "repo_info": "[FuBoLuSec/CVE-2023-6895](https://github.com/FuBoLuSec/CVE-2023-6895)",
+      "description": "no description",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T12:53:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-6895",
+      "repo_info": "[febinrev/slippy-book-exploit](https://github.com/febinrev/slippy-book-exploit)",
+      "description": "CVE-2023-44451, CVE-2023-52076: RCE Vulnerability affected popular Linux Distros including Mint, Kali, Parrot, Manjaro etc. EPUB File Parsing Directory Traversal Remote Code Execution",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T05:50:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-51467",
+      "repo_info": "[Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467](https://github.com/Praison001/Apache-OFBiz-Auth-Bypass-and-RCE-Exploit-CVE-2023-49070-CVE-2023-51467)",
+      "description": "This exploit scans whether the provided target is vulnerable to CVE-2023-49070/CVE-2023-51467 and also exploits it depending on the choice of the user.",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T07:31:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-5044",
+      "repo_info": "[4ARMED/cve-2023-5044](https://github.com/4ARMED/cve-2023-5044)",
+      "description": "no description",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T14:32:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-49339",
+      "repo_info": "[3zizme/CVE-2023-49339](https://github.com/3zizme/CVE-2023-49339)",
+      "description": "Critical Security Vulnerability in Ellucian Banner System",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T23:18:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-48858",
+      "repo_info": "[Shumerez/CVE-2023-48858](https://github.com/Shumerez/CVE-2023-48858)",
+      "description": "PoC for CVE-2023-48858",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T09:59:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-48858",
+      "repo_info": "[febinrev/atril_cbt-inject-exploit](https://github.com/febinrev/atril_cbt-inject-exploit)",
+      "description": "CVE-2023-44452, CVE-2023-51698: CBT File Parsing Argument Injection that affected Popular Linux Distros",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T09:26:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS](https://github.com/hackintoanetwork/SpaceX-Starlink-Router-Gen-2-XSS)",
+      "description": "CVE-2023-49965 - SpaceX / Starlink Router Gen 2 XSS",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T01:24:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[ga0we1/CVE-2023-22527_Confluence_RCE](https://github.com/ga0we1/CVE-2023-22527_Confluence_RCE)",
+      "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T10:21:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[cerodah/CVE-2021-4034](https://github.com/cerodah/CVE-2021-4034)",
+      "description": "PoC de Polkit",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T22:55:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-1675",
+      "repo_info": "[peckre/PNCVE-Win10-20H2-Exploit](https://github.com/peckre/PNCVE-Win10-20H2-Exploit)",
+      "description": "A one-click script to gain a System privileges command line in Windows 10 20H2 that exploits CVE-2021-1675",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T20:22:29Z"
+    },
+    {
+      "cve_id": "CVE-2020-11652",
+      "repo_info": "[limon768/CVE-2020-11652-CVE-2020-11652-POC](https://github.com/limon768/CVE-2020-11652-CVE-2020-11652-POC)",
+      "description": "This is a fix POC CVE-2020-11651 &amp; CVE-2020-11651",
+      "date": "2024-01-17",
+      "raw_date": "2024-01-17T04:15:16Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.364195",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-01-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

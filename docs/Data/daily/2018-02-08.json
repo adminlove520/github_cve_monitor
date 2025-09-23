@@ -1,0 +1,34 @@
+{
+  "date": "2018-02-08",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-11235",
+      "repo_info": "[Cymmetria/ciscoasa_honeypot](https://github.com/Cymmetria/ciscoasa_honeypot)",
+      "description": "A low interaction honeypot for the Cisco ASA component capable of detecting CVE-2018-0101, a DoS and remote code execution vulnerability.",
+      "date": "2018-02-08",
+      "raw_date": "2018-02-08T15:52:50Z"
+    },
+    {
+      "cve_id": "CVE-2017-7679",
+      "repo_info": "[snknritr/CVE-2017-7679-in-python](https://github.com/snknritr/CVE-2017-7679-in-python)",
+      "description": "At this project, we made a python exploit using buffer overflow at the CVE-2017-7679",
+      "date": "2018-02-08",
+      "raw_date": "2018-02-08T18:21:18Z"
+    },
+    {
+      "cve_id": "CVE-2015-3224",
+      "repo_info": "[0x00-0x00/CVE-2015-3224](https://github.com/0x00-0x00/CVE-2015-3224)",
+      "description": "Modification of Metasploit module for RCE in Ruby-On-Rails Console CVE-2015-3224",
+      "date": "2018-02-08",
+      "raw_date": "2018-02-08T23:24:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.616555",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-02-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

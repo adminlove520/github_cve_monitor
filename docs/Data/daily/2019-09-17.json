@@ -1,0 +1,20 @@
+{
+  "date": "2019-09-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-3066",
+      "repo_info": "[hikame/docker_escape_pwn](https://github.com/hikame/docker_escape_pwn)",
+      "description": "Escape from Docker using CVE-2017-1000112 and CVE-2017-18344, including gaining root privilage, get all capbilities, namespace recovery, filesystem recovery, cgroup limitation bypass and seccomp bypass.",
+      "date": "2019-09-17",
+      "raw_date": "2019-09-17T07:38:47Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.837601",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

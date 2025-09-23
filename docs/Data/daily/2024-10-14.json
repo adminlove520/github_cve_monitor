@@ -1,0 +1,76 @@
+{
+  "date": "2024-10-14",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[longhoangth18/CVE-2024-4577](https://github.com/longhoangth18/CVE-2024-4577)",
+      "description": "no description",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T09:11:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-4406",
+      "repo_info": "[Yogehi/cve-2024-4406-xiaomi13pro-exploit-files](https://github.com/Yogehi/cve-2024-4406-xiaomi13pro-exploit-files)",
+      "description": "Files related to the Pwn2Own Toronto 2023 exploit against the Xiaomi 13 Pro.",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T09:38:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-43965",
+      "repo_info": "[RandomRobbieBF/CVE-2024-43965](https://github.com/RandomRobbieBF/CVE-2024-43965)",
+      "description": "SendGrid for WordPress &lt;= 1.4 - Unauthenticated SQL Injection",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T05:58:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[idkwastaken/CVE-2024-38063](https://github.com/idkwastaken/CVE-2024-38063)",
+      "description": "no description",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T17:46:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[kkhackz0013/CVE-2024-36401](https://github.com/kkhackz0013/CVE-2024-36401)",
+      "description": "no description",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T15:57:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-35584",
+      "repo_info": "[whwhwh96/CVE-2024-35584](https://github.com/whwhwh96/CVE-2024-35584)",
+      "description": "OpenSIS SQLi Injection",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T17:24:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[Cythonic1/CVE-2024-27198_POC](https://github.com/Cythonic1/CVE-2024-27198_POC)",
+      "description": "a proof of concept of the CVE-2024-27198 which infect jetbrains teamCity",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T16:40:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-1698",
+      "repo_info": "[shanglyu/CVE-2024-1698](https://github.com/shanglyu/CVE-2024-1698)",
+      "description": "no description",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T13:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-6000",
+      "repo_info": "[RonF98/CVE-2023-6000-POC](https://github.com/RonF98/CVE-2023-6000-POC)",
+      "description": "This vulnerability displays an XSS flaw in a WordPress popup plugin, allowing attackers to inject malicious JavaScript through a stored XSS",
+      "date": "2024-10-14",
+      "raw_date": "2024-10-14T14:11:02Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.829317",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-10-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

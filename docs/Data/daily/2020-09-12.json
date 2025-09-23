@@ -1,0 +1,20 @@
+{
+  "date": "2020-09-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[primebeast/CVE-2019-11932](https://github.com/primebeast/CVE-2019-11932)",
+      "description": "no description",
+      "date": "2020-09-12",
+      "raw_date": "2020-09-12T07:18:57Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.199568",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-09-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

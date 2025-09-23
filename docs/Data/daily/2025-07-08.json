@@ -1,0 +1,104 @@
+{
+  "date": "2025-07-08",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[win3zz/CVE-2025-5777](https://github.com/win3zz/CVE-2025-5777)",
+      "description": "CVE-2025-5777 (CitrixBleed 2) - Critical memory leak vulnerability affecting Citrix NetScaler ADC and Gateway devices",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T14:12:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[Chocapikk/CVE-2025-5777](https://github.com/Chocapikk/CVE-2025-5777)",
+      "description": "CitrixBleed 2 (CVE-2025-5777)",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T10:27:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-49132",
+      "repo_info": "[0xtensho/CVE-2025-49132-poc](https://github.com/0xtensho/CVE-2025-49132-poc)",
+      "description": "no description",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T22:31:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-48903",
+      "repo_info": "[susancodes55/CVE-2025-48903-discord-poc](https://github.com/susancodes55/CVE-2025-48903-discord-poc)",
+      "description": "CVE-2025-48903 - Discord IP exposure via cache metadata poisoning @Fire Eye",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T20:36:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-48799",
+      "repo_info": "[Wh04m1001/CVE-2025-48799](https://github.com/Wh04m1001/CVE-2025-48799)",
+      "description": "no description",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T15:26:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[acheong08/CVE-2025-48384](https://github.com/acheong08/CVE-2025-48384)",
+      "description": "Breaking git with a carriage return and cloning RCE",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T21:56:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[susancodes55/CVE-2025-32463-sudo-poc](https://github.com/susancodes55/CVE-2025-32463-sudo-poc)",
+      "description": "CVE-2025-32463 - Sudo Privilege Escalation Exploit POC (2025)",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T20:42:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[abrewer251/CVE-2025-32463_Sudo_PoC](https://github.com/abrewer251/CVE-2025-32463_Sudo_PoC)",
+      "description": "PoC for CVE-2025-32463: Local privilege escalation in sudo via --chroot. Exploits NSS module injection through crafted chroot environments. Designed for security researchers and lab-only environments.",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T18:05:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[lowercasenumbers/CVE-2025-32463_sudo_chroot](https://github.com/lowercasenumbers/CVE-2025-32463_sudo_chroot)",
+      "description": "no description",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T13:26:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[bloodcode-spasov/ble-cve2025-attack-new-version](https://github.com/bloodcode-spasov/ble-cve2025-attack-new-version)",
+      "description": "# android-ble-cve-2025-4866  🔐 **PoC za CVE-2025-4866 — Android BLE ranjivost (javna verzija)**   📡 Iskorišćavanje slabosti u BLE autorizaciji na Android uređajima (public PoC only).   👨💻 Razvijeno od strane BloodCode Labs — 2025.",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T14:22:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[SpongeBob-369/cve-2025-32463](https://github.com/SpongeBob-369/cve-2025-32463)",
+      "description": "cve-2025-32463&#x27;s demo",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T12:16:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-9014",
+      "repo_info": "[r0otk3r/CVE-2024-9014](https://github.com/r0otk3r/CVE-2024-9014)",
+      "description": "no description",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T11:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-7954",
+      "repo_info": "[r0otk3r/CVE-2024-7954](https://github.com/r0otk3r/CVE-2024-7954)",
+      "description": "no description",
+      "date": "2025-07-08",
+      "raw_date": "2025-07-08T06:32:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.064881",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-07-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

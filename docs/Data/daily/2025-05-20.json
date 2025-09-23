@@ -1,0 +1,83 @@
+{
+  "date": "2025-05-20",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-4918",
+      "repo_info": "[Totunm/CVE-2025-4918](https://github.com/Totunm/CVE-2025-4918)",
+      "description": "CVE-2025-4918 – Out-of-Bounds Memory Corruption in Mozilla Firefox",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T14:29:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-47827",
+      "repo_info": "[Zedeldi/CVE-2025-47827](https://github.com/Zedeldi/CVE-2025-47827)",
+      "description": "PoC and vulnerability report for CVE-2025-47827.",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T10:42:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-47646",
+      "repo_info": "[RootHarpy/CVE-2025-47646](https://github.com/RootHarpy/CVE-2025-47646)",
+      "description": "PoC for CVE-2025-47646 - WordPress PSW Front-end Login Registration Plugin ≤ 1.12 Unauthenticated Privilege Escalation",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T10:07:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-46801",
+      "repo_info": "[Sratet/CVE-2025-46801](https://github.com/Sratet/CVE-2025-46801)",
+      "description": "CVE-2025-46801 – Pgpool-II Authentication Bypass PoC",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T17:37:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-4322",
+      "repo_info": "[IndominusRexes/CVE-2025-4322-Exploit](https://github.com/IndominusRexes/CVE-2025-4322-Exploit)",
+      "description": "no description",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T08:49:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-40634",
+      "repo_info": "[hacefresko/CVE-2025-40634](https://github.com/hacefresko/CVE-2025-40634)",
+      "description": "Exploit for stack-based buffer overflow found in the conn-indicator binary in the TP-Link Archer AX50 router",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T17:54:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-24085",
+      "repo_info": "[windz3r0day/CVE-2025-24085](https://github.com/windz3r0day/CVE-2025-24085)",
+      "description": "report for CVE-2025-24085 Apple CoreMedia",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T21:58:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-55656",
+      "repo_info": "[rick2600/redis-stack-CVE-2024-55656](https://github.com/rick2600/redis-stack-CVE-2024-55656)",
+      "description": "no description",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T14:01:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[WhoisBulud/CVE-2024-53677](https://github.com/WhoisBulud/CVE-2024-53677)",
+      "description": "CVE-2024-53677",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T08:37:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094](https://github.com/laxmikumari615/Linux---Security---Detect-and-Mitigate-CVE-2024-3094)",
+      "description": "It was determined that malicious code was discovered in the upstream tarballs of xz, starting with version 5.6.0. #    It was determined that only certain operating systems and operating system versions were affected by this vulnerability.",
+      "date": "2025-05-20",
+      "raw_date": "2025-05-20T11:45:05Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.018125",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-05-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-02-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[Ridter/cve-2020-0688](https://github.com/Ridter/cve-2020-0688)",
+      "description": "cve-2020-0688",
+      "date": "2020-02-27",
+      "raw_date": "2020-02-27T02:54:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[righter83/CVE-2020-0688](https://github.com/righter83/CVE-2020-0688)",
+      "description": "Exchange Scanner CVE-2020-0688",
+      "date": "2020-02-27",
+      "raw_date": "2020-02-27T23:55:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.917847",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-02-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

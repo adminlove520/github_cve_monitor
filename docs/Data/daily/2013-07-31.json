@@ -1,0 +1,20 @@
+{
+  "date": "2013-07-31",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2011-4862",
+      "repo_info": "[pwntester/SpringBreaker](https://github.com/pwntester/SpringBreaker)",
+      "description": "Exploit PoC for Spring RCE issue (CVE-2011-2894)",
+      "date": "2013-07-31",
+      "raw_date": "2013-07-31T08:48:19Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.285723",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2013-07-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

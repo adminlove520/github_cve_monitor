@@ -1,0 +1,76 @@
+{
+  "date": "2020-08-13",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-4463",
+      "repo_info": "[Ibonok/CVE-2020-4463](https://github.com/Ibonok/CVE-2020-4463)",
+      "description": "IBM Maximo Asset Management is vulnerable to Information Disclosure via XXE Vulnerability (CVE-2020-4463)",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T09:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-16759",
+      "repo_info": "[nako48/CVE-2019-16759](https://github.com/nako48/CVE-2019-16759)",
+      "description": "Vbulletin RCE Exploit",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T19:11:37Z"
+    },
+    {
+      "cve_id": "CVE-2019-11224",
+      "repo_info": "[Insecurities/CVE-2019-11224](https://github.com/Insecurities/CVE-2019-11224)",
+      "description": "Modero AMX Code Execution (CVE-2019–11224)",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T19:07:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-0230",
+      "repo_info": "[fengziHK/CVE-2019-0230](https://github.com/fengziHK/CVE-2019-0230)",
+      "description": "no description",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T13:31:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-0230",
+      "repo_info": "[PrinceFPF/CVE-2019-0230](https://github.com/PrinceFPF/CVE-2019-0230)",
+      "description": "CVE-2019-0230 Exploit POC",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T15:18:32Z"
+    },
+    {
+      "cve_id": "CVE-2019-0230",
+      "repo_info": "[BH2UOL/CVE-2019-0230](https://github.com/BH2UOL/CVE-2019-0230)",
+      "description": "CVE-2019-0230 Exploit",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T13:05:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-0230",
+      "repo_info": "[303donatello/CVE-2019-0230](https://github.com/303donatello/CVE-2019-0230)",
+      "description": "S2-059 CVE-2019-0230",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T12:59:23Z"
+    },
+    {
+      "cve_id": "CVE-2016-4014",
+      "repo_info": "[murataydemir/CVE-2016-4014](https://github.com/murataydemir/CVE-2016-4014)",
+      "description": "[CVE-2016-4014] SAP Netweaver AS JAVA UDDI Component XML External Entity (XXE)",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T11:51:37Z"
+    },
+    {
+      "cve_id": "CVE-2016-2386",
+      "repo_info": "[murataydemir/CVE-2016-2386](https://github.com/murataydemir/CVE-2016-2386)",
+      "description": "[CVE-2016-2386] SAP NetWeaver AS JAVA UDDI Component SQL Injection",
+      "date": "2020-08-13",
+      "raw_date": "2020-08-13T12:07:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.016559",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2020-08-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

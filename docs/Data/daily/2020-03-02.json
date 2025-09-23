@@ -1,0 +1,41 @@
+{
+  "date": "2020-03-02",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-2546",
+      "repo_info": "[hktalent/CVE_2020_2546](https://github.com/hktalent/CVE_2020_2546)",
+      "description": "CVE-2020-2546，CVE-2020-2915 CVE-2020-2801  CVE-2020-2798  CVE-2020-2883 CVE-2020-2884 CVE-2020-2950  WebLogic T3 payload exploit poc python3,",
+      "date": "2020-03-02",
+      "raw_date": "2020-03-02T15:54:46Z"
+    },
+    {
+      "cve_id": "CVE-2019-5096",
+      "repo_info": "[ianxtianxt/CVE-2019-5096-GoAhead-Web-Server-Dos-Exploit](https://github.com/ianxtianxt/CVE-2019-5096-GoAhead-Web-Server-Dos-Exploit)",
+      "description": "CVE-2019-5096(UAF in upload handler) exploit cause Denial of Service",
+      "date": "2020-03-02",
+      "raw_date": "2020-03-02T16:48:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-6789",
+      "repo_info": "[martinclauss/exim-rce-cve-2018-6789](https://github.com/martinclauss/exim-rce-cve-2018-6789)",
+      "description": "This repository provides a learning environment to understand how an Exim RCE exploit for CVE-2018-6789 works.",
+      "date": "2020-03-02",
+      "raw_date": "2020-03-02T16:53:02Z"
+    },
+    {
+      "cve_id": "CVE-2017-7525",
+      "repo_info": "[Dannners/jackson-deserialization-2017-7525](https://github.com/Dannners/jackson-deserialization-2017-7525)",
+      "description": "Jackson Deserialization CVE-2017-7525 PoC",
+      "date": "2020-03-02",
+      "raw_date": "2020-03-02T00:10:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.921158",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-03-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

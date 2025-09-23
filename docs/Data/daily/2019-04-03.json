@@ -1,0 +1,27 @@
+{
+  "date": "2019-04-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4124",
+      "repo_info": "[jamf/TELUGU_CVE-2018-4124_POC](https://github.com/jamf/TELUGU_CVE-2018-4124_POC)",
+      "description": "no description",
+      "date": "2019-04-03",
+      "raw_date": "2019-04-03T15:44:43Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[cldme/heartbleed-bug](https://github.com/cldme/heartbleed-bug)",
+      "description": "Example and demo setup for Heartbleed vulnerability (CVE-2014-0160). This should be used for testing purposes only!💔",
+      "date": "2019-04-03",
+      "raw_date": "2019-04-03T21:32:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.770471",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-04-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

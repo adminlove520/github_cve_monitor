@@ -1,0 +1,62 @@
+{
+  "date": "2024-11-17",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-54820",
+      "repo_info": "[jcarabantes/CVE-2024-54820](https://github.com/jcarabantes/CVE-2024-54820)",
+      "description": "Vuln disclosure for XOne app",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T12:31:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-4351",
+      "repo_info": "[ZSECURE/CVE-2024-4351](https://github.com/ZSECURE/CVE-2024-4351)",
+      "description": "no description",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T21:37:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-27821",
+      "repo_info": "[0xilis/CVE-2024-27821](https://github.com/0xilis/CVE-2024-27821)",
+      "description": "Writeup and PoC of CVE-2024-27821, for education purposes.",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T20:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[FoKiiin/CVE-2024-10924](https://github.com/FoKiiin/CVE-2024-10924)",
+      "description": "CVE-2024-10924 Authentication Bypass Using an Alternate Path or Channel (CWE-288)",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T21:29:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-10793",
+      "repo_info": "[windz3r0day/CVE-2024-10793](https://github.com/windz3r0day/CVE-2024-10793)",
+      "description": "CVE-2024-10793 poc exploit",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T18:44:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-10245",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10245](https://github.com/RandomRobbieBF/CVE-2024-10245)",
+      "description": "Relais 2FA &lt;= 1.0 - Authentication Bypass",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T16:34:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-34081",
+      "repo_info": "[jason-rodrigues/CVEX-Record](https://github.com/jason-rodrigues/CVEX-Record)",
+      "description": "CVE-2021-34081",
+      "date": "2024-11-17",
+      "raw_date": "2024-11-17T18:17:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.857167",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-11-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

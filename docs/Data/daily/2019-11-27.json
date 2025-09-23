@@ -1,0 +1,27 @@
+{
+  "date": "2019-11-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-1388",
+      "repo_info": "[sv3nbeast/CVE-2019-1388](https://github.com/sv3nbeast/CVE-2019-1388)",
+      "description": "guest→system（UAC手动提权）",
+      "date": "2019-11-27",
+      "raw_date": "2019-11-27T02:47:37Z"
+    },
+    {
+      "cve_id": "CVE-2017-12945",
+      "repo_info": "[aress31/cve-2017-12945](https://github.com/aress31/cve-2017-12945)",
+      "description": "Exploit for CVE-2017-12945.",
+      "date": "2019-11-27",
+      "raw_date": "2019-11-27T09:31:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.863429",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-11-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

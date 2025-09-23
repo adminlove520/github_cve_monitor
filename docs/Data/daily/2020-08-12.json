@@ -1,0 +1,27 @@
+{
+  "date": "2020-08-12",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16759",
+      "repo_info": "[polar1s7/CVE-2019-16759-bypass](https://github.com/polar1s7/CVE-2019-16759-bypass)",
+      "description": "no description",
+      "date": "2020-08-12",
+      "raw_date": "2020-08-12T17:54:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-16374",
+      "repo_info": "[IAG0110/CVE-2019-16374](https://github.com/IAG0110/CVE-2019-16374)",
+      "description": "Ldap Injection in PegaSystem 8.2 or less",
+      "date": "2020-08-12",
+      "raw_date": "2020-08-12T16:06:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.016559",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-08-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

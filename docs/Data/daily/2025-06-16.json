@@ -1,0 +1,97 @@
+{
+  "date": "2025-06-16",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-7431",
+      "repo_info": "[NagisaYumaa/CVE-2025-7431](https://github.com/NagisaYumaa/CVE-2025-7431)",
+      "description": "CVE-2025-7431",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T09:54:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-6169",
+      "repo_info": "[Yuri08loveElaina/CVE_2025_6169](https://github.com/Yuri08loveElaina/CVE_2025_6169)",
+      "description": "The WIMP website co-construction management platform from HAMASTAR Technology has a SQL Injection vulnerability, allowing unauthenticated remote attackers to inject arbitrary SQL commands to read, modify, and delete database contents.",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T07:07:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-5287",
+      "repo_info": "[RootHarpy/CVE-2025-5287](https://github.com/RootHarpy/CVE-2025-5287)",
+      "description": "Unauthenticated SQL Injection exploit for WordPress Likes and Dislikes Plugin ≤ 1.0.0",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T22:25:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-49125",
+      "repo_info": "[detectrespondrepeat/CVE-2025-49125-Authentication-Bypass](https://github.com/detectrespondrepeat/CVE-2025-49125-Authentication-Bypass)",
+      "description": "Authentication Bypass via Alternate Path Vulnerability (CWE-288)",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T16:50:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[5kr1pt/WriteUp-Roundcube_CVE-2025-49113](https://github.com/5kr1pt/WriteUp-Roundcube_CVE-2025-49113)",
+      "description": "Explicação+ WriteUp do Lab Tryhackme",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T21:14:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-20125",
+      "repo_info": "[Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125](https://github.com/Yuri08loveElaina/CVE-2025-20124_and_CVE-2025-20125)",
+      "description": "A vulnerability in an API of Cisco ISE could allow an authenticated, remote attacker to execute arbitrary commands as the root user on an affected device. This vulnerability is due to insecure deserialization of user-supplied Java byte streams by the affected software.",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T07:44:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[zetzns/cve-2024-23113](https://github.com/zetzns/cve-2024-23113)",
+      "description": "no description",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T23:36:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-30333",
+      "repo_info": "[tuaandatt/CVE-2023-30333---Zimbra-UnRAR](https://github.com/tuaandatt/CVE-2023-30333---Zimbra-UnRAR)",
+      "description": "no description",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T12:46:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-30047",
+      "repo_info": "[Andreyft7/CVE-2021-30047](https://github.com/Andreyft7/CVE-2021-30047)",
+      "description": "Scrip de &quot;Denial of Service&quot; no protocolo de rede FTP",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T19:08:40Z"
+    },
+    {
+      "cve_id": "CVE-2020-9483",
+      "repo_info": "[tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0](https://github.com/tuaandatt/CVE-2020-9483---Apache-Skywalking-8.3.0)",
+      "description": "no description",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T11:27:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-35730",
+      "repo_info": "[Pbat6/CVE-2020-35730](https://github.com/Pbat6/CVE-2020-35730)",
+      "description": "no description",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T15:35:21Z"
+    },
+    {
+      "cve_id": "CVE-2016-3088",
+      "repo_info": "[HeArtE4t3r/CVE-2016-3088](https://github.com/HeArtE4t3r/CVE-2016-3088)",
+      "description": "A Python-based Exploit Script for CVE-2016-3088",
+      "date": "2025-06-16",
+      "raw_date": "2025-06-16T11:27:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.043063",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2025-06-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

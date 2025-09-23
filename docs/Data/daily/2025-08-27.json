@@ -1,0 +1,125 @@
+{
+  "date": "2025-08-27",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[walidpyh/CVE-2025-8088](https://github.com/walidpyh/CVE-2025-8088)",
+      "description": "no description",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T18:47:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[nyra-workspace/CVE-2025-8088](https://github.com/nyra-workspace/CVE-2025-8088)",
+      "description": "no description",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T14:05:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[pentestfunctions/best-CVE-2025-8088](https://github.com/pentestfunctions/best-CVE-2025-8088)",
+      "description": "Winrar CVE exploitation before 7.13 using multiple ADS streams on a single file (Custom PDF implementation)",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T06:32:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-6934",
+      "repo_info": "[yukinime/CVE-2025-6934](https://github.com/yukinime/CVE-2025-6934)",
+      "description": "no description",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T12:24:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[wzx5002/CVE-2025-48384](https://github.com/wzx5002/CVE-2025-48384)",
+      "description": "test",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T03:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[wzx5002/totallynotsuspicious](https://github.com/wzx5002/totallynotsuspicious)",
+      "description": "sub for CVE-2025-48384",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T03:28:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-38676",
+      "repo_info": "[14mb1v45h/CVE-2025-38676](https://github.com/14mb1v45h/CVE-2025-38676)",
+      "description": "Stack buffer overflow during cmdline parsing",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T01:29:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[hacieda/CVE-2025-32463](https://github.com/hacieda/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T18:58:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[Yuy0ung/CVE-2025-32463_chwoot](https://github.com/Yuy0ung/CVE-2025-32463_chwoot)",
+      "description": "POC for CVE-2025-32463 sudo_chwoot",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T07:59:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[te0rwx/CVE-2025-32433-Detection](https://github.com/te0rwx/CVE-2025-32433-Detection)",
+      "description": "no description",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T13:00:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-27363",
+      "repo_info": "[kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition](https://github.com/kitsuneshade/WinRAR-Exploit-Tool---Rust-Edition)",
+      "description": "A high-performance, memory-safe implementation of the WinRAR CVE-2025-8088 exploit tool, rewritten in Rust for better reliability and performance.",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T17:56:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-5083",
+      "repo_info": "[Roronoawjd/CVE-2024-5083](https://github.com/Roronoawjd/CVE-2024-5083)",
+      "description": "Nexus Repository 2 SXSS POC",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T15:21:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-45539",
+      "repo_info": "[slicingmelon/HAProxy-CVE-2023-45539-PoC](https://github.com/slicingmelon/HAProxy-CVE-2023-45539-PoC)",
+      "description": "HAProxy-CVE-2023-45539-PoC",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T03:52:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-3609",
+      "repo_info": "[Jturnxd/CVE-2023-3609](https://github.com/Jturnxd/CVE-2023-3609)",
+      "description": "no description",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T13:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2018-19323",
+      "repo_info": "[blueisbeautiful/CVE-2018-19323](https://github.com/blueisbeautiful/CVE-2018-19323)",
+      "description": "An exploitation framework for CVE-2018-19323 - GIGABYTE GDrv privilege escalation vulnerability with multi-architecture support and framework integration",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T11:51:42Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[nika0x38/CVE-2007-2447](https://github.com/nika0x38/CVE-2007-2447)",
+      "description": "A Rust implementation of the CVE-2007-2447 exploit targeting Samba smbd 3.0.20-Debian.",
+      "date": "2025-08-27",
+      "raw_date": "2025-08-27T11:51:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.117512",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

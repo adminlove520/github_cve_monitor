@@ -1,0 +1,129 @@
+name: 生成每日CVE数据并更新统计
+
+on:
+  schedule:
+    # 每天北京时间早上8点运行 (UTC 00:00)
+    - cron: '0 0 * * *'
+  push:
+    branches: [main]
+    paths:
+      - 'docs/README.md'
+      - 'scripts/enhanced_daily_data_generator.py'
+  workflow_dispatch:
+    inputs:
+      fill_gaps:
+        description: '是否填补缺失日期'
+        required: false
+        default: 'true'
+        type: boolean
+      start_date:
+        description: '开始日期 (YYYY-MM-DD，可选)'
+        required: false
+        type: string
+      end_date:
+        description: '结束日期 (YYYY-MM-DD，可选)'
+        required: false
+        type: string
+
+jobs:
+  generate-daily-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 检出代码
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        fetch-depth: 0
+    
+    - name: 设置Python环境
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.9'
+    
+    - name: 安装依赖
+      run: |
+        python -m pip install --upgrade pip
+        # 如果有requirements.txt文件的话
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+    
+    - name: 运行增强版数据生成器
+      run: |
+        cd scripts
+        python enhanced_daily_data_generator.py \
+          --readme ../docs/README.md \
+          --output ../docs/Data/daily \
+          ${{ github.event.inputs.fill_gaps == 'true' && '--fill-gaps' || '' }} \
+          ${{ github.event.inputs.start_date && format('--start-date {0}', github.event.inputs.start_date) || '' }} \
+          ${{ github.event.inputs.end_date && format('--end-date {0}', github.event.inputs.end_date) || '' }} \
+          --verbose
+    
+    - name: 检查是否有变更
+      id: check_changes
+      run: |
+        if git diff --quiet HEAD -- docs/Data/daily/; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "📝 没有检测到数据变更"
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "✅ 检测到数据变更"
+        fi
+    
+    - name: 提交和推送变更
+      if: steps.check_changes.outputs.changes == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # 添加所有变更的文件
+        git add docs/Data/daily/
+        
+        # 获取当前日期
+        CURRENT_DATE=$(date '+%Y-%m-%d')
+        
+        # 统计新增文件数量
+        NEW_FILES=$(git diff --cached --name-only --diff-filter=A | wc -l)
+        MODIFIED_FILES=$(git diff --cached --name-only --diff-filter=M | wc -l)
+        
+        # 创建提交信息
+        COMMIT_MSG="🤖 自动更新每日CVE数据 ($CURRENT_DATE)"
+        if [ "$NEW_FILES" -gt 0 ]; then
+          COMMIT_MSG="$COMMIT_MSG - 新增 $NEW_FILES 个文件"
+        fi
+        if [ "$MODIFIED_FILES" -gt 0 ]; then
+          COMMIT_MSG="$COMMIT_MSG - 更新 $MODIFIED_FILES 个文件"
+        fi
+        
+        git commit -m "$COMMIT_MSG"
+        git push
+    
+    - name: 生成运行报告
+      if: always()
+      run: |
+        echo "## 📊 每日CVE数据生成报告" >> $GITHUB_STEP_SUMMARY
+        echo "| 项目 | 状态 | 详情 |" >> $GITHUB_STEP_SUMMARY
+        echo "|------|------|------|" >> $GITHUB_STEP_SUMMARY
+        echo "| 脚本执行 | ✅ 成功 | 增强版数据生成器运行完成 |" >> $GITHUB_STEP_SUMMARY
+        
+        if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+          echo "| 数据更新 | ✅ 有更新 | 检测到新数据并已提交 |" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "| 数据更新 | ℹ️ 无变更 | 未检测到新数据 |" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        # 显示最新的汇总统计
+        if [ -f "docs/Data/daily/daily_summary.json" ]; then
+          TOTAL_CVES=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['total_cves'])")
+          TOTAL_FILES=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['total_files'])")
+          DATE_RANGE_START=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['date_range']['start'])")
+          DATE_RANGE_END=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['date_range']['end'])")
+          
+          echo "| 总CVE数量 | 📊 $TOTAL_CVES | 累计记录数 |" >> $GITHUB_STEP_SUMMARY
+          echo "| 总文件数 | 📁 $TOTAL_FILES | 生成的JSON文件数 |" >> $GITHUB_STEP_SUMMARY
+          echo "| 日期范围 | 📅 $DATE_RANGE_START 到 $DATE_RANGE_END | 数据覆盖时间段 |" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "🔗 **相关链接:**" >> $GITHUB_STEP_SUMMARY
+        echo "- [统计页面](https://adminlove520.github.io/github_cve_monitor/stats.html)" >> $GITHUB_STEP_SUMMARY
+        echo "- [数据目录](https://github.com/${{ github.repository }}/tree/main/docs/Data/daily)" >> $GITHUB_STEP_SUMMARY

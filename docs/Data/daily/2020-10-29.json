@@ -1,0 +1,27 @@
+{
+  "date": "2020-10-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-10779",
+      "repo_info": "[RepublicR0K/CVE-2019-10779](https://github.com/RepublicR0K/CVE-2019-10779)",
+      "description": "GCHQ Stroom is vulnerable to Cross-Site Scripting due to the ability to load the Stroom dashboard on another site and insufficient protection against window event origins.",
+      "date": "2020-10-29",
+      "raw_date": "2020-10-29T21:56:32Z"
+    },
+    {
+      "cve_id": "CVE-2015-4852",
+      "repo_info": "[areaventuno/exploit-joomla](https://github.com/areaventuno/exploit-joomla)",
+      "description": "Un semplice exploit che sfrutta CVE-2015-7297, CVE-2015-7857 and CVE-2015-7858 per elencare gli utenti con la psw del db",
+      "date": "2020-10-29",
+      "raw_date": "2020-10-29T00:35:35Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.221612",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-10-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

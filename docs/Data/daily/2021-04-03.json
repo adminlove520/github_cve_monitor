@@ -1,0 +1,48 @@
+{
+  "date": "2021-04-03",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-5839",
+      "repo_info": "[nasbench/CVE-2020-5839](https://github.com/nasbench/CVE-2020-5839)",
+      "description": "CVE-2020-5839 POC",
+      "date": "2021-04-03",
+      "raw_date": "2021-04-03T16:35:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-25213",
+      "repo_info": "[piruprohacking/CVE-2020-25213](https://github.com/piruprohacking/CVE-2020-25213)",
+      "description": "no description",
+      "date": "2021-04-03",
+      "raw_date": "2021-04-03T13:52:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-17453",
+      "repo_info": "[ydycjz6j/CVE-2020-17453-PoC](https://github.com/ydycjz6j/CVE-2020-17453-PoC)",
+      "description": "PoC (Proof of Concept) - CVE-2020-17453",
+      "date": "2021-04-03",
+      "raw_date": "2021-04-03T13:49:39Z"
+    },
+    {
+      "cve_id": "CVE-2020-12593",
+      "repo_info": "[nasbench/CVE-2020-12593](https://github.com/nasbench/CVE-2020-12593)",
+      "description": "CVE-2020-12593 POC",
+      "date": "2021-04-03",
+      "raw_date": "2021-04-03T16:41:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-19547",
+      "repo_info": "[nasbench/CVE-2019-19547](https://github.com/nasbench/CVE-2019-19547)",
+      "description": "CVE-2019-19547​ POC",
+      "date": "2021-04-03",
+      "raw_date": "2021-04-03T16:28:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.324240",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-04-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

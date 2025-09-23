@@ -1,0 +1,48 @@
+{
+  "date": "2024-10-22",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-26318",
+      "repo_info": "[Frozenka/CVE-2025-26318](https://github.com/Frozenka/CVE-2025-26318)",
+      "description": "POC CVE-2025-26318",
+      "date": "2024-10-22",
+      "raw_date": "2024-10-22T12:13:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[anhvutuan/CVE-2024-6387-poc-1](https://github.com/anhvutuan/CVE-2024-6387-poc-1)",
+      "description": "CVE-2024-6387, also known as RegreSSHion, is a high-severity vulnerability found in OpenSSH servers (sshd) running on glibc-based Linux systems. It is a regression of a previously fixed vulnerability (CVE-2006-5051), which means the issue was reintroduced in newer versions of OpenSSH.",
+      "date": "2024-10-22",
+      "raw_date": "2024-10-22T04:50:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[grecosamuel/CVE-2024-32002](https://github.com/grecosamuel/CVE-2024-32002)",
+      "description": "no description",
+      "date": "2024-10-22",
+      "raw_date": "2024-10-22T12:44:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[Rizzler4562/CVE-2023-46747-Mass-RCE](https://github.com/Rizzler4562/CVE-2023-46747-Mass-RCE)",
+      "description": "CVE-2023-46747-Mass-RCE",
+      "date": "2024-10-22",
+      "raw_date": "2024-10-22T13:51:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-48656",
+      "repo_info": "[Einstein2150/CVE-2022-48656-POC](https://github.com/Einstein2150/CVE-2022-48656-POC)",
+      "description": "A proof-of-concept for CVE-2022-48656 - python plistlib XML deserialisation attack",
+      "date": "2024-10-22",
+      "raw_date": "2024-10-22T05:58:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.837176",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2024-10-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2015-07-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-3636",
+      "repo_info": "[betalphafai/cve-2015-3636_crash](https://github.com/betalphafai/cve-2015-3636_crash)",
+      "description": "no description",
+      "date": "2015-07-25",
+      "raw_date": "2015-07-25T09:29:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.366717",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-07-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2023-06-11",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-2636",
+      "repo_info": "[lukinneberg/CVE-2023-2636](https://github.com/lukinneberg/CVE-2023-2636)",
+      "description": "no description",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T20:24:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-25158",
+      "repo_info": "[murataydemir/CVE-2023-25157-and-CVE-2023-25158](https://github.com/murataydemir/CVE-2023-25157-and-CVE-2023-25158)",
+      "description": "GeoServer &amp; GeoTools SQL Injection (CVE-2023-25157 &amp; CVE-2023-25158)",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T18:57:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-45025",
+      "repo_info": "[andyhsu024/CVE-2022-45025](https://github.com/andyhsu024/CVE-2022-45025)",
+      "description": "no description",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T13:18:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-25012",
+      "repo_info": "[deathflash1411/cve-2022-25012](https://github.com/deathflash1411/cve-2022-25012)",
+      "description": "Weak Password Encryption in Argus Surveillance DVR 4.0",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T06:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-22274",
+      "repo_info": "[forthisvideo/CVE-2022-22274_poc](https://github.com/forthisvideo/CVE-2022-22274_poc)",
+      "description": "no description",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T16:56:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-41652",
+      "repo_info": "[deathflash1411/cve-2021-41652](https://github.com/deathflash1411/cve-2021-41652)",
+      "description": "Missing Access Control in BatFlat CMS 1.3.6",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T06:33:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-35448",
+      "repo_info": "[deathflash1411/cve-2021-35448](https://github.com/deathflash1411/cve-2021-35448)",
+      "description": "Local Privilege Escalation in Remote Mouse 3.008",
+      "date": "2023-06-11",
+      "raw_date": "2023-06-11T06:32:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.217505",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-06-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

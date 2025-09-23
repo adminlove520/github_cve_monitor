@@ -1,0 +1,34 @@
+{
+  "date": "2016-12-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-8655",
+      "repo_info": "[scarvell/cve-2016-8655](https://github.com/scarvell/cve-2016-8655)",
+      "description": "PoC for CVE-2016-8655 that causes a kernel panic",
+      "date": "2016-12-07",
+      "raw_date": "2016-12-07T00:51:52Z"
+    },
+    {
+      "cve_id": "CVE-2016-1542",
+      "repo_info": "[unkaktus/grill](https://github.com/unkaktus/grill)",
+      "description": "global rate-limiting in Linux (CVE-2016-5696) scanner",
+      "date": "2016-12-07",
+      "raw_date": "2016-12-07T18:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[opsxcq/exploit-CVE-2014-6271](https://github.com/opsxcq/exploit-CVE-2014-6271)",
+      "description": "Shellshock exploit + vulnerable environment",
+      "date": "2016-12-07",
+      "raw_date": "2016-12-07T23:38:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.465358",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2016-12-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

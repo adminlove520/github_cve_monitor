@@ -1,0 +1,34 @@
+{
+  "date": "2017-09-08",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-14263",
+      "repo_info": "[zzz66686/CVE-2017-14263](https://github.com/zzz66686/CVE-2017-14263)",
+      "description": "no description",
+      "date": "2017-09-08",
+      "raw_date": "2017-09-08T07:27:13Z"
+    },
+    {
+      "cve_id": "CVE-2017-14262",
+      "repo_info": "[zzz66686/CVE-2017-14262](https://github.com/zzz66686/CVE-2017-14262)",
+      "description": "no description",
+      "date": "2017-09-08",
+      "raw_date": "2017-09-08T02:59:21Z"
+    },
+    {
+      "cve_id": "CVE-2017-12611",
+      "repo_info": "[brianwrf/S2-053-CVE-2017-12611](https://github.com/brianwrf/S2-053-CVE-2017-12611)",
+      "description": "A simple script for exploit RCE for Struts 2 S2-053(CVE-2017-12611)",
+      "date": "2017-09-08",
+      "raw_date": "2017-09-08T02:50:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.551953",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-09-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

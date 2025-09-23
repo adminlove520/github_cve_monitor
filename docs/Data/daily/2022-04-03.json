@@ -1,0 +1,34 @@
+{
+  "date": "2022-04-03",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0413",
+      "repo_info": "[shi10587s/Sauercloude](https://github.com/shi10587s/Sauercloude)",
+      "description": "0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119",
+      "date": "2022-04-03",
+      "raw_date": "2022-04-03T09:46:03Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[0xkasra/CVE-2018-7600](https://github.com/0xkasra/CVE-2018-7600)",
+      "description": "no description",
+      "date": "2022-04-03",
+      "raw_date": "2022-04-03T22:45:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-9506",
+      "repo_info": "[labsbots/CVE-2017-9506](https://github.com/labsbots/CVE-2017-9506)",
+      "description": "Atlassian Jira XSS attack via Server Side Request Forgery (SSRF).",
+      "date": "2022-04-03",
+      "raw_date": "2022-04-03T16:23:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.730869",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-04-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-08-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-17026",
+      "repo_info": "[maxpl0it/CVE-2019-17026-Exploit](https://github.com/maxpl0it/CVE-2019-17026-Exploit)",
+      "description": "An exploit for CVE-2019-17026. It pops xcalc and was tested on Ubuntu (x64).",
+      "date": "2020-08-27",
+      "raw_date": "2020-08-27T19:32:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-8120",
+      "repo_info": "[StartZYP/CVE-2018-8120](https://github.com/StartZYP/CVE-2018-8120)",
+      "description": "This CVE-2018-8120 File",
+      "date": "2020-08-27",
+      "raw_date": "2020-08-27T07:10:34Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.190541",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

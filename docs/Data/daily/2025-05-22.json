@@ -1,0 +1,76 @@
+{
+  "date": "2025-05-22",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46801",
+      "repo_info": "[xplitter/CVE-2025-46801](https://github.com/xplitter/CVE-2025-46801)",
+      "description": "CVE-2025-46801 – Pgpool-II Authentication Bypass PoC",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T21:47:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-44108",
+      "repo_info": "[harish0x/CVE-2025-44108-SXSS](https://github.com/harish0x/CVE-2025-44108-SXSS)",
+      "description": "no description",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T05:10:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-4322",
+      "repo_info": "[Yucaerin/CVE-2025-4322](https://github.com/Yucaerin/CVE-2025-4322)",
+      "description": "Motors &lt;= 5.6.67 - Unauthenticated Privilege Escalation via Password Update/Account Takeover",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T15:12:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-4123",
+      "repo_info": "[NightBloodz/CVE-2025-4123](https://github.com/NightBloodz/CVE-2025-4123)",
+      "description": "Script to exploit Grafana CVE-2025-4123: XSS and Full-Read SSRF",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T15:34:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-37899",
+      "repo_info": "[SeanHeelan/o3_finds_cve-2025-37899](https://github.com/SeanHeelan/o3_finds_cve-2025-37899)",
+      "description": "Artefacts for blog post on finding CVE-2025-37899 with o3",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T10:36:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-24799",
+      "repo_info": "[galletitaconpate/CVE-2025-24799](https://github.com/galletitaconpate/CVE-2025-24799)",
+      "description": "no description",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T20:49:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-9463",
+      "repo_info": "[momo1239/CVE-2024-9463-Proof-of-Concept](https://github.com/momo1239/CVE-2024-9463-Proof-of-Concept)",
+      "description": "Proof of Concept for CVE-2024-9463",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T20:39:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[abrewer251/CVE-2024-21762_FortiNet_PoC](https://github.com/abrewer251/CVE-2024-21762_FortiNet_PoC)",
+      "description": "Proof-of-concept scanner targeting CVE-2024-21762 in FortiOS SSL VPN’s /remote/hostcheck_validate endpoint with reverse shell payload delivery.",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T16:22:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[sfewer-r7/BrotherVulnerabilities](https://github.com/sfewer-r7/BrotherVulnerabilities)",
+      "description": "Multiple Brother Devices: Multiple Vulnerabilities (CVE-2024-51977, CVE-2024-51978, CVE-2024-51979, CVE-2024-51980, CVE-2024-51981, CVE-2024-51982, CVE-2024-51983, CVE-2024-51984)",
+      "date": "2025-05-22",
+      "raw_date": "2025-05-22T10:52:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.019937",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-05-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

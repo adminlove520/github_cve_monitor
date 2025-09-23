@@ -1,0 +1,76 @@
+{
+  "date": "2023-02-05",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-45544",
+      "repo_info": "[tristao-marinho/CVE-2022-45544](https://github.com/tristao-marinho/CVE-2022-45544)",
+      "description": "SCHLIX CMS 2.2.7-2 arbitrary File Upload",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T21:45:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[voidz0r/CVE-2022-44268](https://github.com/voidz0r/CVE-2022-44268)",
+      "description": "A PoC for the CVE-2022-44268 - ImageMagick arbitrary file read",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T18:42:27Z"
+    },
+    {
+      "cve_id": "CVE-2021-35287",
+      "repo_info": "[l00neyhacker/CVE-2021-35287](https://github.com/l00neyhacker/CVE-2021-35287)",
+      "description": "CVE-2021-35287",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T22:37:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-35286",
+      "repo_info": "[l00neyhacker/CVE-2021-35286](https://github.com/l00neyhacker/CVE-2021-35286)",
+      "description": "CVE-2021-35286",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T22:35:04Z"
+    },
+    {
+      "cve_id": "CVE-2020-35391",
+      "repo_info": "[dumitory-dev/CVE-2020-35391-POC](https://github.com/dumitory-dev/CVE-2020-35391-POC)",
+      "description": "Tenda N300 Authentication Bypass via Malformed HTTP Request Header",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T13:42:55Z"
+    },
+    {
+      "cve_id": "CVE-2018-1311",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-1311](https://github.com/Live-Hack-CVE/CVE-2018-1311)",
+      "description": "The Apache Xerces-C 3.0.0 to 3.2.3 XML parser contains a use-after-free error triggered during the scanning of external DTDs. This flaw has not been addressed in the maintained version of the library and has no current mitigation other than to disable DTD processing. This can be accomplished via the DOM using a standar CVE project by @Sn0wAlice",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T23:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2017-20175",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-20175](https://github.com/Live-Hack-CVE/CVE-2017-20175)",
+      "description": "A vulnerability classified as problematic has been found in DaSchTour matomo-mediawiki-extension up to 2.4.2. This affects an unknown part of the file Piwik.hooks.php of the component Username Handler. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The exploit has been d CVE project by @Sn0wAlice",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T21:32:46Z"
+    },
+    {
+      "cve_id": "CVE-2015-0252",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-0252](https://github.com/Live-Hack-CVE/CVE-2015-0252)",
+      "description": "internal/XMLReader.cpp in Apache Xerces-C before 3.1.2 allows remote attackers to cause a denial of service (segmentation fault and crash) via crafted XML data. CVE project by @Sn0wAlice",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T23:43:09Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[0xFTW/CVE-2011-2523](https://github.com/0xFTW/CVE-2011-2523)",
+      "description": "CVE-2011-2523 exploit",
+      "date": "2023-02-05",
+      "raw_date": "2023-02-05T22:17:34Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.111250",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-02-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

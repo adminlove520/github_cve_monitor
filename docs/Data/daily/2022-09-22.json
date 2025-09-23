@@ -1,0 +1,104 @@
+{
+  "date": "2022-09-22",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[burpheart/cve-2022-39197](https://github.com/burpheart/cve-2022-39197)",
+      "description": "cve-2022-39197  poc",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T14:39:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[atomxw/cobaltstrike4.5_cdf](https://github.com/atomxw/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T08:55:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[Security-Rules/cobaltstrike4.5_cdf](https://github.com/Security-Rules/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T10:04:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[shen771/cobaltstrike4.5_cdf](https://github.com/shen771/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T08:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[ginipropro/cobaltstrike4.5_cdf](https://github.com/ginipropro/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T07:15:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[LztCode/cobaltstrike4.5_cdf](https://github.com/LztCode/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T02:25:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[wwl012345/cobaltstrike4.5_cdf](https://github.com/wwl012345/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T02:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[zeoday/cobaltstrike4.5_cdf-1](https://github.com/zeoday/cobaltstrike4.5_cdf-1)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T02:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-37708",
+      "repo_info": "[thekevinday/docker_lightman_exploit](https://github.com/thekevinday/docker_lightman_exploit)",
+      "description": "Docker CVE-2022-37708",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T23:06:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[hupe1980/CVE-2022-29464](https://github.com/hupe1980/CVE-2022-29464)",
+      "description": "WSO2 Arbitrary File Upload to Remote Command Execution (RCE)",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T14:04:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[crankyyash/SiteCore-RCE-Detection](https://github.com/crankyyash/SiteCore-RCE-Detection)",
+      "description": "For detection of sitecore RCE - CVE-2021-42237",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T12:32:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-2729",
+      "repo_info": "[Luchoane/CVE-2019-2729_creal](https://github.com/Luchoane/CVE-2019-2729_creal)",
+      "description": "PoC for exploiting CVE-2019-2729 on WebLogic",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T11:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[moorada/goGetRCE](https://github.com/moorada/goGetRCE)",
+      "description": "CVE-2018-6574",
+      "date": "2022-09-22",
+      "raw_date": "2022-09-22T08:26:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.882240",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2022-09-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

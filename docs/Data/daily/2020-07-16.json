@@ -1,0 +1,27 @@
+{
+  "date": "2020-07-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-17571",
+      "repo_info": "[Al1ex/CVE-2019-17571](https://github.com/Al1ex/CVE-2019-17571)",
+      "description": "Environment for CVE_2019_17571",
+      "date": "2020-07-16",
+      "raw_date": "2020-07-16T04:01:40Z"
+    },
+    {
+      "cve_id": "CVE-2018-1297",
+      "repo_info": "[Al1ex/CVE-2018-1297](https://github.com/Al1ex/CVE-2018-1297)",
+      "description": "EXP for CVE-2018-1297",
+      "date": "2020-07-16",
+      "raw_date": "2020-07-16T06:20:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.004504",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-07-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

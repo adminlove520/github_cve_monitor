@@ -1,0 +1,62 @@
+{
+  "date": "2022-04-11",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-25075",
+      "repo_info": "[F6JO/Burp_VulPscan](https://github.com/F6JO/Burp_VulPscan)",
+      "description": "burp被动扫描插件，目前只有CVE-2022-22947",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T06:19:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[Ki11i0n4ir3/CVE-2022-22963](https://github.com/Ki11i0n4ir3/CVE-2022-22963)",
+      "description": "no description",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T10:01:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[aniqfakhrul/CVE-2022-22954](https://github.com/aniqfakhrul/CVE-2022-22954)",
+      "description": "no description",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T23:21:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-22827",
+      "repo_info": "[nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827](https://github.com/nanopathi/external_expat_AOSP10_r33_CVE-2022-22822toCVE-2022-22827)",
+      "description": "no description",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T13:57:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-20038",
+      "repo_info": "[vaknin/SLMail5.5](https://github.com/vaknin/SLMail5.5)",
+      "description": "Exploiting CVE 2003-0264 with a buffer-overflow attack using Python3",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T19:13:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-0439",
+      "repo_info": "[Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2020-0439)",
+      "description": "no description",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T10:13:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-0138",
+      "repo_info": "[Satheesh575555/system_bt_AOSP10_r33-CVE-2020-0138](https://github.com/Satheesh575555/system_bt_AOSP10_r33-CVE-2020-0138)",
+      "description": "no description",
+      "date": "2022-04-11",
+      "raw_date": "2022-04-11T09:48:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.737735",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-04-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2020-06-11",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[it3x55/CVE-2018-6574](https://github.com/it3x55/CVE-2018-6574)",
+      "description": "Vulnerble-code",
+      "date": "2020-06-11",
+      "raw_date": "2020-06-11T22:03:06Z"
+    },
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[wifido/CVE-2017-9805-Exploit](https://github.com/wifido/CVE-2017-9805-Exploit)",
+      "description": "Struts 2.5 - 2.5.12 REST Plugin XStream RCE",
+      "date": "2020-06-11",
+      "raw_date": "2020-06-11T07:36:56Z"
+    },
+    {
+      "cve_id": "CVE-2017-7529",
+      "repo_info": "[brahmstaedt/libxml2-exploit](https://github.com/brahmstaedt/libxml2-exploit)",
+      "description": "An example exploit for CVE-2017-7376",
+      "date": "2020-06-11",
+      "raw_date": "2020-06-11T06:55:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.984443",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-06-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

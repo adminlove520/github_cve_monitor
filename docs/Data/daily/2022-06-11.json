@@ -1,0 +1,62 @@
+{
+  "date": "2022-06-11",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[SrCroqueta/CVE-2022-30190_Temporary_Fix](https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix)",
+      "description": "These are two Python scripts compiled to easily and quickly apply temporary protection against the CVE-2022-30190 vulnerability (Follina)",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T11:16:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-30075",
+      "repo_info": "[trhacknon/CVE-2022-30075](https://github.com/trhacknon/CVE-2022-30075)",
+      "description": "no description",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T07:04:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[scoobydoobi/CVE-2022-26809-RCE](https://github.com/scoobydoobi/CVE-2022-26809-RCE)",
+      "description": "writeup and poc for [CVE-2022-26809]",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T13:22:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-24806",
+      "repo_info": "[oturu/CVE-2022-24806-MASS-RCE](https://github.com/oturu/CVE-2022-24806-MASS-RCE)",
+      "description": "CVE-2022-24806 and CVE-2022-24807 are an unauthenticated RCE vulnerability in magento and adobe commerce",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T18:59:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[arzuozkan/CVE-2022-22954](https://github.com/arzuozkan/CVE-2022-22954)",
+      "description": "Practicing technical writing with researching CVE-2022-22954 VMware Workspace ONE Access RCE vulnerability.",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T14:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-35576",
+      "repo_info": "[emad-almousa/CVE-2021-35576](https://github.com/emad-almousa/CVE-2021-35576)",
+      "description": "CVE-2021-35576",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T17:36:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-12561",
+      "repo_info": "[whokilleddb/CVE-2017-12561-Exploit](https://github.com/whokilleddb/CVE-2017-12561-Exploit)",
+      "description": "Exploit for CVE-2017-12561: dbman Opcode 10012 Use-After-Free Remote Code Execution",
+      "date": "2022-06-11",
+      "raw_date": "2022-06-11T11:00:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.794113",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-06-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

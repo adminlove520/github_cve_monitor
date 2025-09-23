@@ -1,0 +1,20 @@
+{
+  "date": "2021-08-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3510",
+      "repo_info": "[jptr218/apachedos](https://github.com/jptr218/apachedos)",
+      "description": "An implementation of CVE-2016-8740",
+      "date": "2021-08-03",
+      "raw_date": "2021-08-03T10:45:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.526892",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-08-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

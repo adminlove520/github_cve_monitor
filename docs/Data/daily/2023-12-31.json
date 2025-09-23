@@ -1,0 +1,48 @@
+{
+  "date": "2023-12-31",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-0844",
+      "repo_info": "[0x9567b/CVE-2024-0844](https://github.com/0x9567b/CVE-2024-0844)",
+      "description": "Path traversal in the popup-more WordPress plugin",
+      "date": "2023-12-31",
+      "raw_date": "2023-12-31T15:36:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-51764",
+      "repo_info": "[d4op/CVE-2023-51764-POC](https://github.com/d4op/CVE-2023-51764-POC)",
+      "description": "just idea, no cp pls",
+      "date": "2023-12-31",
+      "raw_date": "2023-12-31T14:33:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-35813",
+      "repo_info": "[lexy-1/CVE-2023-35813](https://github.com/lexy-1/CVE-2023-35813)",
+      "description": "Exploit for CVE-2023-35813 POC",
+      "date": "2023-12-31",
+      "raw_date": "2023-12-31T05:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-2744",
+      "repo_info": "[pashayogi/CVE-2023-2744](https://github.com/pashayogi/CVE-2023-2744)",
+      "description": "Mass CVE-2023-2744",
+      "date": "2023-12-31",
+      "raw_date": "2023-12-31T07:27:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-1454",
+      "repo_info": "[shad0w0sec/CVE-2023-1454-EXP](https://github.com/shad0w0sec/CVE-2023-1454-EXP)",
+      "description": "JeecgBoot SQL（CVE-2023-1454）",
+      "date": "2023-12-31",
+      "raw_date": "2023-12-31T06:47:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.356689",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-12-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

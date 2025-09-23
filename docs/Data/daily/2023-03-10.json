@@ -1,0 +1,76 @@
+{
+  "date": "2023-03-10",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-24749",
+      "repo_info": "[SamuelTulach/nullmap](https://github.com/SamuelTulach/nullmap)",
+      "description": "Using CVE-2023-21768 to manual map kernel mode driver",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T19:08:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[H454NSec/CVE-2023-23752](https://github.com/H454NSec/CVE-2023-23752)",
+      "description": "An issue was discovered in Joomla! 4.0.0 through 4.2.7. An improper access check allows unauthorized access to webservice endpoints.",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T17:10:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[poppylarrry/Zero-Days](https://github.com/poppylarrry/Zero-Days)",
+      "description": "Collection of popular CVEs, PoCs, RCEs scanners",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T09:02:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-21768",
+      "repo_info": "[cl4ym0re/cve-2023-21768-compiled](https://github.com/cl4ym0re/cve-2023-21768-compiled)",
+      "description": "cve-2023-21768",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T03:36:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-21716",
+      "repo_info": "[CKevens/CVE-2023-21716-POC](https://github.com/CKevens/CVE-2023-21716-POC)",
+      "description": "Microsoft Word 远程代码执行漏洞",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T02:46:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-41333",
+      "repo_info": "[polar0x/CVE-2022-41333](https://github.com/polar0x/CVE-2022-41333)",
+      "description": "CVE-2022-41333",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T17:29:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-0995",
+      "repo_info": "[AndreevSemen/CVE-2022-0995](https://github.com/AndreevSemen/CVE-2022-0995)",
+      "description": "Реализация средств повышения привилегий в Linux",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T07:05:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-6507",
+      "repo_info": "[maldev866/ChExp_CVE_2020_6507](https://github.com/maldev866/ChExp_CVE_2020_6507)",
+      "description": "no description",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T06:05:56Z"
+    },
+    {
+      "cve_id": "CVE-2017-12615",
+      "repo_info": "[xiaokp7/Tomcat_PUT_EXP](https://github.com/xiaokp7/Tomcat_PUT_EXP)",
+      "description": "Tomcat PUT方法任意文件写入（CVE-2017-12615）exp",
+      "date": "2023-03-10",
+      "raw_date": "2023-03-10T16:26:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.151359",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-03-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

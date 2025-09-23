@@ -1,0 +1,27 @@
+{
+  "date": "2021-05-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-13957",
+      "repo_info": "[s-index/CVE-2020-13957](https://github.com/s-index/CVE-2020-13957)",
+      "description": "Apache Solr RCE CVE-2020-13957",
+      "date": "2021-05-09",
+      "raw_date": "2021-05-09T06:42:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[m4udSec/noSAMBAnoCRY-CVE-2017-7494](https://github.com/m4udSec/noSAMBAnoCRY-CVE-2017-7494)",
+      "description": "CVE-2017-7494 python exploit",
+      "date": "2021-05-09",
+      "raw_date": "2021-05-09T02:32:54Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.348834",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-05-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

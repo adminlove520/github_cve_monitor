@@ -1,0 +1,34 @@
+{
+  "date": "2017-08-15",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[Shadow5523/CVE-2017-1000117-test](https://github.com/Shadow5523/CVE-2017-1000117-test)",
+      "description": "CVE-2017-1000117の検証",
+      "date": "2017-08-15",
+      "raw_date": "2017-08-15T12:24:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[shogo82148/Fix-CVE-2017-1000117](https://github.com/shogo82148/Fix-CVE-2017-1000117)",
+      "description": "no description",
+      "date": "2017-08-15",
+      "raw_date": "2017-08-15T01:40:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[sasairc/CVE-2017-1000117_wasawasa](https://github.com/sasairc/CVE-2017-1000117_wasawasa)",
+      "description": "no description",
+      "date": "2017-08-15",
+      "raw_date": "2017-08-15T08:39:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.541881",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-08-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

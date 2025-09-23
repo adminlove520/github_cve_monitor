@@ -1,0 +1,34 @@
+{
+  "date": "2020-09-30",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19393",
+      "repo_info": "[miguelhamal/CVE-2019-19393](https://github.com/miguelhamal/CVE-2019-19393)",
+      "description": "no description",
+      "date": "2020-09-30",
+      "raw_date": "2020-09-30T15:21:48Z"
+    },
+    {
+      "cve_id": "CVE-2019-18935",
+      "repo_info": "[random-robbie/CVE-2019-18935](https://github.com/random-robbie/CVE-2019-18935)",
+      "description": "CVE-2019-18935",
+      "date": "2020-09-30",
+      "raw_date": "2020-09-30T10:00:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-12421",
+      "repo_info": "[reversebrain/CVE-2018-12421](https://github.com/reversebrain/CVE-2018-12421)",
+      "description": "no description",
+      "date": "2020-09-30",
+      "raw_date": "2020-09-30T16:02:05Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.209180",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-09-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

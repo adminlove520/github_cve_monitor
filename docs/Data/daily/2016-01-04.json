@@ -1,0 +1,27 @@
+{
+  "date": "2016-01-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-8562",
+      "repo_info": "[RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC](https://github.com/RobinHoutevelts/Joomla-CVE-2015-8562-PHP-POC)",
+      "description": "A proof of concept for Joomla&#x27;s CVE-2015-8562 vulnerability",
+      "date": "2016-01-04",
+      "raw_date": "2016-01-04T22:27:06Z"
+    },
+    {
+      "cve_id": "CVE-2015-8562",
+      "repo_info": "[ZaleHack/joomla_rce_CVE-2015-8562](https://github.com/ZaleHack/joomla_rce_CVE-2015-8562)",
+      "description": "All versions of the Joomla! below 3.4.6 are known to be vulnerable. But exploitation is possible with PHP versions below 5.5.29, 5.6.13 and below 5.5.",
+      "date": "2016-01-04",
+      "raw_date": "2016-01-04T13:37:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.390086",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-01-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

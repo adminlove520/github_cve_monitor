@@ -1,0 +1,27 @@
+{
+  "date": "2018-08-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8414",
+      "repo_info": "[whereisr0da/CVE-2018-8414-POC](https://github.com/whereisr0da/CVE-2018-8414-POC)",
+      "description": "Simple poc of CVE-2018-8414 Windows Package Setting RCE Vulnerability",
+      "date": "2018-08-24",
+      "raw_date": "2018-08-24T18:09:29Z"
+    },
+    {
+      "cve_id": "CVE-2018-11776",
+      "repo_info": "[jiguangsdf/CVE-2018-11776](https://github.com/jiguangsdf/CVE-2018-11776)",
+      "description": "CVE-2018-11776(S2-057) EXPLOIT CODE",
+      "date": "2018-08-24",
+      "raw_date": "2018-08-24T03:01:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.677727",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-08-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

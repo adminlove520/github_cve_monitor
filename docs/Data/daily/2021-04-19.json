@@ -1,0 +1,27 @@
+{
+  "date": "2021-04-19",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-3493",
+      "repo_info": "[briskets/CVE-2021-3493](https://github.com/briskets/CVE-2021-3493)",
+      "description": "Ubuntu OverlayFS Local Privesc",
+      "date": "2021-04-19",
+      "raw_date": "2021-04-19T20:07:01Z"
+    },
+    {
+      "cve_id": "CVE-2020-14372",
+      "repo_info": "[kukrimate/CVE-2020-14372](https://github.com/kukrimate/CVE-2020-14372)",
+      "description": "Write-up and proof of concept exploit for CVE-2020-14372",
+      "date": "2021-04-19",
+      "raw_date": "2021-04-19T23:36:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.334237",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-04-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

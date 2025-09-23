@@ -1,0 +1,90 @@
+{
+  "date": "2024-01-27",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[wjlin0/CVE-2024-23897](https://github.com/wjlin0/CVE-2024-23897)",
+      "description": "CVE-2024-23897 - Jenkins 任意文件读取 利用工具",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T19:34:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution](https://github.com/Orange-418/AgentDVR-5.1.6.0-File-Upload-and-Remote-Code-Execution)",
+      "description": "CVE-2024-22515 arbitrary file upload and CVE-2024-22514 remote code execution for AgentDVR 5.1.6.0 (Authenticated)",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T15:36:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[iota4/PoC-jenkins-rce_CVE-2024-23897](https://github.com/iota4/PoC-jenkins-rce_CVE-2024-23897)",
+      "description": "on this git you can find all information on the CVE-2024-23897",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T13:27:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[CKevens/CVE-2024-23897](https://github.com/CKevens/CVE-2024-23897)",
+      "description": "CVE-2024-23897 jenkins-cli",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T12:57:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[yoryio/CVE-2024-23897](https://github.com/yoryio/CVE-2024-23897)",
+      "description": "Scanner for CVE-2024-23897 - Jenkins",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T04:35:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-22894",
+      "repo_info": "[Jaarden/CVE-2024-22894](https://github.com/Jaarden/CVE-2024-22894)",
+      "description": "no description",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T18:17:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-22515",
+      "repo_info": "[Orange-418/CVE-2024-22515-File-Upload-Vulnerability](https://github.com/Orange-418/CVE-2024-22515-File-Upload-Vulnerability)",
+      "description": "no description",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T18:51:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-22514",
+      "repo_info": "[Orange-418/CVE-2024-22514-Remote-Code-Execution](https://github.com/Orange-418/CVE-2024-22514-Remote-Code-Execution)",
+      "description": "no description",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T19:04:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-6875",
+      "repo_info": "[gbrsh/CVE-2023-6875](https://github.com/gbrsh/CVE-2023-6875)",
+      "description": "Exploit for CVE-2023-6875 - Unauthorized Account Takeover.",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T14:20:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[gy741/CVE-2023-30258-setup](https://github.com/gy741/CVE-2023-30258-setup)",
+      "description": "no description",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T06:01:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[FancySauce/PwnKit-CVE-2021-4034](https://github.com/FancySauce/PwnKit-CVE-2021-4034)",
+      "description": "no description",
+      "date": "2024-01-27",
+      "raw_date": "2024-01-27T13:17:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.372717",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-01-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

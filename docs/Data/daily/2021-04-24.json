@@ -1,0 +1,27 @@
+{
+  "date": "2021-04-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6065",
+      "repo_info": "[b1tg/CVE-2018-6065-exploit](https://github.com/b1tg/CVE-2018-6065-exploit)",
+      "description": "no description",
+      "date": "2021-04-24",
+      "raw_date": "2021-04-24T12:04:27Z"
+    },
+    {
+      "cve_id": "CVE-2015-1328",
+      "repo_info": "[fatlan/HAProxy-Keepalived-Sec-HighLoads](https://github.com/fatlan/HAProxy-Keepalived-Sec-HighLoads)",
+      "description": "✨ HAProxy ve Keepalived konusunu load balancer ve cluster'a ek olarak güvenlik(zayıf SSL/Kripto Kullanımı (LOGJAM) (CVE-2015-4000) zafiyeti önlemi) ve yüksek yüklere karşı ele alır.",
+      "date": "2021-04-24",
+      "raw_date": "2021-04-24T12:51:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.336594",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-04-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

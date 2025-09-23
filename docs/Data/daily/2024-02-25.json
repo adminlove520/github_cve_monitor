@@ -1,0 +1,195 @@
+{
+  "date": "2024-02-25",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25277",
+      "repo_info": "[maen08/CVE-2024-25277](https://github.com/maen08/CVE-2024-25277)",
+      "description": "Resources and PoCs",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T16:54:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-25170",
+      "repo_info": "[shenhav12/CVE-2024-25170-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25170-Mezzanine-v6.0.0)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T12:28:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-25169",
+      "repo_info": "[shenhav12/CVE-2024-25169-Mezzanine-v6.0.0](https://github.com/shenhav12/CVE-2024-25169-Mezzanine-v6.0.0)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T12:21:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-24100",
+      "repo_info": "[ASR511-OO7/CVE-2024-24100](https://github.com/ASR511-OO7/CVE-2024-24100)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:02:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-24099",
+      "repo_info": "[ASR511-OO7/CVE-2024-24099](https://github.com/ASR511-OO7/CVE-2024-24099)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:03:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-24096",
+      "repo_info": "[ASR511-OO7/CVE-2024-24096](https://github.com/ASR511-OO7/CVE-2024-24096)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:07:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-24095",
+      "repo_info": "[ASR511-OO7/CVE-2024-24095](https://github.com/ASR511-OO7/CVE-2024-24095)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:08:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-22917",
+      "repo_info": "[ASR511-OO7/CVE-2024-22917](https://github.com/ASR511-OO7/CVE-2024-22917)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:10:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-1346",
+      "repo_info": "[PeterGabaldon/CVE-2024-1346](https://github.com/PeterGabaldon/CVE-2024-1346)",
+      "description": "Weak MySQL database root password in LaborOfficeFree affects version 19.10. This vulnerability allows an attacker to calculate the root password of the MySQL database used by LaborOfficeFree using two constants.",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T11:51:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-41506",
+      "repo_info": "[ASR511-OO7/CVE-2023-41506](https://github.com/ASR511-OO7/CVE-2023-41506)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:11:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-41505",
+      "repo_info": "[ASR511-OO7/CVE-2023-41505](https://github.com/ASR511-OO7/CVE-2023-41505)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:12:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-41504",
+      "repo_info": "[ASR511-OO7/CVE-2023-41504](https://github.com/ASR511-OO7/CVE-2023-41504)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:13:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-41503",
+      "repo_info": "[ASR511-OO7/CVE-2023-41503](https://github.com/ASR511-OO7/CVE-2023-41503)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:14:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-41015",
+      "repo_info": "[ASR511-OO7/CVE-2023-41015](https://github.com/ASR511-OO7/CVE-2023-41015)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:15:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-41014",
+      "repo_info": "[ASR511-OO7/CVE-2023-41014](https://github.com/ASR511-OO7/CVE-2023-41014)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:16:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-38041",
+      "repo_info": "[ewilded/CVE-2023-38041-POC](https://github.com/ewilded/CVE-2023-38041-POC)",
+      "description": "Ivanti Pulse Secure Client Connect Local Privilege Escalation CVE-2023-38041 Proof of Concept",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T08:09:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-33677",
+      "repo_info": "[ASR511-OO7/CVE-2023-33677](https://github.com/ASR511-OO7/CVE-2023-33677)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:17:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-33676",
+      "repo_info": "[ASR511-OO7/CVE-2023-33676](https://github.com/ASR511-OO7/CVE-2023-33676)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:18:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-46499",
+      "repo_info": "[ASR511-OO7/CVE-2022-46499](https://github.com/ASR511-OO7/CVE-2022-46499)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-46498",
+      "repo_info": "[ASR511-OO7/CVE-2022-46498](https://github.com/ASR511-OO7/CVE-2022-46498)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:20:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-46497",
+      "repo_info": "[ASR511-OO7/CVE-2022-46497](https://github.com/ASR511-OO7/CVE-2022-46497)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:21:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-46091",
+      "repo_info": "[ASR511-OO7/CVE-2022-46091](https://github.com/ASR511-OO7/CVE-2022-46091)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:23:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-46089",
+      "repo_info": "[ASR511-OO7/CVE-2022-46089](https://github.com/ASR511-OO7/CVE-2022-46089)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:23:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-46088",
+      "repo_info": "[ASR511-OO7/CVE-2022-46088](https://github.com/ASR511-OO7/CVE-2022-46088)",
+      "description": "no description",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T09:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-3452",
+      "repo_info": "[imhunterand/CVE-2020-3452](https://github.com/imhunterand/CVE-2020-3452)",
+      "description": "Exploitation Scanner CVE-2020-3452 to enumerate the standard files accessible in the Path Traversal of CISCO ASA/FTD .🔥",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T04:12:59Z"
+    },
+    {
+      "cve_id": "CVE-2020-3452",
+      "repo_info": "[BLACKpwn/Remote_Code_Execution-](https://github.com/BLACKpwn/Remote_Code_Execution-)",
+      "description": "CVE-2020-10189:  Microsoft Windows SMBv3 Remote Code Execution (RCE)",
+      "date": "2024-02-25",
+      "raw_date": "2024-02-25T03:56:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.603945",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2024-02-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

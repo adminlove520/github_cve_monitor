@@ -1,0 +1,69 @@
+{
+  "date": "2024-05-02",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-34833",
+      "repo_info": "[ShellUnease/CVE-2024-34833-payroll-management-system-rce](https://github.com/ShellUnease/CVE-2024-34833-payroll-management-system-rce)",
+      "description": "no description",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T10:37:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-32766",
+      "repo_info": "[3W1nd4r/CVE-2024-32766-RCE](https://github.com/3W1nd4r/CVE-2024-32766-RCE)",
+      "description": "writeup and PoC for CVE-2024-32766 (QNAP) OS command injection and auth bypass",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T23:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-6241",
+      "repo_info": "[s1204IT/CVE-2023-6241](https://github.com/s1204IT/CVE-2023-6241)",
+      "description": "no description",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T02:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[xsxtw/CVE-2022-26134](https://github.com/xsxtw/CVE-2022-26134)",
+      "description": "no description",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T18:31:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[34rthq04k3/CVE-2021-3156](https://github.com/34rthq04k3/CVE-2021-3156)",
+      "description": "kernal exploit 3156",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T22:19:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-22600",
+      "repo_info": "[34rthq04k3/CVE-2021-22600](https://github.com/34rthq04k3/CVE-2021-22600)",
+      "description": "kernal exploit 22600",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T22:16:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-22600",
+      "repo_info": "[mir-hossein/Statement](https://github.com/mir-hossein/Statement)",
+      "description": "About CVE-2021-36593 and CVE-2021-36594",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T06:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2019-0232",
+      "repo_info": "[xsxtw/CVE-2019-0232](https://github.com/xsxtw/CVE-2019-0232)",
+      "description": "no description",
+      "date": "2024-05-02",
+      "raw_date": "2024-05-02T22:57:58Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.683072",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-05-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

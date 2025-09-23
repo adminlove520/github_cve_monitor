@@ -1,0 +1,174 @@
+{
+  "date": "2025-07-06",
+  "count": 23,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6558",
+      "repo_info": "[aayush256-sys/next-js-auth-bypass](https://github.com/aayush256-sys/next-js-auth-bypass)",
+      "description": "🔓 Next.js Auth Bypass Demo - Educational application demonstrating CVE-2025-29927 middleware authentication bypass vulnerability . ⚠️ For educational use only.[Made using Ai]",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T12:28:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[orange0Mint/CitrixBleed-2-CVE-2025-5777](https://github.com/orange0Mint/CitrixBleed-2-CVE-2025-5777)",
+      "description": "CitrixBleed-2 Checker &amp; Poc automatic exploit and check token.",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T14:50:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-4403",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-4403](https://github.com/B1ack4sh/Blackash-CVE-2025-4403)",
+      "description": "CVE-2025-4403",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T10:17:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[r0otk3r/CVE-2025-3248](https://github.com/r0otk3r/CVE-2025-3248)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T01:49:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[K3ysTr0K3R/CVE-2025-32463-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2025-32463-EXPLOIT)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T21:15:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[Chocapikk/CVE-2025-32463-lab](https://github.com/Chocapikk/CVE-2025-32463-lab)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T12:32:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[FreeDurok/CVE-2025-32463-PoC](https://github.com/FreeDurok/CVE-2025-32463-PoC)",
+      "description": "Proof of Concept for CVE-2025-32463 Local privilege escalation exploit targeting sudo -R on vulnerable Linux systems. For educational and authorized security testing only.",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T09:45:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-32023",
+      "repo_info": "[leesh3288/CVE-2025-32023](https://github.com/leesh3288/CVE-2025-32023)",
+      "description": "PoC &amp; Exploit for CVE-2025-32023 / PlaidCTF 2025 &quot;Zerodeo&quot;",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T18:09:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-22963",
+      "repo_info": "[gmh5225/CVE-2025-22963](https://github.com/gmh5225/CVE-2025-22963)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T11:48:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-20281",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-20281](https://github.com/B1ack4sh/Blackash-CVE-2025-20281)",
+      "description": "CVE-2025-20281",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T13:20:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-20281",
+      "repo_info": "[RaR1991/citrix_bleed_2](https://github.com/RaR1991/citrix_bleed_2)",
+      "description": "Citrix Bleed 2 PoC Scanner (CVE-2025-5777)",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T10:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-55963",
+      "repo_info": "[superswan/CVE-2024-55963](https://github.com/superswan/CVE-2024-55963)",
+      "description": "CVE-2024-55963, allows unauthenticated remote code execution on Appsmith Enterprise platform due to a misconfigured PostgreSQL database included by default",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T00:28:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-36991",
+      "repo_info": "[Zin0D/CVE-2024-36991](https://github.com/Zin0D/CVE-2024-36991)",
+      "description": "Exploit for CVE-2024-36991 , written by me, enumerates a handfull of things, not all, cause not needed.",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T03:50:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-31964",
+      "repo_info": "[d-Raco/CVE-2024-31964](https://github.com/d-Raco/CVE-2024-31964)",
+      "description": "CVE-2024-31964 PoC: Mitel 6900w Series SIP Phone - Temporary Authentication Bypass",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T15:00:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-45131",
+      "repo_info": "[ibrahmsql/CVE-2023-45131](https://github.com/ibrahmsql/CVE-2023-45131)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T05:58:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-37467",
+      "repo_info": "[ibrahmsql/CVE-2023-37467](https://github.com/ibrahmsql/CVE-2023-37467)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T06:03:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-37969",
+      "repo_info": "[NoobCat2000/CVE-2022-37969](https://github.com/NoobCat2000/CVE-2022-37969)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T07:28:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-3141",
+      "repo_info": "[Tomoe-12/CVE_2022_3141](https://github.com/Tomoe-12/CVE_2022_3141)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T01:56:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-25646",
+      "repo_info": "[ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit](https://github.com/ShadowLance2/Apache-Druid-CVE-2021-25646-Exploit)",
+      "description": "Exploit for Apache Druid Embedded Javascript Remote Code Execution (CVE-2021-25646), Python.",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T10:45:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-9547",
+      "repo_info": "[Pranjal6955/CVE-2020-9547](https://github.com/Pranjal6955/CVE-2020-9547)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T12:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2019-10743",
+      "repo_info": "[albisorua/PoC-CVE-2019-10743](https://github.com/albisorua/PoC-CVE-2019-10743)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T14:46:31Z"
+    },
+    {
+      "cve_id": "CVE-2015-3224",
+      "repo_info": "[Sic4rio/CVE-2015-3224](https://github.com/Sic4rio/CVE-2015-3224)",
+      "description": "Ruby on Rails Web Console Exploit (CVE-2015-3224)",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T09:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[hklabCR/CVE-2011-2523](https://github.com/hklabCR/CVE-2011-2523)",
+      "description": "no description",
+      "date": "2025-07-06",
+      "raw_date": "2025-07-06T05:57:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.062869",
+  "metadata": {
+    "total_cves": 23,
+    "date_range": "2025-07-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

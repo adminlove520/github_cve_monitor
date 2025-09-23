@@ -1,0 +1,132 @@
+{
+  "date": "2023-11-14",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-48200",
+      "repo_info": "[nitipoom-jar/CVE-2023-48200](https://github.com/nitipoom-jar/CVE-2023-48200)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T17:02:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-48199",
+      "repo_info": "[nitipoom-jar/CVE-2023-48199](https://github.com/nitipoom-jar/CVE-2023-48199)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T16:50:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-48198",
+      "repo_info": "[nitipoom-jar/CVE-2023-48198](https://github.com/nitipoom-jar/CVE-2023-48198)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T16:40:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-48197",
+      "repo_info": "[nitipoom-jar/CVE-2023-48197](https://github.com/nitipoom-jar/CVE-2023-48197)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T16:34:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-47668",
+      "repo_info": "[RandomRobbieBF/CVE-2023-47668](https://github.com/RandomRobbieBF/CVE-2023-47668)",
+      "description": "Restrict Content &lt;= 3.2.7 - Information Exposure via legacy log file",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T08:40:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-47246",
+      "repo_info": "[ex0day/CVE-2023-47246](https://github.com/ex0day/CVE-2023-47246)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T08:13:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-47014",
+      "repo_info": "[emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS](https://github.com/emirhanerdogu/CVE-2023-47014-Sticky-Notes-App-Using-PHP-with-Source-Code-v1.0-CSRF-to-CORS)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T08:08:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[ditekshen/ansible-cve-2023-36845](https://github.com/ditekshen/ansible-cve-2023-36845)",
+      "description": "Ansible Playbook for CVE-2023-36845",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T16:36:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-32707",
+      "repo_info": "[9xN/CVE-2023-32707](https://github.com/9xN/CVE-2023-32707)",
+      "description": "An improved POC exploit based on the reported CVE on exploitdb",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T04:06:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-32407",
+      "repo_info": "[gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal](https://github.com/gergelykalman/CVE-2023-32407-a-macOS-TCC-bypass-in-Metal)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T20:45:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-2640",
+      "repo_info": "[Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC](https://github.com/Umutkgz/CVE-2023-32629-CVE-2023-2640-Ubuntu-Privilege-Escalation-POC)",
+      "description": "CVE-2023-32629 &amp; CVE-2023-2640  Ubuntu Privilege Escalation POC",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T08:37:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[NataliSemi/-CVE-2022-44268](https://github.com/NataliSemi/-CVE-2022-44268)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T21:54:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-20338",
+      "repo_info": "[Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338](https://github.com/Satheesh575555/frameworks_base_AOSP_06_r22_CVE-2022-20338)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T09:21:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-20338",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20338)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T05:02:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[nidhi7598/linux-4.19.72_lib_CVE-2022-0847](https://github.com/nidhi7598/linux-4.19.72_lib_CVE-2022-0847)",
+      "description": "no description",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T05:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-44026",
+      "repo_info": "[pentesttoolscom/roundcube-cve-2021-44026](https://github.com/pentesttoolscom/roundcube-cve-2021-44026)",
+      "description": "A demo exploit for CVE-2021-44026, a SQL injection in Roundcube",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T11:32:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-1010268",
+      "repo_info": "[Tonyynot14/CVE-2019-1010268](https://github.com/Tonyynot14/CVE-2019-1010268)",
+      "description": "Python exploit written for CVE-2019-1010268.",
+      "date": "2023-11-14",
+      "raw_date": "2023-11-14T21:50:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.323940",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2023-11-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

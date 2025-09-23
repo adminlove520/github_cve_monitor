@@ -1,0 +1,27 @@
+{
+  "date": "2019-08-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-12386",
+      "repo_info": "[Hydra3evil/cve-2018-12386](https://github.com/Hydra3evil/cve-2018-12386)",
+      "description": "CVE-2018-12386 - Firefox Sandboxed RCE Exploit for Linux (Firefox &lt;v62.0.3)",
+      "date": "2019-08-09",
+      "raw_date": "2019-08-09T07:58:03Z"
+    },
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[ThanHuuTuan/CVE-2017-7269](https://github.com/ThanHuuTuan/CVE-2017-7269)",
+      "description": "no description",
+      "date": "2019-08-09",
+      "raw_date": "2019-08-09T10:01:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.821186",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-08-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

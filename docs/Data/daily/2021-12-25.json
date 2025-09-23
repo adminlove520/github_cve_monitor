@@ -1,0 +1,27 @@
+{
+  "date": "2021-12-25",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-30860",
+      "repo_info": "[jeffssh/CVE-2021-30860](https://github.com/jeffssh/CVE-2021-30860)",
+      "description": "Collection of materials relating to FORCEDENTRY, will eventually delete this repo and migrate the materials to my main exploit repo once finished",
+      "date": "2021-12-25",
+      "raw_date": "2021-12-25T03:00:01Z"
+    },
+    {
+      "cve_id": "CVE-2020-14871",
+      "repo_info": "[robidev/CVE-2020-14871-Exploit](https://github.com/robidev/CVE-2020-14871-Exploit)",
+      "description": "This is a basic ROP based exploit for CVE 2020-14871. CVE 2020-14871 is a vulnerability in Sun Solaris systems libpam library, and exploitable over ssh",
+      "date": "2021-12-25",
+      "raw_date": "2021-12-25T21:27:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.653690",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-12-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

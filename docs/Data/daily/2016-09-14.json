@@ -1,0 +1,20 @@
+{
+  "date": "2016-09-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-6662",
+      "repo_info": "[konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch](https://github.com/konstantin-kelemen/mysqld_safe-CVE-2016-6662-patch)",
+      "description": "MySQL server CVE-2016-6662 patch playbook",
+      "date": "2016-09-14",
+      "raw_date": "2016-09-14T13:12:21Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.444559",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

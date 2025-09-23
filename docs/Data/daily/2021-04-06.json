@@ -1,0 +1,34 @@
+{
+  "date": "2021-04-06",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0601",
+      "repo_info": "[Udyz/Zerologon](https://github.com/Udyz/Zerologon)",
+      "description": "Exploit Code for CVE-2020-1472 aka Zerologon",
+      "date": "2021-04-06",
+      "raw_date": "2021-04-06T02:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[pwn3z/CVE-2019-19781-Citrix](https://github.com/pwn3z/CVE-2019-19781-Citrix)",
+      "description": "no description",
+      "date": "2021-04-06",
+      "raw_date": "2021-04-06T05:24:59Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[Ari-Weinberg/CVE-2012-2982](https://github.com/Ari-Weinberg/CVE-2012-2982)",
+      "description": "Exploit for CVE-2012-2982",
+      "date": "2021-04-06",
+      "raw_date": "2021-04-06T01:31:58Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.325716",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-04-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

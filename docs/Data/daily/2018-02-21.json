@@ -1,0 +1,41 @@
+{
+  "date": "2018-02-21",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7249",
+      "repo_info": "[alonhr/NotSecDrv](https://github.com/alonhr/NotSecDrv)",
+      "description": "A PoC for CVE-2018-7249",
+      "date": "2018-02-21",
+      "raw_date": "2018-02-21T20:31:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-7249",
+      "repo_info": "[alonhr/SecDrvPoolLeak](https://github.com/alonhr/SecDrvPoolLeak)",
+      "description": "A PoC for CVE-2018-7250",
+      "date": "2018-02-21",
+      "raw_date": "2018-02-21T20:47:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[rani-i/bluetoothdPoC](https://github.com/rani-i/bluetoothdPoC)",
+      "description": "CVE-2018-4087 PoC",
+      "date": "2018-02-21",
+      "raw_date": "2018-02-21T12:55:37Z"
+    },
+    {
+      "cve_id": "CVE-2017-0785",
+      "repo_info": "[RavSS/Bluetooth-Crash-CVE-2017-0785](https://github.com/RavSS/Bluetooth-Crash-CVE-2017-0785)",
+      "description": "no description",
+      "date": "2018-02-21",
+      "raw_date": "2018-02-21T04:53:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.622964",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-02-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

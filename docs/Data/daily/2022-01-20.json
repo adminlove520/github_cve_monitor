@@ -1,0 +1,20 @@
+{
+  "date": "2022-01-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-18955",
+      "repo_info": "[johnjamesmccann/xerces-3.2.3-DTD-hotfix](https://github.com/johnjamesmccann/xerces-3.2.3-DTD-hotfix)",
+      "description": "// SPDX-FileCopyrightText: Portions Copyright 2021 Siemens   // Modified on 15-Jul-2021 by Siemens and/or its affiliates to fix CVE-2018-1311: Apache Xerces-C use-after-free vulnerability scanning external DTD. Copyright 2021 Siemens.",
+      "date": "2022-01-20",
+      "raw_date": "2022-01-20T13:43:38Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.672639",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2022-01-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

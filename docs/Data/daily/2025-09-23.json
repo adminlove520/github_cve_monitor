@@ -1,0 +1,76 @@
+{
+  "date": "2025-09-23",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[fentnttntnt/CVE-2025-53770](https://github.com/fentnttntnt/CVE-2025-53770)",
+      "description": "no description",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T06:18:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[hohau8609/CVE2025](https://github.com/hohau8609/CVE2025)",
+      "description": "no description",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T04:54:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[ziisenpai/CVE-2025-53770-Scanner](https://github.com/ziisenpai/CVE-2025-53770-Scanner)",
+      "description": "🔍 Scan for potential exposure to the critical SharePoint vulnerability CVE-2025-53770 with this simple and effective tool for authorized testing.",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T07:00:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-51005",
+      "repo_info": "[sy460129/CVE-2025-51005](https://github.com/sy460129/CVE-2025-51005)",
+      "description": "no description",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T03:31:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[no-speech-to-text/CVE-2025-32463](https://github.com/no-speech-to-text/CVE-2025-32463)",
+      "description": "🔒 Elevate privileges to root via sudo without requiring gcc on the target system. Simplify exploit execution with pre-compiled payloads.",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T01:42:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-32432",
+      "repo_info": "[bambooqj/CVE-2025-32432](https://github.com/bambooqj/CVE-2025-32432)",
+      "description": "AI修复生成的CVE-2025-32432的poc",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T06:23:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-32432",
+      "repo_info": "[sermikr0/nextjs-middleware-auth-bypass](https://github.com/sermikr0/nextjs-middleware-auth-bypass)",
+      "description": "CVE-2025-29927",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T06:07:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-](https://github.com/yass2400012/Email-exploit-Moniker-Link-CVE-2024-21413-)",
+      "description": "no description",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T01:28:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-3824",
+      "repo_info": "[dadosneurais/cve-2023-3824](https://github.com/dadosneurais/cve-2023-3824)",
+      "description": "no description",
+      "date": "2025-09-23",
+      "raw_date": "2025-09-23T03:52:06Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.145763",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-09-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2021-09-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-2456",
+      "repo_info": "[peterjson31337/CVE-2021-2456](https://github.com/peterjson31337/CVE-2021-2456)",
+      "description": "CVE-2021-2456",
+      "date": "2021-09-16",
+      "raw_date": "2021-09-16T09:14:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.558575",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-09-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

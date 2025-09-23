@@ -1,0 +1,34 @@
+{
+  "date": "2021-04-11",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-10977",
+      "repo_info": "[lisp3r/cve-2020-10977-read-and-execute](https://github.com/lisp3r/cve-2020-10977-read-and-execute)",
+      "description": "cve-2020-10977 read and execute",
+      "date": "2021-04-11",
+      "raw_date": "2021-04-11T06:31:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-15961",
+      "repo_info": "[Algafix/gitlab-RCE-11.4.7](https://github.com/Algafix/gitlab-RCE-11.4.7)",
+      "description": "GitLab 11.4.7 RCE exploit with different reverse shells. CVE-2018-19571 + CVE-2018-19585",
+      "date": "2021-04-11",
+      "raw_date": "2021-04-11T11:23:37Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[Un4gi/CVE-2007-2447](https://github.com/Un4gi/CVE-2007-2447)",
+      "description": "Samba 3.0.20 username map script exploit",
+      "date": "2021-04-11",
+      "raw_date": "2021-04-11T07:53:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.329642",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-04-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

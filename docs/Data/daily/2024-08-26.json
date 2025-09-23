@@ -1,0 +1,97 @@
+{
+  "date": "2024-08-26",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7593",
+      "repo_info": "[codeb0ss/CVE-2024-7593-PoC](https://github.com/codeb0ss/CVE-2024-7593-PoC)",
+      "description": "CVE-2024-7593 &lt; Ivanti vTM [Authentication Bypass]",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T11:03:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)",
+      "description": "RCE OpenSSH CVE-2024-6387 Check and Exploit",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T04:40:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-46209",
+      "repo_info": "[h4ckr4v3n/CVE-2024-46209](https://github.com/h4ckr4v3n/CVE-2024-46209)",
+      "description": "no description",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T17:52:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-45265",
+      "repo_info": "[TheHermione/CVE-2024-45265](https://github.com/TheHermione/CVE-2024-45265)",
+      "description": "CVE-2024-45265",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T11:02:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-45264",
+      "repo_info": "[TheHermione/CVE-2024-45264](https://github.com/TheHermione/CVE-2024-45264)",
+      "description": "CVE-2024-45264",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T10:10:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-42992",
+      "repo_info": "[thanhh23/CVE-2024-42992](https://github.com/thanhh23/CVE-2024-42992)",
+      "description": "CVE-2024-42992",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T03:13:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-41312",
+      "repo_info": "[Amal264882/CVE-2024-41312.](https://github.com/Amal264882/CVE-2024-41312.)",
+      "description": "InstantCMS - Stored Cross Site Scripting (XSS)",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T06:32:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-25641",
+      "repo_info": "[5ma1l/CVE-2024-25641](https://github.com/5ma1l/CVE-2024-25641)",
+      "description": "no description",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T13:34:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[sanan2004/CVE-2023-20198](https://github.com/sanan2004/CVE-2023-20198)",
+      "description": "no description",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T08:16:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[laxmiyamkolu/SUDO-privilege-escalation](https://github.com/laxmiyamkolu/SUDO-privilege-escalation)",
+      "description": "Sudo Privilege Escalation: CVE-2023-22809 Simulation  This project simulates the Sudo privilege escalation vulnerability (CVE-2023-22809) to demonstrate how unauthorized root access can be gained. It involves identifying and exploiting this vulnerability in a controlled environment using Parrot OS, the Sudo command, and Bash scripting.",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T06:27:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[0xc4t/CVE-2021-41773](https://github.com/0xc4t/CVE-2021-41773)",
+      "description": "POC &amp; Lab For CVE-2021-41773",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T09:07:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Zyx2440/Apache-HTTP-Server-2.4.50-RCE](https://github.com/Zyx2440/Apache-HTTP-Server-2.4.50-RCE)",
+      "description": "Apache-HTTP-Server-2.4.50-RCE This tool is designed to test Apache servers for the CVE-2021-41773 / CVE-2021-42013 vulnerability. It is intended for educational purposes only and should be used responsibly on systems you have explicit permission to test.",
+      "date": "2024-08-26",
+      "raw_date": "2024-08-26T01:54:06Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.790535",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-08-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

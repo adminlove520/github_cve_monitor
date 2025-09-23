@@ -1,0 +1,83 @@
+{
+  "date": "2022-09-28",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42098",
+      "repo_info": "[bypazs/CVE-2022-42098](https://github.com/bypazs/CVE-2022-42098)",
+      "description": "KLiK-SocialMediaWebsite v1.0.1 has SQL Injection Vulnerabilities at profile.php",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T09:19:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-40490",
+      "repo_info": "[whitej3rry/CVE-2022-40490](https://github.com/whitej3rry/CVE-2022-40490)",
+      "description": "Tiny File Manager v2.4.7 and below are vulnerable to Cross Site Scripting",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T14:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-36934",
+      "repo_info": "[d4rk0x00/CVE-2022-36934-POC](https://github.com/d4rk0x00/CVE-2022-36934-POC)",
+      "description": "tool for exploiting whatsapp rce",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T08:07:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-36934",
+      "repo_info": "[F1uk369/CVE-2022-36934](https://github.com/F1uk369/CVE-2022-36934)",
+      "description": "An integer overflow in WhatsApp that results in remote code execution in an established video call.",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T06:33:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[Xu0Tex1/CVE-2022-32548-RCE-POC](https://github.com/Xu0Tex1/CVE-2022-32548-RCE-POC)",
+      "description": "DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T06:46:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[Ziggy78/CVE-2022-3236-RCE-POC](https://github.com/Ziggy78/CVE-2022-3236-RCE-POC)",
+      "description": "New 0day sophos firewall(userportal and webadmin) remote code execution cv 9.8",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T14:11:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[Xu0Tex1/CVE-2022-3236](https://github.com/Xu0Tex1/CVE-2022-3236)",
+      "description": "Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T07:41:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-21350",
+      "repo_info": "[hktalent/CVE-2022-21350](https://github.com/hktalent/CVE-2022-21350)",
+      "description": "no description",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T05:38:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[Juuso1337/CVE-2021-41773](https://github.com/Juuso1337/CVE-2021-41773)",
+      "description": "Apache 2.4.49 &amp; 2.4.50 LFI to RCE exploit",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T20:12:34Z"
+    },
+    {
+      "cve_id": "CVE-2016-0010",
+      "repo_info": "[Sunqiz/CVE-2016-0010-reproduction](https://github.com/Sunqiz/CVE-2016-0010-reproduction)",
+      "description": "CVE-2016-0010复现",
+      "date": "2022-09-28",
+      "raw_date": "2022-09-28T03:00:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.887463",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-09-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

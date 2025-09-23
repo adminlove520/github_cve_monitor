@@ -1,0 +1,27 @@
+{
+  "date": "2016-05-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3714",
+      "repo_info": "[Hood3dRob1n/CVE-2016-3714](https://github.com/Hood3dRob1n/CVE-2016-3714)",
+      "description": "ImaegMagick Code Execution (CVE-2016-3714)",
+      "date": "2016-05-07",
+      "raw_date": "2016-05-07T08:21:27Z"
+    },
+    {
+      "cve_id": "CVE-2015-2794",
+      "repo_info": "[styx00/DNN_CVE-2015-2794](https://github.com/styx00/DNN_CVE-2015-2794)",
+      "description": "NSE plugin for Nmap that scans a DotNetNuke (DNN) web application for an Administration Authentication Bypass vulnerability (CVE-2015-2794, EDB-ID: 39777).",
+      "date": "2016-05-07",
+      "raw_date": "2016-05-07T12:21:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.425502",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-05-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

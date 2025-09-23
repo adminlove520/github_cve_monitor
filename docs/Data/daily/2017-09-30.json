@@ -1,0 +1,20 @@
+{
+  "date": "2017-09-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[BT123/numpy-1.13.1](https://github.com/BT123/numpy-1.13.1)",
+      "description": "test the CVE-2017-12852 in numpy v1.13.1 and v1.13.3 has fixed the bug",
+      "date": "2017-09-30",
+      "raw_date": "2017-09-30T05:21:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.560786",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-09-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

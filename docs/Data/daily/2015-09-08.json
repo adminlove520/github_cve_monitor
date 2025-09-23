@@ -1,0 +1,27 @@
+{
+  "date": "2015-09-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-5119",
+      "repo_info": "[rednaga/adups-get-super-serial](https://github.com/rednaga/adups-get-super-serial)",
+      "description": "CVE-2015-2231 POC",
+      "date": "2015-09-08",
+      "raw_date": "2015-09-08T18:39:14Z"
+    },
+    {
+      "cve_id": "CVE-2012-1823",
+      "repo_info": "[drone789/CVE-2012-1823](https://github.com/drone789/CVE-2012-1823)",
+      "description": "no description",
+      "date": "2015-09-08",
+      "raw_date": "2015-09-08T14:37:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.371481",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2015-09-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

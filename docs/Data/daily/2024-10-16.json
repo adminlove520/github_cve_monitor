@@ -1,0 +1,97 @@
+{
+  "date": "2024-10-16",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9061",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9061](https://github.com/RandomRobbieBF/CVE-2024-9061)",
+      "description": "WP Popup Builder – Popup Forms and Marketing Lead Generation &lt;= 1.3.5 - Unauthenticated Arbitrary Shortcode Execution via wp_ajax_nopriv_shortcode_Api_Add",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T07:57:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-40711",
+      "repo_info": "[realstatus/CVE-2024-40711-Exp](https://github.com/realstatus/CVE-2024-40711-Exp)",
+      "description": "CVE-2024-40711-exp",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T05:02:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[HazeLook/CVE-2024-23113](https://github.com/HazeLook/CVE-2024-23113)",
+      "description": "no description",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T18:48:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[maybelookis/CVE-2024-23113](https://github.com/maybelookis/CVE-2024-23113)",
+      "description": "no description",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T19:41:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-1709",
+      "repo_info": "[AMRICHASFUCK/Mass-CVE-2024-1709](https://github.com/AMRICHASFUCK/Mass-CVE-2024-1709)",
+      "description": "ScreenConnect AuthBypass Mass RCE",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T08:05:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[cuanh2333/CVE-2023-46604](https://github.com/cuanh2333/CVE-2023-46604)",
+      "description": "no description",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T03:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-24439",
+      "repo_info": "[muhammadhendro/CVE-2022-24439](https://github.com/muhammadhendro/CVE-2022-24439)",
+      "description": "no description",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T05:06:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[nwclasantha/Apache_2.4.29_Exploit](https://github.com/nwclasantha/Apache_2.4.29_Exploit)",
+      "description": "This document provides step-by-step instructions on performing a proof of concept (PoC) exploit on Apache HTTP Server 2.4.29, taking advantage of the path traversal vulnerability (CVE-2021-41773) and the globally accessible /tmp folder on Linux and MITIGATION",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T08:38:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-40539",
+      "repo_info": "[Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539](https://github.com/Bu0uCat/ADSelfService-Plus-RCE-CVE-2021-40539)",
+      "description": "ADSelfService Plus RCE漏洞 检测工具 (二开)",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T11:23:43Z"
+    },
+    {
+      "cve_id": "CVE-2013-5211",
+      "repo_info": "[requiempentest/NTP_CVE-2013-5211](https://github.com/requiempentest/NTP_CVE-2013-5211)",
+      "description": "Exploit and check CVE-2013-5211",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T09:45:53Z"
+    },
+    {
+      "cve_id": "CVE-2013-5211",
+      "repo_info": "[requiempentest/-exploit-check-CVE-2013-5211](https://github.com/requiempentest/-exploit-check-CVE-2013-5211)",
+      "description": "check and exploit for NTP vuln CVE-2013-5211",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T09:35:15Z"
+    },
+    {
+      "cve_id": "CVE-2001-1473",
+      "repo_info": "[p1ton3rr/poc-cve-2001-1473](https://github.com/p1ton3rr/poc-cve-2001-1473)",
+      "description": "A novel approach to the old problem",
+      "date": "2024-10-16",
+      "raw_date": "2024-10-16T01:54:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.831364",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-10-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

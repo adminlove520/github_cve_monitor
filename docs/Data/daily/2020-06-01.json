@@ -1,0 +1,20 @@
+{
+  "date": "2020-06-01",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-1066",
+      "repo_info": "[cbwang505/CVE-2020-1066-EXP](https://github.com/cbwang505/CVE-2020-1066-EXP)",
+      "description": "CVE-2020-1066-EXP支持Windows 7和Windows Server 2008 R2操作系统",
+      "date": "2020-06-01",
+      "raw_date": "2020-06-01T04:44:05Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.975050",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-06-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

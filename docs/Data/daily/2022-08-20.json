@@ -1,0 +1,48 @@
+{
+  "date": "2022-08-20",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-24212",
+      "repo_info": "[EmmanuelCruzL/CVE_2021_24212](https://github.com/EmmanuelCruzL/CVE_2021_24212)",
+      "description": "CVE_2021_24212",
+      "date": "2022-08-20",
+      "raw_date": "2022-08-20T22:06:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-24212",
+      "repo_info": "[Naughty-SEC/pkexec-shell-executor](https://github.com/Naughty-SEC/pkexec-shell-executor)",
+      "description": "PKEXEC Shell Executor for CVE-2021-4034 Pwnkit",
+      "date": "2022-08-20",
+      "raw_date": "2022-08-20T05:31:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[Josexv1/CVE-2022-27925](https://github.com/Josexv1/CVE-2022-27925)",
+      "description": "Zimbra CVE-2022-27925 PoC",
+      "date": "2022-08-20",
+      "raw_date": "2022-08-20T15:58:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[navokus/CVE-2022-27925](https://github.com/navokus/CVE-2022-27925)",
+      "description": "no description",
+      "date": "2022-08-20",
+      "raw_date": "2022-08-20T11:01:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-1802",
+      "repo_info": "[mistymntncop/CVE-2022-1802](https://github.com/mistymntncop/CVE-2022-1802)",
+      "description": "no description",
+      "date": "2022-08-20",
+      "raw_date": "2022-08-20T03:01:30Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.850550",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-08-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

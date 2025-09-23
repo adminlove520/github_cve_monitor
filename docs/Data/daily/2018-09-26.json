@@ -1,0 +1,34 @@
+{
+  "date": "2018-09-26",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15365",
+      "repo_info": "[nixwizard/CVE-2018-15365](https://github.com/nixwizard/CVE-2018-15365)",
+      "description": "no description",
+      "date": "2018-09-26",
+      "raw_date": "2018-09-26T18:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-8046",
+      "repo_info": "[bkhablenko/CVE-2017-8046](https://github.com/bkhablenko/CVE-2017-8046)",
+      "description": "no description",
+      "date": "2018-09-26",
+      "raw_date": "2018-09-26T11:11:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-5223",
+      "repo_info": "[cscli/CVE-2017-5223](https://github.com/cscli/CVE-2017-5223)",
+      "description": "no description",
+      "date": "2018-09-26",
+      "raw_date": "2018-09-26T11:58:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.691573",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-09-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2025-09-17",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[Shinkirou789/Cve-2025-8088-WinRar-vulnerability](https://github.com/Shinkirou789/Cve-2025-8088-WinRar-vulnerability)",
+      "description": "no description",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T07:56:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[Osinskitito499/CVE-2025-8088](https://github.com/Osinskitito499/CVE-2025-8088)",
+      "description": "CVE-2025-8088 path traversal tool",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T17:24:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-54918",
+      "repo_info": "[mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps](https://github.com/mrk336/From-Foothold-to-Domain-Admin-Weaponizing-CVE-2025-54918-in-Real-World-DevOps)",
+      "description": "Simulated exploitation and mitigation of CVE-2025-54918 (Windows NTLM flaw). Includes detection scripts, Ansible patching, and CI/CD hardening. Demonstrates privilege escalation from low-level access to SYSTEM in hybrid cloud environments.",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T02:54:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[onniio/CVE-2025-49144](https://github.com/onniio/CVE-2025-49144)",
+      "description": "no description",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T12:51:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[wand3rlust/CVE-2025-3248](https://github.com/wand3rlust/CVE-2025-3248)",
+      "description": "PoC for achieving RCE in Langflow versions &lt;1.3.0",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T10:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[adjscent/vulnerable-nextjs-14-CVE-2025-29927](https://github.com/adjscent/vulnerable-nextjs-14-CVE-2025-29927)",
+      "description": "do not use. vulnerable",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T08:56:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-45712",
+      "repo_info": "[Teexo/woocommerce_scanner](https://github.com/Teexo/woocommerce_scanner)",
+      "description": "A Python script designed to scan a list of WordPress sites to identify those with WooCommerce installed and check if they are vulnerable to CVE-2024-45712.",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T00:16:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-43630",
+      "repo_info": "[QuasarBinary/CVE-2024-43630-POC](https://github.com/QuasarBinary/CVE-2024-43630-POC)",
+      "description": "NtCopyFileChunk stack buffer overflow POC",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T21:17:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-28397",
+      "repo_info": "[vitaciminIPI/CVE-2024-28397-RCE](https://github.com/vitaciminIPI/CVE-2024-28397-RCE)",
+      "description": "CVE-2024-28397 - Remote Code Execution From Vulnerable JS2PY",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T18:32:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-28397",
+      "repo_info": "[nelissandro/CVE-2024-28397-Js2Py-RCE](https://github.com/nelissandro/CVE-2024-28397-Js2Py-RCE)",
+      "description": "This repository contains a Proof of Concept (PoC) for CVE-2024-28397, a vulnerability in the js2py library allowing a sandbox escape to achieve remote code execution.",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T04:56:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-22600",
+      "repo_info": "[Chinmay1743/af_packet.c](https://github.com/Chinmay1743/af_packet.c)",
+      "description": "Proof-Of-Concept to check privileges of af_packet.c for validating the privileges acquired by any hacker upon successful exploitation of CVE-2021-22600",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T06:31:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-14009",
+      "repo_info": "[pablocaraballofernandez/IDE-TryHackME-Spanish-Walkthrough-](https://github.com/pablocaraballofernandez/IDE-TryHackME-Spanish-Walkthrough-)",
+      "description": "Guía completa de la máquina IDE de TryHackMe - Explotación de Codiad CVE-2018-14009 - Escalada de privilegios",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T10:04:56Z"
+    },
+    {
+      "cve_id": "CVE-2016-9177",
+      "repo_info": "[shoucheng3/perwendel__spark_CVE-2016-9177_2_5_2_fixed](https://github.com/shoucheng3/perwendel__spark_CVE-2016-9177_2_5_2_fixed)",
+      "description": "no description",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T07:47:33Z"
+    },
+    {
+      "cve_id": "CVE-2010-1240",
+      "repo_info": "[12345qwert123456/CVE-2010-1240](https://github.com/12345qwert123456/CVE-2010-1240)",
+      "description": "Python tool for CVE-2010-1240 research - generates malicious PDFs exploiting Adobe Reader Launch Actions",
+      "date": "2025-09-17",
+      "raw_date": "2025-09-17T07:57:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.139702",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

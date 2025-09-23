@@ -1,0 +1,41 @@
+{
+  "date": "2022-08-19",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-31793",
+      "repo_info": "[xpgdgit/CVE-2022-31793](https://github.com/xpgdgit/CVE-2022-31793)",
+      "description": "no description",
+      "date": "2022-08-19",
+      "raw_date": "2022-08-19T01:42:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[miko550/CVE-2022-27925](https://github.com/miko550/CVE-2022-27925)",
+      "description": "no description",
+      "date": "2022-08-19",
+      "raw_date": "2022-08-19T04:46:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-0798",
+      "repo_info": "[Sunqiz/CVE-2018-0798-reproduction](https://github.com/Sunqiz/CVE-2018-0798-reproduction)",
+      "description": "CVE-2018-0798复现",
+      "date": "2022-08-19",
+      "raw_date": "2022-08-19T02:17:50Z"
+    },
+    {
+      "cve_id": "CVE-2009-4623",
+      "repo_info": "[hupe1980/CVE-2009-4623](https://github.com/hupe1980/CVE-2009-4623)",
+      "description": "PoC Advanced Comment System 1.0 - Remote Command Execution (RCE)",
+      "date": "2022-08-19",
+      "raw_date": "2022-08-19T09:46:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.850029",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-08-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

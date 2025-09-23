@@ -1,0 +1,20 @@
+{
+  "date": "2020-02-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[Primus27/WordPress-Long-Password-Denial-of-Service](https://github.com/Primus27/WordPress-Long-Password-Denial-of-Service)",
+      "description": "Exhaust WordPress <V5.0.1 resources using long passwords (CVE-2014-9016)",
+      "date": "2020-02-08",
+      "raw_date": "2020-02-08T15:19:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.903958",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-02-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

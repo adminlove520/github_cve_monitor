@@ -1,0 +1,20 @@
+{
+  "date": "2017-08-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9934",
+      "repo_info": "[xyringe/CVE-2017-9934](https://github.com/xyringe/CVE-2017-9934)",
+      "description": "Joomla 1.7.3 - 3.7.2 CSRF exploit PoC",
+      "date": "2017-08-20",
+      "raw_date": "2017-08-20T17:23:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.544933",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-08-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2021-08-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[l3ouu4n9/CVE-2018-6574-POC](https://github.com/l3ouu4n9/CVE-2018-6574-POC)",
+      "description": "no description",
+      "date": "2021-08-16",
+      "raw_date": "2021-08-16T15:06:58Z"
+    },
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[jptr218/mysql_dos](https://github.com/jptr218/mysql_dos)",
+      "description": "A tool to crash MySQL servers with CVE-2017-3599",
+      "date": "2021-08-16",
+      "raw_date": "2021-08-16T10:39:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.537153",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-08-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

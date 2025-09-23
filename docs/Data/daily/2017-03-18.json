@@ -1,0 +1,27 @@
+{
+  "date": "2017-03-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[bhagdave/CVE-2017-5638](https://github.com/bhagdave/CVE-2017-5638)",
+      "description": "no description",
+      "date": "2017-03-18",
+      "raw_date": "2017-03-18T09:39:59Z"
+    },
+    {
+      "cve_id": "CVE-2016-6662",
+      "repo_info": "[droidvoider/dirtycow-replacer](https://github.com/droidvoider/dirtycow-replacer)",
+      "description": "CVE-2016-5195 dirtycow by timwr automated multi file patch tool",
+      "date": "2017-03-18",
+      "raw_date": "2017-03-18T03:21:02Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.493765",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-03-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

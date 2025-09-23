@@ -1,0 +1,76 @@
+{
+  "date": "2025-03-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-26202",
+      "repo_info": "[A17-ba/CVE-2025-26202-Details](https://github.com/A17-ba/CVE-2025-26202-Details)",
+      "description": "CVE-2025-26202",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T12:05:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-25296",
+      "repo_info": "[math-x-io/CVE-2025-25296-POC](https://github.com/math-x-io/CVE-2025-25296-POC)",
+      "description": "Proof of Concept (POC) for the CVE-2025-25296 vulnerability affecting Label Studio versions prior to 1.16.0",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T02:08:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-24752",
+      "repo_info": "[bartfroklage/CVE-2025-24752-POC](https://github.com/bartfroklage/CVE-2025-24752-POC)",
+      "description": "POC for CVE-2025-24752.",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T08:25:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-56340",
+      "repo_info": "[MarioTesoro/CVE-2024-56340](https://github.com/MarioTesoro/CVE-2024-56340)",
+      "description": "IBM Cognos Analytics Path Traversal,  Poc of CVE-2024-56340",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T10:23:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-4911",
+      "repo_info": "[dungNHVhust/CVE-2023-4911](https://github.com/dungNHVhust/CVE-2023-4911)",
+      "description": "no description",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T21:51:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-32434",
+      "repo_info": "[alfiecg24/Trigon](https://github.com/alfiecg24/Trigon)",
+      "description": "Deterministic kernel exploit based on CVE-2023-32434.",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T23:07:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-1545",
+      "repo_info": "[sternstundes/CVE-2023-1545-POC-python](https://github.com/sternstundes/CVE-2023-1545-POC-python)",
+      "description": "CVE-2023-1545-POC with python",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T10:15:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-18935",
+      "repo_info": "[clarkvoss/telerik](https://github.com/clarkvoss/telerik)",
+      "description": "CVE-2019-18935: Remote Code Execution",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T01:28:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-1003030",
+      "repo_info": "[overgrowncarrot1/CVE-2019-1003030](https://github.com/overgrowncarrot1/CVE-2019-1003030)",
+      "description": "no description",
+      "date": "2025-03-01",
+      "raw_date": "2025-03-01T03:07:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.940000",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-03-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

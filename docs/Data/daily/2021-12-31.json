@@ -1,0 +1,27 @@
+{
+  "date": "2021-12-31",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[romanutti/log4shell-vulnerable-app](https://github.com/romanutti/log4shell-vulnerable-app)",
+      "description": "This repository contains a Spring Boot web application vulnerable to CVE-2021-44228, known as log4shell.",
+      "date": "2021-12-31",
+      "raw_date": "2021-12-31T20:39:44Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[alex-ermolaev/Log4NetSolarWindsSNMP-](https://github.com/alex-ermolaev/Log4NetSolarWindsSNMP-)",
+      "description": "Test application for CVE-2018-1285 alert for Solarwinds DLLs",
+      "date": "2021-12-31",
+      "raw_date": "2021-12-31T18:21:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.657916",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-12-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

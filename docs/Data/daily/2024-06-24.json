@@ -1,0 +1,90 @@
+{
+  "date": "2024-06-24",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-5806",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806](https://github.com/watchtowrlabs/watchTowr-vs-progress-moveit_CVE-2024-5806)",
+      "description": "Exploit for the CVE-2024-5806",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T16:28:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[PhinehasNarh/CVE-2024-4577-Defend](https://github.com/PhinehasNarh/CVE-2024-4577-Defend)",
+      "description": "no description",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T10:48:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[sreevatsa1997/test_cve_32002](https://github.com/sreevatsa1997/test_cve_32002)",
+      "description": "Test CVE 2024 32002 vulnerability on the Ubuntu machine",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T09:16:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-33113",
+      "repo_info": "[FaLLenSKiLL1/CVE-2024-33113](https://github.com/FaLLenSKiLL1/CVE-2024-33113)",
+      "description": "D-LINK DIR-845L is vulnerable to information disclosure via the bsc_sms_inbox.php file.",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T19:50:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-32030",
+      "repo_info": "[huseyinstif/CVE-2024-32030-Nuclei-Template](https://github.com/huseyinstif/CVE-2024-32030-Nuclei-Template)",
+      "description": "no description",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T11:57:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-30088",
+      "repo_info": "[tykawaii98/CVE-2024-30088](https://github.com/tykawaii98/CVE-2024-30088)",
+      "description": "no description",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T10:37:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-29868",
+      "repo_info": "[DEVisions/CVE-2024-29868](https://github.com/DEVisions/CVE-2024-29868)",
+      "description": "Proof of concept of CVE-2024-29868 affecting Apache StreamPipes from 0.69.0 through 0.93.0",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T14:53:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-50029",
+      "repo_info": "[absholi7ly/PHP-Injection-in-M4-PDF-Extensions](https://github.com/absholi7ly/PHP-Injection-in-M4-PDF-Extensions)",
+      "description": "CVE-2023-50029: PHP Injection Vulnerability in M4 PDF Extensions Module",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T23:26:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-30253",
+      "repo_info": "[dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253](https://github.com/dollarboysushil/Dolibarr-17.0.0-Exploit-CVE-2023-30253)",
+      "description": "In Dolibarr 17.0.0 with the CMS Website plugin (core) enabled, an authenticated attacker can obtain remote command execution via php code injection bypassing the application restrictions.",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T16:22:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-9849",
+      "repo_info": "[mbadanoiu/CVE-2019-9849](https://github.com/mbadanoiu/CVE-2019-9849)",
+      "description": "CVE-2019-9849: Remote bullet graphics retrieved in “stealth mode” in LibreOffice",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T16:49:40Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[A-Alabdoo/CVE-DVr](https://github.com/A-Alabdoo/CVE-DVr)",
+      "description": "CVE-2018-9995",
+      "date": "2024-06-24",
+      "raw_date": "2024-06-24T16:17:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.736530",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-06-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

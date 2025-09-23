@@ -1,0 +1,20 @@
+{
+  "date": "2020-11-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-10977",
+      "repo_info": "[thewhiteh4t/cve-2020-10977](https://github.com/thewhiteh4t/cve-2020-10977)",
+      "description": "GitLab 12.9.0 Arbitrary File Read",
+      "date": "2020-11-20",
+      "raw_date": "2020-11-20T15:40:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.233761",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-11-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

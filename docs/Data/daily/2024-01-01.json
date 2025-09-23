@@ -1,0 +1,62 @@
+{
+  "date": "2024-01-01",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-0324",
+      "repo_info": "[kodaichodai/CVE-2024-0324](https://github.com/kodaichodai/CVE-2024-0324)",
+      "description": "a PoC for CVE-2024-0324/WP Plugin - Profile Builder (&lt;= 3.10.8)",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T21:22:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-6553",
+      "repo_info": "[kiddenta/CVE-2023-6553](https://github.com/kiddenta/CVE-2023-6553)",
+      "description": "no description",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T16:57:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-48983",
+      "repo_info": "[tristao-marinho/CVE-2023-48983](https://github.com/tristao-marinho/CVE-2023-48983)",
+      "description": "POC CVE-2023-48983",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T13:19:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-48982",
+      "repo_info": "[tristao-marinho/CVE-2023-48982](https://github.com/tristao-marinho/CVE-2023-48982)",
+      "description": "POC CVE-2023-48982",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T13:14:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-48981",
+      "repo_info": "[tristao-marinho/CVE-2023-48981](https://github.com/tristao-marinho/CVE-2023-48981)",
+      "description": "POC CVE-2023-48981",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T13:06:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[Chinyemba-ck/MOVEit-CVE-2023-34362](https://github.com/Chinyemba-ck/MOVEit-CVE-2023-34362)",
+      "description": "A video presentation analysing the technical details, scale and lessons to be learned from the MOVEit CVE-2023=3462(CS50 Introduction to Cyber Security Finale Project)",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T00:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-28252",
+      "repo_info": "[bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252](https://github.com/bkstephen/Compiled-PoC-Binary-For-CVE-2023-28252)",
+      "description": "The repo contains a precompiled binary which can be run on a Windows machine vulnerable to CVE-2023-28252",
+      "date": "2024-01-01",
+      "raw_date": "2024-01-01T15:30:33Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.356689",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-01-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

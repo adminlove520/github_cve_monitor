@@ -1,0 +1,202 @@
+{
+  "date": "2025-03-26",
+  "count": 27,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-50000",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)",
+      "description": "no description",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T20:17:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-50000",
+      "repo_info": "[hakaioffsec/IngressNightmare-PoC](https://github.com/hakaioffsec/IngressNightmare-PoC)",
+      "description": "This is a PoC code to exploit the IngressNightmare vulnerabilities (CVE-2025-1097, CVE-2025-1098, CVE-2025-24514, and CVE-2025-1974).",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T18:52:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-30567",
+      "repo_info": "[Oyst3r1ng/CVE-2025-30567](https://github.com/Oyst3r1ng/CVE-2025-30567)",
+      "description": "Unauthorized Arbitrary File Download in WordPress WP01",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T14:37:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-30567",
+      "repo_info": "[m-q-t/ingressnightmare-detection-poc](https://github.com/m-q-t/ingressnightmare-detection-poc)",
+      "description": "Proof-of-Concept Tool to detect IngressNightmare (CVE-2025-1974) via (non-intrusive) active means.",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T15:44:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-30216",
+      "repo_info": "[oliviaisntcringe/CVE-2025-30216-PoC](https://github.com/oliviaisntcringe/CVE-2025-30216-PoC)",
+      "description": "PoC",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T13:03:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[ThumpBo/CVE-2025-30208-EXP](https://github.com/ThumpBo/CVE-2025-30208-EXP)",
+      "description": "CVE-2025-30208-EXP",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T15:42:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[xuemian168/CVE-2025-30208](https://github.com/xuemian168/CVE-2025-30208)",
+      "description": "The first pure Vite scanner on the entire network Automatic target asset collection via FOFA Multi-threaded concurrent scanning Automatic CSV report generation",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T10:26:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[Esonhugh/nginxnightmare](https://github.com/Esonhugh/nginxnightmare)",
+      "description": "IngressNightmare-POC CVE-2025-1974 https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities#how-did-we-discover-ingressnightmare-24",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T06:43:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[nicknisi/next-attack](https://github.com/nicknisi/next-attack)",
+      "description": "A demo of the CVE-2025-29927 vulnerability for a NebraskaJS lightning talk",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T23:36:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[marino-admin/Vite-CVE-2025-30208-Scanner](https://github.com/marino-admin/Vite-CVE-2025-30208-Scanner)",
+      "description": "CVE-2025-30208-EXP",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T20:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[YuanBenSir/CVE-2025-30208_POC](https://github.com/YuanBenSir/CVE-2025-30208_POC)",
+      "description": "CVE-2025-30208 任意文件读取漏洞快速验证",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T19:06:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[kk12-30/CVE-2025-30208](https://github.com/kk12-30/CVE-2025-30208)",
+      "description": "CVE-2025-30208漏洞验证工具",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T17:18:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[xaitx/CVE-2025-30208](https://github.com/xaitx/CVE-2025-30208)",
+      "description": "CVE-2025-30208 检测工具",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T17:14:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[yugo-eliatrope/test-cve-2025-29927](https://github.com/yugo-eliatrope/test-cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T00:47:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[kOaDT/poc-cve-2025-29927](https://github.com/kOaDT/poc-cve-2025-29927)",
+      "description": "This repository contains a proof of concept (POC) and an exploit script for CVE-2025-29927, a critical vulnerability in Next.js that allows attackers to bypass authorization checks implemented in middleware.",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T00:12:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[aleongx/CVE-2025-29927](https://github.com/aleongx/CVE-2025-29927)",
+      "description": "Next.js Acceso no autorizado CVE-2025-29927",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T19:08:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[gotcadumitru/test-cve-2025-29927](https://github.com/gotcadumitru/test-cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T17:53:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[Slvignesh05/CVE-2025-29927](https://github.com/Slvignesh05/CVE-2025-29927)",
+      "description": "A touch of security",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T16:24:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[dttuss/IngressNightmare-RCE-POC](https://github.com/dttuss/IngressNightmare-RCE-POC)",
+      "description": "PoC for CVE-2025-1974: Critical RCE in Ingress-NGINX (&lt;v1.12.1) via unsafe config injection. Exploitable from the pod network without credentials, enabling code execution and potential cluster takeover. Fixed in v1.12.1 and v1.11.5. For research/education only.",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T09:48:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-2783",
+      "repo_info": "[raulchung/CVE-2025-2783](https://github.com/raulchung/CVE-2025-2783)",
+      "description": "no description",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T21:38:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-22953",
+      "repo_info": "[maliktawfiq/CVE-2025-22953](https://github.com/maliktawfiq/CVE-2025-22953)",
+      "description": "EPICOR HCM Unauthenticated Blind SQL Injection CVE-2025-22953",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T08:51:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[hi-unc1e/CVE-2025-1974-poc](https://github.com/hi-unc1e/CVE-2025-1974-poc)",
+      "description": "PoC of CVE-2025-1974, modified from the world-first PoC~",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T16:54:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[zwxxb/CVE-2025-1974](https://github.com/zwxxb/CVE-2025-1974)",
+      "description": "Poc for Ingress RCE",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T14:49:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-7479",
+      "repo_info": "[fortra/CVE-2024-7479](https://github.com/fortra/CVE-2024-7479)",
+      "description": "no description",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T23:52:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-50492",
+      "repo_info": "[Nxploited/CVE-2024-50492](https://github.com/Nxploited/CVE-2024-50492)",
+      "description": "ScottCart &lt;= 1.1 - Unauthenticated Remote Code Execution",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T02:27:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[art-of-defence/CVE-2024-4956](https://github.com/art-of-defence/CVE-2024-4956)",
+      "description": "Detection and exploitation scripts for CVE-2024-4956",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T13:27:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-12252",
+      "repo_info": "[Nxploited/CVE-2024-12252](https://github.com/Nxploited/CVE-2024-12252)",
+      "description": "SEO LAT Auto Post &lt;= 2.2.1 - Missing Authorization to File Overwrite/Upload (Remote Code Execution)",
+      "date": "2025-03-26",
+      "raw_date": "2025-03-26T01:05:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.961809",
+  "metadata": {
+    "total_cves": 27,
+    "date_range": "2025-03-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2016-08-21",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-5699",
+      "repo_info": "[violentshell/rover](https://github.com/violentshell/rover)",
+      "description": "Proof of Concept code for CVE-2016-5696",
+      "date": "2016-08-21",
+      "raw_date": "2016-08-21T00:17:20Z"
+    },
+    {
+      "cve_id": "CVE-2016-4845",
+      "repo_info": "[kaito834/cve-2016-4845_csrf](https://github.com/kaito834/cve-2016-4845_csrf)",
+      "description": "Proof of concept for CSRF vulnerability(CVE-2016-4825) on IO-DATA Recording Hard Disc Drive",
+      "date": "2016-08-21",
+      "raw_date": "2016-08-21T07:32:19Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.441041",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-08-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

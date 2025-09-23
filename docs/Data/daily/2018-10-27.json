@@ -1,0 +1,41 @@
+{
+  "date": "2018-10-27",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[zadewg/LIVEBOX-0DAY](https://github.com/zadewg/LIVEBOX-0DAY)",
+      "description": "CVE-2018-20377; 20575; 20576; 20577 Multiple security vulnerabilities affecting latest firmware release on ORANGE Livebox modems.",
+      "date": "2018-10-27",
+      "raw_date": "2018-10-27T18:13:42Z"
+    },
+    {
+      "cve_id": "CVE-2018-14665",
+      "repo_info": "[jas502n/CVE-2018-14665](https://github.com/jas502n/CVE-2018-14665)",
+      "description": "OpenBsd_CVE-2018-14665",
+      "date": "2018-10-27",
+      "raw_date": "2018-10-27T10:12:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[letiencong96/CVE_2017_11882](https://github.com/letiencong96/CVE_2017_11882)",
+      "description": "CVE_2017_11882",
+      "date": "2018-10-27",
+      "raw_date": "2018-10-27T16:02:01Z"
+    },
+    {
+      "cve_id": "CVE-2016-6801",
+      "repo_info": "[TSNGL21/CVE-2016-6801](https://github.com/TSNGL21/CVE-2016-6801)",
+      "description": "Cross-site request forgery (CSRF)",
+      "date": "2018-10-27",
+      "raw_date": "2018-10-27T10:26:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.706328",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-10-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

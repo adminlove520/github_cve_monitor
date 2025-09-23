@@ -1,0 +1,132 @@
+{
+  "date": "2025-01-10",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-0282",
+      "repo_info": "[NyxanGoat/CVE-2025-0282-PoC](https://github.com/NyxanGoat/CVE-2025-0282-PoC)",
+      "description": "Ivanti (unsecure connect) zero click unauthenticated code execution",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T03:32:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-57488",
+      "repo_info": "[aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488](https://github.com/aaryan-11-x/CVE-2024-57487-and-CVE-2024-57488)",
+      "description": "POC of CVE-2024-57487 &amp; CVE-2024-57488",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T16:06:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[SeanRickerd/CVE-2024-53677](https://github.com/SeanRickerd/CVE-2024-53677)",
+      "description": "Vulnerable Environment and Exploit for CVE-2024-53677",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T17:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-50633",
+      "repo_info": "[cetinbaldwin/CVE-2024-50633](https://github.com/cetinbaldwin/CVE-2024-50633)",
+      "description": "no description",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T09:40:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-49699",
+      "repo_info": "[RandomRobbieBF/CVE-2024-49699](https://github.com/RandomRobbieBF/CVE-2024-49699)",
+      "description": "ARPrice &lt;= 4.0.3 - Authenticated (Subscriber+) PHP Object Injection",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T16:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-45216",
+      "repo_info": "[qhoko/CVE-2024-45216](https://github.com/qhoko/CVE-2024-45216)",
+      "description": "no description",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T05:59:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-42845",
+      "repo_info": "[theexploiters/CVE-2024-42845-Exploit](https://github.com/theexploiters/CVE-2024-42845-Exploit)",
+      "description": "Exploit For: CVE-2024-42845: Remote Code Execution (RCE) in Invesalius 3.1",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T20:00:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-40111",
+      "repo_info": "[theexploiters/CVE-2024-40111-Exploit](https://github.com/theexploiters/CVE-2024-40111-Exploit)",
+      "description": "Exploit For: CVE-2024-40111: Stored Cross-Site Scripting (XSS) in Automad 2.0.0-alpha.4",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T20:14:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-39123",
+      "repo_info": "[theexploiters/CVE-2024-39123-Exploit](https://github.com/theexploiters/CVE-2024-39123-Exploit)",
+      "description": "Exploit For: CVE-2024-39123: Stored XSS in Calibre-web 0.6.21",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T20:05:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-36840",
+      "repo_info": "[theexploiters/CVE-2024-36840-Exploit](https://github.com/theexploiters/CVE-2024-36840-Exploit)",
+      "description": "Exploit For: CVE-2024-36840: SQL Injection Vulnerability in Boelter Blue System Management (Version 1.3)",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T16:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[XiaomingX/CVE-2024-3400-poc](https://github.com/XiaomingX/CVE-2024-3400-poc)",
+      "description": "CVE-2024-3400的攻击脚本",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T02:20:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-33299",
+      "repo_info": "[MathSabo/CVE-2024-33299](https://github.com/MathSabo/CVE-2024-33299)",
+      "description": "Stored Cross Site Scripting vulnerability in Microweber &lt; 2.0.9",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T16:16:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-33298",
+      "repo_info": "[MathSabo/CVE-2024-33298](https://github.com/MathSabo/CVE-2024-33298)",
+      "description": "Stored Cross Site Scripting vulnerability in Microweber &lt; 2.0.9",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T16:08:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-33297",
+      "repo_info": "[MathSabo/CVE-2024-33297](https://github.com/MathSabo/CVE-2024-33297)",
+      "description": "Stored Cross Site Scripting vulnerability in Microweber &lt; 2.0.9",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T15:48:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-12542",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12542](https://github.com/RandomRobbieBF/CVE-2024-12542)",
+      "description": "linkID &lt;= 0.1.2 - Missing Authorization to Unauthenticated Sensitive Information Exposure",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T09:23:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-12404",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12404](https://github.com/RandomRobbieBF/CVE-2024-12404)",
+      "description": "CF Internal Link Shortcode &lt;= 1.1.0 - Unauthenticated SQL Injection",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T14:52:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-21974",
+      "repo_info": "[mercylessghost/CVE-2021-21974](https://github.com/mercylessghost/CVE-2021-21974)",
+      "description": "no description",
+      "date": "2025-01-10",
+      "raw_date": "2025-01-10T18:00:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.900332",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-01-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

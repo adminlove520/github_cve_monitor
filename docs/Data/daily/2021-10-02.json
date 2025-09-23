@@ -1,0 +1,27 @@
+{
+  "date": "2021-10-02",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-17662",
+      "repo_info": "[whokilleddb/CVE-2019-17662](https://github.com/whokilleddb/CVE-2019-17662)",
+      "description": "Exploit for CVE-2019-17662 (ThinVNC 1.0b1)",
+      "date": "2021-10-02",
+      "raw_date": "2021-10-02T15:57:11Z"
+    },
+    {
+      "cve_id": "CVE-2000-0649",
+      "repo_info": "[GDSC-IU/automate-with-actions](https://github.com/GDSC-IU/automate-with-actions)",
+      "description": "This project is automate the reconnaissance process or process of information gathering about the target domain or company which host bug bounty program. You can run this whole Virtual Private Server but since i don't have any so i dig and found that GitHub will provide 2000 minute/month for running workflow in their virtual machine, they provide windows, mac and ubuntu as Linux distribution, for testing purpose of the development, so we integrate testing phase directly in development process,  So i have create custom scripts  and workflow file which run install all the necessary tools and run the appropriate scripts, the work is done by this workflow is subdomain enumeration, dns resolution,  reverse-dns resolve, port-scanning of all the hosts,findig virtual hosts, fuzzing for content discovery, and run nuclei  which is template based scanner by project discovery is to scan the host  for any CVE and common vulnerabilities, you can add custom template and custom scripts, and finally Discord integration, so when some work is done it will send message to discord webhook url configure in it. For further details view Repository.",
+      "date": "2021-10-02",
+      "raw_date": "2021-10-02T14:04:22Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.567890",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-10-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

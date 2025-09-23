@@ -1,0 +1,83 @@
+{
+  "date": "2024-02-17",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25809",
+      "repo_info": "[sajaljat/CVE-2024-25809](https://github.com/sajaljat/CVE-2024-25809)",
+      "description": "(XSS)",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T12:16:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-25281",
+      "repo_info": "[sajaljat/CVE-2024-25281](https://github.com/sajaljat/CVE-2024-25281)",
+      "description": "(XSS)",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T12:14:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-25280",
+      "repo_info": "[sajaljat/CVE-2024-25280](https://github.com/sajaljat/CVE-2024-25280)",
+      "description": "Broken Access control",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T12:11:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-25279",
+      "repo_info": "[sajaljat/CVE-2024-25279](https://github.com/sajaljat/CVE-2024-25279)",
+      "description": "(XSS)",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T12:10:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-25278",
+      "repo_info": "[sajaljat/CVE-2024-25278](https://github.com/sajaljat/CVE-2024-25278)",
+      "description": "no description",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T11:59:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[CMNatic/CVE-2024-21413](https://github.com/CMNatic/CVE-2024-21413)",
+      "description": "CVE-2024-21413 PoC for THM Lab",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T14:52:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[labesterOct/CVE-2024-21413](https://github.com/labesterOct/CVE-2024-21413)",
+      "description": "Microsoft Outlook Information Disclosure Vulnerability (leak password hash)",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T11:11:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-1269",
+      "repo_info": "[sajaljat/CVE-2024-1269](https://github.com/sajaljat/CVE-2024-1269)",
+      "description": "(XSS)",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T12:21:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[ifconfig-me/CVE-2023-36845](https://github.com/ifconfig-me/CVE-2023-36845)",
+      "description": "A PHP External Variable Modification vulnerability in J-Web of Juniper Networks Junos OS on EX Series and SRX Series allows an unauthenticated, network-based attacker to remotely execute code.",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T08:15:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[shri142/ZipScan](https://github.com/shri142/ZipScan)",
+      "description": "A tool written in Go that scans files &amp; directories for the Follina exploit (CVE-2022-30190)",
+      "date": "2024-02-17",
+      "raw_date": "2024-02-17T12:10:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.587110",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-02-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

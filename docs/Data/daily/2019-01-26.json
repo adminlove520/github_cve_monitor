@@ -1,0 +1,20 @@
+{
+  "date": "2019-01-26",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-18852",
+      "repo_info": "[hook-s3c/CVE-2018-18852](https://github.com/hook-s3c/CVE-2018-18852)",
+      "description": "CERIO RCE CVE-2018-18852, authenticated (vendor defaults) web-based RCE as root user.",
+      "date": "2019-01-26",
+      "raw_date": "2019-01-26T03:41:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.748710",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-01-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

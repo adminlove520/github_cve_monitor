@@ -1,0 +1,83 @@
+{
+  "date": "2019-01-11",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-9208",
+      "repo_info": "[cved-sources/cve-2018-9208](https://github.com/cved-sources/cve-2018-9208)",
+      "description": "cve-2018-9208",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T22:28:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-9207",
+      "repo_info": "[cved-sources/cve-2018-9207](https://github.com/cved-sources/cve-2018-9207)",
+      "description": "cve-2018-9207",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T23:34:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-9206",
+      "repo_info": "[cved-sources/cve-2018-9206](https://github.com/cved-sources/cve-2018-9206)",
+      "description": "cve-2018-9206",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T22:23:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-16509",
+      "repo_info": "[cved-sources/cve-2018-16509](https://github.com/cved-sources/cve-2018-16509)",
+      "description": "cve-2018-16509",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T22:19:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[cved-sources/cve-2018-15473](https://github.com/cved-sources/cve-2018-15473)",
+      "description": "cve-2018-15473",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T22:17:08Z"
+    },
+    {
+      "cve_id": "CVE-2017-8917",
+      "repo_info": "[cved-sources/cve-2017-8917](https://github.com/cved-sources/cve-2017-8917)",
+      "description": "cve-2017-8917",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T22:13:56Z"
+    },
+    {
+      "cve_id": "CVE-2017-10271",
+      "repo_info": "[cved-sources/cve-2017-10271](https://github.com/cved-sources/cve-2017-10271)",
+      "description": "cve-2017-10271",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T22:11:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000486",
+      "repo_info": "[cved-sources/cve-2017-1000486](https://github.com/cved-sources/cve-2017-1000486)",
+      "description": "cve-2017-1000486",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T21:11:14Z"
+    },
+    {
+      "cve_id": "CVE-2016-8870",
+      "repo_info": "[cved-sources/cve-2016-8870](https://github.com/cved-sources/cve-2016-8870)",
+      "description": "cve-2016-8870",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T21:08:27Z"
+    },
+    {
+      "cve_id": "CVE-2016-8869",
+      "repo_info": "[cved-sources/cve-2016-8869](https://github.com/cved-sources/cve-2016-8869)",
+      "description": "cve-2016-8869",
+      "date": "2019-01-11",
+      "raw_date": "2019-01-11T21:00:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.737340",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2019-01-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

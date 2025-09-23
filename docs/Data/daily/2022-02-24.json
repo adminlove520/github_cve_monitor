@@ -1,0 +1,27 @@
+{
+  "date": "2022-02-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-25461",
+      "repo_info": "[bkojusner/CVE-2021-25461](https://github.com/bkojusner/CVE-2021-25461)",
+      "description": "no description",
+      "date": "2022-02-24",
+      "raw_date": "2022-02-24T17:28:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-18324",
+      "repo_info": "[hamm0nz/CVE-2020-18324](https://github.com/hamm0nz/CVE-2020-18324)",
+      "description": "Exploit PoC for CVE-2020-18324",
+      "date": "2022-02-24",
+      "raw_date": "2022-02-24T15:38:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.697370",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-02-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2017-05-21",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc](https://github.com/faizzaidi/Admidio-3.2.8-CSRF-POC-by-Provensec-llc)",
+      "description": "Admidio 3.2.8 Cross-Site Request Forgery Assigned CVE Number: CVE-2017-8382",
+      "date": "2017-05-21",
+      "raw_date": "2017-05-21T13:36:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.517938",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-05-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2018-12-31",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[avarx/vulnkeys](https://github.com/avarx/vulnkeys)",
+      "description": "Debian OpenSSL Predictable PRNG (CVE-2008-0166)",
+      "date": "2018-12-31",
+      "raw_date": "2018-12-31T16:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[zeng9t/CVE-2018-4407-iOS-exploit](https://github.com/zeng9t/CVE-2018-4407-iOS-exploit)",
+      "description": "CVE-2018-4407,iOS exploit",
+      "date": "2018-12-31",
+      "raw_date": "2018-12-31T08:24:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-19788",
+      "repo_info": "[jhlongjr/CVE-2018-19788](https://github.com/jhlongjr/CVE-2018-19788)",
+      "description": "Exploiting The CVE-2018-19788 PolicyKit Bug",
+      "date": "2018-12-31",
+      "raw_date": "2018-12-31T16:54:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-19518",
+      "repo_info": "[ensimag-security/CVE-2018-19518](https://github.com/ensimag-security/CVE-2018-19518)",
+      "description": "some works on CVE-2018-19518",
+      "date": "2018-12-31",
+      "raw_date": "2018-12-31T16:36:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.737340",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-12-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

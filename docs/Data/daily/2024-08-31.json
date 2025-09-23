@@ -1,0 +1,69 @@
+{
+  "date": "2024-08-31",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-44815",
+      "repo_info": "[nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-](https://github.com/nitinronge91/Extracting-User-credentials-For-Web-portal-and-WiFi-AP-For-Hathway-Router-CVE-2024-44815-)",
+      "description": "CVE-2024-44815",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T10:17:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-44812",
+      "repo_info": "[b1u3st0rm/CVE-2024-44812-PoC](https://github.com/b1u3st0rm/CVE-2024-44812-PoC)",
+      "description": "Proof of Concept Exploit for CVE-2024-44812 - SQL Injection Authentication Bypass vulnerability in Online Complaint Site v1.0",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T15:20:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[ThemeHackers/CVE-2024-38063](https://github.com/ThemeHackers/CVE-2024-38063)",
+      "description": "CVE-2024-38063 is a critical security vulnerability in the Windows TCP/IP stack that allows for remote code execution (RCE)",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T13:56:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-](https://github.com/AhmedMansour93/Event-ID-263-Rule-Name-SOC287---Arbitrary-File-Read-on-Checkpoint-Security-Gateway-CVE-2024-24919-)",
+      "description": "🔍 Just wrapped up an incident report on a Phishing Alert (Event ID 257, SOC282). Enhancing my expertise in email threat detection and response! 🚨 #Cybersecurity #SOCAnalyst #LetsDefend",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T16:57:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[ThemeHackers/CVE-2024-21413](https://github.com/ThemeHackers/CVE-2024-21413)",
+      "description": "CVE-2024-21413 - Microsoft Outlook Remote Code Execution Vulnerability PoC",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T13:18:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-0195",
+      "repo_info": "[fa-rrel/CVE-2024-0195-SpiderFlow](https://github.com/fa-rrel/CVE-2024-0195-SpiderFlow)",
+      "description": "CVE-2024-0195 Improper Control of Generation of Code (&#x27;Code Injection&#x27;)",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T07:37:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-29360",
+      "repo_info": "[0xDivyanshu-new/CVE-2023-29360](https://github.com/0xDivyanshu-new/CVE-2023-29360)",
+      "description": "POC for CVE-2023-29360",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T21:08:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-2598",
+      "repo_info": "[cainiao159357/CVE-2023-2598](https://github.com/cainiao159357/CVE-2023-2598)",
+      "description": "no description",
+      "date": "2024-08-31",
+      "raw_date": "2024-08-31T09:14:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.793923",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-08-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

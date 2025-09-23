@@ -1,0 +1,20 @@
+{
+  "date": "2018-09-10",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8353",
+      "repo_info": "[whereisr0da/CVE-2018-8353-POC](https://github.com/whereisr0da/CVE-2018-8353-POC)",
+      "description": "Simple poc of CVE-2018-8353 Microsoft Scripting Engine Use After Free",
+      "date": "2018-09-10",
+      "raw_date": "2018-09-10T17:28:05Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.684752",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-09-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

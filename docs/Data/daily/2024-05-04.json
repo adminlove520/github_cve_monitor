@@ -1,0 +1,76 @@
+{
+  "date": "2024-05-04",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-34470",
+      "repo_info": "[GKalmus/referaat](https://github.com/GKalmus/referaat)",
+      "description": "CVE-2024-31851",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T16:56:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-30491",
+      "repo_info": "[truonghuuphuc/CVE-2024-30491-Poc](https://github.com/truonghuuphuc/CVE-2024-30491-Poc)",
+      "description": "no description",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T14:22:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-26304",
+      "repo_info": "[Roud-Roud-Agency/CVE-2024-26304-RCE-exploits](https://github.com/Roud-Roud-Agency/CVE-2024-26304-RCE-exploits)",
+      "description": "Critical RCE Vulnerabilities in HPE Aruba Devices (may 2024)",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T10:09:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-20359",
+      "repo_info": "[Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit](https://github.com/Garvard-Agency/CVE-2024-20359-CiscoASA-FTD-exploit)",
+      "description": "Exploit for Cisco ASA and FTD (may 2024)",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T10:40:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[Vignesh2712/utomation-for-Juniper-cve-2023-36845](https://github.com/Vignesh2712/utomation-for-Juniper-cve-2023-36845)",
+      "description": "no description",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T14:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[Vignesh2712/Automation-for-Juniper-cve-2023-36845](https://github.com/Vignesh2712/Automation-for-Juniper-cve-2023-36845)",
+      "description": "no description",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T14:51:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[c0d3cr4f73r/CVE-2023-23752](https://github.com/c0d3cr4f73r/CVE-2023-23752)",
+      "description": "Joomla! v4.2.8 - Unauthenticated information disclosure",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T18:44:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[ronmadar/Open-Source-Package](https://github.com/ronmadar/Open-Source-Package)",
+      "description": "Fix open source package tough-cookie V 2.5.0 - CVE-2023-26136 rated as a critical vulnerability",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T14:42:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-1326",
+      "repo_info": "[c0d3cr4f73r/CVE-2023-1326](https://github.com/c0d3cr4f73r/CVE-2023-1326)",
+      "description": "no description",
+      "date": "2024-05-04",
+      "raw_date": "2024-05-04T19:47:58Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.684123",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

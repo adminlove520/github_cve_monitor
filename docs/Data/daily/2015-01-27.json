@@ -1,0 +1,41 @@
+{
+  "date": "2015-01-27",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[aaronfay/CVE-2015-0235-test](https://github.com/aaronfay/CVE-2015-0235-test)",
+      "description": "Ansible playbook to check vulnerability for CVE-2015-0235",
+      "date": "2015-01-27",
+      "raw_date": "2015-01-27T23:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[mikesplain/CVE-2015-0235-cookbook](https://github.com/mikesplain/CVE-2015-0235-cookbook)",
+      "description": "A chef cookbook to test the GHOST vulnerability",
+      "date": "2015-01-27",
+      "raw_date": "2015-01-27T20:34:42Z"
+    },
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[fser/ghost-checker](https://github.com/fser/ghost-checker)",
+      "description": "Test wether you&#x27;re exposed to ghost (CVE-2015-0235). All kudos go to Qualys Security",
+      "date": "2015-01-27",
+      "raw_date": "2015-01-27T17:31:33Z"
+    },
+    {
+      "cve_id": "CVE-2010-3904",
+      "repo_info": "[ChristianPapathanasiou/jboss-autopwn](https://github.com/ChristianPapathanasiou/jboss-autopwn)",
+      "description": "JBoss Autopwn as featured at BlackHat Europe 2010 - this version incorporates CVE-2010-0738 the JBoss authentication bypass VERB manipulation vulnerability as discovered by Minded Security",
+      "date": "2015-01-27",
+      "raw_date": "2015-01-27T13:16:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.337049",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2015-01-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

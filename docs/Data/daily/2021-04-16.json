@@ -1,0 +1,27 @@
+{
+  "date": "2021-04-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[arttnba3/CVE-2016-5195](https://github.com/arttnba3/CVE-2016-5195)",
+      "description": "my personal POC of CVE-2016-5195(dirtyCOW)",
+      "date": "2021-04-16",
+      "raw_date": "2021-04-16T05:59:04Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[Ki11i0n4ir3/Sambaster](https://github.com/Ki11i0n4ir3/Sambaster)",
+      "description": "cve-2007-2447 this script was rewrite the part of Metasploit modules to python3",
+      "date": "2021-04-16",
+      "raw_date": "2021-04-16T08:48:19Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.333209",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-04-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2024-04-29",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4040",
+      "repo_info": "[Praison001/CVE-2024-4040-CrushFTP-server](https://github.com/Praison001/CVE-2024-4040-CrushFTP-server)",
+      "description": "Exploit for CVE-2024-4040 affecting CrushFTP server in all versions before 10.7.1 and 11.1.0 on all platforms",
+      "date": "2024-04-29",
+      "raw_date": "2024-04-29T10:21:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-3154",
+      "repo_info": "[cdxiaodong/CVE-2024-3154-communication](https://github.com/cdxiaodong/CVE-2024-3154-communication)",
+      "description": "how does it run？",
+      "date": "2024-04-29",
+      "raw_date": "2024-04-29T04:03:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-29296",
+      "repo_info": "[Lavender-exe/CVE-2024-29296-PoC](https://github.com/Lavender-exe/CVE-2024-29296-PoC)",
+      "description": "User Enumeration through response time difference",
+      "date": "2024-04-29",
+      "raw_date": "2024-04-29T19:09:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-48643",
+      "repo_info": "[takeshixx/tac_plus-pre-auth-rce](https://github.com/takeshixx/tac_plus-pre-auth-rce)",
+      "description": "tac_plus Pre-Auth Remote Command Execution Vulnerability (CVE-2023-45239 &amp; CVE-2023-48643)",
+      "date": "2024-04-29",
+      "raw_date": "2024-04-29T18:48:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-24490",
+      "repo_info": "[AbrarKhan/Linux-4.19.72_CVE-2020-24490](https://github.com/AbrarKhan/Linux-4.19.72_CVE-2020-24490)",
+      "description": "no description",
+      "date": "2024-04-29",
+      "raw_date": "2024-04-29T09:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-24490",
+      "repo_info": "[AbrarKhan/linux_CVE-2020-24490-beforePatch](https://github.com/AbrarKhan/linux_CVE-2020-24490-beforePatch)",
+      "description": "no description",
+      "date": "2024-04-29",
+      "raw_date": "2024-04-29T06:47:40Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.677084",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2024-04-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

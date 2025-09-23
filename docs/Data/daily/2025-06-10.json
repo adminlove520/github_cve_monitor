@@ -1,0 +1,83 @@
+{
+  "date": "2025-06-10",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5419",
+      "repo_info": "[alegrason/CVE-2025-5419](https://github.com/alegrason/CVE-2025-5419)",
+      "description": "Out-of-Bounds Read/Write in Chrome V8 — Heap Corruption → RCE",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T12:39:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-5419",
+      "repo_info": "[NikolajSchlej/Hydroph0bia](https://github.com/NikolajSchlej/Hydroph0bia)",
+      "description": "Binaries, drivers, PoCs and other stuff on Hydroph0bia vulnerability (CVE-2025-4275)",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T11:24:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[BiiTts/Roundcube-CVE-2025-49113](https://github.com/BiiTts/Roundcube-CVE-2025-49113)",
+      "description": "Proof-of-concept to CVE-2025-49113",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T15:21:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-4601",
+      "repo_info": "[Yucaerin/CVE-2025-4601](https://github.com/Yucaerin/CVE-2025-4601)",
+      "description": "RH - Real Estate WordPress Theme &lt;= 4.4.0 - Authenticated (Subscriber+) Privilege Escalation",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T17:58:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-24016",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-24016](https://github.com/B1ack4sh/Blackash-CVE-2025-24016)",
+      "description": "CVE-2025-24016",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T21:07:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-24016",
+      "repo_info": "[rxerium/CVE-2025-24016](https://github.com/rxerium/CVE-2025-24016)",
+      "description": "Detection for CVE-2025-24016 - Deserialization of Untrusted Data Vulnerability in the Wazuh software",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T18:54:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-20286",
+      "repo_info": "[noeneal/CVE-2025-20286](https://github.com/noeneal/CVE-2025-20286)",
+      "description": "no description",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T19:33:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-57378",
+      "repo_info": "[rxerium/CVE-2024-57378](https://github.com/rxerium/CVE-2024-57378)",
+      "description": "Detection for CVE-2024-57378",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T20:36:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-22371",
+      "repo_info": "[vishalborkar7/POC_for_-CVE-2024-22371](https://github.com/vishalborkar7/POC_for_-CVE-2024-22371)",
+      "description": "no description",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T05:16:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[K3ysTr0K3R/CVE-2017-9841-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-9841-EXPLOIT)",
+      "description": "no description",
+      "date": "2025-06-10",
+      "raw_date": "2025-06-10T19:10:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.038597",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-06-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

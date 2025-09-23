@@ -1,0 +1,62 @@
+{
+  "date": "2023-03-17",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-23415",
+      "repo_info": "[wh-gov/CVE-2023-23415](https://github.com/wh-gov/CVE-2023-23415)",
+      "description": "CVE-2023-23415",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T12:38:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-23415",
+      "repo_info": "[ncusi/secret_life_of_CVEs](https://github.com/ncusi/secret_life_of_CVEs)",
+      "description": "Scripts and code for &quot;The Secret Life of CVEs&quot;, accepted to MSR 2023 Challenge: https://conf.researchr.org/track/msr-2023/msr-2023-mining-challenge",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T10:24:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[BillSkiCO/CVE-2023-23397_EXPLOIT](https://github.com/BillSkiCO/CVE-2023-23397_EXPLOIT)",
+      "description": "Generates meeting requests taking advantage of CVE-2023-23397. This requires the outlook thick client to send.",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T17:35:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[im007/CVE-2023-23397](https://github.com/im007/CVE-2023-23397)",
+      "description": "CVE-2023-23397 Remediation Script (Powershell)",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T03:38:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[ahmedkhlief/CVE-2023-23397-POC](https://github.com/ahmedkhlief/CVE-2023-23397-POC)",
+      "description": "Exploit POC for CVE-2023-23397",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T10:18:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[cleverg0d/CVE-2023-23397-PoC-PowerShell](https://github.com/cleverg0d/CVE-2023-23397-PoC-PowerShell)",
+      "description": "PoC for CVE-2023-23397",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T06:52:42Z"
+    },
+    {
+      "cve_id": "CVE-2016-1531",
+      "repo_info": "[k4u5h41/CVE-2016-1531](https://github.com/k4u5h41/CVE-2016-1531)",
+      "description": "no description",
+      "date": "2023-03-17",
+      "raw_date": "2023-03-17T14:30:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.155220",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-03-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

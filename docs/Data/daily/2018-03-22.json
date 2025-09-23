@@ -1,0 +1,27 @@
+{
+  "date": "2018-03-22",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-14322",
+      "repo_info": "[bgeesaman/subpath-exploit](https://github.com/bgeesaman/subpath-exploit)",
+      "description": "Writeup of CVE-2017-1002101 with sample &quot;exploit&quot;/escape",
+      "date": "2018-03-22",
+      "raw_date": "2018-03-22T19:26:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[likekabin/CVE-2017-0199](https://github.com/likekabin/CVE-2017-0199)",
+      "description": "no description",
+      "date": "2018-03-22",
+      "raw_date": "2018-03-22T08:40:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.634583",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-03-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

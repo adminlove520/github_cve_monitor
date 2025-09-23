@@ -1,0 +1,20 @@
+{
+  "date": "2013-11-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-5842",
+      "repo_info": "[guhe120/CVE-2013-5842](https://github.com/guhe120/CVE-2013-5842)",
+      "description": "no description",
+      "date": "2013-11-12",
+      "raw_date": "2013-11-12T08:23:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.288986",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2013-11-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

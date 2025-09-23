@@ -1,0 +1,69 @@
+{
+  "date": "2023-05-03",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-29839",
+      "repo_info": "[jichngan/CVE-2023-29839](https://github.com/jichngan/CVE-2023-29839)",
+      "description": "Hotel Druid 3.0.4 Stored Cross Site Scripting Vulnerability",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T01:31:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-29808",
+      "repo_info": "[zPrototype/CVE-2023-29808](https://github.com/zPrototype/CVE-2023-29808)",
+      "description": "no description",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T15:56:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-22906",
+      "repo_info": "[nonamecoder/CVE-2023-22906](https://github.com/nonamecoder/CVE-2023-22906)",
+      "description": "no description",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T20:52:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[MarkStrendin/CVE-2022-46169](https://github.com/MarkStrendin/CVE-2022-46169)",
+      "description": "Proof of concept / CTF script for exploiting CVE-2022-46169 in Cacti, versions &gt;=1.2.22",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T19:53:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[GunZF0x/CVE-2022-22963](https://github.com/GunZF0x/CVE-2022-22963)",
+      "description": "Binaries for CVE-2022-22963",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T16:45:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-15848",
+      "repo_info": "[faklad/CVE-2020-15848](https://github.com/faklad/CVE-2020-15848)",
+      "description": "CVE-2020-15848",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T02:35:08Z"
+    },
+    {
+      "cve_id": "CVE-2017-8529",
+      "repo_info": "[kaddirov/windows2016fixCVE-2017-8529](https://github.com/kaddirov/windows2016fixCVE-2017-8529)",
+      "description": "no description",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T06:37:59Z"
+    },
+    {
+      "cve_id": "CVE-2013-5211",
+      "repo_info": "[0xhav0c/CVE-2013-5211](https://github.com/0xhav0c/CVE-2013-5211)",
+      "description": "no description",
+      "date": "2023-05-03",
+      "raw_date": "2023-05-03T17:20:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.189878",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-05-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

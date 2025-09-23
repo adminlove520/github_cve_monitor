@@ -1,0 +1,160 @@
+{
+  "date": "2025-07-02",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6934",
+      "repo_info": "[MrjHaxcore/CVE-2025-6934](https://github.com/MrjHaxcore/CVE-2025-6934)",
+      "description": "CVE-2025-6934 POC",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T14:23:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[timsonner/CVE-2025-49144-Research](https://github.com/timsonner/CVE-2025-49144-Research)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T04:03:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-47812",
+      "repo_info": "[0xgh057r3c0n/CVE-2025-47812](https://github.com/0xgh057r3c0n/CVE-2025-47812)",
+      "description": "Wing FTP Server RCE via Lua Injection",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T21:51:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-47812",
+      "repo_info": "[Spirizeon/chainwalk](https://github.com/Spirizeon/chainwalk)",
+      "description": "CVE-2025-6855",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T20:49:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[SysMancer/CVE-2025-32463](https://github.com/SysMancer/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T01:57:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[robbert1978/CVE-2025-32463_POC](https://github.com/robbert1978/CVE-2025-32463_POC)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T18:26:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[zhaduchanhzz/CVE-2025-32463_POC](https://github.com/zhaduchanhzz/CVE-2025-32463_POC)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T14:29:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[pevinkumar10/CVE-2025-32463](https://github.com/pevinkumar10/CVE-2025-32463)",
+      "description": "Exploit for Local Privilege Escalation in Sudo via Malicious nsswitch.conf with sudo -R. (CVE-2025-32463)",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T11:47:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE](https://github.com/mbanyamer/mbanyamer-Microsoft-PowerPoint-Use-After-Free-Remote-Code-Execution-RCE)",
+      "description": "This repository contains a Proof of Concept (PoC) exploit for the **CVE-2025-47175** vulnerability found in Microsoft PowerPoint.   The vulnerability is a Use-After-Free (UAF) bug that allows an attacker to execute arbitrary code by tricking a user into opening a specially crafted PPTX file.",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T12:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[keymaker-arch/NFSundown](https://github.com/keymaker-arch/NFSundown)",
+      "description": "PoC for CVE-2025-38089",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T08:40:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[neko205-mx/CVE-2025-32463_Exploit](https://github.com/neko205-mx/CVE-2025-32463_Exploit)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T08:53:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[kh4sh3i/CVE-2025-32463](https://github.com/kh4sh3i/CVE-2025-32463)",
+      "description": "Local Privilege Escalation to Root via Sudo chroot in Linux",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T07:20:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[B1gN0Se/Tomcat-CVE-2025-31650](https://github.com/B1gN0Se/Tomcat-CVE-2025-31650)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T02:20:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-8636",
+      "repo_info": "[HyHy100/Chrome-Skia-CVE-2024-8636](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8636)",
+      "description": "PoC for a Chrome integer overflow -&gt; OOB write vulnerability I reported to Google in Skia.",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T03:54:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-8198",
+      "repo_info": "[HyHy100/Chrome-Skia-CVE-2024-8198](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8198)",
+      "description": "PoC for a Chrome integer overflow -&gt; OOB write vulnerability I reported to Google in Skia.",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T03:55:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-8193",
+      "repo_info": "[HyHy100/Chrome-Skia-CVE-2024-8193](https://github.com/HyHy100/Chrome-Skia-CVE-2024-8193)",
+      "description": "PoC for a Chrome integer overflow -&gt; OOB write vulnerability I reported to Google in Skia.",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T03:58:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-7966",
+      "repo_info": "[HyHy100/Chrome-Skia-CVE-2024-7966](https://github.com/HyHy100/Chrome-Skia-CVE-2024-7966)",
+      "description": "PoC for a Chrome SKSL bypass + integer overflow -&gt; OOB write vulnerability I reported to Google in Skia.",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T03:58:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[MAVRICK-1/cve-2024-23113-test-env](https://github.com/MAVRICK-1/cve-2024-23113-test-env)",
+      "description": "no description",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T07:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[alv-david/CVE-2022-46169-Cacti-1.2.22](https://github.com/alv-david/CVE-2022-46169-Cacti-1.2.22)",
+      "description": "Find out a modified Cacti public exploit!",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T08:19:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[blu3ming/PoC-CVE-2021-41773](https://github.com/blu3ming/PoC-CVE-2021-41773)",
+      "description": "Python exploit for CVE-2021-41773 - Apache HTTP Server 2.4.49 Path Traversal vulnerability",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T21:15:11Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[paulogmota/CVE-2018-6574](https://github.com/paulogmota/CVE-2018-6574)",
+      "description": "Golang cgo exploit for CVE-2018-6574",
+      "date": "2025-07-02",
+      "raw_date": "2025-07-02T01:36:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.058845",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2025-07-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

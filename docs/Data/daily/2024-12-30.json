@@ -1,0 +1,83 @@
+{
+  "date": "2024-12-30",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-54819",
+      "repo_info": "[partywavesec/CVE-2024-54819](https://github.com/partywavesec/CVE-2024-54819)",
+      "description": "CVE-2024-54819",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T23:06:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-54152",
+      "repo_info": "[math-x-io/CVE-2024-54152-poc](https://github.com/math-x-io/CVE-2024-54152-poc)",
+      "description": "no description",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T01:07:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-46542",
+      "repo_info": "[MarioTesoro/CVE-2024-46542](https://github.com/MarioTesoro/CVE-2024-46542)",
+      "description": "no description",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T08:58:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-4573",
+      "repo_info": "[Castro-Ian/CVE-2024-4573-Mitigation-Script](https://github.com/Castro-Ian/CVE-2024-4573-Mitigation-Script)",
+      "description": "no description",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T18:54:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-4147",
+      "repo_info": "[murdok1982/Exploit-en-Python-para-CVE-2023-4147](https://github.com/murdok1982/Exploit-en-Python-para-CVE-2023-4147)",
+      "description": "no description",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T18:08:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-40931",
+      "repo_info": "[datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit](https://github.com/datboi6942/Nagios-XI-s-CVE-2023-40931-Exploit)",
+      "description": "An exploit for Nagios SQL injection vulnerbility",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T18:44:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[kuyrathdaro/winrar-cve-2023-38831](https://github.com/kuyrathdaro/winrar-cve-2023-38831)",
+      "description": "POC Exploit Script in Python",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T03:33:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-21768",
+      "repo_info": "[IlanDudnik/CVE-2023-21768](https://github.com/IlanDudnik/CVE-2023-21768)",
+      "description": "Exploit implementation with IO Rings for CVE-2023-21768",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T17:27:56Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[luongchivi/CVE-2021-41773](https://github.com/luongchivi/CVE-2021-41773)",
+      "description": "no description",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T08:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-0144",
+      "repo_info": "[AtithKhawas/autoblue](https://github.com/AtithKhawas/autoblue)",
+      "description": "AutoBlue - Automated EternalBlue (CVE-2017-0144 / MS17-010) exploitation tool leveraging Nmap and Metasploit for ethical hacking, penetration testing, and CTF challenges. Strictly for authorized and educational use only!",
+      "date": "2024-12-30",
+      "raw_date": "2024-12-30T13:28:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.889634",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-12-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

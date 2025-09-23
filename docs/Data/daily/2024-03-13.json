@@ -1,0 +1,118 @@
+{
+  "date": "2024-03-13",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-28715",
+      "repo_info": "[Lq0ne/CVE-2024-28715](https://github.com/Lq0ne/CVE-2024-28715)",
+      "description": "no description",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T01:59:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-26198",
+      "repo_info": "[MrCyberSec/CVE-2024-26198-Exchange-RCE](https://github.com/MrCyberSec/CVE-2024-26198-Exchange-RCE)",
+      "description": "exploit for CVE-2024-26198 Microsoft Exchange Remote Code Execution (RCE)",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T12:55:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-25227",
+      "repo_info": "[thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-EXPLOIT-Unauthenticated-Login-Bypass-CVE-2024-25227)",
+      "description": "no description",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T17:58:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check](https://github.com/r4p3c4/CVE-2024-21762-Exploit-PoC-Fortinet-SSL-VPN-Check)",
+      "description": "Chequea si tu firewall es vulnerable a CVE-2024-21762 (RCE sin autenticación)",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T22:57:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[h4x0r-dz/CVE-2024-21762](https://github.com/h4x0r-dz/CVE-2024-21762)",
+      "description": "out-of-bounds write in Fortinet FortiOS  CVE-2024-21762 vulnerability",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T09:17:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-21411",
+      "repo_info": "[rkraper339/CVE-2024-21411-POC](https://github.com/rkraper339/CVE-2024-21411-POC)",
+      "description": "CVE-2024-21411 POC Skype for Consumer Remote Code Execution Vulnerability (RCE)",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:07:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-21400",
+      "repo_info": "[MegaCorp001/CVE-2024-21400-POC](https://github.com/MegaCorp001/CVE-2024-21400-POC)",
+      "description": "CVE-2024-21400 is a privilege escalation vulnerability that rates a CVSS score of 9.0.",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:01:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-21334",
+      "repo_info": "[bigbozzez/CVE-2024-21334-POC](https://github.com/bigbozzez/CVE-2024-21334-POC)",
+      "description": "CVE-2024-21334 POC Open Management Infrastructure (OMI) Remote Code Execution (RCE) Vulnerability",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:33:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-21334",
+      "repo_info": "[tmcve/CVE-2024-TEST](https://github.com/tmcve/CVE-2024-TEST)",
+      "description": "aaa",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T16:16:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-48788",
+      "repo_info": "[CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj](https://github.com/CVETechnologic/CVE-2023-48788-Proof-of-concept-SQLinj)",
+      "description": "New exploit for Fortinet&#x27;s [CVE-2023-48788] to SQL injection in HTTP reqs.",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T13:24:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-20048",
+      "repo_info": "[Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Makaroshi/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:51:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-20048",
+      "repo_info": "[Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Makaroshi/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:51:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-20048",
+      "repo_info": "[Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Makaroshi/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:51:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-20048",
+      "repo_info": "[Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/Makaroshi/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T14:51:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-38647",
+      "repo_info": "[corelight/CVE-2021-38647-noimages](https://github.com/corelight/CVE-2021-38647-noimages)",
+      "description": "no description",
+      "date": "2024-03-13",
+      "raw_date": "2024-03-13T20:05:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.631784",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-03-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

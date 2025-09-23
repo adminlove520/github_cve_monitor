@@ -1,0 +1,34 @@
+{
+  "date": "2014-04-13",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[xlucas/heartbleed](https://github.com/xlucas/heartbleed)",
+      "description": "A research tool designed to check for OpenSSL CVE-2014-0160 vulnerability",
+      "date": "2014-04-13",
+      "raw_date": "2014-04-13T19:18:32Z"
+    },
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[GeeksXtreme/ssl-heartbleed.nse](https://github.com/GeeksXtreme/ssl-heartbleed.nse)",
+      "description": "Nmap NSE script that discovers/exploits Heartbleed/CVE-2014-0160.",
+      "date": "2014-04-13",
+      "raw_date": "2014-04-13T12:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[idkqh7/heatbleeding](https://github.com/idkqh7/heatbleeding)",
+      "description": "Test script for test 1Password database for SSL Hea(r)t Bleeding (CVE-2014-0160)",
+      "date": "2014-04-13",
+      "raw_date": "2014-04-13T05:52:43Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.299091",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2014-04-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2024-10-11",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9821",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9821](https://github.com/RandomRobbieBF/CVE-2024-9821)",
+      "description": "Bot for Telegram on WooCommerce &lt;= 1.2.4 - Authenticated (Subscriber+) Telegram Bot Token Disclosure to Authentication Bypass",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T15:35:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-9707",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9707](https://github.com/RandomRobbieBF/CVE-2024-9707)",
+      "description": "Hunk Companion &lt;= 1.8.4 - Missing Authorization to Unauthenticated Arbitrary Plugin Installation/Activation",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T06:21:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-9570",
+      "repo_info": "[dylvie/CVE-2024-9570_D-Link-DIR-619L-bof](https://github.com/dylvie/CVE-2024-9570_D-Link-DIR-619L-bof)",
+      "description": "Exploit for CVE-2024-9570",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T16:05:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-9224",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9224](https://github.com/RandomRobbieBF/CVE-2024-9224)",
+      "description": "Hello World &lt;= 2.1.1 - Authenticated (Subscriber+) Arbitrary File Read",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T09:17:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-7514",
+      "repo_info": "[RandomRobbieBF/CVE-2024-7514](https://github.com/RandomRobbieBF/CVE-2024-7514)",
+      "description": "WordPress Comments Import &amp; Export &lt;= 2.3.7 - Authenticated (Author+) Arbitrary File Read via Directory Traversal",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T10:43:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-7135",
+      "repo_info": "[RandomRobbieBF/CVE-2024-7135](https://github.com/RandomRobbieBF/CVE-2024-7135)",
+      "description": "Tainacan &lt;= 0.21.7 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Read",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T10:56:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-5932",
+      "repo_info": "[OxLmahdi/cve-2024-5932](https://github.com/OxLmahdi/cve-2024-5932)",
+      "description": "no description",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T08:12:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-46901",
+      "repo_info": "[devhaozi/CVE-2024-46901](https://github.com/devhaozi/CVE-2024-46901)",
+      "description": "Subversion CVE-2024-46901 PoC",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T13:28:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[CheckCve2/CVE-2024-23113](https://github.com/CheckCve2/CVE-2024-23113)",
+      "description": "test_private_CVE",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T15:16:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[OxLmahdi/cve-2024-23113](https://github.com/OxLmahdi/cve-2024-23113)",
+      "description": "no description",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T08:13:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-3824",
+      "repo_info": "[baesh3r/poc-CVE-2023-3824](https://github.com/baesh3r/poc-CVE-2023-3824)",
+      "description": "CVE-2023-3824 PoC",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T10:53:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[functionofpwnosec/CVE-2023-36845](https://github.com/functionofpwnosec/CVE-2023-36845)",
+      "description": "Juniper Networks POC Understanding CVE-2023–36845 Remote Code Execution Exploit and Protection",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T18:18:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-22098",
+      "repo_info": "[Diego-AltF4/CVE-2023-22098](https://github.com/Diego-AltF4/CVE-2023-22098)",
+      "description": "Oracle VM VirtualBox 7.0.10 r158379 Escape",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T02:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-1329",
+      "repo_info": "[AgustinESI/CVE-2022-1329](https://github.com/AgustinESI/CVE-2022-1329)",
+      "description": "no description",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T16:57:20Z"
+    },
+    {
+      "cve_id": "CVE-2014-91371",
+      "repo_info": "[jamaal001/CVE-2014-91371-Wordpress-](https://github.com/jamaal001/CVE-2014-91371-Wordpress-)",
+      "description": "no description",
+      "date": "2024-10-11",
+      "raw_date": "2024-10-11T15:29:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.826947",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

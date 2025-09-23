@@ -1,0 +1,62 @@
+{
+  "date": "2024-09-22",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9080",
+      "repo_info": "[nothe1senberg/CVE-2024-9080](https://github.com/nothe1senberg/CVE-2024-9080)",
+      "description": "no description",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T15:34:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-9079",
+      "repo_info": "[maybeheisenberg/CVE-2024-9079](https://github.com/maybeheisenberg/CVE-2024-9079)",
+      "description": "no description",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T15:43:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-8504",
+      "repo_info": "[havokzero/ViciDial](https://github.com/havokzero/ViciDial)",
+      "description": "CVE-2024-8504",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T20:17:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-6646",
+      "repo_info": "[inviewp/CVE-2024-6646](https://github.com/inviewp/CVE-2024-6646)",
+      "description": "no description",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T05:07:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-46986",
+      "repo_info": "[vidura2/CVE-2024-46986](https://github.com/vidura2/CVE-2024-46986)",
+      "description": "no description",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T14:27:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-46451",
+      "repo_info": "[vidura2/CVE-2024-46451](https://github.com/vidura2/CVE-2024-46451)",
+      "description": "no description",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T14:47:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[btar1gan/exploit_CVE-2023-27163](https://github.com/btar1gan/exploit_CVE-2023-27163)",
+      "description": "no description",
+      "date": "2024-09-22",
+      "raw_date": "2024-09-22T03:33:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.812115",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-09-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

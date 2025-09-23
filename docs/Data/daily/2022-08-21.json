@@ -1,0 +1,34 @@
+{
+  "date": "2022-08-21",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-36446",
+      "repo_info": "[monzaviman/CVE_2022_36446](https://github.com/monzaviman/CVE_2022_36446)",
+      "description": "This is a script for version detection of Webmin remote server interface.",
+      "date": "2022-08-21",
+      "raw_date": "2022-08-21T10:35:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-43811",
+      "repo_info": "[s-index/CVE-2021-43811](https://github.com/s-index/CVE-2021-43811)",
+      "description": "awslabs/sockeye Code injection via unsafe YAML loading CVE-2021-43811",
+      "date": "2022-08-21",
+      "raw_date": "2022-08-21T08:44:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[YounesTasra-R4z3rSw0rd/CVE-2020-1938](https://github.com/YounesTasra-R4z3rSw0rd/CVE-2020-1938)",
+      "description": "This is a modified version of the original GhostCat Exploit",
+      "date": "2022-08-21",
+      "raw_date": "2022-08-21T15:44:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.851735",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-08-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

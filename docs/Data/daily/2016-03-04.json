@@ -1,0 +1,20 @@
+{
+  "date": "2016-03-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-0568",
+      "repo_info": "[betalphafai/CVE-2015-0568](https://github.com/betalphafai/CVE-2015-0568)",
+      "description": "exploit for CVE-2015-0568",
+      "date": "2016-03-04",
+      "raw_date": "2016-03-04T10:00:46Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.408330",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-03-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2020-08-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[cd6629/CVE-2012-2982-Python-PoC](https://github.com/cd6629/CVE-2012-2982-Python-PoC)",
+      "description": "This was converted from a metasploit module as an exercise for OSCP studying",
+      "date": "2020-08-05",
+      "raw_date": "2020-08-05T02:54:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.011546",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-08-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

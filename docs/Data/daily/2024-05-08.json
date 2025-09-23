@@ -1,0 +1,62 @@
+{
+  "date": "2024-05-08",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3867",
+      "repo_info": "[c4cnm/CVE-2024-3867](https://github.com/c4cnm/CVE-2024-3867)",
+      "description": "This repository shows u some information on this vulnerability, which were found by me.",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T06:19:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-26517",
+      "repo_info": "[unrealjbr/CVE-2024-26517](https://github.com/unrealjbr/CVE-2024-26517)",
+      "description": "CVE-2024-26517",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T20:32:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-26517",
+      "repo_info": "[momo1239/cve-2024-xxxx](https://github.com/momo1239/cve-2024-xxxx)",
+      "description": "no description",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T17:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[mil4ne/CVE-2024-23897-Jenkins-4.441](https://github.com/mil4ne/CVE-2024-23897-Jenkins-4.441)",
+      "description": "no description",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T02:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-44569",
+      "repo_info": "[rweijnen/ivanti-automationmanager-exploit](https://github.com/rweijnen/ivanti-automationmanager-exploit)",
+      "description": "Exploit for Ivanti Automation Manager CVE-2022-44569",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T13:00:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[jrbH4CK/CVE-2022-22963](https://github.com/jrbH4CK/CVE-2022-22963)",
+      "description": "no description",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T04:25:29Z"
+    },
+    {
+      "cve_id": "CVE-2020-0665",
+      "repo_info": "[otterpwn/SIDplusplus](https://github.com/otterpwn/SIDplusplus)",
+      "description": "A C++ version of the Frida Intercept Python script used for CVE-2020-0665.",
+      "date": "2024-05-08",
+      "raw_date": "2024-05-08T18:20:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.687663",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

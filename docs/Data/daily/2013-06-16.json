@@ -1,0 +1,27 @@
+{
+  "date": "2013-06-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2094",
+      "repo_info": "[Pashkela/CVE-2013-2094](https://github.com/Pashkela/CVE-2013-2094)",
+      "description": "CVE-2013-2094 Linux 2.6.32/2.6.37 - 3.8.10 PERF_EVENTS local root x86/x86_64",
+      "date": "2013-06-16",
+      "raw_date": "2013-06-16T11:53:36Z"
+    },
+    {
+      "cve_id": "CVE-2011-1485",
+      "repo_info": "[Pashkela/CVE-2011-1485](https://github.com/Pashkela/CVE-2011-1485)",
+      "description": "CVE-2011-1485 - Published: 2011-04-01 - PolicyKit:",
+      "date": "2013-06-16",
+      "raw_date": "2013-06-16T12:11:36Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.280946",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2013-06-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2020-03-12",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-19587",
+      "repo_info": "[awareseven/eternalghosttest](https://github.com/awareseven/eternalghosttest)",
+      "description": "This repository contains a test case for CVE-2020-0796",
+      "date": "2020-03-12",
+      "raw_date": "2020-03-12T09:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[eerykitty/CVE-2020-0796-PoC](https://github.com/eerykitty/CVE-2020-0796-PoC)",
+      "description": "PoC for triggering buffer overflow via CVE-2020-0796",
+      "date": "2020-03-12",
+      "raw_date": "2020-03-12T18:34:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[Maskhe/rmi_cve20173241](https://github.com/Maskhe/rmi_cve20173241)",
+      "description": "no description",
+      "date": "2020-03-12",
+      "raw_date": "2020-03-12T10:37:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.926652",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-03-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

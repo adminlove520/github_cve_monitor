@@ -1,0 +1,132 @@
+{
+  "date": "2025-03-10",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-27893",
+      "repo_info": "[NastyCrow/CVE-2025-27893](https://github.com/NastyCrow/CVE-2025-27893)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T17:53:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-25340",
+      "repo_info": "[l00neyhacker/CVE-2025-25340](https://github.com/l00neyhacker/CVE-2025-25340)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T22:05:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-25339",
+      "repo_info": "[l00neyhacker/CVE-2025-25339](https://github.com/l00neyhacker/CVE-2025-25339)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T22:04:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-25338",
+      "repo_info": "[l00neyhacker/CVE-2025-25338](https://github.com/l00neyhacker/CVE-2025-25338)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T22:03:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-25337",
+      "repo_info": "[l00neyhacker/CVE-2025-25337](https://github.com/l00neyhacker/CVE-2025-25337)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T22:02:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-25335",
+      "repo_info": "[l00neyhacker/CVE-2025-25335](https://github.com/l00neyhacker/CVE-2025-25335)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T22:01:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-21293",
+      "repo_info": "[ahmedumarehman/CVE-2025-21293](https://github.com/ahmedumarehman/CVE-2025-21293)",
+      "description": "CVE-2025-21293 is an elevation of privilege vulnerability in Active Directory Domain Services. It allows &quot;Network Configuration Operators&quot; to execute code with SYSTEM privileges via Windows Performance Counters. Affected Windows versions include Windows 10, 11, and Server. Microsoft patched this in January 2025. Apply updates to mitigate risks.",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T20:58:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-0282",
+      "repo_info": "[punitdarji/Ivanti-CVE-2025-0282](https://github.com/punitdarji/Ivanti-CVE-2025-0282)",
+      "description": "Ivanti Remote code execution",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T21:33:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-9474",
+      "repo_info": "[optimistickn/CVE-2024-9474](https://github.com/optimistickn/CVE-2024-9474)",
+      "description": "PAN-OS auth bypass + RCE",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T10:58:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[unkemptpanc/CVE-2024-50379](https://github.com/unkemptpanc/CVE-2024-50379)",
+      "description": "tomcat CVE-2024-50379/CVE-2024-56337 条件竞争文件上传exp",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T16:44:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-0402",
+      "repo_info": "[doyensec/malicious-devfile-registry](https://github.com/doyensec/malicious-devfile-registry)",
+      "description": "Exploit for CVE-2024-0402 in Gitlab",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T23:08:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-37635",
+      "repo_info": "[USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/USDTC/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T20:10:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-](https://github.com/Sornphut/CVE-2021-3156-Heap-Based-Buffer-Overflow-in-Sudo-Baron-Samedit-)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T23:30:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-1675",
+      "repo_info": "[Sp4ceDogy/NPE-CS-V-CVE-2021-1675](https://github.com/Sp4ceDogy/NPE-CS-V-CVE-2021-1675)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T19:40:36Z"
+    },
+    {
+      "cve_id": "CVE-2021-1675",
+      "repo_info": "[surprisedmo/log4shell-tools](https://github.com/surprisedmo/log4shell-tools)",
+      "description": "Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046 cve-2021-44228, cve-2021-45046, dns, jndi, ldap, log4j, log4shell",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T19:19:14Z"
+    },
+    {
+      "cve_id": "CVE-2018-6389",
+      "repo_info": "[NemesisCyberForce/WordPress-CVE-2018-6389](https://github.com/NemesisCyberForce/WordPress-CVE-2018-6389)",
+      "description": "no description",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T09:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-1182",
+      "repo_info": "[Morfeen01/cve-2017-1182-TN](https://github.com/Morfeen01/cve-2017-1182-TN)",
+      "description": "Malware Analysis Testing",
+      "date": "2025-03-10",
+      "raw_date": "2025-03-10T08:41:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.950506",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-03-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

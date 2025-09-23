@@ -1,0 +1,41 @@
+{
+  "date": "2025-05-04",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-49138",
+      "repo_info": "[Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected](https://github.com/Glitch-ao/SOC335-CVE-2024-49138-Exploitation-Detected)",
+      "description": "no description",
+      "date": "2025-05-04",
+      "raw_date": "2025-05-04T19:05:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[cochaviz/cve-2024-36401-poc](https://github.com/cochaviz/cve-2024-36401-poc)",
+      "description": "A poc for cve-2024-36401 for applications using GeoTools for WMS data retrieval",
+      "date": "2025-05-04",
+      "raw_date": "2025-05-04T12:15:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[CCIEVoice2009/CVE-2023-46604](https://github.com/CCIEVoice2009/CVE-2023-46604)",
+      "description": "no description",
+      "date": "2025-05-04",
+      "raw_date": "2025-05-04T14:42:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-1931",
+      "repo_info": "[FakeShell/CVE-2021-1931-BBRY-KEY2](https://github.com/FakeShell/CVE-2021-1931-BBRY-KEY2)",
+      "description": "proof of concept CVE-2021-1931 exploit for the blackberry key2 (le) that allows to flash unsigned images temporarily",
+      "date": "2025-05-04",
+      "raw_date": "2025-05-04T14:04:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.001426",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2025-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

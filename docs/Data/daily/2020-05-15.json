@@ -1,0 +1,48 @@
+{
+  "date": "2020-05-15",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-12800",
+      "repo_info": "[amartinsec/CVE-2020-12800](https://github.com/amartinsec/CVE-2020-12800)",
+      "description": "POC Script for CVE-2020-12800: RCE through Unrestricted File Type Upload",
+      "date": "2020-05-15",
+      "raw_date": "2020-05-15T01:50:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-10199",
+      "repo_info": "[aleenzz/CVE-2020-10199](https://github.com/aleenzz/CVE-2020-10199)",
+      "description": "CVE-2020-10199 回显版本",
+      "date": "2020-05-15",
+      "raw_date": "2020-05-15T06:12:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-1759",
+      "repo_info": "[r3m0t3nu11/CVE-2019-1759-csrf-js-rce](https://github.com/r3m0t3nu11/CVE-2019-1759-csrf-js-rce)",
+      "description": "Bolt-cms 3.6.10 Csrf -&gt; xss -&gt; rce",
+      "date": "2020-05-15",
+      "raw_date": "2020-05-15T10:54:20Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[JoSecMx/CVE-2018-10933_Scanner](https://github.com/JoSecMx/CVE-2018-10933_Scanner)",
+      "description": "CVE-2018-10933_Scanner",
+      "date": "2020-05-15",
+      "raw_date": "2020-05-15T17:18:31Z"
+    },
+    {
+      "cve_id": "CVE-2015-3306",
+      "repo_info": "[cdedmondson/Modified-CVE-2015-3306-Exploit](https://github.com/cdedmondson/Modified-CVE-2015-3306-Exploit)",
+      "description": "no description",
+      "date": "2020-05-15",
+      "raw_date": "2020-05-15T17:44:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.963698",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2020-05-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

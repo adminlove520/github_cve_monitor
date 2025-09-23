@@ -1,0 +1,55 @@
+{
+  "date": "2021-11-13",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-24030",
+      "repo_info": "[redteambrasil/CVE-2020-24030](https://github.com/redteambrasil/CVE-2020-24030)",
+      "description": "no description",
+      "date": "2021-11-13",
+      "raw_date": "2021-11-13T20:42:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-24029",
+      "repo_info": "[redteambrasil/CVE-2020-24029](https://github.com/redteambrasil/CVE-2020-24029)",
+      "description": "no description",
+      "date": "2021-11-13",
+      "raw_date": "2021-11-13T20:39:59Z"
+    },
+    {
+      "cve_id": "CVE-2020-24028",
+      "repo_info": "[redteambrasil/CVE-2020-24028](https://github.com/redteambrasil/CVE-2020-24028)",
+      "description": "no description",
+      "date": "2021-11-13",
+      "raw_date": "2021-11-13T20:37:12Z"
+    },
+    {
+      "cve_id": "CVE-2019-5736",
+      "repo_info": "[AjayMT6/UltramanGaia](https://github.com/AjayMT6/UltramanGaia)",
+      "description": "A login bypass(CVE-2019-18371) and a command injection vulnerability(CVE-2019-18370) in Xiaomi Router R3G up to versi…",
+      "date": "2021-11-13",
+      "raw_date": "2021-11-13T12:51:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-19550",
+      "repo_info": "[redteambrasil/CVE-2019-19550](https://github.com/redteambrasil/CVE-2019-19550)",
+      "description": "no description",
+      "date": "2021-11-13",
+      "raw_date": "2021-11-13T20:32:49Z"
+    },
+    {
+      "cve_id": "CVE-2006-3392",
+      "repo_info": "[gb21oc/ExploitWebmin](https://github.com/gb21oc/ExploitWebmin)",
+      "description": "Python script to exploit webmin vulnerability cve-2006-3392",
+      "date": "2021-11-13",
+      "raw_date": "2021-11-13T18:40:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.602354",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-11-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

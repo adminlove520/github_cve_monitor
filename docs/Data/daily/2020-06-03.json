@@ -1,0 +1,27 @@
+{
+  "date": "2020-06-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[ynots0ups/CVE-2019-16113](https://github.com/ynots0ups/CVE-2019-16113)",
+      "description": "no description",
+      "date": "2020-06-03",
+      "raw_date": "2020-06-03T15:49:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-10149",
+      "repo_info": "[cloudflare/exim-cve-2019-10149-data](https://github.com/cloudflare/exim-cve-2019-10149-data)",
+      "description": "Data Collection Related to Exim CVE-2019-10149",
+      "date": "2020-06-03",
+      "raw_date": "2020-06-03T02:27:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.978122",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-06-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

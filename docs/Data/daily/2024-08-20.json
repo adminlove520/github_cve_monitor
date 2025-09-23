@@ -1,0 +1,97 @@
+{
+  "date": "2024-08-20",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7928",
+      "repo_info": "[bigb0x/CVE-2024-7928](https://github.com/bigb0x/CVE-2024-7928)",
+      "description": "Will attempt to retrieve DB details for FastAdmin instances",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T03:09:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-7928",
+      "repo_info": "[fa-rrel/CVE-2024-7928](https://github.com/fa-rrel/CVE-2024-7928)",
+      "description": "CVE-2024-7928 fastadmin vulnerability POC &amp; Scanning",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T12:15:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[almogopp/OpenSSH-CVE-2024-6387-Fix](https://github.com/almogopp/OpenSSH-CVE-2024-6387-Fix)",
+      "description": "A Bash script to mitigate the CVE-2024-6387 vulnerability in OpenSSH by providing an option to upgrade to a secure version or apply a temporary workaround. This repository helps secure systems against potential remote code execution risks associated with affected OpenSSH versions.",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T09:57:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[fa-rrel/CVE-2024-4577-RCE](https://github.com/fa-rrel/CVE-2024-4577-RCE)",
+      "description": "PHP CGI Argument Injection (CVE-2024-4577) RCE",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T02:56:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-38189",
+      "repo_info": "[vx7z/CVE-2024-38189](https://github.com/vx7z/CVE-2024-38189)",
+      "description": "no description",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T12:41:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[almogopp/Disable-IPv6-CVE-2024-38063-Fix](https://github.com/almogopp/Disable-IPv6-CVE-2024-38063-Fix)",
+      "description": "A PowerShell script to temporarily mitigate the CVE-2024-38063 vulnerability by disabling IPv6 on Windows systems. This workaround modifies the registry to reduce the risk of exploitation without needing the immediate installation of the official Microsoft KB update. Intended as a temporary fix",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T08:48:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-33896",
+      "repo_info": "[codeb0ss/CVE-2024-33896-PoC](https://github.com/codeb0ss/CVE-2024-33896-PoC)",
+      "description": "Proof of concept CVE-2024-33896",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T13:49:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[wh6amiGit/CVE-2024-25600](https://github.com/wh6amiGit/CVE-2024-25600)",
+      "description": "Unauthenticated Remote Code Execution – Bricks",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T12:18:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-22120",
+      "repo_info": "[Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally](https://github.com/Akshath-Nagulapally/ReproducingCVEs_Akshath_Nagulapally)",
+      "description": "Reproducing the following CVEs with dockerfile:CVE-2024-33644 CVE-2024-34370 CVE-2024-22120",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T21:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[Featherw1t/CVE-2023-51385_test](https://github.com/Featherw1t/CVE-2023-51385_test)",
+      "description": "no description",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T02:25:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-29384",
+      "repo_info": "[nastar-id/CVE-2023-29384](https://github.com/nastar-id/CVE-2023-29384)",
+      "description": "CVE-2023-29384 Auto Exploiter on WordPress Job Board and Recruitment Plugin",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T14:43:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[WHtig3r/CVE-2020-1938](https://github.com/WHtig3r/CVE-2020-1938)",
+      "description": "no description",
+      "date": "2024-08-20",
+      "raw_date": "2024-08-20T12:51:06Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.785935",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-08-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

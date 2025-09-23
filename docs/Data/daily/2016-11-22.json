@@ -1,0 +1,20 @@
+{
+  "date": "2016-11-22",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-7434",
+      "repo_info": "[opsxcq/exploit-CVE-2016-7434](https://github.com/opsxcq/exploit-CVE-2016-7434)",
+      "description": "NTPD remote DOS exploit and vulnerable container",
+      "date": "2016-11-22",
+      "raw_date": "2016-11-22T19:42:17Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.461842",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-11-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

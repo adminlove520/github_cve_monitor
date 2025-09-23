@@ -1,0 +1,20 @@
+{
+  "date": "2020-06-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[cybervaca/CVE-2019-16113](https://github.com/cybervaca/CVE-2019-16113)",
+      "description": "CVE-2019-16113  - bludit &gt;= 3.9.2 RCE authenticate",
+      "date": "2020-06-04",
+      "raw_date": "2020-06-04T16:06:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.979362",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-06-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

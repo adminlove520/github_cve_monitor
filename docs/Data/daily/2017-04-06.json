@@ -1,0 +1,20 @@
+{
+  "date": "2017-04-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0541",
+      "repo_info": "[slimpagey/IIS_6.0_WebDAV_Ruby](https://github.com/slimpagey/IIS_6.0_WebDAV_Ruby)",
+      "description": "Ruby Exploit for IIS 6.0 Buffer Overflow (CVE-2017-7269)",
+      "date": "2017-04-06",
+      "raw_date": "2017-04-06T13:27:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.501165",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-04-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

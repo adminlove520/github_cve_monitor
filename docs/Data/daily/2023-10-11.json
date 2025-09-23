@@ -1,0 +1,111 @@
+{
+  "date": "2023-10-11",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5521",
+      "repo_info": "[Ylarod/CVE-2023-5521](https://github.com/Ylarod/CVE-2023-5521)",
+      "description": "Root takeover via signature spoofing in KernelSU",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T12:08:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-5217",
+      "repo_info": "[Boogipop/MetabaseRceTools](https://github.com/Boogipop/MetabaseRceTools)",
+      "description": "CVE-2023-38646 Metabase RCE",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T03:18:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-4911",
+      "repo_info": "[ruycr4ft/CVE-2023-4911](https://github.com/ruycr4ft/CVE-2023-4911)",
+      "description": "CVE-2023-4911",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T14:49:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-44487",
+      "repo_info": "[imabee101/CVE-2023-44487](https://github.com/imabee101/CVE-2023-44487)",
+      "description": "Proof of concept for DoS exploit",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T01:59:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-43148",
+      "repo_info": "[MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)",
+      "description": "CVE-2023-43148",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T18:55:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-42820",
+      "repo_info": "[Startr4ck/cve-2023-42820](https://github.com/Startr4ck/cve-2023-42820)",
+      "description": "JumpServer",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T03:15:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[nickswink/CVE-2023-38646](https://github.com/nickswink/CVE-2023-38646)",
+      "description": "CVE-2023-38646 Unauthenticated RCE vulnerability in Metabase",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T20:17:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[SUT0L/CVE-2023-38646](https://github.com/SUT0L/CVE-2023-38646)",
+      "description": "CVE-2023-38646 Metabase 0.46.6 exploit",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T15:18:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-38545",
+      "repo_info": "[UTsweetyfish/CVE-2023-38545](https://github.com/UTsweetyfish/CVE-2023-38545)",
+      "description": "Simple PoC causing overflow",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T08:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-22855",
+      "repo_info": "[vianic/CVE-2023-22855](https://github.com/vianic/CVE-2023-22855)",
+      "description": "Security Vulnerability - Kardex Mlog MCC",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T14:27:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[kh4sh3i/CVE-2023-22515](https://github.com/kh4sh3i/CVE-2023-22515)",
+      "description": "CVE-2023-22515 - Broken Access Control Vulnerability in Confluence Data Center and Server",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T11:21:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[ad-calcium/CVE-2023-22515](https://github.com/ad-calcium/CVE-2023-22515)",
+      "description": "Confluence未授权添加管理员用户(CVE-2023-22515)漏洞利用工具",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T08:42:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-2215",
+      "repo_info": "[zwxxb/CVE-2023-2215](https://github.com/zwxxb/CVE-2023-2215)",
+      "description": "PoC For CVE-2023-2215 - Auth bypass",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T10:16:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-21551",
+      "repo_info": "[shaygitub/CVE-2021-21551](https://github.com/shaygitub/CVE-2021-21551)",
+      "description": "This example is inspired by https://www.mitchellzakocs.com/blog/dbutil#exploitation-and-proof-of-concept and used in my windows rootkit. an exploit that lets me free use of reading/write from/to any virtual/physical memory address in any size i want.",
+      "date": "2023-10-11",
+      "raw_date": "2023-10-11T17:22:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.300341",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2023-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

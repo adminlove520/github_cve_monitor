@@ -1,0 +1,41 @@
+{
+  "date": "2017-08-12",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[Xhendos/CVE-2017-5638](https://github.com/Xhendos/CVE-2017-5638)",
+      "description": "no description",
+      "date": "2017-08-12",
+      "raw_date": "2017-08-12T23:00:14Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[thelastbyte/CVE-2017-1000117](https://github.com/thelastbyte/CVE-2017-1000117)",
+      "description": "no description",
+      "date": "2017-08-12",
+      "raw_date": "2017-08-12T01:10:49Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[VulApps/CVE-2017-1000117](https://github.com/VulApps/CVE-2017-1000117)",
+      "description": "no description",
+      "date": "2017-08-12",
+      "raw_date": "2017-08-12T18:20:02Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[alilangtest/CVE-2017-1000117](https://github.com/alilangtest/CVE-2017-1000117)",
+      "description": "test",
+      "date": "2017-08-12",
+      "raw_date": "2017-08-12T14:14:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.541881",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-08-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

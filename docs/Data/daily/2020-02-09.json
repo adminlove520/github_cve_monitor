@@ -1,0 +1,27 @@
+{
+  "date": "2020-02-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[CMNatic/Dockerized-CVE-2019-14287](https://github.com/CMNatic/Dockerized-CVE-2019-14287)",
+      "description": "Containerized and deployable use of the CVE-2019-14287 vuln. View README.md for more.",
+      "date": "2020-02-09",
+      "raw_date": "2020-02-09T21:05:20Z"
+    },
+    {
+      "cve_id": "CVE-2017-8529",
+      "repo_info": "[sfitpro/cve-2017-8529](https://github.com/sfitpro/cve-2017-8529)",
+      "description": "My CVE-2017-8529 files",
+      "date": "2020-02-09",
+      "raw_date": "2020-02-09T05:46:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.904956",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-02-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "date": "2024-01-25",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[forsaken0127/CVE-2024-23897](https://github.com/forsaken0127/CVE-2024-23897)",
+      "description": "CVE-2024-23897 (CVSS 9.8): Critical Jenkins Security Vulnerability, RCE POC",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T08:37:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-23745",
+      "repo_info": "[louiselalanne/CVE-2024-23745](https://github.com/louiselalanne/CVE-2024-23745)",
+      "description": "In Notion Web Clipper 1.0.3(7), a .nib file is susceptible to the Dirty NIB attack.",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T21:20:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-23742",
+      "repo_info": "[V3x0r/CVE-2024-23742](https://github.com/V3x0r/CVE-2024-23742)",
+      "description": "CVE-2024-23742",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T13:52:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-23741",
+      "repo_info": "[V3x0r/CVE-2024-23741](https://github.com/V3x0r/CVE-2024-23741)",
+      "description": "CVE-2024-23741",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T13:49:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-23740",
+      "repo_info": "[V3x0r/CVE-2024-23740](https://github.com/V3x0r/CVE-2024-23740)",
+      "description": "CVE-2024-23739",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T13:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-23739",
+      "repo_info": "[V3x0r/CVE-2024-23739](https://github.com/V3x0r/CVE-2024-23739)",
+      "description": "CVE-2024-23739",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T13:44:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-23738",
+      "repo_info": "[V3x0r/CVE-2024-23738](https://github.com/V3x0r/CVE-2024-23738)",
+      "description": "CVE-2024-23738",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T13:27:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-22983",
+      "repo_info": "[keru6k/CVE-2024-22983](https://github.com/keru6k/CVE-2024-22983)",
+      "description": "An SQL injection Vulnerability in projectworlds&#x27; Visitor Management System",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T10:05:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-22939",
+      "repo_info": "[NUDTTAN91/CVE-2024-22939](https://github.com/NUDTTAN91/CVE-2024-22939)",
+      "description": "CVE-2024-22939",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T07:00:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-22922",
+      "repo_info": "[keru6k/CVE-2024-22922](https://github.com/keru6k/CVE-2024-22922)",
+      "description": "A Broken Authentication Vulnerability found in Projectworlds&#x27; Visitor Management System",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T11:14:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-22889",
+      "repo_info": "[shenhav12/CVE-2024-22889-Plone-v6.0.9](https://github.com/shenhav12/CVE-2024-22889-Plone-v6.0.9)",
+      "description": "no description",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T10:26:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-22534",
+      "repo_info": "[austino2000/CVE-2024-22534](https://github.com/austino2000/CVE-2024-22534)",
+      "description": "no description",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T18:57:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-0846",
+      "repo_info": "[0x9567b/CVE-2024-0846](https://github.com/0x9567b/CVE-2024-0846)",
+      "description": "WP Subscription Forms &lt;= 1.2.1 - Email Verification Bypass",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T15:29:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[Trackflaw/CVE-2023-7028-Docker](https://github.com/Trackflaw/CVE-2023-7028-Docker)",
+      "description": "Repository to install CVE-2023-7028 vulnerable Gitlab instance",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T09:56:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-46805",
+      "repo_info": "[w2xim3/CVE-2023-46805](https://github.com/w2xim3/CVE-2023-46805)",
+      "description": "CVE-2023-46805 Ivanti POC RCE - Ultra fast scanner.",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T14:53:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[adminlove520/CVE-2023-22527](https://github.com/adminlove520/CVE-2023-22527)",
+      "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T10:52:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[MaanVader/CVE-2023-22527-POC](https://github.com/MaanVader/CVE-2023-22527-POC)",
+      "description": "Atlassian Confluence Remote Code Execution(RCE) Proof Of Concept",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T05:32:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC](https://github.com/whoami-chmod777/Zerologon-Attack-CVE-2020-1472-POC)",
+      "description": "no description",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T22:11:57Z"
+    },
+    {
+      "cve_id": "CVE-2019-12840",
+      "repo_info": "[Pol-Ruiz/PoC-CVE-2019-12840](https://github.com/Pol-Ruiz/PoC-CVE-2019-12840)",
+      "description": "Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2019-12840 la qual te da un RCE en root",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T23:07:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-19410",
+      "repo_info": "[himash/CVE-2018-19410-POC](https://github.com/himash/CVE-2018-19410-POC)",
+      "description": "Proof of concept for the vulnerability CVE-2018-19410",
+      "date": "2024-01-25",
+      "raw_date": "2024-01-25T07:20:19Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.372717",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2024-01-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2024-11-09",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-51135",
+      "repo_info": "[JAckLosingHeart/CVE-2024-51135](https://github.com/JAckLosingHeart/CVE-2024-51135)",
+      "description": "no description",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T02:57:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-50488",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50488](https://github.com/RandomRobbieBF/CVE-2024-50488)",
+      "description": "Token Login &lt;= 1.0.3 - Authenticated (Subscriber+) Privilege Escalation",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T10:54:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-50473",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50473](https://github.com/RandomRobbieBF/CVE-2024-50473)",
+      "description": "Ajar in5 Embed &lt;= 3.1.3 - Unauthenticated Arbitrary File Upload",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T07:46:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-49681",
+      "repo_info": "[RandomRobbieBF/CVE-2024-49681](https://github.com/RandomRobbieBF/CVE-2024-49681)",
+      "description": "WP Sessions Time Monitoring Full Automatic &lt;= 1.0.9 - Unauthenticated SQL Injection",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T15:24:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-48322",
+      "repo_info": "[trqt/CVE-2024-48322](https://github.com/trqt/CVE-2024-48322)",
+      "description": "no description",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T13:52:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-44133",
+      "repo_info": "[Ununp3ntium115/prevent_cve_2024_44133](https://github.com/Ununp3ntium115/prevent_cve_2024_44133)",
+      "description": "prevent_cve_2024_44133",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T21:30:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-23334",
+      "repo_info": "[Arc4he/CVE-2024-23334-PoC](https://github.com/Arc4he/CVE-2024-23334-PoC)",
+      "description": "Proof of concept of the parh traversal in python AioHTTP library =&lt; 3.9.1",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T13:59:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-10914",
+      "repo_info": "[imnotcha0s/CVE-2024-10914](https://github.com/imnotcha0s/CVE-2024-10914)",
+      "description": "Exploit for cve-2024-10914: D-Link DNS-320, DNS-320LW, DNS-325, DNS-340L Version 1.00, Version 1.01.0914.2012, Version 1.01, Version 1.02, Version 1.08 Command Injection",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T19:30:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-10008",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10008](https://github.com/RandomRobbieBF/CVE-2024-10008)",
+      "description": "Masteriyo LMS – eLearning and Online Course Builder for WordPress &lt;= 1.13.3 - Authenticated (Student+) Missing Authorization to Privilege Escalation",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T16:48:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-25813",
+      "repo_info": "[sea-middle/cve-2023-25813](https://github.com/sea-middle/cve-2023-25813)",
+      "description": "no description",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T12:57:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-20837",
+      "repo_info": "[lamcodeofpwnosec/CVE-2021-20837](https://github.com/lamcodeofpwnosec/CVE-2021-20837)",
+      "description": "XMLRPC RCE via MovableTypePoC CVE-2021-20837",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T11:43:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-1235",
+      "repo_info": "[11k4r/CVE-2017-1235_exploit](https://github.com/11k4r/CVE-2017-1235_exploit)",
+      "description": "no description",
+      "date": "2024-11-09",
+      "raw_date": "2024-11-09T17:19:17Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.850679",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-11-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

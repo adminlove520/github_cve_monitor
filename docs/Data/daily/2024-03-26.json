@@ -1,0 +1,83 @@
+{
+  "date": "2024-03-26",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-2865",
+      "repo_info": "[RobertSecurity/CVE-2024-2865-CRITICAL](https://github.com/RobertSecurity/CVE-2024-2865-CRITICAL)",
+      "description": "[CRITICAL] Mergen Software QMS Exploit SQL injection to RCE",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T08:20:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[S0SkiPlosK1/CVE-2024-21762-POC](https://github.com/S0SkiPlosK1/CVE-2024-21762-POC)",
+      "description": "CVE-2024-21762-POC replayse published",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T20:11:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-20767",
+      "repo_info": "[Chocapikk/CVE-2024-20767](https://github.com/Chocapikk/CVE-2024-20767)",
+      "description": "Exploit Toolkit for Adobe ColdFusion CVE-2024-20767 Vulnerability",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T19:17:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-20767",
+      "repo_info": "[yoryio/CVE-2024-20767](https://github.com/yoryio/CVE-2024-20767)",
+      "description": "Exploit for CVE-2024-20767 - Adobe ColdFusion",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T06:51:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-20767",
+      "repo_info": "[m-cetin/CVE-2024-20767](https://github.com/m-cetin/CVE-2024-20767)",
+      "description": "Proof of Concept for CVE-2024-20767. Arbitrary file read from Adobe ColdFusion",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T10:03:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-42931",
+      "repo_info": "[d0rb/CVE-2023-42931](https://github.com/d0rb/CVE-2023-42931)",
+      "description": "The exploit targets a critical privilege escalation vulnerability in macOS versions Monterey, Ventura, and Sonoma.",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T11:01:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[404fu/CVE-2022-26134-POC](https://github.com/404fu/CVE-2022-26134-POC)",
+      "description": "no description",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T14:18:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[KirkDJohnson/Wireshark](https://github.com/KirkDJohnson/Wireshark)",
+      "description": "Downloaded a packet capture (.pcapng) file from malware-traffic-analysis.net which was an example of an attempted attack against a webserver using the Log4J vulnerability (CVE-2021-44228). I examined teh amount of endpoints communicating with the server and knowing jnidi as a common in the vulnerbilty found it in clear text",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T18:47:20Z"
+    },
+    {
+      "cve_id": "CVE-2020-7961",
+      "repo_info": "[NMinhTrung/LIFERAY-CVE-2020-7961](https://github.com/NMinhTrung/LIFERAY-CVE-2020-7961)",
+      "description": "no description",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T07:55:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-12550",
+      "repo_info": "[itwizardo/CVE-2019-12550](https://github.com/itwizardo/CVE-2019-12550)",
+      "description": "Proof Of Concept",
+      "date": "2024-03-26",
+      "raw_date": "2024-03-26T10:44:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.642993",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-03-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

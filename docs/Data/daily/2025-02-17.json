@@ -1,0 +1,83 @@
+{
+  "date": "2025-02-17",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-21420",
+      "repo_info": "[Network-Sec/CVE-2025-21420-PoC](https://github.com/Network-Sec/CVE-2025-21420-PoC)",
+      "description": "We found a way to DLL sideload with cleanmgr.exe",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T08:59:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-0851",
+      "repo_info": "[skrkcb2/CVE-2025-0851](https://github.com/skrkcb2/CVE-2025-0851)",
+      "description": "no description",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T09:33:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-56477",
+      "repo_info": "[0xbughunter/CVE-2024-56477](https://github.com/0xbughunter/CVE-2024-56477)",
+      "description": "no description",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T14:31:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-43762",
+      "repo_info": "[Mahesh-970/CVE-2024-43762](https://github.com/Mahesh-970/CVE-2024-43762)",
+      "description": "no description",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T11:35:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[inpentest/CVE-2024-4367-PoC](https://github.com/inpentest/CVE-2024-4367-PoC)",
+      "description": "This Proof of Concept (PoC) demonstrates the exploitation of the CVE-2024-4367 vulnerability, which involves Cross-Site Scripting (XSS) attacks.",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T16:40:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[sariamubeen/CVE-2024-10924](https://github.com/sariamubeen/CVE-2024-10924)",
+      "description": "no description",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T01:52:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[sariamubeen/CVE-2023-7028](https://github.com/sariamubeen/CVE-2023-7028)",
+      "description": "no description",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T02:15:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-48795",
+      "repo_info": "[sameeralam3127/rhel8_cve_2023_48795](https://github.com/sameeralam3127/rhel8_cve_2023_48795)",
+      "description": "no description",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T17:48:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-44967",
+      "repo_info": "[godylockz/CVE-2021-44967](https://github.com/godylockz/CVE-2021-44967)",
+      "description": "POC for CVE-2021-44967: LimeSurvey RCE",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T04:55:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-](https://github.com/yadavmukesh/Log4Shell-vulnerability-CVE-2021-44228-)",
+      "description": "This repository provides an in-depth analysis of the Log4Shell vulnerability (CVE-2021-44228) and implements a machine learning-based approach to detect exploitation attempts in log data.",
+      "date": "2025-02-17",
+      "raw_date": "2025-02-17T07:03:36Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.930735",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-02-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

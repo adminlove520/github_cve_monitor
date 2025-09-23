@@ -1,0 +1,125 @@
+{
+  "date": "2024-06-03",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[Cappricio-Securities/CVE-2024-4956](https://github.com/Cappricio-Securities/CVE-2024-4956)",
+      "description": "Sonatype Nexus Repository Manager 3 (LFI)",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T02:49:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-4358",
+      "repo_info": "[sinsinology/CVE-2024-4358](https://github.com/sinsinology/CVE-2024-4358)",
+      "description": "Progress Telerik Report Server pre-authenticated RCE chain (CVE-2024-4358/CVE-2024-1800)",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T08:22:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-35315",
+      "repo_info": "[ewilded/CVE-2024-35315-POC](https://github.com/ewilded/CVE-2024-35315-POC)",
+      "description": "Mitel Collab Local Privilege Escalation CVE-2024-35315 PoC",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T14:29:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-32113",
+      "repo_info": "[Mr-xn/CVE-2024-32113](https://github.com/Mr-xn/CVE-2024-32113)",
+      "description": "Apache OFBIZ Path traversal leading to RCE POC",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T15:57:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-27348",
+      "repo_info": "[kljunowsky/CVE-2024-27348](https://github.com/kljunowsky/CVE-2024-27348)",
+      "description": "Apache HugeGraph Server Unauthenticated RCE - CVE-2024-27348 Proof of concept Exploit",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T19:08:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[GuayoyoCyber/CVE-2024-24919](https://github.com/GuayoyoCyber/CVE-2024-24919)",
+      "description": "Nmap script to check vulnerability CVE-2024-24919",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T18:17:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[exfil0/test_iconv](https://github.com/exfil0/test_iconv)",
+      "description": "This repository contains a C program to test for CVE-2024-2961, a buffer overflow vulnerability in the iconv() function of glibc.",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T23:53:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[Rug4lo/CVE-2024-24919-Exploit](https://github.com/Rug4lo/CVE-2024-24919-Exploit)",
+      "description": "CVE-2024-24919 Exploit and PoC - Critical LFI for Remote Access VPN or Mobile Access.",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T12:18:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[0nin0hanz0/CVE-2024-24919-PoC](https://github.com/0nin0hanz0/CVE-2024-24919-PoC)",
+      "description": "no description",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T13:30:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[birdlex/cve-2024-24919-checker](https://github.com/birdlex/cve-2024-24919-checker)",
+      "description": "no description",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T08:39:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-1086",
+      "repo_info": "[kevcooper/CVE-2024-1086-checker](https://github.com/kevcooper/CVE-2024-1086-checker)",
+      "description": "no description",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T22:04:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-0235",
+      "repo_info": "[Cappricio-Securities/CVE-2024-0235](https://github.com/Cappricio-Securities/CVE-2024-0235)",
+      "description": "EventON (Free &lt; 2.2.8, Premium &lt; 4.5.5) - Information Disclosure",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T14:21:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-51518",
+      "repo_info": "[mbadanoiu/CVE-2023-51518](https://github.com/mbadanoiu/CVE-2023-51518)",
+      "description": "CVE-2023-51518: Preauthenticated Java Deserialization via JMX in Apache James",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T19:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-37706",
+      "repo_info": "[junnythemarksman/CVE-2022-37706](https://github.com/junnythemarksman/CVE-2022-37706)",
+      "description": "Exploit created by nu11secur1ty (https://github.com/nu11secur1ty/CVE-mitre/tree/main/CVE-2022-37706)",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T01:17:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-36779",
+      "repo_info": "[EmadYaY/CVE-2022-36779](https://github.com/EmadYaY/CVE-2022-36779)",
+      "description": "exploit code",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T22:25:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-24112",
+      "repo_info": "[btar1gan/exploit_CVE-2022-24112](https://github.com/btar1gan/exploit_CVE-2022-24112)",
+      "description": "New exploit for Apache APISIX 2.12.1 - Remote Code Execution (RCE)",
+      "date": "2024-06-03",
+      "raw_date": "2024-06-03T17:33:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.715586",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2024-06-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

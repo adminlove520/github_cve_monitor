@@ -1,0 +1,167 @@
+{
+  "date": "2022-06-02",
+  "count": 22,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30910",
+      "repo_info": "[arozx/CVE-2022-30910](https://github.com/arozx/CVE-2022-30910)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T16:14:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[gamingwithevets/msdt-disable](https://github.com/gamingwithevets/msdt-disable)",
+      "description": "MSDT protocol disabler (CVE-2022-30190 patch tool)",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T02:47:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[AchocolatechipPancake/MS-MSDT-Office-RCE-Follina](https://github.com/AchocolatechipPancake/MS-MSDT-Office-RCE-Follina)",
+      "description": "CVE-2022-30190 - MS-MSDT Follina One Click",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T16:09:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[suegdu/CVE-2022-30190-Follina-Patch](https://github.com/suegdu/CVE-2022-30190-Follina-Patch)",
+      "description": "The CVE-2022-30190-follina Workarounds Patch",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T13:43:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[Kesinger57/CVE-2022-30190-mass-rce](https://github.com/Kesinger57/CVE-2022-30190-mass-rce)",
+      "description": "CVE-2022-30190 Zero click rce Mass Exploitation Tool with Multi threading capabilities",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T17:28:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[komomon/CVE-2022-30190-follina-Office-MSDT-Fixed](https://github.com/komomon/CVE-2022-30190-follina-Office-MSDT-Fixed)",
+      "description": "CVE-2022-30190-follina.py-修改版，可以自定义word模板，方便实战中钓鱼使用。",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T12:33:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[WesyHub/CVE-2022-30190---Follina---Poc-Exploit](https://github.com/WesyHub/CVE-2022-30190---Follina---Poc-Exploit)",
+      "description": "Simple Follina poc exploit",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T15:39:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[castlesmadeofsand/ms-msdt-vulnerability-pdq-package](https://github.com/castlesmadeofsand/ms-msdt-vulnerability-pdq-package)",
+      "description": "PDQ Package I created for CVE-2022-30190",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T15:33:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[ErrorNoInternet/FollinaScanner](https://github.com/ErrorNoInternet/FollinaScanner)",
+      "description": "A tool written in Go that scans files &amp; directories for the Follina exploit (CVE-2022-30190)",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T06:45:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[swaiist/CVE-2022-30190-Fix](https://github.com/swaiist/CVE-2022-30190-Fix)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T13:01:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[gyaansastra/CVE-2022-30190](https://github.com/gyaansastra/CVE-2022-30190)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T12:58:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[derco0n/mitigate-folina](https://github.com/derco0n/mitigate-folina)",
+      "description": "Mitigates the &quot;Folina&quot;-ZeroDay (CVE-2022-30190)",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T09:30:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[ITMarcin2211/CVE-2022-30190](https://github.com/ITMarcin2211/CVE-2022-30190)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T07:01:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-24644",
+      "repo_info": "[ThanhThuy2908/ATHDH_CVE_2022_24644](https://github.com/ThanhThuy2908/ATHDH_CVE_2022_24644)",
+      "description": "Bai cuoi ky CVE-2022-24644",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T07:32:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[trhacknon/CVE-2022-22954](https://github.com/trhacknon/CVE-2022-22954)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T01:44:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-35064",
+      "repo_info": "[trhacknon/CVE-2021-35064](https://github.com/trhacknon/CVE-2021-35064)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T03:07:40Z"
+    },
+    {
+      "cve_id": "CVE-2021-35064",
+      "repo_info": "[Chocapikk/CVE-2021-35064](https://github.com/Chocapikk/CVE-2021-35064)",
+      "description": "Python script to exploit CVE-2021-35064 and CVE-2021-36356",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T02:19:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-2551",
+      "repo_info": "[0xAbbarhSF/CVE-Exploit](https://github.com/0xAbbarhSF/CVE-Exploit)",
+      "description": "CVE-2020-2551 Exploiter",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T14:20:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-13935",
+      "repo_info": "[aabbcc19191/CVE-2020-13935](https://github.com/aabbcc19191/CVE-2020-13935)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T13:21:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[tjcim/cve-2018-6574](https://github.com/tjcim/cve-2018-6574)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T12:52:56Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[trhacknon/exploit-CVE-2014-6271](https://github.com/trhacknon/exploit-CVE-2014-6271)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T21:52:52Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[trhacknon/CVE-2014-6271](https://github.com/trhacknon/CVE-2014-6271)",
+      "description": "no description",
+      "date": "2022-06-02",
+      "raw_date": "2022-06-02T21:33:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.785241",
+  "metadata": {
+    "total_cves": 22,
+    "date_range": "2022-06-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

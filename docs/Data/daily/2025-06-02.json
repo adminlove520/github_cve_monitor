@@ -1,0 +1,62 @@
+{
+  "date": "2025-06-02",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5280",
+      "repo_info": "[voyagken/CVE-2025-5280-V8-OOB](https://github.com/voyagken/CVE-2025-5280-V8-OOB)",
+      "description": "Remote Code Execution via Out-of-Bounds Write in V8 (CVE-2025-5280)",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T12:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-44148",
+      "repo_info": "[barisbaydur/CVE-2025-44148](https://github.com/barisbaydur/CVE-2025-44148)",
+      "description": "A reflected cross-site scripting (XSS) vulnerability exists in MailEnable Webmail due to improper user input sanitization in the failure.aspx. This allows a remote attacker to inject arbitrary JavaScript code via a crafted URL, which is then reflected in the server&#x27;s response and executed in the context of the user&#x27;s browser session.",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T17:02:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-22224",
+      "repo_info": "[voyagken/CVE-2025-22224-PoC](https://github.com/voyagken/CVE-2025-22224-PoC)",
+      "description": "Privilege Escalation via TOCTOU in VMware VMX (CVE-2025-22224)",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T12:02:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-39924",
+      "repo_info": "[l4rm4nd/PoC-CVE-2024-39924](https://github.com/l4rm4nd/PoC-CVE-2024-39924)",
+      "description": "PoC for CVE-2024-39924",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T16:05:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-28784",
+      "repo_info": "[CainSoulless/CVE-2024-28784](https://github.com/CainSoulless/CVE-2024-28784)",
+      "description": "Technical disclosure for CVE-2024-28784 — a stored XSS vulnerability in IBM QRadar SIEM 7.5.0 UpdatePackage 7. The issue affects the Rule Wizard component and allows persistent JavaScript injection via malformed regular expressions. Includes PoC, impact analysis, and mitigation advice.",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T23:06:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[its-anya/DVR_Credential_Scanner](https://github.com/its-anya/DVR_Credential_Scanner)",
+      "description": "A tool for scanning DVR systems vulnerable to CVE-2018-9995 credential disclosure. Educational purposes only - demonstrates how attackers exploit authentication bypasses in DVR/IP camera systems. Includes detailed guides for finding, testing, and understanding the vulnerability.",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T08:05:05Z"
+    },
+    {
+      "cve_id": "CVE-2008-4250",
+      "repo_info": "[NoTrustedx/Exploit_MS08-067](https://github.com/NoTrustedx/Exploit_MS08-067)",
+      "description": "MS08-067 - CVE-2008-4250",
+      "date": "2025-06-02",
+      "raw_date": "2025-06-02T20:55:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.030388",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2025-06-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2024-06-11",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[bl4cksku11/CVE-2024-4577](https://github.com/bl4cksku11/CVE-2024-4577)",
+      "description": "This is a PoC for PHP CVE-2024-4577.",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T15:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-37051",
+      "repo_info": "[LeadroyaL/CVE-2024-37051-EXP](https://github.com/LeadroyaL/CVE-2024-37051-EXP)",
+      "description": "CVE-2024-37051 poc and exploit",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T16:01:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[shefirot/CVE-2024-3094](https://github.com/shefirot/CVE-2024-3094)",
+      "description": "Basic POC to test CVE-2024-3094 vulnerability inside K8s cluster",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T14:19:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[CharonDefalt/2024-CVE-Critical](https://github.com/CharonDefalt/2024-CVE-Critical)",
+      "description": "no description",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T10:43:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Fehr-GmbH/blackleak](https://github.com/Fehr-GmbH/blackleak)",
+      "description": "CVE-2024-30212",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T09:13:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-26229",
+      "repo_info": "[RalfHacker/CVE-2024-26229-exploit](https://github.com/RalfHacker/CVE-2024-26229-exploit)",
+      "description": "Windows LPE",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T08:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-26229",
+      "repo_info": "[otterpwn/CVE-2024-26229](https://github.com/otterpwn/CVE-2024-26229)",
+      "description": "no description",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T15:56:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[SalehLardhi/CVE-2024-24919](https://github.com/SalehLardhi/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T03:33:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-24590",
+      "repo_info": "[LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-](https://github.com/LordVileOnX/ClearML-vulnerability-exploit-RCE-2024-CVE-2024-24590-)",
+      "description": "Here is an exploit in python to exploit the CVE-2024-24590, which is an upload pickle in a ClearML, which leads to arbitrary code execution... Enjoy :D",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T17:33:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-24590",
+      "repo_info": "[OxyDeV2/PoC-CVE-2024-24590](https://github.com/OxyDeV2/PoC-CVE-2024-24590)",
+      "description": "Proof of concept for CVE-2024-24590",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T22:30:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[k3lpi3b4nsh33/CVE-2024-23692](https://github.com/k3lpi3b4nsh33/CVE-2024-23692)",
+      "description": "no description",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T07:21:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-0195",
+      "repo_info": "[Cappricio-Securities/CVE-2024-0195](https://github.com/Cappricio-Securities/CVE-2024-0195)",
+      "description": "SpiderFlow Crawler Platform - Remote Code Execution",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T02:34:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-20598",
+      "repo_info": "[H4rk3nz0/CVE-2023-20598-PDFWKRNL](https://github.com/H4rk3nz0/CVE-2023-20598-PDFWKRNL)",
+      "description": "CVE-2023-20598 Kernel Driver - Elevation of Privilege",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T22:03:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-36446",
+      "repo_info": "[Kang3639/CVE-2022-36446](https://github.com/Kang3639/CVE-2022-36446)",
+      "description": "CVE-2022-36446 POC 실습",
+      "date": "2024-06-11",
+      "raw_date": "2024-06-11T04:21:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.723257",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2024-06-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

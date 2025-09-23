@@ -1,0 +1,41 @@
+{
+  "date": "2018-10-20",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[Virgula0/POC-CVE-2018-10933](https://github.com/Virgula0/POC-CVE-2018-10933)",
+      "description": "LibSSH Authentication Bypass Exploit using RCE",
+      "date": "2018-10-20",
+      "raw_date": "2018-10-20T15:34:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[pghook/CVE-2018-10933_Scanner](https://github.com/pghook/CVE-2018-10933_Scanner)",
+      "description": "no description",
+      "date": "2018-10-20",
+      "raw_date": "2018-10-20T06:53:59Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[ninp0/cve-2018-10933_poc](https://github.com/ninp0/cve-2018-10933_poc)",
+      "description": "Variant of hackerhouse-opensource/cve-2018-10933",
+      "date": "2018-10-20",
+      "raw_date": "2018-10-20T00:53:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[jas502n/CVE-2018-10933](https://github.com/jas502n/CVE-2018-10933)",
+      "description": "libssh CVE-2018-10933",
+      "date": "2018-10-20",
+      "raw_date": "2018-10-20T00:24:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.703146",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-10-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

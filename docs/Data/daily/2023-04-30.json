@@ -1,0 +1,76 @@
+{
+  "date": "2023-04-30",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-29809",
+      "repo_info": "[zPrototype/CVE-2023-29809](https://github.com/zPrototype/CVE-2023-29809)",
+      "description": "no description",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T20:26:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-27035",
+      "repo_info": "[fivex3/CVE-2023-27035](https://github.com/fivex3/CVE-2023-27035)",
+      "description": "no description",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T14:52:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-2033",
+      "repo_info": "[gretchenfrage/CVE-2023-2033-analysis](https://github.com/gretchenfrage/CVE-2023-2033-analysis)",
+      "description": "no description",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T01:18:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-20025",
+      "repo_info": "[lnversed/CVE-2023-20025](https://github.com/lnversed/CVE-2023-20025)",
+      "description": "Cisco r042 research",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T12:46:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-46196",
+      "repo_info": "[dpgg101/CVE-2022-46196](https://github.com/dpgg101/CVE-2022-46196)",
+      "description": "no description",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T18:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[yassinebk/CVE-2022-46169](https://github.com/yassinebk/CVE-2022-46169)",
+      "description": "CVE-2022-46169",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T10:37:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[jonathanbest7/cve-2022-0847](https://github.com/jonathanbest7/cve-2022-0847)",
+      "description": "check cve-2022-0847",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T23:52:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[Akash7350/CVE-2020-1472](https://github.com/Akash7350/CVE-2020-1472)",
+      "description": "no description",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T16:41:55Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[MrE-Fog/CVE-2014-0160-Chrome-Plugin](https://github.com/MrE-Fog/CVE-2014-0160-Chrome-Plugin)",
+      "description": "no description",
+      "date": "2023-04-30",
+      "raw_date": "2023-04-30T13:56:47Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.186334",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-04-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

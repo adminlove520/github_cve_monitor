@@ -1,0 +1,20 @@
+{
+  "date": "2015-06-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-2315",
+      "repo_info": "[weidongl74/cve-2015-2315-report](https://github.com/weidongl74/cve-2015-2315-report)",
+      "description": "no description",
+      "date": "2015-06-08",
+      "raw_date": "2015-06-08T20:48:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.359374",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-06-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

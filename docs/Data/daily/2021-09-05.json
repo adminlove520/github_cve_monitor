@@ -1,0 +1,27 @@
+{
+  "date": "2021-09-05",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-26084",
+      "repo_info": "[smadi0x01/CVE-2021-26084](https://github.com/smadi0x01/CVE-2021-26084)",
+      "description": "Confluence server webwork OGNL injection",
+      "date": "2021-09-05",
+      "raw_date": "2021-09-05T09:27:55Z"
+    },
+    {
+      "cve_id": "CVE-2020-13942",
+      "repo_info": "[Prodrious/CVE-2020-13942](https://github.com/Prodrious/CVE-2020-13942)",
+      "description": "no description",
+      "date": "2021-09-05",
+      "raw_date": "2021-09-05T16:39:19Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.550099",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-09-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

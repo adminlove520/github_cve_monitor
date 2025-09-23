@@ -1,0 +1,20 @@
+{
+  "date": "2014-05-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-0166",
+      "repo_info": "[OffensivePython/HeartLeak](https://github.com/OffensivePython/HeartLeak)",
+      "description": "CVE-2014-0160 (Heartbeat Buffer over-read bug)",
+      "date": "2014-05-03",
+      "raw_date": "2014-05-03T18:08:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.306597",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-05-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

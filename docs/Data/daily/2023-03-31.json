@@ -1,0 +1,48 @@
+{
+  "date": "2023-03-31",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[Majus527/MinIO_CVE-2023-28432](https://github.com/Majus527/MinIO_CVE-2023-28432)",
+      "description": "minio敏感信息泄露",
+      "date": "2023-03-31",
+      "raw_date": "2023-03-31T13:29:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[CKevens/CVE-2023-23397-POC](https://github.com/CKevens/CVE-2023-23397-POC)",
+      "description": "CVE-2023-23397漏洞的简单PoC，有效载荷通过电子邮件发送。",
+      "date": "2023-03-31",
+      "raw_date": "2023-03-31T03:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[devAL3X/CVE-2022-46169_poc](https://github.com/devAL3X/CVE-2022-46169_poc)",
+      "description": "no description",
+      "date": "2023-03-31",
+      "raw_date": "2023-03-31T16:21:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-42896",
+      "repo_info": "[Trinadh465/linux-4.19.72_CVE-2022-42896](https://github.com/Trinadh465/linux-4.19.72_CVE-2022-42896)",
+      "description": "no description",
+      "date": "2023-03-31",
+      "raw_date": "2023-03-31T10:57:06Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[g1vi/CVE-2019-15107](https://github.com/g1vi/CVE-2019-15107)",
+      "description": "webmin &lt;=1.920 - RCE via command injection vulnerability",
+      "date": "2023-03-31",
+      "raw_date": "2023-03-31T20:56:39Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.165390",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-03-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

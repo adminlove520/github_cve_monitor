@@ -1,0 +1,41 @@
+{
+  "date": "2024-02-19",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[ThatNotEasy/CVE-2024-23897](https://github.com/ThatNotEasy/CVE-2024-23897)",
+      "description": "Perform with massive Jenkins Reading-2-RCE",
+      "date": "2024-02-19",
+      "raw_date": "2024-02-19T02:29:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[MSeymenD/CVE-2024-21413](https://github.com/MSeymenD/CVE-2024-21413)",
+      "description": "CVE-2024-21413 Açığını Kullanarak Giriş Bilgilerini Alma",
+      "date": "2024-02-19",
+      "raw_date": "2024-02-19T01:37:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-47218",
+      "repo_info": "[passwa11/CVE-2023-47218](https://github.com/passwa11/CVE-2023-47218)",
+      "description": "CVE-2023-47218: QNAP QTS and QuTS Hero Unauthenticated Command Injection (FIXED)",
+      "date": "2024-02-19",
+      "raw_date": "2024-02-19T02:15:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Rival420/CVE-2023-23752](https://github.com/Rival420/CVE-2023-23752)",
+      "description": "Joomla! &lt; 4.2.8 - Unauthenticated information disclosure exploit",
+      "date": "2024-02-19",
+      "raw_date": "2024-02-19T10:27:01Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.591198",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2024-02-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

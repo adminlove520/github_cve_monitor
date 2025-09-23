@@ -1,0 +1,118 @@
+{
+  "date": "2025-07-18",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-7783",
+      "repo_info": "[benweissmann/CVE-2025-7783-poc](https://github.com/benweissmann/CVE-2025-7783-poc)",
+      "description": "POC of CVE-2025-7783",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T16:56:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-7753",
+      "repo_info": "[byteReaper77/CVE-2025-7753](https://github.com/byteReaper77/CVE-2025-7753)",
+      "description": "PoC Exploit for CVE-2025-7753 — Time-Based SQL Injection in Online Appointment Booking System 1.0 via the username parameter. Exploit written in C using libcurl.",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T14:22:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-7753",
+      "repo_info": "[Sam-2805/cve-analysis-2](https://github.com/Sam-2805/cve-analysis-2)",
+      "description": "Real-world vulnerability analysis of five CVEs (2025) focusing on XSS, CSRF, SQL Injection, File Upload flaws, and Authentication Bypass. Includes markdown reports and supporting presentation slides for practical cybersecurity learning.",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T12:28:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-53367",
+      "repo_info": "[kevinbackhouse/DjVuLibre-poc-CVE-2025-53367](https://github.com/kevinbackhouse/DjVuLibre-poc-CVE-2025-53367)",
+      "description": "no description",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T13:36:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[Joelp03/CVE-2025-49113](https://github.com/Joelp03/CVE-2025-49113)",
+      "description": "no description",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T00:36:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-47176",
+      "repo_info": "[mahyarx/CVE-2025-47176](https://github.com/mahyarx/CVE-2025-47176)",
+      "description": "Microsoft Outlook Remote Code Execution Vulnerability",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T16:13:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-4380",
+      "repo_info": "[ThiagoMaria-SecurityIT/cve-monitor](https://github.com/ThiagoMaria-SecurityIT/cve-monitor)",
+      "description": "Created July 18, 2025 - A Python-based dashboard for monitoring Common Vulnerabilities and Exposures (CVE) data from the NVD API 2.0",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T03:50:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[MGunturG/CVE-2025-32463](https://github.com/MGunturG/CVE-2025-32463)",
+      "description": "Local Privilege Escalation to Root via Sudo chroot in Linux",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T09:03:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[incommatose/CVE-2025-27591-PoC](https://github.com/incommatose/CVE-2025-27591-PoC)",
+      "description": "A Proof of Concept for CVE-2025-27591, a local privilege escalation in Below ≤ v0.8.1",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T03:26:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[0xC4J/CVE-Lists](https://github.com/0xC4J/CVE-Lists)",
+      "description": "CVE-2025-46099",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T19:03:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-27210",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-27210](https://github.com/B1ack4sh/Blackash-CVE-2025-27210)",
+      "description": "CVE-2025-27210",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T11:57:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-44136",
+      "repo_info": "[Ch35h1r3c47/CVE-2022-44136-poc](https://github.com/Ch35h1r3c47/CVE-2022-44136-poc)",
+      "description": "Zenar CMS 9.3 suffers from an ​​unrestricted file upload vulnerability​​ in its file management module, allowing authenticated attackers (with minimal privileges) to upload arbitrary files, including malicious PHP scripts, to the web server.",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T08:16:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-32099",
+      "repo_info": "[magicrc/CVE-2021-32099](https://github.com/magicrc/CVE-2021-32099)",
+      "description": "PoC for CVE-2021-32099",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T15:25:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[Maalfer/Sudo-CVE-2021-3156](https://github.com/Maalfer/Sudo-CVE-2021-3156)",
+      "description": "Exploit para explotar la vulnerabilidad CVE-2021-3156.",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T10:39:27Z"
+    },
+    {
+      "cve_id": "CVE-2019-4716",
+      "repo_info": "[Pranjal6955/CVE-2019-4716-Test-Environment](https://github.com/Pranjal6955/CVE-2019-4716-Test-Environment)",
+      "description": "no description",
+      "date": "2025-07-18",
+      "raw_date": "2025-07-18T05:42:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.076311",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-07-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

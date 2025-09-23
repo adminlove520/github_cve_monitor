@@ -1,0 +1,83 @@
+{
+  "date": "2023-05-08",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30092",
+      "repo_info": "[nawed20002/CVE-2023-30092](https://github.com/nawed20002/CVE-2023-30092)",
+      "description": "no description",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T05:55:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-27524",
+      "repo_info": "[TardC/CVE-2023-27524](https://github.com/TardC/CVE-2023-27524)",
+      "description": "no description",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T16:50:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-25002",
+      "repo_info": "[nokn0wthing/CVE-2023-25002](https://github.com/nokn0wthing/CVE-2023-25002)",
+      "description": "CVE-2023-20052, information leak vulnerability in the DMG file parser of ClamAV",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T18:34:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[wibuheker/Joomla-CVE-2023-23752](https://github.com/wibuheker/Joomla-CVE-2023-23752)",
+      "description": "no description",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T11:31:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-0386",
+      "repo_info": "[CKevens/CVE-2023-0386](https://github.com/CKevens/CVE-2023-0386)",
+      "description": "CVE-2023-0386 EXP",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T01:53:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-24637",
+      "repo_info": "[falconkei/snakeyaml_cve_poc](https://github.com/falconkei/snakeyaml_cve_poc)",
+      "description": "SnakeYAML-CVE-2022-1471-POC",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T14:46:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-38001",
+      "repo_info": "[glavstroy/CVE-2021-38001](https://github.com/glavstroy/CVE-2021-38001)",
+      "description": "A Brief Introduction to V8 Inline Cache and Exploitating Type Confusion",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T14:43:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-2023",
+      "repo_info": "[ssst0n3/kata-cve-2020-2023-poc](https://github.com/ssst0n3/kata-cve-2020-2023-poc)",
+      "description": "no description",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T03:12:46Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[K3ysTr0K3R/CVE-2019-15107-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2019-15107-EXPLOIT)",
+      "description": "An issue was discovered in Webmin through 1.920. The parameter old in password_change.cgi contains a command injection vulnerability.",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T00:25:37Z"
+    },
+    {
+      "cve_id": "CVE-2015-8351",
+      "repo_info": "[igruntplay/exploit-CVE-2015-8351](https://github.com/igruntplay/exploit-CVE-2015-8351)",
+      "description": "WordPress Plugin Gwolle Guestbook 1.5.3 - Remote File Inclusion",
+      "date": "2023-05-08",
+      "raw_date": "2023-05-08T02:55:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.191914",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

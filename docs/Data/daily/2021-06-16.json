@@ -1,0 +1,20 @@
+{
+  "date": "2021-06-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[repos13579/labCVE-2018-6574](https://github.com/repos13579/labCVE-2018-6574)",
+      "description": "no description",
+      "date": "2021-06-16",
+      "raw_date": "2021-06-16T10:45:39Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.455993",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-06-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

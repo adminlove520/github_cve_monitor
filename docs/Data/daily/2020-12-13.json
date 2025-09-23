@@ -1,0 +1,48 @@
+{
+  "date": "2020-12-13",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-3452",
+      "repo_info": "[cygenta/CVE-2020-3452](https://github.com/cygenta/CVE-2020-3452)",
+      "description": "no description",
+      "date": "2020-12-13",
+      "raw_date": "2020-12-13T13:47:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-26259",
+      "repo_info": "[jas502n/CVE-2020-26259](https://github.com/jas502n/CVE-2020-26259)",
+      "description": "CVE-2020-26259: XStream is vulnerable to an Arbitrary File Deletion on the local host when unmarshalling as long as the executing process has sufficient rights.",
+      "date": "2020-12-13",
+      "raw_date": "2020-12-13T17:39:11Z"
+    },
+    {
+      "cve_id": "CVE-2020-17530",
+      "repo_info": "[Al1ex/CVE-2020-17530](https://github.com/Al1ex/CVE-2020-17530)",
+      "description": "S2-061 CVE-2020-17530",
+      "date": "2020-12-13",
+      "raw_date": "2020-12-13T11:02:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-17558",
+      "repo_info": "[shanika04/cp30_XXE_partial_fix](https://github.com/shanika04/cp30_XXE_partial_fix)",
+      "description": "version between CVE-2018-20433 and CVE-2019-5427",
+      "date": "2020-12-13",
+      "raw_date": "2020-12-13T12:08:30Z"
+    },
+    {
+      "cve_id": "CVE-2014-0472",
+      "repo_info": "[GuillermoEscobero/heartbleed](https://github.com/GuillermoEscobero/heartbleed)",
+      "description": "CVE-2014-0160 OpenSSL Heartbleed Proof of Concept",
+      "date": "2020-12-13",
+      "raw_date": "2020-12-13T19:53:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.247408",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2020-12-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

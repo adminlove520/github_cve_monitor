@@ -1,0 +1,27 @@
+{
+  "date": "2021-07-22",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44158",
+      "repo_info": "[WiredPulse/Invoke-HiveNightmare](https://github.com/WiredPulse/Invoke-HiveNightmare)",
+      "description": "PoC for CVE-2021-36934, which enables a standard user to be able to retrieve the SAM, Security, and Software Registry hives in Windows 10 version 1809 or newer",
+      "date": "2021-07-22",
+      "raw_date": "2021-07-22T03:07:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-11933",
+      "repo_info": "[KISH84172/CVE-2019-11933](https://github.com/KISH84172/CVE-2019-11933)",
+      "description": "no description",
+      "date": "2021-07-22",
+      "raw_date": "2021-07-22T13:45:00Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.494543",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-07-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

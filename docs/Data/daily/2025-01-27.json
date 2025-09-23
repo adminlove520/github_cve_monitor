@@ -1,0 +1,48 @@
+{
+  "date": "2025-01-27",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-0411",
+      "repo_info": "[iSee857/CVE-2025-0411-PoC](https://github.com/iSee857/CVE-2025-0411-PoC)",
+      "description": "7-Zip Mark-of-the-Web绕过漏洞PoC(CVE-2025-0411)",
+      "date": "2025-01-27",
+      "raw_date": "2025-01-27T07:32:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-55591",
+      "repo_info": "[watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591](https://github.com/watchtowrlabs/fortios-auth-bypass-poc-CVE-2024-55591)",
+      "description": "no description",
+      "date": "2025-01-27",
+      "raw_date": "2025-01-27T06:25:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-2961",
+      "repo_info": "[kyotozx/CVE-2024-2961-Remote-File-Read](https://github.com/kyotozx/CVE-2024-2961-Remote-File-Read)",
+      "description": "This script demonstrates a proof-of-concept (PoC) for exploiting a file read vulnerability in the iconv library, as detailed in Ambionics Security&#x27;s blog https://www.ambionics.io/blog/iconv-cve-2024-2961-p1.",
+      "date": "2025-01-27",
+      "raw_date": "2025-01-27T03:06:37Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[dh4r4/PwnKit-CVE-2021-4034-](https://github.com/dh4r4/PwnKit-CVE-2021-4034-)",
+      "description": "A rewrite of the Polkit vulnerability.",
+      "date": "2025-01-27",
+      "raw_date": "2025-01-27T22:13:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-28042",
+      "repo_info": "[z-bool/Venom-JWT](https://github.com/z-bool/Venom-JWT)",
+      "description": "针对JWT渗透开发的漏洞验证/密钥爆破工具，针对CVE-2015-9235/未验证签名攻击/CVE-2016-10555/CVE-2018-0114/CVE-2020-28042的结果生成用于FUZZ，也可使用字典/字符枚举(包括JJWT)的方式进行爆破",
+      "date": "2025-01-27",
+      "raw_date": "2025-01-27T14:23:31Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.914152",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2025-01-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

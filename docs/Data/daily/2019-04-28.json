@@ -1,0 +1,27 @@
+{
+  "date": "2019-04-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[5431/CVE-2018-4407](https://github.com/5431/CVE-2018-4407)",
+      "description": "ios 缓冲区溢出exp",
+      "date": "2019-04-28",
+      "raw_date": "2019-04-28T08:19:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-17456",
+      "repo_info": "[zann1x/ITS](https://github.com/zann1x/ITS)",
+      "description": "Repo for a uni project to give a detailed explanation of CVE-2018-1000224",
+      "date": "2019-04-28",
+      "raw_date": "2019-04-28T18:31:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.782857",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-04-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2025-06-18",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[punitdarji/roundcube-cve-2025-49113](https://github.com/punitdarji/roundcube-cve-2025-49113)",
+      "description": "no description",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T19:10:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-44203",
+      "repo_info": "[IvanT7D3/CVE-2025-44203](https://github.com/IvanT7D3/CVE-2025-44203)",
+      "description": "CVE-2025-44203 - HotelDruid 3.0.0/3.0.7 - Sensitive Information Disclosure, DoS",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T18:22:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-33053",
+      "repo_info": "[kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept](https://github.com/kra1t0/CVE-2025-33053-WebDAV-RCE-PoC-and-C2-Concept)",
+      "description": "Proof-of-Concept for CVE-2025-33053  Exploiting WebDAV with .url file delivery to demonstrate realistic remote code execution. Includes a decoy PDF payload and a video-only showcase of potential command-and-control capabilities.",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T19:39:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-33053",
+      "repo_info": "[TheTorjanCaptain/CVE-2025-33053-Checker-PoC](https://github.com/TheTorjanCaptain/CVE-2025-33053-Checker-PoC)",
+      "description": "CVE-2025-33053 Checker and PoC",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T10:08:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-32710",
+      "repo_info": "[Sincan2/RCE-CVE-2025-32710](https://github.com/Sincan2/RCE-CVE-2025-32710)",
+      "description": "Windows Remote Desktop Services Vulnerability Allows Remote Code Execution",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T06:31:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[0xgh057r3c0n/CVE-2025-3248](https://github.com/0xgh057r3c0n/CVE-2025-3248)",
+      "description": "Exploit for Langflow AI Remote Code Execution (Unauthenticated)",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T19:27:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[imbas007/CVE-2025-3248](https://github.com/imbas007/CVE-2025-3248)",
+      "description": "no description",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T03:42:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-26198",
+      "repo_info": "[tansique-17/CVE-2025-26198](https://github.com/tansique-17/CVE-2025-26198)",
+      "description": "Public Disclosure",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T18:19:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-1094",
+      "repo_info": "[aninfosec/CVE-2025-1094](https://github.com/aninfosec/CVE-2025-1094)",
+      "description": "It is an input sanitization flaw caused by an encoding mismatch, allowing crafted input to bypass filters. If a server is vulnerable, an attacker can inject malicious SQL that the backend executes.",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T15:18:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-0133",
+      "repo_info": "[wiseep/CVE-2025-0133](https://github.com/wiseep/CVE-2025-0133)",
+      "description": "Palo Alto - Global Protect - Reflected XSS",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T10:06:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-6401",
+      "repo_info": "[mekitoci/CVE-2023-6401](https://github.com/mekitoci/CVE-2023-6401)",
+      "description": "CVE-2023-6401 is a DLL hijacking vulnerability that allows attackers to execute arbitrary code by placing a malicious `dbghelp.dll` file in the application directory. This project demonstrates the vulnerability and provides a reproducible PoC.",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T19:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-26136",
+      "repo_info": "[uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix](https://github.com/uriyahav/tough-cookie-2.5.0-cve-2023-26136-fix)",
+      "description": "ecurity patch for CVE-2023-26136 in tough-cookie 2.5.0 - Prototype pollution vulnerability fix with backward compatibility",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T07:27:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-0386",
+      "repo_info": "[bchevCH/CVE-2023-0386](https://github.com/bchevCH/CVE-2023-0386)",
+      "description": "no description",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T22:44:31Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[rasinfosec/CVE-2018-25031](https://github.com/rasinfosec/CVE-2018-25031)",
+      "description": "no description",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T20:05:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[h4ckt0m/CVE-2018-25031-test](https://github.com/h4ckt0m/CVE-2018-25031-test)",
+      "description": "no description",
+      "date": "2025-06-18",
+      "raw_date": "2025-06-18T12:47:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.045262",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-06-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

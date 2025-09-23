@@ -1,0 +1,27 @@
+{
+  "date": "2021-10-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-10915",
+      "repo_info": "[Cinnamon1212/Modified-CVE-2020-10915-MsfModule](https://github.com/Cinnamon1212/Modified-CVE-2020-10915-MsfModule)",
+      "description": "THIS IS NOT AN ORIGINAL EXPLOIT. THIS IS AN AUDITED VERSION FOR A THM BOX",
+      "date": "2021-10-20",
+      "raw_date": "2021-10-20T20:27:42Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[ItsFadinG/CVE-2018-6574](https://github.com/ItsFadinG/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2021-10-20",
+      "raw_date": "2021-10-20T12:04:56Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.582415",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-10-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

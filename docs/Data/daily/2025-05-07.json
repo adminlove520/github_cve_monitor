@@ -1,0 +1,146 @@
+{
+  "date": "2025-05-07",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-47550",
+      "repo_info": "[d0n601/CVE-2025-47550](https://github.com/d0n601/CVE-2025-47550)",
+      "description": "Instantio - Wordpress Plugin &lt;= 3.3.16 - Authenticated (Admin+) Arbitrary File Upload via ins_options_save",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T22:15:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-47549",
+      "repo_info": "[d0n601/CVE-2025-47549](https://github.com/d0n601/CVE-2025-47549)",
+      "description": "Ultimate Before After Image Slider &amp; Gallery – BEAF &lt;= 4.6.10 - Authenticated (Admin+) Arbitrary File Upload via beaf_options_save",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T22:09:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-47423",
+      "repo_info": "[Haluka92/CVE-2025-47423](https://github.com/Haluka92/CVE-2025-47423)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T04:44:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-46271",
+      "repo_info": "[1Altruist/CVE-2025-46271-Reverse-Shell-PoC](https://github.com/1Altruist/CVE-2025-46271-Reverse-Shell-PoC)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T19:21:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-45250",
+      "repo_info": "[Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T14:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-4190",
+      "repo_info": "[Nxploited/CVE-2025-4190](https://github.com/Nxploited/CVE-2025-4190)",
+      "description": "CSV Mass Importer &lt;= 1.2 - Admin+ Arbitrary File Upload",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T10:56:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[NULLTRACE0X/CVE-2025-31324](https://github.com/NULLTRACE0X/CVE-2025-31324)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T06:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-31125",
+      "repo_info": "[0xgh057r3c0n/CVE-2025-31125](https://github.com/0xgh057r3c0n/CVE-2025-31125)",
+      "description": "Vite WASM Import Path Traversal 🛡️",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T07:45:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-28074",
+      "repo_info": "[mLniumm/CVE-2025-28074](https://github.com/mLniumm/CVE-2025-28074)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T15:22:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-28073",
+      "repo_info": "[mLniumm/CVE-2025-28073](https://github.com/mLniumm/CVE-2025-28073)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T15:17:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-27007",
+      "repo_info": "[absholi7ly/CVE-2025-27007-OttoKit-exploit](https://github.com/absholi7ly/CVE-2025-27007-OttoKit-exploit)",
+      "description": "exploiting CVE-2025-27007, a critical unauthenticated privilege escalation vulnerability in the OttoKit (formerly SureTriggers) WordPress plugin",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T04:43:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-25014",
+      "repo_info": "[Sratet/CVE-2025-25014](https://github.com/Sratet/CVE-2025-25014)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T12:17:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-39722",
+      "repo_info": "[srcx404/CVE-2024-39722](https://github.com/srcx404/CVE-2024-39722)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T07:01:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-38475",
+      "repo_info": "[abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC](https://github.com/abrewer251/CVE-2024-38475_SonicBoom_Apache_URL_Traversal_PoC)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T00:02:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-13800",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13800](https://github.com/RandomRobbieBF/CVE-2024-13800)",
+      "description": "Popup Plugin For WordPress - ConvertPlus &lt;= 3.5.30 - Missing Authorization to Authenticated (Subscriber+) Limited Options Update",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T09:51:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-41741",
+      "repo_info": "[moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner](https://github.com/moften/CVE-2022-41741-742-Nginx-Vulnerability-Scanner)",
+      "description": "CVE-2022-41741/742 Nginx Vulnerability Scanner",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T23:26:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-41741",
+      "repo_info": "[moften/Symfony-CVE-Scanner-PoC-](https://github.com/moften/Symfony-CVE-Scanner-PoC-)",
+      "description": "CVE-2021-21424 - CRLF Injection - CVE-2021-41268 - Host Header Injection - CVE-2022-24894 - WebProfiler abierto - CVE-2019-10909 - Directory Traversal",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T23:07:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-14980",
+      "repo_info": "[LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof](https://github.com/LipeOzyy/CVE-2017-14980_syncbreeze_10.0.28_bof)",
+      "description": "no description",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T01:51:30Z"
+    },
+    {
+      "cve_id": "CVE-2003-0201",
+      "repo_info": "[Bakr-Ht/samba-trans2open-exploit-report](https://github.com/Bakr-Ht/samba-trans2open-exploit-report)",
+      "description": "Exploitation report of the Samba Trans2Open vulnerability (CVE-2003-0201), including tools used, exploitation steps, and protection techniques to secure systems.",
+      "date": "2025-05-07",
+      "raw_date": "2025-05-07T20:11:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.005647",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2025-05-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

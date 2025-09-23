@@ -1,0 +1,104 @@
+{
+  "date": "2025-09-16",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-54106",
+      "repo_info": "[callinston/CVE-2025-54106](https://github.com/callinston/CVE-2025-54106)",
+      "description": "no description",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T13:59:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-27210",
+      "repo_info": "[mindeddu/Vulnerable-CVE-2025-27210](https://github.com/mindeddu/Vulnerable-CVE-2025-27210)",
+      "description": "2 web apps vulnerable to CVE-2025-27210",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T08:28:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-26686",
+      "repo_info": "[mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates](https://github.com/mrk336/CVE-2025-26686-The-TCP-IP-Flaw-That-Opens-the-Gates)",
+      "description": "A critical RCE vulnerability in Windows TCP/IP stack (CVE-2025-26686) leaves sensitive memory unlocked, allowing remote attackers to hijack systems. Exploitable over the network, it risks full compromise. Patch now",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T03:00:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-24799",
+      "repo_info": "[airbus-cert/CVE-2025-24799-scanner](https://github.com/airbus-cert/CVE-2025-24799-scanner)",
+      "description": "Scanner for GLPI CVE-2025-24799 vulnerability",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T12:52:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-20265",
+      "repo_info": "[saruman9/cve_2025_20265](https://github.com/saruman9/cve_2025_20265)",
+      "description": "PoC for CVE-2025-20265 Cisco Secure FMC Software RADIUS Remote Code Execution Vulnerability",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T17:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-10533",
+      "repo_info": "[h4xnz/CVE-2025-10533-Exploit](https://github.com/h4xnz/CVE-2025-10533-Exploit)",
+      "description": "no description",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T16:26:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-4157",
+      "repo_info": "[Ch4os1/CVE-2024-4157-SSRF-RCE](https://github.com/Ch4os1/CVE-2024-4157-SSRF-RCE)",
+      "description": "no description",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T16:56:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-1709",
+      "repo_info": "[Teexo/ScreenConnect-CVE-2024-1709-Exploit](https://github.com/Teexo/ScreenConnect-CVE-2024-1709-Exploit)",
+      "description": "A Python tool to check &amp; exploit CVE-2024-1708 &amp; CVE-2024-1709 in ConnectWise ScreenConnect",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T18:59:49Z"
+    },
+    {
+      "cve_id": "CVE-2019-3396",
+      "repo_info": "[kh4sh3i/CVE-2019-3396](https://github.com/kh4sh3i/CVE-2019-3396)",
+      "description": "CVE-2019-3396 confluence SSTI RCE",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T04:50:57Z"
+    },
+    {
+      "cve_id": "CVE-2019-10076",
+      "repo_info": "[shoucheng3/apache__jspwiki_CVE-2019-10076_2_11_0_M4_fixed](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10076_2_11_0_M4_fixed)",
+      "description": "no description",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T03:18:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-0207",
+      "repo_info": "[shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5_4_5_fixed)",
+      "description": "no description",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T08:42:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-20062",
+      "repo_info": "[shenhui35/RedArrow](https://github.com/shenhui35/RedArrow)",
+      "description": "RedArrow3.2 是一款用于渗透测试ThinkPHP 5.0.23 远程命令执行漏洞(CVE-2018-20062)的图形化工具。",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T03:13:57Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[nika0x38/CVE-2014-6287](https://github.com/nika0x38/CVE-2014-6287)",
+      "description": "A Rust implementation of the CVE-2014-6287 exploit targeting Rejetto HTTP File Server (HFS) versions 2.3x before 2.3c.",
+      "date": "2025-09-16",
+      "raw_date": "2025-09-16T17:44:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.137657",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-09-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2019-05-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-1000140",
+      "repo_info": "[s0/rsyslog-librelp-CVE-2018-1000140-fixed](https://github.com/s0/rsyslog-librelp-CVE-2018-1000140-fixed)",
+      "description": "no description",
+      "date": "2019-05-14",
+      "raw_date": "2019-05-14T21:58:54Z"
+    },
+    {
+      "cve_id": "CVE-2018-1000140",
+      "repo_info": "[s0/rsyslog-librelp-CVE-2018-1000140](https://github.com/s0/rsyslog-librelp-CVE-2018-1000140)",
+      "description": "Pinned version of rsyslov vulnerable to CVE-2018-1000140",
+      "date": "2019-05-14",
+      "raw_date": "2019-05-14T21:02:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.787600",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-05-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

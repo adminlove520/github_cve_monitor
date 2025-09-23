@@ -1,0 +1,90 @@
+{
+  "date": "2023-05-26",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-33617",
+      "repo_info": "[Chocapikk/CVE-2023-33617](https://github.com/Chocapikk/CVE-2023-33617)",
+      "description": "Authenticated OS command injection vulnerability (CVE-2023-33617)",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T22:16:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-33617",
+      "repo_info": "[tucommenceapousser/CVE-2023-33617](https://github.com/tucommenceapousser/CVE-2023-33617)",
+      "description": "no description",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T22:19:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-33243",
+      "repo_info": "[RedTeamPentesting/CVE-2023-33243](https://github.com/RedTeamPentesting/CVE-2023-33243)",
+      "description": "PoC for login with password hash in STARFACE",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T08:32:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[Anandhu990/CVE-2023-30212_lab](https://github.com/Anandhu990/CVE-2023-30212_lab)",
+      "description": "no description",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T20:04:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[Anandhu990/CVE-2023-30212-iab](https://github.com/Anandhu990/CVE-2023-30212-iab)",
+      "description": "no description",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T19:38:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[Anandhu990/r-CVE-2023-30212--lab](https://github.com/Anandhu990/r-CVE-2023-30212--lab)",
+      "description": "no description",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T19:16:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[Anandhu990/r-CVE-2023-30212-lab](https://github.com/Anandhu990/r-CVE-2023-30212-lab)",
+      "description": "no description",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T19:14:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[mallutrojan/CVE-2023-30212-Lab](https://github.com/mallutrojan/CVE-2023-30212-Lab)",
+      "description": "GitHub repository with Dockerfile and files to create a vulnerable environment for CVE-2023-30212, enabling exploration of the exploitability of this security vulnerability. Ideal for research and security enthusiasts to study and understand the impact of the vulnerability in a controlled setting.",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T09:33:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[Le1a/CVE-2022-22947](https://github.com/Le1a/CVE-2022-22947)",
+      "description": "Spring Cloud Gateway Actuator API SpEL表达式注入命令执行Exp",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T11:52:22Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[Ajomix/CVE-2020-0796-POC](https://github.com/Ajomix/CVE-2020-0796-POC)",
+      "description": "WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc.",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T19:11:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[hheeyywweellccoommee/CVE-2020-0796-VCS-mzecv](https://github.com/hheeyywweellccoommee/CVE-2020-0796-VCS-mzecv)",
+      "description": "analyze ndays in VCS",
+      "date": "2023-05-26",
+      "raw_date": "2023-05-26T01:00:54Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.205771",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2023-05-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

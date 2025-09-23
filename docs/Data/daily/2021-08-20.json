@@ -1,0 +1,20 @@
+{
+  "date": "2021-08-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[sujithvaddi/apache_struts_cve_2017_9805](https://github.com/sujithvaddi/apache_struts_cve_2017_9805)",
+      "description": "no description",
+      "date": "2021-08-20",
+      "raw_date": "2021-08-20T16:49:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.540200",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-08-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

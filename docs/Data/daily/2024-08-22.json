@@ -1,0 +1,76 @@
+{
+  "date": "2024-08-22",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7928",
+      "repo_info": "[wh6amiGit/CVE-2024-7928](https://github.com/wh6amiGit/CVE-2024-7928)",
+      "description": "CVE-2024-7928 FastAdmin &lt; V1.3.4.20220530 exploit",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T14:39:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-42992",
+      "repo_info": "[juwenyi/CVE-2024-42992](https://github.com/juwenyi/CVE-2024-42992)",
+      "description": "CVE-2024-42992",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T04:40:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-38856",
+      "repo_info": "[0x20c/CVE-2024-38856-EXP](https://github.com/0x20c/CVE-2024-38856-EXP)",
+      "description": "CVE-2024-38856 Exploit",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T04:05:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[zaneoblaneo/cve_2024_38063_research](https://github.com/zaneoblaneo/cve_2024_38063_research)",
+      "description": "CVE 2024-38063 Research and POC development",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T03:51:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-34351",
+      "repo_info": "[God4n/nextjs-CVE-2024-34351-_exploit](https://github.com/God4n/nextjs-CVE-2024-34351-_exploit)",
+      "description": "PoC for a full exploitation of NextJS SSRF (CVE-2024-34351)",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T18:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-28000",
+      "repo_info": "[explls/CVE-2024-28000](https://github.com/explls/CVE-2024-28000)",
+      "description": "no description",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T13:27:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-28000",
+      "repo_info": "[christian-cahig/CVE154_AY-2024-2025-S1](https://github.com/christian-cahig/CVE154_AY-2024-2025-S1)",
+      "description": "Various files for the CVE154 classes taught at MSU-IIT during A.Y. 2024-2025 S1",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T15:52:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[tiyeume25112004/CVE-2023-41425](https://github.com/tiyeume25112004/CVE-2023-41425)",
+      "description": "Research",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T23:27:48Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[ojo5/CVE-2019-11447.c](https://github.com/ojo5/CVE-2019-11447.c)",
+      "description": "CVE-2019-11447 written in C",
+      "date": "2024-08-22",
+      "raw_date": "2024-08-22T10:27:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.787980",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-08-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

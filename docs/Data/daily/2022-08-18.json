@@ -1,0 +1,69 @@
+{
+  "date": "2022-08-18",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925](https://github.com/GreyNoise-Intelligence/Zimbra_CVE-2022-37042-_CVE-2022-27925)",
+      "description": "no description",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T18:39:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-2414",
+      "repo_info": "[superhac/CVE-2022-2414-POC](https://github.com/superhac/CVE-2022-2414-POC)",
+      "description": "no description",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T19:58:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-21894",
+      "repo_info": "[sm0ke1337/CVE-2022-21894-Payload](https://github.com/sm0ke1337/CVE-2022-21894-Payload)",
+      "description": "Example payload for CVE-2022-21894",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T13:37:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-21894",
+      "repo_info": "[ASkyeye/CVE-2022-21894-Payload](https://github.com/ASkyeye/CVE-2022-21894-Payload)",
+      "description": "Example payload for CVE-2022-21894",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T23:45:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-20229",
+      "repo_info": "[ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20229)",
+      "description": "no description",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T07:02:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-20224",
+      "repo_info": "[ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2022-20224)",
+      "description": "no description",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T06:04:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[yoeelingBin/CVE-2022-0847-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0847-Container-Escape)",
+      "description": "CVE-2022-0847 used to achieve container escape 利用CVE-2022-0847 (Dirty Pipe) 实现容器逃逸",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T03:06:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228](https://github.com/tharindudh/tharindudh-Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228)",
+      "description": "no description",
+      "date": "2022-08-18",
+      "raw_date": "2022-08-18T07:27:32Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.849033",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-08-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2021-04-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-31207",
+      "repo_info": "[hosch3n/ProxyVulns](https://github.com/hosch3n/ProxyVulns)",
+      "description": "[ProxyLogon] CVE-2021-26855 &amp; CVE-2021-27065 Fixed RawIdentity Bug Exploit. [ProxyOracle] CVE-2021-31195 &amp; CVE-2021-31196 Exploit Chains. [ProxyShell] CVE-2021-34473 &amp; CVE-2021-34523 &amp; CVE-2021-31207 Exploit Chains.",
+      "date": "2021-04-14",
+      "raw_date": "2021-04-14T11:12:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-7461",
+      "repo_info": "[knqyf263/CVE-2020-7461](https://github.com/knqyf263/CVE-2020-7461)",
+      "description": "PoC for DHCP vulnerability (NAME:WRECK) in FreeBSD",
+      "date": "2021-04-14",
+      "raw_date": "2021-04-14T20:37:38Z"
+    },
+    {
+      "cve_id": "CVE-2015-6668",
+      "repo_info": "[Ki11i0n4ir3/CVE-2015-6668](https://github.com/Ki11i0n4ir3/CVE-2015-6668)",
+      "description": "exploit script for job manager plugin of wordpress",
+      "date": "2021-04-14",
+      "raw_date": "2021-04-14T12:30:21Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.332211",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-04-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

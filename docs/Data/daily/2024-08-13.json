@@ -1,0 +1,83 @@
+{
+  "date": "2024-08-13",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-56662",
+      "repo_info": "[nimosec/cve-2024-56662](https://github.com/nimosec/cve-2024-56662)",
+      "description": "cve",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T02:37:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-43044",
+      "repo_info": "[v9d0g/CVE-2024-43044-POC](https://github.com/v9d0g/CVE-2024-43044-POC)",
+      "description": "CVE-2024-43044的利用方式",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T07:32:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-36424",
+      "repo_info": "[secunnix/CVE-2024-36424](https://github.com/secunnix/CVE-2024-36424)",
+      "description": "K7 Ultimate Security &lt; v17.0.2019 &quot;K7RKScan.sys&quot; Null Pointer Dereference PoC",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T00:06:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[EQSTSeminar/CVE-2024-34102](https://github.com/EQSTSeminar/CVE-2024-34102)",
+      "description": "PoC for CVE-2024-34102",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T07:33:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-23709",
+      "repo_info": "[AbrarKhan/external_sonivox_CVE-2024-23709](https://github.com/AbrarKhan/external_sonivox_CVE-2024-23709)",
+      "description": "no description",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T08:44:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-22120",
+      "repo_info": "[isPique/CVE-2024-22120-RCE-with-gopher](https://github.com/isPique/CVE-2024-22120-RCE-with-gopher)",
+      "description": "This is my exploit for CVE-2024-22120, which involves an SSRF vulnerability inside an XXE with a Gopher payload.",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T14:51:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-1931",
+      "repo_info": "[passer12/CVE-2024-1931-reproduction](https://github.com/passer12/CVE-2024-1931-reproduction)",
+      "description": "CVE-2024-1931-reproduction",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T14:09:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-0044",
+      "repo_info": "[nahid0x1/CVE-2024-0044](https://github.com/nahid0x1/CVE-2024-0044)",
+      "description": "a vulnerability affecting Android version 12 &amp; 13",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T15:15:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-3897",
+      "repo_info": "[jFriedli/CVE-2023-3897](https://github.com/jFriedli/CVE-2023-3897)",
+      "description": "no description",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T09:20:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-39863",
+      "repo_info": "[WHS-SEGFAULT/CVE-2021-39863](https://github.com/WHS-SEGFAULT/CVE-2021-39863)",
+      "description": "no description",
+      "date": "2024-08-13",
+      "raw_date": "2024-08-13T14:29:40Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.780212",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-08-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

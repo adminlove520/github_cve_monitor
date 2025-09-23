@@ -1,0 +1,132 @@
+{
+  "date": "2023-09-17",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-43360",
+      "repo_info": "[sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension](https://github.com/sromanhu/CVE-2023-43360-CMSmadesimple-Stored-XSS---File-Picker-extension)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Top Directory in the File Picker Menu.",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:06:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-43359",
+      "repo_info": "[sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager](https://github.com/sromanhu/CVE-2023-43359-CMSmadesimple-Stored-XSS----Content-Manager)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to Page Specific Metadata and Smarty data in the Content Manager Menu.",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T11:58:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-43358",
+      "repo_info": "[sromanhu/CVE-2023-43358-CMSmadesimple-Stored-XSS---News](https://github.com/sromanhu/CVE-2023-43358-CMSmadesimple-Stored-XSS---News)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Title in the Content - News Menu.",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:17:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-43357",
+      "repo_info": "[sromanhu/CVE-2023-43357-CMSmadesimple-Stored-XSS---Shortcut](https://github.com/sromanhu/CVE-2023-43357-CMSmadesimple-Stored-XSS---Shortcut)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Title in the My Preferences - Manage Shortcuts",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:25:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-43356",
+      "repo_info": "[sromanhu/CVE-2023-43356-CMSmadesimple-Stored-XSS---Global-Settings](https://github.com/sromanhu/CVE-2023-43356-CMSmadesimple-Stored-XSS---Global-Settings)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Global Meatadata in the Settings- Global Settings Menu.",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T11:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-43355",
+      "repo_info": "[sromanhu/CVE-2023-43355-CMSmadesimple-Reflected-XSS---Add-user](https://github.com/sromanhu/CVE-2023-43355-CMSmadesimple-Reflected-XSS---Add-user)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the password and password again in the My Preferences - Add user",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:28:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-43354",
+      "repo_info": "[sromanhu/CVE-2023-43354-CMSmadesimple-Stored-XSS---MicroTIny-extension](https://github.com/sromanhu/CVE-2023-43354-CMSmadesimple-Stored-XSS---MicroTIny-extension)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Profile in the MicroTIny Menu.",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:10:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-43353",
+      "repo_info": "[sromanhu/CVE-2023-43353-CMSmadesimple-Stored-XSS---News---Extra](https://github.com/sromanhu/CVE-2023-43353-CMSmadesimple-Stored-XSS---News---Extra)",
+      "description": "Cross Site Scripting vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to execute arbitrary code via a crafted script to the Extrain the Content - News Menu.",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-43352",
+      "repo_info": "[sromanhu/CVE-2023-43352-CMSmadesimple-SSTI--Content](https://github.com/sromanhu/CVE-2023-43352-CMSmadesimple-SSTI--Content)",
+      "description": "SSTI vulnerability in CMSmadesimple v.2.2.18 allows a local attacker to use native template syntax to inject a malicious payload into a template, which is then executed server-side",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:35:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[an040702/CVE-2023-38831](https://github.com/an040702/CVE-2023-38831)",
+      "description": "no description",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T05:21:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-32629",
+      "repo_info": "[luanoliveira350/GameOverlayFS](https://github.com/luanoliveira350/GameOverlayFS)",
+      "description": "GameoverlayFS (CVE-2023-2640 and CVE-2023-32629) exploit  in Shell Script tested on Ubuntu 20.04 Kernel 5.4.0",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T23:17:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-26602",
+      "repo_info": "[actuator/com.altamirano.fabricio.tvbrowser](https://github.com/actuator/com.altamirano.fabricio.tvbrowser)",
+      "description": "CVE-2023-47883",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T21:01:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-23529",
+      "repo_info": "[web-logs2/snapshot-demo](https://github.com/web-logs2/snapshot-demo)",
+      "description": "CVE-2022-27499",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T14:08:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[pashayogi/DirtyPipe](https://github.com/pashayogi/DirtyPipe)",
+      "description": "CVE: CVE-2022-0847",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T12:43:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[asahilina/agx-exploit](https://github.com/asahilina/agx-exploit)",
+      "description": "CVE-2022-32947 walkthough and demo",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T08:21:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[im-hanzou/JBWPer](https://github.com/im-hanzou/JBWPer)",
+      "description": "Automatic Mass Tool for check and exploiting vulnerability in CVE-2022-4061 - JobBoardWP &lt; 1.2.2 - Unauthenticated Arbitrary File Upload",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T03:20:23Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[mrblue12-byte/CVE-2018-15473](https://github.com/mrblue12-byte/CVE-2018-15473)",
+      "description": "SSH Username Enumeration",
+      "date": "2023-09-17",
+      "raw_date": "2023-09-17T22:40:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.284224",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2023-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

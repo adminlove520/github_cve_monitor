@@ -1,0 +1,62 @@
+{
+  "date": "2024-07-20",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[Stuub/Helios](https://github.com/Stuub/Helios)",
+      "description": "Helios: Automated XSS Testing",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T05:37:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[TSY244/CVE-2024-32002-git-rce](https://github.com/TSY244/CVE-2024-32002-git-rce)",
+      "description": "no description",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T04:31:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[TSY244/CVE-2024-32002-git-rce-father-poc](https://github.com/TSY244/CVE-2024-32002-git-rce-father-poc)",
+      "description": "no description",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T03:59:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[HPT-Intern-Task-Submission/CVE-2024-27198](https://github.com/HPT-Intern-Task-Submission/CVE-2024-27198)",
+      "description": "no description",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T17:26:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-06666",
+      "repo_info": "[labc-dev/CVE-2024-06666](https://github.com/labc-dev/CVE-2024-06666)",
+      "description": "测试",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T12:32:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[ethicalblue/Follina-CVE-2022-30190-Sample](https://github.com/ethicalblue/Follina-CVE-2022-30190-Sample)",
+      "description": "Educational exploit for CVE-2022-30190",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T17:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2021-3831",
+      "repo_info": "[aratane/CVE-2021-3831](https://github.com/aratane/CVE-2021-3831)",
+      "description": "Unauthenticated Sensitive Information Disclosure",
+      "date": "2024-07-20",
+      "raw_date": "2024-07-20T09:36:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.761158",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-07-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

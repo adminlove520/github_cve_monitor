@@ -1,0 +1,62 @@
+{
+  "date": "2022-09-27",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42097",
+      "repo_info": "[bypazs/CVE-2022-42097](https://github.com/bypazs/CVE-2022-42097)",
+      "description": "Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the comment.",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T12:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-42096",
+      "repo_info": "[bypazs/CVE-2022-42096](https://github.com/bypazs/CVE-2022-42096)",
+      "description": "Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Post content.",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T12:28:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-42094",
+      "repo_info": "[bypazs/CVE-2022-42094](https://github.com/bypazs/CVE-2022-42094)",
+      "description": "Backdrop CMS version 1.23.0 was discovered to contain a stored cross-site scripting (XSS) vulnerability via the Card content.",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T11:56:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[c0resploit/CVE-2022-32548](https://github.com/c0resploit/CVE-2022-32548)",
+      "description": "DrayTek Vigor Exploit + PoC",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T18:16:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-25845",
+      "repo_info": "[c0resploit/CVE-2022-25845](https://github.com/c0resploit/CVE-2022-25845)",
+      "description": "Fastjson exploit + PoC",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T18:14:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-20841",
+      "repo_info": "[c0resploit/CVE-2022-20841](https://github.com/c0resploit/CVE-2022-20841)",
+      "description": "Cisco Small Business RCE PoC + [included mass exploiter and scanner]",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T18:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-44158",
+      "repo_info": "[c0resploit/CVE-2021-44158](https://github.com/c0resploit/CVE-2021-44158)",
+      "description": "ASUS router exploit + PoC",
+      "date": "2022-09-27",
+      "raw_date": "2022-09-27T18:17:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.886325",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-09-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

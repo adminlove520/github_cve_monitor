@@ -1,0 +1,139 @@
+{
+  "date": "2024-04-17",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[retkoussa/CVE-2024-3400](https://github.com/retkoussa/CVE-2024-3400)",
+      "description": "CVE-2024-3400 : Palo Alto OS Command Injection - POC",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T22:28:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[phantomradar/cve-2024-3400-poc](https://github.com/phantomradar/cve-2024-3400-poc)",
+      "description": "Simple POC for CVE-2024-3400",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T21:03:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[ak1t4/CVE-2024-3400](https://github.com/ak1t4/CVE-2024-3400)",
+      "description": "Global Protec Palo Alto File Write Exploit",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T16:01:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[ZephrFish/CVE-2024-3400-Canary](https://github.com/ZephrFish/CVE-2024-3400-Canary)",
+      "description": "Have we not learnt from HoneyPoC?",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T11:41:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[admi-n/CVE-2024-3400-RCE-copy](https://github.com/admi-n/CVE-2024-3400-RCE-copy)",
+      "description": "CVE-2024-3400-RCE",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T08:27:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[index2014/CVE-2024-3400-Checker](https://github.com/index2014/CVE-2024-3400-Checker)",
+      "description": "A check program for CVE-2024-3400, Palo Alto PAN-OS unauthenticated command injection vulnerability. Palo Alto 防火墙 PAN-OS 远程命令注入检测程序。",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T04:58:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-3217",
+      "repo_info": "[BassamAssiri/CVE-2024-3217-POC](https://github.com/BassamAssiri/CVE-2024-3217-POC)",
+      "description": "no description",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T13:43:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-31497",
+      "repo_info": "[edutko/cve-2024-31497](https://github.com/edutko/cve-2024-31497)",
+      "description": "no description",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T10:43:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-31497",
+      "repo_info": "[sh1k4ku/CVE-2024-31497](https://github.com/sh1k4ku/CVE-2024-31497)",
+      "description": "A script designed to uncover vulnerabilities in Putty by exploiting CVE-2024-31497.",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T04:00:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-27316",
+      "repo_info": "[aeyesec/CVE-2024-27316_poc](https://github.com/aeyesec/CVE-2024-27316_poc)",
+      "description": "no description",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T20:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/0bl1v10nf0rg0773n/0BL1V10N-CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)",
+      "description": "This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands.",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T15:21:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-21338",
+      "repo_info": "[UMU618/CVE-2024-21338](https://github.com/UMU618/CVE-2024-21338)",
+      "description": "Fork of https://github.com/hakaioffsec/CVE-2024-21338",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T10:16:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-21107",
+      "repo_info": "[Alaatk/CVE-2024-21107](https://github.com/Alaatk/CVE-2024-21107)",
+      "description": "Oracle VM VirtualBox for Windows prior to 7.0.16 - Elevation of Privileges",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T06:13:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-1874",
+      "repo_info": "[ox1111/-CVE-2024-1874-](https://github.com/ox1111/-CVE-2024-1874-)",
+      "description": "command injection",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T05:26:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[vulncheck-oss/cve-2023-46604](https://github.com/vulncheck-oss/cve-2023-46604)",
+      "description": "A go-exploit for Apache ActiveMQ CVE-2023-46604",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T13:10:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-25194",
+      "repo_info": "[vulncheck-oss/cve-2023-25194](https://github.com/vulncheck-oss/cve-2023-25194)",
+      "description": "A go-exploit for Apache Druid CVE-2023-25194",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T13:36:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-23337",
+      "repo_info": "[ebickle/CVE-2021-23337-template](https://github.com/ebickle/CVE-2021-23337-template)",
+      "description": "no description",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T03:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-12937",
+      "repo_info": "[AkashicYiTai/CVE-2019-12937-ToaruOS](https://github.com/AkashicYiTai/CVE-2019-12937-ToaruOS)",
+      "description": "no description",
+      "date": "2024-04-17",
+      "raw_date": "2024-04-17T02:14:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.667320",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2024-04-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

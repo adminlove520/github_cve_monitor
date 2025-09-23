@@ -1,0 +1,27 @@
+{
+  "date": "2021-06-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-16509",
+      "repo_info": "[AssassinUKG/CVE_2018_16509](https://github.com/AssassinUKG/CVE_2018_16509)",
+      "description": "exploit..",
+      "date": "2021-06-08",
+      "raw_date": "2021-06-08T10:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-9554",
+      "repo_info": "[Ez0-yf/CVE-2017-9554-Exploit-Tool](https://github.com/Ez0-yf/CVE-2017-9554-Exploit-Tool)",
+      "description": "CVE-2017-9554 Exploit Tool",
+      "date": "2021-06-08",
+      "raw_date": "2021-06-08T09:13:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.451243",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-06-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

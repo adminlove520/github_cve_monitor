@@ -1,0 +1,20 @@
+{
+  "date": "2015-05-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[iSCInc/heartbleed](https://github.com/iSCInc/heartbleed)",
+      "description": "A checker (site and tool) for CVE-2014-0160. Software from @FiloSottile for iSC Inc..",
+      "date": "2015-05-08",
+      "raw_date": "2015-05-08T14:37:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.355332",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

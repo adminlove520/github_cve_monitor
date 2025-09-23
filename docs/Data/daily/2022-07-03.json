@@ -1,0 +1,20 @@
+{
+  "date": "2022-07-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[Osuni-99/CVE-2019-6447](https://github.com/Osuni-99/CVE-2019-6447)",
+      "description": "The above investigation of the ES file browser security weakness allows us to see the issue in its  entirety",
+      "date": "2022-07-03",
+      "raw_date": "2022-07-03T05:57:14Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.811027",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2022-07-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

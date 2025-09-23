@@ -1,0 +1,76 @@
+{
+  "date": "2023-12-10",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-50685",
+      "repo_info": "[UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability](https://github.com/UnderwaterCoder/Hipcam-RTSP-Format-Validation-Vulnerability)",
+      "description": "This POC exploits a format validation vulnerability in the RTSP service of the Hipcam RealServer/V1.0, inducing a crash for approximately 45 seconds by injecting random data into the &#x27;client_port&#x27; parameter during the RTSP SETUP request. Hipcam RealServer/V1.0 is used in many Hipcam Cameras. - CVE-2023-50685",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T13:21:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[80r1ng/CVE-2023-38831-EXP](https://github.com/80r1ng/CVE-2023-38831-EXP)",
+      "description": "no description",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T07:13:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[0utl4nder/Another-Metabase-RCE-CVE-2023-38646](https://github.com/0utl4nder/Another-Metabase-RCE-CVE-2023-38646)",
+      "description": "Metabase postgres (org.h2.Driver)  RCE without INIT",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T21:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[snurkeburk/Looney-Tunables](https://github.com/snurkeburk/Looney-Tunables)",
+      "description": "PoC of CVE-2023-4911",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T18:05:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[raystr-atearedteam/CVE2023-23752](https://github.com/raystr-atearedteam/CVE2023-23752)",
+      "description": "Python  version of https://www.exploit-db.com/exploits/15222 by ALEXANDRE ZANNI",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T16:11:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-30547",
+      "repo_info": "[rvizx/CVE-2023-30547](https://github.com/rvizx/CVE-2023-30547)",
+      "description": "PoC Exploit  for VM2 Sandbox Escape Vulnerability",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T08:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-41352",
+      "repo_info": "[qailanet/cve-2022-41352-zimbra-rce](https://github.com/qailanet/cve-2022-41352-zimbra-rce)",
+      "description": "no description",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T22:29:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-0674",
+      "repo_info": "[Micky-Thongam/Internet-Explorer-UAF](https://github.com/Micky-Thongam/Internet-Explorer-UAF)",
+      "description": "Porting the CVE-2020-0674 exploit for Windows8.1 and Windows10",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T11:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-8617",
+      "repo_info": "[bb33bb/cve-2018-8617-aab-r-w-](https://github.com/bb33bb/cve-2018-8617-aab-r-w-)",
+      "description": "no description",
+      "date": "2023-12-10",
+      "raw_date": "2023-12-10T07:23:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.342276",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-12-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

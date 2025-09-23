@@ -1,0 +1,27 @@
+{
+  "date": "2016-12-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-8655",
+      "repo_info": "[LakshmiDesai/CVE-2016-8655](https://github.com/LakshmiDesai/CVE-2016-8655)",
+      "description": "no description",
+      "date": "2016-12-08",
+      "raw_date": "2016-12-08T07:41:52Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[ndobson/inspec_CVE-2016-5195](https://github.com/ndobson/inspec_CVE-2016-5195)",
+      "description": "Inspec profile for detecting CVE-2016-5195 aka Dirty COW",
+      "date": "2016-12-08",
+      "raw_date": "2016-12-08T22:41:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.466353",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-12-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

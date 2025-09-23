@@ -1,0 +1,34 @@
+{
+  "date": "2020-03-06",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11580",
+      "repo_info": "[shelld3v/CVE-2019-11580](https://github.com/shelld3v/CVE-2019-11580)",
+      "description": "A CVE-2019-11580 shell",
+      "date": "2020-03-06",
+      "raw_date": "2020-03-06T17:09:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[AdriVillaB/CVE-2018-6574](https://github.com/AdriVillaB/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2020-03-06",
+      "raw_date": "2020-03-06T16:17:07Z"
+    },
+    {
+      "cve_id": "CVE-2012-2688",
+      "repo_info": "[shelld3v/CVE-2012-2688](https://github.com/shelld3v/CVE-2012-2688)",
+      "description": "A CVE-2012-2688 shell",
+      "date": "2020-03-06",
+      "raw_date": "2020-03-06T16:12:39Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.924653",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-03-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

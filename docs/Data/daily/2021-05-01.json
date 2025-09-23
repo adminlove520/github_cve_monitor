@@ -1,0 +1,55 @@
+{
+  "date": "2021-05-01",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-6340",
+      "repo_info": "[nobodyatall648/CVE-2019-6340](https://github.com/nobodyatall648/CVE-2019-6340)",
+      "description": "Drupal Drupal 8.6.x RCE Exploit",
+      "date": "2021-05-01",
+      "raw_date": "2021-05-01T15:00:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-3396",
+      "repo_info": "[PetrusViet/cve-2019-3396](https://github.com/PetrusViet/cve-2019-3396)",
+      "description": "Confluence unauthorize template injection",
+      "date": "2021-05-01",
+      "raw_date": "2021-05-01T02:10:04Z"
+    },
+    {
+      "cve_id": "CVE-2017-5674",
+      "repo_info": "[eR072391/cve-2017-5674](https://github.com/eR072391/cve-2017-5674)",
+      "description": "no description",
+      "date": "2021-05-01",
+      "raw_date": "2021-05-01T14:04:58Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[nobodyatall648/CVE-2011-2523](https://github.com/nobodyatall648/CVE-2011-2523)",
+      "description": "vsftpd 2.3.4 Backdoor Exploit",
+      "date": "2021-05-01",
+      "raw_date": "2021-05-01T15:03:55Z"
+    },
+    {
+      "cve_id": "CVE-2009-0182",
+      "repo_info": "[nobodyatall648/CVE-2009-0182](https://github.com/nobodyatall648/CVE-2009-0182)",
+      "description": "CVE-2009-0182 VUPlayer2.49_LocalBufferOverflow",
+      "date": "2021-05-01",
+      "raw_date": "2021-05-01T15:07:32Z"
+    },
+    {
+      "cve_id": "CVE-2003-0264",
+      "repo_info": "[nobodyatall648/CVE-2003-0264](https://github.com/nobodyatall648/CVE-2003-0264)",
+      "description": "CVE-2003-0264 SLMail5.5_RemoteBufferOverflow",
+      "date": "2021-05-01",
+      "raw_date": "2021-05-01T15:06:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.342744",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-05-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2022-11-06",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-35914",
+      "repo_info": "[Gabriel-Lima232/CVE-2022-35914](https://github.com/Gabriel-Lima232/CVE-2022-35914)",
+      "description": "Unauthenticated RCE in GLPI 10.0.2",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T06:23:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[HarleyDoo/CVE-2022-32548-RCE-POC](https://github.com/HarleyDoo/CVE-2022-32548-RCE-POC)",
+      "description": "DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T12:03:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[g01f/CVE-2022-3236-POC](https://github.com/g01f/CVE-2022-3236-POC)",
+      "description": "Unauthenticated rce in sophos User Portal and Webadmin components mass exploitation tool",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T12:27:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-2586",
+      "repo_info": "[sniper404ghostxploit/CVE-2022-2586](https://github.com/sniper404ghostxploit/CVE-2022-2586)",
+      "description": "gcc exploit.c -o exploit -lmnl -lnftnl -no-pie -lpthread",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T07:34:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[APTIRAN/CVE-2022-21661](https://github.com/APTIRAN/CVE-2022-21661)",
+      "description": "The first poc video presenting the sql injection test from (  WordPress Core 5.8.2-&#x27;WP_Query&#x27;  / CVE-2022-21661)",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T20:44:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-29447",
+      "repo_info": "[akhils911dev/blind-xxe-controller-CVE-2021-29447](https://github.com/akhils911dev/blind-xxe-controller-CVE-2021-29447)",
+      "description": "Arbitrary file read controller based on CVE-2021-29447",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T04:26:20Z"
+    },
+    {
+      "cve_id": "CVE-2021-29447",
+      "repo_info": "[Val-Resh/CVE-2021-29447-POC](https://github.com/Val-Resh/CVE-2021-29447-POC)",
+      "description": "Proof of Concept for CVE-2021-29447 written in Python",
+      "date": "2022-11-06",
+      "raw_date": "2022-11-06T12:13:31Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.919541",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-11-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

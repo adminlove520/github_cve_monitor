@@ -1,0 +1,48 @@
+{
+  "date": "2017-04-13",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[homjxi0e/cve-2017-7269](https://github.com/homjxi0e/cve-2017-7269)",
+      "description": "no description",
+      "date": "2017-04-13",
+      "raw_date": "2017-04-13T09:27:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-0204",
+      "repo_info": "[ryhanson/CVE-2017-0204](https://github.com/ryhanson/CVE-2017-0204)",
+      "description": "no description",
+      "date": "2017-04-13",
+      "raw_date": "2017-04-13T02:42:24Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[SyFi/cve-2017-0199](https://github.com/SyFi/cve-2017-0199)",
+      "description": "no description",
+      "date": "2017-04-13",
+      "raw_date": "2017-04-13T16:40:27Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[ryhanson/CVE-2017-0199](https://github.com/ryhanson/CVE-2017-0199)",
+      "description": "no description",
+      "date": "2017-04-13",
+      "raw_date": "2017-04-13T02:41:36Z"
+    },
+    {
+      "cve_id": "CVE-2017-0106",
+      "repo_info": "[ryhanson/CVE-2017-0106](https://github.com/ryhanson/CVE-2017-0106)",
+      "description": "no description",
+      "date": "2017-04-13",
+      "raw_date": "2017-04-13T02:42:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.503212",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2017-04-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

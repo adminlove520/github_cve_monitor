@@ -1,0 +1,27 @@
+{
+  "date": "2016-05-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-0801",
+      "repo_info": "[abdsec/CVE-2016-0801](https://github.com/abdsec/CVE-2016-0801)",
+      "description": "no description",
+      "date": "2016-05-11",
+      "raw_date": "2016-05-11T04:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2016-0728",
+      "repo_info": "[bjzz/cve_2016_0728_exploit](https://github.com/bjzz/cve_2016_0728_exploit)",
+      "description": "3.8+ linux root exploit",
+      "date": "2016-05-11",
+      "raw_date": "2016-05-11T02:33:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.426499",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

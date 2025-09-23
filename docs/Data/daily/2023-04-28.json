@@ -1,0 +1,83 @@
+{
+  "date": "2023-04-28",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-31445",
+      "repo_info": "[Dodge-MPTC/CVE-2023-31445-Unprivileged-Information-Disclosure](https://github.com/Dodge-MPTC/CVE-2023-31445-Unprivileged-Information-Disclosure)",
+      "description": "Repository contains description for CVE-2023-31445",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T07:37:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-31443",
+      "repo_info": "[MaherAzzouzi/CVE-2023-31443](https://github.com/MaherAzzouzi/CVE-2023-31443)",
+      "description": "nordugrid-arc-wn 6.14.0 DoS/LPE.",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T14:17:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-30854",
+      "repo_info": "[jmrcsnchz/CVE-2023-30854](https://github.com/jmrcsnchz/CVE-2023-30854)",
+      "description": "no description",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T16:10:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[ipk1/CVE-2023-29489.py](https://github.com/ipk1/CVE-2023-29489.py)",
+      "description": "a pyhton script to test all results from shodan for cPanel CVE-2023-29489, credits to @assetnote, I just automate",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T16:56:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-25136",
+      "repo_info": "[nhakobyan685/CVE-2023-25136](https://github.com/nhakobyan685/CVE-2023-25136)",
+      "description": "OpenSSH 9.1 vulnerability mass scan and exploit",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T19:46:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-28368",
+      "repo_info": "[That-Guy-Steve/CVE-2022-28368-handler](https://github.com/That-Guy-Steve/CVE-2022-28368-handler)",
+      "description": "This repository contains a python script that will handle the majority of the dompdf cached font exploit (CVE-2022-28368), all you need to do is create the request",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T09:49:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-28368",
+      "repo_info": "[xiao-zhu-zhu/pig_CS4.4](https://github.com/xiao-zhu-zhu/pig_CS4.4)",
+      "description": "Cobalt Strike 4.4 猪猪版 去暗桩 去流量特征  beacon仿造真实API服务  修补CVE-2022-39197补丁",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T06:31:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-38314",
+      "repo_info": "[0xGabe/CVE-2021-38314](https://github.com/0xGabe/CVE-2021-38314)",
+      "description": "Exploit in python3 to explore CVE-2021-38314 in Redux Framework a wordpress plugin",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T17:03:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[bod4k/CVE-2020-35489](https://github.com/bod4k/CVE-2020-35489)",
+      "description": "POC for  Contact Form 7 &lt; 5.3.2 - Unrestricted File Upload  (Maybe Code execution )",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T22:59:53Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[H4shByte/CVE-2020-14882](https://github.com/H4shByte/CVE-2020-14882)",
+      "description": "CVE-2020-14882 rewritten in PowerShell",
+      "date": "2023-04-28",
+      "raw_date": "2023-04-28T12:38:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.186334",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-04-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

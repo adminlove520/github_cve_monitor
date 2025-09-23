@@ -1,0 +1,62 @@
+{
+  "date": "2024-06-29",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102)",
+      "description": "TEST CVE-2024-34102 Magento XXE",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T06:00:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[ibher16/rce_mgento](https://github.com/ibher16/rce_mgento)",
+      "description": "cve magento 2024",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T05:40:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-22853",
+      "repo_info": "[FaLLenSKiLL1/CVE-2024-22853](https://github.com/FaLLenSKiLL1/CVE-2024-22853)",
+      "description": "D-LINK Go-RT-AC750 GORTAC750_A1_FW_v101b03 has a hardcoded password for the Alphanetworks account, which allows remote attackers to obtain root access via a telnet session.",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T10:21:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-6553",
+      "repo_info": "[cc3305/CVE-2023-6553](https://github.com/cc3305/CVE-2023-6553)",
+      "description": "CVE-2023-6553 exploit script",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T17:01:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-45866",
+      "repo_info": "[cisnarfu/Bluepop](https://github.com/cisnarfu/Bluepop)",
+      "description": "CVE-2023-45866",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T19:06:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-33246",
+      "repo_info": "[PavilionQ/CVE-2023-33246-mitigation](https://github.com/PavilionQ/CVE-2023-33246-mitigation)",
+      "description": "no description",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T06:31:17Z"
+    },
+    {
+      "cve_id": "CVE-2005-3299",
+      "repo_info": "[Cr0w-ui/-CVE-2005-3299-](https://github.com/Cr0w-ui/-CVE-2005-3299-)",
+      "description": "phpMyAdmin 2.6.4-pl1 - Directory Traversal",
+      "date": "2024-06-29",
+      "raw_date": "2024-06-29T14:17:16Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.740126",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-06-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

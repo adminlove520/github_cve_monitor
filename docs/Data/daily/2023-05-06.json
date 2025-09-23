@@ -1,0 +1,55 @@
+{
+  "date": "2023-05-06",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-29007",
+      "repo_info": "[x-Defender/CVE-2023-29007_win-version](https://github.com/x-Defender/CVE-2023-29007_win-version)",
+      "description": "no description",
+      "date": "2023-05-06",
+      "raw_date": "2023-05-06T13:25:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-0386",
+      "repo_info": "[chenaotian/CVE-2023-0386](https://github.com/chenaotian/CVE-2023-0386)",
+      "description": "CVE-2023-0386 analysis and Exp",
+      "date": "2023-05-06",
+      "raw_date": "2023-05-06T06:07:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-30114",
+      "repo_info": "[str0ng4le/CVE-2022-30114](https://github.com/str0ng4le/CVE-2022-30114)",
+      "description": "no description",
+      "date": "2023-05-06",
+      "raw_date": "2023-05-06T16:51:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-21907",
+      "repo_info": "[EzoomE/CVE-2022-21907-RCE](https://github.com/EzoomE/CVE-2022-21907-RCE)",
+      "description": "CVE-2022-21907漏洞RCE PoC",
+      "date": "2023-05-06",
+      "raw_date": "2023-05-06T07:50:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[K3ysTr0K3R/CVE-2021-41773-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2021-41773-EXPLOIT)",
+      "description": "Apache version 2.4.49 is vulnerable to a directory traversal attack that could allow attackers to reveal sensitive information or gain remote code execution.",
+      "date": "2023-05-06",
+      "raw_date": "2023-05-06T17:46:29Z"
+    },
+    {
+      "cve_id": "CVE-2017-5487",
+      "repo_info": "[K3ysTr0K3R/CVE-2017-5487-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2017-5487-EXPLOIT)",
+      "description": "no description",
+      "date": "2023-05-06",
+      "raw_date": "2023-05-06T22:46:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.191914",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-05-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

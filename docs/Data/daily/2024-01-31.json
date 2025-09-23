@@ -1,0 +1,62 @@
+{
+  "date": "2024-01-31",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-0402",
+      "repo_info": "[ch4nui/CVE-2024-0402-RCE](https://github.com/ch4nui/CVE-2024-0402-RCE)",
+      "description": "CVE-2024-0402 Gitlab arbitrary file write/RCE",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T20:14:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-6036",
+      "repo_info": "[pctripsesp/CVE-2023-6036](https://github.com/pctripsesp/CVE-2023-6036)",
+      "description": "POC about Web3 – Crypto wallet Login &amp; NFT token gating &lt; 3.0.0 - Authentication Bypass Wordpress plugin",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T16:58:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-5961",
+      "repo_info": "[HadessCS/CVE-2023-5961](https://github.com/HadessCS/CVE-2023-5961)",
+      "description": "moxa ioLogik E1212",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T15:00:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-49950",
+      "repo_info": "[shrikeinfosec/cve-2023-49950](https://github.com/shrikeinfosec/cve-2023-49950)",
+      "description": "A write-up detailing CVE-2023-49950. Affects Logpoint SIEM v6.1.0-v7.3.0",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T10:18:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-40459",
+      "repo_info": "[majidmc2/CVE-2023-40459](https://github.com/majidmc2/CVE-2023-40459)",
+      "description": "PoC of CVE-2023-40459 (DoS on ACEmanager)",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T12:11:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-30632",
+      "repo_info": "[paulsery/CVE-2021-30632](https://github.com/paulsery/CVE-2021-30632)",
+      "description": "m-y-mo: https://github.com/github/securitylab/tree/main/SecurityExploits/Chrome/v8/CVE-2021-30632",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T03:28:58Z"
+    },
+    {
+      "cve_id": "CVE-2019-13272",
+      "repo_info": "[MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation](https://github.com/MDS1GNAL/ptrace_scope-CVE-2019-13272-privilege-escalation)",
+      "description": "Es una vulnerabilidad para escalar privilegios en linux.",
+      "date": "2024-01-31",
+      "raw_date": "2024-01-31T21:50:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.378430",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-01-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

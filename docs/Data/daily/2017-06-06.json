@@ -1,0 +1,20 @@
+{
+  "date": "2017-06-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3309",
+      "repo_info": "[alephsecurity/initroot](https://github.com/alephsecurity/initroot)",
+      "description": "Motorola Untethered Jailbreak: Exploiting CVE-2016-10277 for Secure Boot and Device Locking bypass",
+      "date": "2017-06-06",
+      "raw_date": "2017-06-06T12:00:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.523628",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-06-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

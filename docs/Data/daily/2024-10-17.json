@@ -1,0 +1,104 @@
+{
+  "date": "2024-10-17",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9680",
+      "repo_info": "[tdonaworth/Firefox-CVE-2024-9680](https://github.com/tdonaworth/Firefox-CVE-2024-9680)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T16:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-9234",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9234](https://github.com/RandomRobbieBF/CVE-2024-9234)",
+      "description": "GutenKit &lt;= 2.1.0 - Unauthenticated Arbitrary File Upload",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T18:48:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-48644",
+      "repo_info": "[rosembergpro/CVE-2024-48644](https://github.com/rosembergpro/CVE-2024-48644)",
+      "description": "Reolink Duo 2 WiFi v1.0.280 - Account Enumeration Vulnerability",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T23:27:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-47176",
+      "repo_info": "[gianlu111/CUPS-CVE-2024-47176](https://github.com/gianlu111/CUPS-CVE-2024-47176)",
+      "description": "A Mass Scanner designed to detect the CVE-2024-47176 vulnerability across systems running the Common Unix Printing System (CUPS).",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T18:21:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-40676",
+      "repo_info": "[Aakashmom/accounts_CVE-2024-40676-](https://github.com/Aakashmom/accounts_CVE-2024-40676-)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T11:40:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-40676",
+      "repo_info": "[Aakashmom/frameworks_base_accounts_CVE-2024-40676](https://github.com/Aakashmom/frameworks_base_accounts_CVE-2024-40676)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T11:29:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-40675",
+      "repo_info": "[Aakashmom/intent_CVE-2024-40675](https://github.com/Aakashmom/intent_CVE-2024-40675)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T11:46:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-40673",
+      "repo_info": "[Aakashmom/G3_libcore_native_CVE-2024-40673](https://github.com/Aakashmom/G3_libcore_native_CVE-2024-40673)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T12:26:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-40662",
+      "repo_info": "[Aakashmom/net_G2.5_CVE-2024-40662](https://github.com/Aakashmom/net_G2.5_CVE-2024-40662)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T12:39:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-30090",
+      "repo_info": "[Dor00tkit/CVE-2024-30090](https://github.com/Dor00tkit/CVE-2024-30090)",
+      "description": "CVE-2024-30090 - LPE PoC",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T08:38:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[HazeLook/CVE-2024-28987](https://github.com/HazeLook/CVE-2024-28987)",
+      "description": "no description",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T19:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-38408",
+      "repo_info": "[fazilbaig1/cve_2023_38408_scanner](https://github.com/fazilbaig1/cve_2023_38408_scanner)",
+      "description": "Vulnerability Overview CVE-2023-38408 affects OpenSSH versions &lt; 9.3p2 and stems from improper validation of data when SSH agent forwarding is enabled. When users connect to a remote server with ssh -A, they allow the agent on their local machine to be used for authentication to further systems",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T13:03:42Z"
+    },
+    {
+      "cve_id": "CVE-2010-2075",
+      "repo_info": "[nwclasantha/unreal_ircd_3281_backdoor_and_mitigation](https://github.com/nwclasantha/unreal_ircd_3281_backdoor_and_mitigation)",
+      "description": "The UnrealIRCd 3.2.8.1 Backdoor is associated with CVE-2010-2075, a well-known vulnerability that was introduced when the source code of the UnrealIRCd software was compromised.",
+      "date": "2024-10-17",
+      "raw_date": "2024-10-17T10:59:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.831364",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-10-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

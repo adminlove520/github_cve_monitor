@@ -1,0 +1,118 @@
+{
+  "date": "2022-11-20",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-44830",
+      "repo_info": "[RashidKhanPathan/CVE-2022-44830](https://github.com/RashidKhanPathan/CVE-2022-44830)",
+      "description": "no description",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T11:35:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-43117",
+      "repo_info": "[RashidKhanPathan/CVE-2022-43117](https://github.com/RashidKhanPathan/CVE-2022-43117)",
+      "description": "no description",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T11:33:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-42717",
+      "repo_info": "[EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717](https://github.com/EkamSinghWalia/Detection-and-Mitigation-script-for-CVE-2021-42717)",
+      "description": "Detection and Mitigation script for CVE-2021-42717 -&gt; ModSecurity DoS Vulnerability in JSON Parsing",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T18:01:34Z"
+    },
+    {
+      "cve_id": "CVE-2020-23593",
+      "repo_info": "[huzaifahussain98/CVE-2020-23593](https://github.com/huzaifahussain98/CVE-2020-23593)",
+      "description": "INFORMATION DISCLOSURE :CSRF to enable syslog mode and send to remote syslog server IP and Port.",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-23592",
+      "repo_info": "[huzaifahussain98/CVE-2020-23592](https://github.com/huzaifahussain98/CVE-2020-23592)",
+      "description": "CSRF attack leads to Reset ONU to Factory Default",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:38:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-23591",
+      "repo_info": "[huzaifahussain98/CVE-2020-23591](https://github.com/huzaifahussain98/CVE-2020-23591)",
+      "description": "ARBITAR FILE UPLOAD LEADS TO &quot;delete every file for Denial of Service (using &#x27;rm -rf *.*&#x27; in the code), reverse connection (using &#x27;.asp&#x27; webshell), backdoor , Escalation of Privileges, etc&quot;.",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:38:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-23590",
+      "repo_info": "[huzaifahussain98/CVE-2020-23590](https://github.com/huzaifahussain98/CVE-2020-23590)",
+      "description": "CSRF leads to change the password for &quot;WLAN SSID&quot;",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:37:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-23589",
+      "repo_info": "[huzaifahussain98/CVE-2020-23589](https://github.com/huzaifahussain98/CVE-2020-23589)",
+      "description": "Denial of Service through CSRF",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:37:29Z"
+    },
+    {
+      "cve_id": "CVE-2020-23588",
+      "repo_info": "[huzaifahussain98/CVE-2020-23588](https://github.com/huzaifahussain98/CVE-2020-23588)",
+      "description": "CSRF attack leads to &quot;Enable or Disable Ports&quot; and to &quot;Change port numbers",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:37:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-23587",
+      "repo_info": "[huzaifahussain98/CVE-2020-23587](https://github.com/huzaifahussain98/CVE-2020-23587)",
+      "description": "Men in the middle attack is possible through CSRF",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:37:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-23586",
+      "repo_info": "[huzaifahussain98/CVE-2020-23586](https://github.com/huzaifahussain98/CVE-2020-23586)",
+      "description": "CSRF allows to Add Network Traffic Control Type Rule",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:36:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-23585",
+      "repo_info": "[huzaifahussain98/CVE-2020-23585](https://github.com/huzaifahussain98/CVE-2020-23585)",
+      "description": "cross-site request forgery (CSRF) attack on &quot;OPTILINK OP-XT71000N Hardware Version: V2.2 , Firmware Version: OP_V3.3.1-191028&quot;.",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:27:09Z"
+    },
+    {
+      "cve_id": "CVE-2020-23584",
+      "repo_info": "[huzaifahussain98/CVE-2020-23584](https://github.com/huzaifahussain98/CVE-2020-23584)",
+      "description": "REMOTE CODE EXECUTION",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:17:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-23583",
+      "repo_info": "[huzaifahussain98/CVE-2020-23583](https://github.com/huzaifahussain98/CVE-2020-23583)",
+      "description": "REMOTE CODE EXECUTION found in &quot;OPTILINK OP-XT71000N&quot;.",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T17:02:19Z"
+    },
+    {
+      "cve_id": "CVE-2020-23582",
+      "repo_info": "[huzaifahussain98/CVE-2020-23582](https://github.com/huzaifahussain98/CVE-2020-23582)",
+      "description": "OPTILINK E-PON &quot;MODEL NO: OP-XT71000N&quot; with &quot;HARDWARE VERSION: V2.2&quot;; &amp; &quot;FIRMWARE VERSION: OP_V3.3.1-191028&quot;",
+      "date": "2022-11-20",
+      "raw_date": "2022-11-20T16:37:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.930640",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2022-11-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2021-12-24",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[puzzlepeaches/Log4jUnifi](https://github.com/puzzlepeaches/Log4jUnifi)",
+      "description": "Exploiting CVE-2021-44228 in Unifi Network Application for remote code execution and more.",
+      "date": "2021-12-24",
+      "raw_date": "2021-12-24T13:18:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[marcourbano/CVE-2021-44228](https://github.com/marcourbano/CVE-2021-44228)",
+      "description": "PoC for CVE-2021-44228.",
+      "date": "2021-12-24",
+      "raw_date": "2021-12-24T19:26:36Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[bsigouin/log4shell-vulnerable-app](https://github.com/bsigouin/log4shell-vulnerable-app)",
+      "description": "Spring Boot web application vulnerable to CVE-2021-44228, nicknamed Log4Shell.",
+      "date": "2021-12-24",
+      "raw_date": "2021-12-24T20:00:12Z"
+    },
+    {
+      "cve_id": "CVE-2020-3452",
+      "repo_info": "[megadimenex/MegaHiDocker](https://github.com/megadimenex/MegaHiDocker)",
+      "description": "This project is exploit for some docker containers with similar to vulnerability code: CVE-2020-35191",
+      "date": "2021-12-24",
+      "raw_date": "2021-12-24T18:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-8341",
+      "repo_info": "[adindrabkin/llama_facts](https://github.com/adindrabkin/llama_facts)",
+      "description": "Web application vulnerable to Python3 Flask SSTI (CVE-2019-8341)",
+      "date": "2021-12-24",
+      "raw_date": "2021-12-24T04:08:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.652689",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-12-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

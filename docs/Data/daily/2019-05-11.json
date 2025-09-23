@@ -1,0 +1,27 @@
+{
+  "date": "2019-05-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-3639",
+      "repo_info": "[mmxsrup/CVE-2018-3639](https://github.com/mmxsrup/CVE-2018-3639)",
+      "description": "Speculative Store Bypass (CVE-2018-3639) proof of concept for Linux",
+      "date": "2019-05-11",
+      "raw_date": "2019-05-11T12:11:05Z"
+    },
+    {
+      "cve_id": "CVE-2006-3592",
+      "repo_info": "[adenkiewicz/CVE-2006-3592](https://github.com/adenkiewicz/CVE-2006-3592)",
+      "description": "Exploit for Easy File Sharing FTP Server 3.5 on Win7 32",
+      "date": "2019-05-11",
+      "raw_date": "2019-05-11T18:11:34Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.787600",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

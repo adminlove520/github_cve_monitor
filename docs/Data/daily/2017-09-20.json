@@ -1,0 +1,27 @@
+{
+  "date": "2017-09-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8464",
+      "repo_info": "[pabloec20/optionsbleed](https://github.com/pabloec20/optionsbleed)",
+      "description": "CVE-2017-9798",
+      "date": "2017-09-20",
+      "raw_date": "2017-09-20T18:44:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-0785",
+      "repo_info": "[ojasookert/CVE-2017-0785](https://github.com/ojasookert/CVE-2017-0785)",
+      "description": "Blueborne CVE-2017-0785 Android information leak vulnerability",
+      "date": "2017-09-20",
+      "raw_date": "2017-09-20T23:32:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.555839",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-09-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2024-02-09",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-24386",
+      "repo_info": "[erick-duarte/CVE-2024-24386](https://github.com/erick-duarte/CVE-2024-24386)",
+      "description": "no description",
+      "date": "2024-02-09",
+      "raw_date": "2024-02-09T12:22:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-22024",
+      "repo_info": "[0dteam/CVE-2024-22024](https://github.com/0dteam/CVE-2024-22024)",
+      "description": "Check for CVE-2024-22024 vulnerability in Ivanti Connect Secure",
+      "date": "2024-02-09",
+      "raw_date": "2024-02-09T14:31:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-21887",
+      "repo_info": "[imhunterand/CVE-2024-21887](https://github.com/imhunterand/CVE-2024-21887)",
+      "description": "Ivanti Connect Secure &amp;  Ivanti Policy Secure allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance. (RCE Exploits)",
+      "date": "2024-02-09",
+      "raw_date": "2024-02-09T18:07:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[DOCKTYPe19/CVE-2018-9995](https://github.com/DOCKTYPe19/CVE-2018-9995)",
+      "description": "no description",
+      "date": "2024-02-09",
+      "raw_date": "2024-02-09T17:17:44Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[arminarab1999/CVE-2018-9995](https://github.com/arminarab1999/CVE-2018-9995)",
+      "description": "no description",
+      "date": "2024-02-09",
+      "raw_date": "2024-02-09T12:16:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.537669",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2024-02-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

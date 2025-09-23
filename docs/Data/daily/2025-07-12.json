@@ -1,0 +1,118 @@
+{
+  "date": "2025-07-12",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-7461",
+      "repo_info": "[bx33661/CVE-2025-7461](https://github.com/bx33661/CVE-2025-7461)",
+      "description": "no description",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T08:17:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-6058",
+      "repo_info": "[Nxploited/CVE-2025-6058](https://github.com/Nxploited/CVE-2025-6058)",
+      "description": "WPBookit &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T16:25:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[rvizx/CVE-2025-27591](https://github.com/rvizx/CVE-2025-27591)",
+      "description": "Below v0.8.1 - Local Privilege Escalation (CVE-2025-27591) - PoC Exploit",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T22:50:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[obamalaolu/CVE-2025-27591](https://github.com/obamalaolu/CVE-2025-27591)",
+      "description": "CVE-2025-27591",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T21:17:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-25257](https://github.com/B1ack4sh/Blackash-CVE-2025-25257)",
+      "description": "CVE-2025-25257",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T16:05:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[imbas007/CVE-2025-25257](https://github.com/imbas007/CVE-2025-25257)",
+      "description": "no description",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T15:14:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[adilburaksen/CVE-2025-25257-Exploit-Tool](https://github.com/adilburaksen/CVE-2025-25257-Exploit-Tool)",
+      "description": "Tool for detecting and exploiting CVE-2025-25257 in Fortinet FortiWeb.",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T14:44:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[aitorfirm/CVE-2025-25257](https://github.com/aitorfirm/CVE-2025-25257)",
+      "description": "Exploiting the CVE-2025-25257 vulnerability in FortiWeb. This repository demonstrates secure pre-authenticated SQL injection.",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T00:05:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC](https://github.com/sentilaso1/CVE-2025-24813-Apache-Tomcat-RCE-PoC)",
+      "description": "Proof of Concept for CVE-2025-24813, a Remote Code Execution vulnerability in Apache Tomcat. This PoC exploits unsafe deserialization via crafted session files uploaded through HTTP PUT requests, allowing attackers to execute arbitrary code remotely on vulnerable Tomcat servers.",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T02:40:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation](https://github.com/MacUchegit/Detecting-and-Analyzing-CVE-2024-24919-Exploitation)",
+      "description": "no description",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T16:28:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-1212",
+      "repo_info": "[r0otk3r/CVE-2024-1212](https://github.com/r0otk3r/CVE-2024-1212)",
+      "description": "no description",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T14:08:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-24439",
+      "repo_info": "[Makkkiiii/GitPython-Exploit-CVE-2022-24439](https://github.com/Makkkiiii/GitPython-Exploit-CVE-2022-24439)",
+      "description": "Method I used for my Practical Pentest Module.",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T05:16:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[r0otk3r/CVE-2022-1388](https://github.com/r0otk3r/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T10:22:58Z"
+    },
+    {
+      "cve_id": "CVE-2013-3900",
+      "repo_info": "[pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-](https://github.com/pkblanks/Remediating-CVE-2013-3900-EnableCertPaddingCheck-)",
+      "description": "no description",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T03:42:16Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[krill-x7/CVE-2011-2523](https://github.com/krill-x7/CVE-2011-2523)",
+      "description": "Python exploit for vsftpd 2.3.4 - Backdoor Command Execution",
+      "date": "2025-07-12",
+      "raw_date": "2025-07-12T07:31:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.068929",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-07-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

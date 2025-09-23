@@ -1,0 +1,27 @@
+{
+  "date": "2018-07-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6389",
+      "repo_info": "[AymanElSherif/oracle-oam-authentication-bypas-exploit](https://github.com/AymanElSherif/oracle-oam-authentication-bypas-exploit)",
+      "description": "Exploit for Oracle Access Manager padding oracle vulnerability (CVE-2018-2879)",
+      "date": "2018-07-29",
+      "raw_date": "2018-07-29T18:56:25Z"
+    },
+    {
+      "cve_id": "CVE-2016-9079",
+      "repo_info": "[dangokyo/CVE-2016-9079](https://github.com/dangokyo/CVE-2016-9079)",
+      "description": "A demo exploit of CVE-2016-9079 on Ubuntu x64",
+      "date": "2018-07-29",
+      "raw_date": "2018-07-29T12:55:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.671497",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-07-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2022-09-14",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-38789",
+      "repo_info": "[ProxyStaffy/Airties-CVE-2022-38789](https://github.com/ProxyStaffy/Airties-CVE-2022-38789)",
+      "description": "no description",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T12:43:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-37434",
+      "repo_info": "[nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434](https://github.com/nidhi7598/external_zlib-1.2.11_AOSP_10_r33_CVE-2022-37434)",
+      "description": "no description",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T07:28:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[Administrative2022/CVE-2022-32548-RCE](https://github.com/Administrative2022/CVE-2022-32548-RCE)",
+      "description": "Unauthenticated Remote Code Execution in DrayTek Vigor. CVE-2022-32548",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T10:51:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-29154",
+      "repo_info": "[EgeBalci/CVE-2022-29154](https://github.com/EgeBalci/CVE-2022-29154)",
+      "description": "HIP2022 presentation materials.",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T13:59:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-2546",
+      "repo_info": "[0xvinix/CVE-2022-2546](https://github.com/0xvinix/CVE-2022-2546)",
+      "description": "CVE-2022-2546 explained",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T19:03:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-20347",
+      "repo_info": "[ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347](https://github.com/ShaikUsaf/packages_apps_settings_AOSP10_r33_CVE-2022-20347)",
+      "description": "no description",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T12:06:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-8515",
+      "repo_info": "[trhacknon/CVE-2020-8515-PoC](https://github.com/trhacknon/CVE-2020-8515-PoC)",
+      "description": "no description",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T04:28:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-8515",
+      "repo_info": "[trhacknon/CVE-2020-8515](https://github.com/trhacknon/CVE-2020-8515)",
+      "description": "no description",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T04:25:09Z"
+    },
+    {
+      "cve_id": "CVE-2019-9766",
+      "repo_info": "[zeronohacker/CVE-2019-9766](https://github.com/zeronohacker/CVE-2019-9766)",
+      "description": "Free MP3 CD Ripper 2.6 版本中存在栈缓冲区溢出漏洞 (CVE-2019-9766)，远程攻击者可借助特制的 .mp3 文件利用该漏洞执行任意代码。",
+      "date": "2022-09-14",
+      "raw_date": "2022-09-14T02:19:57Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.875517",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

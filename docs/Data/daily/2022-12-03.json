@@ -1,0 +1,55 @@
+{
+  "date": "2022-12-03",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-44721",
+      "repo_info": "[gmh5225/CVE-2022-44721-CsFalconUninstaller](https://github.com/gmh5225/CVE-2022-44721-CsFalconUninstaller)",
+      "description": "no description",
+      "date": "2022-12-03",
+      "raw_date": "2022-12-03T11:04:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-24112",
+      "repo_info": "[Acczdy/CVE-2022-24112_POC](https://github.com/Acczdy/CVE-2022-24112_POC)",
+      "description": "CVE-2022-24112_POC",
+      "date": "2022-12-03",
+      "raw_date": "2022-12-03T14:31:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-0739",
+      "repo_info": "[BKreisel/CVE-2022-0739](https://github.com/BKreisel/CVE-2022-0739)",
+      "description": "Python Exploit for CVE-2022-0739",
+      "date": "2022-12-03",
+      "raw_date": "2022-12-03T01:33:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-44521",
+      "repo_info": "[Yeyvo/poc-CVE-2021-44521](https://github.com/Yeyvo/poc-CVE-2021-44521)",
+      "description": "full PoC of CVE-2021-44521",
+      "date": "2022-12-03",
+      "raw_date": "2022-12-03T21:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[mux0x/CVE-2018-6574](https://github.com/mux0x/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2022-12-03",
+      "raw_date": "2022-12-03T17:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[XiangSi-Howard/CTF---CVE-2011-2523](https://github.com/XiangSi-Howard/CTF---CVE-2011-2523)",
+      "description": "no description",
+      "date": "2022-12-03",
+      "raw_date": "2022-12-03T14:47:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.936201",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-12-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

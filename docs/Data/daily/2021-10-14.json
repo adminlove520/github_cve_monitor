@@ -1,0 +1,34 @@
+{
+  "date": "2021-10-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-24160",
+      "repo_info": "[FitTerminator/PS4-CVE-202130858](https://github.com/FitTerminator/PS4-CVE-202130858)",
+      "description": "no description",
+      "date": "2021-10-14",
+      "raw_date": "2021-10-14T20:30:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-24160",
+      "repo_info": "[FitTerminator/iOS-CVE-202130858](https://github.com/FitTerminator/iOS-CVE-202130858)",
+      "description": "Hi there! Thanks for testing out my first ever Github repository & implementation of an iOS webkit exploit! So you are aware: I did not discover this exploit, and I also did not write most of this. So far, I have started off with modifying existing code to begin to learn how this all works. Let me know how your experience went!",
+      "date": "2021-10-14",
+      "raw_date": "2021-10-14T04:28:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-16846",
+      "repo_info": "[zomy22/CVE-2020-16846-Saltstack-Salt-API](https://github.com/zomy22/CVE-2020-16846-Saltstack-Salt-API)",
+      "description": "no description",
+      "date": "2021-10-14",
+      "raw_date": "2021-10-14T10:09:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.577244",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-10-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

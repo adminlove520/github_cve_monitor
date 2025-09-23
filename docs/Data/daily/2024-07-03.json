@@ -1,0 +1,153 @@
+{
+  "date": "2024-07-03",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[jocker2410/CVE-2024-6387_poc](https://github.com/jocker2410/CVE-2024-6387_poc)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T15:51:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[t3rry327/cve-2024-6387-poc](https://github.com/t3rry327/cve-2024-6387-poc)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T13:21:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Symbolexe/CVE-2024-6387](https://github.com/Symbolexe/CVE-2024-6387)",
+      "description": "SSH Exploit for CVE-2024-6387 : RCE in OpenSSH&#x27;s server, on glibc-based Linux systems",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T08:22:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)",
+      "description": "git clone rce CVE-2024-30002",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T08:01:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[sxlmnwb/CVE-2024-6387](https://github.com/sxlmnwb/CVE-2024-6387)",
+      "description": "Targeting a signal handler race condition in OpenSSH&#x27;s server (sshd) on glibc-based Linux systems.",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T06:08:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-5655",
+      "repo_info": "[VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL](https://github.com/VulnResearcher/CVE-2024-5655-Gitlab-CSRF-GraphQL)",
+      "description": "Private exploit CVE-2024-5655 to Gitlab (Private repositories disclosure)",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T08:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-5084",
+      "repo_info": "[WOOOOONG/CVE-2024-5084](https://github.com/WOOOOONG/CVE-2024-5084)",
+      "description": "PoC Exploit for CVE-2024-5084",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T04:24:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[charis3306/CVE-2024-4577](https://github.com/charis3306/CVE-2024-4577)",
+      "description": "CVE-2024-4577 EXP",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T15:30:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-40422",
+      "repo_info": "[alpernae/CVE-2024-40422](https://github.com/alpernae/CVE-2024-40422)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T21:43:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-39844",
+      "repo_info": "[ph1ns/CVE-2024-39844](https://github.com/ph1ns/CVE-2024-39844)",
+      "description": "CVE-2024-39844 (ZNC &lt; 1.9.1 modtcl RCE)",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T23:27:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-37726",
+      "repo_info": "[carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/carsonchan12345/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T07:26:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[0xhunster/CVE-2024-34102](https://github.com/0xhunster/CVE-2024-34102)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T21:47:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[harshinsecurity/sentinelssh](https://github.com/harshinsecurity/sentinelssh)",
+      "description": "SentinelSSH is an advanced, high-performance SSH vulnerability scanner written in Go. It&#x27;s specifically designed to detect the CVE-2024-6387 vulnerability in OpenSSH servers across various network environments.",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T10:26:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[EQSTSeminar/git_rce](https://github.com/EQSTSeminar/git_rce)",
+      "description": "PoC for CVE-2024-32002",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T01:32:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape](https://github.com/Redfox-Secuirty/Unveiling-Moniker-Link-CVE-2024-21413-Navigating-the-Latest-Cybersecurity-Landscape)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T08:45:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-0044",
+      "repo_info": "[Re13orn/CVE-2024-0044-EXP](https://github.com/Re13orn/CVE-2024-0044-EXP)",
+      "description": "利用 CVE-2024-0044 Android 权限提升下载任意目标App沙箱文件。",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T10:29:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-32250",
+      "repo_info": "[lavenderlilly/CVE-2022-32250](https://github.com/lavenderlilly/CVE-2022-32250)",
+      "description": "no description",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T02:18:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-14714",
+      "repo_info": "[BTtea/CVE-2018-14714-RCE_exploit](https://github.com/BTtea/CVE-2018-14714-RCE_exploit)",
+      "description": "ASUS wifi router RCE vulnerability",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T02:39:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000251",
+      "repo_info": "[sgxgsx/blueborne-CVE-2017-1000251](https://github.com/sgxgsx/blueborne-CVE-2017-1000251)",
+      "description": "Linux Kernel &lt; 4.13.1 - BlueTooth Buffer Overflow (PoC) BlueBorne - Proof of Concept - Unarmed/Unweaponized - DoS (Crash) only",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T12:14:00Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[AnugiArrawwala/CVE-Research](https://github.com/AnugiArrawwala/CVE-Research)",
+      "description": "CVE-2017-0144 (Eternal Blue) - CVE-2023-3881 - CVE-2011-2523",
+      "date": "2024-07-03",
+      "raw_date": "2024-07-03T06:30:54Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.746416",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2024-07-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

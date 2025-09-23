@@ -1,0 +1,55 @@
+{
+  "date": "2023-10-29",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-50917",
+      "repo_info": "[Chocapikk/CVE-2023-50917](https://github.com/Chocapikk/CVE-2023-50917)",
+      "description": "MajorDoMo Unauthenticated RCE: Deep Dive &amp; Exploitation Techniques",
+      "date": "2023-10-29",
+      "raw_date": "2023-10-29T05:10:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-4966",
+      "repo_info": "[sanjai-AK47/CVE-2023-4966](https://github.com/sanjai-AK47/CVE-2023-4966)",
+      "description": "An Exploitation script developed to exploit the CVE-2023-4966 bleed citrix information disclosure vulnerability",
+      "date": "2023-10-29",
+      "raw_date": "2023-10-29T15:31:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-31692",
+      "repo_info": "[hotblac/cve-2022-31692](https://github.com/hotblac/cve-2022-31692)",
+      "description": "Demonstration of CVE-2022-31692 authorization bypass in Spring Security",
+      "date": "2023-10-29",
+      "raw_date": "2023-10-29T17:31:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-42342",
+      "repo_info": "[ijh4723/-zeroboo-Gohead-CVE-2021-42342-1](https://github.com/ijh4723/-zeroboo-Gohead-CVE-2021-42342-1)",
+      "description": "no description",
+      "date": "2023-10-29",
+      "raw_date": "2023-10-29T05:50:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[won6c/CVE-2021-22205](https://github.com/won6c/CVE-2021-22205)",
+      "description": "no description",
+      "date": "2023-10-29",
+      "raw_date": "2023-10-29T13:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2009-3103",
+      "repo_info": "[sec13b/ms09-050_CVE-2009-3103](https://github.com/sec13b/ms09-050_CVE-2009-3103)",
+      "description": "CVE-2009-3103 ms09-050",
+      "date": "2023-10-29",
+      "raw_date": "2023-10-29T05:25:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.312111",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-10-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

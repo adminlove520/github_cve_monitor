@@ -1,0 +1,27 @@
+{
+  "date": "2021-12-17",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[nu11secur1ty/CVE-2021-44228-VULN-APP](https://github.com/nu11secur1ty/CVE-2021-44228-VULN-APP)",
+      "description": "no description",
+      "date": "2021-12-17",
+      "raw_date": "2021-12-17T18:45:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[czz/ScreenConnect-UserEnum](https://github.com/czz/ScreenConnect-UserEnum)",
+      "description": "ConnectWise also known as ScreenConnect  CVE-2019-16516",
+      "date": "2021-12-17",
+      "raw_date": "2021-12-17T21:34:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.648322",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-12-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

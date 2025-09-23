@@ -1,0 +1,104 @@
+{
+  "date": "2023-11-29",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-49103",
+      "repo_info": "[ditekshen/ansible-cve-2023-49103](https://github.com/ditekshen/ansible-cve-2023-49103)",
+      "description": "Ansible Playbook for CVE-2023-49103",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T18:46:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-47840",
+      "repo_info": "[RandomRobbieBF/CVE-2023-47840](https://github.com/RandomRobbieBF/CVE-2023-47840)",
+      "description": "Qode Essential Addons &lt;= 1.5.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T20:14:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[tomasmussi-mulesoft/activemq-cve-2023-46604](https://github.com/tomasmussi-mulesoft/activemq-cve-2023-46604)",
+      "description": "Repository to exploit CVE-2023-46604 reported for ActiveMQ",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T18:30:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-4357",
+      "repo_info": "[sunu11/chrome-CVE-2023-4357](https://github.com/sunu11/chrome-CVE-2023-4357)",
+      "description": "poc",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T09:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-40626",
+      "repo_info": "[TLWebdesign/Joomla-3.10.12-languagehelper-hotfix](https://github.com/TLWebdesign/Joomla-3.10.12-languagehelper-hotfix)",
+      "description": "Plugin to fix security vulnerability CVE-2023-40626 in Joomla 3.10.12",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T19:46:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Ly0kha/Joomla-CVE-2023-23752-Exploit-Script](https://github.com/Ly0kha/Joomla-CVE-2023-23752-Exploit-Script)",
+      "description": "Joomla CVE-2023-23752 Exploit Script",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T17:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[INTfinityConsulting/cve-2023-22515](https://github.com/INTfinityConsulting/cve-2023-22515)",
+      "description": "Confluence broken access control to code execution",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T01:34:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-20944",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944](https://github.com/nidhi7598/frameworks_base_AOSP_06_r22_core_CVE-2023-20944)",
+      "description": "no description",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T06:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-20921",
+      "repo_info": "[Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921](https://github.com/Trinadh465/frameworks_base_android-6.0.1_r22_CVE-2023-20921)",
+      "description": "no description",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T06:42:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-31166",
+      "repo_info": "[maixuany/detect_CVE_2021_31166](https://github.com/maixuany/detect_CVE_2021_31166)",
+      "description": "no description",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T05:51:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-13405",
+      "repo_info": "[mrnazu/CVE-2020-13405](https://github.com/mrnazu/CVE-2020-13405)",
+      "description": "MicroWeber Unauthenticated User Database Disclosure - CVE-2020-13405",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T15:38:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[BjarneVerschorre/CVE-2019-9053](https://github.com/BjarneVerschorre/CVE-2019-9053)",
+      "description": "no description",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T21:47:41Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[EDLLT/CVE-2016-5195-master](https://github.com/EDLLT/CVE-2016-5195-master)",
+      "description": "no description",
+      "date": "2023-11-29",
+      "raw_date": "2023-11-29T03:34:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.332077",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2023-11-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

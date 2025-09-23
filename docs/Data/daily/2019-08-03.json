@@ -1,0 +1,41 @@
+{
+  "date": "2019-08-03",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[wotmd/VirtualBox-6.0.0-Exploit-1-day](https://github.com/wotmd/VirtualBox-6.0.0-Exploit-1-day)",
+      "description": "CVE-2019-2525 / CVE-2019-2548",
+      "date": "2019-08-03",
+      "raw_date": "2019-08-03T12:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-14234",
+      "repo_info": "[Rivaill/CVE_2019_14234](https://github.com/Rivaill/CVE_2019_14234)",
+      "description": "漏洞demo",
+      "date": "2019-08-03",
+      "raw_date": "2019-08-03T04:49:56Z"
+    },
+    {
+      "cve_id": "CVE-2017-9830",
+      "repo_info": "[securifera/CVE-2017-9830](https://github.com/securifera/CVE-2017-9830)",
+      "description": "no description",
+      "date": "2019-08-03",
+      "raw_date": "2019-08-03T03:29:12Z"
+    },
+    {
+      "cve_id": "CVE-2013-2028",
+      "repo_info": "[tachibana51/CVE-2013-2028-x64-bypass-ssp-and-pie-PoC](https://github.com/tachibana51/CVE-2013-2028-x64-bypass-ssp-and-pie-PoC)",
+      "description": "this is not stable",
+      "date": "2019-08-03",
+      "raw_date": "2019-08-03T07:38:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.817849",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-08-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

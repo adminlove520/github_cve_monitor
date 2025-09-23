@@ -1,0 +1,272 @@
+{
+  "date": "2025-07-11",
+  "count": 37,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6514",
+      "repo_info": "[ChaseHCS/CVE-2025-6514](https://github.com/ChaseHCS/CVE-2025-6514)",
+      "description": "Documentation for CVE-2025-6514. MCP-Remote RCE.",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T15:46:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[Jishanluhar/CVE-2025-5777](https://github.com/Jishanluhar/CVE-2025-5777)",
+      "description": "Explore the CVE-2025-5777 vulnerability in Citrix NetScaler. This script highlights a memory leak issue for educational purposes. 🐱💻🔍",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T11:17:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-56311",
+      "repo_info": "[wrathfulDiety/CVE-2025-56311](https://github.com/wrathfulDiety/CVE-2025-56311)",
+      "description": "CSRF vulnerability in FD602GW-DX-R410 router allows remote attackers to reboot the device via a crafted POST request to /boaform/admin/formReboot when an admin is authenticated.",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T19:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-52097",
+      "repo_info": "[rwilsonecs/CVE-2025-52097](https://github.com/rwilsonecs/CVE-2025-52097)",
+      "description": "Public Disclosure of CVE-2025-52097",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T19:18:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[hackmelocal/HML-CVE-2025-49113](https://github.com/hackmelocal/HML-CVE-2025-49113)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T13:19:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-48799",
+      "repo_info": "[KOVmechatronics/CVE-2025-48799](https://github.com/KOVmechatronics/CVE-2025-48799)",
+      "description": "This PoC for CVE-2025-48799 demonstrates an elevation of privilege vulnerability in Windows Update service, affecting Windows 10 and 11. 🐱💻🔒",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T12:09:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[vinieger/vinieger-CVE-2025-48384-Dockerfile](https://github.com/vinieger/vinieger-CVE-2025-48384-Dockerfile)",
+      "description": "PoC dockerfile image for CVE-2025-48384",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T11:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[p1026/CVE-2025-48384](https://github.com/p1026/CVE-2025-48384)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T06:26:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-45778",
+      "repo_info": "[Smarttfoxx/CVE-2025-45778](https://github.com/Smarttfoxx/CVE-2025-45778)",
+      "description": "A stored cross-site scripting (XSS) vulnerability in The Language Sloth Web Application v1.0 allows attackers to execute arbitrary javascript or HTML code via injecting a crafted payload into the &quot;Description&quot; text field when creating a new project.",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:15:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-38001",
+      "repo_info": "[0xdevil/CVE-2025-38001](https://github.com/0xdevil/CVE-2025-38001)",
+      "description": "Linux HFSC Eltree Use-After-Free - Debian 12 PoC",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T18:34:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[morgenm/sudo-chroot-CVE-2025-32463](https://github.com/morgenm/sudo-chroot-CVE-2025-32463)",
+      "description": "Rust PoC for CVE-2025-32463 (sudo chroot &quot;chwoot&quot; Local PrivEsc)",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T15:51:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[toohau/CVE-2025-32462-32463-Detection-Script-](https://github.com/toohau/CVE-2025-32462-32463-Detection-Script-)",
+      "description": "Critical Sudo Vulnerabilities Let Local Users Gain Root Access on Linux, Impacting Major Distros",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T07:47:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[0xbigshaq/CVE-2025-25257](https://github.com/0xbigshaq/CVE-2025-25257)",
+      "description": "FortiWeb CVE-2025-25257 exploit",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T12:09:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-24201",
+      "repo_info": "[The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-](https://github.com/The-Maxu/CVE-2025-24201-WebKit-Vulnerability-Detector-PoC-)",
+      "description": "CVE-2025-24201 WebKit Vulnerability Detector (PoC)",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T14:01:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-0133",
+      "repo_info": "[shawarkhanethicalhacker/CVE-2025-0133-exploit](https://github.com/shawarkhanethicalhacker/CVE-2025-0133-exploit)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T20:58:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[mananjain61/PHP-CGI-INTERNAL-RCE](https://github.com/mananjain61/PHP-CGI-INTERNAL-RCE)",
+      "description": "Delivering PHP RCE (CVE-2024-4577) to the Local Network Servers",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T12:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[ZeroMemoryEx/PHP-CGI-INTERNAL-RCE](https://github.com/ZeroMemoryEx/PHP-CGI-INTERNAL-RCE)",
+      "description": "Delivering PHP RCE (CVE-2024-4577) to the Local Network Servers",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T10:34:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-45352",
+      "repo_info": "[Edwins907/CVE-2024-45352](https://github.com/Edwins907/CVE-2024-45352)",
+      "description": "vulnerability in Xiaomi (CVE-2024-45352)",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:49:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-45352",
+      "repo_info": "[guinea-offensive-security/Ofbiz-RCE](https://github.com/guinea-offensive-security/Ofbiz-RCE)",
+      "description": "CVE-2024-32113 &amp; CVE-2024-38856",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:13:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-45352",
+      "repo_info": "[Edwins907/-CVE-2024-45352](https://github.com/Edwins907/-CVE-2024-45352)",
+      "description": "Technical report about a critical vulnerability in Xiaomi (CVE-2024-45352)",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T06:48:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-45352",
+      "repo_info": "[Edwins907/xiaomi-cve-2024-45352](https://github.com/Edwins907/xiaomi-cve-2024-45352)",
+      "description": "Reporte técnico sobre vulnerabilidad crítica de Xiaomi",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-45352",
+      "repo_info": "[Edwins907/CVE-2024-45352-xiaomi](https://github.com/Edwins907/CVE-2024-45352-xiaomi)",
+      "description": "Technical report about a critical vulnerability in Xiaomi (CVE-2024-45352)",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:53:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-10915",
+      "repo_info": "[r0otk3r/CVE-2024-10915](https://github.com/r0otk3r/CVE-2024-10915)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T07:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-23638",
+      "repo_info": "[cuijiung/dubbo-CVE-2023-23638](https://github.com/cuijiung/dubbo-CVE-2023-23638)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T07:47:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-36934",
+      "repo_info": "[Teexo/mailenable-cve-2022-36934](https://github.com/Teexo/mailenable-cve-2022-36934)",
+      "description": "Metasploit module for MailEnable CVE-2022-36934 authentication bypass RCE",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:28:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-25845",
+      "repo_info": "[cuijiung/fastjson-CVE-2022-25845](https://github.com/cuijiung/fastjson-CVE-2022-25845)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T07:43:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[cuijiung/log4j-CVE-2021-44228](https://github.com/cuijiung/log4j-CVE-2021-44228)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T05:55:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-4104",
+      "repo_info": "[cuijiung/log4j-CVE-2021-4104](https://github.com/cuijiung/log4j-CVE-2021-4104)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T04:01:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-29505",
+      "repo_info": "[cuijiung/xstream-CVE-2021-29505](https://github.com/cuijiung/xstream-CVE-2021-29505)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T03:28:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-36180",
+      "repo_info": "[cuijiung/jackson-CVE-2020-36180](https://github.com/cuijiung/jackson-CVE-2020-36180)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T07:32:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-26259",
+      "repo_info": "[cuijiung/xstream-CVE-2020-26259](https://github.com/cuijiung/xstream-CVE-2020-26259)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T03:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2020-26258",
+      "repo_info": "[cuijiung/xstream-CVE-2020-26258](https://github.com/cuijiung/xstream-CVE-2020-26258)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T03:53:10Z"
+    },
+    {
+      "cve_id": "CVE-2020-26217",
+      "repo_info": "[cuijiung/xstream-CVE-2020-26217](https://github.com/cuijiung/xstream-CVE-2020-26217)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T03:56:44Z"
+    },
+    {
+      "cve_id": "CVE-2020-11989",
+      "repo_info": "[cuijiung/shiro-CVE-2020-11989](https://github.com/cuijiung/shiro-CVE-2020-11989)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T07:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2018-1049",
+      "repo_info": "[lukehebe/CVE-2018-1049](https://github.com/lukehebe/CVE-2018-1049)",
+      "description": "no description",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T00:11:57Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287](https://github.com/rahisec/rejetto-http-file-server-2.3.x-RCE-exploit-CVE-2014-6287)",
+      "description": "This repository contains Detailed explanation and working poc for Rejetto HTTP File Server (HFS) 2.3.x - Remote Command Execution.",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T02:10:23Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[MrRoma577/exploit_cve-2007-2447_again](https://github.com/MrRoma577/exploit_cve-2007-2447_again)",
+      "description": "just remeber how small mistake in santisize username could give yoy root access to the full machine",
+      "date": "2025-07-11",
+      "raw_date": "2025-07-11T08:28:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.068929",
+  "metadata": {
+    "total_cves": 37,
+    "date_range": "2025-07-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

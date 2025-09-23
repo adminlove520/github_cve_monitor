@@ -1,0 +1,34 @@
+{
+  "date": "2021-10-08",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[Vulnmachines/cve-2021-42013](https://github.com/Vulnmachines/cve-2021-42013)",
+      "description": "Apache 2.4.50 Path traversal vulnerability",
+      "date": "2021-10-08",
+      "raw_date": "2021-10-08T05:44:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[einzbernnn/CVE-2020-1938Scan](https://github.com/einzbernnn/CVE-2020-1938Scan)",
+      "description": "-H 192.168.1.1-192.168.5.255",
+      "date": "2021-10-08",
+      "raw_date": "2021-10-08T04:20:43Z"
+    },
+    {
+      "cve_id": "CVE-2016-9079",
+      "repo_info": "[Tau-hub/Firefox-CVE-2016-9079](https://github.com/Tau-hub/Firefox-CVE-2016-9079)",
+      "description": "no description",
+      "date": "2021-10-08",
+      "raw_date": "2021-10-08T21:44:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.573061",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-10-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

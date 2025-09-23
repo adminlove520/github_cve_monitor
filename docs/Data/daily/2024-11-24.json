@@ -1,0 +1,118 @@
+{
+  "date": "2024-11-24",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[YassDEV221608/CVE-2024-6387](https://github.com/YassDEV221608/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T17:12:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[Cyb3rFr0g/CVE-2024-48990-PoC](https://github.com/Cyb3rFr0g/CVE-2024-48990-PoC)",
+      "description": "My take on the needrestart Python CVE-2024-48990",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T02:12:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[gh-ost00/CVE-2024-Collection](https://github.com/gh-ost00/CVE-2024-Collection)",
+      "description": "&quot;Collection of CVE PoCs for WordPress plugins - for educational and research purposes only.&quot;",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T00:11:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[r0xdeadbeef/CVE-2024-48990-exploit](https://github.com/r0xdeadbeef/CVE-2024-48990-exploit)",
+      "description": "Qualys discovered that needrestart, before version 3.8, allows local attackers to execute arbitrary code as root by tricking needrestart into running the Python interpreter with an attacker-controlled PYTHONPATH environment variable.",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T15:57:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[pentestfunctions/CVE-2024-48990-PoC-Testing](https://github.com/pentestfunctions/CVE-2024-48990-PoC-Testing)",
+      "description": "Testing POC for use cases",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T07:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-33901",
+      "repo_info": "[gmikisilva/CVE-2024-33901-ProofOfConcept](https://github.com/gmikisilva/CVE-2024-33901-ProofOfConcept)",
+      "description": "Short program that demonstrates the vulnerability CVE-2024-33901 in KeePassXC version 2.7.7",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T05:43:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-29404",
+      "repo_info": "[mansk1es/CVE-2024-29404_Razer](https://github.com/mansk1es/CVE-2024-29404_Razer)",
+      "description": "no description",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T13:43:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[XiaomingX/cve-2024-21762-poc](https://github.com/XiaomingX/cve-2024-21762-poc)",
+      "description": "CVE-2024-21762 是 Fortinet 公司的 FortiOS 和 FortiProxy 产品中的一个严重漏洞，存在于其 SSL VPN 组件中。",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T07:20:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-11387",
+      "repo_info": "[windz3r0day/CVE-2024-11387](https://github.com/windz3r0day/CVE-2024-11387)",
+      "description": "CVE-2024-11387 poc exploit",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T22:14:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-11387",
+      "repo_info": "[njeru-codes/needrestart-vulnerability-poc](https://github.com/njeru-codes/needrestart-vulnerability-poc)",
+      "description": "A Local Privilege Escalation poc scipts for CVE-2024-48990, CVE-2024-48991, CVE-2024-48992, CVE-2024-10224, and CVE-2024-11003",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T18:54:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE](https://github.com/Diegomjx/CVE-2023-41425-WonderCMS-Authenticated-RCE)",
+      "description": "Xss injection, WonderCMS 3.2.0 -3.4.2",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T17:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-1663",
+      "repo_info": "[WolffCorentin/CVE-2019-1663-Binary-Analysis](https://github.com/WolffCorentin/CVE-2019-1663-Binary-Analysis)",
+      "description": "no description",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T14:23:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-10149",
+      "repo_info": "[uyerr/PoC_CVE-2019-10149--rce](https://github.com/uyerr/PoC_CVE-2019-10149--rce)",
+      "description": "Remote Command Execution into shell from a vulnerable exim service.",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T23:44:51Z"
+    },
+    {
+      "cve_id": "CVE-2015-9238",
+      "repo_info": "[JamesDarf/wargame-turkey_in_2](https://github.com/JamesDarf/wargame-turkey_in_2)",
+      "description": "CVE-2015-9238, Unicode bypass",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T01:49:24Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[francescobrina/hfs-cve-2014-6287-exploit](https://github.com/francescobrina/hfs-cve-2014-6287-exploit)",
+      "description": "no description",
+      "date": "2024-11-24",
+      "raw_date": "2024-11-24T14:39:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.864398",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-11-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

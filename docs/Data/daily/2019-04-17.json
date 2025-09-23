@@ -1,0 +1,20 @@
+{
+  "date": "2019-04-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-1235",
+      "repo_info": "[AbsoZed/CVE-2018-1235](https://github.com/AbsoZed/CVE-2018-1235)",
+      "description": "A python script that tests for an exploitable instance of CVE-2018-1235.",
+      "date": "2019-04-17",
+      "raw_date": "2019-04-17T18:37:00Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.777268",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-04-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

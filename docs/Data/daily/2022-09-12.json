@@ -1,0 +1,69 @@
+{
+  "date": "2022-09-12",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-37706",
+      "repo_info": "[MaherAzzouzi/CVE-2022-37706-LPE-exploit](https://github.com/MaherAzzouzi/CVE-2022-37706-LPE-exploit)",
+      "description": "A reliable exploit + write-up to elevate privileges to root. (Tested on Ubuntu 22.04)",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T19:22:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[rftg1000/CVE-2022-32548-RCE-POC](https://github.com/rftg1000/CVE-2022-32548-RCE-POC)",
+      "description": "DrayTek unauthenticated remote code execution vulnerability (CVE-2022-32548) in /cgi-bin/wlogin.cgi via username field",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T09:31:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-30075",
+      "repo_info": "[M4fiaB0y/CVE-2022-30075](https://github.com/M4fiaB0y/CVE-2022-30075)",
+      "description": "no description",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T07:28:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[akincibor/CVE-2022-27925](https://github.com/akincibor/CVE-2022-27925)",
+      "description": "CVE-2022-27925 nuclei template",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T08:30:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-20361",
+      "repo_info": "[nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2022-20361)",
+      "description": "no description",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T11:10:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-20344",
+      "repo_info": "[nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344](https://github.com/nidhi7598/frameworks_native_AOSP_10_r33_CVE-2022-20344)",
+      "description": "no description",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T07:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-42321",
+      "repo_info": "[xnyuq/cve-2021-42321](https://github.com/xnyuq/cve-2021-42321)",
+      "description": "no description",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T05:13:40Z"
+    },
+    {
+      "cve_id": "CVE-2015-4133",
+      "repo_info": "[D3Ext/CVE-2015-4133](https://github.com/D3Ext/CVE-2015-4133)",
+      "description": "POC exploit for CVE-2015-4133",
+      "date": "2022-09-12",
+      "raw_date": "2022-09-12T10:43:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.873305",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-09-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2021-10-30",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0668",
+      "repo_info": "[bypazs/CVE-2020-0668.exe](https://github.com/bypazs/CVE-2020-0668.exe)",
+      "description": "no description",
+      "date": "2021-10-30",
+      "raw_date": "2021-10-30T17:28:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-5420",
+      "repo_info": "[timeowilliamsq/HyperSine](https://github.com/timeowilliamsq/HyperSine)",
+      "description": "CVE-2019-9729. Transferred from https://github.com/DoubleLabyrinth/SdoKeyCrypt-sys-local-privilege-elevation",
+      "date": "2021-10-30",
+      "raw_date": "2021-10-30T15:56:37Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[anaCvetkovic1234/Ana-Cvetkovic-0427-2018-Bunus2](https://github.com/anaCvetkovic1234/Ana-Cvetkovic-0427-2018-Bunus2)",
+      "description": "no description",
+      "date": "2021-10-30",
+      "raw_date": "2021-10-30T12:37:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[anaCvetkovic1234/Ana-Cvetkovic-0427-2018-Bonus2](https://github.com/anaCvetkovic1234/Ana-Cvetkovic-0427-2018-Bonus2)",
+      "description": "no description",
+      "date": "2021-10-30",
+      "raw_date": "2021-10-30T12:33:19Z"
+    },
+    {
+      "cve_id": "CVE-2017-8225",
+      "repo_info": "[kienquoc102/CVE-2017-8225](https://github.com/kienquoc102/CVE-2017-8225)",
+      "description": "no description",
+      "date": "2021-10-30",
+      "raw_date": "2021-10-30T02:28:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.591024",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-10-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

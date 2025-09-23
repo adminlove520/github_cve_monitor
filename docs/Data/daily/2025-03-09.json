@@ -1,0 +1,69 @@
+{
+  "date": "2025-03-09",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-29712",
+      "repo_info": "[SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS](https://github.com/SteamPunk424/CVE-2025-29712-TAKASHI-Wireless-Instant-Router-And-Repeater-WebApp-Authenticated-Stored-XSS)",
+      "description": "no description",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T16:40:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-27840",
+      "repo_info": "[em0gi/CVE-2025-27840](https://github.com/em0gi/CVE-2025-27840)",
+      "description": "Expanded version of the code shown at RootedCON redone in python - CVE-2025-27840",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T16:15:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-27636",
+      "repo_info": "[akamai/CVE-2025-27636-Apache-Camel-PoC](https://github.com/akamai/CVE-2025-27636-Apache-Camel-PoC)",
+      "description": "no description",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T09:42:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-21333",
+      "repo_info": "[Mukesh-blend/CVE-2025-21333-POC](https://github.com/Mukesh-blend/CVE-2025-21333-POC)",
+      "description": "POC exploit for CVE-2025-21333 heap-based buffer overflow. It leverages WNF state data and I/O ring IOP_MC_BUFFER_ENTRY",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T23:50:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-1316",
+      "repo_info": "[Rimasue/CVE-2025-1316](https://github.com/Rimasue/CVE-2025-1316)",
+      "description": "Improper Neutralization of Special Elements used in an OS Command (&#x27;OS Command Injection&#x27;) (CWE-78)",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T10:57:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-10629",
+      "repo_info": "[Nxploited/CVE-2024-10629](https://github.com/Nxploited/CVE-2024-10629)",
+      "description": "GPX Viewer &lt;= 2.2.8 - Authenticated (Subscriber+) Arbitrary File Creation",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T19:26:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[sk00l/CVE-2023-30258](https://github.com/sk00l/CVE-2023-30258)",
+      "description": "no description",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T15:01:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-27350",
+      "repo_info": "[monke443/CVE-2023-27350](https://github.com/monke443/CVE-2023-27350)",
+      "description": "Unauthenticated remote command execution in Papercut service allows an attacker to execute commands due to improper access controls in the SetupCompleted Java class.",
+      "date": "2025-03-09",
+      "raw_date": "2025-03-09T18:08:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.948541",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2025-03-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2018-09-13",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[shack2/javaserializetools](https://github.com/shack2/javaserializetools)",
+      "description": "Java反序列化漏洞利用工具V1.0    Java反序列化相关漏洞的检查工具，采用JDK 1.8+NetBeans8.2开发，软件运行必须安装JDK 1.8或者以上版本。   支持：weblogic xml反序列化漏洞 CVE-2017-10271/CNVD-C-2019-48814/CVE-2019-2725检查。",
+      "date": "2018-09-13",
+      "raw_date": "2018-09-13T09:44:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-16987",
+      "repo_info": "[gquere/CVE-2018-16987](https://github.com/gquere/CVE-2018-16987)",
+      "description": "Details about CVE-2018-16987 - Cleartext storage of TA servers&#x27; passwords in Squash TM",
+      "date": "2018-09-13",
+      "raw_date": "2018-09-13T15:32:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-1000802",
+      "repo_info": "[omerporze/toothfairy](https://github.com/omerporze/toothfairy)",
+      "description": "CVE-2018-4330 POC for iOS",
+      "date": "2018-09-13",
+      "raw_date": "2018-09-13T16:05:20Z"
+    },
+    {
+      "cve_id": "CVE-2017-6913",
+      "repo_info": "[gquere/CVE-2017-6913](https://github.com/gquere/CVE-2017-6913)",
+      "description": "Details about CVE-2017-6913 - Stored XSS in open-xchange&#x27;s webmail",
+      "date": "2018-09-13",
+      "raw_date": "2018-09-13T05:51:59Z"
+    },
+    {
+      "cve_id": "CVE-2016-7255",
+      "repo_info": "[bbolmin/cve-2016-7255_x86_x64](https://github.com/bbolmin/cve-2016-7255_x86_x64)",
+      "description": "porting CVE-2016-7255 to x86 for educational purposes.",
+      "date": "2018-09-13",
+      "raw_date": "2018-09-13T12:47:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.686261",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2018-09-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

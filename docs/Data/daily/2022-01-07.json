@@ -1,0 +1,34 @@
+{
+  "date": "2022-01-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[StanPlatinum/snapshot-demo](https://github.com/StanPlatinum/snapshot-demo)",
+      "description": "CVE-2022-27499",
+      "date": "2022-01-07",
+      "raw_date": "2022-01-07T03:45:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Vulnmachines/log4jshell_CVE-2021-44228](https://github.com/Vulnmachines/log4jshell_CVE-2021-44228)",
+      "description": "Log4jshell - CVE-2021-44228",
+      "date": "2022-01-07",
+      "raw_date": "2022-01-07T09:56:30Z"
+    },
+    {
+      "cve_id": "CVE-2012-5519",
+      "repo_info": "[0zvxr/CVE-2012-5519](https://github.com/0zvxr/CVE-2012-5519)",
+      "description": "cups-root-file-read.sh - CVE-2012-5519",
+      "date": "2022-01-07",
+      "raw_date": "2022-01-07T15:39:47Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.662559",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-01-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2017-11-22",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[starnightcyber/CVE-2017-11882](https://github.com/starnightcyber/CVE-2017-11882)",
+      "description": "CVE-2017-11882 exploitation",
+      "date": "2017-11-22",
+      "raw_date": "2017-11-22T01:11:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[j0lama/Dnstracer-1.9-Fix](https://github.com/j0lama/Dnstracer-1.9-Fix)",
+      "description": "CVE-2017-9430 Fix",
+      "date": "2017-11-22",
+      "raw_date": "2017-11-22T09:19:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[Grey-Li/CVE-2017-11882](https://github.com/Grey-Li/CVE-2017-11882)",
+      "description": "no description",
+      "date": "2017-11-22",
+      "raw_date": "2017-11-22T04:53:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.577685",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-11-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2023-08-16",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-38836",
+      "repo_info": "[1337kid/CVE-2023-38836](https://github.com/1337kid/CVE-2023-38836)",
+      "description": "Exploit for file upload vulnerability in BoidCMS version &lt;=2.0.0",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T14:30:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-34853",
+      "repo_info": "[risuxx/CVE-2023-34853](https://github.com/risuxx/CVE-2023-34853)",
+      "description": "no description",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T15:13:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-27100",
+      "repo_info": "[tadhglewis/apollo-koa-minimal](https://github.com/tadhglewis/apollo-koa-minimal)",
+      "description": "GraphQL vulnerability disclosure: CVE-2023-26144",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T11:44:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-39986",
+      "repo_info": "[WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC](https://github.com/WhiteOwl-Pub/RaspAP-CVE-2022-39986-PoC)",
+      "description": "CVE-2022-39986 PoC",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T11:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-5873",
+      "repo_info": "[nidhi7598/linux-4.1.15_CVE-2018-5873](https://github.com/nidhi7598/linux-4.1.15_CVE-2018-5873)",
+      "description": "no description",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T11:23:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-5873",
+      "repo_info": "[Trinadh465/linux-4.1.15_CVE-2018-5873](https://github.com/Trinadh465/linux-4.1.15_CVE-2018-5873)",
+      "description": "no description",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T11:35:08Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[Dawnn3619/CVE-2012-2982](https://github.com/Dawnn3619/CVE-2012-2982)",
+      "description": "Python Code For CVE-2012-2982",
+      "date": "2023-08-16",
+      "raw_date": "2023-08-16T23:58:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.261682",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-08-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

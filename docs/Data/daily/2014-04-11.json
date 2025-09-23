@@ -1,0 +1,27 @@
+{
+  "date": "2014-04-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[pblittle/aws-suture](https://github.com/pblittle/aws-suture)",
+      "description": "OpenSSL Heartbleed  (CVE-2014-0160) vulnerability scanner.",
+      "date": "2014-04-11",
+      "raw_date": "2014-04-11T19:12:11Z"
+    },
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[a0726h77/heartbleed-test](https://github.com/a0726h77/heartbleed-test)",
+      "description": "CVE-2014-0160 scanner",
+      "date": "2014-04-11",
+      "raw_date": "2014-04-11T14:24:54Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.298070",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2014-04-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2019-10-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-11235",
+      "repo_info": "[cchang27/CVE-2018-11235-test](https://github.com/cchang27/CVE-2018-11235-test)",
+      "description": "no description",
+      "date": "2019-10-29",
+      "raw_date": "2019-10-29T04:49:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-8465",
+      "repo_info": "[nghiadt1098/CVE-2017-8465](https://github.com/nghiadt1098/CVE-2017-8465)",
+      "description": "Exploit for CVE-2017-8465",
+      "date": "2019-10-29",
+      "raw_date": "2019-10-29T09:06:23Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.855513",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-10-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

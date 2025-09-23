@@ -1,0 +1,20 @@
+{
+  "date": "2016-12-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[nndhanasekaran/redhat_cve2016](https://github.com/nndhanasekaran/redhat_cve2016)",
+      "description": "Puppet module to find Vulnerability of CVE 2016 5195",
+      "date": "2016-12-28",
+      "raw_date": "2016-12-28T11:42:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.471864",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

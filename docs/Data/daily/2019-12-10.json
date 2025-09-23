@@ -1,0 +1,27 @@
+{
+  "date": "2019-12-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0604",
+      "repo_info": "[boxhg/CVE-2019-0604](https://github.com/boxhg/CVE-2019-0604)",
+      "description": "详解 k8gege的SharePoint RCE exploit cve-2019-0604-exp.py的代码，动手制作自己的payload",
+      "date": "2019-12-10",
+      "raw_date": "2019-12-10T02:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[raymondpittman/IPC-Memory-Mac-OSX-Exploit](https://github.com/raymondpittman/IPC-Memory-Mac-OSX-Exploit)",
+      "description": "CVE-2014-1322 - IPC Local Security Bypass - Mac OSX (Affected. >= 10.9.2)",
+      "date": "2019-12-10",
+      "raw_date": "2019-12-10T09:41:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.869440",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-12-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

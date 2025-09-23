@@ -1,0 +1,34 @@
+{
+  "date": "2021-09-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[Nwqda/Sashimi-Evil-OctoBot-Tentacle](https://github.com/Nwqda/Sashimi-Evil-OctoBot-Tentacle)",
+      "description": "Script PoC that exploits the Tentacles upload functionality of OctoBot trading bot and which leads to a remote code execution (RCE). CVE-2021-36711",
+      "date": "2021-09-14",
+      "raw_date": "2021-09-14T00:10:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[terzinodipaese/Internet-Security-Project](https://github.com/terzinodipaese/Internet-Security-Project)",
+      "description": "Here you can find my relation about the project I made for the Internet Security course. Because I written it in Latex, you can also find the Latex source files. The project talks about Maltego vulnerability CVE-2020-24656, which allows an attacker to exfiltrate data via an XXE injection attack.",
+      "date": "2021-09-14",
+      "raw_date": "2021-09-14T11:33:12Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[MrDottt/CVE-2018-15473](https://github.com/MrDottt/CVE-2018-15473)",
+      "description": "CVE-2018-15473 Exploit",
+      "date": "2021-09-14",
+      "raw_date": "2021-09-14T23:20:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.556930",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

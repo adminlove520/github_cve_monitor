@@ -1,0 +1,27 @@
+{
+  "date": "2021-11-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0133",
+      "repo_info": "[CS4239-U6/node-pdf-generator-ssrf](https://github.com/CS4239-U6/node-pdf-generator-ssrf)",
+      "description": "An example of CVE-2020-7740",
+      "date": "2021-11-11",
+      "raw_date": "2021-11-11T10:53:10Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[SlizBinksman/CVE_2012-2982](https://github.com/SlizBinksman/CVE_2012-2982)",
+      "description": "This script was written for the 'Intro PoC Scripting' room on TryHackMe.com",
+      "date": "2021-11-11",
+      "raw_date": "2021-11-11T17:13:17Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.601132",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-11-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

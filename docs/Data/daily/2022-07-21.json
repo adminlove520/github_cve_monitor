@@ -1,0 +1,62 @@
+{
+  "date": "2022-07-21",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-34918",
+      "repo_info": "[trhacknon/CVE-2022-34918-LPE-PoC](https://github.com/trhacknon/CVE-2022-34918-LPE-PoC)",
+      "description": "no description",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T22:06:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-32832",
+      "repo_info": "[Muirey03/CVE-2022-32832](https://github.com/Muirey03/CVE-2022-32832)",
+      "description": "Proof-of-concept and write-up for the CVE-2022-32832 vulnerability patched in iOS 15.6",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T13:09:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-](https://github.com/EkamSinghWalia/Follina-MSDT-Vulnerability-CVE-2022-30190-)",
+      "description": "Detection and Remediation of  the Follina MSDT Vulnerability (CVE-2022-30190)",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T06:49:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[ToomArni65/CVE-2022-26809-POC](https://github.com/ToomArni65/CVE-2022-26809-POC)",
+      "description": "THE FINAL POC FOR CVE-2022-26809 TO ACHIEVE RCE",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T17:32:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[rahul-masal/ubuntu22.04-cve2022](https://github.com/rahul-masal/ubuntu22.04-cve2022)",
+      "description": "no description",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T14:47:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-26138",
+      "repo_info": "[alcaparra/CVE-2022-26138](https://github.com/alcaparra/CVE-2022-26138)",
+      "description": "Atlassian Questions Hardcoded Password (CVE-2022-26138)",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T09:28:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-0137",
+      "repo_info": "[ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2020-0137)",
+      "description": "no description",
+      "date": "2022-07-21",
+      "raw_date": "2022-07-21T11:57:43Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.824390",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-07-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

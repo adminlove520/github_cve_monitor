@@ -1,0 +1,34 @@
+{
+  "date": "2020-09-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[sv3nbeast/CVE-2020-1472](https://github.com/sv3nbeast/CVE-2020-1472)",
+      "description": "CVE-2020-1472复现时使用的py文件整理打包",
+      "date": "2020-09-18",
+      "raw_date": "2020-09-18T00:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[M108Falcon/Sudo-CVE-2019-14287](https://github.com/M108Falcon/Sudo-CVE-2019-14287)",
+      "description": "Scripts to verify and execute CVE-2019-14287 as part of Research",
+      "date": "2020-09-18",
+      "raw_date": "2020-09-18T06:10:35Z"
+    },
+    {
+      "cve_id": "CVE-2010-3437",
+      "repo_info": "[XorgX304/UnrealIRCd-3.2.8.1-RCE](https://github.com/XorgX304/UnrealIRCd-3.2.8.1-RCE)",
+      "description": "cve-2010-2075",
+      "date": "2020-09-18",
+      "raw_date": "2020-09-18T01:07:51Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.205202",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-09-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

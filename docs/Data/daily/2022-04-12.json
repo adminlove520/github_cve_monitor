@@ -1,0 +1,76 @@
+{
+  "date": "2022-04-12",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[p1ckzi/CVE-2022-22965](https://github.com/p1ckzi/CVE-2022-22965)",
+      "description": "spring4shell - CVE-2022-22965",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T14:59:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[jax7sec/CVE-2022-22954](https://github.com/jax7sec/CVE-2022-22954)",
+      "description": "提供批量扫描URL以及执行命令功能。Workspace ONE Access 模板注入漏洞，可执行任意代码",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T04:14:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[mumu2020629/-CVE-2022-22954-scanner](https://github.com/mumu2020629/-CVE-2022-22954-scanner)",
+      "description": "no description",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T08:36:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[corelight/cve-2022-22954](https://github.com/corelight/cve-2022-22954)",
+      "description": "no description",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T18:08:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-43129",
+      "repo_info": "[Skotizo/CVE-2021-43129](https://github.com/Skotizo/CVE-2021-43129)",
+      "description": "Vulnerability in D2L Brightspace's Learning Management System(LMS)",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T21:04:44Z"
+    },
+    {
+      "cve_id": "CVE-2020-0188",
+      "repo_info": "[Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0188)",
+      "description": "no description",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T12:25:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-0358",
+      "repo_info": "[Wangsafz/cve-2017-0358.sh](https://github.com/Wangsafz/cve-2017-0358.sh)",
+      "description": "no description",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T14:44:13Z"
+    },
+    {
+      "cve_id": "CVE-2016-10924",
+      "repo_info": "[zqlblingzs/bazad5](https://github.com/zqlblingzs/bazad5)",
+      "description": "Local privilege escalation for OS X 10.10.5 via CVE-2016-1828.",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T04:20:14Z"
+    },
+    {
+      "cve_id": "CVE-2005-1794",
+      "repo_info": "[InitRoot/CVE-2005-1794Scanner](https://github.com/InitRoot/CVE-2005-1794Scanner)",
+      "description": "Scanner for network for CVE-2005-1794.",
+      "date": "2022-04-12",
+      "raw_date": "2022-04-12T12:18:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.738741",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-04-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

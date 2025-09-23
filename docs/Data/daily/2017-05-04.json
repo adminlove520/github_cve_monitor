@@ -1,0 +1,27 @@
+{
+  "date": "2017-05-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8295",
+      "repo_info": "[homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset](https://github.com/homjxi0e/CVE-2017-8295-WordPress-4.7.4---Unauthorized-Password-Reset)",
+      "description": "no description",
+      "date": "2017-05-04",
+      "raw_date": "2017-05-04T19:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-5689",
+      "repo_info": "[CerberusSecurity/CVE-2017-5689](https://github.com/CerberusSecurity/CVE-2017-5689)",
+      "description": "no description",
+      "date": "2017-05-04",
+      "raw_date": "2017-05-04T01:51:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.511184",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

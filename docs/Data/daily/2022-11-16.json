@@ -1,0 +1,48 @@
+{
+  "date": "2022-11-16",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-46485",
+      "repo_info": "[WodenSec/CVE-2022-46485](https://github.com/WodenSec/CVE-2022-46485)",
+      "description": "An issue in Data Illusion Survey Software Solutions NGSurvey v2.4.28 and below allows attackers to cause a Denial of Service (DoS) via a crafted survey.",
+      "date": "2022-11-16",
+      "raw_date": "2022-11-16T16:26:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-33679",
+      "repo_info": "[notareaperbutDR34P3r/Kerberos_CVE-2022-33679](https://github.com/notareaperbutDR34P3r/Kerberos_CVE-2022-33679)",
+      "description": "no description",
+      "date": "2022-11-16",
+      "raw_date": "2022-11-16T10:56:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/Z3R0W4R3/CVE-2022-0847-DirtyPipe-Exploits)",
+      "description": "A collection of exploits and documentation that can be used to exploit the Linux Dirty Pipe vulnerability.",
+      "date": "2022-11-16",
+      "raw_date": "2022-11-16T03:44:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[Turzum/ps-lab-cve-2022-0847](https://github.com/Turzum/ps-lab-cve-2022-0847)",
+      "description": "Resources required for building Pluralsight CVE-2022-0847 lab",
+      "date": "2022-11-16",
+      "raw_date": "2022-11-16T16:57:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-34473",
+      "repo_info": "[ipsBruno/CVE-2021-34473-NMAP-SCANNER](https://github.com/ipsBruno/CVE-2021-34473-NMAP-SCANNER)",
+      "description": "A massive scanner for CVE-2021-34473 Microsoft Exchange Windows Vulnerability",
+      "date": "2022-11-16",
+      "raw_date": "2022-11-16T08:22:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.927801",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-11-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

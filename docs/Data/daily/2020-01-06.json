@@ -1,0 +1,41 @@
+{
+  "date": "2020-01-06",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-1215",
+      "repo_info": "[bluefrostsecurity/CVE-2019-1215](https://github.com/bluefrostsecurity/CVE-2019-1215)",
+      "description": "no description",
+      "date": "2020-01-06",
+      "raw_date": "2020-01-06T22:34:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[sdosis/cve-2018-6574](https://github.com/sdosis/cve-2018-6574)",
+      "description": "no description",
+      "date": "2020-01-06",
+      "raw_date": "2020-01-06T22:56:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[mbrasile/CVE-2017-9841](https://github.com/mbrasile/CVE-2017-9841)",
+      "description": "CVE-2017-9841 detector script",
+      "date": "2020-01-06",
+      "raw_date": "2020-01-06T23:27:15Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[Any3ite/CVE-2014-6271](https://github.com/Any3ite/CVE-2014-6271)",
+      "description": "no description",
+      "date": "2020-01-06",
+      "raw_date": "2020-01-06T08:24:35Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.881804",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

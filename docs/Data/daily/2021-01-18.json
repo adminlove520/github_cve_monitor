@@ -1,0 +1,27 @@
+{
+  "date": "2021-01-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[yaunsky/CVE-2020-17519-Apache-Flink](https://github.com/yaunsky/CVE-2020-17519-Apache-Flink)",
+      "description": "CVE-2020-17519; Apache Flink 任意文件读取; 批量检测",
+      "date": "2021-01-18",
+      "raw_date": "2021-01-18T02:03:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-1335",
+      "repo_info": "[canumay/cve-2018-1335](https://github.com/canumay/cve-2018-1335)",
+      "description": "CENG 325 - Principles of Information Security And Privacy",
+      "date": "2021-01-18",
+      "raw_date": "2021-01-18T19:01:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.269764",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-01-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

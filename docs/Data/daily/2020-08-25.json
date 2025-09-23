@@ -1,0 +1,34 @@
+{
+  "date": "2020-08-25",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16724",
+      "repo_info": "[nanabingies/CVE-2019-16724](https://github.com/nanabingies/CVE-2019-16724)",
+      "description": "This repo contains some POC&#x27;s and exploits I have written for some targets.",
+      "date": "2020-08-25",
+      "raw_date": "2020-08-25T06:47:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-12815",
+      "repo_info": "[lcartey/proftpd-cve-2019-12815](https://github.com/lcartey/proftpd-cve-2019-12815)",
+      "description": "no description",
+      "date": "2020-08-25",
+      "raw_date": "2020-08-25T13:58:38Z"
+    },
+    {
+      "cve_id": "CVE-2017-9822",
+      "repo_info": "[Nacromencer/cve2017-0199-in-python](https://github.com/Nacromencer/cve2017-0199-in-python)",
+      "description": "no description",
+      "date": "2020-08-25",
+      "raw_date": "2020-08-25T20:40:35Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.189541",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

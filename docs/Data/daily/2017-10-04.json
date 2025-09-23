@@ -1,0 +1,20 @@
+{
+  "date": "2017-10-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0802",
+      "repo_info": "[pieterbork/blueborne](https://github.com/pieterbork/blueborne)",
+      "description": "Scan/Exploit Blueborne  CVE-2017-0785",
+      "date": "2017-10-04",
+      "raw_date": "2017-10-04T20:41:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.562293",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-10-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

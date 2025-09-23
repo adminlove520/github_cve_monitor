@@ -1,0 +1,20 @@
+{
+  "date": "2018-01-26",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[jdmulloy/meltdown-aws-scanner](https://github.com/jdmulloy/meltdown-aws-scanner)",
+      "description": "Naive shell script to verify Meltdown (CVE-2017-5754) patch status of EC2 instances",
+      "date": "2018-01-26",
+      "raw_date": "2018-01-26T21:18:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.611346",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-01-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

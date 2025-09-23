@@ -1,0 +1,20 @@
+{
+  "date": "2020-11-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[Dirty-Racoon/CVE-2018-15473-py3](https://github.com/Dirty-Racoon/CVE-2018-15473-py3)",
+      "description": "no description",
+      "date": "2020-11-27",
+      "raw_date": "2020-11-27T12:25:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.237027",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-11-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

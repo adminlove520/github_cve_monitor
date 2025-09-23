@@ -1,0 +1,69 @@
+{
+  "date": "2024-08-19",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH](https://github.com/s1d6point7bugcrowd/CVE-2024-6387-Race-Condition-in-Signal-Handling-for-OpenSSH)",
+      "description": "no description",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T16:45:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-42919",
+      "repo_info": "[jeyabalaji711/CVE-2024-42919](https://github.com/jeyabalaji711/CVE-2024-42919)",
+      "description": "no description",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T19:50:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[dweger-scripts/CVE-2024-38063-Remediation](https://github.com/dweger-scripts/CVE-2024-38063-Remediation)",
+      "description": "no description",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T19:44:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[Jhonsonwannaa/CVE-2024-34102](https://github.com/Jhonsonwannaa/CVE-2024-34102)",
+      "description": "adobe commerce",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T19:25:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-0044",
+      "repo_info": "[MrW0l05zyn/cve-2024-0044](https://github.com/MrW0l05zyn/cve-2024-0044)",
+      "description": "CVE-2024-0044",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T02:51:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-4590",
+      "repo_info": "[dgndrn/CVE-2023-4590](https://github.com/dgndrn/CVE-2023-4590)",
+      "description": "no description",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T19:08:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[sanan2004/CVE-2022-27925](https://github.com/sanan2004/CVE-2022-27925)",
+      "description": "PoC",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T17:17:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-2733",
+      "repo_info": "[anmolksachan/CVE-2020-2733](https://github.com/anmolksachan/CVE-2020-2733)",
+      "description": "no description",
+      "date": "2024-08-19",
+      "raw_date": "2024-08-19T06:54:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.785935",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-08-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

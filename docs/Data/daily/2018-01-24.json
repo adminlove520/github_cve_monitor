@@ -1,0 +1,27 @@
+{
+  "date": "2018-01-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[mirrorblack/CVE-2017-7269](https://github.com/mirrorblack/CVE-2017-7269)",
+      "description": "CVE-2017-7269利用代码（rb文件）",
+      "date": "2018-01-24",
+      "raw_date": "2018-01-24T03:51:58Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[bao7uo/bmc_bladelogic](https://github.com/bao7uo/bmc_bladelogic)",
+      "description": "BMC Bladelogic RSCD exploits including remote code execution - CVE-2016-1542, CVE-2016-1543, CVE-2016-5063",
+      "date": "2018-01-24",
+      "raw_date": "2018-01-24T16:03:22Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.609265",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-01-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2016-01-24",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-7920",
+      "repo_info": "[laginimaineb/cve-2014-7920-7921](https://github.com/laginimaineb/cve-2014-7920-7921)",
+      "description": "Exploit code for CVE-2014-7920 and CVE-2014-7921 - code-exec in mediaserver up to Android 5.1",
+      "date": "2016-01-24",
+      "raw_date": "2016-01-24T13:49:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.392392",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-01-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

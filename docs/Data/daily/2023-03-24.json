@@ -1,0 +1,97 @@
+{
+  "date": "2023-03-24",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[acheiii/CVE-2023-28432](https://github.com/acheiii/CVE-2023-28432)",
+      "description": "CVE-2023-28432 POC",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T08:27:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[MzzdToT/CVE-2023-28432](https://github.com/MzzdToT/CVE-2023-28432)",
+      "description": "MinIO存在信息泄露漏洞，未经身份认证的远程攻击者通过发送特殊HTTP请求即可获取所有环境变量，其中包括MINIO_SECRET_KEY和MINIO_ROOT_PASSWORD，造成敏感信息泄露，最终可能导致攻击者以管理员身份登录MinIO",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T08:13:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Acceis/exploit-CVE-2023-23752](https://github.com/Acceis/exploit-CVE-2023-23752)",
+      "description": "Joomla! &lt; 4.2.8 - Unauthenticated information disclosure",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T11:50:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[Zeppperoni/CVE-2023-23397-Patch](https://github.com/Zeppperoni/CVE-2023-23397-Patch)",
+      "description": "CVE-2023-23397 powershell patch script for Windows 10 and 11",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T19:54:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[madelynadams9/CVE-2023-23397-Report](https://github.com/madelynadams9/CVE-2023-23397-Report)",
+      "description": "An exploitation demo of Outlook Elevation of Privilege Vulnerability",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T19:47:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-21716",
+      "repo_info": "[hv0l/CVE-2023-21716_exploit](https://github.com/hv0l/CVE-2023-21716_exploit)",
+      "description": "test of exploit for CVE-2023-21716",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T15:58:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-20860",
+      "repo_info": "[limo520/CVE-2023-20860](https://github.com/limo520/CVE-2023-20860)",
+      "description": "no description",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T07:23:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-20860",
+      "repo_info": "[Okaytc/minio_unauth_check](https://github.com/Okaytc/minio_unauth_check)",
+      "description": "CVE-2023-28432,minio未授权访问检测工具",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T03:15:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-20860",
+      "repo_info": "[maddiethecafebabe/discord-acropolypse-bot](https://github.com/maddiethecafebabe/discord-acropolypse-bot)",
+      "description": "discord bot to find and delete images affected by CVE-2023-21036",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T02:39:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-1454",
+      "repo_info": "[gobysec/CVE-2023-1454](https://github.com/gobysec/CVE-2023-1454)",
+      "description": "jeecg-boot unauthorized SQL Injection Vulnerability (CVE-2023-1454)",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T03:02:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-47529",
+      "repo_info": "[hyp3rlinx/CVE-2022-47529](https://github.com/hyp3rlinx/CVE-2022-47529)",
+      "description": "RSA NetWitness Platform EDR Agent / Incorrect Access Control - Code Execution",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T22:50:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-45934",
+      "repo_info": "[Satheesh575555/linux-4.1.15_CVE-2022-45934](https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-45934)",
+      "description": "no description",
+      "date": "2023-03-24",
+      "raw_date": "2023-03-24T08:16:44Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.160069",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2023-03-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

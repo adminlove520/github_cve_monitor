@@ -1,0 +1,27 @@
+{
+  "date": "2020-06-30",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-11520",
+      "repo_info": "[patois/winmagic_sd](https://github.com/patois/winmagic_sd)",
+      "description": "Technical Write-Up on and PoC Exploit for CVE-2020-11519 and CVE-2020-11520",
+      "date": "2020-06-30",
+      "raw_date": "2020-06-30T23:01:33Z"
+    },
+    {
+      "cve_id": "CVE-2006-3392",
+      "repo_info": "[0xtz/CVE-2006-3392](https://github.com/0xtz/CVE-2006-3392)",
+      "description": "Webmin < 1.290 / Usermin < 1.220 - Arbitrary File Disclosure (Python3)",
+      "date": "2020-06-30",
+      "raw_date": "2020-06-30T13:07:31Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.994704",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-06-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

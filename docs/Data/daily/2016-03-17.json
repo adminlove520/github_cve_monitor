@@ -1,0 +1,20 @@
+{
+  "date": "2016-03-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-8710",
+      "repo_info": "[Karm/CVE-2015-8710](https://github.com/Karm/CVE-2015-8710)",
+      "description": "Windows/Linux reproducer",
+      "date": "2016-03-17",
+      "raw_date": "2016-03-17T10:32:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.410841",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-03-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

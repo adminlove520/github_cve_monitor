@@ -1,0 +1,69 @@
+{
+  "date": "2025-01-13",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-56059",
+      "repo_info": "[RandomRobbieBF/CVE-2024-56059](https://github.com/RandomRobbieBF/CVE-2024-56059)",
+      "description": "Partners &lt;= 0.2.0 - Unauthenticated PHP Object Injection",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T12:05:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-56058",
+      "repo_info": "[RandomRobbieBF/CVE-2024-56058](https://github.com/RandomRobbieBF/CVE-2024-56058)",
+      "description": "VRPConnector &lt;= 2.0.1 - Unauthenticated PHP Object Injection",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T11:27:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-53691",
+      "repo_info": "[C411e/CVE-2024-53691](https://github.com/C411e/CVE-2024-53691)",
+      "description": "CVE-2024-53691",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T10:07:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-50404",
+      "repo_info": "[C411e/CVE-2024-50404](https://github.com/C411e/CVE-2024-50404)",
+      "description": "CVE-2024-50404",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T09:47:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-35250",
+      "repo_info": "[Brentlyw/GiveMeKernel](https://github.com/Brentlyw/GiveMeKernel)",
+      "description": "CVE-2024-35250 PoC - Optimized &amp; Condensed Form of Varwara&#x27;s PoC",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T18:24:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-11972",
+      "repo_info": "[RonF98/CVE-2024-11972-POC](https://github.com/RonF98/CVE-2024-11972-POC)",
+      "description": "CVE-2024-11972 in Hunk Companion &lt;1.9.0 allows unauthenticated attackers to exploit insecure REST API endpoints and install vulnerable plugins, risking RCE, SQLi, XSS, and backdoors.",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T15:44:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-11396",
+      "repo_info": "[RandomRobbieBF/CVE-2024-11396](https://github.com/RandomRobbieBF/CVE-2024-11396)",
+      "description": "Event monster &lt;= 1.4.3 - Information Exposure Via Visitors List Export",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T12:12:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-10571",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10571](https://github.com/RandomRobbieBF/CVE-2024-10571)",
+      "description": "Chartify – WordPress Chart Plugin &lt;= 2.9.5 - Unauthenticated Local File Inclusion via source",
+      "date": "2025-01-13",
+      "raw_date": "2025-01-13T10:38:31Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.902182",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2025-01-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

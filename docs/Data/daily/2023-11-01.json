@@ -1,0 +1,111 @@
+{
+  "date": "2023-11-01",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-47184",
+      "repo_info": "[rach1tarora/CVE-2023-47184](https://github.com/rach1tarora/CVE-2023-47184)",
+      "description": "Exploit Title:  WordPress Plugin Admin Bar &amp; Dashboard Access Control Version: 1.2.8 - &quot;Dashboard Redirect&quot; field  Stored Cross-Site Scripting (XSS)",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T19:19:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-46998",
+      "repo_info": "[soy-oreocato/CVE-2023-46998](https://github.com/soy-oreocato/CVE-2023-46998)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T19:36:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[maniak-academy/Mitigate-CVE-2023-46747](https://github.com/maniak-academy/Mitigate-CVE-2023-46747)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T14:57:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[y4v4z/CVE-2023-46747-POC](https://github.com/y4v4z/CVE-2023-46747-POC)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T16:28:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[fu2x2000/CVE-2023-46747](https://github.com/fu2x2000/CVE-2023-46747)",
+      "description": "CVE-2023-46747 Criticle Auth Bypass",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T13:16:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[W01fh4cker/CVE-2023-46747-RCE](https://github.com/W01fh4cker/CVE-2023-46747-RCE)",
+      "description": "exploit for cve-2023-46747",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T09:31:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[bijaysenihang/CVE-2023-46747-Mass-RCE](https://github.com/bijaysenihang/CVE-2023-46747-Mass-RCE)",
+      "description": "CVE-2023-46747 (F5 BIG-IP) RCE",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T07:05:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[seyit-sigirci/SideCopy-Exploits-CVE-2023-38831](https://github.com/seyit-sigirci/SideCopy-Exploits-CVE-2023-38831)",
+      "description": "SideCopy APT Group exploits CVE-2023-38831",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T08:57:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-26049",
+      "repo_info": "[nidhi7598/jetty-9.4.31_CVE-2023-26049](https://github.com/nidhi7598/jetty-9.4.31_CVE-2023-26049)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T09:55:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-26049",
+      "repo_info": "[uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049](https://github.com/uthrasri/jetty-9.4.31.v20200723_CVE-2023-26049)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T20:37:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-26048",
+      "repo_info": "[Trinadh465/jetty_9.4.31_CVE-2023-26048](https://github.com/Trinadh465/jetty_9.4.31_CVE-2023-26048)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T06:57:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-34428",
+      "repo_info": "[Trinadh465/jetty_9.4.31_CVE-2021-34428](https://github.com/Trinadh465/jetty_9.4.31_CVE-2021-34428)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T10:15:36Z"
+    },
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[NukingDragons/gitlab-cve-2021-22205](https://github.com/NukingDragons/gitlab-cve-2021-22205)",
+      "description": "A simple bash script that exploits CVE-2021-22205 against vulnerable instances of gitlab",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T15:19:01Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[abdullah098/CVE_2020_0796](https://github.com/abdullah098/CVE_2020_0796)",
+      "description": "no description",
+      "date": "2023-11-01",
+      "raw_date": "2023-11-01T06:47:06Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.315788",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2023-11-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

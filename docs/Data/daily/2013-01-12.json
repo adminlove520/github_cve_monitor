@@ -1,0 +1,20 @@
+{
+  "date": "2013-01-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-0156",
+      "repo_info": "[bsodmike/rails-exploit-cve-2013-0156](https://github.com/bsodmike/rails-exploit-cve-2013-0156)",
+      "description": "Bootstrapped Rails 3.2.10 to test the remote code exploit CVE-2013-0156",
+      "date": "2013-01-12",
+      "raw_date": "2013-01-12T13:37:05Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.274781",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2013-01-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

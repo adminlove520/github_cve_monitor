@@ -1,0 +1,27 @@
+{
+  "date": "2020-11-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16759",
+      "repo_info": "[fxp0-4tx/CVE-2019-16759](https://github.com/fxp0-4tx/CVE-2019-16759)",
+      "description": "Vbulletin RCE Exploits",
+      "date": "2020-11-29",
+      "raw_date": "2020-11-29T06:19:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[Sait-Nuri/CVE-2018-15473](https://github.com/Sait-Nuri/CVE-2018-15473)",
+      "description": "OpenSSH 2.3 &lt; 7.7 - Username Enumeration",
+      "date": "2020-11-29",
+      "raw_date": "2020-11-29T17:36:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.238189",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-11-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

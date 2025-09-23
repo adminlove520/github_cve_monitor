@@ -1,0 +1,202 @@
+{
+  "date": "2025-08-15",
+  "count": 27,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9043",
+      "repo_info": "[Tiger3080/CVE-2025-9043](https://github.com/Tiger3080/CVE-2025-9043)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T08:45:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-8971",
+      "repo_info": "[byteReaper77/CVE-2025-8971](https://github.com/byteReaper77/CVE-2025-8971)",
+      "description": "Sql injection in itsourcecode Online Tour and Travel Management System 1.0.",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T14:51:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC](https://github.com/0xAbolfazl/CVE-2025-8088-WinRAR-PathTraversal-PoC)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T20:03:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[mr-r0ot/0day-buffer-overflow-in-exiv2](https://github.com/mr-r0ot/0day-buffer-overflow-in-exiv2)",
+      "description": "ZeroDay on exiv2!CVE-2025-XXXX: Heap-based buffer overflow in PngChunk::readRawProfile (PNG iTXt “Raw profile”)",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T19:44:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-53766",
+      "repo_info": "[rich98/cve_2025_53766](https://github.com/rich98/cve_2025_53766)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T08:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-50461",
+      "repo_info": "[Anchor0221/CVE-2025-50461](https://github.com/Anchor0221/CVE-2025-50461)",
+      "description": "Technical Details and Exploit for CVE-2025-50461",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T06:26:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-50461",
+      "repo_info": "[jordan922/cve2025-20265](https://github.com/jordan922/cve2025-20265)",
+      "description": "Safe Python script to detect Cisco FMC instances potentially vulnerable to CVE-2025-20265.  Uses official FMC API to check version, supports single/multi-target scanning, and includes  a harmless local PoC marker.",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T06:35:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-50461",
+      "repo_info": "[MooseLoveti/EventON-Lite-CVE-Report](https://github.com/MooseLoveti/EventON-Lite-CVE-Report)",
+      "description": "Disclosure for CVE-2025-8091",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T04:04:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[antichainalysis/sap-netweaver-0day-CVE-2025-31324](https://github.com/antichainalysis/sap-netweaver-0day-CVE-2025-31324)",
+      "description": "sap netweaver 0day poc by shinyhunters (scattered lapsus$ hunters) affecting all 7.x CVE-2025-31324",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T15:45:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-25256",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256](https://github.com/watchtowrlabs/watchTowr-vs-FortiSIEM-CVE-2025-25256)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T14:31:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-24204",
+      "repo_info": "[FFRI/CVE-2025-24204](https://github.com/FFRI/CVE-2025-24204)",
+      "description": "PoC and technical details of CVE-2025-24204",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T08:48:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-5932",
+      "repo_info": "[hlc23/CVE-2024-5932-web-ui](https://github.com/hlc23/CVE-2024-5932-web-ui)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T07:41:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-3660",
+      "repo_info": "[aaryanbhujang/CVE-2024-3660-PoC](https://github.com/aaryanbhujang/CVE-2024-3660-PoC)",
+      "description": "A PoC for CVE-2024-3660. Arbitrary Code Execution in Keras.",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T19:02:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-34478",
+      "repo_info": "[shoucheng3/apache__shiro_CVE-2023-34478_1-11-0](https://github.com/shoucheng3/apache__shiro_CVE-2023-34478_1-11-0)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:34:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-37422",
+      "repo_info": "[shoucheng3/payara__Payara_CVE-2022-37422_5-2022-2](https://github.com/shoucheng3/payara__Payara_CVE-2022-37422_5-2022-2)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:43:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-23082",
+      "repo_info": "[shoucheng3/whitesource__curekit_CVE-2022-23082_1-1-3](https://github.com/shoucheng3/whitesource__curekit_CVE-2022-23082_1-1-3)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:48:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-44667",
+      "repo_info": "[shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3](https://github.com/shoucheng3/alibaba__nacos_CVE-2021-44667_2-0-3)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:57:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-17572",
+      "repo_info": "[shoucheng3/apache__rocketmq_CVE-2019-17572_4-6-0](https://github.com/shoucheng3/apache__rocketmq_CVE-2019-17572_4-6-0)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:35:37Z"
+    },
+    {
+      "cve_id": "CVE-2019-10392",
+      "repo_info": "[shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4](https://github.com/shoucheng3/jenkinsci__git-client-plugin_CVE-2019-10392_2-8-4)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T09:08:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-0207",
+      "repo_info": "[shoucheng3/tapestry-5-cve-2019-0207](https://github.com/shoucheng3/tapestry-5-cve-2019-0207)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:25:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-0207",
+      "repo_info": "[shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4](https://github.com/shoucheng3/asf__tapestry-5_CVE-2019-0207_5-4-4)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:09:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-1000129",
+      "repo_info": "[shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0](https://github.com/shoucheng3/rhuss__jolokia_CVE-2018-1000129_1-4-0)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T09:49:09Z"
+    },
+    {
+      "cve_id": "CVE-2017-11317",
+      "repo_info": "[0xr2r/CVE-2017-11317-auto-exploit-](https://github.com/0xr2r/CVE-2017-11317-auto-exploit-)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T12:17:19Z"
+    },
+    {
+      "cve_id": "CVE-2016-10726",
+      "repo_info": "[shoucheng3/DSpace__DSpace_CVE-2016-10726_4-4](https://github.com/shoucheng3/DSpace__DSpace_CVE-2016-10726_4-4)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:52:40Z"
+    },
+    {
+      "cve_id": "CVE-2014-4725",
+      "repo_info": "[Pwdnx1337/CVE-2014-4725](https://github.com/Pwdnx1337/CVE-2014-4725)",
+      "description": "exploiter",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T02:59:12Z"
+    },
+    {
+      "cve_id": "CVE-2014-3656",
+      "repo_info": "[shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final](https://github.com/shoucheng3/keycloak__keycloak_CVE-2014-3656_1-0-5-Final)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T10:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2011-4367",
+      "repo_info": "[shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11](https://github.com/shoucheng3/apache__myfaces_CVE-2011-4367_2-0-11)",
+      "description": "no description",
+      "date": "2025-08-15",
+      "raw_date": "2025-08-15T11:08:31Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.100491",
+  "metadata": {
+    "total_cves": 27,
+    "date_range": "2025-08-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

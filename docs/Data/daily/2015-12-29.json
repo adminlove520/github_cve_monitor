@@ -1,0 +1,20 @@
+{
+  "date": "2015-12-29",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-7911",
+      "repo_info": "[GeneBlue/cve-2014-7911-exp](https://github.com/GeneBlue/cve-2014-7911-exp)",
+      "description": "exploit for cve-2014-7911; android; java deserialization ;system privilege;ace;",
+      "date": "2015-12-29",
+      "raw_date": "2015-12-29T07:28:46Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.390086",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-12-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

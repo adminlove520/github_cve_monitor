@@ -1,0 +1,20 @@
+{
+  "date": "2020-11-22",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-15813",
+      "repo_info": "[wolf1892/CVE-2019-15813](https://github.com/wolf1892/CVE-2019-15813)",
+      "description": "This container was made to explain and demonstrate how CVE-2019-15813 (Sentrifugo works)",
+      "date": "2020-11-22",
+      "raw_date": "2020-11-22T10:35:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.235330",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-11-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

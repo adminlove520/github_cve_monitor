@@ -1,0 +1,34 @@
+{
+  "date": "2020-07-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-1948",
+      "repo_info": "[L0kiii/Dubbo-deserialization](https://github.com/L0kiii/Dubbo-deserialization)",
+      "description": "[CVE-2020-1948] Apache Dubbo Provider default deserialization cause RCE",
+      "date": "2020-07-14",
+      "raw_date": "2020-07-14T02:42:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-1350",
+      "repo_info": "[tinkersec/cve-2020-1350](https://github.com/tinkersec/cve-2020-1350)",
+      "description": "Bash Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2003 up to Windows Server 2019.",
+      "date": "2020-07-14",
+      "raw_date": "2020-07-14T22:45:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-1350",
+      "repo_info": "[ZephrFish/CVE-2020-1350_HoneyPoC](https://github.com/ZephrFish/CVE-2020-1350_HoneyPoC)",
+      "description": "HoneyPoC: Proof-of-Concept (PoC) script to exploit SIGRed (CVE-2020-1350). Achieves Domain Admin on Domain Controllers running Windows Server 2000 up to Windows Server 2019.",
+      "date": "2020-07-14",
+      "raw_date": "2020-07-14T19:02:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.003345",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-07-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

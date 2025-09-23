@@ -1,0 +1,55 @@
+{
+  "date": "2023-12-07",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[C1ph3rX13/CVE-2023-28432](https://github.com/C1ph3rX13/CVE-2023-28432)",
+      "description": "CVE-2023-28432 Minio Information isclosure Exploit",
+      "date": "2023-12-07",
+      "raw_date": "2023-12-07T03:33:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-24078",
+      "repo_info": "[ag-rodriguez/CVE-2023-24078](https://github.com/ag-rodriguez/CVE-2023-24078)",
+      "description": "no description",
+      "date": "2023-12-07",
+      "raw_date": "2023-12-07T03:45:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-21285",
+      "repo_info": "[uthrasri/framework_base_CVE-2023-21285_NoPatch](https://github.com/uthrasri/framework_base_CVE-2023-21285_NoPatch)",
+      "description": "no description",
+      "date": "2023-12-07",
+      "raw_date": "2023-12-07T08:03:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-21285",
+      "repo_info": "[dcm2406/CVE-Research](https://github.com/dcm2406/CVE-Research)",
+      "description": "Research on CVE-2021-44228 and CVE-2023-46604",
+      "date": "2023-12-07",
+      "raw_date": "2023-12-07T08:02:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-21145",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2023-21145)",
+      "description": "no description",
+      "date": "2023-12-07",
+      "raw_date": "2023-12-07T06:41:00Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000028",
+      "repo_info": "[NeonNOXX/CVE-2017-1000028](https://github.com/NeonNOXX/CVE-2017-1000028)",
+      "description": "POC&amp;EXP for GlassFish&lt;4.1.1(not including 4.1.1).",
+      "date": "2023-12-07",
+      "raw_date": "2023-12-07T07:35:39Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.340061",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-12-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

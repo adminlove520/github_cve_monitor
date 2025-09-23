@@ -1,0 +1,34 @@
+{
+  "date": "2023-02-27",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[z-bool/CVE-2022-40684](https://github.com/z-bool/CVE-2022-40684)",
+      "description": "一键枚举所有用户名以及写入SSH公钥",
+      "date": "2023-02-27",
+      "raw_date": "2023-02-27T18:05:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-32305",
+      "repo_info": "[sz-guanx/CVE-2021-32305](https://github.com/sz-guanx/CVE-2021-32305)",
+      "description": "no description",
+      "date": "2023-02-27",
+      "raw_date": "2023-02-27T05:38:27Z"
+    },
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[hhhotdrink/CVE-2021-22205](https://github.com/hhhotdrink/CVE-2021-22205)",
+      "description": "no description",
+      "date": "2023-02-27",
+      "raw_date": "2023-02-27T07:42:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.141889",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2023-02-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

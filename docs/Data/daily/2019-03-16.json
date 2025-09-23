@@ -1,0 +1,27 @@
+{
+  "date": "2019-03-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-5418",
+      "repo_info": "[mpgn/CVE-2019-5418](https://github.com/mpgn/CVE-2019-5418)",
+      "description": "CVE-2019-5418 - File Content Disclosure on Ruby on Rails",
+      "date": "2019-03-16",
+      "raw_date": "2019-03-16T11:58:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-13257",
+      "repo_info": "[gluxon/CVE-2018-13257](https://github.com/gluxon/CVE-2018-13257)",
+      "description": "no description",
+      "date": "2019-03-16",
+      "raw_date": "2019-03-16T16:37:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.767387",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-03-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

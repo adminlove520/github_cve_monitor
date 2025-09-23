@@ -1,0 +1,20 @@
+{
+  "date": "2013-02-09",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-2122",
+      "repo_info": "[Hood3dRob1n/MySQL-Fu.rb](https://github.com/Hood3dRob1n/MySQL-Fu.rb)",
+      "description": "MySQL-Fu is a Ruby based MySQL Client Script I wrote.  It does most of the stuff a normal MySQL client might do: SQL Shell, Update/Delete/Drop Database/Table, Add/Delete Users, Dump Database(s)/Table w/ option for gzip...... Plus a few extra options  to make life a little easier for pentests. Includes Several builtin PHP Command Shell options as well as Pentestmonkey's PHP Reverse Shell, in addition to multiple options for file writing and reading (all files read logged locally for offline analysis later), also includes Ruby port of Kingcope's CVE-2012-5613 Linux MySQL Privilege Escalation Exploit.",
+      "date": "2013-02-09",
+      "raw_date": "2013-02-09T04:59:43Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.276249",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2013-02-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

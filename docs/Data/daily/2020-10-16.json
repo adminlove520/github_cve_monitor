@@ -1,0 +1,20 @@
+{
+  "date": "2020-10-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-3306",
+      "repo_info": "[cd6629/CVE-2015-3306-Python-PoC](https://github.com/cd6629/CVE-2015-3306-Python-PoC)",
+      "description": "Converted with tweaks from a metasploit module as an exercise for OSCP studying and exploit development",
+      "date": "2020-10-16",
+      "raw_date": "2020-10-16T19:58:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.216612",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-10-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

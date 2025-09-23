@@ -1,0 +1,20 @@
+{
+  "date": "2014-08-19",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2094",
+      "repo_info": "[vlad902/annotated-fbi-tbb-exploit](https://github.com/vlad902/annotated-fbi-tbb-exploit)",
+      "description": "Annotated FBI exploit for the Tor Browser Bundle from mid-2013 (CVE-2013-1690)",
+      "date": "2014-08-19",
+      "raw_date": "2014-08-19T03:16:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.315622",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-08-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

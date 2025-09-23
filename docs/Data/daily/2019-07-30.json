@@ -1,0 +1,20 @@
+{
+  "date": "2019-07-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-10207",
+      "repo_info": "[butterflyhack/CVE-2019-10207](https://github.com/butterflyhack/CVE-2019-10207)",
+      "description": "PoC for CVE-2019-10207",
+      "date": "2019-07-30",
+      "raw_date": "2019-07-30T08:39:21Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.817849",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-07-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

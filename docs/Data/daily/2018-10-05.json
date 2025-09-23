@@ -1,0 +1,20 @@
+{
+  "date": "2018-10-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-1273",
+      "repo_info": "[webr0ck/poc-cve-2018-1273](https://github.com/webr0ck/poc-cve-2018-1273)",
+      "description": "no description",
+      "date": "2018-10-05",
+      "raw_date": "2018-10-05T14:42:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.695266",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-10-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

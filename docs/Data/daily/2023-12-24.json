@@ -1,0 +1,55 @@
+{
+  "date": "2023-12-24",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-49471",
+      "repo_info": "[zunak/CVE-2023-49471](https://github.com/zunak/CVE-2023-49471)",
+      "description": "no description",
+      "date": "2023-12-24",
+      "raw_date": "2023-12-24T15:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-26035",
+      "repo_info": "[Yuma-Tsushima07/CVE-2023-26035](https://github.com/Yuma-Tsushima07/CVE-2023-26035)",
+      "description": "ZoneMinder Snapshots - Unauthenticated",
+      "date": "2023-12-24",
+      "raw_date": "2023-12-24T13:37:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-36779",
+      "repo_info": "[rootDR/CVE-2022-36779](https://github.com/rootDR/CVE-2022-36779)",
+      "description": "Exploit for CVE-2022-36779 authenticated Command Injection",
+      "date": "2023-12-24",
+      "raw_date": "2023-12-24T10:46:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-40444",
+      "repo_info": "[MohamedAboHelal/CVE-2021-40444](https://github.com/MohamedAboHelal/CVE-2021-40444)",
+      "description": "CVE-2021-40444",
+      "date": "2023-12-24",
+      "raw_date": "2023-12-24T16:20:39Z"
+    },
+    {
+      "cve_id": "CVE-2019-16784",
+      "repo_info": "[Ckrielle/CVE-2019-16784-POC](https://github.com/Ckrielle/CVE-2019-16784-POC)",
+      "description": "A Proof of Concept exploit for the PyInstaller CVE-2019-16783",
+      "date": "2023-12-24",
+      "raw_date": "2023-12-24T14:53:28Z"
+    },
+    {
+      "cve_id": "CVE-2019-1388",
+      "repo_info": "[sickthecat/CVE-2019-1388](https://github.com/sickthecat/CVE-2019-1388)",
+      "description": "no description",
+      "date": "2023-12-24",
+      "raw_date": "2023-12-24T01:31:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.352363",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-12-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

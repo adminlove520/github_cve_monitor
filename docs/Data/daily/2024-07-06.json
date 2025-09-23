@@ -1,0 +1,97 @@
+{
+  "date": "2024-07-06",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[l0n3m4n/CVE-2024-4577-RCE](https://github.com/l0n3m4n/CVE-2024-4577-RCE)",
+      "description": "PoC - PHP CGI Argument Injection CVE-2024-4577 (Scanner and Exploitation)",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T19:37:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-39943",
+      "repo_info": "[A-little-dragon/CVE-2024-39943-Exploit](https://github.com/A-little-dragon/CVE-2024-39943-Exploit)",
+      "description": "no description",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T17:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-37081",
+      "repo_info": "[mbadanoiu/CVE-2024-37081](https://github.com/mbadanoiu/CVE-2024-37081)",
+      "description": "CVE-2024-37081: Multiple Local Privilege Escalation in VMware vCenter Server",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T18:29:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-36991",
+      "repo_info": "[bigb0x/CVE-2024-36991](https://github.com/bigb0x/CVE-2024-36991)",
+      "description": "POC for CVE-2024-36991: This exploit will attempt to read Splunk /etc/passwd file.",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T00:49:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-36991",
+      "repo_info": "[Mr-xn/CVE-2024-36991](https://github.com/Mr-xn/CVE-2024-36991)",
+      "description": "Path Traversal On The &quot;/Modules/Messaging/&quot; Endpoint In Splunk Enterprise On Windows",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T01:00:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-36991",
+      "repo_info": "[sardine-web/CVE-2024-36991](https://github.com/sardine-web/CVE-2024-36991)",
+      "description": "Path traversal vulnerability in Splunk Enterprise on Windows",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T17:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-36991",
+      "repo_info": "[th3gokul/CVE-2024-36991](https://github.com/th3gokul/CVE-2024-36991)",
+      "description": "CVE-2024-36991: Path traversal that affects Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10.",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T15:24:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[Mr-xn/CVE-2024-36401](https://github.com/Mr-xn/CVE-2024-36401)",
+      "description": "Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions with multies ways to exploit",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T01:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[zgimszhd61/CVE-2024-36401](https://github.com/zgimszhd61/CVE-2024-36401)",
+      "description": "no description",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T06:04:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-22275",
+      "repo_info": "[mbadanoiu/CVE-2024-22275](https://github.com/mbadanoiu/CVE-2024-22275)",
+      "description": "CVE-2024-22275: Partial File Read in VMware vCenter Server",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T18:14:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-22274",
+      "repo_info": "[mbadanoiu/CVE-2024-22274](https://github.com/mbadanoiu/CVE-2024-22274)",
+      "description": "CVE-2024-22274: Authenticated Remote Code Execution in VMware vCenter Server",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T17:55:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-48194",
+      "repo_info": "[zt20xx/CVE-2023-48194](https://github.com/zt20xx/CVE-2023-48194)",
+      "description": "no description",
+      "date": "2024-07-06",
+      "raw_date": "2024-07-06T12:37:56Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.750096",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-07-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

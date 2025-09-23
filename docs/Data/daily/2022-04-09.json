@@ -1,0 +1,41 @@
+{
+  "date": "2022-04-09",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0841",
+      "repo_info": "[mappl3/CVE-2019-0841](https://github.com/mappl3/CVE-2019-0841)",
+      "description": "no description",
+      "date": "2022-04-09",
+      "raw_date": "2022-04-09T05:19:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[0zvxr/CVE-2017-9841](https://github.com/0zvxr/CVE-2017-9841)",
+      "description": "phpunit-shell - CVE_2017-9841",
+      "date": "2022-04-09",
+      "raw_date": "2022-04-09T11:12:58Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[0xkasra/CVE-2014-6271](https://github.com/0xkasra/CVE-2014-6271)",
+      "description": "no description",
+      "date": "2022-04-09",
+      "raw_date": "2022-04-09T21:24:12Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[0xkasra/CVE-2007-2447](https://github.com/0xkasra/CVE-2007-2447)",
+      "description": "no description",
+      "date": "2022-04-09",
+      "raw_date": "2022-04-09T21:12:11Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.736334",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-04-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

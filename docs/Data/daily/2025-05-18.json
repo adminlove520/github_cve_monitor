@@ -1,0 +1,62 @@
+{
+  "date": "2025-05-18",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-4921",
+      "repo_info": "[doomygloom/CVE-2025-4921](https://github.com/doomygloom/CVE-2025-4921)",
+      "description": "CVE-2025-4921",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T02:05:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-4664",
+      "repo_info": "[doomygloom/CVE-2025-4664](https://github.com/doomygloom/CVE-2025-4664)",
+      "description": "CVE-2025-4664",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T02:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-32756",
+      "repo_info": "[exfil0/CVE-2025-32756-POC](https://github.com/exfil0/CVE-2025-32756-POC)",
+      "description": "Designed for Demonstration of Deep Exploitation.",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T09:46:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-32259",
+      "repo_info": "[HossamEAhmed/wp-ulike-cve-2025-32259-poc](https://github.com/HossamEAhmed/wp-ulike-cve-2025-32259-poc)",
+      "description": "In affected versions of the WP ULike plugin, there is no proper authorization check before allowing certain AJAX actions or vote manipulations. This allows unauthenticated users to interact with the plugin in ways only logged-in users should be able to — potentially skewing votes or injecting misleading data.",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T02:09:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-24104",
+      "repo_info": "[missaels235/POC-CVE-2025-24104-Py](https://github.com/missaels235/POC-CVE-2025-24104-Py)",
+      "description": "no description",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T18:11:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-44258",
+      "repo_info": "[missaels235/POC-CVE-2024-44258-Py](https://github.com/missaels235/POC-CVE-2024-44258-Py)",
+      "description": "no description",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T01:18:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-41713",
+      "repo_info": "[gunyakit/CVE-2024-41713-PoC-exploit](https://github.com/gunyakit/CVE-2024-41713-PoC-exploit)",
+      "description": "Mitel MiCollab Authentication Bypass to Arbitrary File Read",
+      "date": "2025-05-18",
+      "raw_date": "2025-05-18T08:12:40Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.016091",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2025-05-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

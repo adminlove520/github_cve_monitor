@@ -1,0 +1,27 @@
+{
+  "date": "2016-05-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3714",
+      "repo_info": "[tommiionfire/CVE-2016-3714](https://github.com/tommiionfire/CVE-2016-3714)",
+      "description": "no description",
+      "date": "2016-05-04",
+      "raw_date": "2016-05-04T09:47:42Z"
+    },
+    {
+      "cve_id": "CVE-2016-3714",
+      "repo_info": "[jackdpeterson/imagick_secure_puppet](https://github.com/jackdpeterson/imagick_secure_puppet)",
+      "description": "a puppet module in response to CVE-2016-3714",
+      "date": "2016-05-04",
+      "raw_date": "2016-05-04T04:30:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.424498",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2016-10-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-6366",
+      "repo_info": "[aishee/scan-dirtycow](https://github.com/aishee/scan-dirtycow)",
+      "description": "Scan vuls kernel CVE-2016-5195 - DirtyCow",
+      "date": "2016-10-29",
+      "raw_date": "2016-10-29T08:45:45Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[oleg-fiksel/ansible_CVE-2016-5195_check](https://github.com/oleg-fiksel/ansible_CVE-2016-5195_check)",
+      "description": "no description",
+      "date": "2016-10-29",
+      "raw_date": "2016-10-29T19:15:20Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.457341",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-10-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

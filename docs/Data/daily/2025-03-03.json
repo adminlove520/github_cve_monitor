@@ -1,0 +1,34 @@
+{
+  "date": "2025-03-03",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9474",
+      "repo_info": "[concretesign/CVE-2024-9474](https://github.com/concretesign/CVE-2024-9474)",
+      "description": "PAN-OS auth bypass + RCE",
+      "date": "2025-03-03",
+      "raw_date": "2025-03-03T15:14:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[shoddykilom/CVE-2024-50379](https://github.com/shoddykilom/CVE-2024-50379)",
+      "description": "tomcat CVE-2024-50379/CVE-2024-56337 条件竞争文件上传exp",
+      "date": "2025-03-03",
+      "raw_date": "2025-03-03T22:22:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-40167",
+      "repo_info": "[uthrasri/Jetty-v9.4.31_CVE-2023-40167-](https://github.com/uthrasri/Jetty-v9.4.31_CVE-2023-40167-)",
+      "description": "no description",
+      "date": "2025-03-03",
+      "raw_date": "2025-03-03T13:55:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.943683",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2025-03-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

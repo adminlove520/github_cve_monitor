@@ -1,0 +1,34 @@
+{
+  "date": "2022-07-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[twoning/CVE-2022-26134-PoC](https://github.com/twoning/CVE-2022-26134-PoC)",
+      "description": "CVE-2022-26134-PoC",
+      "date": "2022-07-14",
+      "raw_date": "2022-07-14T01:28:16Z"
+    },
+    {
+      "cve_id": "CVE-2021-46422",
+      "repo_info": "[twoning/CVE-2021-46422_PoC](https://github.com/twoning/CVE-2021-46422_PoC)",
+      "description": "CVE-2021-46422_PoC",
+      "date": "2022-07-14",
+      "raw_date": "2022-07-14T01:10:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-1205",
+      "repo_info": "[info4mationprivate8tools/CVE-2019-1205](https://github.com/info4mationprivate8tools/CVE-2019-1205)",
+      "description": "Microsoft vulnerability for CVE 2019-1205 in 2022.",
+      "date": "2022-07-14",
+      "raw_date": "2022-07-14T21:53:38Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.819762",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-07-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2019-05-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8570",
+      "repo_info": "[sasqwatch/CVE-2017-8570](https://github.com/sasqwatch/CVE-2017-8570)",
+      "description": "no description",
+      "date": "2019-05-08",
+      "raw_date": "2019-05-08T20:53:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.787600",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

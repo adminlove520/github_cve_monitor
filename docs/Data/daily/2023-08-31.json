@@ -1,0 +1,90 @@
+{
+  "date": "2023-08-31",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-41717",
+      "repo_info": "[federella/CVE-2023-41717](https://github.com/federella/CVE-2023-41717)",
+      "description": "This repository is to provide a write-up and PoC for CVE-2023-41717.",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T08:10:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-36281",
+      "repo_info": "[tagomaru/CVE-2023-36281](https://github.com/tagomaru/CVE-2023-36281)",
+      "description": "PoC of CVE-2023-36281",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T21:31:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-3519",
+      "repo_info": "[JonaNeidhart/CVE-2023-3519-BackdoorCheck](https://github.com/JonaNeidhart/CVE-2023-3519-BackdoorCheck)",
+      "description": "Script for checking CVE-2023-3519 for Backdoors",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T09:10:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-3450",
+      "repo_info": "[yuanjinyuyuyu/CVE-2023-3450](https://github.com/yuanjinyuyuyu/CVE-2023-3450)",
+      "description": "no description",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T17:32:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-3450",
+      "repo_info": "[errorfiathck/MOVEit-Exploit](https://github.com/errorfiathck/MOVEit-Exploit)",
+      "description": "an exploit of POC for CVE-2023-34362 affecting MOVEit Transfer",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T13:25:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[gibran-abdillah/CVE-2023-32315](https://github.com/gibran-abdillah/CVE-2023-32315)",
+      "description": "Tool for CVE-2023-32315 exploitation",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T08:43:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[bingtangbanli/VulnerabilityTools](https://github.com/bingtangbanli/VulnerabilityTools)",
+      "description": "[CVE_2023_28432漏洞 、CVE_2023_32315漏洞、 ThinkPHP 2.x 任意代码执行漏洞 、ThinkPHP5 5.0.22/5.1.29 远程代码执行漏洞、 ThinkPHP5 5.0.23 远程代码执行漏洞 ThinkPHP 多语言本地文件包含漏洞]",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T03:22:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-30943",
+      "repo_info": "[d0rb/CVE-2023-30943](https://github.com/d0rb/CVE-2023-30943)",
+      "description": "CVE-2023-30943  RCE PoC",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T08:18:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-22145",
+      "repo_info": "[niceeeeeeee/CVE-2021-22145-poc](https://github.com/niceeeeeeee/CVE-2021-22145-poc)",
+      "description": "no description",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T07:56:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-0394",
+      "repo_info": "[Trinadh465/platform_art_CVE-2021-0394](https://github.com/Trinadh465/platform_art_CVE-2021-0394)",
+      "description": "no description",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T07:00:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-19360",
+      "repo_info": "[a1665454764/CVE-2020-19360](https://github.com/a1665454764/CVE-2020-19360)",
+      "description": "CVE-2020-19360",
+      "date": "2023-08-31",
+      "raw_date": "2023-08-31T12:47:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.271618",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2023-08-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

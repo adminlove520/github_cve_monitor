@@ -1,0 +1,76 @@
+{
+  "date": "2023-12-25",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-6710",
+      "repo_info": "[DedSec-47/CVE-2023-6710](https://github.com/DedSec-47/CVE-2023-6710)",
+      "description": "Explore the depths of CVE-2023-6710 with our comprehensive Proof of Concept (PoC). This CVE, identified as a potential security vulnerability, has been meticulously examined to demonstrate its impact and provide a hands-on understanding of the associated risks.",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T09:50:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-6710",
+      "repo_info": "[DedSec-47/Metasploit-Exploits-CVE-2023-6710](https://github.com/DedSec-47/Metasploit-Exploits-CVE-2023-6710)",
+      "description": "Welcome to the Metasploit Exploits Repository, your go-to resource for a comprehensive collection of cutting-edge exploits designed for penetration testing and ethical hacking. Developed and maintained by Mohamed Mounir Boudjema, this repository is crafted with a deep understanding of the evolving landscape of cybersecurity.",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T09:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[zls1793/CVE-2023-51385_test](https://github.com/zls1793/CVE-2023-51385_test)",
+      "description": "一个验证对CVE-2023-51385",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T13:13:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[Le1a/CVE-2023-51385](https://github.com/Le1a/CVE-2023-51385)",
+      "description": "OpenSSH ProxyCommand RCE",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T12:51:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[watarium/poc-cve-2023-51385](https://github.com/watarium/poc-cve-2023-51385)",
+      "description": "no description",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T07:43:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[Tachanka-zz/CVE-2023-51385_test](https://github.com/Tachanka-zz/CVE-2023-51385_test)",
+      "description": "This is a test",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T07:43:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[FeatherStark/CVE-2023-51385](https://github.com/FeatherStark/CVE-2023-51385)",
+      "description": "no description",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T04:34:02Z"
+    },
+    {
+      "cve_id": "CVE-2019-18935",
+      "repo_info": "[dust-life/CVE-2019-18935-memShell](https://github.com/dust-life/CVE-2019-18935-memShell)",
+      "description": "no description",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T06:45:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-11395",
+      "repo_info": "[redalien301090/CVE-2019-11395](https://github.com/redalien301090/CVE-2019-11395)",
+      "description": "MailCarrier 2.51 - POP3 &#x27;USER&#x27; Buffer Overflow",
+      "date": "2023-12-25",
+      "raw_date": "2023-12-25T11:30:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.352363",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-12-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2021-02-21",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0232",
+      "repo_info": "[Nicoslo/Windows-Exploitation-Web-Server-Tomcat-8.5.39-CVE-2019-0232](https://github.com/Nicoslo/Windows-Exploitation-Web-Server-Tomcat-8.5.39-CVE-2019-0232)",
+      "description": "no description",
+      "date": "2021-02-21",
+      "raw_date": "2021-02-21T16:56:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.291290",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-02-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

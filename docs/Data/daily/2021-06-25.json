@@ -1,0 +1,34 @@
+{
+  "date": "2021-06-25",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-35475",
+      "repo_info": "[saitamang/CVE-2021-35475](https://github.com/saitamang/CVE-2021-35475)",
+      "description": "Writeup for CVE-2021-35475; Stored Cross-Site Scripting(XSS) on SAS® Environment Manager 2.5",
+      "date": "2021-06-25",
+      "raw_date": "2021-06-25T03:08:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-27850",
+      "repo_info": "[kahla-sec/CVE-2021-27850_POC](https://github.com/kahla-sec/CVE-2021-27850_POC)",
+      "description": "A Proof of concept for CVE-2021-27850 affecting Apache Tapestry and leading to unauthencticated remote code execution.",
+      "date": "2021-06-25",
+      "raw_date": "2021-06-25T13:55:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-3580",
+      "repo_info": "[Hudi233/CVE-2020-3580](https://github.com/Hudi233/CVE-2020-3580)",
+      "description": "no description",
+      "date": "2021-06-25",
+      "raw_date": "2021-06-25T04:39:30Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.461937",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-06-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

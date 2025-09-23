@@ -1,0 +1,62 @@
+{
+  "date": "2024-10-21",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9264",
+      "repo_info": "[z3k0sec/CVE-2024-9264-RCE-Exploit](https://github.com/z3k0sec/CVE-2024-9264-RCE-Exploit)",
+      "description": "Grafana RCE exploit (CVE-2024-9264)",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T03:36:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-9264",
+      "repo_info": "[PunitTailor55/Grafana-CVE-2024-9264](https://github.com/PunitTailor55/Grafana-CVE-2024-9264)",
+      "description": "no description",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T10:25:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-48914",
+      "repo_info": "[EQSTLab/CVE-2024-48914](https://github.com/EQSTLab/CVE-2024-48914)",
+      "description": "PoC for CVE-2024-48914",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T10:02:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-45436",
+      "repo_info": "[pankass/CVE-2024-45436](https://github.com/pankass/CVE-2024-45436)",
+      "description": "CVE-2024-45436",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T05:44:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[p33d/CVE-2024-23113](https://github.com/p33d/CVE-2024-23113)",
+      "description": "no description",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T10:27:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-1086",
+      "repo_info": "[matrixvk/CVE-2024-1086-aarch64](https://github.com/matrixvk/CVE-2024-1086-aarch64)",
+      "description": "no description",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T10:45:49Z"
+    },
+    {
+      "cve_id": "CVE-2018-0101",
+      "repo_info": "[MikeHorn-git/CVE-2018-0101](https://github.com/MikeHorn-git/CVE-2018-0101)",
+      "description": "Cisco ASA CVE-2018-0101 PoC script.",
+      "date": "2024-10-21",
+      "raw_date": "2024-10-21T12:56:35Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.836006",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-10-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

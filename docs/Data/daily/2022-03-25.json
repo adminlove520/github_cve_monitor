@@ -1,0 +1,34 @@
+{
+  "date": "2022-03-25",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-13720",
+      "repo_info": "[CrackerCat/Rootsmart-v2.0](https://github.com/CrackerCat/Rootsmart-v2.0)",
+      "description": "Android Ransomware Development - AES256 encryption + CVE-2019-2215 (reverse root shell) + Data Exfiltration",
+      "date": "2022-03-25",
+      "raw_date": "2022-03-25T04:24:37Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[tzwlhack/CVE-2018-20250](https://github.com/tzwlhack/CVE-2018-20250)",
+      "description": "no description",
+      "date": "2022-03-25",
+      "raw_date": "2022-03-25T13:02:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-12326",
+      "repo_info": "[spasm5/CVE-2018-12326](https://github.com/spasm5/CVE-2018-12326)",
+      "description": "no description",
+      "date": "2022-03-25",
+      "raw_date": "2022-03-25T01:44:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.723402",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-03-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

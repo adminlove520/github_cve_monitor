@@ -1,0 +1,76 @@
+{
+  "date": "2025-05-09",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-3605",
+      "repo_info": "[Nxploited/CVE-2025-3605](https://github.com/Nxploited/CVE-2025-3605)",
+      "description": "WordPress Frontend Login and Registration Blocks Plugin &lt;= 1.0.7 is vulnerable to Privilege Escalation",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T21:45:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-3605",
+      "repo_info": "[jailbreakdotparty/dirtyZero](https://github.com/jailbreakdotparty/dirtyZero)",
+      "description": "Basic customization app using CVE-2025-24203. Patched in iOS 18.4.",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T07:18:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-3605",
+      "repo_info": "[xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC](https://github.com/xirtam2669/Kentico-Xperience-before-13.0.178---XSS-POC)",
+      "description": "PoC for CVE-2025-2748 - Unauthenticated ZIP file upload with embedded SVG for XSS",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T18:49:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-27533",
+      "repo_info": "[absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ](https://github.com/absholi7ly/CVE-2025-27533-Exploit-for-Apache-ActiveMQ)",
+      "description": "exploit for CVE-2025-27533, a Denial of Service (DoS) vulnerability in Apache ActiveMQ",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T02:43:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-38475",
+      "repo_info": "[syaifulandy/CVE-2024-38475](https://github.com/syaifulandy/CVE-2024-38475)",
+      "description": "CVE-2024-38475 Scanner using FFUF + Seclists",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T07:51:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[DedsecTeam-BlackHat/Poleposph](https://github.com/DedsecTeam-BlackHat/Poleposph)",
+      "description": "Tools for scan CVE-2024-25600 - WordPress Bricks Builder Remote Code Execution (RCE)",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T12:13:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-13513",
+      "repo_info": "[KTN1990/CVE-2024-13513](https://github.com/KTN1990/CVE-2024-13513)",
+      "description": "Oliver POS – A WooCommerce Point of Sale (POS) &lt;= 2.4.2.3 - Sensitive Information Exposure to Privilege Escalation",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T01:27:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[titusG85/SideWinder-Exploit](https://github.com/titusG85/SideWinder-Exploit)",
+      "description": "This is an exercise built around CVE-2021-3560",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T05:28:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-17246",
+      "repo_info": "[Almandev/Sub-folderFetcher](https://github.com/Almandev/Sub-folderFetcher)",
+      "description": "A script to download specific Vulhub repository folder (kibana/CVE-2018-17246) from GitHub.",
+      "date": "2025-05-09",
+      "raw_date": "2025-05-09T02:14:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.006159",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-05-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

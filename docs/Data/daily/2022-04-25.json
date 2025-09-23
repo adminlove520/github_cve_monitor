@@ -1,0 +1,104 @@
+{
+  "date": "2022-04-25",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-28346",
+      "repo_info": "[YouGina/CVE-2022-28346](https://github.com/YouGina/CVE-2022-28346)",
+      "description": "SQL injection in QuerySet.annotate(), aggregate(), and extra()",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T08:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[XmasSnowREAL/CVE-2022-26809-RCE](https://github.com/XmasSnowREAL/CVE-2022-26809-RCE)",
+      "description": "CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T18:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-2333",
+      "repo_info": "[shirouQwQ/CVE-2022-2333](https://github.com/shirouQwQ/CVE-2022-2333)",
+      "description": "SXF VPN RCE",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T10:13:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[Damok82/SignChecker](https://github.com/Damok82/SignChecker)",
+      "description": "Test tool to demonstrate the vulnerability of CVE-2022-21449",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T16:02:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-42292",
+      "repo_info": "[XmasSnowREAL/CVE-2021-42292](https://github.com/XmasSnowREAL/CVE-2021-42292)",
+      "description": "A Zeek package to detect CVE-2021-42292, a Microsoft Excel local privilege escalation exploit.",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T18:48:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-35042",
+      "repo_info": "[WynSon/CVE-2021-35042](https://github.com/WynSon/CVE-2021-35042)",
+      "description": "A basic analysis about CVE-2021-35942. SQL injection in Django.",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T02:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-32849",
+      "repo_info": "[lowkey0808/cve-2021-32849](https://github.com/lowkey0808/cve-2021-32849)",
+      "description": "cve-2021-32849(gerapy命令执行)",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T06:44:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-0954",
+      "repo_info": "[nanopathi/framework_base_AOSP10_r33_CVE-2021-0954](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0954)",
+      "description": "no description",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T05:13:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-0586",
+      "repo_info": "[nanopathi/packages_apps_Settings_CVE-2021-0586](https://github.com/nanopathi/packages_apps_Settings_CVE-2021-0586)",
+      "description": "no description",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T07:58:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-0339",
+      "repo_info": "[nanopathi/framework_base_AOSP10_r33_CVE-2021-0339](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0339)",
+      "description": "no description",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T07:09:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-15823",
+      "repo_info": "[XmasSnowREAL/CVE-2020-15823](https://github.com/XmasSnowREAL/CVE-2020-15823)",
+      "description": "JetBrains YouTrack before 2020.2.8873 is vulnerable to SSRF in the Workflow component.",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T19:16:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-0227",
+      "repo_info": "[nanopathi/framework_base_AOSP10_r33_CVE-2020-0227](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2020-0227)",
+      "description": "no description",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T06:18:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[anldori/Drupal-CVE-2018-7600](https://github.com/anldori/Drupal-CVE-2018-7600)",
+      "description": "no description",
+      "date": "2022-04-25",
+      "raw_date": "2022-04-25T08:46:00Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.751990",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2022-04-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

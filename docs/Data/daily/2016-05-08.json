@@ -1,0 +1,20 @@
+{
+  "date": "2016-05-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-0051",
+      "repo_info": "[hexx0r/CVE-2016-0051](https://github.com/hexx0r/CVE-2016-0051)",
+      "description": "no description",
+      "date": "2016-05-08",
+      "raw_date": "2016-05-08T06:22:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.426499",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

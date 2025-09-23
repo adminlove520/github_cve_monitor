@@ -1,0 +1,20 @@
+{
+  "date": "2021-09-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-9791",
+      "repo_info": "[Sp0pielar/CVE-2019-9791](https://github.com/Sp0pielar/CVE-2019-9791)",
+      "description": "Exploit chain for CVE-2019-9791 &amp; CVE-2019-11708 against firefox 65.0 on windows 64bit",
+      "date": "2021-09-08",
+      "raw_date": "2021-09-08T14:38:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.552170",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-09-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

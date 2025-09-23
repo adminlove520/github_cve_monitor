@@ -1,0 +1,76 @@
+{
+  "date": "2022-10-18",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[korteke/CVE-2022-42889-POC](https://github.com/korteke/CVE-2022-42889-POC)",
+      "description": "A simple application that shows how to exploit the CVE-2022-42889 vulnerability",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T23:15:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[Goss1TheDog/CVE-2022-42889-RCE-POC](https://github.com/Goss1TheDog/CVE-2022-42889-RCE-POC)",
+      "description": "CVE-2022-42889 Remote Code Exection Vulnerability aka Text4Shell",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T19:37:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[ClickCyber/cve-2022-42889](https://github.com/ClickCyber/cve-2022-42889)",
+      "description": "cve-2022-42889 Text4Shell CVE-2022-42889 affects Apache Commons Text versions 1.5 through 1.9. It has been patched as of Commons Text version 1.10.",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T13:53:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[karthikuj/cve-2022-42889-text4shell-docker](https://github.com/karthikuj/cve-2022-42889-text4shell-docker)",
+      "description": "Dockerized POC for CVE-2022-42889 Text4Shell",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T09:58:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-3368",
+      "repo_info": "[Wh04m1001/CVE-2022-3368](https://github.com/Wh04m1001/CVE-2022-3368)",
+      "description": "no description",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T09:16:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-3368",
+      "repo_info": "[tulhan/commons-text-goat](https://github.com/tulhan/commons-text-goat)",
+      "description": "An intentionally vulnerable webapp to get your hands dirty with CVE-2022-42889.",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T08:22:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-27502",
+      "repo_info": "[alirezac0/CVE-2022-27502](https://github.com/alirezac0/CVE-2022-27502)",
+      "description": "Exploit of RealVNC VNC Server",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T06:31:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-13937",
+      "repo_info": "[kailing0220/CVE-2020-13937](https://github.com/kailing0220/CVE-2020-13937)",
+      "description": "Apache Kylin有一个restful api会在没有任何认证的情况下暴露配置信息",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T14:11:16Z"
+    },
+    {
+      "cve_id": "CVE-2014-3704",
+      "repo_info": "[AleDiBen/Drupalgeddon](https://github.com/AleDiBen/Drupalgeddon)",
+      "description": "CVE-2014-3704 aka Drupalgeddon - Form-Cache Injection Method",
+      "date": "2022-10-18",
+      "raw_date": "2022-10-18T16:00:17Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.905614",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2024-07-21",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6694",
+      "repo_info": "[codeb0ss/CVE-2024-6694-PoC](https://github.com/codeb0ss/CVE-2024-6694-PoC)",
+      "description": "CVE-2024-6694 - WP Mail SMTP &lt; SMTP Password Exposure (Exploiter)",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T21:41:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-6205",
+      "repo_info": "[j3r1ch0123/CVE-2024-6205](https://github.com/j3r1ch0123/CVE-2024-6205)",
+      "description": "This is a python written PoC of a recent vulnerability in a wordpress plugin. More information on that here",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T04:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-5633",
+      "repo_info": "[Adikso/CVE-2024-5633](https://github.com/Adikso/CVE-2024-5633)",
+      "description": "PoC for CVE-2024-5633",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T20:27:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-40348",
+      "repo_info": "[bigb0x/CVE-2024-40348](https://github.com/bigb0x/CVE-2024-40348)",
+      "description": "POC for CVE-2024-40348. Will attempt to read /etc/passwd from target",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T00:54:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-38041",
+      "repo_info": "[varwara/CVE-2024-38041](https://github.com/varwara/CVE-2024-38041)",
+      "description": "Kernel pointers copied to output user mode buffer with ioctl 0x22A014 in the appid.sys driver.",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T02:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-37081",
+      "repo_info": "[CERTologists/Modified-CVE-2024-37081-POC](https://github.com/CERTologists/Modified-CVE-2024-37081-POC)",
+      "description": "no description",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T08:42:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-37081",
+      "repo_info": "[CERTologists/-CVE-2024-37081-POC](https://github.com/CERTologists/-CVE-2024-37081-POC)",
+      "description": "no description",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T08:41:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-3432",
+      "repo_info": "[pamoutaf/CVE-2024-3432](https://github.com/pamoutaf/CVE-2024-3432)",
+      "description": "no description",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T10:35:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[ex-ARnX/CVE-2024-34102-PoC](https://github.com/ex-ARnX/CVE-2024-34102-PoC)",
+      "description": "CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce and (NEW 0DAY)?",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T00:22:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-24590",
+      "repo_info": "[sviim/ClearML-CVE-2024-24590](https://github.com/sviim/ClearML-CVE-2024-24590)",
+      "description": "With this script you can exploit the CVE-2024-24590",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T04:16:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-0666",
+      "repo_info": "[labc-dev/CVE-2024-0666](https://github.com/labc-dev/CVE-2024-0666)",
+      "description": "no description",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T23:41:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-50564",
+      "repo_info": "[Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC](https://github.com/Rai2en/CVE-2023-50564_Pluck-v4.7.18_PoC)",
+      "description": "no description",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T20:15:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[Onedy1703/CVE-2023-22515](https://github.com/Onedy1703/CVE-2023-22515)",
+      "description": "CVE 2023-22515",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T17:19:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-37017",
+      "repo_info": "[apeppels/CVE-2022-37017](https://github.com/apeppels/CVE-2022-37017)",
+      "description": "Bypass for Symantec Endpoint Protection&#x27;s Client User Interface Password",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T12:26:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-5784",
+      "repo_info": "[agenericapple/CVE-2019-5784-PoC](https://github.com/agenericapple/CVE-2019-5784-PoC)",
+      "description": "a proof of concept for CVE-2019-5784",
+      "date": "2024-07-21",
+      "raw_date": "2024-07-21T14:30:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.761158",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-07-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

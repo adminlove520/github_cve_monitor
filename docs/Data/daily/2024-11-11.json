@@ -1,0 +1,76 @@
+{
+  "date": "2024-11-11",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8275",
+      "repo_info": "[whiterose7777/CVE-2024-8275](https://github.com/whiterose7777/CVE-2024-8275)",
+      "description": "no description",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T08:53:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-51026",
+      "repo_info": "[BrotherOfJhonny/CVE-2024-51026_Overview](https://github.com/BrotherOfJhonny/CVE-2024-51026_Overview)",
+      "description": "Sistema NetAdmin IAM 4 é vulnerável a Cross Site Scripting (XSS), no endpoint /BalloonSave.ashx",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T14:49:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-45519",
+      "repo_info": "[whiterose7777/CVE-2024-45519](https://github.com/whiterose7777/CVE-2024-45519)",
+      "description": "no description",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T08:57:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-40898",
+      "repo_info": "[whiterose7777/CVE-2024-40725-CVE-2024-40898](https://github.com/whiterose7777/CVE-2024-40725-CVE-2024-40898)",
+      "description": "no description",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T09:00:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC](https://github.com/safeer-accuknox/Jenkins-Args4j-CVE-2024-23897-POC)",
+      "description": "Jenkins CVE-2024-23897: Arbitrary File Read Vulnerability Leading to RCE",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T01:43:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-11016",
+      "repo_info": "[hatvix1/CVE-2024-11016](https://github.com/hatvix1/CVE-2024-11016)",
+      "description": "CVE-2024-11016-Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;)",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T17:17:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-44488",
+      "repo_info": "[uthrasri/CVE-2023-44488-_libvpx_1.8.0](https://github.com/uthrasri/CVE-2023-44488-_libvpx_1.8.0)",
+      "description": "no description",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T10:07:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[RonF98/CVE-2023-38831-POC](https://github.com/RonF98/CVE-2023-38831-POC)",
+      "description": "CVE-2023-38831 is a Zero-day WinRAR vulnerability that lets attackers disguise malicious files in archives, tricking users into executing harmful content.",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T14:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-14881",
+      "repo_info": "[uthrasri/CVE-2018-14881_no_patch](https://github.com/uthrasri/CVE-2018-14881_no_patch)",
+      "description": "no description",
+      "date": "2024-11-11",
+      "raw_date": "2024-11-11T20:27:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.853084",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-11-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

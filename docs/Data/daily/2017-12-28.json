@@ -1,0 +1,27 @@
+{
+  "date": "2017-12-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-10271",
+      "repo_info": "[c0mmand3rOpSec/CVE-2017-10271](https://github.com/c0mmand3rOpSec/CVE-2017-10271)",
+      "description": "WebLogic Exploit",
+      "date": "2017-12-28",
+      "raw_date": "2017-12-28T01:30:50Z"
+    },
+    {
+      "cve_id": "CVE-2017-10271",
+      "repo_info": "[Luffin/CVE-2017-10271](https://github.com/Luffin/CVE-2017-10271)",
+      "description": "CVE-2017-10271 POC",
+      "date": "2017-12-28",
+      "raw_date": "2017-12-28T07:19:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.592617",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

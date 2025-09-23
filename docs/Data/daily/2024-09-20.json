@@ -1,0 +1,83 @@
+{
+  "date": "2024-09-20",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9043",
+      "repo_info": "[maybeheisenberg/CVE-2024-9043](https://github.com/maybeheisenberg/CVE-2024-9043)",
+      "description": "no description",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T16:45:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-38816",
+      "repo_info": "[weliveby/cve-2024-38816-demo](https://github.com/weliveby/cve-2024-38816-demo)",
+      "description": "no description",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T02:09:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-42793",
+      "repo_info": "[SwiftSecur/teamcity-exploit-cve-2023-42793](https://github.com/SwiftSecur/teamcity-exploit-cve-2023-42793)",
+      "description": "teamcity-exploit-cve-2023-42793",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T12:15:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-30253",
+      "repo_info": "[bluetoothStrawberry/CVE-2023-30253](https://github.com/bluetoothStrawberry/CVE-2023-30253)",
+      "description": "Dolibarr 17.0.0 PHP Code Injection Exploit",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T19:54:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-35914",
+      "repo_info": "[btar1gan/exploit_CVE-2022-35914](https://github.com/btar1gan/exploit_CVE-2022-35914)",
+      "description": "no description",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T19:28:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[aifuzzer/poc-CVE-2020-35489](https://github.com/aifuzzer/poc-CVE-2020-35489)",
+      "description": "no description",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T01:10:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-29661",
+      "repo_info": "[TLD1027/CVE-2020-29661](https://github.com/TLD1027/CVE-2020-29661)",
+      "description": "Using Dirty Pagetable technology to reproduce CVE-2020-29661",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T07:37:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-9978",
+      "repo_info": "[MAHajian/CVE-2019-9978](https://github.com/MAHajian/CVE-2019-9978)",
+      "description": "no description",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T11:25:45Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[Yash-Thakkar77/CVE-2014-0160-HeartBleed](https://github.com/Yash-Thakkar77/CVE-2014-0160-HeartBleed)",
+      "description": "no description",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T13:44:54Z"
+    },
+    {
+      "cve_id": "CVE-2006-0987",
+      "repo_info": "[pcastagnaro/dns_amplification_scanner](https://github.com/pcastagnaro/dns_amplification_scanner)",
+      "description": "This script checks if each domain from a given domain list is vulnerable to CVE-2006-0987",
+      "date": "2024-09-20",
+      "raw_date": "2024-09-20T20:27:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.809650",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-09-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

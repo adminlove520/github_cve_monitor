@@ -1,0 +1,83 @@
+{
+  "date": "2023-10-06",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5217",
+      "repo_info": "[Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.4.0_CVE-2023-5217)",
+      "description": "no description",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T11:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-5217",
+      "repo_info": "[Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217](https://github.com/Trinadh465/platform_external_libvpx_v1.8.0_CVE-2023-5217)",
+      "description": "no description",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T10:43:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-5217",
+      "repo_info": "[wrv/cve-2023-5217-poc](https://github.com/wrv/cve-2023-5217-poc)",
+      "description": "A PoC to trigger CVE-2023-5217 from the Browser WebCodecs or MediaRecorder interface.",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T05:46:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-45540",
+      "repo_info": "[soundarkutty/CVE-2023-45540](https://github.com/soundarkutty/CVE-2023-45540)",
+      "description": "CVE-2023-45540 Jorani Leave Management System v1.0.3 –  HTML Injection",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T12:43:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-41892",
+      "repo_info": "[zaenhaxor/CVE-2023-41892](https://github.com/zaenhaxor/CVE-2023-41892)",
+      "description": "Mass check CVE-2023-41892 - Craft CMS Remote Code Execution (RCE)",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T01:40:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-38501",
+      "repo_info": "[codeb0ss/CVE-2023-38501-Exploit](https://github.com/codeb0ss/CVE-2023-38501-Exploit)",
+      "description": "Mass exploit - CVE-2023-38501 - Copyparty &lt; Cross-Site Scripting [XSS]",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T02:55:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[ErikWynter/CVE-2023-22515-Scan](https://github.com/ErikWynter/CVE-2023-22515-Scan)",
+      "description": "Scanner for CVE-2023-22515 - Broken Access Control Vulnerability in Atlassian Confluence",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T20:29:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-42703",
+      "repo_info": "[Satheesh575555/linux-4.1.15_CVE-2022-42703](https://github.com/Satheesh575555/linux-4.1.15_CVE-2022-42703)",
+      "description": "no description",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T06:18:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228)",
+      "description": "Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T04:36:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-3560",
+      "repo_info": "[TieuLong21Prosper/CVE-2021-3560](https://github.com/TieuLong21Prosper/CVE-2021-3560)",
+      "description": "CVE-2021-3560 Bypass su - root",
+      "date": "2023-10-06",
+      "raw_date": "2023-10-06T15:27:13Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.296383",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-10-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

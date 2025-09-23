@@ -1,0 +1,76 @@
+{
+  "date": "2023-03-23",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[gobysec/CVE-2023-28432](https://github.com/gobysec/CVE-2023-28432)",
+      "description": "MiniO verify interface sensitive information disclosure vulnerability (CVE-2023-28432)",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T16:27:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[Mr-xn/CVE-2023-28432](https://github.com/Mr-xn/CVE-2023-28432)",
+      "description": "CVE-2023-28434 nuclei templates",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T14:44:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-28343",
+      "repo_info": "[superzerosec/CVE-2023-28343](https://github.com/superzerosec/CVE-2023-28343)",
+      "description": "CVE-2023-28343 POC exploit",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T15:19:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-27532",
+      "repo_info": "[sfewer-r7/CVE-2023-27532](https://github.com/sfewer-r7/CVE-2023-27532)",
+      "description": "Exploit for CVE-2023-27532 against Veeam Backup &amp; Replication",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T16:08:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-25610",
+      "repo_info": "[PSIRT-REPO/CVE-2023-25610](https://github.com/PSIRT-REPO/CVE-2023-25610)",
+      "description": "A critical buffer underwrite (&#x27;buffer underflow&#x27;) vulnerability in FortiOS &amp; FortiProxy interfaces may allow a remote unauthenticated attacker to execute arbitrary code on the device and take control of the impacted Product...",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T18:39:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[stevesec/CVE-2023-23397](https://github.com/stevesec/CVE-2023-23397)",
+      "description": "no description",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T13:40:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar](https://github.com/securiteinfo/expl_outlook_cve_2023_23397_securiteinfo.yar)",
+      "description": "Yara rule compatible with ClamAV based on expl_outlook_cve_2023_23397yar",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T08:26:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-42475",
+      "repo_info": "[CKevens/CVE-2022-42475-RCE-POC](https://github.com/CKevens/CVE-2022-42475-RCE-POC)",
+      "description": "CVE-2022-42475 飞塔RCE漏洞 POC",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T06:48:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-20421",
+      "repo_info": "[0xkol/badspin](https://github.com/0xkol/badspin)",
+      "description": "Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)",
+      "date": "2023-03-23",
+      "raw_date": "2023-03-23T10:25:59Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.160069",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-03-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

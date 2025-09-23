@@ -1,0 +1,48 @@
+{
+  "date": "2022-12-11",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[subvers1on/CVE-2022-3236-RCE-PoC](https://github.com/subvers1on/CVE-2022-3236-RCE-PoC)",
+      "description": "writeup and PoC for CVE-2022-3236 (unauthenticated RCE in userportal and webadmin of sophos firewall)",
+      "date": "2022-12-11",
+      "raw_date": "2022-12-11T18:16:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[bluewolf2778/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/bluewolf2778/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)",
+      "description": "If you are cloning the project then run this first, otherwise you can download the source code on the release page and skip this step. In order to make use of this dapp, all you need to do is change the configurations to point to your smart contract as well as update the images and theme file.  For the most part all the changes will be in the publi",
+      "date": "2022-12-11",
+      "raw_date": "2022-12-11T16:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/bluewolf2778/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)",
+      "description": "We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow",
+      "date": "2022-12-11",
+      "raw_date": "2022-12-11T15:55:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-3236",
+      "repo_info": "[bluewolf2778/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/bluewolf2778/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)",
+      "description": "Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks &amp; scan networks around device (SSID, BSSID) s",
+      "date": "2022-12-11",
+      "raw_date": "2022-12-11T15:48:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-25765",
+      "repo_info": "[LordRNA/CVE-2022-25765](https://github.com/LordRNA/CVE-2022-25765)",
+      "description": "PoC for Blind RCE for CVE-2022-25765 (Tested in HTB - Precious Machine)",
+      "date": "2022-12-11",
+      "raw_date": "2022-12-11T14:02:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.944367",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-12-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2022-08-01",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-34970",
+      "repo_info": "[jeffymcjeffface/five-nights-at-follina-s](https://github.com/jeffymcjeffface/five-nights-at-follina-s)",
+      "description": "A Fullstack Academy Cybersecurity project examining the full cycle of the Follina (CVE-2022-30190) vulnerability, from exploit to detection and defense.",
+      "date": "2022-08-01",
+      "raw_date": "2022-08-01T16:47:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[Blackyguy/-CVE-2022-29464](https://github.com/Blackyguy/-CVE-2022-29464)",
+      "description": "no description",
+      "date": "2022-08-01",
+      "raw_date": "2022-08-01T07:27:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/eduquintanilha/CVE-2022-0847-DirtyPipe-Exploits)",
+      "description": "COMPILED",
+      "date": "2022-08-01",
+      "raw_date": "2022-08-01T14:14:40Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[A1vinSmith/CVE-2021-4034](https://github.com/A1vinSmith/CVE-2021-4034)",
+      "description": "Script en python sobre la vulnerabilidad CVE-2021-4034",
+      "date": "2022-08-01",
+      "raw_date": "2022-08-01T04:59:02Z"
+    },
+    {
+      "cve_id": "CVE-2015-5531",
+      "repo_info": "[xpgdgit/CVE-2015-5531](https://github.com/xpgdgit/CVE-2015-5531)",
+      "description": "no description",
+      "date": "2022-08-01",
+      "raw_date": "2022-08-01T07:21:43Z"
+    },
+    {
+      "cve_id": "CVE-2014-3120",
+      "repo_info": "[xpgdgit/CVE-2014-3120](https://github.com/xpgdgit/CVE-2014-3120)",
+      "description": "no description",
+      "date": "2022-08-01",
+      "raw_date": "2022-08-01T04:39:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.833533",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-08-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

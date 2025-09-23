@@ -1,0 +1,20 @@
+{
+  "date": "2017-05-01",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-6662",
+      "repo_info": "[MAYASEVEN/CVE-2016-6662](https://github.com/MAYASEVEN/CVE-2016-6662)",
+      "description": "From SQL injection to root shell with CVE-2016-6662 by MaYaSeVeN",
+      "date": "2017-05-01",
+      "raw_date": "2017-05-01T08:51:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.509143",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-05-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

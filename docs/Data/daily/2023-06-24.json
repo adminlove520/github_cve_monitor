@@ -1,0 +1,27 @@
+{
+  "date": "2023-06-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-44276",
+      "repo_info": "[HerrLeStrate/CVE-2022-44276-PoC](https://github.com/HerrLeStrate/CVE-2022-44276-PoC)",
+      "description": "PoC for Responsive Filemanager &lt; 9.12.0 bypass upload restrictions lead to RCE",
+      "date": "2023-06-24",
+      "raw_date": "2023-06-24T19:28:44Z"
+    },
+    {
+      "cve_id": "CVE-2009-1151",
+      "repo_info": "[ItaIia/PhpMyAdmin](https://github.com/ItaIia/PhpMyAdmin)",
+      "description": "Based on the x.pl exploit/loader script for CVE-2009-1151",
+      "date": "2023-06-24",
+      "raw_date": "2023-06-24T21:14:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.223681",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2023-06-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

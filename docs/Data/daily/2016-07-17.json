@@ -1,0 +1,20 @@
+{
+  "date": "2016-07-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3962",
+      "repo_info": "[securifera/CVE-2016-3962-Exploit](https://github.com/securifera/CVE-2016-3962-Exploit)",
+      "description": "CVE-2016-3962-Exploit",
+      "date": "2016-07-17",
+      "raw_date": "2016-07-17T18:43:56Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.437533",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-07-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

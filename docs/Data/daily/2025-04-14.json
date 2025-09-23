@@ -1,0 +1,174 @@
+{
+  "date": "2025-04-14",
+  "count": 23,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46047",
+      "repo_info": "[J0ey17/CVE-2025-46047](https://github.com/J0ey17/CVE-2025-46047)",
+      "description": "PoC for Silverpeas &lt;= 6.4.2 Username Enumeration",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T10:51:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-32579",
+      "repo_info": "[Nxploited/CVE-2025-32579](https://github.com/Nxploited/CVE-2025-32579)",
+      "description": "WordPress Sync Posts Plugin &lt;= 1.0 is vulnerable to Arbitrary File Upload",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T15:11:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-3102",
+      "repo_info": "[rhz0d/CVE-2025-3102](https://github.com/rhz0d/CVE-2025-3102)",
+      "description": "Wordpress SureTriggers &lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T16:07:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-3102",
+      "repo_info": "[Nxploited/CVE-2025-3102](https://github.com/Nxploited/CVE-2025-3102)",
+      "description": "Wordpress SureTriggers &lt;= 1.0.78 - Authorization Bypass due to Missing Empty Value Check to Unauthenticated Administrative User Creation",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T10:20:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[UNICORDev/exploit-CVE-2025-29927](https://github.com/UNICORDev/exploit-CVE-2025-29927)",
+      "description": "Exploit for CVE-2025-29927 (Next.js) - Authorization Bypass",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T15:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-51996",
+      "repo_info": "[moften/CVE-2024-51996](https://github.com/moften/CVE-2024-51996)",
+      "description": "CVE-2024-51996 es una vulnerabilidad crítica que afecta al componente security-http del framework Symfony.",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T21:02:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[Bhavyakcwestern/Hacking-pdf.js-vulnerability](https://github.com/Bhavyakcwestern/Hacking-pdf.js-vulnerability)",
+      "description": "CVE-2024-4367",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T00:00:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-38819",
+      "repo_info": "[jaloon/spring-webmvc5](https://github.com/jaloon/spring-webmvc5)",
+      "description": "Fork spring-webmvc 5.3.39 to fix CVE-2024-38816, CVE-2024-38819",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T02:31:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-38819",
+      "repo_info": "[First-Roman/sprig-mvc-demo-patch](https://github.com/First-Roman/sprig-mvc-demo-patch)",
+      "description": "This demo application partially covers the vulnerability CVE-2024-38828",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T22:36:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-23653",
+      "repo_info": "[shkch02/cve_2024_23653](https://github.com/shkch02/cve_2024_23653)",
+      "description": "no description",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T11:04:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-23652",
+      "repo_info": "[shkch02/cve_2024_23652](https://github.com/shkch02/cve_2024_23652)",
+      "description": "no description",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T10:00:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-44487",
+      "repo_info": "[moften/CVE-2023-44487](https://github.com/moften/CVE-2023-44487)",
+      "description": "HTTP/2 Rapid Reset Exploit PoC",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T22:39:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-42793",
+      "repo_info": "[jakehomb/cve-2023-42793](https://github.com/jakehomb/cve-2023-42793)",
+      "description": "no description",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T05:33:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-40028",
+      "repo_info": "[buutt3rf1y/CVE-2023-40028](https://github.com/buutt3rf1y/CVE-2023-40028)",
+      "description": "POC for CVE-2023-40028: Ghost CMS Arbitrary File Read",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T16:14:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[pulentoski/Explotacion-CVE-2023-32315-Openfire](https://github.com/pulentoski/Explotacion-CVE-2023-32315-Openfire)",
+      "description": "no description",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T18:07:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-27350",
+      "repo_info": "[0xB0y426/CVE-2023-27350-PoC](https://github.com/0xB0y426/CVE-2023-27350-PoC)",
+      "description": "PoC for CVE-2023-27350",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T02:33:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[khaidtraivch/CVE-2021-44228-Log4Shell-](https://github.com/khaidtraivch/CVE-2021-44228-Log4Shell-)",
+      "description": "Kiểm thử xâm nhập",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T18:14:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-42362",
+      "repo_info": "[samiba6/CVE-2021-42362](https://github.com/samiba6/CVE-2021-42362)",
+      "description": "The WordPress Popular Posts WordPress plugin is vulnerable to arbitrary file uploads due to insufficient input file type validation found in the ~/src/Image.php file which makes it possible for attackers with contributor level access and above to upload malicious files that can be used to obtain remote code execution,",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T20:59:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[khaidtraivch/CVE-2021-41773-Apache-2.4.49-](https://github.com/khaidtraivch/CVE-2021-41773-Apache-2.4.49-)",
+      "description": "Kiểm thử xâm nhập",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T18:10:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[AsierEgana/cve-2021-4034](https://github.com/AsierEgana/cve-2021-4034)",
+      "description": "no description",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T10:44:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-21424",
+      "repo_info": "[moften/CVE-2021-21424](https://github.com/moften/CVE-2021-21424)",
+      "description": "El WebProfiler de Symfony expone rutas internas del servidor si no está deshabilitado en producción",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T21:08:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-13941",
+      "repo_info": "[mbadanoiu/CVE-2020-13941](https://github.com/mbadanoiu/CVE-2020-13941)",
+      "description": "CVE-2020-13941: Abusing UNC Paths in Windows Environments in Apache Solr",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T15:33:03Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[JohanMV/explotacion-vsftpd-nmap_Laboratorio_1](https://github.com/JohanMV/explotacion-vsftpd-nmap_Laboratorio_1)",
+      "description": "Laboratorio técnico de ciberseguridad donde se realiza reconocimiento de red con Nmap y explotación de la vulnerabilidad CVE-2011-2523 (vsftpd 2.3.4) mediante Metasploit Framework. Proyecto académico orientado a demostrar habilidades en análisis de vulnerabilidades, uso de herramientas de pentesting y reporte técnico.",
+      "date": "2025-04-14",
+      "raw_date": "2025-04-14T16:55:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.982139",
+  "metadata": {
+    "total_cves": 23,
+    "date_range": "2025-04-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

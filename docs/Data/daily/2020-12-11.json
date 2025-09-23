@@ -1,0 +1,48 @@
+{
+  "date": "2020-12-11",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8554",
+      "repo_info": "[jrmurray000/CVE-2020-8554](https://github.com/jrmurray000/CVE-2020-8554)",
+      "description": "Mitigate CVE-2020-8554 with Policy Controller in Anthos",
+      "date": "2020-12-11",
+      "raw_date": "2020-12-11T17:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-0787",
+      "repo_info": "[MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master](https://github.com/MasterSploit/CVE-2020-0787-BitsArbitraryFileMove-master)",
+      "description": "no description",
+      "date": "2020-12-11",
+      "raw_date": "2020-12-11T09:31:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-0787",
+      "repo_info": "[MasterSploit/CVE-2020-0787](https://github.com/MasterSploit/CVE-2020-0787)",
+      "description": "no description",
+      "date": "2020-12-11",
+      "raw_date": "2020-12-11T09:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-0230",
+      "repo_info": "[tw-eason-tseng/CVE-2019-0230_Struts2S2-059](https://github.com/tw-eason-tseng/CVE-2019-0230_Struts2S2-059)",
+      "description": "no description",
+      "date": "2020-12-11",
+      "raw_date": "2020-12-11T18:57:14Z"
+    },
+    {
+      "cve_id": "CVE-2019-0230",
+      "repo_info": "[Al1ex/CVE-2019-0230](https://github.com/Al1ex/CVE-2019-0230)",
+      "description": "S2-059(CVE-2019-0230)",
+      "date": "2020-12-11",
+      "raw_date": "2020-12-11T03:40:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.245985",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2020-12-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

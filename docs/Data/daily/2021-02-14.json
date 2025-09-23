@@ -1,0 +1,27 @@
+{
+  "date": "2021-02-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8165",
+      "repo_info": "[danielklim/cve-2020-8165-demo](https://github.com/danielklim/cve-2020-8165-demo)",
+      "description": "no description",
+      "date": "2021-02-14",
+      "raw_date": "2021-02-14T06:57:30Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[ingochris/heartpatch.us](https://github.com/ingochris/heartpatch.us)",
+      "description": "OpenSSL Heartbleed Bug CVE-2014-0160 Toolkit. Built with ❤ by Christopher Ngo.",
+      "date": "2021-02-14",
+      "raw_date": "2021-02-14T10:48:56Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.286775",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-02-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

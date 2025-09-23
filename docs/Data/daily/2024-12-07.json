@@ -1,0 +1,48 @@
+{
+  "date": "2024-12-07",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6782",
+      "repo_info": "[NketiahGodfred/CVE-2024-6782](https://github.com/NketiahGodfred/CVE-2024-6782)",
+      "description": "Calibre Remote Code Execution",
+      "date": "2024-12-07",
+      "raw_date": "2024-12-07T13:42:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-42327",
+      "repo_info": "[watchdog1337/CVE-2024-42327_Zabbix_SQLI](https://github.com/watchdog1337/CVE-2024-42327_Zabbix_SQLI)",
+      "description": "POC for CVE-2024-42327, an authenticated SQL Injection in Zabbix through the user.get API Method",
+      "date": "2024-12-07",
+      "raw_date": "2024-12-07T21:25:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-11394",
+      "repo_info": "[Piyush-Bhor/CVE-2024-11394](https://github.com/Piyush-Bhor/CVE-2024-11394)",
+      "description": "Technical Details and Exploit for CVE-2024-11394",
+      "date": "2024-12-07",
+      "raw_date": "2024-12-07T11:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-11393",
+      "repo_info": "[Piyush-Bhor/CVE-2024-11393](https://github.com/Piyush-Bhor/CVE-2024-11393)",
+      "description": "Technical Details and Exploit for CVE-2024-11393",
+      "date": "2024-12-07",
+      "raw_date": "2024-12-07T11:24:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-11392",
+      "repo_info": "[Piyush-Bhor/CVE-2024-11392](https://github.com/Piyush-Bhor/CVE-2024-11392)",
+      "description": "Technical Details and Exploit for CVE-2024-11392",
+      "date": "2024-12-07",
+      "raw_date": "2024-12-07T11:14:21Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.873697",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2024-12-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

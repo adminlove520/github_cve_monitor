@@ -1,0 +1,90 @@
+{
+  "date": "2025-05-14",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-32756",
+      "repo_info": "[m4s1um/CVE-2025-32756-RCE-PoC](https://github.com/m4s1um/CVE-2025-32756-RCE-PoC)",
+      "description": "CVE-2025-32756 — Fortinet FortiVoice Unauthenticated RCE (PoC)",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T23:39:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-32407",
+      "repo_info": "[diegovargasj/CVE-2025-32407](https://github.com/diegovargasj/CVE-2025-32407)",
+      "description": "CVE-2025-32407 PoC",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T18:50:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-29824",
+      "repo_info": "[encrypter15/CVE-2025-29824](https://github.com/encrypter15/CVE-2025-29824)",
+      "description": "no description",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T01:45:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-27636",
+      "repo_info": "[enochgitgamefied/CVE-2025-27636-Practical-Lab](https://github.com/enochgitgamefied/CVE-2025-27636-Practical-Lab)",
+      "description": "no description",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T05:34:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-24132",
+      "repo_info": "[Feralthedogg/CVE-2025-24132-Scanner](https://github.com/Feralthedogg/CVE-2025-24132-Scanner)",
+      "description": "no description",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T14:20:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-37010",
+      "repo_info": "[SarpantKeltiek/CVE-2024-37010](https://github.com/SarpantKeltiek/CVE-2024-37010)",
+      "description": "Exploit for the CVE-2024-37010: access other user&#x27;s external storage &amp; lateral movement",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T17:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-42694",
+      "repo_info": "[k271266/CVE-2021-42694](https://github.com/k271266/CVE-2021-42694)",
+      "description": "no description",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T12:02:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Z3R0-0x30/CVE-2021-4034](https://github.com/Z3R0-0x30/CVE-2021-4034)",
+      "description": "This contains single-file exploit for cve-2021-4034 which is a Polkit Local Privilege Escalation. Use it wisely!",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T04:43:50Z"
+    },
+    {
+      "cve_id": "CVE-2020-17530",
+      "repo_info": "[fatkz/CVE-2020-17530](https://github.com/fatkz/CVE-2020-17530)",
+      "description": "no description",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T19:34:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[faccimatteo/CVE-2018-25031](https://github.com/faccimatteo/CVE-2018-25031)",
+      "description": "no description",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T09:45:52Z"
+    },
+    {
+      "cve_id": "CVE-2015-3306",
+      "repo_info": "[Z3R0-0x30/CVE-2015-3306](https://github.com/Z3R0-0x30/CVE-2015-3306)",
+      "description": "This contains single-file exploit for ProFTPd 1.3.5 mod_copy (CVE-2015-3306) vulnerability, especially for TryHackMe Kenobi Lab.",
+      "date": "2025-05-14",
+      "raw_date": "2025-05-14T06:13:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.012181",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2025-05-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

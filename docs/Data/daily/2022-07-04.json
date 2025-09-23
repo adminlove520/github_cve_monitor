@@ -1,0 +1,104 @@
+{
+  "date": "2022-07-04",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-45777",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777](https://github.com/nidhi7598/frameworks_base_AOSP10_r33_CVE-2023-45777)",
+      "description": "no description",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T11:44:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-30929",
+      "repo_info": "[AgainstTheLight/CVE-2022-30929](https://github.com/AgainstTheLight/CVE-2022-30929)",
+      "description": "CVE-2022-30929 POC",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T05:36:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-30887",
+      "repo_info": "[MuallimNaci/CVE-2022-30887](https://github.com/MuallimNaci/CVE-2022-30887)",
+      "description": "no description",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T19:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-30594",
+      "repo_info": "[nidhi7598/linux-4.19.72_CVE-2022-30594](https://github.com/nidhi7598/linux-4.19.72_CVE-2022-30594)",
+      "description": "no description",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T10:01:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[Ziggy78/CVE-2022-26809-RCE](https://github.com/Ziggy78/CVE-2022-26809-RCE)",
+      "description": "metasploit and python module for CVE-2022-26809 windows rpc rce via smb 445",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T09:22:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[r1skkam/TryHackMe-Atlassian-CVE-2022-26134](https://github.com/r1skkam/TryHackMe-Atlassian-CVE-2022-26134)",
+      "description": "Atlassian, CVE-2022-26134  An interactive lab showcasing the Confluence Server and Data Center un-authenticated RCE vulnerability.",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T15:00:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-24706",
+      "repo_info": "[superzerosec/CVE-2022-24706](https://github.com/superzerosec/CVE-2022-24706)",
+      "description": "CVE-2022-24706 POC exploit",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T02:06:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-20142",
+      "repo_info": "[Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142](https://github.com/Satheesh575555/frameworks_base_AOSP10_r33_CVE-2022-20142)",
+      "description": "no description",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T12:16:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[jbharucha05/CVE-2022-1388](https://github.com/jbharucha05/CVE-2022-1388)",
+      "description": "CVE-2022-1388, bypassing iControl REST authentication",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T06:31:56Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[FrancescoMarchiori/CVE-2021-3156](https://github.com/FrancescoMarchiori/CVE-2021-3156)",
+      "description": "Fuzzing, visualization and exploit of sudo vulnerability CVE-2021-3156",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T13:55:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[TonightRanger/cve-2018-9995](https://github.com/TonightRanger/cve-2018-9995)",
+      "description": "no description",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T05:07:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-12629",
+      "repo_info": "[77Huan/-Wiki](https://github.com/77Huan/-Wiki)",
+      "description": "Apache Solr RCE检测脚本 (CVE-2017-12629)",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T13:14:36Z"
+    },
+    {
+      "cve_id": "CVE-2015-10141",
+      "repo_info": "[D3Ext/CVE-2015-10141](https://github.com/D3Ext/CVE-2015-10141)",
+      "description": "POC exploit for CVE-2015-10141",
+      "date": "2022-07-04",
+      "raw_date": "2022-07-04T12:30:17Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.812224",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2022-07-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

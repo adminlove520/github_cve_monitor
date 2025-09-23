@@ -1,0 +1,76 @@
+{
+  "date": "2023-06-12",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-34965",
+      "repo_info": "[AgentY0/CVE-2023-34965](https://github.com/AgentY0/CVE-2023-34965)",
+      "description": "SSPanel UIM is a multi-purpose agency service sales management system specially designed for Shadowsocks / V2Ray / Trojan protocols. SSPanel-Uim version before 2023.3 does not restrict access to the /link/ interface,which can lead to a leak of user subscription information.",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T12:42:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[sfewer-r7/CVE-2023-34362](https://github.com/sfewer-r7/CVE-2023-34362)",
+      "description": "CVE-2023-34362: MOVEit Transfer Unauthenticated RCE",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T12:56:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[Chal13W1zz/BadParcel](https://github.com/Chal13W1zz/BadParcel)",
+      "description": "CVE-2023-20963 PoC (Android WorkSource parcel/unparcel logic mismatch)",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T10:44:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[lithuanian-g/cve-2023-34362-iocs](https://github.com/lithuanian-g/cve-2023-34362-iocs)",
+      "description": "CSV File Containing CVE-2023-34362 IOCs",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T09:58:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[7imbitz/CVE-2023-25157-checker](https://github.com/7imbitz/CVE-2023-25157-checker)",
+      "description": "A script, written in golang. POC for CVE-2023-25157",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T14:34:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-2008",
+      "repo_info": "[bluefrostsecurity/CVE-2023-2008](https://github.com/bluefrostsecurity/CVE-2023-2008)",
+      "description": "Proof of concept code for CVE-2023-2008",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T14:41:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-1430",
+      "repo_info": "[karlemilnikka/CVE-2023-1430](https://github.com/karlemilnikka/CVE-2023-1430)",
+      "description": "Responsible disclosure of unpatched vulnerability in FluentCRM by WPManageNinja",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T10:07:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-3590",
+      "repo_info": "[hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/hxlxmjxbbxs/CVE-2022-3590-WordPress-Vulnerability-Scanner)",
+      "description": "This repository contains a Python script that checks WordPress websites for the CVE-2022-3590 vulnerability, which exploits an unauthenticated blind Server-Side Request Forgery (SSRF) in the WordPress pingback feature.",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T13:06:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-21311",
+      "repo_info": "[omoknooni/CVE-2021-21311](https://github.com/omoknooni/CVE-2021-21311)",
+      "description": "no description",
+      "date": "2023-06-12",
+      "raw_date": "2023-06-12T13:32:52Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.218571",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-06-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

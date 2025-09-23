@@ -1,0 +1,27 @@
+{
+  "date": "2019-10-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16405",
+      "repo_info": "[TheCyberGeek/CVE-2019-16405.rb](https://github.com/TheCyberGeek/CVE-2019-16405.rb)",
+      "description": "Metasploit module &amp; Python script for CVE-2019-16405",
+      "date": "2019-10-18",
+      "raw_date": "2019-10-18T21:50:37Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[shallvhack/Sudo-Security-Bypass-CVE-2019-14287](https://github.com/shallvhack/Sudo-Security-Bypass-CVE-2019-14287)",
+      "description": "Sudo Security Bypass (CVE-2019-14287)",
+      "date": "2019-10-18",
+      "raw_date": "2019-10-18T04:11:14Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.848951",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

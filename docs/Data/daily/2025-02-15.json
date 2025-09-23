@@ -1,0 +1,76 @@
+{
+  "date": "2025-02-15",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-47810",
+      "repo_info": "[ptrstr/CVE-2025-47810](https://github.com/ptrstr/CVE-2025-47810)",
+      "description": "PunkBuster LPI to NT AUTHORITY\\SYSTEM",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T21:18:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-25965",
+      "repo_info": "[Sudo-Sakib/CVE-2025-25965](https://github.com/Sudo-Sakib/CVE-2025-25965)",
+      "description": "CVE-2025-25965 is a newly discovered CSRF vulnerability in the Phpgurukul Online Banquet Booking System v1.2, allowing remote attackers to change a user’s email address without their consent by exploiting an authenticated session.",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T16:03:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-25964",
+      "repo_info": "[Sudo-Sakib/CVE-2025-25964](https://github.com/Sudo-Sakib/CVE-2025-25964)",
+      "description": "A critical SQL Injection vulnerability (CVE-2025-25964) discovered in the School Information Management System v1.0",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T15:22:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-25964",
+      "repo_info": "[yelang123/Zimbra10_SQL_Injection](https://github.com/yelang123/Zimbra10_SQL_Injection)",
+      "description": "Zimbra 10 SQL Injection (CVE-2025-25064) Analysis Article",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T04:16:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-22467",
+      "repo_info": "[NyxanGoat/CVE-2025-22467-PoC](https://github.com/NyxanGoat/CVE-2025-22467-PoC)",
+      "description": "PoC for CVE-2025-22467: A critical RCE vulnerability in Ivanti Connect Secure.",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T01:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-7985",
+      "repo_info": "[Nxploited/CVE-2024-7985-PoC](https://github.com/Nxploited/CVE-2024-7985-PoC)",
+      "description": "FileOrganizer &lt;= 1.0.9 - Authenticated (Subscriber+) Arbitrary File Upload",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T22:57:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-7985",
+      "repo_info": "[0xMetr0/metasploit-ldapnightmare](https://github.com/0xMetr0/metasploit-ldapnightmare)",
+      "description": "SafeBreaches CVE-2024-49113 POC(LdapNightmare) Integrated into Metasploit",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T20:23:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[hopsypopsy8/CVE-2020-1938-Exploitation](https://github.com/hopsypopsy8/CVE-2020-1938-Exploitation)",
+      "description": "no description",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T11:19:53Z"
+    },
+    {
+      "cve_id": "CVE-2019-0567",
+      "repo_info": "[ntdelta/chakra-exploit-framework](https://github.com/ntdelta/chakra-exploit-framework)",
+      "description": "Browser exploitation framework for Chakra (Edge). Written as part of OSEE preparation. Demo bug: CVE-2019-0567",
+      "date": "2025-02-15",
+      "raw_date": "2025-02-15T21:03:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.930735",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-02-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

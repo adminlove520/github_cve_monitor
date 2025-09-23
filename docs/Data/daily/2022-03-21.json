@@ -1,0 +1,69 @@
+{
+  "date": "2022-03-21",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-6418",
+      "repo_info": "[SivaPriyaRanganatha/CVE-2020-6418](https://github.com/SivaPriyaRanganatha/CVE-2020-6418)",
+      "description": "no description",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T23:05:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-6418",
+      "repo_info": "[ghillert/boot-jackson-cve](https://github.com/ghillert/boot-jackson-cve)",
+      "description": "Reproduction of CVE-2020-36518 in Spring Boot 2.5.10",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T21:13:28Z"
+    },
+    {
+      "cve_id": "CVE-2020-2551",
+      "repo_info": "[LTiDi2000/CVE-2020-2551](https://github.com/LTiDi2000/CVE-2020-2551)",
+      "description": "no description",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T03:58:29Z"
+    },
+    {
+      "cve_id": "CVE-2018-16845",
+      "repo_info": "[T4t4ru/CVE-2018-16845](https://github.com/T4t4ru/CVE-2018-16845)",
+      "description": "no description",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T13:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000004",
+      "repo_info": "[yazan828/CVE-2017-1000004](https://github.com/yazan828/CVE-2017-1000004)",
+      "description": "no description",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T13:35:38Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[gurpreetsinghsaluja/dirtycow](https://github.com/gurpreetsinghsaluja/dirtycow)",
+      "description": "Dirty Cow CVE-2016-5195 Vulnerability",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T08:35:21Z"
+    },
+    {
+      "cve_id": "CVE-2015-1701",
+      "repo_info": "[Anonymous-Family/CVE-2015-1701](https://github.com/Anonymous-Family/CVE-2015-1701)",
+      "description": "Unspecified vulnerability in Microsoft Windows before 8 allows local users to gain privileges via unknown vectors, as exploited in the wild in April 2015   (Base Score: 7.2 HIGH)   Current Description Win32k.sys in the kernel-mode drivers in Microsoft Windows Server 2003 SP2, Vista SP2, and Server 2008 SP2 allows local users to gain privileges via a crafted application, as exploited in the wild in April 2015, aka \"Win32k Elevation of Privilege Vulnerability",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T06:26:21Z"
+    },
+    {
+      "cve_id": "CVE-2015-1701",
+      "repo_info": "[Anonymous-Family/CVE-2015-1701-download](https://github.com/Anonymous-Family/CVE-2015-1701-download)",
+      "description": "no description",
+      "date": "2022-03-21",
+      "raw_date": "2022-03-21T06:39:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.719369",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-03-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2017-03-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-7255",
+      "repo_info": "[FSecureLABS/CVE-2016-7255](https://github.com/FSecureLABS/CVE-2016-7255)",
+      "description": "An exploit for CVE-2016-7255 on Windows 7/8/8.1/10(pre-anniversary) 64 bit",
+      "date": "2017-03-02",
+      "raw_date": "2017-03-02T23:32:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.487729",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-03-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

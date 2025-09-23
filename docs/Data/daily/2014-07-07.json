@@ -1,0 +1,20 @@
+{
+  "date": "2014-07-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-3120",
+      "repo_info": "[echohtp/ElasticSearch-CVE-2014-3120](https://github.com/echohtp/ElasticSearch-CVE-2014-3120)",
+      "description": "POC Code to exploite CVE-2014-3120",
+      "date": "2014-07-07",
+      "raw_date": "2014-07-07T20:28:34Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.311618",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-07-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

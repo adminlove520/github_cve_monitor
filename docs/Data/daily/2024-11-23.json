@@ -1,0 +1,118 @@
+{
+  "date": "2024-11-23",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-40711",
+      "repo_info": "[XiaomingX/CVE-2024-40711-poc](https://github.com/XiaomingX/CVE-2024-40711-poc)",
+      "description": "CVE-2024-40711 是 Veeam Backup &amp; Replication 软件中的一个严重漏洞，允许未经身份验证的攻击者远程执行代码。",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T04:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-38856",
+      "repo_info": "[XiaomingX/cve-2024-38856-poc](https://github.com/XiaomingX/cve-2024-38856-poc)",
+      "description": "CVE-2024-38856 是 Apache OFBiz 中的一个严重漏洞，允许未经身份验证的攻击者在受影响的系统上执行任意代码。",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T03:54:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-35250",
+      "repo_info": "[yinsel/CVE-2024-35250-BOF](https://github.com/yinsel/CVE-2024-35250-BOF)",
+      "description": "CVE-2024-35250 的 Beacon Object File (BOF) 实现。",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T12:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[XiaomingX/CVE-2024-32002-poc](https://github.com/XiaomingX/CVE-2024-32002-poc)",
+      "description": "CVE-2024-32002 是 Git 中的一个严重漏洞，允许攻击者在用户执行 git clone 操作时远程执行任意代码（RCE）。",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T04:06:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[XiaomingX/CVE-2024-23692-poc](https://github.com/XiaomingX/CVE-2024-23692-poc)",
+      "description": "CVE-2024-23692 是影响 Rejetto HTTP File Server（HFS）2.3m 及之前版本的模板注入漏洞。该漏洞允许远程未授权的攻击者通过发送特制的 HTTP 请求，在受影响的系统上执行任意命令。",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T03:59:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-21534",
+      "repo_info": "[XiaomingX/CVE-2024-21534-poc](https://github.com/XiaomingX/CVE-2024-21534-poc)",
+      "description": "no description",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T05:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-11201",
+      "repo_info": "[NSQAQ/CVE-2024-11201](https://github.com/NSQAQ/CVE-2024-11201)",
+      "description": "TEST",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T09:00:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-11199",
+      "repo_info": "[windz3r0day/CVE-2024-11199](https://github.com/windz3r0day/CVE-2024-11199)",
+      "description": "CVE-2024-11199 poc exploit",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T21:43:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-10961",
+      "repo_info": "[FoKiiin/CVE-2024-10961](https://github.com/FoKiiin/CVE-2024-10961)",
+      "description": "CVE-2024-10961 Authentication Bypass Using an Alternate Path or Channel (CWE-288)",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T19:09:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-50094",
+      "repo_info": "[Zierax/CVE-2023-50094_POC](https://github.com/Zierax/CVE-2023-50094_POC)",
+      "description": "poc for CVE-2023-50094 (rengine command injection)",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T20:00:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-47246",
+      "repo_info": "[XiaomingX/cve-2023-47246-poc](https://github.com/XiaomingX/cve-2023-47246-poc)",
+      "description": "no description",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T05:21:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-45354",
+      "repo_info": "[NekomataCode/CVE-2022-45354](https://github.com/NekomataCode/CVE-2022-45354)",
+      "description": "CVE-2022-45354 Download Monitor &lt;= 4.7.60  - Sensitive Information Exposure via REST API",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T09:56:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[0-Gram/CVE-2022-41040](https://github.com/0-Gram/CVE-2022-41040)",
+      "description": "no description",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T11:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[XiaomingX/CVE-2022-26134-poc](https://github.com/XiaomingX/CVE-2022-26134-poc)",
+      "description": "no description",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T05:35:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[XiaomingX/CVE-2022-1388-poc](https://github.com/XiaomingX/CVE-2022-1388-poc)",
+      "description": "no description",
+      "date": "2024-11-23",
+      "raw_date": "2024-11-23T05:39:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.863359",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-11-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

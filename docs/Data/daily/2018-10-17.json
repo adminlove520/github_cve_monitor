@@ -1,0 +1,62 @@
+{
+  "date": "2018-10-17",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4878",
+      "repo_info": "[B0fH/CVE-2018-4878](https://github.com/B0fH/CVE-2018-4878)",
+      "description": "Metasploit module for CVE-2018-4878",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T02:11:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[jobroche/libssh-scanner](https://github.com/jobroche/libssh-scanner)",
+      "description": "Script to identify hosts vulnerable to CVE-2018-10933",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T23:05:10Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[blacknbunny/CVE-2018-10933](https://github.com/blacknbunny/CVE-2018-10933)",
+      "description": "Spawn to shell without any credentials by using CVE-2018-10933 (LibSSH)",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T14:14:12Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[SoledaD208/CVE-2018-10933](https://github.com/SoledaD208/CVE-2018-10933)",
+      "description": "CVE-2018-10933 very simple POC",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T09:01:44Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[kn6869610/CVE-2018-10933](https://github.com/kn6869610/CVE-2018-10933)",
+      "description": "Leveraging it is a simple matter of presenting the server with the  SSH2_MSG_USERAUTH_SUCCESS message, which shows that the login already occurred without a problem.  The server expects the message SSH2_MSG_USERAUTH_REQUEST to start the authentication procedure, but by skipping it an attacker can log in without showing any credentials.",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T18:44:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[hook-s3c/CVE-2018-10933](https://github.com/hook-s3c/CVE-2018-10933)",
+      "description": "CVE-2018-10933 sshlib user authentication attack - docker lab, test and exploit",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T15:09:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000486",
+      "repo_info": "[mogwailabs/CVE-2017-1000486](https://github.com/mogwailabs/CVE-2017-1000486)",
+      "description": "Proof of Concept Exploit for PrimeFaces 5.x EL Injection (CVE-2017-1000486)",
+      "date": "2018-10-17",
+      "raw_date": "2018-10-17T22:47:30Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.701145",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2018-10-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

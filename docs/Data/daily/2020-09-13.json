@@ -1,0 +1,27 @@
+{
+  "date": "2020-09-13",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11043",
+      "repo_info": "[n0obit4/Webmin_1.890-POC](https://github.com/n0obit4/Webmin_1.890-POC)",
+      "description": "CVE-2019-15107 exploit",
+      "date": "2020-09-13",
+      "raw_date": "2020-09-13T03:11:29Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[kawkab101/cve-2018-6574](https://github.com/kawkab101/cve-2018-6574)",
+      "description": "no description",
+      "date": "2020-09-13",
+      "raw_date": "2020-09-13T04:34:58Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.200567",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-09-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

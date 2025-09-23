@@ -1,0 +1,76 @@
+{
+  "date": "2024-07-24",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[a-roshbaik/CVE-2024-4577-PHP-RCE](https://github.com/a-roshbaik/CVE-2024-4577-PHP-RCE)",
+      "description": "no description",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T20:25:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[a-roshbaik/CVE-2024-4577](https://github.com/a-roshbaik/CVE-2024-4577)",
+      "description": "no description",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T20:23:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-40348",
+      "repo_info": "[codeb0ss/CVE-2024-40348-PoC](https://github.com/codeb0ss/CVE-2024-40348-PoC)",
+      "description": "Mass Exploit &lt; [CVE-2024-40348 - Bazarr] - Arbitrary File Read",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T16:13:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-30078",
+      "repo_info": "[a-roshbaik/CVE_2024_30078_POC_WIFI](https://github.com/a-roshbaik/CVE_2024_30078_POC_WIFI)",
+      "description": "no description",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T20:56:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-22198",
+      "repo_info": "[xiw1ll/CVE-2024-22198_Checker](https://github.com/xiw1ll/CVE-2024-22198_Checker)",
+      "description": "Identify Nginx-ui version and check if it&#x27;s vulnerable to CVE-2024-22198",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T13:59:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-0400",
+      "repo_info": "[pinpinsec/CVE-2023-0400](https://github.com/pinpinsec/CVE-2023-0400)",
+      "description": "trellix DLP Bypass",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T09:04:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-31630",
+      "repo_info": "[manuelsantosiglesias/CVE-2021-31630](https://github.com/manuelsantosiglesias/CVE-2021-31630)",
+      "description": "OpenPLC 3 WebServer Authenticated Remote Code Execution.",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T15:28:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[natpakun/SSRF-CVE-2018-25031-](https://github.com/natpakun/SSRF-CVE-2018-25031-)",
+      "description": "no description",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T10:21:30Z"
+    },
+    {
+      "cve_id": "CVE-2008-3531",
+      "repo_info": "[test-one9/ps4-11.50.github.io](https://github.com/test-one9/ps4-11.50.github.io)",
+      "description": "ps4 cve-2008-3531",
+      "date": "2024-07-24",
+      "raw_date": "2024-07-24T06:58:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.765341",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-07-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

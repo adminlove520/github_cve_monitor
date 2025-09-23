@@ -1,0 +1,62 @@
+{
+  "date": "2024-09-30",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8353",
+      "repo_info": "[EQSTLab/CVE-2024-8353](https://github.com/EQSTLab/CVE-2024-8353)",
+      "description": "Proof-of-Concept for CVE-2024-8353",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T17:33:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[PlayerFridei/CVE-2024-28987](https://github.com/PlayerFridei/CVE-2024-28987)",
+      "description": "CVE-2024-28987 Scanner &amp; Exploiter - SolarWinds Web Help Desk",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T16:12:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[geniuszlyy/GenCrushSSTIExploit](https://github.com/geniuszlyy/GenCrushSSTIExploit)",
+      "description": "is a PoC for CVE-2024-4040 tool for exploiting the SSTI vulnerability in CrushFTP",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T16:18:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[verylazytech/CVE-2024-23897](https://github.com/verylazytech/CVE-2024-23897)",
+      "description": "POC - Jenkins File Read Vulnerability - CVE-2024-23897",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T16:38:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-40404",
+      "repo_info": "[geniuszlyy/GenEtherExploit](https://github.com/geniuszlyy/GenEtherExploit)",
+      "description": "is a PoC exploit for the macOS vulnerability CVE-2023-40404. This PoC leverages IOKit APIs to interact with the IOUserEthernetResource network service, manipulating the system&#x27;s network interfaces",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T15:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-3390",
+      "repo_info": "[flygonty/CVE-2023-3390_PoC](https://github.com/flygonty/CVE-2023-3390_PoC)",
+      "description": "PoC of the CVE-2023-3390",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T11:28:22Z"
+    },
+    {
+      "cve_id": "CVE-2020-13519",
+      "repo_info": "[SpiralBL0CK/poc-for-CVE-2020-13519-still-under-construction-](https://github.com/SpiralBL0CK/poc-for-CVE-2020-13519-still-under-construction-)",
+      "description": "poc for CVE-2020-13519(still under construction). needs refining , testing , tunning...",
+      "date": "2024-09-30",
+      "raw_date": "2024-09-30T06:28:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.819587",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-09-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

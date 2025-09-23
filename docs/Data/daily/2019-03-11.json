@@ -1,0 +1,27 @@
+{
+  "date": "2019-03-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[AeolusTF/CVE-2018-20250](https://github.com/AeolusTF/CVE-2018-20250)",
+      "description": "no description",
+      "date": "2019-03-11",
+      "raw_date": "2019-03-11T07:33:45Z"
+    },
+    {
+      "cve_id": "CVE-2018-19276",
+      "repo_info": "[mpgn/CVE-2018-19276](https://github.com/mpgn/CVE-2018-19276)",
+      "description": "CVE-2018-19276 - OpenMRS Insecure Object Deserialization RCE",
+      "date": "2019-03-11",
+      "raw_date": "2019-03-11T21:28:55Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.766556",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-03-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

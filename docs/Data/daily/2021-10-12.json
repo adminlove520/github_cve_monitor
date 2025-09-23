@@ -1,0 +1,48 @@
+{
+  "date": "2021-10-12",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-40906",
+      "repo_info": "[Edgarloyola/CVE-2021-40906](https://github.com/Edgarloyola/CVE-2021-40906)",
+      "description": "no description",
+      "date": "2021-10-12",
+      "raw_date": "2021-10-12T09:30:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-40905",
+      "repo_info": "[Edgarloyola/CVE-2021-40905](https://github.com/Edgarloyola/CVE-2021-40905)",
+      "description": "no description",
+      "date": "2021-10-12",
+      "raw_date": "2021-10-12T09:36:56Z"
+    },
+    {
+      "cve_id": "CVE-2021-40904",
+      "repo_info": "[Edgarloyola/CVE-2021-40904](https://github.com/Edgarloyola/CVE-2021-40904)",
+      "description": "no description",
+      "date": "2021-10-12",
+      "raw_date": "2021-10-12T09:38:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-16846",
+      "repo_info": "[githubfoam/nxlog-ubuntu-githubactions](https://github.com/githubfoam/nxlog-ubuntu-githubactions)",
+      "description": "nxlog ubuntu CVE-2020-35488",
+      "date": "2021-10-12",
+      "raw_date": "2021-10-12T18:25:17Z"
+    },
+    {
+      "cve_id": "CVE-2019-1881",
+      "repo_info": "[Shadawks/Strapi-CVE-2019-1881](https://github.com/Shadawks/Strapi-CVE-2019-1881)",
+      "description": "Proof of concept for Strapi CVE-2019-18818 - Unauthenticated Password Reset Vulnerability / Privilege Escalation",
+      "date": "2021-10-12",
+      "raw_date": "2021-10-12T14:16:17Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.576023",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-10-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

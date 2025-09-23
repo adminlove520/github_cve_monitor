@@ -1,0 +1,202 @@
+{
+  "date": "2022-05-10",
+  "count": 27,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30292",
+      "repo_info": "[sprushed/CVE-2022-30292](https://github.com/sprushed/CVE-2022-30292)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T16:39:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-29554",
+      "repo_info": "[ComparedArray/printix-CVE-2022-29554](https://github.com/ComparedArray/printix-CVE-2022-29554)",
+      "description": "[Reserved For CVE-2022-29554]",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T14:37:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-29553",
+      "repo_info": "[ComparedArray/printix-CVE-2022-29553](https://github.com/ComparedArray/printix-CVE-2022-29553)",
+      "description": "[Reserved for CVE-2022-29553]",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T14:36:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-29552",
+      "repo_info": "[ComparedArray/printix-CVE-2022-29552](https://github.com/ComparedArray/printix-CVE-2022-29552)",
+      "description": "[Reserved for CVE-2022-29552]",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T14:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-29551",
+      "repo_info": "[ComparedArray/printix-CVE-2022-29551](https://github.com/ComparedArray/printix-CVE-2022-29551)",
+      "description": "[Reserved For CVE-2022-29551]",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T14:35:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-28944",
+      "repo_info": "[gerr-re/cve-2022-28944](https://github.com/gerr-re/cve-2022-28944)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T17:52:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-25315",
+      "repo_info": "[jbaines-r7/victorian_machinery](https://github.com/jbaines-r7/victorian_machinery)",
+      "description": "Proof of concept exploit for CVE-2022-30525 (Zxyel firewall command injection)",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T10:31:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-24086",
+      "repo_info": "[TomArni680/CVE-2022-24086-rce](https://github.com/TomArni680/CVE-2022-24086-rce)",
+      "description": "CVE-2022-24086 and CVE-2022-24087 are an rce in adobe commerce and magento",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T14:32:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-23852",
+      "repo_info": "[Satheesh575555/external_expat_AOSP10_r33_CVE-2022-23852](https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-23852)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T09:22:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-22976",
+      "repo_info": "[spring-io/cve-2022-22976-bcrypt-skips-salt](https://github.com/spring-io/cve-2022-22976-bcrypt-skips-salt)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T16:36:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-21907",
+      "repo_info": "[iveresk/cve-2022-21907-http.sys](https://github.com/iveresk/cve-2022-21907-http.sys)",
+      "description": "An unauthenticated attacker can send an HTTP request with an \"Accept-Encoding\" HTTP request header triggering a double free in the unknown coding-list inside the HTTP Protocol Stack (http.sys) to process packets, resulting in a kernel crash.",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T16:00:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[0xAgun/CVE-2022-1388](https://github.com/0xAgun/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T20:49:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[iveresk/cve-2022-1388-1veresk](https://github.com/iveresk/cve-2022-1388-1veresk)",
+      "description": "Simple shell script for the exploit",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T08:22:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[aodsec/CVE-2022-1388-PocExp](https://github.com/aodsec/CVE-2022-1388-PocExp)",
+      "description": "CVE-2022-1388-PocExp,新增了多线程,F5 BIG-IP RCE exploitation",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T15:44:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[bandit92/CVE2022-1388_TestAPI](https://github.com/bandit92/CVE2022-1388_TestAPI)",
+      "description": "A Test API for testing the POC against CVE-2022-1388",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T15:34:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[thatonesecguy/CVE-2022-1388-Exploit](https://github.com/thatonesecguy/CVE-2022-1388-Exploit)",
+      "description": "Test and Exploit Scripts for CVE 2022-1388 (F5 Big-IP)",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T15:16:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[vesperp/CVE-2022-1388-F5-BIG-IP-](https://github.com/vesperp/CVE-2022-1388-F5-BIG-IP-)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T09:12:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[shamo0/CVE-2022-1388](https://github.com/shamo0/CVE-2022-1388)",
+      "description": "BIG-IP iControl REST vulnerability CVE-2022-1388 PoC",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T08:44:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Stonzyy/Exploit-F5-CVE-2022-1388](https://github.com/Stonzyy/Exploit-F5-CVE-2022-1388)",
+      "description": "PoC For F5 BIG-IP - bash script Exploit one Liner",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T02:57:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[LinJacck/CVE-2022-1388-EXP](https://github.com/LinJacck/CVE-2022-1388-EXP)",
+      "description": "CVE-2022-1388-EXP可批量实现攻击",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T08:09:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[hou5/CVE-2022-1388](https://github.com/hou5/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T07:24:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388](https://github.com/Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T05:30:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[qusaialhaddad/F5-BigIP-CVE-2022-1388](https://github.com/qusaialhaddad/F5-BigIP-CVE-2022-1388)",
+      "description": "Reverse Shell for CVE-2022-1388",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T04:44:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[MrCl0wnLab/Nuclei-Template-Exploit-F5-BIG-IP-iControl-REST-Auth-Bypass-RCE-Command-Parameter](https://github.com/MrCl0wnLab/Nuclei-Template-Exploit-F5-BIG-IP-iControl-REST-Auth-Bypass-RCE-Command-Parameter)",
+      "description": "CVE-2022-1388 is an authentication bypass vulnerability in the REST      component of BIG-IP’s iControl API that was assigned a CVSSv3      score of 9.8. The iControl REST API is used for the management and      configuration of BIG-IP devices. CVE-2022-1388 could be exploited      by an unauthenticated attacker with network access to the management      port or self IP addresses of devices that use BIG-IP. Exploitation would      allow the attacker to execute arbitrary system commands, create and      delete files and disable services.",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T04:10:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[chesterblue/CVE-2022-1388](https://github.com/chesterblue/CVE-2022-1388)",
+      "description": "POC of CVE-2022-1388",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T04:51:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-25540",
+      "repo_info": "[lowkey0808/cve-2020-25540](https://github.com/lowkey0808/cve-2020-25540)",
+      "description": "no description",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T02:33:46Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[Nosferatuvjr/Samba-Usermap-exploit](https://github.com/Nosferatuvjr/Samba-Usermap-exploit)",
+      "description": "CVE-2007-2447",
+      "date": "2022-05-10",
+      "raw_date": "2022-05-10T09:37:07Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.764916",
+  "metadata": {
+    "total_cves": 27,
+    "date_range": "2022-05-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

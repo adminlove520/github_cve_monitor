@@ -1,0 +1,55 @@
+{
+  "date": "2021-01-21",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8554",
+      "repo_info": "[Dviejopomata/CVE-2020-8554](https://github.com/Dviejopomata/CVE-2020-8554)",
+      "description": "no description",
+      "date": "2021-01-21",
+      "raw_date": "2021-01-21T22:41:50Z"
+    },
+    {
+      "cve_id": "CVE-2020-35713",
+      "repo_info": "[Al1ex/CVE-2020-35713](https://github.com/Al1ex/CVE-2020-35713)",
+      "description": "CVE-2020-35713",
+      "date": "2021-01-21",
+      "raw_date": "2021-01-21T06:39:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-28874",
+      "repo_info": "[varandinawer/CVE-2020-28874](https://github.com/varandinawer/CVE-2020-28874)",
+      "description": "CVE-2020-28874",
+      "date": "2021-01-21",
+      "raw_date": "2021-01-21T13:11:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-24032",
+      "repo_info": "[jet-pentest/CVE-2020-24032](https://github.com/jet-pentest/CVE-2020-24032)",
+      "description": "no description",
+      "date": "2021-01-21",
+      "raw_date": "2021-01-21T08:07:09Z"
+    },
+    {
+      "cve_id": "CVE-2020-17456",
+      "repo_info": "[Al1ex/CVE-2020-17456](https://github.com/Al1ex/CVE-2020-17456)",
+      "description": "CVE-2020-17456 &amp; Seowon SLC 130 Router RCE",
+      "date": "2021-01-21",
+      "raw_date": "2021-01-21T06:16:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-5827",
+      "repo_info": "[farif/cve_2019-5827](https://github.com/farif/cve_2019-5827)",
+      "description": "Heap Corruption",
+      "date": "2021-01-21",
+      "raw_date": "2021-01-21T18:54:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.270873",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-01-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

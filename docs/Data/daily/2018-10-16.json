@@ -1,0 +1,27 @@
+{
+  "date": "2018-10-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-16245",
+      "repo_info": "[AOCorsaire/CVE-2017-16245](https://github.com/AOCorsaire/CVE-2017-16245)",
+      "description": "Source code for CVE-2017-16245 (Avecto Defendpoint bypass originally disclosed by Nettitude)",
+      "date": "2018-10-16",
+      "raw_date": "2018-10-16T08:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2017-15120",
+      "repo_info": "[shutingrz/CVE-2017-15120_PoC](https://github.com/shutingrz/CVE-2017-15120_PoC)",
+      "description": "PowerDNS CVE-2017-15120  / DO NOT ABUSE",
+      "date": "2018-10-16",
+      "raw_date": "2018-10-16T15:08:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.701145",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-10-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

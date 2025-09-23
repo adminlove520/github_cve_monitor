@@ -1,0 +1,27 @@
+{
+  "date": "2015-03-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-1474",
+      "repo_info": "[p1gl3t/CVE-2015-1474_poc](https://github.com/p1gl3t/CVE-2015-1474_poc)",
+      "description": "no description",
+      "date": "2015-03-06",
+      "raw_date": "2015-03-06T17:04:55Z"
+    },
+    {
+      "cve_id": "CVE-2015-0204",
+      "repo_info": "[AbhishekGhosh/FREAK-Attack-CVE-2015-0204-Testing-Script](https://github.com/AbhishekGhosh/FREAK-Attack-CVE-2015-0204-Testing-Script)",
+      "description": "Basic BASH Script to Automate OpenSSL based testing for FREAK Attack (CVE-2015-0204) as advised by Akamai.",
+      "date": "2015-03-06",
+      "raw_date": "2015-03-06T09:40:54Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.343045",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2015-03-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

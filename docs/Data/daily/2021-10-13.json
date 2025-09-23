@@ -1,0 +1,34 @@
+{
+  "date": "2021-10-13",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[MrCl0wnLab/SimplesApachePathTraversal](https://github.com/MrCl0wnLab/SimplesApachePathTraversal)",
+      "description": "Tool check: CVE-2021-41773, CVE-2021-42013, CVE-2020-17519",
+      "date": "2021-10-13",
+      "raw_date": "2021-10-13T17:03:56Z"
+    },
+    {
+      "cve_id": "CVE-2020-10770",
+      "repo_info": "[ColdFusionX/Keycloak-12.0.1-CVE-2020-10770](https://github.com/ColdFusionX/Keycloak-12.0.1-CVE-2020-10770)",
+      "description": "Keycloak 12.0.1 - &#x27;request_uri &#x27; Blind Server-Side Request Forgery (SSRF) (Unauthenticated)",
+      "date": "2021-10-13",
+      "raw_date": "2021-10-13T08:40:33Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287](https://github.com/Hasintha-98/Sudo-Vulnerability-Exploit-CVE-2019-14287)",
+      "description": "no description",
+      "date": "2021-10-13",
+      "raw_date": "2021-10-13T08:35:57Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.576383",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-10-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

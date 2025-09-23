@@ -1,0 +1,83 @@
+{
+  "date": "2025-03-06",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-1306",
+      "repo_info": "[Nxploited/CVE-2025-1306](https://github.com/Nxploited/CVE-2025-1306)",
+      "description": "Newscrunch &lt;= 1.8.4 - Cross-Site Request Forgery to Arbitrary File Upload",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T01:21:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-7014",
+      "repo_info": "[hexspectrum1/CVE-2024-7014](https://github.com/hexspectrum1/CVE-2024-7014)",
+      "description": "no description",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T15:38:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-38014",
+      "repo_info": "[Anurag-Chevendra/CVE-2024-38014](https://github.com/Anurag-Chevendra/CVE-2024-38014)",
+      "description": "Poc for CVE-2024-38014",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T16:42:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[ashutosh0408/Cve-2024-32002-poc](https://github.com/ashutosh0408/Cve-2024-32002-poc)",
+      "description": "This repository contains a PoC for exploiting CVE-2024-32002, a vulnerability in Git that allows RCE during a git clone operation. By crafting repositories with submodules in a specific way, an attacker can exploit symlink handling on case-insensitive filesystems to write files into the .git/ directory, leading to the execution of malicious hooks.",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T10:24:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[ashutosh0408/CVE-2024-32002](https://github.com/ashutosh0408/CVE-2024-32002)",
+      "description": "This repository contains a PoC for exploiting CVE-2024-32002, a vulnerability in Git that allows RCE during a git clone operation. By crafting repositories with submodules in a specific way, an attacker can exploit symlink handling on case-insensitive filesystems to write files into the .git/ directory, leading to the execution of malicious hooks.",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T09:40:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[999gawkboyy/CVE-2024-23692_Exploit](https://github.com/999gawkboyy/CVE-2024-23692_Exploit)",
+      "description": "HFS 2.3m SERVER RCE Vulnerability exploit",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T10:12:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-4911",
+      "repo_info": "[shacojx/CVE-2023-4911-Exploit](https://github.com/shacojx/CVE-2023-4911-Exploit)",
+      "description": "CVE-2023-4911 exploit",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T02:14:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-37456",
+      "repo_info": "[SpiralBL0CK/cve-2023-37456](https://github.com/SpiralBL0CK/cve-2023-37456)",
+      "description": "cve-2023-37456",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T02:15:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read](https://github.com/monke443/CVE-2021-43798-Grafana-Arbitrary-File-Read)",
+      "description": "no description",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T17:31:27Z"
+    },
+    {
+      "cve_id": "CVE-2019-15707",
+      "repo_info": "[cristianovisk/CVE-2019-15707](https://github.com/cristianovisk/CVE-2019-15707)",
+      "description": "Exploit",
+      "date": "2025-03-06",
+      "raw_date": "2025-03-06T16:30:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.947237",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-03-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

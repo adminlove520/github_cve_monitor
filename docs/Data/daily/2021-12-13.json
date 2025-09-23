@@ -1,0 +1,104 @@
+{
+  "date": "2021-12-13",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-45046",
+      "repo_info": "[0xsyr0/Log4Shell](https://github.com/0xsyr0/Log4Shell)",
+      "description": "This repository contains all gathered resources we used during our Incident Reponse on CVE-2021-44228 and CVE-2021-45046 aka Log4Shell.",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T11:34:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[corelight/cve-2021-44228](https://github.com/corelight/cve-2021-44228)",
+      "description": "Log4j Exploit Detection Logic for Zeek",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T17:25:52Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[irgoncalves/f5-waf-quick-patch-cve-2021-44228](https://github.com/irgoncalves/f5-waf-quick-patch-cve-2021-44228)",
+      "description": "This tool creates a custom signature set on F5 WAF and apply to policies in blocking mode",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T13:41:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[thecyberneh/Log4j-RCE-Exploiter](https://github.com/thecyberneh/Log4j-RCE-Exploiter)",
+      "description": "Scanner for Log4j RCE CVE-2021-44228",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T06:53:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[avwolferen/Sitecore.Solr-log4j-mitigation](https://github.com/avwolferen/Sitecore.Solr-log4j-mitigation)",
+      "description": "This repository contains a script that you can run on your (windows) machine to mitigate CVE-2021-44228",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T08:46:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[claranet/ansible-role-log4shell](https://github.com/claranet/ansible-role-log4shell)",
+      "description": "Find Log4Shell CVE-2021-44228 on your system",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T16:41:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[sourcegraph/log4j-cve-code-search-resources](https://github.com/sourcegraph/log4j-cve-code-search-resources)",
+      "description": "Using code search to help fix/mitigate log4j CVE-2021-44228",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T07:10:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-43503",
+      "repo_info": "[alexbakker/log4shell-tools](https://github.com/alexbakker/log4shell-tools)",
+      "description": "Tool that runs a test to check whether one of your applications is affected by the recent vulnerabilities in log4j: CVE-2021-44228 and CVE-2021-45046",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T21:47:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-43008",
+      "repo_info": "[p0dalirius/CVE-2021-43008-AdminerRead](https://github.com/p0dalirius/CVE-2021-43008-AdminerRead)",
+      "description": "Exploit tool for CVE-2021-43008 Adminer 1.0 up to 4.6.2 Arbitrary File Read vulnerability",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T17:26:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-40555",
+      "repo_info": "[ricardojba/Invoke-noPac](https://github.com/ricardojba/Invoke-noPac)",
+      "description": ".Net Assembly loader for the [CVE-2021-42287 - CVE-2021-42278] Scanner &amp; Exploit noPac",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T19:01:18Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[fullhunt/log4j-scan](https://github.com/fullhunt/log4j-scan)",
+      "description": "A fully automated, accurate, and extensive scanner for finding log4j RCE CVE-2021-44228",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T03:57:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-36260",
+      "repo_info": "[tuntin9x/CheckHKRCE](https://github.com/tuntin9x/CheckHKRCE)",
+      "description": "CVE-2021-36260",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T09:23:36Z"
+    },
+    {
+      "cve_id": "CVE-2021-0586",
+      "repo_info": "[Ridter/noPac](https://github.com/Ridter/noPac)",
+      "description": "Exploiting CVE-2021-42278 and CVE-2021-42287 to impersonate DA from standard domain user",
+      "date": "2021-12-13",
+      "raw_date": "2021-12-13T10:28:12Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.645324",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2021-12-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

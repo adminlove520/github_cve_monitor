@@ -1,0 +1,181 @@
+{
+  "date": "2025-09-03",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9074",
+      "repo_info": "[j3r1ch0123/CVE-2025-9074](https://github.com/j3r1ch0123/CVE-2025-9074)",
+      "description": "New vulnerability found in Docker. Credit for finding the vulnerability goes to Felix Boulet",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T18:46:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-6019",
+      "repo_info": "[harshitvarma05/CVE-2025-6019](https://github.com/harshitvarma05/CVE-2025-6019)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T11:52:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-56435",
+      "repo_info": "[Jingyi-u/-CVE-2025-56435](https://github.com/Jingyi-u/-CVE-2025-56435)",
+      "description": "CVE-2025-56435",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T03:54:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-55998",
+      "repo_info": "[Ocmenog/CVE-2025-55998](https://github.com/Ocmenog/CVE-2025-55998)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T17:41:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-55998",
+      "repo_info": "[Reeadmon/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce](https://github.com/Reeadmon/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce)",
+      "description": "Exploit development involves tools like exploitation frameworks and CVE databases. LNK exploits, such as LNK builder or LNK payload techniques, leverage vulnerabilities like CVE-2025-44228 for silent RCE execution through shortcut files.",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T20:07:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-55555",
+      "repo_info": "[aydin5245/CVE-2025-55555-CVE](https://github.com/aydin5245/CVE-2025-55555-CVE)",
+      "description": "CVE-2025-55555 POC",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T13:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-54309",
+      "repo_info": "[foregenix/CVE-2025-54309](https://github.com/foregenix/CVE-2025-54309)",
+      "description": "Exploitation scripts for the CrushFTP CVE-2025-54309: vulnerability",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T11:05:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-5252",
+      "repo_info": "[aydin5245/CVE-2025-5252-CVE-ivanti](https://github.com/aydin5245/CVE-2025-5252-CVE-ivanti)",
+      "description": "CVE-2025-5252 CVE ivanti",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T13:35:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-52389",
+      "repo_info": "[Reeadmon/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud](https://github.com/Reeadmon/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud)",
+      "description": "Exploit development targets vulnerabilities like CVE-2025-44228, often using tools like silent exploit builders. Office documents, including DOC files, are exploited through malware payloads and CVE exploits, impacting platforms like Office 365.",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T20:11:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-52389",
+      "repo_info": "[Reeadmon/Phantom-Registy-Exploit-Cve2025-20682-Runtime-Fud-Lnk](https://github.com/Reeadmon/Phantom-Registy-Exploit-Cve2025-20682-Runtime-Fud-Lnk)",
+      "description": "Exploit development involves tools like exploitation frameworks and CVE databases. Registry exploits, such as reg exploit or registry-based payloads, leverage vulnerabilities for silent execution, often using FUD techniques to evade detection.",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T20:11:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-43300",
+      "repo_info": "[PwnToday/CVE-2025-43300](https://github.com/PwnToday/CVE-2025-43300)",
+      "description": "iOS 18.6.1 0-click RCE POC",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T18:34:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-3515",
+      "repo_info": "[ImBIOS/lab-cve-2025-3515](https://github.com/ImBIOS/lab-cve-2025-3515)",
+      "description": "CVE-2025-3515 WordPress lab for Drag and Drop Multiple File Upload for CF7: Dockerized PoC &amp; Nuclei testing",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T09:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[min8282/CVE-2025-3248](https://github.com/min8282/CVE-2025-3248)",
+      "description": "CVE-2025-3248",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T00:13:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[HOEUN-Visai/CVE-2025-27591-below-](https://github.com/HOEUN-Visai/CVE-2025-27591-below-)",
+      "description": "Local Privilege Escalation vai `below` (CVE-2025-27591) - PoC Exploit",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T14:49:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-27480",
+      "repo_info": "[mrk336/CVE-2025-27480](https://github.com/mrk336/CVE-2025-27480)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T03:31:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[b0ySie7e/CVE-2025-24893](https://github.com/b0ySie7e/CVE-2025-24893)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T22:25:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[CEAlbez/CVE-2025-24813-PoC](https://github.com/CEAlbez/CVE-2025-24813-PoC)",
+      "description": "This is a PoC for the CVE-2025-24813 and tested in different environments.",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T11:36:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-22131",
+      "repo_info": "[ZzN1NJ4/CVE-2025-22131-PoC](https://github.com/ZzN1NJ4/CVE-2025-22131-PoC)",
+      "description": "PoC for CVE-2025-22131",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T06:26:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-2082",
+      "repo_info": "[shirabo/cve-2025-2082-POV](https://github.com/shirabo/cve-2025-2082-POV)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T15:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[ykhurshudyan-blip/CVE-2024-3094](https://github.com/ykhurshudyan-blip/CVE-2024-3094)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T20:39:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-0610",
+      "repo_info": "[ImBIOS/lab-cve-2020-0610](https://github.com/ImBIOS/lab-cve-2020-0610)",
+      "description": "Reproducible lab for CVE-2020-0610 (BlueGate) - Windows RD Gateway UDP/DTLS remote code execution vulnerability. Includes PowerShell scripts, setup guide, and nuclei template validation examples.",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T03:59:34Z"
+    },
+    {
+      "cve_id": "CVE-2017-6074",
+      "repo_info": "[34zY/CVE-2017-6074-DOS](https://github.com/34zY/CVE-2017-6074-DOS)",
+      "description": "This repository provides a modified version of the original CVE-2017-6074 exploit (use-after-free in the Linux kernel DCCP subsystem), designed only to demonstrate Denial of Service (DoS) impact. An authenticated local user can trigger a kernel panic, causing a total loss of system availability.",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T11:21:28Z"
+    },
+    {
+      "cve_id": "CVE-2016-15042",
+      "repo_info": "[ImBIOS/lab-cve-2016-15042](https://github.com/ImBIOS/lab-cve-2016-15042)",
+      "description": "CVE-2016-15042 lab: Dockerized WordPress PoC for unauthenticated file upload in Frontend File Manager &lt;4.0 and N‑Media Post Front‑end Form &lt;1.1",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T08:50:11Z"
+    },
+    {
+      "cve_id": "CVE-2015-1328",
+      "repo_info": "[1mgR00T/CVE-2015-1328](https://github.com/1mgR00T/CVE-2015-1328)",
+      "description": "no description",
+      "date": "2025-09-03",
+      "raw_date": "2025-09-03T08:57:25Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.123591",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2025-09-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

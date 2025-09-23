@@ -1,0 +1,20 @@
+{
+  "date": "2018-01-19",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-10271",
+      "repo_info": "[peterpeter228/Oracle-WebLogic-CVE-2017-10271](https://github.com/peterpeter228/Oracle-WebLogic-CVE-2017-10271)",
+      "description": "WebLogic wls-wsat RCE CVE-2017-10271",
+      "date": "2018-01-19",
+      "raw_date": "2018-01-19T15:50:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.604874",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-01-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

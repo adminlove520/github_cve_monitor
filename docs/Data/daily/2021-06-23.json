@@ -1,0 +1,20 @@
+{
+  "date": "2021-06-23",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-3452",
+      "repo_info": "[B34MR/zeroscan](https://github.com/B34MR/zeroscan)",
+      "description": "Zeroscan is a Domain Controller vulnerability scanner, that currently includes checks for Zerologon (CVE-2020-1472), MS-PAR/MS-RPRN and SMBv2 Signing.",
+      "date": "2021-06-23",
+      "raw_date": "2021-06-23T12:23:48Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.461360",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-06-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2019-11-11",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6389",
+      "repo_info": "[vineetkia/Wordpress-DOS-Attack-CVE-2018-6389](https://github.com/vineetkia/Wordpress-DOS-Attack-CVE-2018-6389)",
+      "description": "load-scripts.php file, which purpose is to retrieve several JavaScript packages through one single request.",
+      "date": "2019-11-11",
+      "raw_date": "2019-11-11T11:48:03Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.858473",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-11-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2022-11-18",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-40127",
+      "repo_info": "[Mr-xn/CVE-2022-40127](https://github.com/Mr-xn/CVE-2022-40127)",
+      "description": "Apache Airflow &lt; 2.4.0 DAG  example_bash_operator RCE POC",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T13:19:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-2602",
+      "repo_info": "[LukeGix/CVE-2022-2602](https://github.com/LukeGix/CVE-2022-2602)",
+      "description": "CVE-2022-2602",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T18:53:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-0441",
+      "repo_info": "[SDragon1205/cve-2022-0441](https://github.com/SDragon1205/cve-2022-0441)",
+      "description": "CVE-2022-0441 - MasterStudy LMS 2.7.6",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T07:02:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[trhacknon/exploit-grafana-CVE-2021-43798](https://github.com/trhacknon/exploit-grafana-CVE-2021-43798)",
+      "description": "no description",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T02:12:52Z"
+    },
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[12345qwert123456/CVE-2021-42013](https://github.com/12345qwert123456/CVE-2021-42013)",
+      "description": "Vulnerable configuration Apache HTTP Server version 2.4.49/2.4.50",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T17:53:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[12345qwert123456/CVE-2021-41773](https://github.com/12345qwert123456/CVE-2021-41773)",
+      "description": "Vulnerable configuration Apache HTTP Server version 2.4.49",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T12:23:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-3166",
+      "repo_info": "[kaisersource/CVE-2021-3166](https://github.com/kaisersource/CVE-2021-3166)",
+      "description": "Mastering CVE-2021-3166",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T18:28:57Z"
+    },
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[CAOlvchonger/CVE-2016-10033](https://github.com/CAOlvchonger/CVE-2016-10033)",
+      "description": "wordpress docker",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T02:07:39Z"
+    },
+    {
+      "cve_id": "CVE-2012-1823",
+      "repo_info": "[daai1/CVE-2012-1823](https://github.com/daai1/CVE-2012-1823)",
+      "description": "no description",
+      "date": "2022-11-18",
+      "raw_date": "2022-11-18T12:46:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.927801",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-11-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

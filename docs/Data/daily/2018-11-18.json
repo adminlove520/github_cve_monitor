@@ -1,0 +1,27 @@
+{
+  "date": "2018-11-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8453",
+      "repo_info": "[ttffdd/XBadManners](https://github.com/ttffdd/XBadManners)",
+      "description": "Tool for CVE-2018-16323",
+      "date": "2018-11-18",
+      "raw_date": "2018-11-18T15:30:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-14667",
+      "repo_info": "[nareshmail/cve-2018-14667](https://github.com/nareshmail/cve-2018-14667)",
+      "description": "cve-2018-14667 demo",
+      "date": "2018-11-18",
+      "raw_date": "2018-11-18T06:43:46Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.715656",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-11-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

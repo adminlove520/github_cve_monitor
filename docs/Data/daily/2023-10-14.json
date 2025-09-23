@@ -1,0 +1,55 @@
+{
+  "date": "2023-10-14",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4911",
+      "repo_info": "[guffre/CVE-2023-4911](https://github.com/guffre/CVE-2023-4911)",
+      "description": "PoC for CVE-2023-4911 LooneyTuneables",
+      "date": "2023-10-14",
+      "raw_date": "2023-10-14T02:24:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-45471",
+      "repo_info": "[itsAptx/CVE-2023-45471](https://github.com/itsAptx/CVE-2023-45471)",
+      "description": "no description",
+      "date": "2023-10-14",
+      "raw_date": "2023-10-14T15:20:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[tarimoe/blackjump](https://github.com/tarimoe/blackjump)",
+      "description": "JumpServer 堡垒机未授权综合漏洞利用, CVE-2023-42442 / CVE-2023-42820",
+      "date": "2023-10-14",
+      "raw_date": "2023-10-14T09:35:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[asepsaepdin/CVE-2023-38646](https://github.com/asepsaepdin/CVE-2023-38646)",
+      "description": "no description",
+      "date": "2023-10-14",
+      "raw_date": "2023-10-14T15:56:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-3710",
+      "repo_info": "[CwEeR313/CVE-2023-3710](https://github.com/CwEeR313/CVE-2023-3710)",
+      "description": "exploit for CVE-2023-3710",
+      "date": "2023-10-14",
+      "raw_date": "2023-10-14T18:31:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-3710",
+      "repo_info": "[Mahdi22228/CVE-2023-3710](https://github.com/Mahdi22228/CVE-2023-3710)",
+      "description": "no description",
+      "date": "2023-10-14",
+      "raw_date": "2023-10-14T12:18:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.302115",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-10-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2021-07-28",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-28502",
+      "repo_info": "[dpredrag/CVE-2020-28502](https://github.com/dpredrag/CVE-2020-28502)",
+      "description": "no description",
+      "date": "2021-07-28",
+      "raw_date": "2021-07-28T11:01:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-10149",
+      "repo_info": "[f4T1H21/dirty_sock](https://github.com/f4T1H21/dirty_sock)",
+      "description": "Local Privilege Escalation via snapd (CVE-2019-7304) Remastered PoC exploit",
+      "date": "2021-07-28",
+      "raw_date": "2021-07-28T13:06:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-12636",
+      "repo_info": "[nth347/CVE-2018-12636_exploit](https://github.com/nth347/CVE-2018-12636_exploit)",
+      "description": "Exploit for CVE-2018-12636",
+      "date": "2021-07-28",
+      "raw_date": "2021-07-28T16:30:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-11790",
+      "repo_info": "[anmuxi-bai/CVE-2018-11790](https://github.com/anmuxi-bai/CVE-2018-11790)",
+      "description": "poc",
+      "date": "2021-07-28",
+      "raw_date": "2021-07-28T06:18:30Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.499891",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-07-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

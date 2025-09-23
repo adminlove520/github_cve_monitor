@@ -1,0 +1,27 @@
+{
+  "date": "2020-02-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-14514",
+      "repo_info": "[seqred-s-a/cve-2019-14514](https://github.com/seqred-s-a/cve-2019-14514)",
+      "description": "Remote code execution in Microvirt MEmu",
+      "date": "2020-02-06",
+      "raw_date": "2020-02-06T08:54:45Z"
+    },
+    {
+      "cve_id": "CVE-2011-4862",
+      "repo_info": "[kpawar2410/CVE-2011-4862](https://github.com/kpawar2410/CVE-2011-4862)",
+      "description": "Final Project for Security and Privacy CS 600.443",
+      "date": "2020-02-06",
+      "raw_date": "2020-02-06T09:30:45Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.902955",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-02-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

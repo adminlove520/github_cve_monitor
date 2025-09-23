@@ -1,0 +1,20 @@
+{
+  "date": "2021-07-31",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-28653",
+      "repo_info": "[tuo4n8/CVE-2020-28653](https://github.com/tuo4n8/CVE-2020-28653)",
+      "description": "no description",
+      "date": "2021-07-31",
+      "raw_date": "2021-07-31T13:00:15Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.523835",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-07-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

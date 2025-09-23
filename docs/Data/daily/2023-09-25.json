@@ -1,0 +1,111 @@
+{
+  "date": "2023-09-25",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4863",
+      "repo_info": "[talbeerysec/BAD-WEBP-CVE-2023-4863](https://github.com/talbeerysec/BAD-WEBP-CVE-2023-4863)",
+      "description": "BAD-WEBP-CVE-2023-4863",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T22:10:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-4863",
+      "repo_info": "[bbaranoff/CVE-2023-4863](https://github.com/bbaranoff/CVE-2023-4863)",
+      "description": "no description",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T10:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-44766",
+      "repo_info": "[sromanhu/CVE-2023-44766_ConcreteCMS-Stored-XSS---SEO](https://github.com/sromanhu/CVE-2023-44766_ConcreteCMS-Stored-XSS---SEO)",
+      "description": "Cross Site Scripting vulnerability in ConcreteCMS v.9.2.1 allows a local attacker to execute arbitrary code via a crafted script to the SEO - Header Extra Content from Page Settings.",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T21:48:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-44765",
+      "repo_info": "[sromanhu/CVE-2023-44765_ConcreteCMS-Stored-XSS---Associations](https://github.com/sromanhu/CVE-2023-44765_ConcreteCMS-Stored-XSS---Associations)",
+      "description": "Cross Site Scripting vulnerability in ConcreteCMS v.9.2.1 allows a local attacker to execute arbitrary code via a crafted script to the Plural Handle of the Data Objects from System &amp; Settings",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T21:11:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-44764",
+      "repo_info": "[sromanhu/CVE-2023-44764_ConcreteCMS-Stored-XSS---Site_Installation](https://github.com/sromanhu/CVE-2023-44764_ConcreteCMS-Stored-XSS---Site_Installation)",
+      "description": "Cross Site Scripting vulnerability in ConcreteCMS v.9.2.1 allows a local attacker to execute arbitrary code via a crafted script to the SITE from installation or Settings.",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T21:52:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-44763",
+      "repo_info": "[sromanhu/CVE-2023-44763_ConcreteCMS-Arbitrary-file-upload-Thumbnail](https://github.com/sromanhu/CVE-2023-44763_ConcreteCMS-Arbitrary-file-upload-Thumbnail)",
+      "description": "ConcreteCMS v.9.2.1 is affected by Arbitrary File Upload vulnerability that allows Cross-Site Scriting (XSS) Stored.",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T21:56:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-44762",
+      "repo_info": "[sromanhu/CVE-2023-44762_ConcreteCMS-Reflected-XSS---Tags](https://github.com/sromanhu/CVE-2023-44762_ConcreteCMS-Reflected-XSS---Tags)",
+      "description": "Cross Site Scripting vulnerability in ConcreteCMS v.9.2.1 allows a local attacker to execute arbitrary code via a crafted script to the Tags from Settings - Tags",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T21:43:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-44761",
+      "repo_info": "[sromanhu/CVE-2023-44761_ConcreteCMS-Stored-XSS---Forms](https://github.com/sromanhu/CVE-2023-44761_ConcreteCMS-Stored-XSS---Forms)",
+      "description": "Cross Site Scripting vulnerability in ConcreteCMS v.9.2.1 allows a local attacker to execute arbitrary code via a crafted script to the Form of the Data Objects.",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T21:21:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-44760",
+      "repo_info": "[sromanhu/CVE-2023-44760_ConcreteCMS-Stored-XSS---TrackingCodes](https://github.com/sromanhu/CVE-2023-44760_ConcreteCMS-Stored-XSS---TrackingCodes)",
+      "description": "Multiple Cross Site Scripting vulnerability in ConcreteCMS v.9.2.1 allows a local attacker to execute arbitrary code via a crafted script to the Header and Footer Tracking Codes of the SEO &amp; Statistics",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T13:39:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-44758",
+      "repo_info": "[sromanhu/CVE-2023-44758_GDidees-CMS-Stored-XSS---Title](https://github.com/sromanhu/CVE-2023-44758_GDidees-CMS-Stored-XSS---Title)",
+      "description": "GDidees CMS 3.9.2 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Page Title",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T13:07:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-2523",
+      "repo_info": "[Any3ite/CVE-2023-2523](https://github.com/Any3ite/CVE-2023-2523)",
+      "description": "no description",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T08:21:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-20887",
+      "repo_info": "[Malwareman007/CVE-2023-20887](https://github.com/Malwareman007/CVE-2023-20887)",
+      "description": "VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T00:41:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[tucommenceapousser/CVE-2019-11932deta](https://github.com/tucommenceapousser/CVE-2019-11932deta)",
+      "description": "Double-Free BUG in WhatsApp exploit poc.",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T10:08:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[tucommenceapousser/CVE-2019-11932](https://github.com/tucommenceapousser/CVE-2019-11932)",
+      "description": "Double-Free BUG in WhatsApp exploit poc.",
+      "date": "2023-09-25",
+      "raw_date": "2023-09-25T07:45:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.289573",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2023-09-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

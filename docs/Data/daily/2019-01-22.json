@@ -1,0 +1,27 @@
+{
+  "date": "2019-01-22",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-16995",
+      "repo_info": "[senyuuri/cve-2017-16995](https://github.com/senyuuri/cve-2017-16995)",
+      "description": "Writeup for CVE-2017-16995 Linux BPF Local Privilege Escalation",
+      "date": "2019-01-22",
+      "raw_date": "2019-01-22T06:42:27Z"
+    },
+    {
+      "cve_id": "CVE-2017-10617",
+      "repo_info": "[JavanXD/Demo-Exploit-Jackson-RCE](https://github.com/JavanXD/Demo-Exploit-Jackson-RCE)",
+      "description": "Exploiting CVE-2017-7525 demo project with Angular7 frontend and Spring.",
+      "date": "2019-01-22",
+      "raw_date": "2019-01-22T14:19:54Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.746266",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-01-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "date": "2025-04-27",
+  "count": 30,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46657",
+      "repo_info": "[nov-1337/CVE-2025-46657](https://github.com/nov-1337/CVE-2025-46657)",
+      "description": "Reflected Cross-Site Scripting (XSS) vulnerability exists in the lang parameter in all versions of Karazal.",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T02:15:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-43865",
+      "repo_info": "[pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865](https://github.com/pouriam23/Pre-render-data-spoofing-on-React-Router-framework-mode-CVE-2025-43865)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T11:30:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-43864",
+      "repo_info": "[pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-](https://github.com/pouriam23/DoS-via-cache-poisoning-by-forcing-SPA-mode-CVE-2025-43864-)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T10:02:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-3971",
+      "repo_info": "[cyruscostini/CVE-2025-3971](https://github.com/cyruscostini/CVE-2025-3971)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T22:35:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-3914",
+      "repo_info": "[LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload](https://github.com/LvL23HT/PoC-CVE-2025-3914-Aeropage-WordPress-File-Upload)",
+      "description": "CVE-2025-3914-PoC - The Aeropage Sync for Airtable WordPress plugin (≤ v3.2.0) is vulnerable to authenticated arbitrary file uploads due to insufficient file type validation in the aeropage_media_downloader function.",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T15:03:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[minxxcozy/CVE-2025-3248-langflow-RCE](https://github.com/minxxcozy/CVE-2025-3248-langflow-RCE)",
+      "description": "CVE-2025-3248 Langflow 사전 인증 원격 코드 실행 취약점 PoC",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T04:41:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[MrDreamReal/CVE-2025-32433](https://github.com/MrDreamReal/CVE-2025-32433)",
+      "description": "CVE-2025-32433 Summary and Attack Overview",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T02:18:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-32432",
+      "repo_info": "[ibrahimsql/CVE-2025-32432](https://github.com/ibrahimsql/CVE-2025-32432)",
+      "description": "CVE-2025-32432 checker and exploit",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T13:30:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-32432",
+      "repo_info": "[Sachinart/CVE-2025-32432](https://github.com/Sachinart/CVE-2025-32432)",
+      "description": "This repository contains a proof-of-concept exploit script for CVE-2025-32432, a pre-authentication Remote Code Execution (RCE) vulnerability affecting CraftCMS versions 4.x and 5.x. The vulnerability exists in the asset transform generation feature of CraftCMS.",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T08:50:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[Totunm/CVE-2025-31324](https://github.com/Totunm/CVE-2025-31324)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T20:12:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools](https://github.com/Onapsis/Onapsis_CVE-2025-31324_Scanner_Tools)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T16:40:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[redrays-io/CVE-2025-31324](https://github.com/redrays-io/CVE-2025-31324)",
+      "description": "CVE-2025-31324, SAP Exploit",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T11:39:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[hakankarabacak/CVE-2025-24813](https://github.com/hakankarabacak/CVE-2025-24813)",
+      "description": "Proof of Concept (PoC) script for CVE-2025-24813, vulnerability in Apache Tomcat.",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T13:50:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-24054",
+      "repo_info": "[ClementNjeru/CVE-2025-24054-PoC](https://github.com/ClementNjeru/CVE-2025-24054-PoC)",
+      "description": "Proof of Concept for the NTLM Hash Leak via .library-ms CVE-2025-24054",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T06:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[salt318/CVE-2025-1974](https://github.com/salt318/CVE-2025-1974)",
+      "description": "WHS3기 가상화 취약한(CVE) Docker 환경 구성 과제",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T05:07:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-36587",
+      "repo_info": "[meeeeing/CVE-2024-36587](https://github.com/meeeeing/CVE-2024-36587)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T14:30:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-31449",
+      "repo_info": "[daeseong1209/CVE-2024-31449](https://github.com/daeseong1209/CVE-2024-31449)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T13:42:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[m4nInTh3mIdDle/wordpress-CVE-2024-27956](https://github.com/m4nInTh3mIdDle/wordpress-CVE-2024-27956)",
+      "description": "Attacks a vulnerable WordPress site with the wp-automatic plugin.  Inserts a new user called eviladmin directly into the database (INSERT INTO wp_users).  Searches for the ID of the newly created user (cyclic SELECT).  Promotes eviladmin to Administrator (INSERT INTO wp_usermeta).",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T20:05:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-42092",
+      "repo_info": "[ajdumanhug/CVE-2022-42092](https://github.com/ajdumanhug/CVE-2022-42092)",
+      "description": "CVE-2023-46818 Python3 Exploit for Backdrop CMS &lt;= 1.22.0 Authenticated Remote Command Execution (RCE)",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T17:54:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-3552",
+      "repo_info": "[BakalMode/CVE-2022-3552](https://github.com/BakalMode/CVE-2022-3552)",
+      "description": "CVE-2022-3552 RCE with explanation",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T18:37:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[suljov/Grafana-LFI-exploit](https://github.com/suljov/Grafana-LFI-exploit)",
+      "description": "Updated exploit script for the CVE-2021-43798",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T19:39:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[hyunjin0334/CVE-2019-19781](https://github.com/hyunjin0334/CVE-2019-19781)",
+      "description": "Whitehat school_Docker assignement_CVE-2019-19781_PoC",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T11:47:59Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[Dowonkwon/drupal-cve-2018-7600-poc](https://github.com/Dowonkwon/drupal-cve-2018-7600-poc)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T10:45:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-15133",
+      "repo_info": "[yeahhbean/Laravel-CVE-2018-15133](https://github.com/yeahhbean/Laravel-CVE-2018-15133)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T09:32:50Z"
+    },
+    {
+      "cve_id": "CVE-2017-8386",
+      "repo_info": "[suz1n/WHS3_vulhub](https://github.com/suz1n/WHS3_vulhub)",
+      "description": "PoC for CVE-2017-8386 Git-Shell sandbox bypass vulnerability.",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T14:27:55Z"
+    },
+    {
+      "cve_id": "CVE-2017-8386",
+      "repo_info": "[portfolio10/nginx](https://github.com/portfolio10/nginx)",
+      "description": "cve-2017-7529",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T13:08:08Z"
+    },
+    {
+      "cve_id": "CVE-2017-8291",
+      "repo_info": "[shun1403/PIL-CVE-2017-8291-study](https://github.com/shun1403/PIL-CVE-2017-8291-study)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T11:11:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-8291",
+      "repo_info": "[shun1403/CVE-2017-8291](https://github.com/shun1403/CVE-2017-8291)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T09:04:54Z"
+    },
+    {
+      "cve_id": "CVE-2015-2797",
+      "repo_info": "[Bariskizilkaya/CVE-2015-2797-PoC](https://github.com/Bariskizilkaya/CVE-2015-2797-PoC)",
+      "description": "airtiels 5650 CVE-2015-2797 PoC",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T10:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2012-2122",
+      "repo_info": "[subinyy/docker_CVE_2012_2122](https://github.com/subinyy/docker_CVE_2012_2122)",
+      "description": "no description",
+      "date": "2025-04-27",
+      "raw_date": "2025-04-27T13:50:29Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.996568",
+  "metadata": {
+    "total_cves": 30,
+    "date_range": "2025-04-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

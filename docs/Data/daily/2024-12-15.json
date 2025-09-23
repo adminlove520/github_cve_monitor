@@ -1,0 +1,62 @@
+{
+  "date": "2024-12-15",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-53376",
+      "repo_info": "[ThottySploity/CVE-2024-53376](https://github.com/ThottySploity/CVE-2024-53376)",
+      "description": "CyberPanel authenticated RCE &lt; 2.3.8",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T22:40:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-21542",
+      "repo_info": "[L3ster1337/Poc-CVE-2024-21542](https://github.com/L3ster1337/Poc-CVE-2024-21542)",
+      "description": "no description",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T22:17:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-11972",
+      "repo_info": "[JunTakemura/exploit-CVE-2024-11972](https://github.com/JunTakemura/exploit-CVE-2024-11972)",
+      "description": "Exploit for CVE-2024-11972, Hunk Companion &lt; 1.9.0 Unauthorized Plugin Installation",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T23:54:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-10220",
+      "repo_info": "[filipzag/CVE-2024-10220](https://github.com/filipzag/CVE-2024-10220)",
+      "description": "no description",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T11:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-10220",
+      "repo_info": "[Danyw24/blueXploit](https://github.com/Danyw24/blueXploit)",
+      "description": "Exploit basado en vulnerabilidades criticas Bluetooth (CVE-2023-45866, CVE-2024-21306)",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T03:00:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[101010zyl/CVE-2024-0582](https://github.com/101010zyl/CVE-2024-0582)",
+      "description": "A data-only attack based on CVE-2024-0582",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T21:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-38408",
+      "repo_info": "[Nick-Morbid/cve-2023-38408](https://github.com/Nick-Morbid/cve-2023-38408)",
+      "description": "no description",
+      "date": "2024-12-15",
+      "raw_date": "2024-12-15T11:30:46Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.879532",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-12-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

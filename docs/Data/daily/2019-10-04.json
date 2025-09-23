@@ -1,0 +1,20 @@
+{
+  "date": "2019-10-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-5418",
+      "repo_info": "[ztgrace/CVE-2019-5418-Rails3](https://github.com/ztgrace/CVE-2019-5418-Rails3)",
+      "description": "Rails 3 PoC of CVE-2019-5418",
+      "date": "2019-10-04",
+      "raw_date": "2019-10-04T19:28:10Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.842339",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-10-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

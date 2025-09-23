@@ -1,0 +1,20 @@
+{
+  "date": "2016-05-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-4010",
+      "repo_info": "[brianwrf/Magento-CVE-2016-4010](https://github.com/brianwrf/Magento-CVE-2016-4010)",
+      "description": "Magento Unauthorized Remote Code Execution (CVE-2016-4010)",
+      "date": "2016-05-25",
+      "raw_date": "2016-05-25T07:52:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.428501",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-05-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

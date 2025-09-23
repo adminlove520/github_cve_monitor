@@ -1,0 +1,83 @@
+{
+  "date": "2024-03-17",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23334",
+      "repo_info": "[sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream](https://github.com/sxyrxyy/aiohttp-exploit-CVE-2024-23334-certstream)",
+      "description": "no description",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T10:56:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[TheRedDevil1/CVE-2024-21762](https://github.com/TheRedDevil1/CVE-2024-21762)",
+      "description": "no description",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T00:04:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[d0rb/CVE-2024-21762](https://github.com/d0rb/CVE-2024-21762)",
+      "description": "The PoC demonstrates the potential for remote code execution by exploiting the identified security flaw.",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T09:15:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-4357",
+      "repo_info": "[lon5948/CVE-2023-4357-Exploitation](https://github.com/lon5948/CVE-2023-4357-Exploitation)",
+      "description": "Network Security Project",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T08:48:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-37679",
+      "repo_info": "[jakabakos/CVE-2023-37679-mirth-connect-rce-poc](https://github.com/jakabakos/CVE-2023-37679-mirth-connect-rce-poc)",
+      "description": "no description",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T08:44:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-33747",
+      "repo_info": "[0xWhoami35/CloudPanel-CVE-2023-33747](https://github.com/0xWhoami35/CloudPanel-CVE-2023-33747)",
+      "description": "no description",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T13:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-41352",
+      "repo_info": "[rxerium/CVE-2022-41352](https://github.com/rxerium/CVE-2022-41352)",
+      "description": "Zimbra Collaboration (ZCS) Arbitrary File Upload Vulnerability",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T19:59:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-24086",
+      "repo_info": "[rxerium/CVE-2022-24086](https://github.com/rxerium/CVE-2022-24086)",
+      "description": "An attacker could place HTML containing executable JavaScript inside element attributes. This markup becomes unescaped, causing arbitrary markup to be injected into the document.",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T19:29:37Z"
+    },
+    {
+      "cve_id": "CVE-2014-6721",
+      "repo_info": "[sagisar1/CVE-2014-6721-exploit-Shellshock](https://github.com/sagisar1/CVE-2014-6721-exploit-Shellshock)",
+      "description": "exploit of the Shellshock vulnerability",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T13:08:39Z"
+    },
+    {
+      "cve_id": "CVE-2004-2271",
+      "repo_info": "[lautarolopez4/CVE-2004-2271](https://github.com/lautarolopez4/CVE-2004-2271)",
+      "description": "Simple POC for MiniShare &lt;= 1.4.1 - Buffer Overflow",
+      "date": "2024-03-17",
+      "raw_date": "2024-03-17T02:39:02Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.635076",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-03-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

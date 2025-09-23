@@ -1,0 +1,20 @@
+{
+  "date": "2020-03-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[RICSecLab/CVE-2019-0708](https://github.com/RICSecLab/CVE-2019-0708)",
+      "description": "CVE-2019-0708 (BlueKeep) proof of concept allowing pre-auth RCE on Windows7",
+      "date": "2020-03-15",
+      "raw_date": "2020-03-15T19:33:53Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.929023",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-03-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

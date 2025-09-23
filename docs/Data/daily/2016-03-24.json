@@ -1,0 +1,20 @@
+{
+  "date": "2016-03-24",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-1805",
+      "repo_info": "[panyu6325/CVE-2015-1805](https://github.com/panyu6325/CVE-2015-1805)",
+      "description": "no description",
+      "date": "2016-03-24",
+      "raw_date": "2016-03-24T02:55:09Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.413367",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-03-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

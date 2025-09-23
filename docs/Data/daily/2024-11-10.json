@@ -1,0 +1,83 @@
+{
+  "date": "2024-11-10",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-51665",
+      "repo_info": "[RandomRobbieBF/CVE-2024-51665](https://github.com/RandomRobbieBF/CVE-2024-51665)",
+      "description": "Magical Addons For Elementor &lt;= 1.2.1 - Authenticated (Subscriber+) Server-Side Request Forgery",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T12:01:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-50493",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50493](https://github.com/RandomRobbieBF/CVE-2024-50493)",
+      "description": "Automatic Translation &lt;= 1.0.4 - Unauthenticated Arbitrary File Upload",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T08:17:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-47062",
+      "repo_info": "[saisathvik1/CVE-2024-47062](https://github.com/saisathvik1/CVE-2024-47062)",
+      "description": "CVE-2024-47062 PoC",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T01:10:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-40443",
+      "repo_info": "[Yuma-Tsushima07/CVE-2024-40443](https://github.com/Yuma-Tsushima07/CVE-2024-40443)",
+      "description": "CVE-2024-40443 - A SQL Injection vulnerability in Computer Laboratory Management System v1.0 allows attackers to execute arbitrary SQL commands",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T17:35:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-10958",
+      "repo_info": "[reinh3rz/CVE-2024-10958-WPPA-Exploit](https://github.com/reinh3rz/CVE-2024-10958-WPPA-Exploit)",
+      "description": "no description",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T15:43:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-10914",
+      "repo_info": "[verylazytech/CVE-2024-10914](https://github.com/verylazytech/CVE-2024-10914)",
+      "description": "POC - CVE-2024–10914- Command Injection Vulnerability in `name` parameter for D-Link NAS",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T12:01:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-10586",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10586](https://github.com/RandomRobbieBF/CVE-2024-10586)",
+      "description": "Debug Tool &lt;= 2.2 - Unauthenticated Arbitrary File Creation",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T11:30:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[oxapavan/CVE-2023-4220-HTB-PermX](https://github.com/oxapavan/CVE-2023-4220-HTB-PermX)",
+      "description": "no description",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T18:13:18Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-](https://github.com/AhmedMansour93/-Unveiling-the-Lessons-from-Log4Shell-A-Wake-Up-Call-for-Cybersecurity-)",
+      "description": "In December 2021, the world of cybersecurity was shaken by the discovery of the Log4Shell vulnerability (CVE-2021-44228), embedded within the widely-used Apache Log4j library. With a CVSS score of 10",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T13:45:59Z"
+    },
+    {
+      "cve_id": "CVE-2015-1427",
+      "repo_info": "[Sebikea/CVE-2015-1427-for-trixie](https://github.com/Sebikea/CVE-2015-1427-for-trixie)",
+      "description": "To test elasticsearch vulnerabillity on newer version of debian",
+      "date": "2024-11-10",
+      "raw_date": "2024-11-10T15:33:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.850679",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-11-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

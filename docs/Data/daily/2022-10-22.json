@@ -1,0 +1,76 @@
+{
+  "date": "2022-10-22",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[s3l33/CVE-2022-42889](https://github.com/s3l33/CVE-2022-42889)",
+      "description": "python script for CVE-2022-42889",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T02:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL](https://github.com/jayaram-yalla/CVE-2022-42889-POC_TEXT4SHELL)",
+      "description": "CVE-2022-42889-POC_TEXT4SHELL",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T14:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC](https://github.com/rhitikwadhvana/CVE-2022-42889-Text4Shell-Exploit-POC)",
+      "description": "CVE-2022-42889 Text4Shell Exploit POC",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T10:30:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[galoget/CVE-2022-42889-Text4Shell-Docker](https://github.com/galoget/CVE-2022-42889-Text4Shell-Docker)",
+      "description": "Dockerized PoC for CVE-2022-42889 Text4Shell",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T10:01:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[stat1st1c/CVE-2022-41082-RCE-POC](https://github.com/stat1st1c/CVE-2022-41082-RCE-POC)",
+      "description": "writeup and PoC for (CVE-2022-41082/CVE-2022-41040) aka ProxyNotShell",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T18:18:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[TheCryingGame/CVE-2022-39197-RCE](https://github.com/TheCryingGame/CVE-2022-39197-RCE)",
+      "description": "CVE-2022-39197 RCE POC",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T10:11:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-36663",
+      "repo_info": "[Qeisi/CVE-2022-36663-PoC](https://github.com/Qeisi/CVE-2022-36663-PoC)",
+      "description": "Internal network scanner through Gluu IAM blind ssrf",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T21:55:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-15568",
+      "repo_info": "[n0bugz/CVE-2020-15568](https://github.com/n0bugz/CVE-2020-15568)",
+      "description": "A quick and easy POC for CVE-2020-15568",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T17:20:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-0785",
+      "repo_info": "[sh4rknado/BlueBorn](https://github.com/sh4rknado/BlueBorn)",
+      "description": "CVE-2017-0785",
+      "date": "2022-10-22",
+      "raw_date": "2022-10-22T17:10:34Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.907970",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-10-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

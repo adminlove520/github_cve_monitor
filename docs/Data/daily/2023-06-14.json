@@ -1,0 +1,76 @@
+{
+  "date": "2023-06-14",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-36544",
+      "repo_info": "[KOwloid/cve-2023-36544](https://github.com/KOwloid/cve-2023-36544)",
+      "description": "no description",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T01:00:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[tangxiaofeng7/CVE-2023-32315-Openfire-Bypass](https://github.com/tangxiaofeng7/CVE-2023-32315-Openfire-Bypass)",
+      "description": "rce",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T09:43:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[ohnonoyesyes/CVE-2023-32315](https://github.com/ohnonoyesyes/CVE-2023-32315)",
+      "description": "no description",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T09:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-28310",
+      "repo_info": "[wh-gov/cve-2023-28310](https://github.com/wh-gov/cve-2023-28310)",
+      "description": "no description",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T09:23:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-27363",
+      "repo_info": "[webraybtl/CVE-2023-27363](https://github.com/webraybtl/CVE-2023-27363)",
+      "description": "福昕Foxit PDF远程代码执行漏洞CVE-2023-27363分析与复现",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T01:18:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-20887",
+      "repo_info": "[miko550/CVE-2023-20887](https://github.com/miko550/CVE-2023-20887)",
+      "description": "VMWare vRealize Network Insight Pre-Authenticated RCE (CVE-2023-20887)",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T06:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-46422",
+      "repo_info": "[tucommenceapousser/CVE-2021-46422](https://github.com/tucommenceapousser/CVE-2021-46422)",
+      "description": "no description",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T01:35:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[TheSermux/CVE-2021-4034](https://github.com/TheSermux/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T23:21:50Z"
+    },
+    {
+      "cve_id": "CVE-2014-0094",
+      "repo_info": "[y0d3n/CVE-2014-0094](https://github.com/y0d3n/CVE-2014-0094)",
+      "description": "no description",
+      "date": "2023-06-14",
+      "raw_date": "2023-06-14T02:06:58Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.219075",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-06-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

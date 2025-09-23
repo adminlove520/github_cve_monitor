@@ -1,0 +1,41 @@
+{
+  "date": "2019-09-24",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[merlin-ke/CVE_2019_15107](https://github.com/merlin-ke/CVE_2019_15107)",
+      "description": "POC Code for gaining foothold on a server vulnerable to CVE_2019_15107",
+      "date": "2019-09-24",
+      "raw_date": "2019-09-24T19:02:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[garis/Fastgate](https://github.com/garis/Fastgate)",
+      "description": "CVE-2019-12489",
+      "date": "2019-09-24",
+      "raw_date": "2019-09-24T08:28:34Z"
+    },
+    {
+      "cve_id": "CVE-2018-19592",
+      "repo_info": "[0xHunter/FortiOS-Credentials-Disclosure](https://github.com/0xHunter/FortiOS-Credentials-Disclosure)",
+      "description": "CVE-2018-13379 Exploit",
+      "date": "2019-09-24",
+      "raw_date": "2019-09-24T08:49:46Z"
+    },
+    {
+      "cve_id": "CVE-2013-3651",
+      "repo_info": "[sepehrdaddev/ntpdos](https://github.com/sepehrdaddev/ntpdos)",
+      "description": "PoC for distributed NTP reflection DoS (CVE-2013-5211)",
+      "date": "2019-09-24",
+      "raw_date": "2019-09-24T20:02:43Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.838200",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-09-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

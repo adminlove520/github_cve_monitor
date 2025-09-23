@@ -1,0 +1,76 @@
+{
+  "date": "2025-05-27",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[Lakiya673/CVE-2025-5777](https://github.com/Lakiya673/CVE-2025-5777)",
+      "description": "🛠️ Explore the CVE-2025-5777 memory leak vulnerability in Citrix NetScaler, illustrating the risks of uninitialized memory in parsing malformed POST data.",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T12:06:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[Vip3rLi0n/CVE-2025-3248](https://github.com/Vip3rLi0n/CVE-2025-3248)",
+      "description": "Perform Remote Code Execution using vulnerable API endpoint.",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T03:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-32013",
+      "repo_info": "[exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-32013-SSRF-in-LNbits-Lightning-Network-Payment-System)",
+      "description": "no description",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T22:01:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-24071",
+      "repo_info": "[LOOKY243/CVE-2025-24071-PoC](https://github.com/LOOKY243/CVE-2025-24071-PoC)",
+      "description": "A simple proof of concept for CVE-2025-24071",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T13:20:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-1661",
+      "repo_info": "[exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin](https://github.com/exploit-machine/PoC-EXPLOIT-CVE-2025-1661-Critical-Vulnerability-in-HUSKY-WooCommerce-Filter-Plugin)",
+      "description": "no description",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T21:58:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-8682",
+      "repo_info": "[4minx/CVE-2024-8682](https://github.com/4minx/CVE-2024-8682)",
+      "description": "no description",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T09:44:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[KimJuhyeong95/cve-2024-4577](https://github.com/KimJuhyeong95/cve-2024-4577)",
+      "description": "no description",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T19:19:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-40130",
+      "repo_info": "[wrlu/CVE-2023-40130](https://github.com/wrlu/CVE-2023-40130)",
+      "description": "PoC of CVE-2023-40130",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T09:29:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[SerpilRivas/log4shell-homework9](https://github.com/SerpilRivas/log4shell-homework9)",
+      "description": "Log4Shell (CVE-2021-44228) exploit demo for SEAS 8405. Includes a vulnerable Spring Boot app, fake LDAP server, Docker setup, MITRE mapping, incident response, and a full screen recording.",
+      "date": "2025-05-27",
+      "raw_date": "2025-05-27T04:23:26Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:06.024250",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-05-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

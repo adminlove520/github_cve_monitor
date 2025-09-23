@@ -1,0 +1,48 @@
+{
+  "date": "2018-12-06",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-3252",
+      "repo_info": "[pyn3rd/CVE-2018-3252](https://github.com/pyn3rd/CVE-2018-3252)",
+      "description": "CVE-2018-3252-PoC",
+      "date": "2018-12-06",
+      "raw_date": "2018-12-06T13:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2018-19788",
+      "repo_info": "[iSafeBlue/freeswitch_rce](https://github.com/iSafeBlue/freeswitch_rce)",
+      "description": "freeswitch all version remote command execute (cve-2018-19911)",
+      "date": "2018-12-06",
+      "raw_date": "2018-12-06T05:48:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-15982",
+      "repo_info": "[Ormicron/CVE-2018-15982_PoC](https://github.com/Ormicron/CVE-2018-15982_PoC)",
+      "description": "CVE-2018-15982_PoC",
+      "date": "2018-12-06",
+      "raw_date": "2018-12-06T09:24:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-15961",
+      "repo_info": "[vah13/CVE-2018-15961](https://github.com/vah13/CVE-2018-15961)",
+      "description": "Unrestricted file upload in Adobe ColdFusion",
+      "date": "2018-12-06",
+      "raw_date": "2018-12-06T15:47:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-1002105",
+      "repo_info": "[evict/poc_CVE-2018-1002105](https://github.com/evict/poc_CVE-2018-1002105)",
+      "description": "PoC for CVE-2018-1002105.",
+      "date": "2018-12-06",
+      "raw_date": "2018-12-06T11:28:02Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.726322",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2018-12-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2019-08-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[jpiechowka/at-doom-fortigate](https://github.com/jpiechowka/at-doom-fortigate)",
+      "description": "Fortigate CVE-2018-13379 - Tool to search for vulnerable Fortigate hosts in Rapid7 Project Sonar data anonymously through The Tor network.",
+      "date": "2019-08-18",
+      "raw_date": "2019-08-18T19:24:48Z"
+    },
+    {
+      "cve_id": "CVE-2017-16088",
+      "repo_info": "[Flyy-yu/CVE-2017-16088](https://github.com/Flyy-yu/CVE-2017-16088)",
+      "description": "Exploit CVE-2017-16088",
+      "date": "2019-08-18",
+      "raw_date": "2019-08-18T16:22:46Z"
+    },
+    {
+      "cve_id": "CVE-2017-16088",
+      "repo_info": "[PalmTreeForest/CodePath_Week_7-8](https://github.com/PalmTreeForest/CodePath_Week_7-8)",
+      "description": "CodePath Assignment for Weeks 7 &amp; 8: CVE-2017-14719, CVE-2019-9787 &amp; Unauthenticated Page/Post Content Modification via REST API",
+      "date": "2019-08-18",
+      "raw_date": "2019-08-18T04:50:37Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.821186",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2019-08-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

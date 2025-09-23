@@ -1,0 +1,27 @@
+{
+  "date": "2017-12-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5753",
+      "repo_info": "[ghhubin/weblogic_cve2017-20271](https://github.com/ghhubin/weblogic_cve2017-20271)",
+      "description": "no description",
+      "date": "2017-12-29",
+      "raw_date": "2017-12-29T07:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2017-13156",
+      "repo_info": "[xyzAsian/Janus-CVE-2017-13156](https://github.com/xyzAsian/Janus-CVE-2017-13156)",
+      "description": "no description",
+      "date": "2017-12-29",
+      "raw_date": "2017-12-29T07:11:42Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.594691",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-12-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

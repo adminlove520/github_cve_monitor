@@ -1,0 +1,27 @@
+{
+  "date": "2017-10-23",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[exploit-labs/huawei_hg255s_exploit](https://github.com/exploit-labs/huawei_hg255s_exploit)",
+      "description": "🚀 Server Directory Traversal at Huawei HG255s ☄️ - CVE-2017-17309 🚀",
+      "date": "2017-10-23",
+      "raw_date": "2017-10-23T13:57:27Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[embedi/smm_usbrt_poc](https://github.com/embedi/smm_usbrt_poc)",
+      "description": "CVE-2017-5721 Proof-of-Concept",
+      "date": "2017-10-23",
+      "raw_date": "2017-10-23T11:00:18Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.570373",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-10-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

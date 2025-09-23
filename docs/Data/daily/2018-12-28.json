@@ -1,0 +1,41 @@
+{
+  "date": "2018-12-28",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8581",
+      "repo_info": "[ktiOSz/PoC_iOS12](https://github.com/ktiOSz/PoC_iOS12)",
+      "description": "PoC Exploit iOS 12 to iOS 12.1 (CVE-2018-4431)",
+      "date": "2018-12-28",
+      "raw_date": "2018-12-28T17:26:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-8581",
+      "repo_info": "[qiantu88/CVE-2018-8581](https://github.com/qiantu88/CVE-2018-8581)",
+      "description": "CVE-2018-8581",
+      "date": "2018-12-28",
+      "raw_date": "2018-12-28T15:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2018-20343",
+      "repo_info": "[Alexandre-Bartel/CVE-2018-20343](https://github.com/Alexandre-Bartel/CVE-2018-20343)",
+      "description": "PoC for CVE-2018-20343",
+      "date": "2018-12-28",
+      "raw_date": "2018-12-28T10:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2018-14442",
+      "repo_info": "[payatu/CVE-2018-14442](https://github.com/payatu/CVE-2018-14442)",
+      "description": "PoC for Foxit Reader CVE-2018-14442",
+      "date": "2018-12-28",
+      "raw_date": "2018-12-28T08:29:28Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.736833",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[SandaRuFdo/ES-File-Explorer-Open-Port-Vulnerability---CVE-2019-6447](https://github.com/SandaRuFdo/ES-File-Explorer-Open-Port-Vulnerability---CVE-2019-6447)",
+      "description": "ES File Explorer Open Port Vulnerability - CVE-2019-6447",
+      "date": "2020-05-14",
+      "raw_date": "2020-05-14T13:22:54Z"
+    },
+    {
+      "cve_id": "CVE-2009-0229",
+      "repo_info": "[zveriu/CVE-2009-0229-PoC](https://github.com/zveriu/CVE-2009-0229-PoC)",
+      "description": "PoC for CVE-2009-0229 \"Print Spooler Read File Vulnerability\" LPE AFR (related to CVE-2020-1048)",
+      "date": "2020-05-14",
+      "raw_date": "2020-05-14T19:40:50Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.962602",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-05-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

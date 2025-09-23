@@ -1,0 +1,90 @@
+{
+  "date": "2024-09-05",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6386",
+      "repo_info": "[Argendo/CVE-2024-6386](https://github.com/Argendo/CVE-2024-6386)",
+      "description": "Research and PoC for CVE-2024-6386",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T14:44:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-44902",
+      "repo_info": "[fru1ts/CVE-2024-44902](https://github.com/fru1ts/CVE-2024-44902)",
+      "description": "no description",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T15:22:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-30051",
+      "repo_info": "[putget/pollypull](https://github.com/putget/pollypull)",
+      "description": "CVE-2024-38526 -  Polyfill Scanner",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T17:09:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[fa-rrel/CVE-2024-28987-POC](https://github.com/fa-rrel/CVE-2024-28987-POC)",
+      "description": "Web Help Desk Hardcoded Credential Vulnerability (CVE-2024-28987)",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T09:01:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-20419",
+      "repo_info": "[codeb0ss/CVE-2024-20419-PoC](https://github.com/codeb0ss/CVE-2024-20419-PoC)",
+      "description": "CVE-2024-20419 - Cisco SSM On-Prem &lt; Mass Password Reset Account Takeover Exploit",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T19:10:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-20419",
+      "repo_info": "[Cgv-Dev/Metasploit-Module-TFM](https://github.com/Cgv-Dev/Metasploit-Module-TFM)",
+      "description": "Module written in Ruby with the objective of exploiting vulnerabilities CVE-2023-2728 and CVE-2024-3177, both related to the secret mount policy in a Kubernetes cluster using a custom Metasploit module.  Part of a Cybersecurity Master&#x27;s degree finalization project.",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T15:30:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-0762",
+      "repo_info": "[tadash10/Detect-CVE-2024-0762](https://github.com/tadash10/Detect-CVE-2024-0762)",
+      "description": "Detecting vulnerabilities like CVE-2024-0762, particularly in UEFI firmware, is quite challenging due to the low-level nature",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T03:25:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[bryanqb07/CVE-2023-32315](https://github.com/bryanqb07/CVE-2023-32315)",
+      "description": "no description",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T13:22:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-4044",
+      "repo_info": "[phirojshah/CVE-2021-4044](https://github.com/phirojshah/CVE-2021-4044)",
+      "description": "no description",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T15:15:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[faqihudin13/CVE-2018-6574](https://github.com/faqihudin13/CVE-2018-6574)",
+      "description": "CVE-2018-6574: go get",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T14:27:37Z"
+    },
+    {
+      "cve_id": "CVE-2015-57115",
+      "repo_info": "[TrixSec/CVE-2015-57115](https://github.com/TrixSec/CVE-2015-57115)",
+      "description": "Mass Checker For CVE-2015-57115",
+      "date": "2024-09-05",
+      "raw_date": "2024-09-05T19:49:27Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.798654",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-09-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

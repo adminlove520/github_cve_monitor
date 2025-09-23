@@ -1,0 +1,55 @@
+{
+  "date": "2022-09-24",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[purple-WL/Cobaltstrike-RCE-CVE-2022-39197](https://github.com/purple-WL/Cobaltstrike-RCE-CVE-2022-39197)",
+      "description": "no description",
+      "date": "2022-09-24",
+      "raw_date": "2022-09-24T14:36:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[yqcs/CSPOC](https://github.com/yqcs/CSPOC)",
+      "description": "Cobalt Strike RCE CVE-2022-39197",
+      "date": "2022-09-24",
+      "raw_date": "2022-09-24T08:14:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[khal4n1/CVE-2022-36804](https://github.com/khal4n1/CVE-2022-36804)",
+      "description": "You can find a python script to exploit the vulnerability on Bitbucket related CVE-2022-36804.",
+      "date": "2022-09-24",
+      "raw_date": "2022-09-24T05:04:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[scoobyd00bi/CVE-2022-26809-RCE](https://github.com/scoobyd00bi/CVE-2022-26809-RCE)",
+      "description": "writeup and poc for [CVE-2022-26809]",
+      "date": "2022-09-24",
+      "raw_date": "2022-09-24T19:21:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-2274",
+      "repo_info": "[Malwareman007/CVE-2022-2274](https://github.com/Malwareman007/CVE-2022-2274)",
+      "description": "A POC OF CVE-2022-2274 (openssl)",
+      "date": "2022-09-24",
+      "raw_date": "2022-09-24T21:30:34Z"
+    },
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[Shakun8/CVE-2016-2098](https://github.com/Shakun8/CVE-2016-2098)",
+      "description": "CVE-2016-2098 POC",
+      "date": "2022-09-24",
+      "raw_date": "2022-09-24T22:58:04Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.883750",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-09-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

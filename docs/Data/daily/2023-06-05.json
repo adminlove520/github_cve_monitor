@@ -1,0 +1,83 @@
+{
+  "date": "2023-06-05",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-51504",
+      "repo_info": "[v0ita/rocketMq_RCE](https://github.com/v0ita/rocketMq_RCE)",
+      "description": "RocketMQ RCE (CVE-2023-33246) woodpecker 利用插件",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T09:23:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-33477",
+      "repo_info": "[Skr11lex/CVE-2023-33477](https://github.com/Skr11lex/CVE-2023-33477)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T16:40:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-2825",
+      "repo_info": "[EmmanuelCruzL/CVE-2023-2825](https://github.com/EmmanuelCruzL/CVE-2023-2825)",
+      "description": "On May 23, 2023 GitLab released version 16.0.1 which fixed a critical vulnerability, CVE-2023-2825, affecting the Community Edition (CE) and Enterprise Edition (EE) version 16.0.0. The vulnerability allows unauthenticated users to read arbitrary files through a path traversal bug.",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T18:16:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-2650",
+      "repo_info": "[hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650](https://github.com/hshivhare67/OpenSSL_1.1.1g_CVE-2023-2650)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T17:40:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-4191",
+      "repo_info": "[Adelittle/CVE-2021-4191_Exploits](https://github.com/Adelittle/CVE-2021-4191_Exploits)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T04:08:45Z"
+    },
+    {
+      "cve_id": "CVE-2021-40444",
+      "repo_info": "[hqdat809/CVE-2021-40444](https://github.com/hqdat809/CVE-2021-40444)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T02:27:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-31956",
+      "repo_info": "[hoangprod/CVE-2021-31956-POC](https://github.com/hoangprod/CVE-2021-31956-POC)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T00:03:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-22911",
+      "repo_info": "[MrDottt/CVE-2021-22911](https://github.com/MrDottt/CVE-2021-22911)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T22:26:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-17558",
+      "repo_info": "[narrowinxt/CVE-2019-17558](https://github.com/narrowinxt/CVE-2019-17558)",
+      "description": "no description",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T07:47:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-9248",
+      "repo_info": "[cehamod/UI_CVE-2017-9248](https://github.com/cehamod/UI_CVE-2017-9248)",
+      "description": "Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET AJAX dialog handler)",
+      "date": "2023-06-05",
+      "raw_date": "2023-06-05T00:48:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.212795",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-06-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

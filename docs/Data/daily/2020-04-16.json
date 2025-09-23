@@ -1,0 +1,20 @@
+{
+  "date": "2020-04-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[cisagov/check-your-pulse](https://github.com/cisagov/check-your-pulse)",
+      "description": "This utility can help determine if indicators of compromise (IOCs) exist in the log files of a Pulse Secure VPN Appliance for CVE-2019-11510.",
+      "date": "2020-04-16",
+      "raw_date": "2020-04-16T16:32:47Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.943185",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-04-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

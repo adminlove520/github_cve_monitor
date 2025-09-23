@@ -1,0 +1,20 @@
+{
+  "date": "2020-10-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-11783",
+      "repo_info": "[CrackSoft900/Blue-Borne](https://github.com/CrackSoft900/Blue-Borne)",
+      "description": "BlueBorne Exploits &amp; Framework This repository contains a PoC code of various exploits for the BlueBorne vulnerabilities.  Under &#x27;android&#x27; exploits for the Android RCE vulnerability (CVE-2017-0781), and the SDP Information leak vulnerability (CVE-2017-0785) can be found.  Under &#x27;linux-bluez&#x27; exploits for the Linux-RCE vulnerability (CVE-2017-1000251) can be found (for Amazon Echo, and Samsung Gear S3).  Under &#x27;l2cap_infra&#x27; a general testing framework to send and receive raw l2cap messages (using scapy) can be found.  Under &#x27;nRF24_BDADDR_Sniffer&#x27; a tool to capture bluetooth mac addresses (BDADDR) over the air, using a nRF24L01 chip  For more details on BlueBorne, you may read the full technical white paper available here:  https://www.armis.com/blueborne/  In addition a several detailed blog posts on the exploitation of these vulnerability can be found here:  https://www.armis.com/blog/  ===============  Dependencies:",
+      "date": "2020-10-12",
+      "raw_date": "2020-10-12T07:21:08Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.214059",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-10-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

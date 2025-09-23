@@ -1,0 +1,69 @@
+{
+  "date": "2022-12-06",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[ps-interactive/lab_security_apache_spark_emulation_detection](https://github.com/ps-interactive/lab_security_apache_spark_emulation_detection)",
+      "description": "For CVE-2022-33891 Apache Spark: Emulation and Detection by West Shepherd",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T23:44:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-31626",
+      "repo_info": "[amitlttwo/CVE-2022-31626](https://github.com/amitlttwo/CVE-2022-31626)",
+      "description": "no description",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T16:19:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-2414",
+      "repo_info": "[amitlttwo/CVE-2022-2414-Proof-Of-Concept](https://github.com/amitlttwo/CVE-2022-2414-Proof-Of-Concept)",
+      "description": "A flaw was found in pki-core. Access to external entities when parsing XML documents can lead to XML external entity (XXE) attacks. This flaw allows a remote attacker to potentially retrieve the content of arbitrary files by sending specially crafted HTTP requests.",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T14:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[amitlttwo/CVE-2022-1388](https://github.com/amitlttwo/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T16:59:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-1111111",
+      "repo_info": "[sdfbjaksff/CVE-2022-11111111](https://github.com/sdfbjaksff/CVE-2022-11111111)",
+      "description": "demo",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T10:28:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-21380",
+      "repo_info": "[advanced-security/codeql-workshop-cve-2021-21380](https://github.com/advanced-security/codeql-workshop-cve-2021-21380)",
+      "description": "A CodeQL workshop covering CVE-2021-21380",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T00:53:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-10220",
+      "repo_info": "[nidhi7598/linux-4.1.15_CVE-2019-10220](https://github.com/nidhi7598/linux-4.1.15_CVE-2019-10220)",
+      "description": "no description",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T07:19:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-7422",
+      "repo_info": "[JacobEbben/CVE-2018-7422](https://github.com/JacobEbben/CVE-2018-7422)",
+      "description": "Local File Inclusion in WordPress Plugin Site Editor 1.1.1",
+      "date": "2022-12-06",
+      "raw_date": "2022-12-06T20:23:57Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:04.941225",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-12-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

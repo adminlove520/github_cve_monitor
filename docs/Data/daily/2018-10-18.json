@@ -1,0 +1,76 @@
+{
+  "date": "2018-10-18",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-19127",
+      "repo_info": "[thunderstrike9090/Conflicker_analysis_scripts](https://github.com/thunderstrike9090/Conflicker_analysis_scripts)",
+      "description": "Scripts to analyze conflicker worm which exploits famous netapi vulnerability (CVE-2008-4250) i.e MS08-067",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T09:38:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-18387",
+      "repo_info": "[TheeBlind/CVE-2018-18387](https://github.com/TheeBlind/CVE-2018-18387)",
+      "description": "playSMS &lt; = 1.4.2 - Privilege escalation",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T17:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2018-18026",
+      "repo_info": "[DownWithUp/CVE-2018-18026](https://github.com/DownWithUp/CVE-2018-18026)",
+      "description": "PoC Code for CVE-2018-18026 (exploit by stack overflow)",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T16:51:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[cve-2018/cve-2018-10933](https://github.com/cve-2018/cve-2018-10933)",
+      "description": "no description",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T20:11:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[hackerhouse-opensource/cve-2018-10933](https://github.com/hackerhouse-opensource/cve-2018-10933)",
+      "description": "cve-2018-10933 libssh authentication bypass",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T19:13:45Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[marco-lancini/hunt-for-cve-2018-10933](https://github.com/marco-lancini/hunt-for-cve-2018-10933)",
+      "description": "Hunt for and Exploit the libSSH Authentication Bypass (CVE-2018-10933)",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T15:08:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[likekabin/CVE-2018-10933-libSSH-Authentication-Bypass](https://github.com/likekabin/CVE-2018-10933-libSSH-Authentication-Bypass)",
+      "description": "no description",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T09:27:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[likekabin/CVE-2018-10933_ssh](https://github.com/likekabin/CVE-2018-10933_ssh)",
+      "description": "no description",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T04:10:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-16995",
+      "repo_info": "[gugronnier/CVE-2017-16995](https://github.com/gugronnier/CVE-2017-16995)",
+      "description": "Exploit adapted for a specific PoC on Ubuntu 16.04.01",
+      "date": "2018-10-18",
+      "raw_date": "2018-10-18T10:34:24Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:03.702145",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2018-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

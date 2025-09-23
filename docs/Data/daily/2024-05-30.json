@@ -1,0 +1,125 @@
+{
+  "date": "2024-05-30",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager](https://github.com/Praison001/CVE-2024-4956-Sonatype-Nexus-Repository-Manager)",
+      "description": "Exploit for CVE-2024-4956 affecting all previous Sonatype Nexus Repository 3.x OSS/Pro versions up to and including 3.68.0",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T08:04:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-4358",
+      "repo_info": "[431m/rcetest](https://github.com/431m/rcetest)",
+      "description": "CVE-2024-32002 poc test",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T06:08:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-3293",
+      "repo_info": "[truonghuuphuc/CVE-2024-3293-Poc](https://github.com/truonghuuphuc/CVE-2024-3293-Poc)",
+      "description": "CVE-2024-3293 rtMedia for WordPress, BuddyPress and bbPress &lt;= 4.6.18 - Authenticated (Contributor+) SQL Injection via rtmedia_gallery Shortcode",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T04:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[am-eid/CVE-2024-24919](https://github.com/am-eid/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T23:52:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[Bytenull00/CVE-2024-24919](https://github.com/Bytenull00/CVE-2024-24919)",
+      "description": "Quick and simple script that takes as input a file with multiple URLs to check for the CVE-2024-24919 vulnerability in CHECKPOINT",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T20:14:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[eoslvs/CVE-2024-24919](https://github.com/eoslvs/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T17:26:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[emanueldosreis/CVE-2024-24919](https://github.com/emanueldosreis/CVE-2024-24919)",
+      "description": "POC exploit for CVE-2024-24919 information leakage",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T14:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[LucasKatashi/CVE-2024-24919](https://github.com/LucasKatashi/CVE-2024-24919)",
+      "description": "CVE-2024-24919 Exploit PoC",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T16:23:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[hendprw/CVE-2024-24919](https://github.com/hendprw/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T15:40:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[absolutedesignltd/iconvfix](https://github.com/absolutedesignltd/iconvfix)",
+      "description": "Bash script to patch for CVE-2024-2961",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T13:45:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[c3rrberu5/CVE-2024-24919](https://github.com/c3rrberu5/CVE-2024-24919)",
+      "description": "Nuclei Template to discover CVE-2024-24919. A path traversal vulnerability in CheckPoint SSLVPN.",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T07:55:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-1208",
+      "repo_info": "[Cappricio-Securities/CVE-2024-1208](https://github.com/Cappricio-Securities/CVE-2024-1208)",
+      "description": "LearnDash LMS &lt; 4.10.3 - Sensitive Information Exposure",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T17:55:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[md-thalal/CVE-2023-29489](https://github.com/md-thalal/CVE-2023-29489)",
+      "description": "CVE-2023-29489 is a vulnerability to exploitable in cross-site scripting ( xss ) reflect the cpanel",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T07:20:09Z"
+    },
+    {
+      "cve_id": "CVE-2019-14271",
+      "repo_info": "[Laihoang2k3/CVE_2019_14271](https://github.com/Laihoang2k3/CVE_2019_14271)",
+      "description": "no description",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T14:34:07Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[B1ackCat/cve-2016-5195-DirtyCOW](https://github.com/B1ackCat/cve-2016-5195-DirtyCOW)",
+      "description": "no description",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T13:42:09Z"
+    },
+    {
+      "cve_id": "CVE-2000-0114",
+      "repo_info": "[Cappricio-Securities/CVE-2000-0114](https://github.com/Cappricio-Securities/CVE-2000-0114)",
+      "description": "Microsoft FrontPage Extensions Check (shtml.dll)",
+      "date": "2024-05-30",
+      "raw_date": "2024-05-30T09:55:41Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.710481",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2024-05-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

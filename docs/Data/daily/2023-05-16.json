@@ -1,0 +1,55 @@
+{
+  "date": "2023-05-16",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-34035",
+      "repo_info": "[mouadk/CVE-2023-34035-Poc](https://github.com/mouadk/CVE-2023-34035-Poc)",
+      "description": "no description",
+      "date": "2023-05-16",
+      "raw_date": "2023-05-16T18:26:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-32233",
+      "repo_info": "[oferchen/POC-CVE-2023-32233](https://github.com/oferchen/POC-CVE-2023-32233)",
+      "description": "Use-After-Free in Netfilter nf_tables when processing batch requests CVE-2023-32233",
+      "date": "2023-05-16",
+      "raw_date": "2023-05-16T05:58:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-32233",
+      "repo_info": "[Liuk3r/CVE-2023-32233](https://github.com/Liuk3r/CVE-2023-32233)",
+      "description": "CVE-2023-32233: Linux内核中的安全漏洞",
+      "date": "2023-05-16",
+      "raw_date": "2023-05-16T03:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-32233",
+      "repo_info": "[PIDAN-HEIDASHUAI/CVE-2023-32233](https://github.com/PIDAN-HEIDASHUAI/CVE-2023-32233)",
+      "description": "自用，poc作者为Piotr Krysiuk，在使用前请先阅读README.md",
+      "date": "2023-05-16",
+      "raw_date": "2023-05-16T02:22:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-0386",
+      "repo_info": "[sxlmnwb/CVE-2023-0386](https://github.com/sxlmnwb/CVE-2023-0386)",
+      "description": "Vulnerabilities Exploitation On Ubuntu 22.04",
+      "date": "2023-05-16",
+      "raw_date": "2023-05-16T10:26:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-36944",
+      "repo_info": "[yarocher/lazylist-cve-poc](https://github.com/yarocher/lazylist-cve-poc)",
+      "description": "POC for the CVE-2022-36944 vulnerability exploit",
+      "date": "2023-05-16",
+      "raw_date": "2023-05-16T15:38:49Z"
+    }
+  ],
+  "generated_at": "2025-09-23T19:59:05.200414",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-05-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
