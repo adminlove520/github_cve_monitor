@@ -369,50 +369,178 @@
         const tableSection = markdown.substring(tableStart);
         const tableLines = tableSection.split('\n').slice(2); // 跳过表头
         
+        // 参考mpvulnHub的分类体系，建立更详细的CVE分类规则
         const categories = {
-          'RCE': 0,
-          'XSS': 0,
-          'SQL注入': 0,
-          '路径遍历': 0,
-          '权限绝过': 0,
-          '其他': 0
+          '漏洞利用与攻击': 0,
+          '威胁情报与APT': 0,
+          '应急响应与溯源': 0,
+          '安全运营管理': 0,
+          '红蓝队攻防': 0,
+          '恶意软件分析': 0,
+          '数据安全隐私': 0,
+          '云安全新技术': 0,
+          '应用系统安全': 0,
+          '工业基础设施': 0,
+          '安全工具技术': 0,
+          '其他类型': 0
+        };
+        
+        // 关键词分类规则 - 参考mpvulnHub的关键词匹配体系
+        const classificationRules = {
+          '漏洞利用与攻击': [
+            'rce', 'remote code execution', 'command execution', 'code injection', 'command injection',
+            'sql injection', 'sqli', 'xss', 'cross site scripting', 'csrf', 'ssrf',
+            'file upload', 'file inclusion', 'lfi', 'rfi', 'path traversal', 'directory traversal',
+            'buffer overflow', 'heap overflow', 'stack overflow', 'format string',
+            'privilege escalation', 'elevation', 'bypass', 'authentication bypass',
+            'unauthorized access', 'access control', 'logic flaw', 'race condition',
+            '复现', '漏洞', '漏洞利用', '漏洞挖掘', '注入', '越权', '绕过', '溢出'
+          ],
+          '威胁情报与APT': [
+            'apt', 'threat intelligence', 'malware', 'trojan', 'backdoor', 'botnet',
+            'threat hunting', 'threat detection', 'ioc', 'indicator', 'campaign',
+            'attribution', 'threat actor', 'advanced persistent threat',
+            '威胁情报', 'APT攻击', '恶意软件', '木马', '后门', '僵尸网络', '威胁检测'
+          ],
+          '应急响应与溯源': [
+            'incident response', 'forensics', 'digital forensics', 'incident handling',
+            'attack attribution', 'threat hunting', 'evidence', 'timeline',
+            'incident analysis', 'breach response', 'containment',
+            '应急响应', '溯源分析', '数字取证', '事件响应', '攻击溯源', '证据收集'
+          ],
+          '安全运营管理': [
+            'security operations', 'secops', 'soc', 'siem', 'soar', 'security monitoring',
+            'vulnerability management', 'patch management', 'compliance',
+            'security governance', 'risk assessment', 'security audit',
+            '安全运营', '安全管理', '合规', '风险评估', '安全审计', '漏洞管理'
+          ],
+          '红蓝队攻防': [
+            'red team', 'blue team', 'purple team', 'penetration test', 'pentest',
+            'security assessment', 'attack simulation', 'defensive',
+            'adversary simulation', 'tabletop exercise',
+            '红队', '蓝队', '渗透测试', '攻防演练', '安全评估'
+          ],
+          '恶意软件分析': [
+            'malware analysis', 'reverse engineering', 'dynamic analysis', 'static analysis',
+            'sandbox', 'unpacking', 'obfuscation', 'ransomware', 'crypto',
+            'virus', 'worm', 'adware', 'spyware',
+            '恶意代码', '逆向工程', '勒索软件', '病毒', '蠕虫', '间谍软件'
+          ],
+          '数据安全隐私': [
+            'data breach', 'data leak', 'privacy', 'gdpr', 'pii', 'personal data',
+            'encryption', 'cryptography', 'key management', 'certificate',
+            'authentication', 'authorization', 'identity', 'access control',
+            '数据泄露', '隐私保护', '加密', '身份认证', '访问控制', '密钥管理'
+          ],
+          '云安全新技术': [
+            'cloud security', 'container security', 'kubernetes', 'docker',
+            'devsecops', 'serverless', 'microservices', 'api security',
+            'zero trust', 'artificial intelligence', 'machine learning', 'ai security',
+            '云安全', '容器安全', '微服务', 'AI安全', '零信任', 'API安全'
+          ],
+          '应用系统安全': [
+            'web security', 'application security', 'mobile security', 'api',
+            'web application', 'mobile app', 'ios', 'android',
+            'code review', 'static analysis', 'dynamic analysis',
+            'Web安全', '应用安全', '移动安全', '代码审计'
+          ],
+          '工业基础设施': [
+            'iot security', 'industrial security', 'scada', 'ics', 'ot security',
+            'smart grid', 'critical infrastructure', 'operational technology',
+            'industrial control', 'automation', 'embedded',
+            '物联网安全', '工业安全', '关键基础设施', '工控安全'
+          ],
+          '安全工具技术': [
+            'security tool', 'scanner', 'detection tool', 'analysis tool',
+            'automation', 'orchestration', 'integration', 'framework',
+            'open source', 'commercial tool', 'custom tool',
+            '安全工具', '扫描器', '检测工具', '自动化', '开源工具'
+          ]
         };
         
         let totalCVEs = 0;
         const hotCVEs = [];
         
-        // 分析每个 CVE 记录
-        for (let i = 0; i < Math.min(tableLines.length, 500); i++) { // 限制分析数量以提高性能
+        // 智能分析每个CVE记录 - 使用多维度关键词匹配
+        for (let i = 0; i < Math.min(tableLines.length, 1000); i++) { // 增加分析数量
           const line = tableLines[i].trim();
           if (line && line.startsWith('|')) {
             const cols = line.split('|').map(col => col.trim()).filter(col => col);
             if (cols.length >= 3) {
               totalCVEs++;
+              const cveId = cols[0];
+              const repoInfo = cols[1].toLowerCase();
               const description = cols[2].toLowerCase();
               
-              // 简单分类逻辑
-              if (description.includes('rce') || description.includes('remote') || description.includes('execution')) {
-                categories['RCE']++;
-              } else if (description.includes('xss') || description.includes('script')) {
-                categories['XSS']++;
-              } else if (description.includes('sql') || description.includes('injection')) {
-                categories['SQL注入']++;
-              } else if (description.includes('path') || description.includes('traversal') || description.includes('遍历')) {
-                categories['路径遍历']++;
-              } else if (description.includes('bypass') || description.includes('auth') || description.includes('权限')) {
-                categories['权限绝过']++;
-              } else {
-                categories['其他']++;
+              // 合并所有文本信息进行分析
+              const fullText = `${cveId} ${repoInfo} ${description}`.toLowerCase();
+              
+              let classified = false;
+              
+              // 使用智能关键词匹配进行分类
+              for (const [category, keywords] of Object.entries(classificationRules)) {
+                if (!classified) {
+                  for (const keyword of keywords) {
+                    if (fullText.includes(keyword.toLowerCase())) {
+                      categories[category]++;
+                      classified = true;
+                      break;
+                    }
+                  }
+                }
               }
               
-              // 收集热点CVE（前10个）
-              if (hotCVEs.length < 10) {
+              // 如果没有匹配到任何分类，归入其他类型
+              if (!classified) {
+                categories['其他类型']++;
+              }
+              
+              // 收集热点CVE（前20个，用于后续分析）
+              if (hotCVEs.length < 20) {
                 const cveMatch = cols[0].match(/\[([^\]]+)\]/);
                 const cveId = cveMatch ? cveMatch[1] : cols[0];
+                
+                // 提取GitHub仓库链接
+                const repoLinkMatch = cols[1].match(/\[([^\]]+)\]\(([^)]+)\)/);
+                const repoName = repoLinkMatch ? repoLinkMatch[1] : cols[1];
+                const repoUrl = repoLinkMatch ? repoLinkMatch[2] : cols[1];
+                
+                // 计算热度评分
+                let hotScore = 0;
+                
+                // 基于关键词的热度评分
+                const highRiskKeywords = ['rce', 'remote code execution', 'critical', 'high', '严重', '高危'];
+                const mediumRiskKeywords = ['bypass', 'privilege', 'elevation', 'unauthorized', '绕过', '提权'];
+                const trendsKeywords = ['2025','2024', '2023', 'new', 'recent', 'latest', '最新', '新发现'];
+                
+                for (const keyword of highRiskKeywords) {
+                  if (fullText.includes(keyword)) hotScore += 10;
+                }
+                for (const keyword of mediumRiskKeywords) {
+                  if (fullText.includes(keyword)) hotScore += 5;
+                }
+                for (const keyword of trendsKeywords) {
+                  if (fullText.includes(keyword)) hotScore += 3;
+                }
+                
+                // 根据CVE编号年份调整热度
+                const yearMatch = cveId.match(/CVE-(\d{4})/);
+                if (yearMatch) {
+                  const year = parseInt(yearMatch[1]);
+                  const currentYear = new Date().getFullYear();
+                  if (year === currentYear) hotScore += 15;
+                  else if (year === currentYear - 1) hotScore += 10;
+                  else if (year >= currentYear - 2) hotScore += 5;
+                }
+                
                 hotCVEs.push({
                   id: cveId,
                   description: cols[2],
-                  repo: cols[1]
+                  repo: repoUrl || repoName, // 优先使用URL，如果没有则使用名称
+                  hotScore: hotScore,
+                  category: classified ? Object.keys(categories).find(cat => 
+                    classificationRules[cat].some(keyword => fullText.includes(keyword.toLowerCase()))
+                  ) : '其他类型'
                 });
               }
             }
@@ -440,34 +568,110 @@
       }
     }
     
-    // 渲染CVE分类分布图
+    // 渲染CVE分类分布图 - 使用更丰富的颜色和更好的视觉效果
     function renderCVEDistribution(categories, total) {
       const container = document.getElementById('cve-distribution');
       let html = '';
       
-      Object.entries(categories).forEach(([category, count]) => {
-        const percentage = total > 0 ? Math.round((count / total) * 100) : 0;
+      // 按数量排序分类
+      const sortedCategories = Object.entries(categories)
+        .sort(([,a], [,b]) => b - a)
+        .filter(([, count]) => count > 0); // 只显示有数据的分类
+      
+      if (sortedCategories.length === 0) {
+        html = `<div style="text-align: center; padding: 20px; color: #666;">📄 暂无CVE分类数据</div>`;
+      } else {
+        // 定义更丰富的颜色方案 - 参考专业安全领域配色
         const colors = {
-          'RCE': '#EF3A38',
-          'XSS': '#ff6b6b',
-          'SQL注入': '#ffc107',
-          '路径遍历': '#28a745',
-          '权限绝过': '#6f42c1',
-          '其他': '#6c757d'
+          '漏洞利用与攻击': '#EF3A38',    // 红色 - 最高危险
+          '威胁情报与APT': '#ff4757',      // 深红色 - 高危险
+          '应急响应与溯源': '#ff6348',    // 橙红色 - 紧急
+          '安全运营管理': '#ffa502',     // 橙色 - 管理
+          '红蓝队攻防': '#ff7675',       // 粉红色 - 攻防
+          '恶意软件分析': '#e17055',    // 棕色 - 恶意
+          '数据安全隐私': '#6c5ce7',    // 紫色 - 隐私
+          '云安全新技术': '#00b894',    // 绿色 - 新技术
+          '应用系统安全': '#0984e3',    // 蓝色 - 应用
+          '工业基础设施': '#fdcb6e',    // 黄色 - 基础设施
+          '安全工具技术': '#74b9ff',    // 浅蓝色 - 工具
+          '其他类型': '#636e72'           // 灰色 - 其他
         };
         
+        // 添加统计概览
         html += `
-          <div class="progress-label">${category} (${count}个)</div>
-          <div class="progress-bar">
-            <div class="progress-fill" style="width: ${percentage}%; background: ${colors[category] || '#6c757d'};">${percentage}%</div>
+          <div style="margin-bottom: 25px; padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #EF3A38;">
+            <h4 style="margin: 0 0 10px 0; color: #333;">📈 分类统计概览</h4>
+            <p style="margin: 0; color: #666;">
+              总计 <strong style="color: #EF3A38;">${total}</strong> 个CVE，
+              已分类为 <strong style="color: #EF3A38;">${sortedCategories.length}</strong> 个主要类别
+            </p>
           </div>
         `;
-      });
+        
+        sortedCategories.forEach(([category, count]) => {
+          const percentage = total > 0 ? Math.round((count / total) * 100) : 0;
+          const color = colors[category] || '#6c757d';
+          
+          // 计算相对安全等级
+          let riskLevel = '低危';
+          let riskIcon = '🟢';
+          if (category.includes('漏洞利用') || category.includes('威胁情报')) {
+            riskLevel = '高危';
+            riskIcon = '🔴';
+          } else if (category.includes('应急响应') || category.includes('恶意软件')) {
+            riskLevel = '中危';
+            riskIcon = '🟡';
+          }
+          
+          html += `
+            <div style="margin-bottom: 20px;">
+              <div class="progress-label" style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 8px;">
+                <span style="font-weight: 600; color: #333;">
+                  ${riskIcon} ${category}
+                </span>
+                <span style="color: #666; font-size: 0.9em;">
+                  ${count}个 (${percentage}%) 
+                  <span style="background: ${color}; color: white; padding: 2px 6px; border-radius: 10px; font-size: 0.75em; margin-left: 5px;">
+                    ${riskLevel}
+                  </span>
+                </span>
+              </div>
+              <div class="progress-bar" style="height: 30px; position: relative; background: #e9ecef; border-radius: 15px; overflow: hidden;">
+                <div class="progress-fill" style="
+                  width: ${Math.max(percentage, 2)}%; 
+                  background: linear-gradient(135deg, ${color}, ${color}dd);
+                  height: 100%;
+                  display: flex;
+                  align-items: center;
+                  justify-content: flex-end;
+                  padding-right: 12px;
+                  color: white;
+                  font-weight: 600;
+                  font-size: 0.9em;
+                  transition: all 0.6s ease;
+                  box-shadow: inset 0 1px 3px rgba(0,0,0,0.2);
+                ">${percentage}%</div>
+              </div>
+            </div>
+          `;
+        });
+        
+        // 添加分类说明
+        html += `
+          <div style="margin-top: 25px; padding: 15px; background: #e8f4fd; border-radius: 8px; border-left: 4px solid #0984e3;">
+            <h5 style="margin: 0 0 10px 0; color: #0984e3;">📁 分类说明</h5>
+            <p style="margin: 0; color: #555; font-size: 0.9em; line-height: 1.6;">
+              参考 <strong>mpvulnHub</strong> 的专业安全分类体系，采用多维度关键词匹配算法，
+              对CVE进行智能分类。分类结果可以帮助安全团队更好地理解威胁景观和关注重点。
+            </p>
+          </div>
+        `;
+      }
       
       container.innerHTML = html;
     }
     
-    // 渲染热点CVE
+    // 渲染热点CVE - 使用智能热度评分系统
     function renderHotCVEs(hotCVEs) {
       const container = document.getElementById('hot-cves');
       
@@ -480,20 +684,177 @@
         return;
       }
       
-      let html = '<div style="display: grid; gap: 15px;">';
-      const colors = ['#EF3A38', '#ff6b6b', '#ffc107', '#28a745', '#6f42c1'];
+      // 按热度评分排序，取前8个
+      const topHotCVEs = hotCVEs
+        .sort((a, b) => b.hotScore - a.hotScore)
+        .slice(0, 8);
       
-      hotCVEs.slice(0, 5).forEach((cve, index) => {
-        const color = colors[index] || '#6c757d';
+      // 定义热度等级和颜色
+      const getHeatLevel = (score) => {
+        if (score >= 25) return { level: '极热', color: '#EF3A38', icon: '🔥🔥🔥' };
+        if (score >= 15) return { level: '高热', color: '#ff6348', icon: '🔥🔥' };
+        if (score >= 8) return { level: '中热', color: '#ffa502', icon: '🔥' };
+        return { level: '低热', color: '#74b9ff', icon: '🟡' };
+      };
+      
+      // 分类颜色映射
+      const categoryColors = {
+        '漏洞利用与攻击': '#EF3A38',
+        '威胁情报与APT': '#ff4757',
+        '应急响应与溯源': '#ff6348',
+        '安全运营管理': '#ffa502',
+        '红蓝队攻防': '#ff7675',
+        '恶意软件分析': '#e17055',
+        '数据安全隐私': '#6c5ce7',
+        '云安全新技术': '#00b894',
+        '应用系统安全': '#0984e3',
+        '工业基础设施': '#fdcb6e',
+        '安全工具技术': '#74b9ff',
+        '其他类型': '#636e72'
+      };
+      
+      let html = `
+        <div style="margin-bottom: 20px; padding: 15px; background: #fff3cd; border-radius: 8px; border-left: 4px solid #ffc107;">
+          <h4 style="margin: 0 0 10px 0; color: #856404;">🏆 热点CVE排行榜</h4>
+          <p style="margin: 0; color: #856404; font-size: 0.9em;">
+            基于危险等级、时间新近度、关键词匹配等多个维度计算热度评分，帮助您关注最重要的安全威胁。
+          </p>
+        </div>
+        <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 15px;">
+      `;
+      
+      topHotCVEs.forEach((cve, index) => {
+        const heatInfo = getHeatLevel(cve.hotScore);
+        const categoryColor = categoryColors[cve.category] || '#636e72';
+        
+        // 截断描述文本
+        const truncatedDesc = cve.description.length > 120 
+          ? cve.description.substring(0, 120) + '...' 
+          : cve.description;
+        
+        // 排名徽章
+        let rankBadge = '';
+        if (index === 0) rankBadge = '🥇';
+        else if (index === 1) rankBadge = '🥈';
+        else if (index === 2) rankBadge = '🥉';
+        else rankBadge = `🔢 ${index + 1}`;
+        
         html += `
-          <div style="padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid ${color};">
-            <h4 style="margin: 0 0 5px 0; color: ${color};">${cve.id}</h4>
-            <p style="margin: 0; color: #666;">${cve.description}</p>
+          <div style="
+            padding: 20px; 
+            background: white; 
+            border-radius: 12px; 
+            border: 2px solid ${heatInfo.color}; 
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+            position: relative;
+          " onmouseover="this.style.transform='translateY(-2px)'; this.style.boxShadow='0 8px 20px rgba(0,0,0,0.15)';" 
+             onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 12px rgba(0,0,0,0.1)';">
+            
+            <!-- 排名徽章 -->
+            <div style="position: absolute; top: -10px; left: 15px; background: ${heatInfo.color}; color: white; padding: 5px 12px; border-radius: 15px; font-weight: bold; font-size: 0.85em;">
+              ${rankBadge}
+            </div>
+            
+            <!-- CVE信息头部 -->
+            <div style="margin-top: 10px; margin-bottom: 15px;">
+              <h4 style="margin: 0 0 8px 0; color: ${heatInfo.color}; font-size: 1.1em; display: flex; align-items: center; gap: 8px;">
+                <a href="https://www.cve.org/CVERecord?id=${cve.id}" target="_blank" style="
+                  font-family: 'Courier New', monospace; 
+                  font-weight: bold;
+                  color: ${heatInfo.color};
+                  text-decoration: none;
+                  border-bottom: 1px dotted ${heatInfo.color};
+                " onmouseover="this.style.textDecoration='underline';" onmouseout="this.style.textDecoration='none';">
+                  ${cve.id}
+                </a>
+                <span style="font-size: 0.9em;">${heatInfo.icon}</span>
+              </h4>
+              
+              <!-- 热度和分类标签 -->
+              <div style="display: flex; gap: 8px; margin-bottom: 12px;">
+                <span style="
+                  background: ${heatInfo.color}; 
+                  color: white; 
+                  padding: 3px 8px; 
+                  border-radius: 12px; 
+                  font-size: 0.75em; 
+                  font-weight: 600;
+                ">
+                  ${heatInfo.level} (${cve.hotScore}分)
+                </span>
+                <span style="
+                  background: ${categoryColor}; 
+                  color: white; 
+                  padding: 3px 8px; 
+                  border-radius: 12px; 
+                  font-size: 0.75em; 
+                  font-weight: 500;
+                ">
+                  ${cve.category}
+                </span>
+              </div>
+            </div>
+            
+            <!-- CVE描述 -->
+            <p style="
+              margin: 0 0 12px 0; 
+              color: #555; 
+              line-height: 1.5; 
+              font-size: 0.9em;
+              background: #f8f9fa;
+              padding: 12px;
+              border-radius: 8px;
+              border-left: 3px solid ${heatInfo.color};
+            ">
+              ${truncatedDesc}
+            </p>
+            
+            <!-- 相关仓库信息 -->
+            <div style="
+              color: #666; 
+              font-size: 0.8em; 
+              padding: 8px 12px;
+              background: #e9ecef;
+              border-radius: 6px;
+              display: flex;
+              align-items: center;
+              gap: 6px;
+            ">
+              <span>💾</span>
+              <span>相关仓库：</span>
+              <a href="${cve.repo.startsWith('http') ? cve.repo : 'https://github.com/' + cve.repo}" 
+                 target="_blank" 
+                 style="
+                   font-family: 'Courier New', monospace;
+                   color: #0366d6;
+                   text-decoration: none;
+                   border-bottom: 1px dotted #0366d6;
+                 " 
+                 onmouseover="this.style.textDecoration='underline';" 
+                 onmouseout="this.style.textDecoration='none';">
+                ${cve.repo.replace('https://github.com/', '').replace('http://github.com/', '')}
+              </a>
+            </div>
           </div>
         `;
       });
       
-      html += '</div>';
+      html += `
+        </div>
+        
+        <!-- 热度评分说明 -->
+        <div style="margin-top: 25px; padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #6c757d;">
+          <h5 style="margin: 0 0 10px 0; color: #495057;">📊 热度评分算法</h5>
+          <div style="color: #666; font-size: 0.9em; line-height: 1.6;">
+            <p style="margin: 0 0 8px 0;">• <strong>高危关键词</strong>：rce, critical, high 等 (+10分)</p>
+            <p style="margin: 0 0 8px 0;">• <strong>中危关键词</strong>：bypass, privilege, unauthorized 等 (+5分)</p>
+            <p style="margin: 0 0 8px 0;">• <strong>时间新近度</strong>：当年CVE (+15分)，去年 (+10分)，近两年 (+5分)</p>
+            <p style="margin: 0;">• <strong>趋势关键词</strong>：new, latest, recent 等 (+3分)</p>
+          </div>
+        </div>
+      `;
+      
       container.innerHTML = html;
     }
     
