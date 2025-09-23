@@ -286,15 +286,11 @@
   </div>
 
   <script>
-    // GitHub API Token (注意：在生产环境中应该使用服务器端代理来保护token)
-    const GITHUB_TOKEN = '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';
-    
-    // 创建带认证的fetch请求
-    function authenticatedFetch(url, options = {}) {
+    // 创建公共API调用请求（已移除敏感token）
+    function publicFetch(url, options = {}) {
       return fetch(url, {
         ...options,
         headers: {
-          'Authorization': `token ${GITHUB_TOKEN}`,
           'Accept': 'application/vnd.github.v3+json',
           ...options.headers
         }
@@ -336,9 +332,9 @@
           console.warn('README.md读取失败');
         }
         
-        // 方案2: 尝试GitHub API（使用认证token）
+        // 方案2: 尝试GitHub API（使用公共API）
         try {
-          const apiResponse = await authenticatedFetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
+          const apiResponse = await publicFetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
           
           if (apiResponse.ok) {
             const repoData = await apiResponse.json();
@@ -346,7 +342,7 @@
             systemUptime = '100%';
             const rateLimitHeader = apiResponse.headers.get('X-RateLimit-Limit');
             if (rateLimitHeader) {
-              apiLimit = rateLimitHeader + '/小时 (已认证)';
+              apiLimit = rateLimitHeader + '/小时';
             }
             
             // 根据仓库创建时间计算更精确的监控天数
@@ -356,11 +352,11 @@
               monitoringDays = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24));
             }
             
-            console.log('✅ GitHub API调用成功 (已认证)');
+            console.log('✅ GitHub API调用成功 (公共API)');
           } else if (apiResponse.status === 403) {
-            console.warn('⚠️ 仍然遇到速率限制，请检查token有效性');
+            console.warn('⚠️ 遇到速率限制，使用公共API限制');
             systemUptime = '95%';
-            apiLimit = '已达限制';
+            apiLimit = '公共限制';
           }
         } catch (apiError) {
           console.warn('🔄 API调用失败:', apiError.message);

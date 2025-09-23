@@ -90,9 +90,13 @@
       reportList.innerHTML = '<li class="report-item"><div class="loading">🔄 正在扫描报告目录...</div></li>';
       
       try {
-        // 使用GitHub API获取Data目录列表
+        // 使用GitHub公共API获取Data目录列表
         const apiUrl = 'https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data';
-        const response = await fetch(apiUrl);
+        const response = await fetch(apiUrl, {
+          headers: {
+            'Accept': 'application/vnd.github.v3+json'
+          }
+        });
         
         if (response.ok) {
           const data = await response.json();
