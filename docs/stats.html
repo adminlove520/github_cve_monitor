@@ -180,75 +180,28 @@
     </div>
     
     <div class="chart-container">
-      <div class="chart-title">📈 CVE分类分布（预览）</div>
-      <div class="progress-label">Remote Code Execution (RCE)</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: 35%;">35%</div>
-      </div>
-      
-      <div class="progress-label">SQL Injection</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: 25%;">25%</div>
-      </div>
-      
-      <div class="progress-label">Cross-Site Scripting (XSS)</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: 20%;">20%</div>
-      </div>
-      
-      <div class="progress-label">Path Traversal</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: 12%;">12%</div>
-      </div>
-      
-      <div class="progress-label">Authentication Bypass</div>
-      <div class="progress-bar">
-        <div class="progress-fill" style="width: 8%;">8%</div>
+      <div class="chart-title">📈 CVE分类分布</div>
+      <div id="cve-distribution">
+        <div style="text-align: center; padding: 20px; color: #666;">
+          🔄 正在分析CVE数据...
+        </div>
       </div>
     </div>
     
     <div class="chart-container">
       <div class="chart-title">📅 每日增长趋势</div>
-      <table class="trend-table">
-        <thead>
-          <tr>
-            <th>日期</th>
-            <th>新增CVE</th>
-            <th>累计CVE</th>
-            <th>增长率</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>2025-09-23</td>
-            <td>-</td>
-            <td>27,113+</td>
-            <td>-</td>
-          </tr>
-          <tr>
-            <td>2025-09-22</td>
-            <td>-</td>
-            <td>27,113+</td>
-            <td>-</td>
-          </tr>
-        </tbody>
-      </table>
+      <div id="daily-trend">
+        <div style="text-align: center; padding: 20px; color: #666;">
+          🔄 正在加载每日趋势数据...
+        </div>
+      </div>
     </div>
     
     <div class="chart-container">
       <div class="chart-title">🎯 本周热点CVE</div>
-      <div style="display: grid; gap: 15px;">
-        <div style="padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #EF3A38;">
-          <h4 style="margin: 0 0 5px 0; color: #EF3A38;">CVE-2025-8088</h4>
-          <p style="margin: 0; color: #666;">WinRAR路径遍历漏洞，多个POC发布</p>
-        </div>
-        <div style="padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #ff6b6b;">
-          <h4 style="margin: 0 0 5px 0; color: #ff6b6b;">CVE-2025-57819</h4>
-          <p style="margin: 0; color: #666;">FreePBX SQL注入漏洞，活跃利用</p>
-        </div>
-        <div style="padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #ffc107;">
-          <h4 style="margin: 0 0 5px 0; color: #ffc107;">CVE-2025-5777</h4>
-          <p style="margin: 0; color: #666;">Citrix内存泄露漏洞</p>
+      <div id="hot-cves">
+        <div style="text-align: center; padding: 20px; color: #666;">
+          🔄 正在分析热点CVE...
         </div>
       </div>
     </div>
@@ -347,17 +300,19 @@
           // 更新CVE总数
           document.getElementById('total-cves').textContent = totalRecords + '+';
           
+          // 获取仓库创建时间并计算监控天数
+          const repoData = await apiResponse.json();
+          const repoCreatedAt = new Date(repoData.created_at);
+          
           // 计算监控天数
           if (updateTime !== '未知') {
-            const startDate = new Date('2025-09-22'); // 项目启动日期
             const currentDate = new Date(updateTime);
-            const daysDiff = Math.ceil((currentDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+            const daysDiff = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24)) + 1;
             document.getElementById('days-running').textContent = Math.max(1, daysDiff);
           } else {
             // 如果无法获取更新时间，使用当前日期计算
-            const startDate = new Date('2025-09-22');
             const currentDate = new Date();
-            const daysDiff = Math.ceil((currentDate - startDate) / (1000 * 60 * 60 * 24)) + 1;
+            const daysDiff = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24)) + 1;
             document.getElementById('days-running').textContent = Math.max(1, daysDiff);
           }
         }
@@ -396,6 +351,271 @@
       }
     }
     
+    // 分析CVE数据并生成分类统计
+    async function analyzeCVEData() {
+      try {
+        const response = await fetch('README.md');
+        if (!response.ok) throw new Error('无法加载README.md');
+        
+        const markdown = await response.text();
+        const lines = markdown.split('\n');
+        
+        // 查找表格数据
+        const tableStart = markdown.indexOf('| CVE | 相关仓库');
+        if (tableStart === -1) {
+          throw new Error('未找到CVE表格数据');
+        }
+        
+        const tableSection = markdown.substring(tableStart);
+        const tableLines = tableSection.split('\n').slice(2); // 跳过表头
+        
+        const categories = {
+          'RCE': 0,
+          'XSS': 0,
+          'SQL注入': 0,
+          '路径遍历': 0,
+          '权限绝过': 0,
+          '其他': 0
+        };
+        
+        let totalCVEs = 0;
+        const hotCVEs = [];
+        
+        // 分析每个 CVE 记录
+        for (let i = 0; i < Math.min(tableLines.length, 500); i++) { // 限制分析数量以提高性能
+          const line = tableLines[i].trim();
+          if (line && line.startsWith('|')) {
+            const cols = line.split('|').map(col => col.trim()).filter(col => col);
+            if (cols.length >= 3) {
+              totalCVEs++;
+              const description = cols[2].toLowerCase();
+              
+              // 简单分类逻辑
+              if (description.includes('rce') || description.includes('remote') || description.includes('execution')) {
+                categories['RCE']++;
+              } else if (description.includes('xss') || description.includes('script')) {
+                categories['XSS']++;
+              } else if (description.includes('sql') || description.includes('injection')) {
+                categories['SQL注入']++;
+              } else if (description.includes('path') || description.includes('traversal') || description.includes('遍历')) {
+                categories['路径遍历']++;
+              } else if (description.includes('bypass') || description.includes('auth') || description.includes('权限')) {
+                categories['权限绝过']++;
+              } else {
+                categories['其他']++;
+              }
+              
+              // 收集热点CVE（前10个）
+              if (hotCVEs.length < 10) {
+                const cveMatch = cols[0].match(/\[([^\]]+)\]/);
+                const cveId = cveMatch ? cveMatch[1] : cols[0];
+                hotCVEs.push({
+                  id: cveId,
+                  description: cols[2],
+                  repo: cols[1]
+                });
+              }
+            }
+          }
+        }
+        
+        // 渲染CVE分类分布
+        renderCVEDistribution(categories, totalCVEs);
+        
+        // 渲染热点CVE
+        renderHotCVEs(hotCVEs);
+        
+      } catch (error) {
+        console.error('分析CVE数据失败:', error);
+        document.getElementById('cve-distribution').innerHTML = `
+          <div style="text-align: center; padding: 20px; color: #dc3545;">
+            🚨 分析失败: ${error.message}
+          </div>
+        `;
+        document.getElementById('hot-cves').innerHTML = `
+          <div style="text-align: center; padding: 20px; color: #dc3545;">
+            🚨 加载失败: ${error.message}
+          </div>
+        `;
+      }
+    }
+    
+    // 渲染CVE分类分布图
+    function renderCVEDistribution(categories, total) {
+      const container = document.getElementById('cve-distribution');
+      let html = '';
+      
+      Object.entries(categories).forEach(([category, count]) => {
+        const percentage = total > 0 ? Math.round((count / total) * 100) : 0;
+        const colors = {
+          'RCE': '#EF3A38',
+          'XSS': '#ff6b6b',
+          'SQL注入': '#ffc107',
+          '路径遍历': '#28a745',
+          '权限绝过': '#6f42c1',
+          '其他': '#6c757d'
+        };
+        
+        html += `
+          <div class="progress-label">${category} (${count}个)</div>
+          <div class="progress-bar">
+            <div class="progress-fill" style="width: ${percentage}%; background: ${colors[category] || '#6c757d'};">${percentage}%</div>
+          </div>
+        `;
+      });
+      
+      container.innerHTML = html;
+    }
+    
+    // 渲染热点CVE
+    function renderHotCVEs(hotCVEs) {
+      const container = document.getElementById('hot-cves');
+      
+      if (hotCVEs.length === 0) {
+        container.innerHTML = `
+          <div style="text-align: center; padding: 20px; color: #666;">
+            📄 暂无热点CVE数据
+          </div>
+        `;
+        return;
+      }
+      
+      let html = '<div style="display: grid; gap: 15px;">';
+      const colors = ['#EF3A38', '#ff6b6b', '#ffc107', '#28a745', '#6f42c1'];
+      
+      hotCVEs.slice(0, 5).forEach((cve, index) => {
+        const color = colors[index] || '#6c757d';
+        html += `
+          <div style="padding: 15px; background: #f8f9fa; border-radius: 8px; border-left: 4px solid ${color};">
+            <h4 style="margin: 0 0 5px 0; color: ${color};">${cve.id}</h4>
+            <p style="margin: 0; color: #666;">${cve.description}</p>
+          </div>
+        `;
+      });
+      
+      html += '</div>';
+      container.innerHTML = html;
+    }
+    
+    // 加载每日趋势数据
+    async function loadDailyTrend() {
+      try {
+        // 获取Data目录下的所有报告
+        const apiUrl = 'https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data';
+        const response = await fetch(apiUrl);
+        
+        if (!response.ok) throw new Error('GitHub API调用失败');
+        
+        const data = await response.json();
+        const directories = data.filter(item => item.type === 'dir' && item.name.match(/\d{4}-W\d{2}-\d{2}-\d{2}/))
+                               .map(dir => ({
+                                 name: dir.name,
+                                 date: dir.name.split('-').slice(-2).join('-')
+                               }))
+                               .sort((a, b) => b.date.localeCompare(a.date))
+                               .slice(0, 7); // 只取最近7天
+        
+        const trendData = [];
+        
+        // 为每个目录获取报告数据
+        for (const dir of directories) {
+          try {
+            const dirResponse = await fetch(`https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data/${dir.name}`);
+            if (dirResponse.ok) {
+              const dirData = await dirResponse.json();
+              const reportFile = dirData.find(file => file.name.startsWith('daily_') && file.name.endsWith('.md'));
+              
+              if (reportFile) {
+                const reportResponse = await fetch(reportFile.download_url);
+                if (reportResponse.ok) {
+                  const reportContent = await reportResponse.text();
+                  const lines = reportContent.split('\n');
+                  
+                  let dailyCount = 0;
+                  for (const line of lines.slice(0, 20)) {
+                    if (line.includes('总记录数')) {
+                      const match = line.match(/(\d+)/);
+                      if (match) dailyCount = parseInt(match[1]);
+                      break;
+                    }
+                  }
+                  
+                  trendData.push({
+                    date: dir.date,
+                    count: dailyCount,
+                    total: dailyCount // 这里简化处理，实际上需要累计
+                  });
+                }
+              }
+            }
+          } catch (dirError) {
+            console.warn(`加载目录 ${dir.name} 失败:`, dirError);
+          }
+        }
+        
+        // 渲染趋势表格
+        renderDailyTrend(trendData);
+        
+      } catch (error) {
+        console.error('加载每日趋势失败:', error);
+        document.getElementById('daily-trend').innerHTML = `
+          <div style="text-align: center; padding: 20px; color: #dc3545;">
+            🚨 加载失败: ${error.message}
+          </div>
+        `;
+      }
+    }
+    
+    // 渲染每日趋势表格
+    function renderDailyTrend(trendData) {
+      const container = document.getElementById('daily-trend');
+      
+      if (trendData.length === 0) {
+        container.innerHTML = `
+          <div style="text-align: center; padding: 20px; color: #666;">
+            📄 暂无趋势数据
+          </div>
+        `;
+        return;
+      }
+      
+      let html = `
+        <table class="trend-table">
+          <thead>
+            <tr>
+              <th>日期</th>
+              <th>新增CVE</th>
+              <th>累计CVE</th>
+              <th>增长率</th>
+            </tr>
+          </thead>
+          <tbody>
+      `;
+      
+      trendData.forEach((day, index) => {
+        const prevDay = trendData[index + 1];
+        const growthRate = prevDay && prevDay.count > 0 
+          ? ((day.count - prevDay.count) / prevDay.count * 100).toFixed(1) + '%'
+          : '-';
+        
+        html += `
+          <tr>
+            <td>${day.date}</td>
+            <td>${day.count.toLocaleString()}</td>
+            <td>${day.total.toLocaleString()}</td>
+            <td>${growthRate}</td>
+          </tr>
+        `;
+      });
+      
+      html += `
+          </tbody>
+        </table>
+      `;
+      
+      container.innerHTML = html;
+    }
+    
     // 加载并解析stats.md文件
     async function loadStats() {
       try {
@@ -422,7 +642,9 @@
     document.addEventListener('DOMContentLoaded', async function() {
       await Promise.all([
         loadDynamicStats(),
-        loadStats()
+        loadStats(),
+        analyzeCVEData(),
+        loadDailyTrend()
       ]);
     });
   </script>
