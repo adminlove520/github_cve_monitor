@@ -1,6 +1,6 @@
 {
   "date": "2025-09-24",
-  "count": 6,
+  "count": 7,
   "cves": [
     {
       "cve_id": "CVE-2025-8088",
@@ -43,11 +43,18 @@
       "description": "the task from C*****k",
       "date": "2025-09-24",
       "raw_date": "2025-09-24T07:22:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-10184",
+      "repo_info": "[People-11/CVE-2025-10184_PoC](https://github.com/People-11/CVE-2025-10184_PoC)",
+      "description": "no description",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T09:24:45Z"
     }
   ],
-  "generated_at": "2025-09-24T09:41:14.834286",
+  "generated_at": "2025-09-24T10:09:29.637954",
   "metadata": {
-    "total_cves": 6,
+    "total_cves": 7,
     "date_range": "2025-09-24",
     "source": "README.md",
     "script_version": "2.0"

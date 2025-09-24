@@ -1,8 +1,8 @@
 {
-  "generated_at": "2025-09-24T09:41:14.840323",
+  "generated_at": "2025-09-24T10:09:29.644185",
   "script_version": "2.0",
   "total_files": 5953,
-  "total_cves": 26847,
+  "total_cves": 26848,
   "date_range": {
     "start": "2009-06-08",
     "end": "2025-09-24"
@@ -35729,9 +35729,9 @@
     },
     {
       "date": "2025-09-24",
-      "daily_count": 6,
-      "cumulative_total": 26847,
-      "growth_rate": -71.43
+      "daily_count": 7,
+      "cumulative_total": 26848,
+      "growth_rate": -66.67
     }
   ],
   "recent_7_days": [
@@ -35773,9 +35773,9 @@
     },
     {
       "date": "2025-09-24",
-      "daily_count": 6,
-      "cumulative_total": 26847,
-      "growth_rate": -71.43
+      "daily_count": 7,
+      "cumulative_total": 26848,
+      "growth_rate": -66.67
     }
   ],
   "recent_30_days": [
@@ -35955,9 +35955,9 @@
     },
     {
       "date": "2025-09-24",
-      "daily_count": 6,
-      "cumulative_total": 26847,
-      "growth_rate": -71.43
+      "daily_count": 7,
+      "cumulative_total": 26848,
+      "growth_rate": -66.67
     }
   ],
   "daily_stats": [
@@ -71676,7 +71676,7 @@
     {
       "file": "2025-09-24.json",
       "date": "2025-09-24",
-      "count": 6,
+      "count": 7,
       "path": "../docs/Data/daily/2025-09-24.json"
     }
   ]
