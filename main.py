@@ -233,7 +233,10 @@ def get_info(year):
         # 添加请求头的调试信息
         print(f"DEBUG: 请求头: {headers}")
         
-        while True:
+        max_retries = 3
+        retry_count = 0
+        
+        while retry_count < max_retries:
             api = f"https://api.github.com/search/repositories?q=CVE-{year}&sort=updated&page={page}&per_page={per_page}"
             print(f"DEBUG: API请求URL: {api}")
             response = requests.get(api, headers=headers)
@@ -242,7 +245,14 @@ def get_info(year):
             print(f"DEBUG: API请求状态码: {response.status_code}")
             
             if 'X-RateLimit-Limit' in response.headers:
-                print(f"API Rate Limit: {response.headers.get('X-RateLimit-Remaining')}/{response.headers.get('X-RateLimit-Limit')}")
+                remaining = response.headers.get('X-RateLimit-Remaining')
+                limit = response.headers.get('X-RateLimit-Limit')
+                print(f"API Rate Limit: {remaining}/{limit}")
+                
+                # 如果剩余请求次数很少，等待一段时间
+                if remaining and int(remaining) < 10:
+                    print(f"警告: 接近速率限制，剩余请求次数: {remaining}")
+                    time.sleep(60)  # 等待1分钟
 
             # 处理403错误
             if response.status_code == 403:
@@ -250,15 +260,34 @@ def get_info(year):
                 print(f"响应内容: {response.text}")
                 if 'X-GitHub-SSO' in response.headers:
                     print(f"SSO要求: {response.headers.get('X-GitHub-SSO')}")
+                
+                # 检查是否是速率限制错误
+                if 'rate limit' in response.text.lower():
+                    print("检测到速率限制，等待一段时间后重试...")
+                    time.sleep(60)  # 等待1分钟后再重试
+                    retry_count += 1
+                    continue
+                else:
+                    break
+
+            # 处理401错误（认证失败）
+            if response.status_code == 401:
+                print(f"错误: GitHub API返回401 Unauthorized")
+                print(f"响应内容: {response.text}")
                 break
 
             req = response.json()
             
             # 检查是否有错误信息
-            if "message" in req and "error" in req["message"].lower():
-                print(f"API错误: {req['message']}")
-                break
-                
+            if "message" in req:
+                print(f"API响应消息: {req['message']}")
+                # 如果是速率限制错误，等待后重试
+                if "rate limit" in req['message'].lower() or "limit" in req['message'].lower():
+                    print("检测到速率限制错误，等待一段时间后重试...")
+                    time.sleep(60)  # 等待1分钟后再重试
+                    retry_count += 1
+                    continue
+
             items = req.get("items")
 
             if not items:
@@ -275,6 +304,11 @@ def get_info(year):
             if not github_token:
                 count = random.randint(3, 15)
                 time.sleep(count)
+            else:
+                # 有token时也稍微等待，避免触发速率限制
+                time.sleep(1)
+
+            retry_count = 0  # 重置重试计数
 
         return all_items
     except Exception as e:
