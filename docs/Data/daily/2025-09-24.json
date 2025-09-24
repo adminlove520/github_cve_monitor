@@ -1,0 +1,20 @@
+{
+  "date": "2025-09-24",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-34100",
+      "repo_info": "[hyeonyeonglee/CVE-2025-34100](https://github.com/hyeonyeonglee/CVE-2025-34100)",
+      "description": "CVE-2025-34100 test",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T00:52:36Z"
+    }
+  ],
+  "generated_at": "2025-09-24T05:59:04.103349",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2025-09-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
