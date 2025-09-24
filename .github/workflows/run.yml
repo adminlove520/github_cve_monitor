@@ -55,7 +55,7 @@ jobs:
           # 检查是否配置了secrets.GH_TOKEN，如果没有则使用GitHub Actions内置的GITHUB_TOKEN
           if [ -z "${{ secrets.GH_TOKEN }}" ]; then
             echo "未配置secrets.GH_TOKEN，使用GitHub Actions内置的GITHUB_TOKEN"
-            WIKI_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+            WIKI_TOKEN="${{ secrets.GH_TOKEN }}"
           else
             echo "使用配置的secrets.GH_TOKEN"
             WIKI_TOKEN="${{ secrets.GH_TOKEN }}"
