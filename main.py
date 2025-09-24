@@ -10,6 +10,7 @@ import re
 import os
 import locale
 from pathlib import Path
+import json
 
 # 设置中文环境
 try:
@@ -163,12 +164,49 @@ def update_sidebar():
         with open(sidebar_path, 'w', encoding='utf-8') as f:
             f.writelines(new_lines)
 
+def load_config():
+    """从配置文件加载配置信息"""
+    config_paths = [
+        "docs/Data/config.json",
+        "docs/config.json",
+        "config.json"
+    ]
+    
+    for config_path in config_paths:
+        if os.path.exists(config_path):
+            try:
+                with open(config_path, 'r', encoding='utf-8') as f:
+                    config = json.load(f)
+                    return config
+            except Exception as e:
+                print(f"警告: 无法读取配置文件 {config_path}: {e}")
+    
+    return {}
+
+def get_github_token():
+    """获取GitHub Token，优先级：环境变量 > 配置文件"""
+    # 首先检查环境变量
+    github_token = os.environ.get('GITHUB_TOKEN')
+    if github_token:
+        print(f"DEBUG: 从环境变量获取到GITHUB_TOKEN")
+        return github_token
+    
+    # 然后检查配置文件
+    config = load_config()
+    github_token = config.get('github_token')
+    if github_token and github_token != "your_token_here":
+        print(f"DEBUG: 从配置文件获取到github_token")
+        return github_token
+    
+    print("DEBUG: 未找到有效的GitHub Token")
+    return None
+
 def get_info(year):
     try:
         all_items = []
         page = 1
         per_page = 100 # 默认每页100条，有token时使用
-        github_token = os.environ.get('GITHUB_TOKEN')
+        github_token = get_github_token()
         headers = {}
 
         if github_token:
@@ -189,10 +227,29 @@ def get_info(year):
             api = f"https://api.github.com/search/repositories?q=CVE-{year}&sort=updated&page={page}&per_page={per_page}"
             response = requests.get(api, headers=headers)
 
+            # 打印详细的响应信息用于调试
+            print(f"DEBUG: API请求状态码: {response.status_code}")
+            print(f"DEBUG: API请求URL: {api}")
+            print(f"DEBUG: 请求头: {headers}")
+            
             if 'X-RateLimit-Limit' in response.headers:
                 print(f"API Rate Limit: {response.headers.get('X-RateLimit-Remaining')}/{response.headers.get('X-RateLimit-Limit')}")
 
+            # 处理403错误
+            if response.status_code == 403:
+                print(f"错误: GitHub API返回403 Forbidden")
+                print(f"响应内容: {response.text}")
+                if 'X-GitHub-SSO' in response.headers:
+                    print(f"SSO要求: {response.headers.get('X-GitHub-SSO')}")
+                break
+
             req = response.json()
+            
+            # 检查是否有错误信息
+            if "message" in req and "error" in req["message"].lower():
+                print(f"API错误: {req['message']}")
+                break
+                
             items = req.get("items")
 
             if not items:

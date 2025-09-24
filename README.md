@@ -1,4 +1,3 @@
-
 # Github CVE 监控 ![版本](https://img.shields.io/badge/version-2.1-blue.svg)
 
 > 使用 Github Actions 自动监控 Github 上的 CVE 信息
@@ -36,6 +35,10 @@ Github API 每页限制返回 100 条记录
 
 1. **本地运行**：
    - 创建一个GitHub个人访问令牌 (Personal Access Token)
+     - 访问GitHub Settings > Developer settings > Personal access tokens > Tokens (classic)
+     - 点击"Generate new token (classic)"
+     - 选择适当的权限范围（至少需要`public_repo`权限）
+     - 复制生成的token
    - 设置环境变量 `GITHUB_TOKEN` 为你的令牌值
    ```bash
    export GITHUB_TOKEN=your_token_here  # Linux/Mac
@@ -44,7 +47,34 @@ Github API 每页限制返回 100 条记录
 
 2. **GitHub Actions**：
    - 在GitHub仓库设置中添加名为 `GH_TOKEN` 的Secret
+     - 进入仓库 > Settings > Secrets and variables > Actions
+     - 点击"New repository secret"
+     - Name: `GH_TOKEN`
+     - Secret: 你的GitHub个人访问令牌
    - 工作流程已配置为自动使用此令牌
+
+#### Token权限要求
+
+GitHub Token需要以下权限：
+- `public_repo` - 访问公共仓库信息
+- `repo` (可选) - 如果需要访问私有仓库
+
+#### 配置文件支持
+
+程序现在支持从以下位置的配置文件读取token（优先级从高到低）：
+1. 环境变量 `GITHUB_TOKEN`
+2. `docs/Data/config.json`
+3. `docs/config.json`
+4. `config.json`
+
+配置文件格式示例：
+```json
+{
+  "github_token": "your_token_here",
+  "api_base_url": "https://api.github.com",
+  "repository": "adminlove520/github_cve_monitor"
+}
+```
 
 ## 路线图
 
