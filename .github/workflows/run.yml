@@ -55,14 +55,20 @@ jobs:
           # 检查是否配置了secrets.GH_TOKEN，如果没有则使用GitHub Actions内置的GITHUB_TOKEN
           if [ -z "${{ secrets.GH_TOKEN }}" ]; then
             echo "未配置secrets.GH_TOKEN，使用GitHub Actions内置的GITHUB_TOKEN"
-            WIKI_TOKEN="${{ secrets.GH_TOKEN }}"
+            WIKI_TOKEN="${{ secrets.GITHUB_TOKEN }}"
           else
             echo "使用配置的secrets.GH_TOKEN"
             WIKI_TOKEN="${{ secrets.GH_TOKEN }}"
           fi
           
+          # 确保Token不为空
+          if [ -z "$WIKI_TOKEN" ]; then
+            echo "错误: 未找到有效的GitHub Token，无法更新Wiki"
+            exit 1
+          fi
+          
           # 克隆 Wiki 仓库
-          git clone https://${WIKI_TOKEN}@github.com/adminlove520/github_cve_monitor.wiki.git wiki
+          git clone https://x-access-token:$WIKI_TOKEN@github.com/adminlove520/github_cve_monitor.wiki.git wiki
           cd wiki
           
           # 更新主页
@@ -127,7 +133,7 @@ jobs:
           - **日期**: 发现/更新日期
           
           ### 📈 数据格式
-          ```magic
+          ```
           | CVE | 相关仓库（poc/exp） | 描述 | 日期 |
           |:---|:---|:---|:---|
           | [CVE-YYYY-NNNNN](链接) | [仓库名](仓库链接) | 漏洞描述 | 日期时间 |
