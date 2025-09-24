@@ -1,7 +1,14 @@
 {
   "date": "2024-12-16",
-  "count": 15,
+  "count": 16,
   "cves": [
+    {
+      "cve_id": "CVE-2025-54424",
+      "repo_info": "[bejbitoilet5125521/CVE-2025-54424](https://github.com/bejbitoilet5125521/CVE-2025-54424)",
+      "description": "🔍 Exploit the CVE-2025-54424 RCE vulnerability in 1Panel, enabling unauthorized command execution through a certification bypass tool for scanning and exploitation.",
+      "date": "2024-12-16",
+      "raw_date": "2024-12-16T19:43:17Z"
+    },
     {
       "cve_id": "CVE-2024-56116",
       "repo_info": "[ComplianceControl/CVE-2024-56116](https://github.com/ComplianceControl/CVE-2024-56116)",
@@ -108,9 +115,9 @@
       "raw_date": "2024-12-16T03:43:44Z"
     }
   ],
-  "generated_at": "2025-09-24T00:55:49.966202",
+  "generated_at": "2025-09-24T05:59:04.032827",
   "metadata": {
-    "total_cves": 15,
+    "total_cves": 16,
     "date_range": "2024-12-16",
     "source": "README.md",
     "script_version": "2.0"
