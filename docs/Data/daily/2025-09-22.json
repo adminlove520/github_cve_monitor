@@ -1,18 +1,102 @@
 {
   "date": "2025-09-22",
-  "count": 1,
+  "count": 13,
   "cves": [
     {
-      "cve_id": "CVE-2021-40146",
-      "repo_info": "[jsharp6968/cve_2021_40146](https://github.com/jsharp6968/cve_2021_40146)",
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[kay0te/CVE-2025-8088](https://github.com/kay0te/CVE-2025-8088)",
+      "description": "CVE-2025-8088 path traversal tool",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T14:42:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-59424",
+      "repo_info": "[JOOJIII/CVE-2025-59424](https://github.com/JOOJIII/CVE-2025-59424)",
+      "description": "LinkAce Stored Cross-Site Scripting (XSS) on the /system/audit page",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T13:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-59424",
+      "repo_info": "[amalpvatayam67/day09-bentoml-deser-lab](https://github.com/amalpvatayam67/day09-bentoml-deser-lab)",
+      "description": "ay 09 — CVE-2025-27520 (BentoML-style insecure deserialization) — Local Docker lab",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T12:56:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-48799",
+      "repo_info": "[ukisshinaah/CVE-2025-48799](https://github.com/ukisshinaah/CVE-2025-48799)",
+      "description": "🛡️ Demonstrate CVE-2025-48799, a Windows Update service vulnerability that allows elevation of privilege via arbitrary folder deletion on multi-drive systems.",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T21:54:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-40677",
+      "repo_info": "[PeterGabaldon/CVE-2025-40677](https://github.com/PeterGabaldon/CVE-2025-40677)",
+      "description": "Summar Employee Portal Prior to 3.98.0 Authenticated SQL Injection - CVE-2025-40677",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T08:02:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[kityzed2003/CVE-2025-25257](https://github.com/kityzed2003/CVE-2025-25257)",
+      "description": "🛠️ Exploit CVE-2025-25257 in FortiWeb with a working full exploit and a proof of concept for file read/write.",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T22:53:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-21298",
+      "repo_info": "[fy-poc/full-poc-CVE-2025_21298](https://github.com/fy-poc/full-poc-CVE-2025_21298)",
+      "description": "Complete analysis of CVE-2025-21298, a double free vulnerability related to ole32 library in windows.",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T06:17:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-10585",
+      "repo_info": "[callinston/CVE-2025-10585](https://github.com/callinston/CVE-2025-10585)",
       "description": "no description",
       "date": "2025-09-22",
-      "raw_date": "2025-09-22T15:22:18Z"
+      "raw_date": "2025-09-22T19:57:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-6933",
+      "repo_info": "[Trex96/vulnerable-bsr-lab-CVE-2023-6933](https://github.com/Trex96/vulnerable-bsr-lab-CVE-2023-6933)",
+      "description": "no description",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T10:01:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-20048",
+      "repo_info": "[oguzhanozuzun301/cisco-rv-rce-poc](https://github.com/oguzhanozuzun301/cisco-rv-rce-poc)",
+      "description": "PoC and exploit scripts for CVE-2023-20048 - Remote Code Execution vulnerability affecting Cisco RV series routers.  Includes a vulnerability checker (PoC) and a working exploit for gaining remote shell access. For educational and research purposes only.",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T16:02:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-1545",
+      "repo_info": "[lineeralgebra/CVE-2023-1545-POC](https://github.com/lineeralgebra/CVE-2023-1545-POC)",
+      "description": "Teampass SQL Injection vulnerability",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T00:50:14Z"
+    },
+    {
+      "cve_id": "CVE-2015-6668",
+      "repo_info": "[nika0x38/CVE-2015-6668](https://github.com/nika0x38/CVE-2015-6668)",
+      "description": "A small Rust CLI that reproduces the information-disclosure pattern associated with CVE-2015-6668 (Job Manager &lt;= 0.7.25).",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T20:26:19Z"
+    },
+    {
+      "cve_id": "CVE-2010-2883",
+      "repo_info": "[avielzecharia/CVE-2010-2883](https://github.com/avielzecharia/CVE-2010-2883)",
+      "description": "Playing with CVE-2010-2883",
+      "date": "2025-09-22",
+      "raw_date": "2025-09-22T15:20:26Z"
     }
   ],
-  "generated_at": "2025-09-24T07:03:26.078444",
+  "generated_at": "2025-09-24T09:41:14.833816",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 13,
     "date_range": "2025-09-22",
     "source": "README.md",
     "script_version": "2.0"
