@@ -434,7 +434,11 @@ def main():
         time.sleep(count)
     
     # 获取历史数据
-    for i in range(year-1, 1999, -1):
+    # 限制年份范围到2020-2025，因为之前的数据价值较小
+    start_year = max(2020, year-1)  # 不早于2020年
+    end_year = max(2020, year-5)    # 最多获取5年前的数据，但不早于2020年
+    
+    for i in range(start_year, end_year-1, -1):
         item = get_info(i)
         if item is None or len(item) == 0:
             continue
