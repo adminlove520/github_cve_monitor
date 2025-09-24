@@ -189,6 +189,10 @@ def get_github_token():
     github_token = os.environ.get('GITHUB_TOKEN')
     if github_token:
         print(f"DEBUG: 从环境变量获取到GITHUB_TOKEN")
+        print(f"DEBUG: Token长度: {len(github_token)}")
+        # 不要打印完整的token，但可以打印前几个字符来确认
+        if len(github_token) > 5:
+            print(f"DEBUG: Token前缀: {github_token[:5]}...")
         return github_token
     
     # 然后检查配置文件
@@ -196,6 +200,9 @@ def get_github_token():
     github_token = config.get('github_token')
     if github_token and github_token != "your_token_here":
         print(f"DEBUG: 从配置文件获取到github_token")
+        print(f"DEBUG: Token长度: {len(github_token)}")
+        if len(github_token) > 5:
+            print(f"DEBUG: Token前缀: {github_token[:5]}...")
         return github_token
     
     print("DEBUG: 未找到有效的GitHub Token")
@@ -223,14 +230,16 @@ def get_info(year):
             if "GITHUB" in key.upper(): # Only print relevant environment variables
                 print(f"  {key}: {value[:10]}...")
 
+        # 添加请求头的调试信息
+        print(f"DEBUG: 请求头: {headers}")
+        
         while True:
             api = f"https://api.github.com/search/repositories?q=CVE-{year}&sort=updated&page={page}&per_page={per_page}"
+            print(f"DEBUG: API请求URL: {api}")
             response = requests.get(api, headers=headers)
 
             # 打印详细的响应信息用于调试
             print(f"DEBUG: API请求状态码: {response.status_code}")
-            print(f"DEBUG: API请求URL: {api}")
-            print(f"DEBUG: 请求头: {headers}")
             
             if 'X-RateLimit-Limit' in response.headers:
                 print(f"API Rate Limit: {response.headers.get('X-RateLimit-Remaining')}/{response.headers.get('X-RateLimit-Limit')}")
