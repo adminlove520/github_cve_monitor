@@ -36,9 +36,9 @@ Github CVE Monitor 是一个自动化的安全情报收集工具，通过 GitHub
 
 ## 版本信息
 
-当前版本: **2.1**
+当前版本: **2.2.2**
 
-![Version](https://img.shields.io/badge/version-2.1-blue.svg)
+![Version](https://img.shields.io/badge/version-2.2.2-blue.svg)
 
 ---
 
