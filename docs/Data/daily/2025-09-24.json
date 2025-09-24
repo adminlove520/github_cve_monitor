@@ -1,18 +1,53 @@
 {
   "date": "2025-09-24",
-  "count": 1,
+  "count": 6,
   "cves": [
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[pablo388/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/pablo388/WinRAR-CVE-2025-8088-PoC-RAR)",
+      "description": "🚨 Exploit WinRAR CVE-2025-8088 with this PoC RAR archive, demonstrating the vulnerability and its impact when executed on the affected software.",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T05:36:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-55780",
+      "repo_info": "[ISH2YU/CVE-2025-55780](https://github.com/ISH2YU/CVE-2025-55780)",
+      "description": "Null Pointer De-reference in MUPDF 1.26.4",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T04:24:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-55188",
+      "repo_info": "[Sh3ruman/CVE-2025-55188-7z-exploit](https://github.com/Sh3ruman/CVE-2025-55188-7z-exploit)",
+      "description": "⚠️ Demonstrate CVE-2025-55188 with this proof-of-concept exploit for 7-Zip, revealing vulnerabilities in file extraction handling and potential impacts.",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T03:46:23Z"
+    },
     {
       "cve_id": "CVE-2025-34100",
       "repo_info": "[hyeonyeonglee/CVE-2025-34100](https://github.com/hyeonyeonglee/CVE-2025-34100)",
       "description": "CVE-2025-34100 test",
       "date": "2025-09-24",
       "raw_date": "2025-09-24T00:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[nelissandro/CVE-2025-32463-Sudo-Chroot-Escape](https://github.com/nelissandro/CVE-2025-32463-Sudo-Chroot-Escape)",
+      "description": "This repository contains a Proof of Concept (PoC) for CVE-2025-32463, a vulnerability in sudo allowing a chroot escape to achieve local privilege escalation.",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T01:17:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[mirmeweu/cve-2025-32433](https://github.com/mirmeweu/cve-2025-32433)",
+      "description": "the task from C*****k",
+      "date": "2025-09-24",
+      "raw_date": "2025-09-24T07:22:56Z"
     }
   ],
-  "generated_at": "2025-09-24T05:59:04.103349",
+  "generated_at": "2025-09-24T09:41:14.834286",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 6,
     "date_range": "2025-09-24",
     "source": "README.md",
     "script_version": "2.0"
