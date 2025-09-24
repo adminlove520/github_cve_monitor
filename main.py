@@ -233,6 +233,9 @@ def get_info(year):
         # 添加请求头的调试信息
         print(f"DEBUG: 请求头: {headers}")
         
+        # 添加User-Agent头，避免被GitHub阻止
+        headers['User-Agent'] = 'CVE-Monitor-App'
+        
         max_retries = 3
         retry_count = 0
         
