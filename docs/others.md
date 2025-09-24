@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2025-09-24 09:59:56
+- **生成时间**: 2025-09-24 10:23:56
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -297,9 +297,10 @@
 | 🚫 未识别 | [9952-hub/CVEN30010-Geotechnical-Modelling-and-Design-2024-Brief-for-Design-Project](https://github.com/9952-hub/CVEN30010-Geotechnical-Modelling-and-Design-2024-Brief-for-Design-Project) | CVEN30010 Geotechnical Modelling and Design (2024) Brief for Design Project | 2025-09-22T13:31:04Z|
 | 🚫 未识别 | [procamora/OpenSSH-Username-Enumeration](https://github.com/procamora/OpenSSH-Username-Enumeration) | CVE: 2018-15473 | 2020-02-09T23:51:58Z|
 | 🚫 未识别 | [Moon1705/easy_security](https://github.com/Moon1705/easy_security) | Project with sublist3r, massan, CVE-2018-15473, ssh bruteforce, ftp bruteforce and nikto. | 2020-05-08T10:29:00Z|
+| 🚫 未识别 | [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893) | no description | 2025-09-24T10:03:08Z|
 
 
 ---
 
-**报告生成时间**: 2025-09-24 10:05:13  
-**总记录数**: 286
+**报告生成时间**: 2025-09-24 10:28:44  
+**总记录数**: 287
