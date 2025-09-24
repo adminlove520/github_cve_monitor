@@ -39,9 +39,28 @@ jobs:
         run: |
           pip3 install -r requirements.txt
       - name: run scraper
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
+          # 检查是否配置了secrets.GH_TOKEN，如果没有则使用GitHub Actions内置的GITHUB_TOKEN
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "未配置secrets.GH_TOKEN，使用GitHub Actions内置的GITHUB_TOKEN"
+            export GITHUB_TOKEN="${{ secrets.GITHUB_TOKEN }}"
+            TOKEN_SOURCE="GitHub Actions内置Token"
+          else
+            echo "使用配置的secrets.GH_TOKEN"
+            export GITHUB_TOKEN="${{ secrets.GH_TOKEN }}"
+            TOKEN_SOURCE="用户配置的secrets.GH_TOKEN"
+          fi
+          
+          # 确保Token不为空
+          if [ -z "$GITHUB_TOKEN" ]; then
+            echo "警告: 未找到有效的GitHub Token，将使用无认证请求（API速率限制严重）"
+            echo "Token来源: 无有效Token"
+          else
+            echo "GitHub Token已设置"
+            echo "Token来源: $TOKEN_SOURCE"
+            echo "Token长度: ${#GITHUB_TOKEN}"
+          fi
+          
           python3 main.py
       - name: save changes
         run: |
