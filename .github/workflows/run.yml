@@ -15,22 +15,35 @@ jobs:
       
       - name: 生成前端配置文件
         run: |
+          # 检查是否配置了secrets.GH_TOKEN，如果没有则使用GitHub Actions内置的GITHUB_TOKEN
+          if [ -z "${{ secrets.GH_TOKEN }}" ]; then
+            echo "未配置secrets.GH_TOKEN，配置文件将使用GitHub Actions内置的GITHUB_TOKEN占位符"
+            GH_TOKEN_VALUE="${{ secrets.GITHUB_TOKEN }}"
+            TOKEN_NOTE="GitHub Actions内置Token"
+          else
+            echo "使用配置的secrets.GH_TOKEN"
+            GH_TOKEN_VALUE="${{ secrets.GH_TOKEN }}"
+            TOKEN_NOTE="用户配置的secrets.GH_TOKEN"
+          fi
+          
           # 为前端生成安全的配置文件
           cat > docs/config.json << EOF
           {
-            "github_token": "${{ secrets.GH_TOKEN }}",
+            "github_token": "$GH_TOKEN_VALUE",
             "api_base_url": "https://api.github.com",
             "repository": "adminlove520/github_cve_monitor",
-            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')",
+            "token_note": "$TOKEN_NOTE"
           }
           EOF
           
           cat > docs/Data/config.json << EOF
           {
-            "github_token": "${{ secrets.GH_TOKEN }}",
+            "github_token": "$GH_TOKEN_VALUE",
             "api_base_url": "https://api.github.com",
             "repository": "adminlove520/github_cve_monitor",
-            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+            "generated_at": "$(date -u '+%Y-%m-%dT%H:%M:%SZ')",
+            "token_note": "$TOKEN_NOTE"
           }
           EOF
           
