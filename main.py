@@ -316,6 +316,32 @@ def db_match(items):
 
     return sorted(r_list, key=lambda e: e.__getitem__('created_at'))
 
+def init_others_file():
+    """初始化others.md文件"""
+    newline = f"""# 其他未识别CVE编号的仓库报告
+
+> Automatic monitor Github CVE using Github Actions 
+
+## 报告信息
+- **生成时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
+- **数据来源**: GitHub仓库（未识别CVE编号）
+- **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
+
+## 仓库列表
+
+| 状态 | 相关仓库 | 描述 | 日期 |
+|:---|:---|:---|:---|
+"""
+    with open('docs/others.md', 'w', encoding='utf-8') as f:
+        f.write(newline)
+    f.close()
+
+def write_others_file(new_contents):
+    """写入others.md文件"""
+    with open('docs/others.md', 'a', encoding='utf-8') as f:
+        f.write(new_contents)
+    f.close()
+
 def main():
     # 获取当前日期
     today = datetime.now()
@@ -327,10 +353,14 @@ def main():
 
     # 初始化每日报告文件
     daily_file_path = init_daily_file(date_str)
+    
+    # 初始化others文件
+    init_others_file()
 
     # 收集数据
     sorted_list = []
     today_list = []  # 存储当日数据
+    others_list = []  # 存储CVE编号为空的数据
     
     # 首先获取当年的数据（当日数据）
     print(f"获取当年 ({year}) 的CVE数据...")
@@ -378,6 +408,16 @@ def main():
     cur.execute("SELECT * FROM CVE_DB ORDER BY cve DESC;")
     result = cur.fetchall()
     
+    # 分离有CVE编号和无CVE编号的数据
+    valid_cve_records = []
+    others_records = []
+    
+    for row in result:
+        if row[5].upper() == "CVE NOT FOUND":
+            others_records.append(row)
+        else:
+            valid_cve_records.append(row)
+    
     # 写入报告头部
     newline = f"""# 全量 情报速递 数据报告
 
@@ -386,7 +426,8 @@ def main():
 ## 报告信息
 - **生成时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}
 - **数据来源**: GitHub CVE 数据库
-- **总记录数**: {len(result)}
+- **总记录数**: {len(valid_cve_records)}
+- **其他记录数**: {len(others_records)} (详见 [others.md](./others.md))
 
 ## 全量数据报告
 
@@ -395,15 +436,24 @@ def main():
 """
     write_file(newline, overwrite=True) # 首次写入时覆盖文件
 
-    # 写入每条记录
-    for row in result:
+    # 写入有效的CVE记录
+    for row in valid_cve_records:
         Publish_Date = row[4]
         Description = row[2].replace('|','-')
-        if row[5].upper() == "CVE NOT FOUND":
-            newline = "| " + row[5].upper() + " | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
-        else:
-            newline = "| [" + row[5].upper() + "](https://www.cve.org/CVERecord?id=" + row[5].upper() + ") | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
+        newline = "| [" + row[5].upper() + "](https://www.cve.org/CVERecord?id=" + row[5].upper() + ") | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
         write_file(newline)
+    
+    # 生成others.md报告
+    if len(others_records) > 0:
+        for row in others_records:
+            Publish_Date = row[4]
+            Description = row[2].replace('|','-')
+            newline = "| 🚫 未识别 | [" + row[1] + "](" + row[3] + ") | " + Description + " | " + Publish_Date + "|\n"
+            write_others_file(newline)
+        
+        # 添加报告尾部
+        footer = f"\n\n---\n\n**报告生成时间**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}  \n**总记录数**: {len(others_records)}\n"
+        write_others_file(footer)
     
     # 生成当日报告
     
@@ -444,18 +494,17 @@ def main():
     if len(today_list) > 0:
         print(f"成功写入 {len(today_list)} 条记录到每日 情报速递 报告")
 
-    # 写入每日报告
-    for entry in today_list:
+    # 写入每日报告（过滤掉CVE NOT FOUND的记录）
+    valid_today_list = [entry for entry in today_list if entry["cve"].upper() != "CVE NOT FOUND"]
+    
+    for entry in valid_today_list:
         cve = entry["cve"]
         full_name = entry["full_name"]
         description = entry["description"].replace('|','-')
         url = entry["url"]
         created_at = entry["created_at"]
 
-        if cve.upper() == "CVE NOT FOUND":
-            newline = f"| {cve.upper()} | [{full_name}]({url}) | {description} | {created_at}|\n"
-        else:
-            newline = f"| [{cve.upper()}](https://www.cve.org/CVERecord?id={cve.upper()}) | [{full_name}]({url}) | {description} | {created_at}|\n"
+        newline = f"| [{cve.upper()}](https://www.cve.org/CVERecord?id={cve.upper()}) | [{full_name}]({url}) | {description} | {created_at}|\n"
 
         # 写入每日报告文件
         write_daily_file(daily_file_path, newline)
