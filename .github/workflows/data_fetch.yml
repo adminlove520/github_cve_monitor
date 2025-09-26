@@ -405,7 +405,7 @@ jobs:
                   for report in report_dirs:
                       fallback_reports.append({
                           'date': report['date'],
-                          'filename': f"{report['directory']}/index.html",
+                          'filename': "{}/index.html".format(report['directory']),
                           'cves_count': report['cves_count'],
                           'title': f"{report['date']} CVE情报速递"
                       })

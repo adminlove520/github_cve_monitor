@@ -31,6 +31,9 @@ jobs:
           fi
           
           # 为前端生成安全的配置文件
+          # 确保目录存在
+          mkdir -p docs/Data
+          
           cat > docs/config.json << EOF
           {
             "github_token": "$GH_TOKEN_VALUE",
