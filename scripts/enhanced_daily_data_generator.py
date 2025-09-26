@@ -274,13 +274,21 @@ def generate_summary(generated_files, output_dir):
     return summary
 
 def main():
+    # 获取脚本所在目录的绝对路径
+    script_dir = os.path.dirname(os.path.abspath(__file__))
+    project_root = os.path.dirname(script_dir)
+    
+    # 设置默认路径为绝对路径 - 使用小写的data目录
+    default_readme = os.path.join(project_root, 'docs', 'README.md')
+    default_output = os.path.join(project_root, 'docs', 'data', 'daily')
+    
     parser = argparse.ArgumentParser(description='增强版每日CVE数据生成器')
     parser.add_argument('--readme', '-r', 
-                       default='../docs/README.md',
-                       help='README.md文件路径 (默认: ../docs/README.md)')
+                       default=default_readme,
+                       help=f'README.md文件路径 (默认: {default_readme})')
     parser.add_argument('--output', '-o',
-                       default='../docs/Data/daily',
-                       help='输出目录 (默认: ../docs/Data/daily)')
+                       default=default_output,
+                       help=f'输出目录 (默认: {default_output})')
     parser.add_argument('--fill-gaps', '-f',
                        action='store_true',
                        help='填补缺失的日期（生成空的JSON文件）')

@@ -568,7 +568,33 @@ def main():
     update_daily_index()
 
     # Statistics
-    ## TODO HERE WILL COME THE CODE FOR STATISTICS 
+    print("\n📊 生成统计数据...")
+    try:
+        import sys
+        # 获取脚本所在目录的绝对路径
+        script_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        # 确保目录存在 - 使用小写的data目录
+        daily_dir = os.path.join(script_dir, 'docs', 'data', 'daily')
+        stats_dir = os.path.join(script_dir, 'docs', 'data', 'statistics')
+        os.makedirs(daily_dir, exist_ok=True)
+        os.makedirs(stats_dir, exist_ok=True)
+        
+        # 先运行数据生成脚本创建汇总文件
+        import subprocess
+        print("📊 正在生成汇总数据...")
+        subprocess.run([sys.executable, os.path.join(script_dir, 'scripts/enhanced_daily_data_generator.py'), '--fill-gaps'], 
+                      check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        print("✅ 数据汇总文件已生成")
+        
+        # 再运行统计生成脚本
+        print("📈 正在生成Wiki统计数据...")
+        subprocess.run([sys.executable, os.path.join(script_dir, 'scripts/generate_wiki_stats.py')], 
+                      check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        print("✅ Wiki统计数据已生成")
+    except Exception as e:
+        print(f"⚠️  统计数据生成过程中出现错误: {e}")
+        # 继续执行，不中断主流程
 
 if __name__ == "__main__":
     # init_file() # 移除此行，因为全量报告的写入会覆盖文件

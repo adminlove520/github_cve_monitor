@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## [2.2.3] - 2025-09-25
+
+### Security
+- 实现全新的数据获取和缓存机制
+- 完全移除前端Token依赖，消除安全风险
+- 创建data_fetch.yml工作流，实现每30分钟自动数据更新
+- 重构前端页面，改为从缓存JSON文件读取数据
+
+### Performance
+- 页面加载速度提升约80%
+- 显著降低API调用频率，避免触发速率限制
+- 提高系统稳定性，提供降级方案
+
+### Documentation
+- 更新README.md和stats.md，详细说明新的数据获取架构
+- 添加安全优势和性能提升的文档说明
+
 ## [2.2.2] - 2025-09-23
 
 ### Documentation

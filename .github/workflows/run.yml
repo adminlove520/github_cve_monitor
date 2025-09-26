@@ -79,6 +79,9 @@ jobs:
           fi
           
           python3 main.py
+          
+      - name: 生成Wiki统计数据
+        run: python3 scripts/generate_wiki_stats.py
       - name: save changes
         run: |
           git config --global user.email "cve-monitor@users.noreply.github.com"
@@ -127,7 +130,7 @@ jobs:
           
           #### Week 38
           
-          - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/#/Data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
+          - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/Data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
           EOF
           
           # 添加历史报告链接
@@ -141,7 +144,7 @@ jobs:
                     if [ -f "$file" ]; then
                       file_name=$(basename "$file" .md)
                       date_part=$(echo "$file_name" | sed 's/daily_//' | sed 's/\(.\{4\}\)\(.\{2\}\)\(.\{2\}\)/\1-\2-\3/')
-                      echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/#/Data/$dir_name/$file_name.md)" >> "每日报告.md"
+                      echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/Data/$dir_name/$file_name.md)" >> "每日报告.md"
                     fi
                   done
                 fi
@@ -210,6 +213,7 @@ jobs:
           # 更新其他页面
           cp ../wiki_content/关于项目.md "./关于项目.md"
           cp ../wiki_content/更新日志.md "./更新日志.md"
+          # 复制统计数据页面（已由generate_wiki_stats.py自动生成）
           cp ../wiki_content/统计数据.md "./统计数据.md"
           
           # 提交更新

@@ -286,106 +286,72 @@
   </div>
 
   <script>
-    // GitHub API调用函数（支持token认证）
-    async function githubFetch(url, options = {}) {
-      // GitHub Personal Access Token - 将通过GitHub Actions动态生成
-      let GITHUB_TOKEN = '';
-      
-      // 在生产环境中，尝试从配置文件加载token
-      try {
-        const configResponse = await fetch('./config.json');
-        if (configResponse.ok) {
-          const config = await configResponse.json();
-          GITHUB_TOKEN = config.github_token || '';
-        }
-      } catch (e) {
-        console.warn('无法加载配置文件，使用公共API模式');
-      }
-      
-      const headers = {
-        'Accept': 'application/vnd.github.v3+json',
-        ...options.headers
-      };
-      
-      // 如果有token，添加认证头
-      if (GITHUB_TOKEN && GITHUB_TOKEN !== 'your_token_here') {
-        headers['Authorization'] = `token ${GITHUB_TOKEN}`;
-      }
-      
-      return fetch(url, {
-        ...options,
-        headers
-      });
-    }
-    // 动态加载统计数据 - 优先API，降级到README
+    // 从缓存JSON文件加载统计数据
     async function loadDynamicStats() {
       console.log('🚀 开始加载统计数据...');
       
       // 设置默认值
-      let totalRecords = '27113'; // 从您提供的README内容中获取
+      let totalRecords = '27113';
       let monitoringDays = 300;
       let systemUptime = '95%';
       let apiLimit = '5000';
       
       try {
-        // 方案1: 尝试从README.md获取真实数据（优先，因为更可靠）
-        try {
-          const readmeResponse = await fetch('./README.md');
-          
-          if (readmeResponse.ok) {
-            const markdown = await readmeResponse.text();
-            
-            // 解析总记录数
-            const recordsMatch = markdown.match(/总记录数.*?(\d+)/);
-            if (recordsMatch) {
-              totalRecords = parseInt(recordsMatch[1]).toLocaleString();
-            }
-            
-            // 解析生成时间
-            const timeMatch = markdown.match(/生成时间.*?(\d{4}-\d{2}-\d{2})/);
-            if (timeMatch) {
-              const updateDate = new Date(timeMatch[1]);
-              const estimatedStartDate = new Date('2024-01-01');
-              monitoringDays = Math.ceil((updateDate - estimatedStartDate) / (1000 * 60 * 60 * 24));
-            }
-          }
-        } catch (readmeError) {
-          console.warn('README.md读取失败');
-        }
+        // 从缓存的JSON文件读取数据
+        const cacheResponse = await fetch('./Data/cache/stats.json');
         
-        // 方案2: 尝试GitHub API（使用认证token）
-        try {
-          const apiResponse = await githubFetch('https://api.github.com/repos/adminlove520/github_cve_monitor');
+        if (cacheResponse.ok) {
+          const statsData = await cacheResponse.json();
           
-          if (apiResponse.ok) {
-            const repoData = await apiResponse.json();
-            
-            systemUptime = '100%';
-            const rateLimitHeader = apiResponse.headers.get('X-RateLimit-Limit');
-            if (rateLimitHeader) {
-              apiLimit = rateLimitHeader + '/小时';
-            }
-            
-            // 根据仓库创建时间计算更精确的监控天数
-            if (repoData.created_at) {
-              const repoCreatedAt = new Date(repoData.created_at);
-              const currentDate = new Date();
-              monitoringDays = Math.ceil((currentDate - repoCreatedAt) / (1000 * 60 * 60 * 24));
-            }
-            
-            console.log('✅ GitHub API调用成功 (认证API)');
-          } else if (apiResponse.status === 403) {
-            console.warn('⚠️ 遇到速率限制，使用限制模式');
-            systemUptime = '95%';
-            apiLimit = '限制中';
+          // 更新统计数据
+          if (statsData.total_cves) {
+            totalRecords = typeof statsData.total_cves === 'number' 
+              ? statsData.total_cves.toLocaleString() 
+              : statsData.total_cves;
           }
-        } catch (apiError) {
-          console.warn('🔄 API调用失败:', apiError.message);
-          systemUptime = '95%';
-          apiLimit = '调用失败';
-          // API失败不影响显示，使用README数据即可
+          
+          if (statsData.monitoring_days) {
+            monitoringDays = statsData.monitoring_days;
+          }
+          
+          if (statsData.system_uptime) {
+            systemUptime = statsData.system_uptime;
+          }
+          
+          if (statsData.api_limit) {
+            apiLimit = statsData.api_limit + (statsData.api_remaining ? '/' + statsData.api_remaining : '/小时');
+          }
+          
+          console.log('✅ 从缓存加载统计数据成功');
+          console.log('统计数据更新时间:', statsData.generated_at);
+        } else {
+          console.warn('⚠️ 缓存文件未找到或无法访问，使用默认值');
+          
+          // 降级方案：尝试从README.md获取数据
+          try {
+            const readmeResponse = await fetch('./README.md');
+            
+            if (readmeResponse.ok) {
+              const markdown = await readmeResponse.text();
+              
+              // 解析总记录数
+              const recordsMatch = markdown.match(/总记录数.*?(\d+)/);
+              if (recordsMatch) {
+                totalRecords = parseInt(recordsMatch[1]).toLocaleString();
+              }
+              
+              // 解析生成时间
+              const timeMatch = markdown.match(/生成时间.*?(\d{4}-\d{2}-\d{2})/);
+              if (timeMatch) {
+                const updateDate = new Date(timeMatch[1]);
+                const estimatedStartDate = new Date('2024-01-01');
+                monitoringDays = Math.ceil((updateDate - estimatedStartDate) / (1000 * 60 * 60 * 24));
+              }
+            }
+          } catch (readmeError) {
+            console.warn('README.md读取失败');
+          }
         }
-        
       } catch (error) {
         console.error('统计数据加载出现错误:', error);
       }
@@ -979,11 +945,11 @@
               const dailyData = await response.json();
               const count = Array.isArray(dailyData) ? dailyData.length : (dailyData.count || 0);
               
-              // 使用基于日期的累计估算
-              const daysSince2009 = Math.floor((new Date(dateStr) - new Date('2009-06-08')) / (1000 * 60 * 60 * 24));
-              const estimatedTotal = Math.round(26827 + (daysSince2009 * 8.79));
+              // 仅使用真实数据，不再使用估算值
+              // 尝试从数据中获取真实总数（如果有），否则设为null或undefined
+              const realTotal = dailyData.total || null;
               
-              trendData.push({ date: dateStr, count: count, total: estimatedTotal, isReal: true });
+              trendData.push({ date: dateStr, count: count, total: realTotal, isReal: true });
               hasAnyRealData = true;
               
               console.log(`✅ 成功加载 ${dateStr}: ${count} 个CVE (真实数据)`);
@@ -1015,21 +981,17 @@
       } catch (error) {
         console.error('❌ 加载每日趋势失败:', error);
         
-        // 完全失败的情况
-        const fallbackData = [];
-        for (let i = 6; i >= 0; i--) {
-          const date = new Date();
-          date.setDate(date.getDate() - i);
-          fallbackData.push({ 
-            date: date.toISOString().split('T')[0], 
-            count: 0, 
-            total: 0, 
-            isReal: false, 
-            error: 'complete_failure'
-          });
-        }
-        
-        renderDailyTrend(fallbackData, false, null);
+        // 完全失败的情况，直接显示错误信息而不是创建模拟数据
+        const errorContainer = document.getElementById('daily-trend-chart') || document.getElementById('daily-trend-container') || document.createElement('div');
+        errorContainer.innerHTML = `
+          <div class="error-container">
+            <h3>📊 每日趋势数据加载失败</h3>
+            <p>无法获取最近7天的趋势数据。请检查您的网络连接或稍后再试。</p>
+            <div class="error-details">
+              <strong>错误信息:</strong> ${error.message}
+            </div>
+          </div>
+        `;
       }
     }
     
@@ -1086,11 +1048,14 @@
           rowClass = 'error-data';
         }
         
+        // 安全处理total值，确保当total为null或undefined时不会出错
+        const safeTotal = day.isReal && day.total !== null && day.total !== undefined ? day.total.toLocaleString() : (day.isReal ? '未知' : '-');
+        
         html += `
           <tr class="${rowClass}">
             <td>${day.date}</td>
             <td>${day.isReal ? day.count.toLocaleString() : '-'}</td>
-            <td>${day.isReal ? day.total.toLocaleString() : '-'}</td>
+            <td>${safeTotal}</td>
             <td>${growthRate}</td>
             <td>${statusDisplay}</td>
           </tr>
@@ -1124,6 +1089,7 @@
           <ul style="margin: 5px 0; padding-left: 20px;">
             <li>✅ 真实数据：从JSON文件成功读取的数据</li>
             <li>📂 文件不存在：HTTP 404，表示该日期的数据文件尚未生成或上传</li>
+            <li>累计CVE显示"未知"表示该数据文件中没有提供累计总数</li>
             <li>增长率：仅在连续真实数据间计算</li>
           </ul>
         </div>
