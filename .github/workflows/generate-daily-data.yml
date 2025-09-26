@@ -14,7 +14,7 @@ on:
       fill_gaps:
         description: '是否填补缺失日期'
         required: false
-        default: 'true'
+        default: true
         type: boolean
       start_date:
         description: '开始日期 (YYYY-MM-DD，可选)'
