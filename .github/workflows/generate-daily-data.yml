@@ -58,16 +58,16 @@ jobs:
           ${{ github.event.inputs.end_date && format('--end-date {0}', github.event.inputs.end_date) || '' }} \
           --verbose
     
-    - name: 检查是否有变更
-      id: check_changes
-      run: |
-        if git diff --quiet HEAD -- docs/Data/daily/; then
-          echo "changes=false" >> $GITHUB_OUTPUT
-          echo "📝 没有检测到数据变更"
-        else
-          echo "changes=true" >> $GITHUB_OUTPUT
-          echo "✅ 检测到数据变更"
-        fi
+    # - name: 检查是否有变更
+    #   id: check_changes
+    #   run: |
+    #     if git diff --quiet HEAD -- docs/Data/daily/; then
+    #       echo "changes=false" >> $GITHUB_OUTPUT
+    #       echo "📝 没有检测到数据变更"
+    #     else
+    #       echo "changes=true" >> $GITHUB_OUTPUT
+    #       echo "✅ 检测到数据变更"
+    #     fi
     
     - name: 提交和推送变更
       if: steps.check_changes.outputs.changes == 'true'
