@@ -2,9 +2,17 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>每日情报速递 - Github CVE Monitor</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
+  <title>Github CVE Monitor 👀</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="Github CVE Monitor">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+   <!-- Open Graph / Facebook -->
+   <meta property="og:type" content="website">
+   <meta property="og:url" content="https://adminlove520.github.io">
+   <meta property="og:title" content="Github CVE Monitor 👀">
+   <meta property="og:description" content="Automatic monitor Github CVE using Github Actions">
+   <meta property="og:image" content="adminlove520.github.io/cve.png">
+   <style>
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
       line-height: 1.6;
@@ -13,7 +21,7 @@
       background-color: #f8f9fa;
     }
     .container {
-      max-width: 800px;
+      max-width: 1200px;
       margin: 0 auto;
       background: white;
       padding: 30px;
@@ -25,190 +33,250 @@
       text-align: center;
       margin-bottom: 30px;
     }
-    .report-list {
-      list-style: none;
-      padding: 0;
+    .nav {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 20px;
+      margin: 30px 0;
     }
-    .report-item {
+    .nav-item {
       background: #f8f9fa;
-      margin: 10px 0;
-      padding: 15px;
+      padding: 20px;
       border-radius: 8px;
-      border-left: 4px solid #EF3A38;
-    }
-    .report-item a {
       text-decoration: none;
       color: #333;
-      font-weight: 500;
+      border: 2px solid #e9ecef;
+      transition: all 0.3s ease;
     }
-    .report-item a:hover {
+    .nav-item:hover {
+      border-color: #EF3A38;
+      background: #fff;
+      transform: translateY(-2px);
+    }
+    .nav-item h3 {
+      margin: 0 0 10px 0;
       color: #EF3A38;
     }
-    .report-date {
+    .nav-item p {
+      margin: 0;
       color: #666;
       font-size: 14px;
     }
-    .back-link {
-      display: inline-block;
-      margin-bottom: 20px;
-      color: #EF3A38;
-      text-decoration: none;
+    .stats {
+      background: linear-gradient(135deg, #EF3A38, #ff6b6b);
+      color: white;
+      padding: 20px;
+      border-radius: 8px;
+      margin: 20px 0;
+      text-align: center;
     }
-    .back-link:hover {
-      text-decoration: underline;
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      padding-top: 20px;
+      border-top: 1px solid #e9ecef;
+      color: #666;
     }
-  </style>
+   </style>
 </head>
 <body>
   <div class="container">
-    <a href="../" class="back-link">← 返回首页</a>
+    <h1>Github CVE Monitor 👀</h1>
     
-    <h1>📅 每日情报速递</h1>
+    <div class="stats">
+      <h2>每日情报速递 - 自动CVE监控系统</h2>
+      <p>基于GitHub Actions的自动化安全情报收集工具</p>
+    </div>
+
+    <!-- 最新报告预览 -->
+    <div id="latest-report" class="stats" style="display: none;">
+      <h3>📅 最新每日报告</h3>
+      <div id="latest-report-content">
+        <p>🔄 正在加载最新报告...</p>
+      </div>
+    </div>
+
+    <div class="nav">
+      <a href="reports.html" class="nav-item">
+        <h3>📋 监控报告</h3>
+        <p>查看全量CVE监控数据报告</p>
+      </a>
+      
+      <a href="reports/weekly/" class="nav-item">
+        <h3>📅 每日报告</h3>
+        <p>每日情报速递和详细数据分析</p>
+      </a>
+      
+      <a href="changelog.html" class="nav-item">
+        <h3>📝 更新日志</h3>
+        <p>项目版本更新和改进记录</p>
+      </a>
+      
+      <a href="stats.html" class="nav-item">
+        <h3>📊 智能统计分析</h3>
+        <p>基于mpvulnHub分类体系的CVE智能分析、热点漏洞识别和趋势预测</p>
+      </a>
+      
+      <a href="about.html" class="nav-item">
+        <h3>ℹ️ 关于项目</h3>
+        <p>项目介绍和作者信息</p>
+      </a>
+      
+      <a href="https://github.com/adminlove520/github_cve_monitor" class="nav-item" target="_blank">
+        <h3>🚀 GitHub仓库</h3>
+        <p>源代码和项目路线图</p>
+      </a>
+    </div>
     
-    <p style="text-align: center; color: #666; margin-bottom: 30px;">
-      CVE监控系统每日自动生成的安全情报报告
-    </p>
-    
-    <ul class="report-list">
-      <li class="report-item">
-        <div class="loading">🔄 正在扫描报告目录...</div>
-      </li>
-    </ul>
-    
-    <div style="text-align: center; margin-top: 40px; padding-top: 20px; border-top: 1px solid #e9ecef;">
-      <p style="color: #666;">
-        💡 报告每日凌晨1:00 UTC自动更新 | 
-        <a href="https://github.com/adminlove520/github_cve_monitor" target="_blank" style="color: #EF3A38;">GitHub仓库</a>
+    <div class="stats">
+      <h3>最新数据</h3>
+      <p id="dynamic-stats">🔄 正在加载数据...</p>
+    </div>
+
+    <div class="footer">
+      <p>© 2025 <a href="https://github.com/adminlove520" target="_blank">adminlove520</a> | 
+         <img src="https://img.shields.io/badge/version-3.0-blue.svg" alt="Version 3.0">
       </p>
     </div>
   </div>
 
   <script>
-    // 从缓存JSON文件加载每日报告数据
-    async function loadReports() {
-      const reportList = document.querySelector('.report-list');
-      reportList.innerHTML = '<li class="report-item"><div class="loading">🔄 正在扫描报告目录...</div></li>';
-      
+    // 自动扫描reports/weekly目录获取报告列表
+    async function scanDataDirectory() {
       try {
-        // 从缓存的JSON文件读取数据
-        const cacheResponse = await fetch('./cache/reports.json');
+        // 尝试通过GitHub API获取目录列表
+        const apiUrl = 'https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/reports/weekly';
+        const response = await fetch(apiUrl);
         
-        if (cacheResponse.ok) {
-          const data = await cacheResponse.json();
-          const reports = data.reports || [];
+        if (response.ok) {
+          const data = await response.json();
+          const directories = data.filter(item => item.type === 'dir')
+                                 .map(dir => dir.name)
+                                 .sort((a, b) => b.localeCompare(a)); // 按日期降序
+          return directories;
+        } else {
+          throw new Error('API 调用失败');
+        }
+      } catch (error) {
+        console.warn('无法通过API获取目录列表:', error);
+        // 返回空数组，不使用静态列表
+        return [];
+      }
+    }
+
+    // 加载最新报告预览
+    async function loadLatestReport() {
+      try {
+        const directories = await scanDataDirectory();
+        if (directories.length === 0) {
+          // 没有获取到目录，隐藏最新报告区域
+          document.getElementById('latest-report').style.display = 'none';
+          return;
+        }
+
+        const latestDir = directories[0];
+        const reportFiles = ['daily_' + latestDir.split('-').slice(-1)[0].replace('-', '') + '.md'];
+        
+        // 尝试加载最新报告的头部信息
+        const reportUrl = `reports/weekly/${latestDir}/${reportFiles[0]}`;
+        const response = await fetch(reportUrl);
+        
+        if (response.ok) {
+          const markdown = await response.text();
+          const lines = markdown.split('\n');
           
-          reportList.innerHTML = '';
+          // 提取报告信息
+          let reportInfo = {
+            title: '每日情报速递',
+            date: latestDir.split('-').slice(-1)[0],
+            totalRecords: '0',
+            updateTime: '未知'
+          };
           
-          if (reports.length === 0) {
-            reportList.innerHTML = `
-              <li class="report-item">
-                <div style="color: #666;">📁 暂无可用报告</div>
-              </li>
-            `;
-            return;
+          for (let i = 0; i < Math.min(lines.length, 20); i++) {
+            const line = lines[i];
+            if (line.includes('生成时间')) {
+              const match = line.match(/(\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2})/);
+              if (match) reportInfo.updateTime = match[1];
+            }
+            if (line.includes('总记录数')) {
+              const match = line.match(/(\d+)/);
+              if (match) reportInfo.totalRecords = parseInt(match[1]).toLocaleString();
+            }
           }
           
-          // 显示所有报告
-          for (let i = 0; i < reports.length; i++) {
-            const report = reports[i];
-            const isLatest = i === 0;
-            
-            // 尝试找到对应的报告文件
-            const reportFile = `daily_${report.date.replace('-', '')}.md`;
-            
-            const li = document.createElement('li');
-            li.className = 'report-item';
-            li.innerHTML = `
-              <a href="${report.path}/${reportFile}">
-                📈 ${report.date} 每日报告
-              </a>
-              <div class="report-date">
-                Week ${report.week.replace('W', '')}${isLatest ? ' - 最新' : ''}
-                ${report.total_records !== '未知' ? ` | 📈 ${typeof report.total_records === 'number' ? report.total_records.toLocaleString() : report.total_records}条记录` : ''}
-                ${report.update_time !== '未知' ? ` | ⏰ ${report.update_time}` : ''}
-              </div>
-            `;
-            reportList.appendChild(li);
-          }
+          // 显示最新报告信息
+          const latestReportDiv = document.getElementById('latest-report');
+          const contentDiv = document.getElementById('latest-report-content');
           
-          console.log(`✅ 从缓存加载报告列表成功，共 ${reports.length} 条报告`);
-          console.log('报告数据更新时间:', data.generated_at);
+          contentDiv.innerHTML = `
+            <p>📅 <strong>${reportInfo.date}</strong> | 📈 新增记录: ${reportInfo.totalRecords} | ⏰ ${reportInfo.updateTime}</p>
+            <a href="${reportUrl}" target="_blank" style="color: white; text-decoration: underline;">查看完整报告 →</a>
+          `;
+          
+          latestReportDiv.style.display = 'block';
+          
+          // 更新底部统计数据
+          const statsElement = document.getElementById('dynamic-stats');
+          statsElement.innerHTML = `总记录数: ${reportInfo.totalRecords}+ | 更新时间: ${reportInfo.updateTime.split(' ')[0]}`;
           
         } else {
-          console.warn('⚠️ 缓存文件未找到或无法访问，尝试降级方案');
-          
-          // 降级方案：尝试扫描本地目录结构
-          try {
-            // 这是一个简化的降级方案，只显示最近的几个日期目录
-            // 在实际部署中，GitHub Pages会自动处理静态文件的路径访问
-            const recentDates = [];
-            const today = new Date();
-            
-            // 生成最近7天的日期格式
-            for (let i = 0; i < 7; i++) {
-              const date = new Date(today);
-              date.setDate(date.getDate() - i);
-              
-              const year = date.getFullYear();
-              const week = Math.ceil((date - new Date(year, 0, 1)) / (1000 * 60 * 60 * 24 * 7));
-              const month = String(date.getMonth() + 1).padStart(2, '0');
-              const day = String(date.getDate()).padStart(2, '0');
-              
-              const dirName = `${year}-W${String(week).padStart(2, '0')}-${month}-${day}`;
-              const dateStr = `${month}-${day}`;
-              
-              recentDates.push({
-                name: dirName,
-                date: dateStr,
-                week: `W${String(week).padStart(2, '0')}`,
-                path: dirName
-              });
-            }
-            
-            reportList.innerHTML = '';
-            
-            for (let i = 0; i < recentDates.length; i++) {
-              const report = recentDates[i];
-              const isLatest = i === 0;
-              const reportFile = `daily_${report.date.replace('-', '')}.md`;
-              
-              const li = document.createElement('li');
-              li.className = 'report-item';
-              li.innerHTML = `
-                <a href="${report.path}/${reportFile}">
-                  📈 ${report.date} 每日报告
-                </a>
-                <div class="report-date">
-                  Week ${report.week.replace('W', '')}${isLatest ? ' - 最新' : ''}
-                  | ⏰ ${report.date}
-                </div>
-              `;
-              reportList.appendChild(li);
-            }
-            
-          } catch (fallbackError) {
-            console.error('降级方案失败:', fallbackError);
-            throw new Error('无法加载报告数据');
-          }
+          throw new Error('无法加载报告文件');
         }
         
       } catch (error) {
-        console.error('加载报告列表失败:', error);
-        
-        reportList.innerHTML = `
-          <li class="report-item">
-            <div style="color: #dc3545;">
-              🚨 无法加载报告列表
-              <br><small>错误: ${error.message}</small>
-              <br><small>请刷新页面或稍后重试</small>
-            </div>
-          </li>
-        `;
+        console.error('加载最新报告失败:', error);
+        // 显示错误信息
+        const statsElement = document.getElementById('dynamic-stats');
+        if (statsElement) {
+          statsElement.innerHTML = '🚨 无法加载数据 - API错误';
+        }
       }
     }
-    
+
+    // 加载全量报告统计信息
+    async function loadMainReportStats() {
+      try {
+        const response = await fetch('README.md');
+        if (response.ok) {
+          const markdown = await response.text();
+          const lines = markdown.split('\n');
+          
+          let totalRecords = '无数据';
+          let updateTime = '未知';
+          
+          // 查找生成时间和总记录数
+          for (let i = 0; i < lines.length; i++) {
+            const line = lines[i];
+            if (line.includes('生成时间')) {
+              const match = line.match(/\d{4}-\d{2}-\d{2}/);
+              if (match) updateTime = match[0];
+            }
+            if (line.includes('总记录数')) {
+              const match = line.match(/\d+/);
+              if (match) totalRecords = parseInt(match[0]).toLocaleString() + '+';
+            }
+          }
+          
+          // 更新统计数据（如果没有每日报告数据）
+          const statsElement = document.getElementById('dynamic-stats');
+          if (statsElement && statsElement.textContent.includes('正在加载')) {
+            statsElement.innerHTML = `总记录数: ${totalRecords} | 更新时间: ${updateTime}`;
+          }
+        }
+      } catch (error) {
+        console.error('加载主报告统计失败:', error);
+      }
+    }
+
     // 页面加载完成后执行
-    document.addEventListener('DOMContentLoaded', loadReports);
+    document.addEventListener('DOMContentLoaded', async function() {
+      // 并行加载数据
+      await Promise.all([
+        loadLatestReport(),
+        loadMainReportStats()
+      ]);
+    });
   </script>
 </body>
 </html>

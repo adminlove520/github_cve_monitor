@@ -19,7 +19,8 @@ def update_project_versions():
         'README.md',
         'wiki_content/Home.md',
         'wiki_content/关于项目.md',
-        'docs/changelog.html'
+        'docs/changelog.html',
+        'docs/index.html'
     ]
     
     # 项目根目录
@@ -74,7 +75,7 @@ def update_html_version_badges():
     特别更新HTML文件中的版本徽章
     """
     latest_version = get_latest_version()
-    html_files = ['docs/changelog.html', 'wiki_content/关于项目.md']
+    html_files = ['docs/changelog.html', 'wiki_content/关于项目.md', 'docs/index.html']
     
     project_root = os.path.dirname(os.path.dirname(__file__))
     
@@ -94,6 +95,11 @@ def update_html_version_badges():
             badge_pattern = r'https://img\.shields\.io/badge/version-(\d+\.\d+(?:\.\d+)?)-blue\.svg'
             replacement = f'https://img.shields.io/badge/version-{latest_version}-blue.svg'
             content = re.sub(badge_pattern, replacement, content)
+            
+            # 匹配alt属性中的版本号
+            alt_pattern = r'alt="Version (\d+\.\d+(?:\.\d+)?)"'
+            alt_replacement = f'alt="Version {latest_version}"'
+            content = re.sub(alt_pattern, alt_replacement, content)
             
             if content != original_content:
                 with open(file_path, 'w', encoding='utf-8') as f:

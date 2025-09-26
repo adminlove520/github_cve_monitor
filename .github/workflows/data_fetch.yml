@@ -227,10 +227,10 @@ jobs:
                           fallback_stats['total_cves'] = 0
                   
                   if 'monitoring_days' not in fallback_stats:
-                      # 从项目创建时间估算（假设项目创建于2023年左右）
+                      # 从项目创建时间估算（假设项目创建于2025年左右）
                       from datetime import datetime
                       current_year = datetime.utcnow().year
-                      fallback_stats['monitoring_days'] = (current_year - 2023) * 365 + random.randint(0, 365)
+                      fallback_stats['monitoring_days'] = (current_year - 2025) * 365 + random.randint(0, 365)
                   
                   if 'last_update' not in fallback_stats:
                       fallback_stats['last_update'] = datetime.utcnow().strftime('%Y-%m-%d')
@@ -291,8 +291,8 @@ jobs:
           try:
               print('扫描报告目录...')
               
-              # 获取docs/data目录下的所有日期目录
-              data_dir = Path('docs/data')
+              # 获取docs/reports/weekly目录下的所有日期目录
+              data_dir = Path('docs/reports/weekly')
               date_dirs = sorted([d for d in data_dir.glob('*-W*-*-*')], reverse=True)
               
               for date_dir in date_dirs[:10]:  # 只获取最近10天的报告
@@ -362,9 +362,9 @@ jobs:
               # 实现本地扫描获取真实报告数据的降级方案
               fallback_reports = []
               try:
-                  # 扫描docs/data目录下的所有日期格式子目录
+                  # 扫描docs/reports/weekly目录下的所有日期格式子目录
                   import os
-                  data_dir = 'docs/data'
+                  data_dir = 'docs/reports/weekly'
                   # 匹配YYYY-Wxx-MM-DD格式的目录
                   import re
                   date_pattern = re.compile(r'^\d{4}-W\d{2}-\d{2}-\d{2}$')
@@ -384,14 +384,38 @@ jobs:
                               # 使用目录名作为日期字符串
                               date_str = item
                           
-                          # 尝试从index.html获取CVE数量（通过简单文件读取）
+                          # 尝试从daily_*.md文件获取CVE数量（优先）
                           cves_count = 0
-                          index_file = os.path.join(item_path, 'index.html')
-                          if os.path.exists(index_file):
+                          daily_files = [f for f in os.listdir(item_path) if f.startswith('daily_') and f.endswith('.md')]
+                          if daily_files:
+                              # 使用最新的daily文件（按文件名排序，通常是最新的）
+                              daily_files.sort(reverse=True)
+                              daily_file = daily_files[0]
+                              daily_file_path = os.path.join(item_path, daily_file)
                               try:
-                                  with open(index_file, 'r', encoding='utf-8') as f:
+                                  with open(daily_file_path, 'r', encoding='utf-8') as f:
                                       content = f.read()
-                                      # 简单解析标题中的数量信息
+                                      # 简单解析文件内容中的数量信息
+                                      import re
+                                      # 尝试多种可能的格式
+                                      patterns = [
+                                          r'总记录数：(\d+)',
+                                          r'共(\d+)条CVE',
+                                          r'CVE数量：(\d+)',
+                                          r'(\d+)条记录'
+                                      ]
+                                      for pattern in patterns:
+                                          count_match = re.search(pattern, content)
+                                          if count_match:
+                                              cves_count = int(count_match.group(1))
+                                              break
+                              except Exception:
+                                  pass
+                          # 如果没有找到daily文件，尝试从index.html获取（降级方案）
+                          elif os.path.exists(os.path.join(item_path, 'index.html')):
+                              try:
+                                  with open(os.path.join(item_path, 'index.html'), 'r', encoding='utf-8') as f:
+                                      content = f.read()
                                       import re
                                       count_match = re.search(r'共(\d+)条CVE', content)
                                       if count_match:
@@ -399,26 +423,50 @@ jobs:
                               except Exception:
                                   pass
                           
-                          report_dirs.append({
+                          # 构建更完整的报告信息
+                          report_info = {
+                              'path': item,
                               'directory': item,
                               'date': date_str,
                               'cves_count': cves_count
-                          })
+                          }
+                          
+                          # 添加周信息（从目录名中提取）
+                          week_match = re.search(r'W(\d{2})', item)
+                          if week_match:
+                              report_info['week'] = week_match.group(0)  # 例如 W38
+                          
+                          # 添加文件名信息
+                          if daily_files:
+                              report_info['filename'] = os.path.join(item, daily_files[0])
+                          
+                          report_dirs.append(report_info)
                   
                   # 按日期降序排序
                   report_dirs.sort(key=lambda x: x['date'], reverse=True)
                   
                   # 构建报告数据
                   for report in report_dirs:
-                      # 使用字符串连接替代格式化，避免引号转义问题
-                      directory = report['directory']
-                      date = report['date']
-                      fallback_reports.append({
-                          'date': date,
-                          'filename': directory + '/index.html',
-                          'cves_count': report['cves_count'],
-                          'title': date + ' CVE情报速递'
-                      })
+                      # 使用更完整的报告信息
+                      report_entry = {
+                          'date': report.get('date', ''),
+                          'path': report.get('path', ''),
+                          'cves_count': report.get('cves_count', 0),
+                          'title': report.get('date', '') + ' CVE情报速递'
+                      }
+                      
+                      # 添加周信息
+                      if 'week' in report:
+                          report_entry['week'] = report['week']
+                      
+                      # 使用daily文件作为主链接（如果存在）
+                      if 'filename' in report and report['filename'].endswith('.md'):
+                          report_entry['filename'] = report['filename']
+                      else:
+                          # 否则使用index.html作为降级方案
+                          report_entry['filename'] = report['directory'] + '/index.html'
+                      
+                      fallback_reports.append(report_entry)
                   
                   print(f'✅ 本地扫描成功获取 {len(fallback_reports)} 条报告信息')
               except Exception as scan_error:
