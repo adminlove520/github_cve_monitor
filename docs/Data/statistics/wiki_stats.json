@@ -1,0 +1,22 @@
+{
+  "generated_at": "2025-09-26",
+  "total_cves": 0,
+  "severity_distribution": {
+    "Critical": 0,
+    "High": 0,
+    "Medium": 0,
+    "Low": 0,
+    "Unknown": 0
+  },
+  "cve_types": {},
+  "vendors": {},
+  "products": {},
+  "trending_cves": [],
+  "poc_stats": {
+    "total": 0,
+    "percentage": 0
+  },
+  "daily_trend": [],
+  "days_monitoring": 0,
+  "last_updated": "2025-09-26"
+}

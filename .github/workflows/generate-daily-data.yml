@@ -57,7 +57,7 @@ jobs:
         cd scripts
         python enhanced_daily_data_generator.py \
           --readme ../docs/README.md \
-          --output ../docs/Data/daily \
+          --output ../docs/data/daily \
           ${{ github.event.inputs.fill_gaps == 'true' && '--fill-gaps' || '' }} \
           ${{ github.event.inputs.start_date && format('--start-date {0}', github.event.inputs.start_date) || '' }} \
           ${{ github.event.inputs.end_date && format('--end-date {0}', github.event.inputs.end_date) || '' }} \
