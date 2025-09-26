@@ -67,11 +67,13 @@ jobs:
             echo "GH_TOKEN=${{ secrets.GITHUB_TOKEN }}" >> $GITHUB_ENV
           fi
       
+      # 创建数据目录 - 确保使用正确的路径
       - name: 创建数据目录
         run: |
+          # 检查当前目录结构
           echo "当前工作目录: $(pwd)"
-          echo "目录结构:"
           ls -la
+          # 创建必要的数据目录
           mkdir -p docs/data/cache
       
       - name: 获取统计数据

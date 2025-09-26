@@ -22,6 +22,34 @@ from collections import defaultdict, Counter
 import argparse
 from pathlib import Path
 
+def get_project_root():
+    """
+    获取项目根目录的绝对路径，处理嵌套目录情况
+    解决GitHub Actions环境中的目录嵌套问题
+    """
+    # 获取当前文件所在目录
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # 逐级向上查找，直到找到项目的标志性文件或目录
+    test_dir = current_dir
+    max_depth = 5  # 设置最大查找深度
+    
+    for _ in range(max_depth):
+        # 检查是否存在项目标志性文件/目录
+        if os.path.exists(os.path.join(test_dir, 'main.py')) and \
+           os.path.exists(os.path.join(test_dir, 'docs')) and \
+           os.path.exists(os.path.join(test_dir, 'db')):
+            return test_dir
+        
+        # 向上一级目录
+        parent_dir = os.path.dirname(test_dir)
+        if parent_dir == test_dir:  # 到达文件系统根目录
+            break
+        test_dir = parent_dir
+    
+    # 如果没有找到，返回当前脚本所在目录的父目录（原始逻辑）
+    return os.path.dirname(current_dir)
+
 # API请求配置
 CVE_API_URL = "https://cveawg.mitre.org/api/cve/{cve_id}"
 API_TIMEOUT = 5  # 秒
@@ -734,15 +762,15 @@ def generate_wiki_md(stats, output_md_path):
         return False
 
 def main():
-    # 获取脚本所在目录的绝对路径
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    project_root = os.path.dirname(script_dir)
+    # 获取项目根目录的绝对路径
+    PROJECT_ROOT = get_project_root()
+    print(f"📁 项目根目录: {PROJECT_ROOT}")
     
     # 设置默认路径为绝对路径 - 使用小写的data目录
-    default_summary = os.path.join(project_root, 'docs', 'data', 'daily', 'daily_summary.json')
-    default_daily_dir = os.path.join(project_root, 'docs', 'data', 'daily')
-    default_output_json = os.path.join(project_root, 'docs', 'data', 'statistics', 'wiki_stats.json')
-    default_output_md = os.path.join(project_root, 'wiki_content', '统计数据.md')
+    default_summary = os.path.join(PROJECT_ROOT, 'docs', 'data', 'daily', 'daily_summary.json')
+    default_daily_dir = os.path.join(PROJECT_ROOT, 'docs', 'data', 'daily')
+    default_output_json = os.path.join(PROJECT_ROOT, 'docs', 'data', 'statistics', 'wiki_stats.json')
+    default_output_md = os.path.join(PROJECT_ROOT, 'wiki_content', '统计数据.md')
     
     parser = argparse.ArgumentParser(description='Wiki统计数据生成器')
     parser.add_argument('--summary', '-s',

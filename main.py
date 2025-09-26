@@ -12,6 +12,23 @@ import locale
 from pathlib import Path
 import json
 
+# 确定项目根目录
+def get_project_root():
+    # 获取当前文件所在目录
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    # 检查是否在嵌套目录结构中
+    if 'github_cve_monitor' in current_dir and current_dir.count('github_cve_monitor') > 1:
+        # 如果在嵌套目录中，找到第一个github_cve_monitor目录
+        parts = current_dir.split(os.path.sep)
+        monitor_index = parts.index('github_cve_monitor')
+        return os.path.sep.join(parts[:monitor_index+1])
+    return current_dir
+
+# 获取项目根目录
+PROJECT_ROOT = get_project_root()
+print(f"DEBUG: 项目根目录: {PROJECT_ROOT}")
+
+
 # 设置中文环境
 try:
     locale.setlocale(locale.LC_ALL, 'zh_CN.UTF-8')
@@ -21,7 +38,7 @@ except:
     except:
         pass  # 如果设置失败，使用系统默认
 
-db = SqliteDatabase("db/cve.sqlite")
+db = SqliteDatabase(os.path.join(PROJECT_ROOT, "db/cve.sqlite"))
 
 class CVE_DB(Model):
     id = IntegerField()
@@ -39,13 +56,13 @@ db.create_tables([CVE_DB])
 
 def init_file():
     newline = "# Github CVE Monitor\n\n> Automatic monitor github cve using Github Actions \n\n Last generated : {}\n\n| CVE | 相关仓库（poc/exp） | 描述 | 日期 |\n|---|---|---|---|\n".format(datetime.now())
-    with open('docs/README.md','w', encoding='utf-8') as f:
+    with open(os.path.join(PROJECT_ROOT, 'docs/README.md'),'w', encoding='utf-8') as f:
         f.write(newline) 
     f.close()
 
 def write_file(new_contents, overwrite=False):
     mode = 'w' if overwrite else 'a'
-    with open('docs/README.md', mode, encoding='utf-8') as f:
+    with open(os.path.join(PROJECT_ROOT, 'docs/README.md'), mode, encoding='utf-8') as f:
         f.write(new_contents)
     f.close()
 
@@ -59,11 +76,11 @@ def init_daily_file(date_str):
     day = today.strftime("%d")
     
     # 创建目录结构 /data/YYYY-W-mm-dd
-    dir_path = f"docs/data/{year}-W{week_number}-{month}-{day}"
+    dir_path = os.path.join(PROJECT_ROOT, f"docs/data/{year}-W{week_number}-{month}-{day}")
     Path(dir_path).mkdir(parents=True, exist_ok=True)
     
     # 创建每日报告文件
-    file_path = f"{dir_path}/daily_{date_str}.md"
+    file_path = os.path.join(dir_path, f"daily_{date_str}.md")
     newline = f"""# 每日 情报速递 报告 ({date_str})
 
 > Automatic monitor Github CVE using Github Actions 
@@ -85,13 +102,16 @@ def init_daily_file(date_str):
 
 def write_daily_file(file_path, new_contents):
     """写入每日 情报速递 报告文件"""
+    # 确保文件路径正确
+    if not os.path.isabs(file_path):
+        file_path = os.path.join(PROJECT_ROOT, file_path)
     with open(file_path, 'a', encoding='utf-8') as f:
         f.write(new_contents)
     f.close()
 
 def update_daily_index():
     """更新每日 情报速递 报告索引文件"""
-    data_dir = Path("docs/data")
+    data_dir = Path(os.path.join(PROJECT_ROOT, "docs/data"))
     if not data_dir.exists():
         return
     
@@ -135,7 +155,7 @@ def update_daily_index():
 
 def update_sidebar():
     """更新侧边栏，添加每日报告链接"""
-    sidebar_path = Path("docs/_sidebar.md")
+    sidebar_path = Path(os.path.join(PROJECT_ROOT, "docs/_sidebar.md"))
     if not sidebar_path.exists():
         return
     
@@ -167,10 +187,10 @@ def update_sidebar():
 def load_config():
     """从配置文件加载配置信息"""
     config_paths = [
-        "docs/config/config.json",
-        "docs/data/config.json",
-        "docs/config.json",
-        "config.json"
+        os.path.join(PROJECT_ROOT, "docs/config/config.json"),
+        os.path.join(PROJECT_ROOT, "docs/data/config.json"),
+        os.path.join(PROJECT_ROOT, "docs/config.json"),
+        os.path.join(PROJECT_ROOT, "config.json")
     ]
     
     for config_path in config_paths:
@@ -379,13 +399,13 @@ def init_others_file():
 | 状态 | 相关仓库 | 描述 | 日期 |
 |:---|:---|:---|:---|
 """
-    with open('docs/others.md', 'w', encoding='utf-8') as f:
+    with open(os.path.join(PROJECT_ROOT, 'docs/others.md'), 'w', encoding='utf-8') as f:
         f.write(newline)
     f.close()
 
 def write_others_file(new_contents):
     """写入others.md文件"""
-    with open('docs/others.md', 'a', encoding='utf-8') as f:
+    with open(os.path.join(PROJECT_ROOT, 'docs/others.md'), 'a', encoding='utf-8') as f:
         f.write(new_contents)
     f.close()
 
@@ -576,21 +596,21 @@ def main():
         script_dir = os.path.dirname(os.path.abspath(__file__))
         
         # 确保目录存在 - 使用小写的data目录
-        daily_dir = os.path.join(script_dir, 'docs', 'data', 'daily')
-        stats_dir = os.path.join(script_dir, 'docs', 'data', 'statistics')
+        daily_dir = os.path.join(PROJECT_ROOT, 'docs', 'data', 'daily')
+        stats_dir = os.path.join(PROJECT_ROOT, 'docs', 'data', 'statistics')
         os.makedirs(daily_dir, exist_ok=True)
         os.makedirs(stats_dir, exist_ok=True)
         
         # 先运行数据生成脚本创建汇总文件
         import subprocess
         print("📊 正在生成汇总数据...")
-        subprocess.run([sys.executable, os.path.join(script_dir, 'scripts/enhanced_daily_data_generator.py'), '--fill-gaps'], 
+        subprocess.run([sys.executable, os.path.join(PROJECT_ROOT, 'scripts/enhanced_daily_data_generator.py'), '--fill-gaps'], 
                       check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         print("✅ 数据汇总文件已生成")
         
         # 再运行统计生成脚本
         print("📈 正在生成Wiki统计数据...")
-        subprocess.run([sys.executable, os.path.join(script_dir, 'scripts/generate_wiki_stats.py')], 
+        subprocess.run([sys.executable, os.path.join(PROJECT_ROOT, 'scripts/generate_wiki_stats.py')], 
                       check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         print("✅ Wiki统计数据已生成")
     except Exception as e:
