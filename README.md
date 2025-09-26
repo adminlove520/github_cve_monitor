@@ -49,8 +49,8 @@ Github API 每页限制返回 100 条记录
 #### 缓存文件
 
 数据存储在以下位置：
-- `docs/Data/cache/stats.json` - 统计数据缓存
-- `docs/Data/cache/reports.json` - 每日报告数据缓存
+- `docs/data/cache/stats.json` - 统计数据缓存
+- `docs/data/cache/reports.json` - 每日报告数据缓存
 
 #### 配置GitHub Token（后端使用）
 

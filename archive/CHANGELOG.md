@@ -108,8 +108,8 @@
 - `.github/workflows/generate-daily-data.yml` - GitHub Actions工作流
 
 #### 数据存储
-- `docs/Data/daily/` - 每日CVE数据存储目录
-- `docs/Data/daily/2025-09-23.json` - 示例每日数据文件
+- `docs/data/daily/` - 每日CVE数据存储目录
+- `docs/data/daily/2025-09-23.json` - 示例每日数据文件
 
 #### 文档和测试
 - `docs/DAILY_DATA_SYSTEM.md` - 每日数据系统说明文档
