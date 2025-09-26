@@ -1,0 +1,20 @@
+{
+  "date": "2018-11-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-16509",
+      "repo_info": "[knqyf263/CVE-2018-16509](https://github.com/knqyf263/CVE-2018-16509)",
+      "description": "CVE-2018-16509 (Ghostscript contains multiple -dSAFER sandbox bypass vulnerabilities)",
+      "date": "2018-11-17",
+      "raw_date": "2018-11-17T12:26:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.997721",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-11-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

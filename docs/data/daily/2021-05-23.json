@@ -1,0 +1,34 @@
+{
+  "date": "2021-05-23",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[nob0dy-3389/CVE-2020-27955](https://github.com/nob0dy-3389/CVE-2020-27955)",
+      "description": "no description",
+      "date": "2021-05-23",
+      "raw_date": "2021-05-23T01:40:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-9248",
+      "repo_info": "[ZhenwarX/Telerik-CVE-2017-9248-PoC](https://github.com/ZhenwarX/Telerik-CVE-2017-9248-PoC)",
+      "description": "PoC exploit for Telerik-CVE-2017-9248",
+      "date": "2021-05-23",
+      "raw_date": "2021-05-23T19:54:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-13208",
+      "repo_info": "[idanshechter/CVE-2017-13208-Scanner](https://github.com/idanshechter/CVE-2017-13208-Scanner)",
+      "description": "no description",
+      "date": "2021-05-23",
+      "raw_date": "2021-05-23T17:39:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.091407",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-05-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

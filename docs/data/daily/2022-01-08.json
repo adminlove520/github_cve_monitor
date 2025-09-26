@@ -1,0 +1,27 @@
+{
+  "date": "2022-01-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-9465",
+      "repo_info": "[MichaelsPlayground/CVE-2019-9465](https://github.com/MichaelsPlayground/CVE-2019-9465)",
+      "description": "no description",
+      "date": "2022-01-08",
+      "raw_date": "2022-01-08T22:25:43Z"
+    },
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[k4u5h41/CVE-2018-16763](https://github.com/k4u5h41/CVE-2018-16763)",
+      "description": "no description",
+      "date": "2022-01-08",
+      "raw_date": "2022-01-08T07:15:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.116137",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-01-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

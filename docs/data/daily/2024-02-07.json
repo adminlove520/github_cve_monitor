@@ -1,0 +1,62 @@
+{
+  "date": "2024-02-07",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability](https://github.com/Praison001/CVE-2024-23897-Jenkins-Arbitrary-Read-File-Vulnerability)",
+      "description": "Jenkins 2.441 and earlier, LTS 2.426.2 and earlier does not disable a feature of its CLI command parser that replaces an &#x27;@&#x27; character followed by a file path in an argument with the file&#x27;s contents, allowing unauthenticated attackers to read arbitrary files on the Jenkins controller file system.",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T15:07:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-20931",
+      "repo_info": "[labesterOct/CVE-2024-20931](https://github.com/labesterOct/CVE-2024-20931)",
+      "description": "CVE-2024-20931 Oracle A RCE vuln based on Weblogic T3\\IIOP protocol",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T12:23:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-6895",
+      "repo_info": "[nles-crt/CVE-2023-6895](https://github.com/nles-crt/CVE-2023-6895)",
+      "description": "no description",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T09:28:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-4863",
+      "repo_info": "[alsaeroth/CVE-2023-4863-POC](https://github.com/alsaeroth/CVE-2023-4863-POC)",
+      "description": "C implementation of libwebp 0-click vulnerability",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T06:58:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-4450",
+      "repo_info": "[ilikeoyt/CVE-2023-4450-Attack](https://github.com/ilikeoyt/CVE-2023-4450-Attack)",
+      "description": "no description",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T03:51:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-41064",
+      "repo_info": "[sarsaeroth/CVE-2023-41064-POC](https://github.com/sarsaeroth/CVE-2023-41064-POC)",
+      "description": "C implementation of Image I/O 0-click vulnerability",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T07:11:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[alsaeroth/CVE-2023-23397-POC](https://github.com/alsaeroth/CVE-2023-23397-POC)",
+      "description": "C implementation of Outlook 0-click vulnerability",
+      "date": "2024-02-07",
+      "raw_date": "2024-02-07T07:08:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.308132",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-02-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

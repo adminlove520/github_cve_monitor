@@ -1,0 +1,104 @@
+{
+  "date": "2025-01-05",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-22968",
+      "repo_info": "[CRUNZEX/CVE-2025-22968](https://github.com/CRUNZEX/CVE-2025-22968)",
+      "description": "no description",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T06:51:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-55457",
+      "repo_info": "[h13nh04ng/CVE-2024-55457-PoC](https://github.com/h13nh04ng/CVE-2024-55457-PoC)",
+      "description": "no description",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T09:07:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-49113",
+      "repo_info": "[YoonJae-rep/CVE-2024-49113](https://github.com/YoonJae-rep/CVE-2024-49113)",
+      "description": "CVE-2024-49113에 대한 익스플로잇. Windows Lightweight Directory Access Protocol(LDAP)의 취약성.",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T01:32:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[Axi0n1ze/CVE-2024-47575-POC](https://github.com/Axi0n1ze/CVE-2024-47575-POC)",
+      "description": "CVE POC Exploit",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T02:54:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[revanslbw/CVE-2024-47575-POC](https://github.com/revanslbw/CVE-2024-47575-POC)",
+      "description": "CVE POC Exploit",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T20:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[exfil0/WEAPONIZING-CVE-2024-4367](https://github.com/exfil0/WEAPONIZING-CVE-2024-4367)",
+      "description": "CVE-2024-4367 is a critical vulnerability (CVSS 9.8) in PDF.js, allowing arbitrary JavaScript code execution due to insufficient type checks on the FontMatrix object within PDF files.",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T14:44:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-2667",
+      "repo_info": "[Nxploited/CVE-2024-2667-Poc](https://github.com/Nxploited/CVE-2024-2667-Poc)",
+      "description": "no description",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T15:03:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-25641",
+      "repo_info": "[D3Ext/CVE-2024-25641](https://github.com/D3Ext/CVE-2024-25641)",
+      "description": "POC exploit for CVE-2024-25641",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T21:33:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-10124",
+      "repo_info": "[Nxploited/CVE-2024-10124-Poc](https://github.com/Nxploited/CVE-2024-10124-Poc)",
+      "description": "no description",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T20:42:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-6931",
+      "repo_info": "[jungju817/CVE-2023-6931](https://github.com/jungju817/CVE-2023-6931)",
+      "description": "CVE-2023-6931 kernel panic PoC",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T00:28:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-44967",
+      "repo_info": "[D3Ext/LimeSurvey-RCE](https://github.com/D3Ext/LimeSurvey-RCE)",
+      "description": "POC exploit for CVE-2021-44967",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T13:12:07Z"
+    },
+    {
+      "cve_id": "CVE-2020-25223",
+      "repo_info": "[gh-2025-02/poc-cve-2020-25223](https://github.com/gh-2025-02/poc-cve-2020-25223)",
+      "description": "poc-cve-2020-25223",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T03:34:33Z"
+    },
+    {
+      "cve_id": "CVE-2004-1151",
+      "repo_info": "[lulugelian/CVE_2004_1151](https://github.com/lulugelian/CVE_2004_1151)",
+      "description": "CVE_2004_1151",
+      "date": "2025-01-05",
+      "raw_date": "2025-01-05T13:21:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.366550",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-01-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

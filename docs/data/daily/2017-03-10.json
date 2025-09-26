@@ -1,0 +1,55 @@
+{
+  "date": "2017-03-10",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[mthbernardes/strutszeiro](https://github.com/mthbernardes/strutszeiro)",
+      "description": "Telegram Bot to manage botnets created with struts vulnerability(CVE-2017-5638)",
+      "date": "2017-03-10",
+      "raw_date": "2017-03-10T04:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[paralelo14/CVE_2017_5638](https://github.com/paralelo14/CVE_2017_5638)",
+      "description": "no description",
+      "date": "2017-03-10",
+      "raw_date": "2017-03-10T15:16:44Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[immunio/apache-struts2-CVE-2017-5638](https://github.com/immunio/apache-struts2-CVE-2017-5638)",
+      "description": "Demo Application and Exploit",
+      "date": "2017-03-10",
+      "raw_date": "2017-03-10T21:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[xsscx/cve-2017-5638](https://github.com/xsscx/cve-2017-5638)",
+      "description": "Example PoC Code for CVE-2017-5638 - Apache Struts Exploit",
+      "date": "2017-03-10",
+      "raw_date": "2017-03-10T16:56:14Z"
+    },
+    {
+      "cve_id": "CVE-2016-6662",
+      "repo_info": "[saelo/foxpwn](https://github.com/saelo/foxpwn)",
+      "description": "Exploit code for CVE-2016-9066",
+      "date": "2017-03-10",
+      "raw_date": "2017-03-10T20:08:13Z"
+    },
+    {
+      "cve_id": "CVE-2014-9301",
+      "repo_info": "[NoneNotNull/SSRFX](https://github.com/NoneNotNull/SSRFX)",
+      "description": "CVE-2014-4210+Redis未授权访问",
+      "date": "2017-03-10",
+      "raw_date": "2017-03-10T02:09:48Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.939581",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2017-03-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

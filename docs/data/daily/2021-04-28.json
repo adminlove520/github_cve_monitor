@@ -1,0 +1,41 @@
+{
+  "date": "2021-04-28",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-14321",
+      "repo_info": "[lanzt/CVE-2020-14321](https://github.com/lanzt/CVE-2020-14321)",
+      "description": "Python script to exploit CVE-2020-14321 - Moodle 3.9 - Course enrollments allowed privilege escalation from teacher role into manager role to RCE.",
+      "date": "2021-04-28",
+      "raw_date": "2021-04-28T19:46:55Z"
+    },
+    {
+      "cve_id": "CVE-2020-14295",
+      "repo_info": "[0z09e/CVE-2020-14295](https://github.com/0z09e/CVE-2020-14295)",
+      "description": "Authenticated SQL injection to command execution on Cacti 1.2.12",
+      "date": "2021-04-28",
+      "raw_date": "2021-04-28T20:57:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-20933",
+      "repo_info": "[LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933](https://github.com/LorenzoTullini/InfluxDB-Exploit-CVE-2019-20933)",
+      "description": "InfluxDB CVE-2019-20933 vulnerability exploit",
+      "date": "2021-04-28",
+      "raw_date": "2021-04-28T16:25:31Z"
+    },
+    {
+      "cve_id": "CVE-2018-6065",
+      "repo_info": "[tumikoto/Exploit-FortinetMagicBackdoor](https://github.com/tumikoto/Exploit-FortinetMagicBackdoor)",
+      "description": "PoC for CVE-2018-13382, never successfully tested so swim at your own risk",
+      "date": "2021-04-28",
+      "raw_date": "2021-04-28T19:17:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.088748",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-04-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

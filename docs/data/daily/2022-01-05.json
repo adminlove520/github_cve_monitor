@@ -1,0 +1,41 @@
+{
+  "date": "2022-01-05",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-45232",
+      "repo_info": "[Kuibagit/CVE-2021-45232-RCE](https://github.com/Kuibagit/CVE-2021-45232-RCE)",
+      "description": "CVE-2021-45232-RCE",
+      "date": "2022-01-05",
+      "raw_date": "2022-01-05T09:07:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[alexpena5635/CVE-2021-44228_scanner-main-Modified-](https://github.com/alexpena5635/CVE-2021-44228_scanner-main-Modified-)",
+      "description": "no description",
+      "date": "2022-01-05",
+      "raw_date": "2022-01-05T00:14:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-20028",
+      "repo_info": "[cvelez2002/cvelez2002](https://github.com/cvelez2002/cvelez2002)",
+      "description": "Config files for my GitHub profile.",
+      "date": "2022-01-05",
+      "raw_date": "2022-01-05T08:33:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-7352",
+      "repo_info": "[szerszen199/PS-CVE-2020-7352](https://github.com/szerszen199/PS-CVE-2020-7352)",
+      "description": "Powershell implemetation of CVE-2020-7352",
+      "date": "2022-01-05",
+      "raw_date": "2022-01-05T00:11:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.115835",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-01-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2017-11-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[herbiezimmerman/2017-11-17-Maldoc-Using-CVE-2017-0199](https://github.com/herbiezimmerman/2017-11-17-Maldoc-Using-CVE-2017-0199)",
+      "description": "no description",
+      "date": "2017-11-17",
+      "raw_date": "2017-11-17T20:00:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.963264",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-11-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

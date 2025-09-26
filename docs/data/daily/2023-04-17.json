@@ -1,0 +1,41 @@
+{
+  "date": "2023-04-17",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-29084",
+      "repo_info": "[ohnonoyesyes/CVE-2023-29084](https://github.com/ohnonoyesyes/CVE-2023-29084)",
+      "description": "Command injection in ManageEngine ADManager Plus",
+      "date": "2023-04-17",
+      "raw_date": "2023-04-17T01:32:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-21554",
+      "repo_info": "[C00k3rbkr/CVE-2023-21554-RCE](https://github.com/C00k3rbkr/CVE-2023-21554-RCE)",
+      "description": "CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ)/QueueJumper",
+      "date": "2023-04-17",
+      "raw_date": "2023-04-17T16:43:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-2033",
+      "repo_info": "[insoxin/CVE-2023-2033](https://github.com/insoxin/CVE-2023-2033)",
+      "description": "Reproduce CVE-2023-2033",
+      "date": "2023-04-17",
+      "raw_date": "2023-04-17T00:25:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[randallbanner/Spring-Cloud-Function-Vulnerability-CVE-2022-22963-RCE](https://github.com/randallbanner/Spring-Cloud-Function-Vulnerability-CVE-2022-22963-RCE)",
+      "description": "no description",
+      "date": "2023-04-17",
+      "raw_date": "2023-04-17T13:54:06Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.261508",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2023-04-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

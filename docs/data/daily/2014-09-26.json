@@ -1,0 +1,62 @@
+{
+  "date": "2014-09-26",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[internero/debian-lenny-bash_3.2.52-cve-2014-6271](https://github.com/internero/debian-lenny-bash_3.2.52-cve-2014-6271)",
+      "description": "Debian Lenny Bash packages with cve-2014-6271 patches (i386 and amd64)",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T18:59:04Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[APSL/salt-shellshock](https://github.com/APSL/salt-shellshock)",
+      "description": "Salt recipe for  shellshock (CVE-2014-6271)",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T10:30:37Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[ksang/shellshock](https://github.com/ksang/shellshock)",
+      "description": "CVE 2014-6271 PoC Tool by kaitoY",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T04:41:51Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[villadora/CVE-2014-6271](https://github.com/villadora/CVE-2014-6271)",
+      "description": "scaner for cve-2014-6271",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T04:15:15Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[securusglobal/BadBash](https://github.com/securusglobal/BadBash)",
+      "description": "CVE-2014-6271 (ShellShock) RCE PoC tool",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T01:30:14Z"
+    },
+    {
+      "cve_id": "CVE-2014-4378",
+      "repo_info": "[teedeedubya/bash-fix-exploit](https://github.com/teedeedubya/bash-fix-exploit)",
+      "description": "Ansible role to check the CVE-2014-6271 vulnerability",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T15:21:10Z"
+    },
+    {
+      "cve_id": "CVE-2012-4681",
+      "repo_info": "[benjholla/CVE-2012-4681-Armoring](https://github.com/benjholla/CVE-2012-4681-Armoring)",
+      "description": "An A/V evasion armoring experiment for CVE-2012-4681",
+      "date": "2014-09-26",
+      "raw_date": "2014-09-26T02:33:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.860995",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2014-09-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2024-09-25",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8514",
+      "repo_info": "[maybeheisenberg/CVE-2024-8514](https://github.com/maybeheisenberg/CVE-2024-8514)",
+      "description": "no description",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T17:40:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-8275",
+      "repo_info": "[nothe1senberg/CVE-2024-8275](https://github.com/nothe1senberg/CVE-2024-8275)",
+      "description": "no description",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T17:08:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-7646",
+      "repo_info": "[dovics/cve-2024-7646](https://github.com/dovics/cve-2024-7646)",
+      "description": "PoC CVE-2024-7646",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T11:13:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-7617",
+      "repo_info": "[maybeheisenberg/CVE-2024-7617](https://github.com/maybeheisenberg/CVE-2024-7617)",
+      "description": "no description",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T17:47:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-7385",
+      "repo_info": "[nothe1senberg/CVE-2024-7385](https://github.com/nothe1senberg/CVE-2024-7385)",
+      "description": "no description",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T17:35:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-48589",
+      "repo_info": "[Exek1el/CVE-2024-48589](https://github.com/Exek1el/CVE-2024-48589)",
+      "description": "no description",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T08:11:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-46627",
+      "repo_info": "[d4lyw/CVE-2024-46627](https://github.com/d4lyw/CVE-2024-46627)",
+      "description": "CVE-2024-46627 - Incorrect access control in BECN DATAGERRY v2.2 allows attackers to &gt; execute arbitrary commands via crafted web requests.",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T10:32:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-38816",
+      "repo_info": "[masa42/CVE-2024-38816-PoC](https://github.com/masa42/CVE-2024-38816-PoC)",
+      "description": "CVE-2024-38816 Proof of Concept",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T09:36:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[surajhacx/HelakuruV.1.1-DLLHijack](https://github.com/surajhacx/HelakuruV.1.1-DLLHijack)",
+      "description": "Helakuru Version 1.1 DLL Hijack - CVE-2024-48605",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T18:23:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-1380",
+      "repo_info": "[RandomRobbieBF/CVE-2024-1380](https://github.com/RandomRobbieBF/CVE-2024-1380)",
+      "description": "Relevanssi – A Better Search &lt;= 4.22.0 - Missing Authorization to Unauthenticated Query Log Export",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T14:49:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-9484",
+      "repo_info": "[Disturbante/CVE-2020-9484](https://github.com/Disturbante/CVE-2020-9484)",
+      "description": "Bash POC for CVE-2020-9484 that i used in tryhackme challenge",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T14:55:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[grayorwhite/CVE-2019-15107](https://github.com/grayorwhite/CVE-2019-15107)",
+      "description": "CVE-2019-15107 webmin 취약점에 대해서 직접 서버를 구축하고 공격 결과를 남긴 정보입니다.",
+      "date": "2024-09-25",
+      "raw_date": "2024-09-25T17:22:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.348899",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-09-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

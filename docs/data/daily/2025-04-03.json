@@ -1,0 +1,125 @@
+{
+  "date": "2025-04-03",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-50002",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-50002](https://github.com/NotItsSixtyN3in/CVE-2025-50002)",
+      "description": "no description",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T17:42:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-50001",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-50001](https://github.com/NotItsSixtyN3in/CVE-2025-50001)",
+      "description": "no description",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T17:27:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-50000",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-50000](https://github.com/NotItsSixtyN3in/CVE-2025-50000)",
+      "description": "no description",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T17:23:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-31864",
+      "repo_info": "[DoTTak/CVE-2025-31864](https://github.com/DoTTak/CVE-2025-31864)",
+      "description": "PoC of CVE-2025-31864",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T00:38:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-30921",
+      "repo_info": "[DoTTak/CVE-2025-30921](https://github.com/DoTTak/CVE-2025-30921)",
+      "description": "PoC of CVE-2025-30921",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T00:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-30567",
+      "repo_info": "[realcodeb0ss/CVE-2025-30567-PoC](https://github.com/realcodeb0ss/CVE-2025-30567-PoC)",
+      "description": "CVE-2025-30567 - WordPress WP01 &lt; Path traversal",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T22:52:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-30567",
+      "repo_info": "[fahimalshihab/NextBypass](https://github.com/fahimalshihab/NextBypass)",
+      "description": "Next.js Middleware Authorization Bypass Tool (CVE-2025-29927)",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T18:02:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[4m3rr0r/CVE-2025-30208-PoC](https://github.com/4m3rr0r/CVE-2025-30208-PoC)",
+      "description": "CVE-2025-30208 - Vite Arbitrary File Read PoC",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T11:46:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-2825",
+      "repo_info": "[WOOOOONG/CVE-2025-2825](https://github.com/WOOOOONG/CVE-2025-2825)",
+      "description": "no description",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T01:13:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-24799",
+      "repo_info": "[MuhammadWaseem29/CVE-2025-24799](https://github.com/MuhammadWaseem29/CVE-2025-24799)",
+      "description": "no description",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T16:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-2294",
+      "repo_info": "[realcodeb0ss/CVE-2025-2294-PoC](https://github.com/realcodeb0ss/CVE-2025-2294-PoC)",
+      "description": "CVE-2025-2294 &lt; Wordpress Kubio[Plugin] - Local File Inclusion[LFI].",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T23:00:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-22223",
+      "repo_info": "[1ucky7/cve-2025-22223-demo-1.0.0](https://github.com/1ucky7/cve-2025-22223-demo-1.0.0)",
+      "description": "cve-2025-22223 漏洞复现",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T07:30:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-2005",
+      "repo_info": "[h4ckxel/CVE-2025-2005](https://github.com/h4ckxel/CVE-2025-2005)",
+      "description": "no description",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T17:05:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-53900",
+      "repo_info": "[Gokul-Krishnan-V-R/CVE-2024-53900](https://github.com/Gokul-Krishnan-V-R/CVE-2024-53900)",
+      "description": "Mongo Vulnub Lab...Try to Hack IT.....!",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T17:01:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[cboss43/CVE-2024-25600](https://github.com/cboss43/CVE-2024-25600)",
+      "description": "Unauthenticated RCE exploit for CVE-2024-25600 in WordPress Bricks Builder &lt;= 1.9.6. Executes arbitrary code remotely.",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T13:54:25Z"
+    },
+    {
+      "cve_id": "CVE-2019-11395",
+      "repo_info": "[RafaelBicas/CVE-2019-11395](https://github.com/RafaelBicas/CVE-2019-11395)",
+      "description": "Proof of concept with the academic purpose to understand the Buffer Overflow vulnerability using as background the CVE-2019-11395",
+      "date": "2025-04-03",
+      "raw_date": "2025-04-03T02:03:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.382093",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-04-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

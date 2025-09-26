@@ -1,0 +1,125 @@
+{
+  "date": "2025-08-01",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-50422",
+      "repo_info": "[Landw-hub/CVE-2025-50422](https://github.com/Landw-hub/CVE-2025-50422)",
+      "description": "no description",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T06:53:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-50420",
+      "repo_info": "[Landw-hub/CVE-2025-50420](https://github.com/Landw-hub/CVE-2025-50420)",
+      "description": "no description",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T05:42:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-48703",
+      "repo_info": "[itstarsec/CVE-2025-48703](https://github.com/itstarsec/CVE-2025-48703)",
+      "description": "CVE-2025-48703 là lỗ hổng mức độ nghiêm trọng trong CentOS Web Panel (CWP) cho phép kẻ tấn công không xác thực (unauthenticated) có thể thực thi mã từ xa (RCE) thông qua bỏ qua cơ chế xác thực và thực thi câu lệnh hệ thống. Lỗ hổng ảnh hưởng CWP từ phiên bản 0.9.8.1204 trở về trước, và đã được vá trên phiên bản mới nhất 0.9.8.1205.",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T02:34:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[f1shh/CVE-2025-48384](https://github.com/f1shh/CVE-2025-48384)",
+      "description": "test for CVE-2025-48384",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T05:20:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-46206",
+      "repo_info": "[Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206)",
+      "description": "no description",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T03:06:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-46018",
+      "repo_info": "[niranjangaire1995/CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass](https://github.com/niranjangaire1995/CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass)",
+      "description": "Disclosure of CVE-2025-46018: A Bluetooth-based payment bypass vulnerability in CSC Pay Mobile App v2.19.4&quot;",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T12:25:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-41373",
+      "repo_info": "[byteReaper77/CVE-2025-41373](https://github.com/byteReaper77/CVE-2025-41373)",
+      "description": "PoC for CVE-2025-41373  Authenticated SQL Injection in Gandia Integra Total v2.1.2217.3–4.4.2236.1",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T20:42:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-20229",
+      "repo_info": "[allinsthon/CVE-2025-20229](https://github.com/allinsthon/CVE-2025-20229)",
+      "description": "no description",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T16:01:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-8517",
+      "repo_info": "[saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517](https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517)",
+      "description": "This Python exploit targets a critical unauthenticated Remote Code Execution (RCE) vulnerability in the BigUp plugin of SPIP CMS (≤ 4.3.1, 4.2.15, 4.1.17). It abuses the bigup_retrouver_fichiers parameter, allowing attackers to execute arbitrary PHP via upload progress features, without authentication.",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T11:14:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-27804",
+      "repo_info": "[a0zhar/QuarkPoC](https://github.com/a0zhar/QuarkPoC)",
+      "description": "iOS Application w/Implementation of CVE-2024-27804",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T14:20:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[Nosie12/fire-wall-server](https://github.com/Nosie12/fire-wall-server)",
+      "description": "Python-based simulated firewall to detect and block Spring4Shell (CVE-2022-22965) exploit attempts. This project filters HTTP requests by identifying malicious payload patterns using a custom firewall_server.py and tests them with test_requests.py.",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T20:20:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[osungjinwoo/CVE-2022-22965](https://github.com/osungjinwoo/CVE-2022-22965)",
+      "description": "Spring4Shell (POC)",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T19:29:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-21365",
+      "repo_info": "[andrei2308/CVE-2020-21365-PoC](https://github.com/andrei2308/CVE-2020-21365-PoC)",
+      "description": "PoC for directory traversal and exposure on wkhtmltopdf 12.0.5",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T13:04:09Z"
+    },
+    {
+      "cve_id": "CVE-2017-13156",
+      "repo_info": "[nictjh/threatDemos](https://github.com/nictjh/threatDemos)",
+      "description": "Comprehensive Android security vulnerability demonstrations featuring CVE-2017-13156 (Janus), broadcast receiver exploitation, external storage threats, and rooted device attacks. Educational PoCs with working code, exploitation scripts, and security controls for developers and researchers. To be updated...",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T01:26:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-12629",
+      "repo_info": "[captain-woof/cve-2017-12629](https://github.com/captain-woof/cve-2017-12629)",
+      "description": "Remote code execution occurs in Apache Solr before 7.1 with Apache Lucene before 7.1 by exploiting XXE in conjunction with use of a Config API add-listener command to reach the RunExecutableListener class.",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T14:31:44Z"
+    },
+    {
+      "cve_id": "CVE-2015-6668",
+      "repo_info": "[NoTrustedx/Job-Manager-Disclosure](https://github.com/NoTrustedx/Job-Manager-Disclosure)",
+      "description": "CVE-2015-6668, relacionada con el plugin WP Job Manager para WordPress (versiones ≤ 0.7.25).",
+      "date": "2025-08-01",
+      "raw_date": "2025-08-01T02:03:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.406567",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-08-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

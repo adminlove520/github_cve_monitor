@@ -1,0 +1,34 @@
+{
+  "date": "2020-10-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-5014",
+      "repo_info": "[copethomas/datapower-redis-rce-exploit](https://github.com/copethomas/datapower-redis-rce-exploit)",
+      "description": "A POC for IBM Datapower Authenticated Redis RCE Exploit abusing the Test Message Function (CVE-2020-5014)",
+      "date": "2020-10-18",
+      "raw_date": "2020-10-18T10:32:32Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[mt-code/CVE-2019-11447](https://github.com/mt-code/CVE-2019-11447)",
+      "description": "Exploits CuteNews 2.1.2 via poor file upload checks used when uploading an avatar image leading to RCE.",
+      "date": "2020-10-18",
+      "raw_date": "2020-10-18T13:49:55Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[stealth-ronin/CVE-2017-0199-PY-KIT](https://github.com/stealth-ronin/CVE-2017-0199-PY-KIT)",
+      "description": "no description",
+      "date": "2020-10-18",
+      "raw_date": "2020-10-18T20:24:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.066463",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

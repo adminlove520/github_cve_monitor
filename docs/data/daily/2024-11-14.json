@@ -1,0 +1,111 @@
+{
+  "date": "2024-11-14",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7124",
+      "repo_info": "[kac89/CVE-2024-7124](https://github.com/kac89/CVE-2024-7124)",
+      "description": "Improper Neutralization of Input During Web Page Generation vulnerability in DInGO dLibra software in the parameter &#x27;filter&#x27; in the endpoint &#x27;indexsearch&#x27; allows a Reflected Cross-Site Scripting (XSS).",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T16:05:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-5764",
+      "repo_info": "[fin3ss3g0d/CVE-2024-5764](https://github.com/fin3ss3g0d/CVE-2024-5764)",
+      "description": "CVE-2024-5764 exploitation script",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T20:08:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-52302",
+      "repo_info": "[d3sca/CVE-2024-52302](https://github.com/d3sca/CVE-2024-52302)",
+      "description": "common-user-management is a robust Spring Boot application featuring user management services designed to control user access dynamically. There is a critical security vulnerability in the application endpoint /api/v1/customer/profile-picture. This endpoint allows file uploads without proper validation or restrictions leads to (RCE)",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T16:04:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-52301",
+      "repo_info": "[Nyamort/CVE-2024-52301](https://github.com/Nyamort/CVE-2024-52301)",
+      "description": "no description",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T18:41:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-2387",
+      "repo_info": "[davidmgaviria/CVE2_Jenkins_RCE](https://github.com/davidmgaviria/CVE2_Jenkins_RCE)",
+      "description": "A proof of concept cross-site WebSocket hijacking exploit for CVE-2024-23898 — a vulnerability affecting Jenkins versions 2.217-2.441.  For educational use in the Hacking &amp; Offensive Security course at Carnegie Mellon University.",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T00:02:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-23334",
+      "repo_info": "[TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC](https://github.com/TheRedP4nther/LFI-aiohttp-CVE-2024-23334-PoC)",
+      "description": "Bash script to automate Local File Inclusion (LFI) attacks on aiohttp server version 3.9.1.",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T21:43:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10924](https://github.com/RandomRobbieBF/CVE-2024-10924)",
+      "description": "Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T16:59:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-7261",
+      "repo_info": "[zerozenxlabs/CVE-2023-7261](https://github.com/zerozenxlabs/CVE-2023-7261)",
+      "description": "Google Chrome Updater DosDevices Local Privilege Escalation Vulnerability",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T23:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[node011/CVE-2023-27997-POC](https://github.com/node011/CVE-2023-27997-POC)",
+      "description": "Fortigate SSL VPN buffer overflow exploit",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T14:41:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-20474",
+      "repo_info": "[cxxsheng/CVE-2022-20474](https://github.com/cxxsheng/CVE-2022-20474)",
+      "description": "PoC of CVE-2022-20474",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T08:48:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-1653",
+      "repo_info": "[elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653](https://github.com/elzerjp/nuclei-CiscoRV320Dump-CVE-2019-1653)",
+      "description": "CiscoRV320Dump  CVE-2019-1653 - Automatition.",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T16:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-11869",
+      "repo_info": "[rix4uni/CVE-2019-11869](https://github.com/rix4uni/CVE-2019-11869)",
+      "description": "no description",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T00:56:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-11869",
+      "repo_info": "[gitrecon1455/CVE-2019-11869](https://github.com/gitrecon1455/CVE-2019-11869)",
+      "description": "no description",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T00:57:57Z"
+    },
+    {
+      "cve_id": "CVE-2014-3566",
+      "repo_info": "[GoRuGoo/poodle-attack-sandbox](https://github.com/GoRuGoo/poodle-attack-sandbox)",
+      "description": "Test code for poodle attack (CVE-2014-3566)",
+      "date": "2024-11-14",
+      "raw_date": "2024-11-14T04:35:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.357557",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2024-11-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

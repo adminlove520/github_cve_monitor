@@ -1,0 +1,34 @@
+{
+  "date": "2022-02-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[pyhrr0/pwnkit](https://github.com/pyhrr0/pwnkit)",
+      "description": "PoC for CVE-2021-4034.",
+      "date": "2022-02-07",
+      "raw_date": "2022-02-07T12:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2020-0452",
+      "repo_info": "[presentdaypresenttime/shai_hulud](https://github.com/presentdaypresenttime/shai_hulud)",
+      "description": "Worm written in python, abuses CVE-2020-7247",
+      "date": "2022-02-07",
+      "raw_date": "2022-02-07T10:59:36Z"
+    },
+    {
+      "cve_id": "CVE-2015-1328",
+      "repo_info": "[0x1ns4n3/CVE-2015-1328-GoldenEye](https://github.com/0x1ns4n3/CVE-2015-1328-GoldenEye)",
+      "description": "kernel exploit",
+      "date": "2022-02-07",
+      "raw_date": "2022-02-07T10:52:51Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.119202",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-02-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

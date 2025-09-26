@@ -1,0 +1,146 @@
+{
+  "date": "2023-07-01",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-37625",
+      "repo_info": "[benjaminpsinclair/Netbox-CVE-2023-37625](https://github.com/benjaminpsinclair/Netbox-CVE-2023-37625)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T21:02:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-34843",
+      "repo_info": "[Imahian/CVE-2023-34843](https://github.com/Imahian/CVE-2023-34843)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T02:02:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-34843",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-34843-illrj](https://github.com/hheeyywweellccoommee/CVE-2023-34843-illrj)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T03:01:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-34599",
+      "repo_info": "[Imahian/CVE-2023-34599](https://github.com/Imahian/CVE-2023-34599)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T03:07:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-34599",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-34599-xsddo](https://github.com/hheeyywweellccoommee/CVE-2023-34599-xsddo)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T04:00:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-34598",
+      "repo_info": "[Imahian/CVE-2023-34598](https://github.com/Imahian/CVE-2023-34598)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T02:51:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-34598",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-34598-ghonc](https://github.com/hheeyywweellccoommee/CVE-2023-34598-ghonc)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T03:01:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-27372",
+      "repo_info": "[Jhonsonwannaa/CVE-2023-27372](https://github.com/Jhonsonwannaa/CVE-2023-27372)",
+      "description": "spip",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T17:08:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-26258",
+      "repo_info": "[Imahian/CVE-2023-26258](https://github.com/Imahian/CVE-2023-26258)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T02:41:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-26258",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-26258-lbalq](https://github.com/hheeyywweellccoommee/CVE-2023-26258-lbalq)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T03:01:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-24488",
+      "repo_info": "[k00kx/CVE-2023-24488](https://github.com/k00kx/CVE-2023-24488)",
+      "description": "Reversing Citrix Gateway for XSS",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T23:36:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-24488",
+      "repo_info": "[SirBugs/CVE-2023-24488-PoC](https://github.com/SirBugs/CVE-2023-24488-PoC)",
+      "description": "CVE-2023-24488 PoC",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T17:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-4510",
+      "repo_info": "[Imahian/CVE-2022-4510](https://github.com/Imahian/CVE-2022-4510)",
+      "description": "Binwalk",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T01:54:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-4510",
+      "repo_info": "[hheeyywweellccoommee/CVE-2022-4510-yjrvc](https://github.com/hheeyywweellccoommee/CVE-2022-4510-yjrvc)",
+      "description": "Binwalk",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T02:00:39Z"
+    },
+    {
+      "cve_id": "CVE-2016-4655",
+      "repo_info": "[0xyf77/CVE-2016-4655](https://github.com/0xyf77/CVE-2016-4655)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T07:58:30Z"
+    },
+    {
+      "cve_id": "CVE-2016-4655",
+      "repo_info": "[hheeyywweellccoommee/CVE-2016-4655-xoajc](https://github.com/hheeyywweellccoommee/CVE-2016-4655-xoajc)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T08:00:30Z"
+    },
+    {
+      "cve_id": "CVE-2015-10034",
+      "repo_info": "[andrenasx/CVE-2015-10034](https://github.com/andrenasx/CVE-2015-10034)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T23:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2015-10034",
+      "repo_info": "[hheeyywweellccoommee/CVE-2015-10034-akdfu](https://github.com/hheeyywweellccoommee/CVE-2015-10034-akdfu)",
+      "description": "no description",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T22:00:45Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[JoaoPedroMoreira02/CVE-2014-6271](https://github.com/JoaoPedroMoreira02/CVE-2014-6271)",
+      "description": "&quot;Shellshock&quot; Vulnerability. Remote code execution in Apache with mod_cgi",
+      "date": "2023-07-01",
+      "raw_date": "2023-07-01T03:50:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.272879",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2023-07-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

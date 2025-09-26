@@ -1,0 +1,20 @@
+{
+  "date": "2017-01-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-7255",
+      "repo_info": "[martinmullins/amazon_remove_ads_apk](https://github.com/martinmullins/amazon_remove_ads_apk)",
+      "description": "Android App that removes amazon ads on the lockscreen on motorolla phones using exploit CVE 2016 5195",
+      "date": "2017-01-12",
+      "raw_date": "2017-01-12T01:06:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.934522",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-01-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

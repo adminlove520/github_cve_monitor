@@ -1,0 +1,76 @@
+{
+  "date": "2024-09-12",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8522",
+      "repo_info": "[realbotnet/CVE-2024-8522](https://github.com/realbotnet/CVE-2024-8522)",
+      "description": "POC Wordpress SQL Injection vulnerability  LearnPress REST API endpoint",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T13:46:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-5356",
+      "repo_info": "[droyuu/Aj-Report-sql-CVE-2024-5356-POC](https://github.com/droyuu/Aj-Report-sql-CVE-2024-5356-POC)",
+      "description": "no description",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T03:02:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[phirojshah/CVE-2024-4577](https://github.com/phirojshah/CVE-2024-4577)",
+      "description": "no description",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T19:27:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-](https://github.com/AhmedMansour93/Event-ID-268-Rule-Name-SOC292-Possible-PHP-Injection-Detected-CVE-2024-4577-)",
+      "description": "🚨 New Incident Report Completed! 🚨 Just wrapped up &quot;Event ID 268: SOC292 - Possible PHP Injection Detected (CVE-2024-4577)&quot; on LetsDefend.io. This analysis involved investigating an attempted Command Injection targeting our PHP server. Staying ahead of these threats with continuous monitoring and swift containment! 🛡️",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T19:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-1709",
+      "repo_info": "[AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-](https://github.com/AhmedMansour93/Event-ID-229-Rule-Name-SOC262-CVE-2024-1709-)",
+      "description": "Event ID 229 Rule Name SOC262 ScreenConnect Authentication Bypass Exploitation Detected (CVE-2024-1709)",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T20:31:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-29357",
+      "repo_info": "[AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357](https://github.com/AhmedMansour93/Event-ID-189-Rule-Name-SOC227-CVE-2023-29357)",
+      "description": "Event ID 189 Rule Name SOC227  Microsoft SharePoint Server Elevation of Privilege Possible CVE-2023-29357 ..  Exploitation",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T17:45:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-28753",
+      "repo_info": "[pingjuiliao/CVE-2023-28753](https://github.com/pingjuiliao/CVE-2023-28753)",
+      "description": "pwning netconsd",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T23:57:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-41852",
+      "repo_info": "[xpectomas/CVE-2022-41852-Disable](https://github.com/xpectomas/CVE-2022-41852-Disable)",
+      "description": "no description",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T05:43:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[impost0r/CVE-2022-1388](https://github.com/impost0r/CVE-2022-1388)",
+      "description": "Old weaponized CVE-2022-1388 exploit.",
+      "date": "2024-09-12",
+      "raw_date": "2024-09-12T17:25:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.346893",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-09-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

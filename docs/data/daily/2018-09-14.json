@@ -1,0 +1,27 @@
+{
+  "date": "2018-09-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-16713",
+      "repo_info": "[DownWithUp/CVE-2018-16713](https://github.com/DownWithUp/CVE-2018-16713)",
+      "description": "PoC code for CVE-2018-16713 (exploit by rdmsr)",
+      "date": "2018-09-14",
+      "raw_date": "2018-09-14T14:10:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-1000802",
+      "repo_info": "[tna0y/CVE-2018-1000802-PoC](https://github.com/tna0y/CVE-2018-1000802-PoC)",
+      "description": "Python CVE-2018-1000802 Proof-of-Concept",
+      "date": "2018-09-14",
+      "raw_date": "2018-09-14T16:22:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.991259",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

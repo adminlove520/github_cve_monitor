@@ -1,0 +1,55 @@
+{
+  "date": "2024-09-21",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-42861",
+      "repo_info": "[qiupy123/CVE-2024-42861](https://github.com/qiupy123/CVE-2024-42861)",
+      "description": "the",
+      "date": "2024-09-21",
+      "raw_date": "2024-09-21T01:24:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[ArenaldyP/CVE-2024-38063-Medium](https://github.com/ArenaldyP/CVE-2024-38063-Medium)",
+      "description": "Kode Eksploitasi CVE-2024-38063",
+      "date": "2024-09-21",
+      "raw_date": "2024-09-21T17:33:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-3273",
+      "repo_info": "[X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE](https://github.com/X-Projetion/CVE-2024-3273-D-Link-Remote-Code-Execution-RCE)",
+      "description": "CVE-2024-3273 - D-Link Remote Code Execution (RCE)",
+      "date": "2024-09-21",
+      "raw_date": "2024-09-21T11:17:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[Twappz/CVE-2023-41425](https://github.com/Twappz/CVE-2023-41425)",
+      "description": "WonderCMS RCE CVE-2023-41425",
+      "date": "2024-09-21",
+      "raw_date": "2024-09-21T06:22:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-40459",
+      "repo_info": "[7h3w4lk3r/CVE-2023-40459](https://github.com/7h3w4lk3r/CVE-2023-40459)",
+      "description": "CVE-2023-40459 Unauthenticated DoS PoC Exploit",
+      "date": "2024-09-21",
+      "raw_date": "2024-09-21T16:53:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[Azrenom/CMS-Made-Simple-2.2.9-CVE-2019-9053](https://github.com/Azrenom/CMS-Made-Simple-2.2.9-CVE-2019-9053)",
+      "description": "no description",
+      "date": "2024-09-21",
+      "raw_date": "2024-09-21T12:36:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.348409",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2024-09-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2016-06-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-1734",
+      "repo_info": "[Manouchehri/CVE-2016-1734](https://github.com/Manouchehri/CVE-2016-1734)",
+      "description": "no description",
+      "date": "2016-06-03",
+      "raw_date": "2016-06-03T05:37:06Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.915025",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-06-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2021-12-21",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44852",
+      "repo_info": "[rejupillai/log4j2-hack-springboot](https://github.com/rejupillai/log4j2-hack-springboot)",
+      "description": "Log4j2 CVE-2021-44228 hack demo for a springboot app",
+      "date": "2021-12-21",
+      "raw_date": "2021-12-21T17:40:02Z"
+    },
+    {
+      "cve_id": "CVE-2019-6693",
+      "repo_info": "[gquere/CVE-2019-6693](https://github.com/gquere/CVE-2019-6693)",
+      "description": "Decrypt FortiGate configuration secrets",
+      "date": "2021-12-21",
+      "raw_date": "2021-12-21T15:28:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-15514",
+      "repo_info": "[bibi1959/CVE-2019-15514](https://github.com/bibi1959/CVE-2019-15514)",
+      "description": "telegram bug that discloses user&#x27;s hidden phone number (still unpatched) (exploit included)",
+      "date": "2021-12-21",
+      "raw_date": "2021-12-21T19:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2016-10140",
+      "repo_info": "[asaotomo/CVE-2016-10140-Zoneminder-Poc](https://github.com/asaotomo/CVE-2016-10140-Zoneminder-Poc)",
+      "description": "Zoneminder 未授权访问批量检测工具：ZoneMinder v1.30和v1.29捆绑的Apache HTTP Server配置中存在信息泄露和认证绕过漏洞，允许远程未认证攻击者浏览web根目录下的所有目录。",
+      "date": "2021-12-21",
+      "raw_date": "2021-12-21T13:17:10Z"
+    },
+    {
+      "cve_id": "CVE-2006-3392",
+      "repo_info": "[windsormoreira/CVE-2006-3392](https://github.com/windsormoreira/CVE-2006-3392)",
+      "description": "Webmin Local File Include (unauthenticated)",
+      "date": "2021-12-21",
+      "raw_date": "2021-12-21T04:18:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.113850",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2021-12-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

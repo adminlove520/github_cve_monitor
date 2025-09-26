@@ -1,0 +1,27 @@
+{
+  "date": "2019-07-05",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3238",
+      "repo_info": "[pyiesone/CVE-2016-3238-PoC](https://github.com/pyiesone/CVE-2016-3238-PoC)",
+      "description": "Whitepaper for CVE-2016-3238/MS16-087 Proof Of concept.",
+      "date": "2019-07-05",
+      "raw_date": "2019-07-05T06:49:09Z"
+    },
+    {
+      "cve_id": "CVE-2007-4607",
+      "repo_info": "[Unix13/metasploitable2](https://github.com/Unix13/metasploitable2)",
+      "description": "PHP-CGI-REMOTE_CVE-2012-1823, UnrealIRCd, MySQL, PostgreSQL and SSH bruteforce, VSFTPD2.3.4, samba CVE-2007-2447, JAVA RMI Server, distcc daemon, misconfigured NFS files, etc.",
+      "date": "2019-07-05",
+      "raw_date": "2019-07-05T11:55:41Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.020037",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-07-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2021-01-26",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9484",
+      "repo_info": "[AssassinUKG/CVE-2020-9484](https://github.com/AssassinUKG/CVE-2020-9484)",
+      "description": "no description",
+      "date": "2021-01-26",
+      "raw_date": "2021-01-26T22:51:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-8840",
+      "repo_info": "[dpredrag/CVE-2020-8840](https://github.com/dpredrag/CVE-2020-8840)",
+      "description": "no description",
+      "date": "2021-01-26",
+      "raw_date": "2021-01-26T19:10:22Z"
+    },
+    {
+      "cve_id": "CVE-2020-8840",
+      "repo_info": "[tezeb/accfly](https://github.com/tezeb/accfly)",
+      "description": "Disclosure of Accfly camera vulnerabilities: CVE-2020-25782, CVE-2020-25783, CVE-2020-25784, CVE-2020-25785.",
+      "date": "2021-01-26",
+      "raw_date": "2021-01-26T15:48:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.078705",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-01-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

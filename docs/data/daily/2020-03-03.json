@@ -1,0 +1,27 @@
+{
+  "date": "2020-03-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0601",
+      "repo_info": "[exploitblizzard/CVE-2020-0601-spoofkey](https://github.com/exploitblizzard/CVE-2020-0601-spoofkey)",
+      "description": "no description",
+      "date": "2020-03-03",
+      "raw_date": "2020-03-03T08:49:47Z"
+    },
+    {
+      "cve_id": "CVE-2019-1458",
+      "repo_info": "[piotrflorczyk/cve-2019-1458_POC](https://github.com/piotrflorczyk/cve-2019-1458_POC)",
+      "description": "POC for cve-2019-1458",
+      "date": "2020-03-03",
+      "raw_date": "2020-03-03T17:55:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.043503",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-03-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

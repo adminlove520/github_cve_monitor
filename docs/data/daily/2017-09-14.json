@@ -1,0 +1,27 @@
+{
+  "date": "2017-09-14",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8759",
+      "repo_info": "[bhdresh/CVE-2017-8759](https://github.com/bhdresh/CVE-2017-8759)",
+      "description": "Exploit toolkit CVE-2017-8759 - v1.0 is a handy python script which provides pentesters and security researchers a quick and effective way to test Microsoft .NET Framework RCE. It could generate a malicious RTF file and deliver metasploit / meterpreter / other payload to victim without any complex configuration.",
+      "date": "2017-09-14",
+      "raw_date": "2017-09-14T10:04:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-8759",
+      "repo_info": "[homjxi0e/CVE-2017-8759_-SOAP_WSDL](https://github.com/homjxi0e/CVE-2017-8759_-SOAP_WSDL)",
+      "description": "CVE-2017-8759 Remote Code Execution Vulnerability On SOAP WDSL - Microsoft .NET Framework 4.6.2  Microsoft .NET Framework 4.6.1  Microsoft .NET Framework 3.5.1  Microsoft .NET Framework 4.7  Microsoft .NET Framework 4.6  Microsoft .NET Framework 4.5.2  Microsoft .NET Framework 3.5",
+      "date": "2017-09-14",
+      "raw_date": "2017-09-14T06:20:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.957185",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

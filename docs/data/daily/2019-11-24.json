@@ -1,0 +1,20 @@
+{
+  "date": "2019-11-24",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-10952",
+      "repo_info": "[afbase/CVE-2017-10952](https://github.com/afbase/CVE-2017-10952)",
+      "description": "no description",
+      "date": "2019-11-24",
+      "raw_date": "2019-11-24T02:01:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.033397",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-11-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

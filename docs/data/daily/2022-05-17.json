@@ -1,0 +1,69 @@
+{
+  "date": "2022-05-17",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter](https://github.com/ExploitPwner/CVE-2022-30525-Zyxel-Mass-Exploiter)",
+      "description": "Zyxel multithreaded Mass Exploitation tool compatible with URL/IP lists.",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T15:58:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-24611",
+      "repo_info": "[ITSecLab-HSEL/CVE-2022-24611](https://github.com/ITSecLab-HSEL/CVE-2022-24611)",
+      "description": "Details regarding the Z-Wave S0-No-More attack",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T11:55:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[aancw/CVE-2022-1388-rs](https://github.com/aancw/CVE-2022-1388-rs)",
+      "description": "CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE written in Rust",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T10:51:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[getdrive/F5-BIG-IP-exploit](https://github.com/getdrive/F5-BIG-IP-exploit)",
+      "description": "CVE-2022-1388",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T03:23:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[VinuKalana/DirtyPipe-CVE-2022-0847](https://github.com/VinuKalana/DirtyPipe-CVE-2022-0847)",
+      "description": "This repository is developed to analysis and understand DirtyPipe exploit CVE-2022-0847",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T04:23:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-41946",
+      "repo_info": "[afaq1337/CVE-2021-41946](https://github.com/afaq1337/CVE-2021-41946)",
+      "description": "no description",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T15:23:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-40822",
+      "repo_info": "[phor3nsic/CVE-2021-40822](https://github.com/phor3nsic/CVE-2021-40822)",
+      "description": "no description",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T13:58:11Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[ThaFWord/pentesterlab](https://github.com/ThaFWord/pentesterlab)",
+      "description": "CVE-2018-6574: go get RCE",
+      "date": "2022-05-17",
+      "raw_date": "2022-05-17T08:32:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.133036",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-05-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

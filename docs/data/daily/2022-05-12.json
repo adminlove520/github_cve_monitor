@@ -1,0 +1,90 @@
+{
+  "date": "2022-05-12",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-26923",
+      "repo_info": "[r1skkam/TryHackMe-CVE-2022-26923](https://github.com/r1skkam/TryHackMe-CVE-2022-26923)",
+      "description": "Walkthrough on the exploitation of CVE-2022-26923, a vulnerability in AD Certificate Services",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T02:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[Calvitz/CVE-2022-26809](https://github.com/Calvitz/CVE-2022-26809)",
+      "description": "CVE-2022-26809 exp",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T07:12:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-25315",
+      "repo_info": "[Nivaskumark/external_expat_v2.1.0_CVE-2022-25315](https://github.com/Nivaskumark/external_expat_v2.1.0_CVE-2022-25315)",
+      "description": "no description",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T11:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-23253",
+      "repo_info": "[nettitude/CVE-2022-23253-PoC](https://github.com/nettitude/CVE-2022-23253-PoC)",
+      "description": "CVE-2022-23253 PoC",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T13:18:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-23121",
+      "repo_info": "[kuznyJan1972/CVE-2022-23121-RCE](https://github.com/kuznyJan1972/CVE-2022-23121-RCE)",
+      "description": "NETATALK-AFP-PROTO RCE :- This CVE-2022-23121 allows remote malicious users to execute arbitrary code on affected installations of Netatalk. Authentication is not required to exploit this vulnerability. The specific flaw exists within the parse_entries function. The issue results from the lack of proper error handling when parsing AppleDouble entries. An attacker can leverage this vulnerability to execute code in the context of root.",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T20:58:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Zeyad-Azima/CVE-2022-1388](https://github.com/Zeyad-Azima/CVE-2022-1388)",
+      "description": "F5 BIG-IP iControl REST vulnerability RCE exploit with Java including a testing LAB",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T16:54:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[MarcinGadz/spring-rce-poc](https://github.com/MarcinGadz/spring-rce-poc)",
+      "description": "Testing CVE-2022-22968",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T18:25:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[SecTheBit/CVE-2022-1388](https://github.com/SecTheBit/CVE-2022-1388)",
+      "description": "Nuclei Template for CVE-2022-1388",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T12:17:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[iosifache/ApacheRCEEssay](https://github.com/iosifache/ApacheRCEEssay)",
+      "description": "Essay (and PoCs) about CVE-2021-41773, a remote code execution vulnerability in Apache 2.4.49 🕸️",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T13:23:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[anldori/CVE-2021-41773-Scanner](https://github.com/anldori/CVE-2021-41773-Scanner)",
+      "description": "CVE-2021-41773 Shodan scanner",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T03:42:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[7heKnight/CVE-2020-0688](https://github.com/7heKnight/CVE-2020-0688)",
+      "description": "CVE-2020-0688_Microsoft Exchange default MachineKeySection deserialize vulnerability",
+      "date": "2022-05-12",
+      "raw_date": "2022-05-12T03:17:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.132241",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2022-05-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

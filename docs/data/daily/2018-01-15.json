@@ -1,0 +1,20 @@
+{
+  "date": "2018-01-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-12945",
+      "repo_info": "[GregAskew/SpeculativeExecutionAssessment](https://github.com/GregAskew/SpeculativeExecutionAssessment)",
+      "description": "Assesses a system for the &quot;speculative execution&quot; vulnerabilities described in CVE-2017-5715, CVE-2017-5753, CVE-2017-5754",
+      "date": "2018-01-15",
+      "raw_date": "2018-01-15T19:14:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.968881",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-01-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

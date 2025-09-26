@@ -1,0 +1,69 @@
+{
+  "date": "2023-08-07",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-39115",
+      "repo_info": "[Raj789-sec/CVE-2023-39115](https://github.com/Raj789-sec/CVE-2023-39115)",
+      "description": "Campcodes Online Matrimonial Website System 3.3 Cross Site Scripting",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T16:04:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-34312",
+      "repo_info": "[lan1oc/CVE-2023-34312-exp](https://github.com/lan1oc/CVE-2023-34312-exp)",
+      "description": "复现CVE-2023-34312所需的两个恶意dll文件",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T13:09:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-26067",
+      "repo_info": "[horizon3ai/CVE-2023-26067](https://github.com/horizon3ai/CVE-2023-26067)",
+      "description": "Lexmark CVE-2023-26067",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T20:55:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-21445",
+      "repo_info": "[StevenMeow/CVE-2022-21445](https://github.com/StevenMeow/CVE-2022-21445)",
+      "description": "CVE-2022-21445",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T05:59:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-0952",
+      "repo_info": "[RandomRobbieBF/CVE-2022-0952](https://github.com/RandomRobbieBF/CVE-2022-0952)",
+      "description": "Sitemap by click5 &lt; 1.0.36 - Unauthenticated Arbitrary Options Update",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T14:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[kahluri/CVE-2019-9053](https://github.com/kahluri/CVE-2019-9053)",
+      "description": "Original Exploit Source: https://www.exploit-db.com/exploits/46635",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T20:30:19Z"
+    },
+    {
+      "cve_id": "CVE-2018-4416",
+      "repo_info": "[erupmi/CVE-2018-4416](https://github.com/erupmi/CVE-2018-4416)",
+      "description": "CVE exploitation for WebKit jsc",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T05:13:34Z"
+    },
+    {
+      "cve_id": "CVE-2010-2075",
+      "repo_info": "[imperialbyte/CVE-2010-2075](https://github.com/imperialbyte/CVE-2010-2075)",
+      "description": "Very simple program to take advantage of CVE-2010-2075 UnrealIRCd Backdoor Exploit for Windows",
+      "date": "2023-08-07",
+      "raw_date": "2023-08-07T07:16:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.278442",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-08-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

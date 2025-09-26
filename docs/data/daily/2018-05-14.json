@@ -1,0 +1,48 @@
+{
+  "date": "2018-05-14",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2002-0200",
+      "repo_info": "[alt3kx/CVE-2002-0200](https://github.com/alt3kx/CVE-2002-0200)",
+      "description": "Cyberstop Web Server for Windows 0.1 allows remote attackers to cause a denial of service via an HTTP request for an MS-DOS device name.",
+      "date": "2018-05-14",
+      "raw_date": "2018-05-14T21:09:20Z"
+    },
+    {
+      "cve_id": "CVE-2001-1442",
+      "repo_info": "[alt3kx/CVE-2001-1442](https://github.com/alt3kx/CVE-2001-1442)",
+      "description": "ISC INN 2.x - Command-Line Buffer Overflow",
+      "date": "2018-05-14",
+      "raw_date": "2018-05-14T20:36:10Z"
+    },
+    {
+      "cve_id": "CVE-2001-0934",
+      "repo_info": "[alt3kx/CVE-2001-0934](https://github.com/alt3kx/CVE-2001-0934)",
+      "description": "Cooolsoft PowerFTP Server 2.03 allows remote attackers to obtain the physical path of the server root via the pwd command, which lists the full pathname.",
+      "date": "2018-05-14",
+      "raw_date": "2018-05-14T19:53:05Z"
+    },
+    {
+      "cve_id": "CVE-2001-0933",
+      "repo_info": "[alt3kx/CVE-2001-0933](https://github.com/alt3kx/CVE-2001-0933)",
+      "description": "Cooolsoft PowerFTP Server 2.03 allows remote attackers to list the contents of arbitrary drives via a ls (LIST) command that includes the drive letter as an argument, e.g. \"ls C:\".",
+      "date": "2018-05-14",
+      "raw_date": "2018-05-14T19:23:46Z"
+    },
+    {
+      "cve_id": "CVE-2001-0931",
+      "repo_info": "[alt3kx/CVE-2001-0931](https://github.com/alt3kx/CVE-2001-0931)",
+      "description": "Directory traversal vulnerability in Cooolsoft PowerFTP Server 2.03 allows attackers to list or read arbitrary files and directories via a .. (dot dot) in (1) LS or (2) GET.",
+      "date": "2018-05-14",
+      "raw_date": "2018-05-14T19:08:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.979912",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2018-05-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

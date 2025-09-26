@@ -1,0 +1,20 @@
+{
+  "date": "2019-07-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-18852",
+      "repo_info": "[HuanWoWeiLan/SoftwareSystemSecurity-2019](https://github.com/HuanWoWeiLan/SoftwareSystemSecurity-2019)",
+      "description": "软件系统安全结课作业：[漏洞复现] CVE-2018-4878 Flash 0day",
+      "date": "2019-07-17",
+      "raw_date": "2019-07-17T16:41:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.021097",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-07-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

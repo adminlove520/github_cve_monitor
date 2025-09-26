@@ -1,0 +1,41 @@
+{
+  "date": "2022-09-11",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[Expl0desploit/CVE-2022-32548](https://github.com/Expl0desploit/CVE-2022-32548)",
+      "description": "DrayTek Vigor Exploit",
+      "date": "2022-09-11",
+      "raw_date": "2022-09-11T16:24:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[Ziggy78/CVE-2022-26809-RCE-MASS](https://github.com/Ziggy78/CVE-2022-26809-RCE-MASS)",
+      "description": "metasploit and python(Multi and single target) module for CVE-2022-26809 windows rpc rce via smb 445",
+      "date": "2022-09-11",
+      "raw_date": "2022-09-11T14:41:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[Gustavo-Nogueira/Dirty-Pipe-Exploits](https://github.com/Gustavo-Nogueira/Dirty-Pipe-Exploits)",
+      "description": "CVE-2022-0847(Dirty Pipe) vulnerability exploits.",
+      "date": "2022-09-11",
+      "raw_date": "2022-09-11T19:50:53Z"
+    },
+    {
+      "cve_id": "CVE-2019-7213",
+      "repo_info": "[secunnix/CVE-2019-7213](https://github.com/secunnix/CVE-2019-7213)",
+      "description": "SmarterMail 16.x Exploit",
+      "date": "2022-09-11",
+      "raw_date": "2022-09-11T21:01:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.150777",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-09-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

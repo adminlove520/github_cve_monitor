@@ -1,0 +1,27 @@
+{
+  "date": "2020-03-23",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-5267",
+      "repo_info": "[GUI/legacy-rails-CVE-2020-5267-patch](https://github.com/GUI/legacy-rails-CVE-2020-5267-patch)",
+      "description": "Patch CVE-2020-5267 for Rails 4 and Rails 3",
+      "date": "2020-03-23",
+      "raw_date": "2020-03-23T16:16:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-12636",
+      "repo_info": "[XTeam-Wing/CVE-2017-12636](https://github.com/XTeam-Wing/CVE-2017-12636)",
+      "description": "CVE-2017-12636-exploit Couchdb",
+      "date": "2020-03-23",
+      "raw_date": "2020-03-23T10:11:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.045515",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-03-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

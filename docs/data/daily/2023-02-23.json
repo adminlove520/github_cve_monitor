@@ -1,0 +1,104 @@
+{
+  "date": "2023-02-23",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-999992",
+      "repo_info": "[yrtsec/CVE-2023-999992](https://github.com/yrtsec/CVE-2023-999992)",
+      "description": "no description",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T16:11:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-999991",
+      "repo_info": "[yrtsec/CVE-2023-999991](https://github.com/yrtsec/CVE-2023-999991)",
+      "description": "no description",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T15:48:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[ibaiw/joomla_CVE-2023-23752](https://github.com/ibaiw/joomla_CVE-2023-23752)",
+      "description": "未授权访问漏洞",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T01:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[wangking1/CVE-2023-23752-poc](https://github.com/wangking1/CVE-2023-23752-poc)",
+      "description": "CVE-2023-23752 poc",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T01:40:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[ifacker/CVE-2023-23752-Joomla](https://github.com/ifacker/CVE-2023-23752-Joomla)",
+      "description": "CVE-2023-23752 Joomla 未授权访问漏洞 poc",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T04:37:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-22974",
+      "repo_info": "[gbrsh/CVE-2023-22974](https://github.com/gbrsh/CVE-2023-22974)",
+      "description": "OpenEMR &lt; 7.0.0 Arbitrary File Read",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T18:14:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-0297",
+      "repo_info": "[b11y/CVE-2023-0297](https://github.com/b11y/CVE-2023-0297)",
+      "description": "pyLoad versions prior to 0.5.0b3.dev31 are vulnerable to Python code injection due to the pyimport functionality exposed through the js2py library.",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T03:28:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-42475",
+      "repo_info": "[scrt/cve-2022-42475](https://github.com/scrt/cve-2022-42475)",
+      "description": "POC code to exploit the Heap overflow in Fortinet&#x27;s SSLVPN daemon",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T10:04:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-32429",
+      "repo_info": "[b11y/CVE-2022-32429](https://github.com/b11y/CVE-2022-32429)",
+      "description": "allows unauthenticated attackers to arbitrarily configure settings within the application, leading to remote code execution.",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T03:33:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-42756",
+      "repo_info": "[3ndorph1n/CVE-2021-42756](https://github.com/3ndorph1n/CVE-2021-42756)",
+      "description": "no description",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T15:10:06Z"
+    },
+    {
+      "cve_id": "CVE-2021-4154",
+      "repo_info": "[veritas501/CVE-2021-4154](https://github.com/veritas501/CVE-2021-4154)",
+      "description": "CVE-2021-4154",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T08:38:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-39690",
+      "repo_info": "[Supersonic/Wallbreak](https://github.com/Supersonic/Wallbreak)",
+      "description": "Exploit app for CVE-2021-39670 and CVE-2021-39690, two permanent denial-of-service vulnerabilities in Android&#x27;s wallpaper system",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T06:36:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-0418",
+      "repo_info": "[fernandodruszcz/CVE-2020-0418](https://github.com/fernandodruszcz/CVE-2020-0418)",
+      "description": "no description",
+      "date": "2023-02-23",
+      "raw_date": "2023-02-23T17:05:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.253607",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2023-02-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

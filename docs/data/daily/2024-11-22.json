@@ -1,0 +1,251 @@
+{
+  "date": "2024-11-22",
+  "count": 34,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9441",
+      "repo_info": "[XiaomingX/cve-2024-9441-poc](https://github.com/XiaomingX/cve-2024-9441-poc)",
+      "description": "no description",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T02:04:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-7965",
+      "repo_info": "[XiaomingX/cve-2024-7965-poc](https://github.com/XiaomingX/cve-2024-7965-poc)",
+      "description": "CVE-2024-7965是Google Chrome浏览器中V8 JavaScript引擎的一个高危漏洞。该漏洞源于V8引擎在处理特定JavaScript代码时实现不当，导致堆内存损坏。攻击者可通过诱导用户访问包含特制JavaScript的恶意网页，利用此漏洞在Chrome渲染器中执行任意代码。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T02:55:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-55040",
+      "repo_info": "[tcbutler320/CVE-2024-55040-Sensaphone-XSS](https://github.com/tcbutler320/CVE-2024-55040-Sensaphone-XSS)",
+      "description": "Public disclose of several stored XSS vulnerabilities in the Sensaphone WEB600 (CVE-2024-55040)",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T22:25:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-5452",
+      "repo_info": "[XiaomingX/cve-2024-5452-poc](https://github.com/XiaomingX/cve-2024-5452-poc)",
+      "description": "此漏洞的根本原因是**深度差异库（deepdiff）**在反序列化用户输入时，未正确处理双下划线（dunder）属性。 PyTorch Lightning 使用 deepdiff.Delta 对象根据前端操作修改应用状态，设计目标是仅允许特定状态变量的修改。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T06:56:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-52475",
+      "repo_info": "[ubaii/CVE-2024-52475](https://github.com/ubaii/CVE-2024-52475)",
+      "description": "Broken Authentication in Wordpress plugin (Wawp Plugin &lt; 3.0.18)",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T18:29:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-52433",
+      "repo_info": "[RandomRobbieBF/CVE-2024-52433](https://github.com/RandomRobbieBF/CVE-2024-52433)",
+      "description": "My Geo Posts Free &lt;= 1.2 - Unauthenticated PHP Object Injection",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T08:56:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-52429",
+      "repo_info": "[RandomRobbieBF/CVE-2024-52429](https://github.com/RandomRobbieBF/CVE-2024-52429)",
+      "description": "WP Quick Setup &lt;= 2.0 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Plugin/Theme Installation",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T10:26:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[felmoltor/CVE-2024-48990](https://github.com/felmoltor/CVE-2024-48990)",
+      "description": "Qualys needsrestart vulnerability CVE-2024-48990",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T17:35:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[XiaomingX/cve-2024-47575-exp](https://github.com/XiaomingX/cve-2024-47575-exp)",
+      "description": "CVE-2024-47575是Fortinet的FortiManager和FortiManager Cloud产品中的一个严重漏洞，源于fgfmsd守护进程缺乏对关键功能的身份验证。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T03:13:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-45519",
+      "repo_info": "[XiaomingX/cve-2024-45519-POC](https://github.com/XiaomingX/cve-2024-45519-POC)",
+      "description": "no description",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T01:56:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-43919",
+      "repo_info": "[RandomRobbieBF/CVE-2024-43919](https://github.com/RandomRobbieBF/CVE-2024-43919)",
+      "description": "YARPP &lt;= 5.30.10 - Missing Authorization",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T15:42:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-37084",
+      "repo_info": "[XiaomingX/cve-2024-37084-Poc](https://github.com/XiaomingX/cve-2024-37084-Poc)",
+      "description": "CVE-2024-37084是Spring Cloud Data Flow中的一个高危漏洞，影响版本为2.11.0至2.11.3。该漏洞允许具有Skipper服务器API访问权限的攻击者通过精心构造的上传请求，将任意文件写入服务器文件系统的任意位置，进而可能导致远程代码执行，严重威胁服务器安全。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T13:53:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[XiaomingX/cve-2024-36401-poc](https://github.com/XiaomingX/cve-2024-36401-poc)",
+      "description": "CVE-2024-36401是GeoServer中的一个高危远程代码执行漏洞。GeoServer是一款开源的地理数据服务器软件，主要用于发布、共享和处理各种地理空间数据。  ALIYUN  漏洞原理： 该漏洞源于GeoServer在处理属性名称时，将其不安全地解析为XPath表达式。具体而言，GeoServer调用的GeoTools库API在评估要素类型的属性名称时，以不安全的方式将其传递给commons-jxpath库。由于commons-jxpath库在解析XPath表达式时允许执行任意代码，攻击者可以通过构造特定的输入，利用多个OGC请求参数（如WFS GetFeature、WFS GetPropertyValue、WMS GetMap等），在未经身份验证的情况下远程执行任意代码。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T14:21:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[thestar0/CVE-2024-36401-WoodpeckerPlugin](https://github.com/thestar0/CVE-2024-36401-WoodpeckerPlugin)",
+      "description": "CVE-2024-36401-GeoServer Property 表达式注入 Rce woodpecker-framework 插件",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T03:57:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-27130",
+      "repo_info": "[XiaomingX/cve-2024-27130-poc](https://github.com/XiaomingX/cve-2024-27130-poc)",
+      "description": "CVE-2024-27130是影响QNAP网络附加存储（NAS）设备的一个严重漏洞。该漏洞源于QTS操作系统中share.cgi脚本的No_Support_ACL函数中不安全地使用strcpy函数，导致堆栈缓冲区溢出。攻击者可以利用此漏洞，通过精心构造的请求在目标系统上执行任意代码，进而完全控制受影响的设备。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T14:18:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-25641",
+      "repo_info": "[XiaomingX/cve-2024-25641-poc](https://github.com/XiaomingX/cve-2024-25641-poc)",
+      "description": "PoC for CVE-2024-25641 Authenticated RCE on Cacti v1.2.26",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T14:05:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[XiaomingX/cve-2024-23113-exp](https://github.com/XiaomingX/cve-2024-23113-exp)",
+      "description": "no description",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T01:46:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-21626",
+      "repo_info": "[adaammmeeee/little-joke](https://github.com/adaammmeeee/little-joke)",
+      "description": "Some scripts to simulate an attack (used for CVE-2024-21626)",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T21:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-11432",
+      "repo_info": "[windz3r0day/CVE-2024-11432](https://github.com/windz3r0day/CVE-2024-11432)",
+      "description": "CVE-2024-11432 poc exploit",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T16:46:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-11428",
+      "repo_info": "[windz3r0day/CVE-2024-11428](https://github.com/windz3r0day/CVE-2024-11428)",
+      "description": "CVE-2024-11428 poc exploit",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T16:51:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-11412",
+      "repo_info": "[windz3r0day/CVE-2024-11412](https://github.com/windz3r0day/CVE-2024-11412)",
+      "description": "CVE-2024-11412 poc exploit",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T16:50:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-11388",
+      "repo_info": "[windz3r0day/CVE-2024-11388](https://github.com/windz3r0day/CVE-2024-11388)",
+      "description": "CVE-2024-11388 poc exploit",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T16:48:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-11381",
+      "repo_info": "[windz3r0day/CVE-2024-11381](https://github.com/windz3r0day/CVE-2024-11381)",
+      "description": "CVE-2024-11381 poc exploit",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T16:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-0012",
+      "repo_info": "[PunitTailor55/Paloalto-CVE-2024-0012](https://github.com/PunitTailor55/Paloalto-CVE-2024-0012)",
+      "description": "no description",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T20:58:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-0012",
+      "repo_info": "[XiaomingX/cve-2024-0012-poc](https://github.com/XiaomingX/cve-2024-0012-poc)",
+      "description": "CVE-2024-0012是Palo Alto Networks PAN-OS软件中的一个身份验证绕过漏洞。该漏洞允许未经身份验证的攻击者通过网络访问管理Web界面，获取PAN-OS管理员权限，从而执行管理操作、篡改配置，或利用其他需要身份验证的特权提升漏洞（如CVE-2024-9474）",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T14:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-0012",
+      "repo_info": "[iSee857/CVE-2024-0012-poc](https://github.com/iSee857/CVE-2024-0012-poc)",
+      "description": "CVE-2024-0012批量检测脚本",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T07:52:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[XiaomingX/cve-2023-38646-poc](https://github.com/XiaomingX/cve-2023-38646-poc)",
+      "description": "CVE-2023-38646是Metabase中的一个远程代码执行漏洞。该漏洞源于Metabase在处理未经身份验证的API端点/api/setup/validate时，对JDBC连接字符串的处理存在安全缺陷。攻击者可以通过构造特定的JDBC连接字符串，利用该端点在服务器上执行任意命令，而无需进行身份验证。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T04:15:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-32413",
+      "repo_info": "[synacktiv/CVE-2023-32413](https://github.com/synacktiv/CVE-2023-32413)",
+      "description": "Exploit code for CVE-2023-42914 / pwn2own Vancouver 2023",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T11:28:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[XiaomingX/cve-2023-20198-poc](https://github.com/XiaomingX/cve-2023-20198-poc)",
+      "description": "CVE-2023-20198是思科IOS XE软件Web UI功能中的一个严重漏洞，允许未经身份验证的远程攻击者在受影响的系统上创建具有特权级别15的账户，从而完全控制设备。",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T04:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-29442",
+      "repo_info": "[XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp](https://github.com/XiaomingX/cve-2021-29442-Nacos-Derby-rce-exp)",
+      "description": "Nacos Derby命令执行漏洞利用脚本",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T01:32:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[g1thubb002/poc-CVE-2020-35489](https://github.com/g1thubb002/poc-CVE-2020-35489)",
+      "description": "poc-CVE-2020-35489",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T21:42:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[aib0litt/poc-CVE-2020-1938](https://github.com/aib0litt/poc-CVE-2020-1938)",
+      "description": "poc-CVE-2020-1938",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T21:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2019-25065",
+      "repo_info": "[sagisar1/CVE-2019-25065-exploit](https://github.com/sagisar1/CVE-2019-25065-exploit)",
+      "description": "A POC for CVE-2019-25065, os command injection in OpenNetAdmin",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T22:56:42Z"
+    },
+    {
+      "cve_id": "CVE-2019-11248",
+      "repo_info": "[g1thubb001/poc-CVE-2019-11248](https://github.com/g1thubb001/poc-CVE-2019-11248)",
+      "description": "no description",
+      "date": "2024-11-22",
+      "raw_date": "2024-11-22T00:24:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.359090",
+  "metadata": {
+    "total_cves": 34,
+    "date_range": "2024-11-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

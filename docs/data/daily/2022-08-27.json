@@ -1,0 +1,41 @@
+{
+  "date": "2022-08-27",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-37177",
+      "repo_info": "[JC175/CVE-2022-37177](https://github.com/JC175/CVE-2022-37177)",
+      "description": "CVE-2022-37177 - HireVue-Broken-Or-Risky-Cryptographic-Algorithm",
+      "date": "2022-08-27",
+      "raw_date": "2022-08-27T15:00:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-27255",
+      "repo_info": "[stryker-project/CVE-2022-27255-checker](https://github.com/stryker-project/CVE-2022-27255-checker)",
+      "description": "Simple checker for CVE-2022-27255 using poc_crash and telnet availability",
+      "date": "2022-08-27",
+      "raw_date": "2022-08-27T15:56:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-0492",
+      "repo_info": "[yoeelingBin/CVE-2022-0492-Container-Escape](https://github.com/yoeelingBin/CVE-2022-0492-Container-Escape)",
+      "description": "CVE-2022-0492-Container-Escape",
+      "date": "2022-08-27",
+      "raw_date": "2022-08-27T04:02:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-7246",
+      "repo_info": "[arafatansari/SecAssignment](https://github.com/arafatansari/SecAssignment)",
+      "description": "A Docker image vulnerable to CVE-2020-7246.",
+      "date": "2022-08-27",
+      "raw_date": "2022-08-27T19:47:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.148801",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

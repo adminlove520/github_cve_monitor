@@ -1,0 +1,27 @@
+{
+  "date": "2019-12-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[aqhmal/pulsexploit](https://github.com/aqhmal/pulsexploit)",
+      "description": "Automated script for Pulse Secure SSL VPN exploit (CVE-2019-11510) using hosts retrieved from Shodan API. You must have a Shodan account to use this script.",
+      "date": "2019-12-07",
+      "raw_date": "2019-12-07T17:09:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[worawit/CVE-2019-0708](https://github.com/worawit/CVE-2019-0708)",
+      "description": "CVE-2019-0708 (BlueKeep)",
+      "date": "2019-12-07",
+      "raw_date": "2019-12-07T10:13:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.034581",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-12-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

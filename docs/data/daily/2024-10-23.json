@@ -1,0 +1,62 @@
+{
+  "date": "2024-10-23",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-48217",
+      "repo_info": "[m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-vulnerable-application)",
+      "description": "WARNING: This is a vulnerable application to test the exploit for the Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926). Run it at your own risk!",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T19:12:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-46538",
+      "repo_info": "[EQSTLab/CVE-2024-46538](https://github.com/EQSTLab/CVE-2024-46538)",
+      "description": "Proof-of-Concept for CVE-2024-46538",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T10:50:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-4040",
+      "repo_info": "[rahisec/CVE-2024-4040](https://github.com/rahisec/CVE-2024-4040)",
+      "description": "no description",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T06:29:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-10355",
+      "repo_info": "[K1nako0/CVE-2024-10355](https://github.com/K1nako0/CVE-2024-10355)",
+      "description": "no description",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T08:59:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-10354",
+      "repo_info": "[K1nako0/CVE-2024-10354](https://github.com/K1nako0/CVE-2024-10354)",
+      "description": "no description",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T08:37:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[Xanexs/CVE-2023-46747-Mass-RCE](https://github.com/Xanexs/CVE-2023-46747-Mass-RCE)",
+      "description": "CVE-2023-46747-Mass-RCE",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T13:27:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[bueno-armando/CVE-2023-4220-RCE](https://github.com/bueno-armando/CVE-2023-4220-RCE)",
+      "description": "no description",
+      "date": "2024-10-23",
+      "raw_date": "2024-10-23T04:01:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.353516",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-10-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

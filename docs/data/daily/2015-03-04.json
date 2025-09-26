@@ -1,0 +1,20 @@
+{
+  "date": "2015-03-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-0204",
+      "repo_info": "[felmoltor/FreakVulnChecker](https://github.com/felmoltor/FreakVulnChecker)",
+      "description": "This script check if your list of server is accepting Export cipher suites and could be vulnerable to CVE-2015-0204",
+      "date": "2015-03-04",
+      "raw_date": "2015-03-04T14:35:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.874756",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-03-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

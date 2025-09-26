@@ -1,0 +1,195 @@
+{
+  "date": "2022-06-03",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[Noxtal/follina](https://github.com/Noxtal/follina)",
+      "description": "All about CVE-2022-30190, aka follina, that is a RCE vulnerability that affects Microsoft Support Diagnostic Tools (MSDT) on Office apps such as Word. This is a very simple POC, feel free to check the sources below for more threat intelligence.",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T00:25:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[SrikeshMaharaj/CVE-2022-30190](https://github.com/SrikeshMaharaj/CVE-2022-30190)",
+      "description": "Follina POC by John Hammond",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T08:00:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[hilt86/cve-2022-30190-mitigate](https://github.com/hilt86/cve-2022-30190-mitigate)",
+      "description": "Powershell script to mitigate cve-2022-30190",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T06:54:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[droidrzrlover/CVE-2022-30190](https://github.com/droidrzrlover/CVE-2022-30190)",
+      "description": "This is to patch CVE-2022-30190. Use at your own risk.",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T05:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Nwqda/CVE-2022-26134](https://github.com/Nwqda/CVE-2022-26134)",
+      "description": "[PoC] Atlassian Confluence (CVE-2022-26134) - Unauthenticated OGNL injection vulnerability (RCE)",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T21:07:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[crowsec-edtech/CVE-2022-26134](https://github.com/crowsec-edtech/CVE-2022-26134)",
+      "description": "CVE-2022-26134 - Confluence Pre-Auth RCE - OGNL injection",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T19:24:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[jbaines-r7/through_the_wire](https://github.com/jbaines-r7/through_the_wire)",
+      "description": "CVE-2022-26134 Proof of Concept",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T13:59:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[oturu/CVE-2022-26134-POC](https://github.com/oturu/CVE-2022-26134-POC)",
+      "description": "CVE-2022-26134 ATLASIAN CONFULENCE UNAUTHETICATED RCE",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T18:32:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[th3b3ginn3r/CVE-2022-26134-Exploit-Detection-on-Linux](https://github.com/th3b3ginn3r/CVE-2022-26134-Exploit-Detection-on-Linux)",
+      "description": "This repository contains Yara rule and the method that a security investigator may want to use for CVE-2022-26134 threat hunting on their Linux confluence servers.",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T13:52:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[s0rtega/CVE-2022-26134_vuln](https://github.com/s0rtega/CVE-2022-26134_vuln)",
+      "description": "CVE-2022-26134  vuln domains",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T10:38:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[CyberDonkyx0/CVE-2022-26134](https://github.com/CyberDonkyx0/CVE-2022-26134)",
+      "description": "0-DAY: Unauthenticated Remote Code Execution in Atlassian Confluence (CVE-2022-26134).",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T09:30:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[offlinehoster/CVE-2022-26134](https://github.com/offlinehoster/CVE-2022-26134)",
+      "description": "Information and scripts for the confluence CVE-2022-26134",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T08:01:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-26133",
+      "repo_info": "[Trhackno/CVE-2022-26133](https://github.com/Trhackno/CVE-2022-26133)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T19:25:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[Expl0desploit/CVE-2022-22965](https://github.com/Expl0desploit/CVE-2022-22965)",
+      "description": "Spring exploit (LIMITED COPIES)",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T12:56:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[badboy-sft/CVE-2022-22954](https://github.com/badboy-sft/CVE-2022-22954)",
+      "description": "VMware Workspace ONE Access and Identity Manager RCE via SSTI. CVE-2022-22954 - PoC SSTI * exploit+payload+shodan (ну набором)",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T09:17:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[orwagodfather/CVE-2022-22954](https://github.com/orwagodfather/CVE-2022-22954)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T08:51:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-22909",
+      "repo_info": "[e4r23fd/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/e4r23fd/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T14:09:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-22909",
+      "repo_info": "[e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/e4r23fd/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T12:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-20004",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T06:24:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-1609",
+      "repo_info": "[NullBrunk/CVE-2022-1609](https://github.com/NullBrunk/CVE-2022-1609)",
+      "description": "Bash poc for CVE-2022-1609 WordPress Weblizar  Backdoor",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T02:49:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-0997",
+      "repo_info": "[henryreed/CVE-2022-0997](https://github.com/henryreed/CVE-2022-0997)",
+      "description": "Fidelis Network and Deception - Insecure File Permissions Privilege Escalation",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T05:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-0486",
+      "repo_info": "[henryreed/CVE-2022-0486](https://github.com/henryreed/CVE-2022-0486)",
+      "description": "Fidelis Network and Deception - Insecure File Permissions Privilege Escalation - Multiple",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T05:06:52Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[TanmoyG1800/CVE-2021-4034](https://github.com/TanmoyG1800/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T17:03:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-22054",
+      "repo_info": "[MKSx/CVE-2021-22054](https://github.com/MKSx/CVE-2021-22054)",
+      "description": "Generate SSRF payloads",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T14:06:02Z"
+    },
+    {
+      "cve_id": "CVE-2020-29597",
+      "repo_info": "[Trhackno/CVE-2020-29597](https://github.com/Trhackno/CVE-2020-29597)",
+      "description": "no description",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T19:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[NullBrunk/CVE-2011-2523](https://github.com/NullBrunk/CVE-2011-2523)",
+      "description": "Python exploit for CVE-2011-2523",
+      "date": "2022-06-03",
+      "raw_date": "2022-06-03T00:17:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.136074",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2022-06-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2015-03-26",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2094",
+      "repo_info": "[173210/spider](https://github.com/173210/spider)",
+      "description": "Spider Exploit with CVE-2013-2842",
+      "date": "2015-03-26",
+      "raw_date": "2015-03-26T10:12:32Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.876719",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-03-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

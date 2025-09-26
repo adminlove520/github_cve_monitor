@@ -1,0 +1,34 @@
+{
+  "date": "2022-03-23",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-27665",
+      "repo_info": "[dievus/CVE-2022-27665](https://github.com/dievus/CVE-2022-27665)",
+      "description": "Reflected XSS via AngularJS Sandbox Escape Expressions in IPSwitch WS_FTP Server 8.6.0",
+      "date": "2022-03-23",
+      "raw_date": "2022-03-23T14:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-1034",
+      "repo_info": "[GeorgyFirsov/CVE-2020-1034](https://github.com/GeorgyFirsov/CVE-2020-1034)",
+      "description": "CVE 2020-1034 exploit and presentation",
+      "date": "2022-03-23",
+      "raw_date": "2022-03-23T19:14:26Z"
+    },
+    {
+      "cve_id": "CVE-2016-10555",
+      "repo_info": "[domain9065v/bazad3](https://github.com/domain9065v/bazad3)",
+      "description": "Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite.",
+      "date": "2022-03-23",
+      "raw_date": "2022-03-23T06:02:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.124071",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-03-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

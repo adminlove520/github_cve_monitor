@@ -1,0 +1,41 @@
+{
+  "date": "2019-08-05",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-20059",
+      "repo_info": "[aforakjackson/cve20053299](https://github.com/aforakjackson/cve20053299)",
+      "description": "no description",
+      "date": "2019-08-05",
+      "raw_date": "2019-08-05T01:59:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-20059",
+      "repo_info": "[aforakjackson/cve2005-3299](https://github.com/aforakjackson/cve2005-3299)",
+      "description": "no description",
+      "date": "2019-08-05",
+      "raw_date": "2019-08-05T01:58:45Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[ThanHuuTuan/Heartexploit](https://github.com/ThanHuuTuan/Heartexploit)",
+      "description": "Aquí está mi nuevo y primer exploit web, este exploit ataca a la vulnerabilidad de HeartBleed (CVE-2014-0160) espero que os guste.",
+      "date": "2019-08-05",
+      "raw_date": "2019-08-05T10:09:44Z"
+    },
+    {
+      "cve_id": "CVE-2010-3437",
+      "repo_info": "[aforakjackson/cve2010-2333](https://github.com/aforakjackson/cve2010-2333)",
+      "description": "no description",
+      "date": "2019-08-05",
+      "raw_date": "2019-08-05T18:02:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.022880",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-08-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

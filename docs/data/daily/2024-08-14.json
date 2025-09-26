@@ -1,0 +1,62 @@
+{
+  "date": "2024-08-14",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[JolyIrsb/CVE-2024-4956](https://github.com/JolyIrsb/CVE-2024-4956)",
+      "description": "no description",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T16:41:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-4879",
+      "repo_info": "[jdusane/CVE-2024-4879](https://github.com/jdusane/CVE-2024-4879)",
+      "description": "Python script designed to detect specific vulnerabilities in ServiceNow instances and dump database connection details if the vulnerability is found. This tool is particularly useful for security researchers and penetration testers.",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T06:55:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-3183",
+      "repo_info": "[Cyxow/CVE-2024-3183-POC](https://github.com/Cyxow/CVE-2024-3183-POC)",
+      "description": "POC for CVE-2024-3183 (FreeIPA Rosting)",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T14:24:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-30051",
+      "repo_info": "[fortra/CVE-2024-30051](https://github.com/fortra/CVE-2024-30051)",
+      "description": "no description",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T16:20:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-22120",
+      "repo_info": "[g4nkd/CVE-2024-22120-RCE-with-gopher](https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher)",
+      "description": "This exploit was created to exploit an XXE (XML External Entity). Through it, I read the backend code of the web service and found an endpoint where I could use gopher to make internal requests on Zabbix vulnerable to RCE.",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T15:55:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-22809",
+      "repo_info": "[AntiVlad/CVE-2023-22809](https://github.com/AntiVlad/CVE-2023-22809)",
+      "description": "no description",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T07:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2012-1823",
+      "repo_info": "[0xFatality/CVE-2012-1823](https://github.com/0xFatality/CVE-2012-1823)",
+      "description": "Prova de conceito de php cgi argument injection",
+      "date": "2024-08-14",
+      "raw_date": "2024-08-14T01:12:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.341936",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-08-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

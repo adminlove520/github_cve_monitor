@@ -1,0 +1,55 @@
+{
+  "date": "2023-04-09",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-32243",
+      "repo_info": "[0xInfection/EPScalate](https://github.com/0xInfection/EPScalate)",
+      "description": "Exploit for elevation of privilege vulnerability in QuickHeal&#x27;s Seqrite EPS (CVE-2023-31497).",
+      "date": "2023-04-09",
+      "raw_date": "2023-04-09T05:26:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[h0ng10/CVE-2023-28432_docker](https://github.com/h0ng10/CVE-2023-28432_docker)",
+      "description": "Test environments for CVE-2023-28432, information disclosure in MinIO clusters",
+      "date": "2023-04-09",
+      "raw_date": "2023-04-09T20:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Pari-Malam/DorkerW-CVE-2023-23752](https://github.com/Pari-Malam/DorkerW-CVE-2023-23752)",
+      "description": "Perform with Dork Scanner and Massive with Joomla 4.2.8",
+      "date": "2023-04-09",
+      "raw_date": "2023-04-09T13:20:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[dgor2023/cve-2022-42889-text4shell-docker](https://github.com/dgor2023/cve-2022-42889-text4shell-docker)",
+      "description": "no description",
+      "date": "2023-04-09",
+      "raw_date": "2023-04-09T04:09:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-29361",
+      "repo_info": "[kevin-mizu/Werkzeug-CVE-2022-29361-PoC](https://github.com/kevin-mizu/Werkzeug-CVE-2022-29361-PoC)",
+      "description": "no description",
+      "date": "2023-04-09",
+      "raw_date": "2023-04-09T09:07:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[YuanRuQian/CVE-2021-44228-attack-demo](https://github.com/YuanRuQian/CVE-2021-44228-attack-demo)",
+      "description": "no description",
+      "date": "2023-04-09",
+      "raw_date": "2023-04-09T23:10:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.260404",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-04-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

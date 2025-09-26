@@ -1,0 +1,20 @@
+{
+  "date": "2020-09-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[Wh1t3Fox/cve-2018-15473](https://github.com/Wh1t3Fox/cve-2018-15473)",
+      "description": "no description",
+      "date": "2020-09-02",
+      "raw_date": "2020-09-02T23:07:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.061974",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-09-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

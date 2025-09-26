@@ -1,0 +1,118 @@
+{
+  "date": "2024-06-27",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-40318",
+      "repo_info": "[3v1lC0d3/RCE-QloApps-CVE-2024-40318](https://github.com/3v1lC0d3/RCE-QloApps-CVE-2024-40318)",
+      "description": "Remote code execution Vulnerability in QloApps  (version 1.6.0.0)",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T22:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-34350",
+      "repo_info": "[Sudistark/rewrites-nextjs-CVE-2024-34350](https://github.com/Sudistark/rewrites-nextjs-CVE-2024-34350)",
+      "description": "no description",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T14:00:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[bigb0x/CVE-2024-34102](https://github.com/bigb0x/CVE-2024-34102)",
+      "description": "POC for CVE-2024-34102. A pre-authentication XML entity injection issue in Magento / Adobe Commerce.",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T21:57:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[th3gokul/CVE-2024-34102](https://github.com/th3gokul/CVE-2024-34102)",
+      "description": "CVE-2024-34102: Unauthenticated Magento XXE",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T18:10:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[ArturArz1/TestCVE-2024-34102](https://github.com/ArturArz1/TestCVE-2024-34102)",
+      "description": "no description",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T16:59:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-30088",
+      "repo_info": "[NextGenPentesters/CVE-2024-30088-](https://github.com/NextGenPentesters/CVE-2024-30088-)",
+      "description": "🆘New Windows Kernel Priviledge Escalation Vulnerability",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T07:05:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-29943",
+      "repo_info": "[bjrjk/CVE-2024-29943](https://github.com/bjrjk/CVE-2024-29943)",
+      "description": "A Pwn2Own SpiderMonkey JIT Bug: From Integer Range Inconsistency to Bound Check Elimination then RCE",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T13:47:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-29943",
+      "repo_info": "[Sudistark/rewrites-nextjsCVE202434350](https://github.com/Sudistark/rewrites-nextjsCVE202434350)",
+      "description": "no description",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T14:01:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-29943",
+      "repo_info": "[Sudistark/rewrites-nextjs-CVE202434350](https://github.com/Sudistark/rewrites-nextjs-CVE202434350)",
+      "description": "no description",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T14:01:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-29943",
+      "repo_info": "[Sudistark/rewrites-nextjs-CVE-202434350](https://github.com/Sudistark/rewrites-nextjs-CVE-202434350)",
+      "description": "no description",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T14:01:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-21754",
+      "repo_info": "[CyberSecuritist/CVE-2024-21754-Forti-RCE](https://github.com/CyberSecuritist/CVE-2024-21754-Forti-RCE)",
+      "description": "no description",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T18:52:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-49103",
+      "repo_info": "[d0rb/CVE-2023-49103](https://github.com/d0rb/CVE-2023-49103)",
+      "description": "This is a simple proof of concept for CVE-2023-49103.",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T13:46:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning](https://github.com/Rishabh-Kumar-Cyber-Sec/CVE-2023-27163-ssrf-to-port-scanning)",
+      "description": "It is a simple script to automate internal port scanning dueto SSRF in requests-baskets v 1.2.1. this script can also assisst in solving &#x27;SAU&#x27; machine from hackthebox",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T09:48:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-38694",
+      "repo_info": "[TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820](https://github.com/TheGammaSqueeze/Bootloader_Unlock_Anbernic_T820)",
+      "description": "Bootloader unlock using CVE-2022-38694 for Anbernic Unisoc T820 devices",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T14:28:13Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[Fatalitysec/vsftpd_2.3.4_Backdoor](https://github.com/Fatalitysec/vsftpd_2.3.4_Backdoor)",
+      "description": "POC para CVE-2011-2523",
+      "date": "2024-06-27",
+      "raw_date": "2024-06-27T03:09:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.333279",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-06-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

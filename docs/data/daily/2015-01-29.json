@@ -1,0 +1,41 @@
+{
+  "date": "2015-01-29",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-3636",
+      "repo_info": "[F88/ghostbusters15](https://github.com/F88/ghostbusters15)",
+      "description": "Playbooks &#x27;Fix for CVE-2015-0235(GHOST)&#x27; running on Ansible",
+      "date": "2015-01-29",
+      "raw_date": "2015-01-29T12:52:45Z"
+    },
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[nickanderson/cfengine-CVE_2015_0235](https://github.com/nickanderson/cfengine-CVE_2015_0235)",
+      "description": "gethostbyname*() buffer overflow exploit in glibc - CVE-2015-0235 https://community.qualys.com/blogs/laws-of-vulnerabilities/2015/01/27/the-ghost-vulnerability",
+      "date": "2015-01-29",
+      "raw_date": "2015-01-29T04:58:54Z"
+    },
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[koudaiii-archives/cookbook-update-glibc](https://github.com/koudaiii-archives/cookbook-update-glibc)",
+      "description": "cookbook for update glibc. CVE-2015-0235(GHOST)",
+      "date": "2015-01-29",
+      "raw_date": "2015-01-29T07:14:17Z"
+    },
+    {
+      "cve_id": "CVE-2014-4076",
+      "repo_info": "[KPN-CISO/DRA_writeup](https://github.com/KPN-CISO/DRA_writeup)",
+      "description": "Writeup of the Oracle DSR stack buffer overflow vulnerability (DRA) CVE-2014-6598",
+      "date": "2015-01-29",
+      "raw_date": "2015-01-29T09:43:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.871869",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2015-01-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

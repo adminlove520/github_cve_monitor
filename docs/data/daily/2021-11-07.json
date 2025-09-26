@@ -1,0 +1,20 @@
+{
+  "date": "2021-11-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[padsalatushal/CVE-2011-2523](https://github.com/padsalatushal/CVE-2011-2523)",
+      "description": "Python exploit for vsftpd 2.3.4 - Backdoor Command Execution",
+      "date": "2021-11-07",
+      "raw_date": "2021-11-07T06:20:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.108825",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-11-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

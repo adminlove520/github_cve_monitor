@@ -1,0 +1,55 @@
+{
+  "date": "2022-12-15",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-45451",
+      "repo_info": "[alfarom256/CVE-2022-45451](https://github.com/alfarom256/CVE-2022-45451)",
+      "description": "PoC for Acronis Arbitrary File Read - CVE-2022-45451",
+      "date": "2022-12-15",
+      "raw_date": "2022-12-15T19:16:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-43680",
+      "repo_info": "[Trinadh465/external_expat-2.1.0_CVE-2022-43680](https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-43680)",
+      "description": "no description",
+      "date": "2022-12-15",
+      "raw_date": "2022-12-15T11:52:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-20186",
+      "repo_info": "[Bariskizilkaya/CVE-2022-20186_CTXZ](https://github.com/Bariskizilkaya/CVE-2022-20186_CTXZ)",
+      "description": "no description",
+      "date": "2022-12-15",
+      "raw_date": "2022-12-15T17:57:26Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[TweatherQ/CVE-2020-0796](https://github.com/TweatherQ/CVE-2020-0796)",
+      "description": "CVE-2020-0796-利用工具",
+      "date": "2022-12-15",
+      "raw_date": "2022-12-15T04:55:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-10220",
+      "repo_info": "[Trinadh465/linux-3.0.35_CVE-2019-10220](https://github.com/Trinadh465/linux-3.0.35_CVE-2019-10220)",
+      "description": "no description",
+      "date": "2022-12-15",
+      "raw_date": "2022-12-15T05:37:10Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[0xTas/CVE-2012-2982](https://github.com/0xTas/CVE-2012-2982)",
+      "description": "A PoC exploit for CVE-2012-2982 implemented in Rust",
+      "date": "2022-12-15",
+      "raw_date": "2022-12-15T12:45:48Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.164513",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-12-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

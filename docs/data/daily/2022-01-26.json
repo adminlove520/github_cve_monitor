@@ -1,0 +1,76 @@
+{
+  "date": "2022-01-26",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[chenaotian/CVE-2021-4034](https://github.com/chenaotian/CVE-2021-4034)",
+      "description": "CVE-2021-4034 POC and Docker and Analysis write up",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T10:58:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[xcanwin/CVE-2021-4034-UniontechOS](https://github.com/xcanwin/CVE-2021-4034-UniontechOS)",
+      "description": "统信UOS 桌面操作系统，存在CVE-2021-4034漏洞（Linux Polkit本地权限提升漏洞）。",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T15:07:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[ly4k/PwnKit](https://github.com/ly4k/PwnKit)",
+      "description": "Self-contained exploit for CVE-2021-4034 - Pkexec Local Privilege Escalation",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T14:26:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[dadvlingd/CVE-2021-4034](https://github.com/dadvlingd/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T16:43:18Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[arthepsy/CVE-2021-4034](https://github.com/arthepsy/CVE-2021-4034)",
+      "description": "PoC for PwnKit: Local Privilege Escalation Vulnerability in polkit’s pkexec (CVE-2021-4034)",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T00:56:36Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Y3A/CVE-2021-4034](https://github.com/Y3A/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T04:05:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[artemis-mike/cve-2021-4034](https://github.com/artemis-mike/cve-2021-4034)",
+      "description": "PoC for cve-2021-4034",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T16:11:40Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[SmithCGauss/CVE-2016-5195](https://github.com/SmithCGauss/CVE-2016-5195)",
+      "description": "debian",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T08:22:32Z"
+    },
+    {
+      "cve_id": "CVE-2010-2075",
+      "repo_info": "[omarothmann/Embedded-Backdoor-Connection](https://github.com/omarothmann/Embedded-Backdoor-Connection)",
+      "description": "This demonstration video shows how we can control the victim's device by sending the innocent-looking PDF file to the target which actually consists of embedded payload. The exploit was made public as CVE-2010-1240.",
+      "date": "2022-01-26",
+      "raw_date": "2022-01-26T05:59:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.117879",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-01-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

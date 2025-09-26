@@ -1,0 +1,41 @@
+{
+  "date": "2017-03-15",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[jrrdev/cve-2017-5638](https://github.com/jrrdev/cve-2017-5638)",
+      "description": "cve-2017-5638 Vulnerable site sample",
+      "date": "2017-03-15",
+      "raw_date": "2017-03-15T00:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2017-0065",
+      "repo_info": "[Dankirk/cve-2017-0065](https://github.com/Dankirk/cve-2017-0065)",
+      "description": "Exploiting Edge's read:// urlhandler",
+      "date": "2017-03-15",
+      "raw_date": "2017-03-15T13:01:29Z"
+    },
+    {
+      "cve_id": "CVE-2016-4657",
+      "repo_info": "[zcgonvh/MS16-032](https://github.com/zcgonvh/MS16-032)",
+      "description": "MS16-032(CVE-2016-0099) for SERVICE ONLY",
+      "date": "2017-03-15",
+      "raw_date": "2017-03-15T17:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2014-0050",
+      "repo_info": "[jrrdev/cve-2014-0050](https://github.com/jrrdev/cve-2014-0050)",
+      "description": "CVE-2014-0050 Vulnerable site sample",
+      "date": "2017-03-15",
+      "raw_date": "2017-03-15T04:59:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.940127",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-03-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

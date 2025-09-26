@@ -1,0 +1,48 @@
+{
+  "date": "2023-10-08",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4911",
+      "repo_info": "[xiaoQ1z/CVE-2023-4911](https://github.com/xiaoQ1z/CVE-2023-4911)",
+      "description": "no description",
+      "date": "2023-10-08",
+      "raw_date": "2023-10-08T03:26:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[joaoviictorti/CVE-2023-38646](https://github.com/joaoviictorti/CVE-2023-38646)",
+      "description": "CVE-2023-38646 (Pre-Auth RCE in Metabase)",
+      "date": "2023-10-08",
+      "raw_date": "2023-10-08T00:21:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[alexandre-pecorilla/CVE-2023-38646](https://github.com/alexandre-pecorilla/CVE-2023-38646)",
+      "description": "CVE-2023-38646 Pre-Auth RCE in Metabase",
+      "date": "2023-10-08",
+      "raw_date": "2023-10-08T14:52:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[yxl2001/CVE-2023-38646](https://github.com/yxl2001/CVE-2023-38646)",
+      "description": "no description",
+      "date": "2023-10-08",
+      "raw_date": "2023-10-08T07:36:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-10271",
+      "repo_info": "[Min-yeon/CVE-2017-10271](https://github.com/Min-yeon/CVE-2017-10271)",
+      "description": "no description",
+      "date": "2023-10-08",
+      "raw_date": "2023-10-08T15:55:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.288133",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-10-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

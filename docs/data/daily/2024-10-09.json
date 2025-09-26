@@ -1,0 +1,97 @@
+{
+  "date": "2024-10-09",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9465",
+      "repo_info": "[horizon3ai/CVE-2024-9465](https://github.com/horizon3ai/CVE-2024-9465)",
+      "description": "Proof of Concept Exploit for CVE-2024-9465",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T16:22:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-9464",
+      "repo_info": "[horizon3ai/CVE-2024-9464](https://github.com/horizon3ai/CVE-2024-9464)",
+      "description": "Proof of Concept Exploit for CVE-2024-9464",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T16:36:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-5057",
+      "repo_info": "[enter0x13/poc-CVE-2024-5057](https://github.com/enter0x13/poc-CVE-2024-5057)",
+      "description": "Let&#x27;s try to inject, because it&#x27;s CVE-2024-5057",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T00:42:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-43582",
+      "repo_info": "[jinxongwi/CVE-2024-43582-RCE](https://github.com/jinxongwi/CVE-2024-43582-RCE)",
+      "description": "Metasploit Module for CVE-2024-43582 RPC Remote  Desktop Service crititcal RCE",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T12:50:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-42640",
+      "repo_info": "[rvizx/CVE-2024-42640](https://github.com/rvizx/CVE-2024-42640)",
+      "description": "Unauthenticated Remote Code Execution via Angular-Base64-Upload Library",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T14:35:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[mrmtwoj/CVE-2024-38077](https://github.com/mrmtwoj/CVE-2024-38077)",
+      "description": "CVE-2024-38077: Remote Code Execution Vulnerability in Windows Remote Desktop Licensing Service",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T06:39:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-2876",
+      "repo_info": "[skyrowalker/CVE-2024-2876](https://github.com/skyrowalker/CVE-2024-2876)",
+      "description": "no description",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T19:24:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[geniuszlyy/CVE-2024-27198](https://github.com/geniuszlyy/CVE-2024-27198)",
+      "description": "is a PoC tool that targets a vulnerability in the TeamCity server (CVE-2024-27198)",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T13:36:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[skyrowalker/CVE-2024-24919](https://github.com/skyrowalker/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T17:54:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-6421",
+      "repo_info": "[RandomRobbieBF/CVE-2023-6421](https://github.com/RandomRobbieBF/CVE-2023-6421)",
+      "description": "Download Manager &lt; 3.2.83 - Unauthenticated Protected File Download Password Leak",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T13:18:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-45866",
+      "repo_info": "[Chedrian07/CVE-2023-45866-POC](https://github.com/Chedrian07/CVE-2023-45866-POC)",
+      "description": "no description",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T02:48:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-30486",
+      "repo_info": "[RandomRobbieBF/CVE-2023-30486](https://github.com/RandomRobbieBF/CVE-2023-30486)",
+      "description": "Square &lt;= 2.0.0 - Missing Authorization via activate_plugin",
+      "date": "2024-10-09",
+      "raw_date": "2024-10-09T09:33:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.351226",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-10-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

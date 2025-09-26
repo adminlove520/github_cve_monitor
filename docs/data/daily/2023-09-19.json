@@ -1,0 +1,83 @@
+{
+  "date": "2023-09-19",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-43876",
+      "repo_info": "[sromanhu/CVE-2023-43876-October-CMS-Reflected-XSS---Installation](https://github.com/sromanhu/CVE-2023-43876-October-CMS-Reflected-XSS---Installation)",
+      "description": "October CMS 3.4.16 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload in the installation process.",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T23:05:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-43875",
+      "repo_info": "[sromanhu/CVE-2023-43875-Subrion-CMS-Reflected-XSS---Installation](https://github.com/sromanhu/CVE-2023-43875-Subrion-CMS-Reflected-XSS---Installation)",
+      "description": "Subrion CMS 4.2.1 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload in the installation process.",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T22:58:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-43874",
+      "repo_info": "[sromanhu/CVE-2023-43874-e107-CMS-Stored-XSS---MetaCustomTags](https://github.com/sromanhu/CVE-2023-43874-e107-CMS-Stored-XSS---MetaCustomTags)",
+      "description": "e107 2.3.2 is affected by a Multiple Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Copyright and Author field in the Meta &amp; Custom Tags Menu.",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T10:23:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-43873",
+      "repo_info": "[sromanhu/CVE-2023-43873-e107-CMS-Stored-XSS---Manage](https://github.com/sromanhu/CVE-2023-43873-e107-CMS-Stored-XSS---Manage)",
+      "description": "e107 2.3.2 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Name field in the Manage Menu.",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T10:10:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-43871",
+      "repo_info": "[sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media](https://github.com/sromanhu/CVE-2023-43871-WBCE-Arbitrary-File-Upload--XSS---Media)",
+      "description": "WBCE 1.6.1 is affected by File Upload - XSS vulnerability that allows attackers to upload a PDF file with a hidden XSS that when executed will launch the XSS pop-up",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T10:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-43326",
+      "repo_info": "[ahrixia/CVE-2023-43326](https://github.com/ahrixia/CVE-2023-43326)",
+      "description": "mooSocial v3.1.8 is vulnerable to cross-site scripting on admin dashboard login function.",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T03:38:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-4128",
+      "repo_info": "[Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128)",
+      "description": "no description",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T06:45:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-4128",
+      "repo_info": "[im-hanzou/MSAPer](https://github.com/im-hanzou/MSAPer)",
+      "description": "Automatic Mass Tool for check and exploiting vulnerability in CVE-2023-3076 - MStore API &lt; 3.9.9 - Unauthenticated Privilege Escalation (Mass Add Admin)",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T04:59:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[elefantesagradodeluzinfinita/cve-2023-38831](https://github.com/elefantesagradodeluzinfinita/cve-2023-38831)",
+      "description": "DR. GANDALF: Aplicacion DESKTOP para WINDOWS, Inyector de archivos ZIP, generador de exploits para vulnerabilidad de WinRAR 6.22 y anteriores.",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T12:47:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-36319",
+      "repo_info": "[Lowalu/CVE-2023-36319](https://github.com/Lowalu/CVE-2023-36319)",
+      "description": "exp4CVE-2023-36319",
+      "date": "2023-09-19",
+      "raw_date": "2023-09-19T08:17:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.285133",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-09-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

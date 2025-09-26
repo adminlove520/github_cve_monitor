@@ -1,0 +1,153 @@
+{
+  "date": "2025-01-07",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-54910",
+      "repo_info": "[KrakenEU/CVE-2024-54910](https://github.com/KrakenEU/CVE-2024-54910)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T18:24:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-54292",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54292](https://github.com/RandomRobbieBF/CVE-2024-54292)",
+      "description": "Appsplate &lt;= 2.1.3 - Unauthenticated SQL Injection",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T17:14:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-54239",
+      "repo_info": "[whitebear-ch/GeoServerExploit](https://github.com/whitebear-ch/GeoServerExploit)",
+      "description": "GeoServer（CVE-2024-36401/CVE-2024-36404）漏洞利用工具",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T08:13:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[0xPThree/struts_cve-2024-53677](https://github.com/0xPThree/struts_cve-2024-53677)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T11:27:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[mksundaram69/CVE-2024-34102](https://github.com/mksundaram69/CVE-2024-34102)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T16:46:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-27115",
+      "repo_info": "[theexploiters/CVE-2024-27115-Exploit](https://github.com/theexploiters/CVE-2024-27115-Exploit)",
+      "description": "Exploit For SOPlanning 1.52.01 (Simple Online Planning Tool) - Remote Code Execution (RCE) (Authenticated)",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T13:38:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-12849",
+      "repo_info": "[Nxploited/CVE-2024-12849-Poc](https://github.com/Nxploited/CVE-2024-12849-Poc)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T16:57:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-12849",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12849](https://github.com/RandomRobbieBF/CVE-2024-12849)",
+      "description": "Error Log Viewer By WP Guru &lt;= 1.0.1.3 - Missing Authorization to Unauthenticated Arbitrary File Read",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T13:32:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-12849",
+      "repo_info": "[Julian-gmz/CVE-2024-436_Exploit](https://github.com/Julian-gmz/CVE-2024-436_Exploit)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T13:21:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-12535",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12535](https://github.com/RandomRobbieBF/CVE-2024-12535)",
+      "description": "Host PHP Info &lt;= 1.0.4 - Missing Authorization to Unauthenticated Sensitive Information Disclosure",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T15:08:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-12471",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12471](https://github.com/RandomRobbieBF/CVE-2024-12471)",
+      "description": "Post Saint: ChatGPT, GPT4, DALL-E, Stable Diffusion, Pexels, Dezgo AI Text &amp; Image Generator &lt;= 1.3.1 - Missing Authorization to Authenticated (Subscriber+) Arbitrary File Upload",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T14:30:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-12252",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12252](https://github.com/RandomRobbieBF/CVE-2024-12252)",
+      "description": "SEO LAT Auto Post &lt;= 2.2.1 - Missing Authorization to File Overwrite/Upload (Remote Code Execution)",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T16:22:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-12157",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12157](https://github.com/RandomRobbieBF/CVE-2024-12157)",
+      "description": "Popup – MailChimp, GetResponse and ActiveCampaign Intergrations &lt;= 3.2.6 - Unauthenticated SQL Injection",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T13:40:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-2645",
+      "repo_info": "[xymbiot-solution/CVE-2023-2645](https://github.com/xymbiot-solution/CVE-2023-2645)",
+      "description": "Simple Backdoor Industrial Internet of Things GSM Modem",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T08:55:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-29078",
+      "repo_info": "[chuckdu21/CVE-2022-29078](https://github.com/chuckdu21/CVE-2022-29078)",
+      "description": "PoC for CVE-2022-29078",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T22:07:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[JustinYe377/CTF-CVE-2022-0847](https://github.com/JustinYe377/CTF-CVE-2022-0847)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T00:25:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-41805",
+      "repo_info": "[acfirthh/CVE-2021-41805](https://github.com/acfirthh/CVE-2021-41805)",
+      "description": "A proof-of-concept for CVE-2021-41805 which is a vulnerability in HashiCorp Consul Enterprise allowing for Remote Code Execution (RCE).",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T22:45:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[Taldrid1/cve-2021-41773](https://github.com/Taldrid1/cve-2021-41773)",
+      "description": "no description",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T07:32:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-17240",
+      "repo_info": "[FenrirSec/CVE-2018-17240_exploit](https://github.com/FenrirSec/CVE-2018-17240_exploit)",
+      "description": "Bash exploit for the CVE-2018-17240 (Netwave Cameras Memory Leak)",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T15:10:26Z"
+    },
+    {
+      "cve_id": "CVE-2017-11165",
+      "repo_info": "[xymbiot-solution/CVE-2017-11165](https://github.com/xymbiot-solution/CVE-2017-11165)",
+      "description": "Datataker DT82E Simple Xploit",
+      "date": "2025-01-07",
+      "raw_date": "2025-01-07T08:10:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.366899",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2025-01-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

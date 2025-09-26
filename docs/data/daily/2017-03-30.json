@@ -1,0 +1,34 @@
+{
+  "date": "2017-03-30",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[zcgonvh/cve-2017-7269](https://github.com/zcgonvh/cve-2017-7269)",
+      "description": "fixed msf module for cve-2017-7269",
+      "date": "2017-03-30",
+      "raw_date": "2017-03-30T22:20:36Z"
+    },
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[whiteHat001/cve-2017-7269picture](https://github.com/whiteHat001/cve-2017-7269picture)",
+      "description": "no description",
+      "date": "2017-03-30",
+      "raw_date": "2017-03-30T12:03:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[M1a0rz/CVE-2017-7269](https://github.com/M1a0rz/CVE-2017-7269)",
+      "description": "Poc for iis6.0",
+      "date": "2017-03-30",
+      "raw_date": "2017-03-30T04:35:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.941613",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-03-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

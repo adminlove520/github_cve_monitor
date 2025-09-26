@@ -1,0 +1,153 @@
+{
+  "date": "2024-04-01",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[ackemed/detectar_cve-2024-3094](https://github.com/ackemed/detectar_cve-2024-3094)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T15:36:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[amlweems/xzbot](https://github.com/amlweems/xzbot)",
+      "description": "notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T14:28:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[dah4k/CVE-2024-3094](https://github.com/dah4k/CVE-2024-3094)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T16:42:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[0xlane/xz-cve-2024-3094](https://github.com/0xlane/xz-cve-2024-3094)",
+      "description": "XZ Backdoor Extract",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T16:08:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[gustavorobertux/CVE-2024-3094](https://github.com/gustavorobertux/CVE-2024-3094)",
+      "description": "Checker - CVE-2024-3094",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T15:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[reuteras/CVE-2024-3094](https://github.com/reuteras/CVE-2024-3094)",
+      "description": "Obsidian notes about CVE-2024-3094",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T12:41:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[mesutgungor/xz-backdoor-vulnerability](https://github.com/mesutgungor/xz-backdoor-vulnerability)",
+      "description": "CVE-2024-3094",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T09:09:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[mightysai1997/CVE-2024-3094](https://github.com/mightysai1997/CVE-2024-3094)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T09:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[mightysai1997/CVE-2024-3094-info](https://github.com/mightysai1997/CVE-2024-3094-info)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T09:05:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[zgimszhd61/cve-2024-3094-detect-tool](https://github.com/zgimszhd61/cve-2024-3094-detect-tool)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T04:28:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[galacticquest/cve-2024-3094-detect](https://github.com/galacticquest/cve-2024-3094-detect)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T02:25:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[MrBUGLF/XZ-Utils_CVE-2024-3094](https://github.com/MrBUGLF/XZ-Utils_CVE-2024-3094)",
+      "description": "XZ-Utils工具库恶意后门植入漏洞(CVE-2024-3094)",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T01:56:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-22641",
+      "repo_info": "[zunak/CVE-2024-22641](https://github.com/zunak/CVE-2024-22641)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T16:11:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-22640",
+      "repo_info": "[zunak/CVE-2024-22640](https://github.com/zunak/CVE-2024-22640)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T15:43:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-20767",
+      "repo_info": "[Praison001/CVE-2024-20767-Adobe-ColdFusion](https://github.com/Praison001/CVE-2024-20767-Adobe-ColdFusion)",
+      "description": "Exploit for CVE-2024-20767 affecting Adobe ColdFusion",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T09:01:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC](https://github.com/solomon12354/VolleyballSquid-----CVE-2023-38831-and-Bypass-UAC)",
+      "description": "This is my malware",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T15:59:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-32233",
+      "repo_info": "[void0red/CVE-2023-32233](https://github.com/void0red/CVE-2023-32233)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T01:20:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-24818",
+      "repo_info": "[mbadanoiu/CVE-2022-24818](https://github.com/mbadanoiu/CVE-2022-24818)",
+      "description": "CVE-2022-24818: Java Deserialization via Unchecked JNDI Lookups in GeoServer and GeoTools",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T13:06:31Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[HSw109/CVE-2018-10933-PoC](https://github.com/HSw109/CVE-2018-10933-PoC)",
+      "description": "Proof of Concept for CVE-2018-10933",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T13:47:26Z"
+    },
+    {
+      "cve_id": "CVE-2016-0705",
+      "repo_info": "[hshivhare67/OpenSSL_1.0.1g_CVE-2016-0705](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2016-0705)",
+      "description": "no description",
+      "date": "2024-04-01",
+      "raw_date": "2024-04-01T07:33:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.316777",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2024-04-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

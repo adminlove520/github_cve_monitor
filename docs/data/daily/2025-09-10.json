@@ -1,0 +1,167 @@
+{
+  "date": "2025-09-10",
+  "count": 22,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-57520",
+      "repo_info": "[onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-](https://github.com/onurcangnc/CVE-2025-57520-Stored-XSS-in-Decap-CMS-3.8.3-)",
+      "description": "A stored cross-site scripting (XSS) vulnerability exists in Decap CMS up to version 3.8.3.   The issue affects multiple input fields in the **admin interface** and is triggered when a privileged user opens the **content preview panel** of a malicious entry.",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T00:54:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-56605",
+      "repo_info": "[Userr404/CVE-2025-56605](https://github.com/Userr404/CVE-2025-56605)",
+      "description": "XSS (Cross-Site Scripting Vulnerability)",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T02:43:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-55232",
+      "repo_info": "[h4xnz/CVE-2025-55232-Exploit](https://github.com/h4xnz/CVE-2025-55232-Exploit)",
+      "description": "no description",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T12:33:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-55232",
+      "repo_info": "[MooseLoveti/PagSeguro-Connect-Para-WooCommerce-CVE-Report](https://github.com/MooseLoveti/PagSeguro-Connect-Para-WooCommerce-CVE-Report)",
+      "description": "Disclosure for CVE-2025-10142",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T06:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-55232",
+      "repo_info": "[amalpvatayam67/day01-sessionreaper-lab](https://github.com/amalpvatayam67/day01-sessionreaper-lab)",
+      "description": "This is a tiny lab that simulates the core idea reported for CVE-2025-54236 (“SessionReaper”)",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T07:19:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-50944",
+      "repo_info": "[shinyColumn/CVE-2025-50944](https://github.com/shinyColumn/CVE-2025-50944)",
+      "description": "Improper Certificate Chain Validation in EagleEyes Lite Android Application",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T00:59:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-50110",
+      "repo_info": "[shinyColumn/CVE-2025-50110](https://github.com/shinyColumn/CVE-2025-50110)",
+      "description": "Cleartext Transmission of Sensitive Information in EagleEyes Lite Android Application",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T14:47:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-](https://github.com/Zuack55/Roundcube-1.6.10-Post-Auth-RCE-CVE-2025-49113-)",
+      "description": "no description",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T02:37:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-46408",
+      "repo_info": "[shinyColumn/CVE-2025-46408](https://github.com/shinyColumn/CVE-2025-46408)",
+      "description": "Improper Hostname Verification in EagleEyes Lite Android Application",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T02:28:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-42957",
+      "repo_info": "[mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege](https://github.com/mrk336/CVE-2025-42957-SAP-S-4HANA-Under-Siege)",
+      "description": "CVE‑2025‑42957 exposes an RFC‑enabled SAP S/4HANA module that lets low‑privileged users inject ABAP code to create admin accounts and gain full control. The article explains the vulnerability, threat model, provides minimal exploit ABAP code, and lists patching &amp; monitoring steps to secure the system",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T03:23:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[scandijamjam1/CVE-2025-32433](https://github.com/scandijamjam1/CVE-2025-32433)",
+      "description": "🔍 Explore a working PoC for CVE-2025-32433, demonstrating its impact and providing insights for security professionals and developers.",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T02:02:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[f4dee-backup/CVE-2025-31161](https://github.com/f4dee-backup/CVE-2025-31161)",
+      "description": "PoC CVE-2025-31161 - Authentication Bypass CrushFTP",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T00:20:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893](https://github.com/Bishben/xwiki-15.10.8-reverse-shell-cve-2025-24893)",
+      "description": "CVE-2025-24893 RCE exploit for XWiki with reverse shell capability",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T13:28:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-32019",
+      "repo_info": "[amalpvatayam67/day04-nexus-4956](https://github.com/amalpvatayam67/day04-nexus-4956)",
+      "description": "Nexus Repository 3 Path Traversal (CVE-2024-4956)",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T13:57:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-32019",
+      "repo_info": "[amalpvatayam67/day03-jenkins-23897](https://github.com/amalpvatayam67/day03-jenkins-23897)",
+      "description": "Jenkins CLI arbitrary file read (CVE-2024-23897)",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T13:26:16Z"
+    },
+    {
+      "cve_id": "CVE-2021-21239",
+      "repo_info": "[illera88/CVE-2021-21239](https://github.com/illera88/CVE-2021-21239)",
+      "description": "no description",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T17:48:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-13272",
+      "repo_info": "[Chinmay1743/ptrace-vuln](https://github.com/Chinmay1743/ptrace-vuln)",
+      "description": "To check for vulnerability CVE-2019-13272",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T10:01:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[adendarys/CVE-2018-6574](https://github.com/adendarys/CVE-2018-6574)",
+      "description": "Ptlabs exploit",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T23:29:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[waleedadam360-web/SyncShield](https://github.com/waleedadam360-web/SyncShield)",
+      "description": "SyncShield - Browser Extension to Detect Unsafe Rsync Commands (CVE-2018-5764)",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T09:14:54Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[anonymous121029034720384234234/py-network-scanner](https://github.com/anonymous121029034720384234234/py-network-scanner)",
+      "description": "Advanced network penetration testing toolkit with SSH vulnerability assessment, CVE-2018-15473 exploitation, stealth brute force capabilities, and fail2ban evasion techniques. Professional-grade security testing framework for authorized penetration testing engagements.",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T23:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-12865",
+      "repo_info": "[ManaswiJaiswal/Reproducing-ConnMan-1.34](https://github.com/ManaswiJaiswal/Reproducing-ConnMan-1.34)",
+      "description": "CVE-2017-12865 exploit",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T16:20:11Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[pardhu045/linux-privilege-escalation](https://github.com/pardhu045/linux-privilege-escalation)",
+      "description": "Linux privilege escalation using Dirty COW exploit (CVE-2016-5195).",
+      "date": "2025-09-10",
+      "raw_date": "2025-09-10T06:37:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.415515",
+  "metadata": {
+    "total_cves": 22,
+    "date_range": "2025-09-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

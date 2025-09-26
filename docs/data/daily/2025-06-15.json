@@ -1,0 +1,132 @@
+{
+  "date": "2025-06-15",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6083",
+      "repo_info": "[Yuri08loveElaina/CVE_2025_6083](https://github.com/Yuri08loveElaina/CVE_2025_6083)",
+      "description": "In ExtremeCloud Universal ZTNA, a syntax error in the &#x27;searchKeyword&#x27; condition caused queries to bypass the owner_id filter. This issue may allow users to search data across the entire table instead of being restricted to their specific owner_id.",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T09:42:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-6070",
+      "repo_info": "[Yuri08loveElaina/CVE_2025_6070](https://github.com/Yuri08loveElaina/CVE_2025_6070)",
+      "description": "The Restrict File Access plugin for WordPress is vulnerable to Directory Traversal in all versions up to, and including, 1.1.2 via the output() function. This makes it possible for authenticated attackers, with Subscriber-level access and above, to read the contents of arbitrary files on the server",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T10:04:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-6065",
+      "repo_info": "[Yuri08loveElaina/CVE_2025_6065](https://github.com/Yuri08loveElaina/CVE_2025_6065)",
+      "description": "Image Resizer On The Fly plugin for WordPress is vulnerable to arbitrary file deletion due to insufficient file path validation in the &#x27;delete&#x27; task in all versions up to, and including, 1.1. This makes it possible for unauthenticated attackers to delete arbitrary files on the server",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T09:25:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[Yuri08loveElaina/CVE-2025-49113](https://github.com/Yuri08loveElaina/CVE-2025-49113)",
+      "description": "Roundcube Webmail before 1.5.10 and 1.6.x before 1.6.11 allows remote code execution by authenticated users because the _from parameter in a URL is not validated in program/actions/settings/upload.php, leading to PHP Object Deserialization.",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T13:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-33073",
+      "repo_info": "[joaozixx/CVE-2025-33073](https://github.com/joaozixx/CVE-2025-33073)",
+      "description": "# CVE-2025-33073PoC Exploit for the NTLM reflection SMB flaw. All credits go to the official research: [Synacktiv](https://www.synacktiv.com/publications/ntlm-reflection-is-dead-long-live-ntlm-reflection-an-in-depth-analysis-of-cve-2025) 🐙### PrerequisitesOS: Kali Linux (has most packages pre-installed).* NetExec (NXC) - https://github.com/P",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T07:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[Yuri08loveElaina/CVE_2025_32433_exploit](https://github.com/Yuri08loveElaina/CVE_2025_32433_exploit)",
+      "description": "Erlang/OTP is a set of libraries for the Erlang programming language. Prior to versions OTP-27.3.3, OTP-26.2.5.11, and OTP-25.3.2.20, a SSH server may allow an attacker to perform unauthenticated remote code execution (RCE). By exploiting a flaw in SSH protocol message handling",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T12:56:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit](https://github.com/Yuri08loveElaina/CVE-2025-32433-Erlang-OTP-SSH-Pre-Auth-RCE-exploit)",
+      "description": "Erlang/OTP is a set of libraries for the Erlang programming language. Prior to versions OTP-27.3.3, OTP-26.2.5.11, and OTP-25.3.2.20, a SSH server may allow an attacker to perform unauthenticated remote code execution (RCE). By exploiting a flaw in SSH protocol message handling",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T12:42:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[ibrahmsql/CVE-2025-31161](https://github.com/ibrahmsql/CVE-2025-31161)",
+      "description": "CrushFTP 11.3.1 - Authentication Bypass",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T10:35:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[KamalideenAK/poc-cve-2025-29927](https://github.com/KamalideenAK/poc-cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T15:10:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-2783",
+      "repo_info": "[byteReaper77/CVE-2025-2783-SandboxEscape](https://github.com/byteReaper77/CVE-2025-2783-SandboxEscape)",
+      "description": "This project is a research-oriented and educational simulation  designed to demonstrate the concept of a sandbox escape vulnerability  within Google Chrome (version 134.0.6998.177), leveraging improper handle , validation via Mojo IPC.",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T23:30:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-9264",
+      "repo_info": "[Exerrdev/CVE-2024-9264-Fixed](https://github.com/Exerrdev/CVE-2024-9264-Fixed)",
+      "description": "no description",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T00:38:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[ibrahmsql/CVE-2024-4577](https://github.com/ibrahmsql/CVE-2024-4577)",
+      "description": "CVE-2024-4577.py",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T10:34:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-28995",
+      "repo_info": "[ibrahmsql/CVE-2024-28995](https://github.com/ibrahmsql/CVE-2024-28995)",
+      "description": "SolarWinds Serv-U 15.4.2 HF1 - Directory Traversal",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T10:42:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-0204",
+      "repo_info": "[ibrahmsql/CVE-2024-0204](https://github.com/ibrahmsql/CVE-2024-0204)",
+      "description": "Fortra GoAnywhere MFT 7.4.1 - Authentication Bypass",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T10:41:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-1698",
+      "repo_info": "[ibrahmsql/CVE-2023-1698](https://github.com/ibrahmsql/CVE-2023-1698)",
+      "description": "CVE-2023-1698 exploit with golang",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T17:37:09Z"
+    },
+    {
+      "cve_id": "CVE-2021-40724",
+      "repo_info": "[tinopreter/DocViewerExploitApp](https://github.com/tinopreter/DocViewerExploitApp)",
+      "description": "This is an Exploit App I made when solving the DocumentViewer challenge (CVE-2021-40724) from MobileHackingLab. It will download a libdocviewe_pro.so library from your local machine unto the vulnerable app&#x27;s internal storage, load it upon relaunch and achieve an RCE.",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T11:57:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-14811",
+      "repo_info": "[matejsmycka/CVE-2019-14811-in-pdf-exploit](https://github.com/matejsmycka/CVE-2019-14811-in-pdf-exploit)",
+      "description": "This exploit targets CVE-2019-14811 in GS environments where PostScript output is not reflected, but is executed such as PDF previews via png images.",
+      "date": "2025-06-15",
+      "raw_date": "2025-06-15T19:23:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.396322",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-06-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

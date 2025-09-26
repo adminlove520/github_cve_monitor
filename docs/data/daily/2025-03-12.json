@@ -1,0 +1,125 @@
+{
+  "date": "2025-03-12",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-28915",
+      "repo_info": "[Nxploited/CVE-2025-28915](https://github.com/Nxploited/CVE-2025-28915)",
+      "description": "WordPress ThemeEgg ToolKit plugin &lt;= 1.2.9 - Arbitrary File Upload vulnerability",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T03:23:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-26240",
+      "repo_info": "[Habuon/CVE-2025-26240](https://github.com/Habuon/CVE-2025-26240)",
+      "description": "POC for CVE-2025-26240",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T14:09:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-2233",
+      "repo_info": "[McTavishSue/CVE-2025-2233](https://github.com/McTavishSue/CVE-2025-2233)",
+      "description": "Improper Verification of Cryptographic Signature (CWE-347)",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T08:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-55060",
+      "repo_info": "[bigzooooz/CVE-2024-55060](https://github.com/bigzooooz/CVE-2024-55060)",
+      "description": "no description",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T18:05:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[YuoLuo/tomcat_cve_2024_50379_exploit](https://github.com/YuoLuo/tomcat_cve_2024_50379_exploit)",
+      "description": "no description",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T06:17:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-30485",
+      "repo_info": "[Nxploited/CVE-2024-30485](https://github.com/Nxploited/CVE-2024-30485)",
+      "description": "WordPress Finale Lite plugin &lt;= 2.18.0 - Subscriber+ Arbitrary Plugin Installation/Activation vulnerability",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T17:11:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-10674",
+      "repo_info": "[Nxploited/CVE-2024-10674](https://github.com/Nxploited/CVE-2024-10674)",
+      "description": "Th Shop Mania &lt;= 1.4.9 - Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T21:00:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-10673",
+      "repo_info": "[Nxploited/CVE-2024-10673](https://github.com/Nxploited/CVE-2024-10673)",
+      "description": "Top Store &lt;= 1.5.4 - Authenticated (Subscriber+) Arbitrary Plugin Installation/Activation",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T06:40:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-0760",
+      "repo_info": "[SpiralBL0CK/CVE-2024-0760](https://github.com/SpiralBL0CK/CVE-2024-0760)",
+      "description": "CVE-2024-0760",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T20:50:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-0406",
+      "repo_info": "[walidpyh/CVE-2024-0406-POC](https://github.com/walidpyh/CVE-2024-0406-POC)",
+      "description": "CVE-2024-0406 POC using symlinks",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T02:54:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit](https://github.com/tinashelorenzi/CVE-2023-30258-magnus-billing-v7-exploit)",
+      "description": "no description",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T10:27:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-29056",
+      "repo_info": "[cnetsec/CVE-2022-29056](https://github.com/cnetsec/CVE-2022-29056)",
+      "description": "no description",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T02:20:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[chihyeonwon/Log4shell](https://github.com/chihyeonwon/Log4shell)",
+      "description": "CVE-2021-44228",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T01:01:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-25646",
+      "repo_info": "[gps1949/CVE-2021-25646](https://github.com/gps1949/CVE-2021-25646)",
+      "description": "Apache Druid 远程代码执行复现（CVE-2021-25646）",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T06:44:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-0143",
+      "repo_info": "[n3rdh4x0r/MS17-010](https://github.com/n3rdh4x0r/MS17-010)",
+      "description": "MS17-010 (CVE-2017-0143) - Python3 Script",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T19:46:43Z"
+    },
+    {
+      "cve_id": "CVE-2015-0009",
+      "repo_info": "[PhoenixC46/ExploitPOC_MS15-014_CVE-2015-0009](https://github.com/PhoenixC46/ExploitPOC_MS15-014_CVE-2015-0009)",
+      "description": "PoC Exploit for CVE-2015-0009 (SMB Signing)",
+      "date": "2025-03-12",
+      "raw_date": "2025-03-12T23:13:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.377345",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-03-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

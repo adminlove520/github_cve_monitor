@@ -1,0 +1,27 @@
+{
+  "date": "2018-05-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8115",
+      "repo_info": "[aquasecurity/scan-cve-2018-8115](https://github.com/aquasecurity/scan-cve-2018-8115)",
+      "description": "no description",
+      "date": "2018-05-08",
+      "raw_date": "2018-05-08T20:24:23Z"
+    },
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[lulusudoku/PoC](https://github.com/lulusudoku/PoC)",
+      "description": "CVE-2017-0411 PoC refered p0",
+      "date": "2018-05-08",
+      "raw_date": "2018-05-08T14:25:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.979335",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-05-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

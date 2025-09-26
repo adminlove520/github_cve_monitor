@@ -1,0 +1,153 @@
+{
+  "date": "2025-06-14",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5419",
+      "repo_info": "[itsShotgun/chrome_cve-2025-5419_checker](https://github.com/itsShotgun/chrome_cve-2025-5419_checker)",
+      "description": "Checks if your Chrome version is vulnerable to CVE-2025-5419, from the browser",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T01:48:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[yashz0007/CVE-2025-53770-Exploit](https://github.com/yashz0007/CVE-2025-53770-Exploit)",
+      "description": "🛠️ Exploit Microsoft SharePoint WebPart Injection vulnerabilities for .NET deserialization and remote code execution using ToolPane.aspx.",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T17:48:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-46181",
+      "repo_info": "[shemkumar/CVE-2025-46181-XSS](https://github.com/shemkumar/CVE-2025-46181-XSS)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T07:08:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-33053",
+      "repo_info": "[detectrespondrepeat/CVE-2025-33053](https://github.com/detectrespondrepeat/CVE-2025-33053)",
+      "description": "WebDAV Path Handling Vulnerability 🔍",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T11:30:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-24201",
+      "repo_info": "[AvonBorn/CVE-2025-24201-Exploit](https://github.com/AvonBorn/CVE-2025-24201-Exploit)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T13:13:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-24054",
+      "repo_info": "[Yuri08loveElaina/CVE-2025-24054_POC](https://github.com/Yuri08loveElaina/CVE-2025-24054_POC)",
+      "description": "CVE 2025 24054",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T06:46:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-2324565",
+      "repo_info": "[cydragLINUX/CVE-2025-23245655](https://github.com/cydragLINUX/CVE-2025-23245655)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T07:02:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[Yuri08loveElaina/CVE-2024-50379](https://github.com/Yuri08loveElaina/CVE-2024-50379)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T07:38:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[Yuri08loveElaina/CVE-2024-50379-POC](https://github.com/Yuri08loveElaina/CVE-2024-50379-POC)",
+      "description": "Cve exploiting",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T07:23:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-40898",
+      "repo_info": "[anilpatel199n/CVE-2024-40898](https://github.com/anilpatel199n/CVE-2024-40898)",
+      "description": "This Python script checks for the presence of CVE-2024-40898, a critical vulnerability in Apache HTTP Server that may allow SSL/TLS certificate verification bypass under certain misconfigurations.  It initiates an SSL connection to the target server and sends a HEAD request.",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T09:57:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-46818",
+      "repo_info": "[z7Akane/CVE-2023-46818](https://github.com/z7Akane/CVE-2023-46818)",
+      "description": "An issue was discovered in ISPConfig before 3.2.11p1. PHP code injection can be achieved in the language file editor by an admin if admin_allow_langedit is enabled.",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T13:38:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-37969",
+      "repo_info": "[grass341/CVE-2022-37969](https://github.com/grass341/CVE-2022-37969)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T07:01:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[MAHABUB122003/Atlassian-CVE-2022-26134](https://github.com/MAHABUB122003/Atlassian-CVE-2022-26134)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T11:46:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Yuri08loveElaina/CVE-2022-26134](https://github.com/Yuri08loveElaina/CVE-2022-26134)",
+      "description": "CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution [RCE]",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T08:46:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Yuri08loveElaina/CVE_2022_26134_exploit](https://github.com/Yuri08loveElaina/CVE_2022_26134_exploit)",
+      "description": "Cve 2022 26134 exploit",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T08:14:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Yuri08loveElaina/CVE_2022_26134](https://github.com/Yuri08loveElaina/CVE_2022_26134)",
+      "description": "CVE",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T08:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2021-26828",
+      "repo_info": "[Yuri08loveElaina/CVE-2021-26828](https://github.com/Yuri08loveElaina/CVE-2021-26828)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T09:56:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[maqeel-git/CVE-2020-0796-SMBGhost](https://github.com/maqeel-git/CVE-2020-0796-SMBGhost)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T01:27:56Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[knightc0de/Shellshock_vuln_Exploit](https://github.com/knightc0de/Shellshock_vuln_Exploit)",
+      "description": "CVE-2014-6271(RCE) poc Exploit",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T12:00:45Z"
+    },
+    {
+      "cve_id": "CVE-2010-1872",
+      "repo_info": "[LipeOzyy/CVE-2010-1872-BlazeDVD-SEH-Exploit](https://github.com/LipeOzyy/CVE-2010-1872-BlazeDVD-SEH-Exploit)",
+      "description": "no description",
+      "date": "2025-06-14",
+      "raw_date": "2025-06-14T18:13:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.396083",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2025-06-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2022-01-15",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-1329",
+      "repo_info": "[binganao/vulns-2022](https://github.com/binganao/vulns-2022)",
+      "description": "本项目用于搜集 2022 年的漏洞，注意：本项目并不刻意搜集 POC 或 EXP，主要以CVE-2021、CVE-2022 为关键词，包含但不限于漏洞资讯、漏洞复现、漏洞分析、漏洞验证、漏洞利用",
+      "date": "2022-01-15",
+      "raw_date": "2022-01-15T00:31:06Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195](https://github.com/nazgul6092/2nd-Year-Project-01-Linux-Exploitation-using-CVE-20166-5195)",
+      "description": "no description",
+      "date": "2022-01-15",
+      "raw_date": "2022-01-15T13:30:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.116786",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-01-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

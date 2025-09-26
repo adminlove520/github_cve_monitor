@@ -1,0 +1,48 @@
+{
+  "date": "2022-11-28",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[clemoregan/SSE4-CVE-2022-22965](https://github.com/clemoregan/SSE4-CVE-2022-22965)",
+      "description": "CVE-2022-22965 proof of concept",
+      "date": "2022-11-28",
+      "raw_date": "2022-11-28T14:34:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[ClemExp/CVE-2022-22965-PoC](https://github.com/ClemExp/CVE-2022-22965-PoC)",
+      "description": "no description",
+      "date": "2022-11-28",
+      "raw_date": "2022-11-28T14:28:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-44852",
+      "repo_info": "[0x4ndy/clif](https://github.com/0x4ndy/clif)",
+      "description": "clif is a command-line interface (CLI) application fuzzer, pretty much what wfuzz or ffuf are for web. It was inspired by sudo vulnerability CVE-2021-3156 and the fact that for some reasons, Google&#x27;s afl-fuzz doesn&#x27;t allow for unlimited argument or option specification.",
+      "date": "2022-11-28",
+      "raw_date": "2022-11-28T12:52:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-4045",
+      "repo_info": "[sponkmonk/CobaltSploit](https://github.com/sponkmonk/CobaltSploit)",
+      "description": "Tool which leverages CVE-2021-36798 (HotCobalt) and related work from SentinelOne to DoS CobaltStrike 4.2 and 4.3 servers",
+      "date": "2022-11-28",
+      "raw_date": "2022-11-28T14:09:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-33558",
+      "repo_info": "[anldori/CVE-2021-33558](https://github.com/anldori/CVE-2021-33558)",
+      "description": "CVE-2021-33558 POC",
+      "date": "2022-11-28",
+      "raw_date": "2022-11-28T03:50:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.162269",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-11-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

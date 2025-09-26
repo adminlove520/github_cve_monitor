@@ -1,0 +1,34 @@
+{
+  "date": "2020-12-28",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[TheTh1nk3r/cve-2020-27955](https://github.com/TheTh1nk3r/cve-2020-27955)",
+      "description": "cve-2020-27955",
+      "date": "2020-12-28",
+      "raw_date": "2020-12-28T13:27:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-17035",
+      "repo_info": "[flamelu/CVE-2020-17035-patch-analysis](https://github.com/flamelu/CVE-2020-17035-patch-analysis)",
+      "description": "CVE-2020-17035 patch analysis",
+      "date": "2020-12-28",
+      "raw_date": "2020-12-28T07:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2015-5377",
+      "repo_info": "[fi3ro/elasticsearch_CVE-2015-5377](https://github.com/fi3ro/elasticsearch_CVE-2015-5377)",
+      "description": "Java deserialization exploit for elasticsearch 1.5.2 CVE-2015-5377",
+      "date": "2020-12-28",
+      "raw_date": "2020-12-28T21:30:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.075377",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

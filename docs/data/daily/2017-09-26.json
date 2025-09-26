@@ -1,0 +1,41 @@
+{
+  "date": "2017-09-26",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7092",
+      "repo_info": "[xuechiyaobai/CVE-2017-7092-PoC](https://github.com/xuechiyaobai/CVE-2017-7092-PoC)",
+      "description": "This is the Pwn2Own 2017 Safari backup vul&#x27;s exploit.",
+      "date": "2017-09-26",
+      "raw_date": "2017-09-26T04:10:32Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000251",
+      "repo_info": "[evolvesecurity/vuln-struts2-vm](https://github.com/evolvesecurity/vuln-struts2-vm)",
+      "description": "An Ubuntu 16.04 VM Vulnerable to CVE 2017-5638",
+      "date": "2017-09-26",
+      "raw_date": "2017-09-26T17:36:21Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000251",
+      "repo_info": "[Kc57/JitBit_Helpdesk_Auth_Bypass](https://github.com/Kc57/JitBit_Helpdesk_Auth_Bypass)",
+      "description": "Utility to derive the shared secret on a JitBit Helpdesk install which can be used for authentication bypass (CVE-2017-18486)",
+      "date": "2017-09-26",
+      "raw_date": "2017-09-26T17:51:01Z"
+    },
+    {
+      "cve_id": "CVE-2016-6317",
+      "repo_info": "[kavgan/vuln_test_repo_public_ruby_gemfile_cve-2016-6317](https://github.com/kavgan/vuln_test_repo_public_ruby_gemfile_cve-2016-6317)",
+      "description": "no description",
+      "date": "2017-09-26",
+      "raw_date": "2017-09-26T16:42:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.958353",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-09-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

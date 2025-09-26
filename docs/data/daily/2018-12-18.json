@@ -1,0 +1,20 @@
+{
+  "date": "2018-12-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2009-0229",
+      "repo_info": "[Fullmetal5/str2hax](https://github.com/Fullmetal5/str2hax)",
+      "description": "An implementation of CVE-2009-0689 for the Nintendo Wii.",
+      "date": "2018-12-18",
+      "raw_date": "2018-12-18T04:24:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.001144",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-12-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

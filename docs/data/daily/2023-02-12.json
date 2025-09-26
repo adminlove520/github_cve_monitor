@@ -1,0 +1,503 @@
+{
+  "date": "2023-02-12",
+  "count": 70,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-24029",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24029](https://github.com/Live-Hack-CVE/CVE-2023-24029)",
+      "description": "In Progress WS_FTP Server before 8.8, it is possible for a host administrator to elevate their privileges via the administrative interface due to insufficient authorization controls applied on user modification workflows. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-0794",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0794](https://github.com/Live-Hack-CVE/CVE-2023-0794)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-0793",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0793](https://github.com/Live-Hack-CVE/CVE-2023-0793)",
+      "description": "Weak Password Requirements in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-0792",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0792](https://github.com/Live-Hack-CVE/CVE-2023-0792)",
+      "description": "Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-0791",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0791](https://github.com/Live-Hack-CVE/CVE-2023-0791)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-0790",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0790](https://github.com/Live-Hack-CVE/CVE-2023-0790)",
+      "description": "Uncaught Exception in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-0789",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0789](https://github.com/Live-Hack-CVE/CVE-2023-0789)",
+      "description": "Command Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-0788",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0788](https://github.com/Live-Hack-CVE/CVE-2023-0788)",
+      "description": "Code Injection in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:26:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-0787",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0787](https://github.com/Live-Hack-CVE/CVE-2023-0787)",
+      "description": "Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:25:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-0786",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0786](https://github.com/Live-Hack-CVE/CVE-2023-0786)",
+      "description": "Cross-site Scripting (XSS) - Generic in GitHub repository thorsten/phpmyfaq prior to 3.1.11. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:25:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-0785",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0785](https://github.com/Live-Hack-CVE/CVE-2023-0785)",
+      "description": "A vulnerability classified as problematic was found in SourceCodester Best Online News Portal 1.0. Affected by this vulnerability is an unknown functionality of the file check_availability.php. The manipulation of the argument username leads to exposure of sensitive information through data queries. The attack can be l CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-0784",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0784](https://github.com/Live-Hack-CVE/CVE-2023-0784)",
+      "description": "A vulnerability classified as critical has been found in SourceCodester Best Online News Portal 1.0. Affected is an unknown function of the component Login Page. The manipulation of the argument username leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public a CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-46689",
+      "repo_info": "[BomberFish/Mandela-Rewritten](https://github.com/BomberFish/Mandela-Rewritten)",
+      "description": "iOS customization app powered by CVE-2022-46689. No jailbreak required.",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T01:33:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-41731",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41731](https://github.com/Live-Hack-CVE/CVE-2022-41731)",
+      "description": "IBM Watson Knowledge Catalog on Cloud Pak for Data 4.5.0 is vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 237402. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-38681",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38681](https://github.com/Live-Hack-CVE/CVE-2022-38681)",
+      "description": "In wlan driver, there is a possible missing params check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-38674",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38674](https://github.com/Live-Hack-CVE/CVE-2022-38674)",
+      "description": "In wlan driver, there is a possible missing params check. This could lead to local denial of service in wlan services. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-38396",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38396](https://github.com/Live-Hack-CVE/CVE-2022-38396)",
+      "description": "HP Factory Preinstalled Images on certain systems that shipped with Windows 10 versions 20H2 and earlier OS versions might allow escalation of privilege via execution of certain files outside the restricted path. This potential vulnerability was remediated starting with Windows 10 versions 21H2 on October 31, 2021. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-34146",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34146](https://github.com/Live-Hack-CVE/CVE-2022-34146)",
+      "description": "Transient DOS due to improper input validation in WLAN Host while parsing frame during defragmentation. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-33277",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-33277](https://github.com/Live-Hack-CVE/CVE-2022-33277)",
+      "description": "Memory corruption in modem due to buffer copy without checking size of input while receiving WMI command. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-33225",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-33225](https://github.com/Live-Hack-CVE/CVE-2022-33225)",
+      "description": "Memory corruption due to use after free in trusted application environment. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-33216",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-33216](https://github.com/Live-Hack-CVE/CVE-2022-33216)",
+      "description": "Transient Denial-of-service in Automotive due to improper input validation while parsing ELF file. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-32595",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-32595](https://github.com/Live-Hack-CVE/CVE-2022-32595)",
+      "description": "In widevine, there is a possible out of bounds read due to an incorrect bounds check. This could lead to local information disclosure with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: ALPS07446236; Issue ID: ALPS07446236. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T00:07:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-29455",
+      "repo_info": "[varelsecurity/CVE-2022-29455](https://github.com/varelsecurity/CVE-2022-29455)",
+      "description": "CVE-2022-29455",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:26:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-25733",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-25733](https://github.com/Live-Hack-CVE/CVE-2022-25733)",
+      "description": "Denial of service in modem due to null pointer dereference while processing DNS packets CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-25729",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-25729](https://github.com/Live-Hack-CVE/CVE-2022-25729)",
+      "description": "Memory corruption in modem due to improper length check while copying into memory CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-25728",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-25728](https://github.com/Live-Hack-CVE/CVE-2022-25728)",
+      "description": "Information disclosure in modem due to buffer over-read while processing response from DNS server CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:44:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-21587",
+      "repo_info": "[Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit](https://github.com/Zh1z3ven/Oracle-E-BS-CVE-2022-21587-Exploit)",
+      "description": "Oracle E-BS CVE-2022-21587 Exploit",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T14:37:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-1970",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-1970](https://github.com/Live-Hack-CVE/CVE-2022-1970)",
+      "description": "keycloak 18.0.0: open redirect in auth endpoint via the redirect_uri parameter. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:43:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-1015",
+      "repo_info": "[wlswotmd/CVE-2022-1015](https://github.com/wlswotmd/CVE-2022-1015)",
+      "description": "no description",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T07:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-0435",
+      "repo_info": "[wlswotmd/CVE-2022-0435](https://github.com/wlswotmd/CVE-2022-0435)",
+      "description": "no description",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T07:13:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-36826",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-36826](https://github.com/Live-Hack-CVE/CVE-2021-36826)",
+      "description": "Authenticated (subscriber or higher user role if allowed to access projects) Stored Cross-Site Scripting (XSS) vulnerability in weDevs WP Project Manager plugin &lt;= 2.4.13 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T01:16:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-36823",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-36823](https://github.com/Live-Hack-CVE/CVE-2021-36823)",
+      "description": "Auth. Stored Cross-Site Scripting (XSS) vulnerability in WordPress Absolutely Glamorous Custom Admin plugin &lt;= 6.8 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T01:16:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-23150",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-23150](https://github.com/Live-Hack-CVE/CVE-2021-23150)",
+      "description": "Authenticated (admin+) Stored Cross-Site Scripting (XSS) vulnerability discovered in AMP for WP – Accelerated Mobile Pages plugin &lt;= 1.0.77.31 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T01:16:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-25103",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25103](https://github.com/Live-Hack-CVE/CVE-2019-25103)",
+      "description": "A vulnerability has been found in simple-markdown 0.5.1 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file simple-markdown.js. The manipulation leads to inefficient regular expression complexity. The attack can be launched remotely. Upgrading to version 0.5.2 is able t CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T17:36:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-25102",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25102](https://github.com/Live-Hack-CVE/CVE-2019-25102)",
+      "description": "A vulnerability, which was classified as problematic, was found in simple-markdown 0.6.0. Affected is an unknown function of the file simple-markdown.js. The manipulation with the input &lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;:/:/:/:/:/:/:/:/:/:/ leads to inefficient regular expression complexity. It is possible to launch the attack remotely. The e CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:25:52Z"
+    },
+    {
+      "cve_id": "CVE-2017-7516",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-7516](https://github.com/Live-Hack-CVE/CVE-2017-7516)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2015-1197. Reason: This candidate is a duplicate of CVE-2015-1197. Notes: All CVE users should reference CVE-2015-1197 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:04Z"
+    },
+    {
+      "cve_id": "CVE-2017-7492",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-7492](https://github.com/Live-Hack-CVE/CVE-2017-7492)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2017-7503. Reason: This candidate is a reservation duplicate of CVE-2017-7503. Notes: All CVE users should reference CVE-2017-7503 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-7473",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-7473](https://github.com/Live-Hack-CVE/CVE-2017-7473)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA based off of CNT 3. Further investigation determined that there was a secure method for using the directive. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:09:57Z"
+    },
+    {
+      "cve_id": "CVE-2016-2144",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-2144](https://github.com/Live-Hack-CVE/CVE-2016-2144)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2015-0284. Reason: This candidate is a reservation duplicate of CVE-2015-0284. Notes: All CVE users should reference CVE-2015-0284 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:45Z"
+    },
+    {
+      "cve_id": "CVE-2016-10993",
+      "repo_info": "[varelsecurity/CVE-2016-10993](https://github.com/varelsecurity/CVE-2016-10993)",
+      "description": "CVE-2016-10993",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T06:28:43Z"
+    },
+    {
+      "cve_id": "CVE-2015-5275",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5275](https://github.com/Live-Hack-CVE/CVE-2015-5275)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2015-5257. Reason: This candidate is a reservation duplicate of CVE-2015-5257. Notes: All CVE users should reference CVE-2015-5257 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:52Z"
+    },
+    {
+      "cve_id": "CVE-2015-1805",
+      "repo_info": "[ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805](https://github.com/ireshchaminda1/Android-Privilege-Escalation-Remote-Access-Vulnerability-CVE-2015-1805)",
+      "description": "AndroRAT is a capability that can be used to inject a root exploit as a silent installation to perform a malicious task on the device. This AndroRAT is designed to exploit CVE-2015-1805, a vulnerability that was discovered and made public in 2016.",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T23:00:18Z"
+    },
+    {
+      "cve_id": "CVE-2015-10078",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10078](https://github.com/Live-Hack-CVE/CVE-2015-10078)",
+      "description": "A vulnerability, which was classified as problematic, has been found in atwellpub Resend Welcome Email Plugin 1.0.1. This issue affects the function send_welcome_email_url of the file resend-welcome-email.php. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to version 1.0 CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T15:25:49Z"
+    },
+    {
+      "cve_id": "CVE-2013-6500",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-6500](https://github.com/Live-Hack-CVE/CVE-2013-6500)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:18Z"
+    },
+    {
+      "cve_id": "CVE-2013-6488",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-6488](https://github.com/Live-Hack-CVE/CVE-2013-6488)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2013-0328. Reason: This candidate is a reservation duplicate of CVE-2013-0328. Notes: All CVE users should reference CVE-2013-0328 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:11Z"
+    },
+    {
+      "cve_id": "CVE-2013-6406",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-6406](https://github.com/Live-Hack-CVE/CVE-2013-6406)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2013-6858. Reason: This candidate is a reservation duplicate of CVE-2013-6858. Notes: All CVE users should reference CVE-2013-6858 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:08Z"
+    },
+    {
+      "cve_id": "CVE-2013-0346",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-0346](https://github.com/Live-Hack-CVE/CVE-2013-0346)",
+      "description": "** DISPUTED ** Apache Tomcat 7.x uses world-readable permissions for the log directory and its files, which might allow local users to obtain sensitive information by reading a file. NOTE: One Tomcat distributor has stated &quot;The tomcat log directory does not contain any sensitive information.&quot; CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:31Z"
+    },
+    {
+      "cve_id": "CVE-2012-5664",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5664](https://github.com/Live-Hack-CVE/CVE-2012-5664)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6496, CVE-2012-6497. Reason: this candidate was intended for one issue, but the candidate was publicly used to label concerns about multiple products. Notes: All CVE users should consult CVE-2012-6496 and CVE-2012-6497 to determine which ID is appropri CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:55Z"
+    },
+    {
+      "cve_id": "CVE-2012-5613",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5613](https://github.com/Live-Hack-CVE/CVE-2012-5613)",
+      "description": "** DISPUTED ** MySQL 5.5.19 and possibly other versions, and MariaDB 5.5.28a and possibly other versions, when configured to assign the FILE privilege to users who should not have administrative privileges, allows remote authenticated users to gain privileges by leveraging the FILE privilege to create files as the MySQ CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T21:59:59Z"
+    },
+    {
+      "cve_id": "CVE-2012-5601",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5601](https://github.com/Live-Hack-CVE/CVE-2012-5601)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6055. Reason: This candidate is a reservation duplicate of CVE-2012-6055. Notes: All CVE users should reference CVE-2012-6055 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:14Z"
+    },
+    {
+      "cve_id": "CVE-2012-5600",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5600](https://github.com/Live-Hack-CVE/CVE-2012-5600)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6062. Reason: This candidate is a reservation duplicate of CVE-2012-6062. Notes: All CVE users should reference CVE-2012-6062 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:59Z"
+    },
+    {
+      "cve_id": "CVE-2012-5599",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5599](https://github.com/Live-Hack-CVE/CVE-2012-5599)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6061. Reason: This candidate is a reservation duplicate of CVE-2012-6061. Notes: All CVE users should reference CVE-2012-6061 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:42Z"
+    },
+    {
+      "cve_id": "CVE-2012-5598",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5598](https://github.com/Live-Hack-CVE/CVE-2012-5598)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6060. Reason: This candidate is a reservation duplicate of CVE-2012-6060. Notes: All CVE users should reference CVE-2012-6060 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:11:06Z"
+    },
+    {
+      "cve_id": "CVE-2012-5597",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5597](https://github.com/Live-Hack-CVE/CVE-2012-5597)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6059. Reason: This candidate is a reservation duplicate of CVE-2012-6059. Notes: All CVE users should reference CVE-2012-6059 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:35Z"
+    },
+    {
+      "cve_id": "CVE-2012-5596",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5596](https://github.com/Live-Hack-CVE/CVE-2012-5596)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6057. Reason: This candidate is a reservation duplicate of CVE-2012-6057. Notes: All CVE users should reference CVE-2012-6057 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:21Z"
+    },
+    {
+      "cve_id": "CVE-2012-5595",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5595](https://github.com/Live-Hack-CVE/CVE-2012-5595)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6056. Reason: This candidate is a reservation duplicate of CVE-2012-6056. Notes: All CVE users should reference CVE-2012-6056 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:25Z"
+    },
+    {
+      "cve_id": "CVE-2012-5594",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5594](https://github.com/Live-Hack-CVE/CVE-2012-5594)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6054. Reason: This candidate is a reservation duplicate of CVE-2012-6054. Notes: All CVE users should reference CVE-2012-6054 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:32Z"
+    },
+    {
+      "cve_id": "CVE-2012-5593",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5593](https://github.com/Live-Hack-CVE/CVE-2012-5593)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6053. Reason: This candidate is a reservation duplicate of CVE-2012-6053. Notes: All CVE users should reference CVE-2012-6053 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:11:02Z"
+    },
+    {
+      "cve_id": "CVE-2012-5592",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5592](https://github.com/Live-Hack-CVE/CVE-2012-5592)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-6052. Reason: This candidate is a reservation duplicate of CVE-2012-6052. Notes: All CVE users should reference CVE-2012-6052 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2012-5475",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-5475](https://github.com/Live-Hack-CVE/CVE-2012-5475)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2012-5881, CVE-2012-5882, CVE-2012-5883. Reason: This candidate is a duplicate of CVE-2012-5881, CVE-2012-5882, and CVE-2012-5883. Notes: All CVE users should reference one or more of CVE-2012-5881, CVE-2012-5882, and CVE-2012-5883 instead of this candidate CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:49Z"
+    },
+    {
+      "cve_id": "CVE-2012-2658",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-2658](https://github.com/Live-Hack-CVE/CVE-2012-2658)",
+      "description": "** DISPUTED ** Buffer overflow in the SQLDriverConnect function in unixODBC 2.3.1 allows local users to cause a denial of service (crash) via a long string in the DRIVER option. NOTE: this issue might not be a vulnerability, since the ability to set this option typically implies that the attacker already has legitimate CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:27Z"
+    },
+    {
+      "cve_id": "CVE-2012-2657",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-2657](https://github.com/Live-Hack-CVE/CVE-2012-2657)",
+      "description": "** DISPUTED ** Buffer overflow in the SQLDriverConnect function in unixODBC 2.0.10, 2.3.1, and earlier allows local users to cause a denial of service (crash) via a long string in the FILEDSN option. NOTE: this issue might not be a vulnerability, since the ability to set this option typically implies that the attacker  CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:17Z"
+    },
+    {
+      "cve_id": "CVE-2012-2128",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-2128](https://github.com/Live-Hack-CVE/CVE-2012-2128)",
+      "description": "** DISPUTED ** Cross-site request forgery (CSRF) vulnerability in doku.php in DokuWiki 2012-01-25 Angua allows remote attackers to hijack the authentication of administrators for requests that add arbitrary users. NOTE: this issue has been disputed by the vendor, who states that it is resultant from CVE-2012-2129: &quot;the CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:14Z"
+    },
+    {
+      "cve_id": "CVE-2012-0039",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-0039](https://github.com/Live-Hack-CVE/CVE-2012-0039)",
+      "description": "** DISPUTED ** GLib 2.31.8 and earlier, when the g_str_hash function is used, computes hash values without restricting the ability to trigger hash collisions predictably, which allows context-dependent attackers to cause a denial of service (CPU consumption) via crafted input to an application that maintains a hash tab CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:34Z"
+    },
+    {
+      "cve_id": "CVE-2011-4084",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-4084](https://github.com/Live-Hack-CVE/CVE-2011-4084)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: CVE-2011-4858. Reason: This candidate is a duplicate of CVE-2011-4858. Notes: All CVE users should reference CVE-2011-4858 instead of this candidate. All references and descriptions in this candidate have been removed to prevent accidental usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T12:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2011-3640",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-3640](https://github.com/Live-Hack-CVE/CVE-2011-3640)",
+      "description": "** DISPUTED ** Untrusted search path vulnerability in Mozilla Network Security Services (NSS), as used in Google Chrome before 17 on Windows and Mac OS X, might allow local users to gain privileges via a Trojan horse pkcs11.txt file in a top-level directory. NOTE: the vendor&#x27;s response was &quot;Strange behavior, but we&#x27;re  CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:03Z"
+    },
+    {
+      "cve_id": "CVE-2011-2906",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-2906](https://github.com/Live-Hack-CVE/CVE-2011-2906)",
+      "description": "** DISPUTED ** Integer signedness error in the pmcraid_ioctl_passthrough function in drivers/scsi/pmcraid.c in the Linux kernel before 3.1 might allow local users to cause a denial of service (memory consumption or memory corruption) via a negative size value in an ioctl call. NOTE: this may be a vulnerability only in  CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:24Z"
+    },
+    {
+      "cve_id": "CVE-2010-2532",
+      "repo_info": "[Live-Hack-CVE/CVE-2010-2532](https://github.com/Live-Hack-CVE/CVE-2010-2532)",
+      "description": "** DISPUTED ** lxsession-logout in lxsession in LXDE, as used on SUSE openSUSE 11.3 and other platforms, does not lock the screen when the Suspend or Hibernate button is pressed, which might make it easier for physically proximate attackers to access an unattended laptop via a resume action. NOTE: there is no general a CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:07Z"
+    },
+    {
+      "cve_id": "CVE-2009-3559",
+      "repo_info": "[Live-Hack-CVE/CVE-2009-3559](https://github.com/Live-Hack-CVE/CVE-2009-3559)",
+      "description": "** DISPUTED ** main/streams/plain_wrapper.c in PHP 5.3.x before 5.3.1 does not recognize the safe_mode_include_dir directive, which allows context-dependent attackers to have an unknown impact by triggering the failure of PHP scripts that perform include or require operations, as demonstrated by a script that attempts  CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:10Z"
+    },
+    {
+      "cve_id": "CVE-2008-2956",
+      "repo_info": "[Live-Hack-CVE/CVE-2008-2956](https://github.com/Live-Hack-CVE/CVE-2008-2956)",
+      "description": "** DISPUTED ** Memory leak in Pidgin 2.0.0, and possibly other versions, allows remote attackers to cause a denial of service (memory consumption) via malformed XML documents. NOTE: this issue has been disputed by the upstream vendor, who states: &quot;I was never able to identify a scenario under which a problem occurred a CVE project by @Sn0wAlice",
+      "date": "2023-02-12",
+      "raw_date": "2023-02-12T22:00:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.246272",
+  "metadata": {
+    "total_cves": 70,
+    "date_range": "2023-02-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

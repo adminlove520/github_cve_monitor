@@ -1,0 +1,69 @@
+{
+  "date": "2024-06-05",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[fin3ss3g0d/CVE-2024-4956](https://github.com/fin3ss3g0d/CVE-2024-4956)",
+      "description": "CVE-2024-4956 Python exploitation utility",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T15:37:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-4358",
+      "repo_info": "[Sk1dr0wz/CVE-2024-4358_Mass_Exploit](https://github.com/Sk1dr0wz/CVE-2024-4358_Mass_Exploit)",
+      "description": "no description",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T01:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-4295",
+      "repo_info": "[truonghuuphuc/CVE-2024-4295-Poc](https://github.com/truonghuuphuc/CVE-2024-4295-Poc)",
+      "description": "CVE-2024-4295 Email Subscribers by Icegram Express &lt;= 5.7.20 - Unauthenticated SQL Injection via hash",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T09:29:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[s1d6point7bugcrowd/CVE-2023-22515-check](https://github.com/s1d6point7bugcrowd/CVE-2023-22515-check)",
+      "description": "This script will inform the user if the Confluence instance is vulnerable, but it will not proceed with the exploitation steps.",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T19:56:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-21371",
+      "repo_info": "[Cappricio-Securities/CVE-2022-21371](https://github.com/Cappricio-Securities/CVE-2022-21371)",
+      "description": "Oracle WebLogic Server (LFI)",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T16:29:16Z"
+    },
+    {
+      "cve_id": "CVE-2020-0668",
+      "repo_info": "[0xSs0rZ/Windows_Exploit](https://github.com/0xSs0rZ/Windows_Exploit)",
+      "description": "CVE-2021-1675/CVE-2021-34527 PrintNightmare &amp; CVE-2020-0668",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T10:01:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-8917",
+      "repo_info": "[gloliveira1701/Joomblah](https://github.com/gloliveira1701/Joomblah)",
+      "description": "CVE-2017-8917 SQL injection Vulnerability in Joomla! 3.7.0 exploit",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T16:07:51Z"
+    },
+    {
+      "cve_id": "CVE-2016-10956",
+      "repo_info": "[Hackhoven/wp-mail-masta-exploit](https://github.com/Hackhoven/wp-mail-masta-exploit)",
+      "description": "Exploit script for WordPress Plugin Mail Masta 1.0 - CVE-2016-10956",
+      "date": "2024-06-05",
+      "raw_date": "2024-06-05T13:28:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.329207",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-06-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

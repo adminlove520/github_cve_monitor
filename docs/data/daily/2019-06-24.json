@@ -1,0 +1,27 @@
+{
+  "date": "2019-06-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-1040",
+      "repo_info": "[fox-it/cve-2019-1040-scanner](https://github.com/fox-it/cve-2019-1040-scanner)",
+      "description": "no description",
+      "date": "2019-06-24",
+      "raw_date": "2019-06-24T15:33:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-11776",
+      "repo_info": "[OzNetNerd/apche-struts-vuln-demo-cve-2018-11776](https://github.com/OzNetNerd/apche-struts-vuln-demo-cve-2018-11776)",
+      "description": "Spins up an isolated test environment for experimentation with Apache Struts vulnerability CVE-2018-11776.",
+      "date": "2019-06-24",
+      "raw_date": "2019-06-24T02:51:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.019084",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-06-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

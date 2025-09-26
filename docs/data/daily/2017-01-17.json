@@ -1,0 +1,20 @@
+{
+  "date": "2017-01-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2009-5147",
+      "repo_info": "[sooklalad/ms09050](https://github.com/sooklalad/ms09050)",
+      "description": "cve-2009-3103",
+      "date": "2017-01-17",
+      "raw_date": "2017-01-17T02:24:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.935009",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-01-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

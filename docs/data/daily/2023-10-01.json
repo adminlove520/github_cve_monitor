@@ -1,0 +1,48 @@
+{
+  "date": "2023-10-01",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-44976",
+      "repo_info": "[keowu/BadRentdrv2](https://github.com/keowu/BadRentdrv2)",
+      "description": "A vulnerable driver exploited by me (BYOVD) that is capable of terminating several EDRs and antivirus software in the market, rendering them ineffective, working for both x32 and x64(CVE-2023-44976).",
+      "date": "2023-10-01",
+      "raw_date": "2023-10-01T18:24:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[simrotion13/CVE-2023-36845](https://github.com/simrotion13/CVE-2023-36845)",
+      "description": "no description",
+      "date": "2023-10-01",
+      "raw_date": "2023-10-01T03:41:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845](https://github.com/WhiteOwl-Pub/PoC-Vuln-Detector-juniper-cve-2023-36845)",
+      "description": "PoC &amp; vulnerability detector for Juniper EX switches and SRX firewalls",
+      "date": "2023-10-01",
+      "raw_date": "2023-10-01T18:05:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-1015",
+      "repo_info": "[0range1337/CVE-2022-1015](https://github.com/0range1337/CVE-2022-1015)",
+      "description": "no description",
+      "date": "2023-10-01",
+      "raw_date": "2023-10-01T11:18:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[moTorky/CVE-2018-6574-POC](https://github.com/moTorky/CVE-2018-6574-POC)",
+      "description": "no description",
+      "date": "2023-10-01",
+      "raw_date": "2023-10-01T06:07:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.287057",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-10-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

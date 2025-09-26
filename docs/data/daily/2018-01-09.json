@@ -1,0 +1,41 @@
+{
+  "date": "2018-01-09",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16759",
+      "repo_info": "[bao7uo/RAU_crypto](https://github.com/bao7uo/RAU_crypto)",
+      "description": "Telerik UI for ASP.NET AJAX File upload and .NET deserialisation exploit (CVE-2017-11317, CVE-2017-11357, CVE-2019-18935)",
+      "date": "2018-01-09",
+      "raw_date": "2018-01-09T13:53:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-8570",
+      "repo_info": "[rxwx/CVE-2017-8570](https://github.com/rxwx/CVE-2017-8570)",
+      "description": "Proof of Concept exploit for CVE-2017-8570",
+      "date": "2018-01-09",
+      "raw_date": "2018-01-09T19:09:33Z"
+    },
+    {
+      "cve_id": "CVE-2017-5715",
+      "repo_info": "[opsxcq/exploit-cve-2017-5715](https://github.com/opsxcq/exploit-cve-2017-5715)",
+      "description": "Spectre exploit",
+      "date": "2018-01-09",
+      "raw_date": "2018-01-09T05:06:12Z"
+    },
+    {
+      "cve_id": "CVE-2016-2107",
+      "repo_info": "[Cryptiiiic/skybreak](https://github.com/Cryptiiiic/skybreak)",
+      "description": "8.4.1 Jailbreak using CVE-2016-4655 / CVE-2016-4656",
+      "date": "2018-01-09",
+      "raw_date": "2018-01-09T07:44:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.968345",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-01-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2021-03-19",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27223",
+      "repo_info": "[motikan2010/CVE-2020-27223](https://github.com/motikan2010/CVE-2020-27223)",
+      "description": "CVE-2020-27223 Vulnerability App &amp; PoC",
+      "date": "2021-03-19",
+      "raw_date": "2021-03-19T03:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[kal1gh0st/WhatsAppHACK-RCE](https://github.com/kal1gh0st/WhatsAppHACK-RCE)",
+      "description": "Whatsapp remote code execution CVE-2019-11932 https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/",
+      "date": "2021-03-19",
+      "raw_date": "2021-03-19T16:41:31Z"
+    },
+    {
+      "cve_id": "CVE-2017-8046",
+      "repo_info": "[Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal](https://github.com/Nickguitar/Jquery-File-Tree-1.6.6-Path-Traversal)",
+      "description": "Jquery File Tree 1.6.6 Path Traversal exploit (CVE-2017-1000170)",
+      "date": "2021-03-19",
+      "raw_date": "2021-03-19T12:39:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.084554",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-03-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

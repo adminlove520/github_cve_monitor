@@ -1,0 +1,27 @@
+{
+  "date": "2018-06-19",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-11519",
+      "repo_info": "[vakzz/tplink-CVE-2017-11519](https://github.com/vakzz/tplink-CVE-2017-11519)",
+      "description": "POC for TP-Link Archer C9 - Admin Password Reset and RCE (CVE-2017-11519)",
+      "date": "2018-06-19",
+      "raw_date": "2018-06-19T02:04:38Z"
+    },
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[its-arun/CVE-2016-2098](https://github.com/its-arun/CVE-2016-2098)",
+      "description": "CVE-2016-2098 simple POC written in bash",
+      "date": "2018-06-19",
+      "raw_date": "2018-06-19T07:05:51Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.983186",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-06-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

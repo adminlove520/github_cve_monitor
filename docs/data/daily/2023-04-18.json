@@ -1,0 +1,62 @@
+{
+  "date": "2023-04-18",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-27216",
+      "repo_info": "[FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2023-27216_D-Link_DSL-3782_Router_command_injection)",
+      "description": "no description",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T10:45:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-25136",
+      "repo_info": "[adhikara13/CVE-2023-25136](https://github.com/adhikara13/CVE-2023-25136)",
+      "description": "OpenSSH Pre-Auth Double Free CVE-2023-25136 POC",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T21:47:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-21554",
+      "repo_info": "[Hashi0x/PoC-CVE-2023-21554](https://github.com/Hashi0x/PoC-CVE-2023-21554)",
+      "description": "Windows Message Queuing vulnerability exploitation with custom payloads",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T15:42:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-21554",
+      "repo_info": "[b4rt0xx/CVE-2023-21554-POC](https://github.com/b4rt0xx/CVE-2023-21554-POC)",
+      "description": "CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T15:30:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-0215",
+      "repo_info": "[nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215](https://github.com/nidhi7598/OPENSSL_1.0.2_G2.5_CVE-2023-0215)",
+      "description": "no description",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T12:07:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[Dima2021/cve-2022-42889-text4shell](https://github.com/Dima2021/cve-2022-42889-text4shell)",
+      "description": "no description",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T14:49:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-34527",
+      "repo_info": "[FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection](https://github.com/FzBacon/CVE-2022-34527_D-Link_DSL-3782_Router_command_injection)",
+      "description": "no description",
+      "date": "2023-04-18",
+      "raw_date": "2023-04-18T04:26:49Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.261616",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-04-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

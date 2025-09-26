@@ -1,0 +1,27 @@
+{
+  "date": "2018-06-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-20555",
+      "repo_info": "[BasuCert/WinboxPoC](https://github.com/BasuCert/WinboxPoC)",
+      "description": "Proof of Concept of Winbox Critical Vulnerability (CVE-2018-14847)",
+      "date": "2018-06-24",
+      "raw_date": "2018-06-24T05:34:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[leandrocamposcardoso/CVE-2017-5638-Mass-Exploit](https://github.com/leandrocamposcardoso/CVE-2017-5638-Mass-Exploit)",
+      "description": "no description",
+      "date": "2018-06-24",
+      "raw_date": "2018-06-24T22:40:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.983729",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-06-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

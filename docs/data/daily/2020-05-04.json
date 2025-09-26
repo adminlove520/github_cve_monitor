@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-11651",
+      "repo_info": "[0xc0d/CVE-2020-11651](https://github.com/0xc0d/CVE-2020-11651)",
+      "description": "CVE-2020-11651: Proof of Concept",
+      "date": "2020-05-04",
+      "raw_date": "2020-05-04T11:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-5822",
+      "repo_info": "[jlcarruda/node-poc-http-smuggling](https://github.com/jlcarruda/node-poc-http-smuggling)",
+      "description": "PoC of Backend HTTP Socket Poisoning, via HTTP Smuggling, presented in CVE-2019-15605",
+      "date": "2020-05-04",
+      "raw_date": "2020-05-04T23:11:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.049580",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

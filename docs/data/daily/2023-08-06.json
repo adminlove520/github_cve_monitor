@@ -1,0 +1,48 @@
+{
+  "date": "2023-08-06",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-3519",
+      "repo_info": "[rwincey/cve-2023-3519](https://github.com/rwincey/cve-2023-3519)",
+      "description": "no description",
+      "date": "2023-08-06",
+      "raw_date": "2023-08-06T23:17:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-22809",
+      "repo_info": "[Toothless5143/CVE-2023-22809](https://github.com/Toothless5143/CVE-2023-22809)",
+      "description": "Running this exploit on a vulnerable system allows a local attacker to gain a root shell on the machine.",
+      "date": "2023-08-06",
+      "raw_date": "2023-08-06T06:46:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-21907",
+      "repo_info": "[szymonh/android-gadget](https://github.com/szymonh/android-gadget)",
+      "description": "CVE-2022-20009 - Description and sample exploit for Android USB Gadgets",
+      "date": "2023-08-06",
+      "raw_date": "2023-08-06T10:01:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-1015",
+      "repo_info": "[more-kohii/CVE-2022-1015](https://github.com/more-kohii/CVE-2022-1015)",
+      "description": "no description",
+      "date": "2023-08-06",
+      "raw_date": "2023-08-06T10:46:49Z"
+    },
+    {
+      "cve_id": "CVE-2017-12149",
+      "repo_info": "[MrE-Fog/jboss-_CVE-2017-12149](https://github.com/MrE-Fog/jboss-_CVE-2017-12149)",
+      "description": "no description",
+      "date": "2023-08-06",
+      "raw_date": "2023-08-06T12:11:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.278326",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-08-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2021-12-20",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[intel-xeon/CVE-2021-44228---detection-with-PowerShell](https://github.com/intel-xeon/CVE-2021-44228---detection-with-PowerShell)",
+      "description": "no description",
+      "date": "2021-12-20",
+      "raw_date": "2021-12-20T15:38:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[julian911015/Log4j-Scanner-Exploit](https://github.com/julian911015/Log4j-Scanner-Exploit)",
+      "description": "Script en bash que permite identificar la vulnerabilidad Log4j CVE-2021-44228 de forma remota.",
+      "date": "2021-12-20",
+      "raw_date": "2021-12-20T15:22:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-35448",
+      "repo_info": "[deathflash1411/CVE-2021-35448](https://github.com/deathflash1411/CVE-2021-35448)",
+      "description": "Remote Mouse GUI 3.008 - Local Privilege Escalation",
+      "date": "2021-12-20",
+      "raw_date": "2021-12-20T15:15:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-32305",
+      "repo_info": "[TotallyNotAHaxxer/f-for-java](https://github.com/TotallyNotAHaxxer/f-for-java)",
+      "description": "a project written in go and java i abandoned for CVE-2021-44228 try to fix it if you can XD",
+      "date": "2021-12-20",
+      "raw_date": "2021-12-20T01:31:06Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[offensity/CVE-2019-0708](https://github.com/offensity/CVE-2019-0708)",
+      "description": "no description",
+      "date": "2021-12-20",
+      "raw_date": "2021-12-20T14:57:23Z"
+    },
+    {
+      "cve_id": "CVE-2017-12943",
+      "repo_info": "[CarlosDelRosario7/sploit-bX](https://github.com/CarlosDelRosario7/sploit-bX)",
+      "description": "Bash que instala los sploit CVE-2017-0781 y CVE-2017-0785 y lo necesario para su usos.",
+      "date": "2021-12-20",
+      "raw_date": "2021-12-20T18:14:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.113723",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-12-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

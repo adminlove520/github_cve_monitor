@@ -1,0 +1,83 @@
+{
+  "date": "2023-04-11",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30459",
+      "repo_info": "[Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)",
+      "description": "CVE-2023-30459",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T11:11:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-27704",
+      "repo_info": "[happy0717/CVE-2023-27704](https://github.com/happy0717/CVE-2023-27704)",
+      "description": "CVE-2023-27704 Void Tools Everything lower than v1.4.1.1022 was discovered to contain a Regular Expression Denial of Service (ReDoS)",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T06:41:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-27703",
+      "repo_info": "[happy0717/CVE-2023-27703](https://github.com/happy0717/CVE-2023-27703)",
+      "description": "CVE-2023-27703  An Android version of pikpak version V1.29.2 element debugging interface leakage vulnerability",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T06:24:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-26976",
+      "repo_info": "[FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-26976_tenda_AC6_stack_overflow)",
+      "description": "no description",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T11:02:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-26852",
+      "repo_info": "[leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-](https://github.com/leekenghwa/CVE-2023-26852-Textpattern-v4.8.8-and-)",
+      "description": "Textpattern v4.8.8 and Below are vulnerable to Unrestricted File Upload Leading to Remote Code Execution",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T07:00:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-25234",
+      "repo_info": "[FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow](https://github.com/FzBacon/CVE-2023-25234_Tenda_AC6_stack_overflow)",
+      "description": "no description",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T11:36:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-27666",
+      "repo_info": "[Albocoder/cve-2022-27666-exploits](https://github.com/Albocoder/cve-2022-27666-exploits)",
+      "description": "There are 2 exploitation methods that exploit CVE-2022-27666. For more info on how to use these code bases please check my blog.",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T00:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-25313",
+      "repo_info": "[Trinadh465/external_expat-2.1.0_CVE-2022-25313](https://github.com/Trinadh465/external_expat-2.1.0_CVE-2022-25313)",
+      "description": "no description",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T12:54:01Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[nik0nz7/CVE-2020-14882](https://github.com/nik0nz7/CVE-2020-14882)",
+      "description": "no description",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T08:38:47Z"
+    },
+    {
+      "cve_id": "CVE-2019-18370",
+      "repo_info": "[FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis](https://github.com/FzBacon/CVE-2019-18370_XiaoMi_Mi_WIFI_RCE_analysis)",
+      "description": "no description",
+      "date": "2023-04-11",
+      "raw_date": "2023-04-11T10:58:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.260643",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-04-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

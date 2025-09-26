@@ -1,0 +1,167 @@
+{
+  "date": "2025-04-24",
+  "count": 22,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-3776",
+      "repo_info": "[Nxploited/CVE-2025-3776](https://github.com/Nxploited/CVE-2025-3776)",
+      "description": "WordPress Verification SMS with TargetSMS Plugin &lt;= 1.5 is vulnerable to Remote Code Execution (RCE)",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T01:19:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[rizky412/CVE-2025-32433](https://github.com/rizky412/CVE-2025-32433)",
+      "description": "CVE-2025-32433 https://github.com/erlang/otp/security/advisories/GHSA-37cp-fgq5-7wc2",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T21:14:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[mmotti/Reset-inetpub](https://github.com/mmotti/Reset-inetpub)",
+      "description": "Restore the integrity of the parent &#x27;inetpub&#x27; folder following security implications highlighted by CVE-2025-2120.",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T16:26:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[ps-interactive/lab_CVE-2025-32433](https://github.com/ps-interactive/lab_CVE-2025-32433)",
+      "description": "CVE lab to accompany CVE course for CVE-2025-32433",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T13:22:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-3243",
+      "repo_info": "[TeneBrae93/CVE-2025-3243](https://github.com/TeneBrae93/CVE-2025-3243)",
+      "description": "A proof-of-concept exploit for CVE-2025-32433, a critical vulnerability in Erlang&#x27;s SSH library that allows pre-authenticated code execution via malformed SSH_MSG_CHANNEL_REQUEST packets.",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T19:31:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[SUPRAAA-1337/CVE-2025-31161_exploit](https://github.com/SUPRAAA-1337/CVE-2025-31161_exploit)",
+      "description": "CVE-2025-31161 python exploit",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T22:09:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[SUPRAAA-1337/CVE-2025-31161](https://github.com/SUPRAAA-1337/CVE-2025-31161)",
+      "description": "Проверка наличие пути /WebInterface/function",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T07:52:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-30406",
+      "repo_info": "[W01fh4cker/CVE-2025-30406](https://github.com/W01fh4cker/CVE-2025-30406)",
+      "description": "Exploit for CVE-2025-30406",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T07:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[r0ngy40/CVE-2025-30208-Series](https://github.com/r0ngy40/CVE-2025-30208-Series)",
+      "description": "Analysis of the Reproduction of CVE-2025-30208 Series Vulnerabilities",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T10:53:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-2825",
+      "repo_info": "[SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825](https://github.com/SUPRAAA-1337/Nuclei_CVE-2025-31161_CVE-2025-2825)",
+      "description": "Official Nuclei template for CVE-2025-31161 (formerly CVE-2025-2825)",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T10:25:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-2812",
+      "repo_info": "[sahici/CVE-2025-2812](https://github.com/sahici/CVE-2025-2812)",
+      "description": "USOM Tarafından resmi yayın beklenmektedir.",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T21:22:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-2404",
+      "repo_info": "[sahici/CVE-2025-2404](https://github.com/sahici/CVE-2025-2404)",
+      "description": "USOM Tarafından resmi yayın beklenmektedir.",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T21:22:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-2301",
+      "repo_info": "[sahici/CVE-2025-2301](https://github.com/sahici/CVE-2025-2301)",
+      "description": "USOM Tarafından resmi yayın beklenmektedir.",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T21:21:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-21497",
+      "repo_info": "[Urbank-61/cve-2025-21497-lab](https://github.com/Urbank-61/cve-2025-21497-lab)",
+      "description": "CSC180 final project presentation of a vulnerable CVE",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T17:44:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-21497",
+      "repo_info": "[tinkerlev/commvault-cve2025-34028-check](https://github.com/tinkerlev/commvault-cve2025-34028-check)",
+      "description": "Commvault CVE-2025-34028 endpoint scanner using Nmap NSE. For ethical testing and configuration validation.",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T16:30:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-7120",
+      "repo_info": "[jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x](https://github.com/jokeir07x/CVE-2024-7120-Exploit-by-Dark-07x)",
+      "description": "no description",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T13:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-42471",
+      "repo_info": "[theMcSam/CVE-2024-42471-PoC](https://github.com/theMcSam/CVE-2024-42471-PoC)",
+      "description": "unzip-stream file write/overwrite vulnerability",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T15:28:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-12905",
+      "repo_info": "[theMcSam/CVE-2024-12905-PoC](https://github.com/theMcSam/CVE-2024-12905-PoC)",
+      "description": "tar-fs file write/overwrite vulnerability",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T15:34:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[charis3306/CVE-2023-25157](https://github.com/charis3306/CVE-2023-25157)",
+      "description": "CVE-2023-25157 exp",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T09:12:18Z"
+    },
+    {
+      "cve_id": "CVE-2021-43857",
+      "repo_info": "[G4sp4rCS/CVE-2021-43857-POC](https://github.com/G4sp4rCS/CVE-2021-43857-POC)",
+      "description": "Optimized exploit for CVE-2021-43857 affecting Gerapy &lt; 0.9.8",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T21:40:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[JIYUN02/cve-2021-41773](https://github.com/JIYUN02/cve-2021-41773)",
+      "description": "no description",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T13:19:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-15745",
+      "repo_info": "[Jasurbek-Masimov/CVE-2018-15745](https://github.com/Jasurbek-Masimov/CVE-2018-15745)",
+      "description": "no description",
+      "date": "2025-04-24",
+      "raw_date": "2025-04-24T19:23:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.386570",
+  "metadata": {
+    "total_cves": 22,
+    "date_range": "2025-04-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2025-07-13",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6058",
+      "repo_info": "[JayVillain/Scan-CVE-2025-6058](https://github.com/JayVillain/Scan-CVE-2025-6058)",
+      "description": "no description",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T05:05:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-52488",
+      "repo_info": "[guinea-offensive-security/Wazuh-RCE](https://github.com/guinea-offensive-security/Wazuh-RCE)",
+      "description": "Wazuh 8.4 CVE-2025-24016",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T23:56:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-47981",
+      "repo_info": "[barbaraogmgf/CVE-2025-47981-POC](https://github.com/barbaraogmgf/CVE-2025-47981-POC)",
+      "description": "no description",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T08:16:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-4593",
+      "repo_info": "[karenucqki/CVE-2025-4593](https://github.com/karenucqki/CVE-2025-4593)",
+      "description": "no description",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T10:37:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-34085",
+      "repo_info": "[ill-deed/CVE-2025-34085-Multi-target](https://github.com/ill-deed/CVE-2025-34085-Multi-target)",
+      "description": "Multi-target unauthenticated RCE scanner for CVE-2025-34085 affecting WordPress Simple File List plugin. Uploads, renames, and triggers PHP webshells across large target sets.",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T01:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-31125",
+      "repo_info": "[harshgupptaa/Path-Transversal-CVE-2025-31125-](https://github.com/harshgupptaa/Path-Transversal-CVE-2025-31125-)",
+      "description": "Vite is a frontend tooling framework for javascript. Vite exposes content of non-allowed files using ?inline&amp;import or ?raw?import. Only apps explicitly exposing the Vite dev server to the network (using --host or server.host config option) are affected. This vulnerability is fixed in 6.2.4, 6.1.3, 6.0.13, 5.4.16, and 4.5.11.",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T16:42:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-27591",
+      "repo_info": "[BridgerAlderson/CVE-2025-27591-PoC](https://github.com/BridgerAlderson/CVE-2025-27591-PoC)",
+      "description": "CVE-2025-27591 is a privilege escalation vulnerability that affected the Below service before version 0.9.0",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T08:41:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-22457",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-22457](https://github.com/B1ack4sh/Blackash-CVE-2025-22457)",
+      "description": "CVE-2025-22457",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T10:43:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-21626",
+      "repo_info": "[aayush256-sys/Moodle-authenticated-RCE](https://github.com/aayush256-sys/Moodle-authenticated-RCE)",
+      "description": "🚀 Exploit for Moodle 4.4.0 Authenticated RCE (CVE-2024-43425) — run commands remotely ⚡",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T04:52:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing](https://github.com/AdityaBhatt3010/TryHackMe-Room-Walkthrough-Billing)",
+      "description": "A detailed semi-professional walkthrough of TryHackMe&#x27;s Billing room exploiting CVE-2023-30258 and escalating via fail2ban misconfig",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T12:53:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-46689",
+      "repo_info": "[daviszhto/overwrite](https://github.com/daviszhto/overwrite)",
+      "description": "Proof-of-concept app to overwrite fonts on iOS using CVE-2022-46689.",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T09:56:56Z"
+    },
+    {
+      "cve_id": "CVE-2020-35848",
+      "repo_info": "[sabbu143s/CVE_2020_35848](https://github.com/sabbu143s/CVE_2020_35848)",
+      "description": "CVE-2020-35848 impacts Cockpit-CMS v1.7 due to unsafe handling of user inputs in authentication mechanisms, leading to remote code execution. This lab is built for CTF players and bug bounty learners to simulate real-world exploitation workflows including token extraction, password reset, and flag capture.",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T14:56:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-13393",
+      "repo_info": "[DensuLabs/CVE_2020_13393](https://github.com/DensuLabs/CVE_2020_13393)",
+      "description": "CVE_2020_13393",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T00:57:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-0143",
+      "repo_info": "[Cedric-Martz/EthernalBlue_report](https://github.com/Cedric-Martz/EthernalBlue_report)",
+      "description": "This is a security assessment report regarding the EthernalBlue vulnerability (CVE-2017-0143).",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T12:42:01Z"
+    },
+    {
+      "cve_id": "CVE-2015-8562",
+      "repo_info": "[Anonydra/joomla-1.5-3.4.5-rce](https://github.com/Anonydra/joomla-1.5-3.4.5-rce)",
+      "description": "Modified PoC exploit demonstrating remote code execution via object injection vulnerability in Joomla! 1.5.0 through 3.4.5 (CVE-2015-8562).",
+      "date": "2025-07-13",
+      "raw_date": "2025-07-13T14:12:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.402308",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-07-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

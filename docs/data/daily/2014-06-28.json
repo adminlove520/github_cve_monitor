@@ -1,0 +1,20 @@
+{
+  "date": "2014-06-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-8609",
+      "repo_info": "[ehabhussein/snmpvlan](https://github.com/ehabhussein/snmpvlan)",
+      "description": "CVE-2014-3341 exploit",
+      "date": "2014-06-28",
+      "raw_date": "2014-06-28T09:34:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.853217",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-06-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

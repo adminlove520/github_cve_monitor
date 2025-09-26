@@ -1,0 +1,41 @@
+{
+  "date": "2022-09-17",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[n0zxRY0/CVE-2022-32548-RCE](https://github.com/n0zxRY0/CVE-2022-32548-RCE)",
+      "description": "Mass Unauthenticated Remote Code Execution in DrayTek Vigor(CVE-2022-32548) botnet version",
+      "date": "2022-09-17",
+      "raw_date": "2022-09-17T11:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[touchmycrazyredhat/CVE-2022-27925-Revshell](https://github.com/touchmycrazyredhat/CVE-2022-27925-Revshell)",
+      "description": "no description",
+      "date": "2022-09-17",
+      "raw_date": "2022-09-17T22:24:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-39172",
+      "repo_info": "[W1ngLess/CVE-2021-39172-RCE](https://github.com/W1ngLess/CVE-2021-39172-RCE)",
+      "description": "Cachet 2.4 Code Execution via Laravel Configuration Injection CVE-2021-39172",
+      "date": "2022-09-17",
+      "raw_date": "2022-09-17T07:58:33Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[Ravaan21/Bluekeep-Hunter](https://github.com/Ravaan21/Bluekeep-Hunter)",
+      "description": "CVE-2019-0708, A tool which mass hunts for bluekeep vulnerability for exploitation.",
+      "date": "2022-09-17",
+      "raw_date": "2022-09-17T05:41:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.151833",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2018-03-21",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0213",
+      "repo_info": "[jbooz1/CVE-2017-0213](https://github.com/jbooz1/CVE-2017-0213)",
+      "description": "A version of CVE-2017-0213 that I plan to use with an Empire stager",
+      "date": "2018-03-21",
+      "raw_date": "2018-03-21T04:13:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.975001",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-03-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2024-10-26",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-49186",
+      "repo_info": "[cyb3res3c/CVE-2024-49186](https://github.com/cyb3res3c/CVE-2024-49186)",
+      "description": "no description",
+      "date": "2024-10-26",
+      "raw_date": "2024-10-26T03:32:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-48195",
+      "repo_info": "[cyb3res3c/CVE-2024-48195](https://github.com/cyb3res3c/CVE-2024-48195)",
+      "description": "no description",
+      "date": "2024-10-26",
+      "raw_date": "2024-10-26T03:17:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-42930",
+      "repo_info": "[cyb3res3c/CVE-2024-42930](https://github.com/cyb3res3c/CVE-2024-42930)",
+      "description": "no description",
+      "date": "2024-10-26",
+      "raw_date": "2024-10-26T01:56:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-39205",
+      "repo_info": "[Marven11/CVE-2024-39205-Pyload-RCE](https://github.com/Marven11/CVE-2024-39205-Pyload-RCE)",
+      "description": "Pyload RCE with js2py sandbox escape",
+      "date": "2024-10-26",
+      "raw_date": "2024-10-26T01:01:35Z"
+    },
+    {
+      "cve_id": "CVE-2020-25223",
+      "repo_info": "[reneww/poc-CVE-2020-25223](https://github.com/reneww/poc-CVE-2020-25223)",
+      "description": "no description",
+      "date": "2024-10-26",
+      "raw_date": "2024-10-26T08:45:39Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[louisthedonothing/CVE-2019-9053](https://github.com/louisthedonothing/CVE-2019-9053)",
+      "description": "CVE-2019-9053 rewritten in python3 to fix broken syntax. Affects CMS made simple &lt;2.2.10",
+      "date": "2024-10-26",
+      "raw_date": "2024-10-26T17:26:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.353975",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2024-10-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

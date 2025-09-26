@@ -1,0 +1,34 @@
+{
+  "date": "2017-08-21",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8641",
+      "repo_info": "[homjxi0e/CVE-2017-8641_chakra_Js_GlobalObject](https://github.com/homjxi0e/CVE-2017-8641_chakra_Js_GlobalObject)",
+      "description": "There is a classic heap overflow when eval a string which large enough in Chakra! This issue can be reproduced steadly in uptodate Edge in Win10 WIP. An exception will occur immediatly when opening POC.html in Edge.",
+      "date": "2017-08-21",
+      "raw_date": "2017-08-21T20:11:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-8625",
+      "repo_info": "[homjxi0e/CVE-2017-8625_Bypass_UMCI](https://github.com/homjxi0e/CVE-2017-8625_Bypass_UMCI)",
+      "description": "Bypass Feature UMCI in Internet Explorer",
+      "date": "2017-08-21",
+      "raw_date": "2017-08-21T20:14:07Z"
+    },
+    {
+      "cve_id": "CVE-2017-12792",
+      "repo_info": "[chenzhuo0618/test](https://github.com/chenzhuo0618/test)",
+      "description": "test for CVE-2017-1000117",
+      "date": "2017-08-21",
+      "raw_date": "2017-08-21T07:46:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.954987",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-08-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

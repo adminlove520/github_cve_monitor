@@ -1,0 +1,76 @@
+{
+  "date": "2023-04-05",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-21768",
+      "repo_info": "[h1bAna/CVE-2023-21768](https://github.com/h1bAna/CVE-2023-21768)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T02:05:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-2114",
+      "repo_info": "[SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114](https://github.com/SchmidAlex/nex-forms_SQL-Injection-CVE-2023-2114)",
+      "description": "Quick Review about the SQL-Injection in the NEX-Forms Plugin for WordPress",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T11:42:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-20943",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20943)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T11:24:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-20933",
+      "repo_info": "[hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933](https://github.com/hshivhare67/platform_frameworks_av_AOSP10_r33_CVE-2023-20933)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T06:04:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-42896",
+      "repo_info": "[Trinadh465/linux-4.19.72_CVE-2022-42896](https://github.com/Trinadh465/linux-4.19.72_CVE-2022-42896)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T09:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-42896",
+      "repo_info": "[hshivhare67/kernel_v4.19.72_CVE-2022-42896](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T07:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-42896",
+      "repo_info": "[Satheesh575555/linux-4.19.72_CVE-2022-42896](https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-42896)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T05:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-26265",
+      "repo_info": "[redteamsecurity2023/CVE-2022-26265](https://github.com/redteamsecurity2023/CVE-2022-26265)",
+      "description": "The first proof of concept of the Contao CMS RCE",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T09:34:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-10220",
+      "repo_info": "[hshivhare67/kernel_v4.1.15_CVE-2019-10220](https://github.com/hshivhare67/kernel_v4.1.15_CVE-2019-10220)",
+      "description": "no description",
+      "date": "2023-04-05",
+      "raw_date": "2023-04-05T11:51:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.259639",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-04-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

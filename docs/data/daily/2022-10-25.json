@@ -1,0 +1,83 @@
+{
+  "date": "2022-10-25",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[Vulnmachines/text4shell-CVE-2022-42889](https://github.com/Vulnmachines/text4shell-CVE-2022-42889)",
+      "description": "no description",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T13:11:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-2639",
+      "repo_info": "[EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639](https://github.com/EkamSinghWalia/Detection-and-Mitigation-for-CVE-2022-2639)",
+      "description": "no description",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T12:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-1679",
+      "repo_info": "[EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679](https://github.com/EkamSinghWalia/-Detection-and-Mitigation-for-CVE-2022-1679)",
+      "description": "no description",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T13:15:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[OnCyberWar/CVE-2022-1388](https://github.com/OnCyberWar/CVE-2022-1388)",
+      "description": "cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T12:29:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[On-Cyber-War/CVE-2022-1388](https://github.com/On-Cyber-War/CVE-2022-1388)",
+      "description": "cURL one-liner to test for CVE-2022-1388 BIG-IP iControl REST RCE",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T12:15:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[0bfxgh0st/cve-2021-43798](https://github.com/0bfxgh0st/cve-2021-43798)",
+      "description": "cve-2021-43798 Grafana 8.3.0 - Directory Traversal and Arbitrary File Read",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T12:24:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[Nels2/dcom_10036_Solver](https://github.com/Nels2/dcom_10036_Solver)",
+      "description": "This script was created to automate addressing the vulnerability described in CVE-2021-26414 (https://support.microsoft.com/en-us/topic/kb5004442-manage-changes-for-windows-dcom-server-security-feature-bypass-cve-2021-26414-f1400b52-c141-43d2-941e-37ed901c769c), adds two regkeys under HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Ole\\AppCompa",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T15:24:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-1675",
+      "repo_info": "[jj4152/cve-2021-1675](https://github.com/jj4152/cve-2021-1675)",
+      "description": "no description",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T06:47:20Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit](https://github.com/ELIZEUOPAIN/CVE-2019-9053-CMS-Made-Simple-2.2.10---SQL-Injection-Exploit)",
+      "description": "no description",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T00:55:12Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[k4u5h41/CVE-2007-2447](https://github.com/k4u5h41/CVE-2007-2447)",
+      "description": "no description",
+      "date": "2022-10-25",
+      "raw_date": "2022-10-25T16:05:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.157713",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-10-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

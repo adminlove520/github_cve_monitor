@@ -1,0 +1,34 @@
+{
+  "date": "2020-10-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-16898",
+      "repo_info": "[corelight/CVE-2020-16898](https://github.com/corelight/CVE-2020-16898)",
+      "description": "A network detection package for CVE-2020-16898 (Windows TCP/IP Remote Code Execution Vulnerability)",
+      "date": "2020-10-14",
+      "raw_date": "2020-10-14T03:25:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-16898",
+      "repo_info": "[ZephrFish/CVE-2020-16898](https://github.com/ZephrFish/CVE-2020-16898)",
+      "description": "HoneyPoC 2.0: Proof-of-Concept (PoC) script to exploit IPv6 (CVE-2020-16898).",
+      "date": "2020-10-14",
+      "raw_date": "2020-10-14T14:42:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-10172",
+      "repo_info": "[rusakovichma/CVE-2019-10172](https://github.com/rusakovichma/CVE-2019-10172)",
+      "description": "CVE-2019-10172 PoC and Possible mitigations",
+      "date": "2020-10-14",
+      "raw_date": "2020-10-14T12:00:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.065989",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-10-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

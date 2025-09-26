@@ -1,0 +1,979 @@
+{
+  "date": "2023-01-11",
+  "count": 138,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-22959",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22959](https://github.com/Live-Hack-CVE/CVE-2023-22959)",
+      "description": "WebChess through 0.9.0 and 1.0.0.rc2 allows SQL injection: mainmenu.php, chess.php, and opponentspassword.php (txtFirstName, txtLastName). CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-22958",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22958](https://github.com/Live-Hack-CVE/CVE-2023-22958)",
+      "description": "The Syracom Secure Login plugin before 3.1.1.0 for Jira may allow spoofing of 2FA PIN validation via the plugins/servlet/twofactor/public/pinvalidation target parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-22952",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22952](https://github.com/Live-Hack-CVE/CVE-2023-22952)",
+      "description": "In SugarCRM before 12.0. Hotfix 91155, a crafted request can inject custom PHP code through the EmailTemplates because of missing input validation. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-22885",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22885](https://github.com/Live-Hack-CVE/CVE-2023-22885)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-22622",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22622](https://github.com/Live-Hack-CVE/CVE-2023-22622)",
+      "description": "WordPress through 6.1.1 depends on unpredictable client visits to cause wp-cron.php execution and the resulting security updates, and the source code describes &quot;the scenario where a site may not receive enough visits to execute scheduled tasks in a timely manner,&quot; but neither the installation guide nor the security gui CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:49:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-22492",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22492](https://github.com/Live-Hack-CVE/CVE-2023-22492)",
+      "description": "ZITADEL is a combination of Auth0 and Keycloak. RefreshTokens is an OAuth 2.0 feature that allows applications to retrieve new access tokens and refresh the user&#x27;s session without the need for interacting with a UI. RefreshTokens were not invalidated when a user was locked or deactivated. The deactivated or locked user CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-22487",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22487](https://github.com/Live-Hack-CVE/CVE-2023-22487)",
+      "description": "Flarum is a forum software for building communities. Using the mentions feature provided by the flarum/mentions extension, users can mention any post ID on the forum with the special `@&quot;&lt;username&gt;&quot;#p&lt;id&gt;` syntax. The following behavior never changes no matter if the actor should be able to read the mentioned post or no CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-22464",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22464](https://github.com/Live-Hack-CVE/CVE-2023-22464)",
+      "description": "ViewVC is a browser interface for CVS and Subversion version control repositories. Versions prior to 1.2.3 and 1.1.30 are vulnerable to cross-site scripting. The impact of this vulnerability is mitigated by the need for an attacker to have commit privileges to a Subversion repository exposed by an otherwise trusted Vie CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-21765",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21765](https://github.com/Live-Hack-CVE/CVE-2023-21765)",
+      "description": "Windows Print Spooler Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21678, CVE-2023-21760. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:11:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-21764",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21764](https://github.com/Live-Hack-CVE/CVE-2023-21764)",
+      "description": "Microsoft Exchange Server Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21763. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-21755",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21755](https://github.com/Live-Hack-CVE/CVE-2023-21755)",
+      "description": "Windows Kernel Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21675, CVE-2023-21747, CVE-2023-21748, CVE-2023-21749, CVE-2023-21750, CVE-2023-21754, CVE-2023-21772, CVE-2023-21773, CVE-2023-21774. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-21752",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21752](https://github.com/Live-Hack-CVE/CVE-2023-21752)",
+      "description": "Windows Backup Service Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-21726",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21726](https://github.com/Live-Hack-CVE/CVE-2023-21726)",
+      "description": "Windows Credential Manager User Interface Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:09:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-21548",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21548](https://github.com/Live-Hack-CVE/CVE-2023-21548)",
+      "description": "Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21535. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:09:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-21541",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21541](https://github.com/Live-Hack-CVE/CVE-2023-21541)",
+      "description": "Windows Task Scheduler Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-21540",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21540](https://github.com/Live-Hack-CVE/CVE-2023-21540)",
+      "description": "Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21550, CVE-2023-21559. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:11:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-21539",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21539](https://github.com/Live-Hack-CVE/CVE-2023-21539)",
+      "description": "Windows Authentication Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:11:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-21538",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21538](https://github.com/Live-Hack-CVE/CVE-2023-21538)",
+      "description": ".NET Denial of Service Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:09:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-21537",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21537](https://github.com/Live-Hack-CVE/CVE-2023-21537)",
+      "description": "Microsoft Message Queuing (MSMQ) Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:11:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-21536",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21536](https://github.com/Live-Hack-CVE/CVE-2023-21536)",
+      "description": "Event Tracing for Windows Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21753. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-21535",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21535](https://github.com/Live-Hack-CVE/CVE-2023-21535)",
+      "description": "Windows Secure Socket Tunneling Protocol (SSTP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21548. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-21532",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21532](https://github.com/Live-Hack-CVE/CVE-2023-21532)",
+      "description": "Windows GDI Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21552. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-21531",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21531](https://github.com/Live-Hack-CVE/CVE-2023-21531)",
+      "description": "Azure Service Fabric Container Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-21527",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21527](https://github.com/Live-Hack-CVE/CVE-2023-21527)",
+      "description": "Windows iSCSI Service Denial of Service Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-21525",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21525](https://github.com/Live-Hack-CVE/CVE-2023-21525)",
+      "description": "Remote Procedure Call Runtime Denial of Service Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-21524",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21524](https://github.com/Live-Hack-CVE/CVE-2023-21524)",
+      "description": "Windows Local Security Authority (LSA) Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-20532",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20532](https://github.com/Live-Hack-CVE/CVE-2023-20532)",
+      "description": "Insufficient input validation in the SMU may allow an attacker to improperly lock resources, potentially resulting in a denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-20531",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20531](https://github.com/Live-Hack-CVE/CVE-2023-20531)",
+      "description": "Insufficient bound checks in the SMU may allow an attacker to update the SRAM from/to address space to an invalid value potentially resulting in a denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-20530",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20530](https://github.com/Live-Hack-CVE/CVE-2023-20530)",
+      "description": "Insufficient input validation of BIOS mailbox messages in SMU may result in out-of-bounds memory reads potentially resulting in a denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-20529",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20529](https://github.com/Live-Hack-CVE/CVE-2023-20529)",
+      "description": "Insufficient bound checks in the SMU may allow an attacker to update the from/to address space to an invalid value potentially resulting in a denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-20528",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20528](https://github.com/Live-Hack-CVE/CVE-2023-20528)",
+      "description": "Insufficient input validation in the SMU may allow a physical attacker to exfiltrate SMU memory contents over the I2C bus potentially leading to a loss of confidentiality. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-20527",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20527](https://github.com/Live-Hack-CVE/CVE-2023-20527)",
+      "description": "Improper syscall input validation in the ASP Bootloader may allow a privileged attacker to read memory out-of-bounds, potentially leading to a denial-of-service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-20525",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20525](https://github.com/Live-Hack-CVE/CVE-2023-20525)",
+      "description": "Insufficient syscall input validation in the ASP Bootloader may allow a privileged attacker to read memory outside the bounds of a mapped register potentially leading to a denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-20523",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-20523](https://github.com/Live-Hack-CVE/CVE-2023-20523)",
+      "description": "TOCTOU in the ASP may allow a physical attacker to write beyond the buffer bounds, potentially leading to a loss of integrity or denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-0161",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0161](https://github.com/Live-Hack-CVE/CVE-2023-0161)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-0110",
+      "repo_info": "[emotest1/cve_2023_0110](https://github.com/emotest1/cve_2023_0110)",
+      "description": "no description",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T21:35:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-0057",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0057](https://github.com/Live-Hack-CVE/CVE-2023-0057)",
+      "description": "Improper Restriction of Rendered UI Layers or Frames in GitHub repository pyload/pyload prior to 0.5.0b3.dev33. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-4885",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4885](https://github.com/Live-Hack-CVE/CVE-2022-4885)",
+      "description": "A vulnerability has been found in sviehb jefferson up to 0.3 and classified as critical. This vulnerability affects unknown code of the file src/scripts/jefferson. The manipulation leads to path traversal. The attack can be initiated remotely. Upgrading to version 0.4 is able to address this issue. The name of the patc CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T19:59:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-48253",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48253](https://github.com/Live-Hack-CVE/CVE-2022-48253)",
+      "description": "nhttpd in Nostromo before 2.1 is vulnerable to a path traversal that may allow an attacker to execute arbitrary commands on the remote server. The vulnerability occurs when the homedirs option is used. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-47866",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47866](https://github.com/Live-Hack-CVE/CVE-2022-47866)",
+      "description": "Lead management system v1.0 is vulnerable to SQL Injection via the id parameter in removeBrand.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T15:37:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-47865",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47865](https://github.com/Live-Hack-CVE/CVE-2022-47865)",
+      "description": "Lead Management System v1.0 is vulnerable to SQL Injection via the id parameter in removeOrder.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T15:37:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-47095",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47095](https://github.com/Live-Hack-CVE/CVE-2022-47095)",
+      "description": "GPAC MP4box 2.1-DEV-rev574-g9d5bb184b is vulnerable to Buffer overflow in hevc_parse_vps_extension function of media_tools/av_parsers.c CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T19:59:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-47095",
+      "repo_info": "[WhatTheFuzz/openssl-fuzz](https://github.com/WhatTheFuzz/openssl-fuzz)",
+      "description": "Finding CVE-2022-3786 (openssl) with Mayhem",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T19:52:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-47094",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47094](https://github.com/Live-Hack-CVE/CVE-2022-47094)",
+      "description": "GPAC MP4box 2.1-DEV-rev574-g9d5bb184b is vulnerable to Null pointer dereference via filters/dmx_m2ts.c:343 in m2tsdmx_declare_pid CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T19:59:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-47087",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47087](https://github.com/Live-Hack-CVE/CVE-2022-47087)",
+      "description": "GPAC MP4box 2.1-DEV-rev574-g9d5bb184b has a Buffer overflow in gf_vvc_read_pps_bs_internal function of media_tools/av_parsers.c CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:11:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-4696",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4696](https://github.com/Live-Hack-CVE/CVE-2022-4696)",
+      "description": "There exists a use-after-free vulnerability in the Linux kernel through io_uring and the IORING_OP_SPLICE operation. If IORING_OP_SPLICE is missing the IO_WQ_WORK_FILES flag, which signals that the operation won&#x27;t use current-&gt;nsproxy, so its reference counter is not increased. This assumption is not always true as cal CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T15:37:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-46449",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46449](https://github.com/Live-Hack-CVE/CVE-2022-46449)",
+      "description": "An issue in MPD (Music Player Daemon) v0.23.10 allows attackers to cause a Denial of Service (DoS) via a crafted input. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:09:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-46174",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46174](https://github.com/Live-Hack-CVE/CVE-2022-46174)",
+      "description": "efs-utils is a set of Utilities for Amazon Elastic File System (EFS). A potential race condition issue exists within the Amazon EFS mount helper in efs-utils versions v1.34.3 and below. When using TLS to mount file systems, the mount helper allocates a local port for stunnel to receive NFS connections prior to applying CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-4457",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4457](https://github.com/Live-Hack-CVE/CVE-2022-4457)",
+      "description": "Due to a misconfiguration in the manifest file of the WARP client for Android, it was possible to a perform a task hijacking attack. An attacker could create a malicious mobile application which could hijack legitimate app and steal potentially sensitive information when installed on the victim&#x27;s device. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-44535",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44535](https://github.com/Live-Hack-CVE/CVE-2022-44535)",
+      "description": "A vulnerability in the Aruba EdgeConnect Enterprise Orchestrator web-based management interface allows remote low-privileged authenticated users to escalate their privileges to those of an administrative user. A successful exploit could allow an attacker to achieve administrative privilege on the web-management interfa CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-44534",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44534](https://github.com/Live-Hack-CVE/CVE-2022-44534)",
+      "description": "A vulnerability in the Aruba EdgeConnect Enterprise Orchestrator web-based management interface allows remote authenticated users to run arbitrary commands on the underlying host. A successful exploit could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete sy CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-4428",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4428](https://github.com/Live-Hack-CVE/CVE-2022-4428)",
+      "description": "support_uri parameter in the WARP client local settings file (mdm.xml) lacked proper validation which allowed for privilege escalation and launching an arbitrary executable on the local machine upon clicking on the &quot;Send feedback&quot; option. An attacker with access to the local file system could use a crafted XML config f CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-4382",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4382](https://github.com/Live-Hack-CVE/CVE-2022-4382)",
+      "description": "A use-after-free flaw caused by a race among the superblock operations in the gadgetfs Linux driver was found. It could be triggered by yanking out a device that is running the gadgetfs side. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:09:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-4379",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4379](https://github.com/Live-Hack-CVE/CVE-2022-4379)",
+      "description": "A use-after-free vulnerability was found in __nfs42_ssc_open() in fs/nfs/nfs4file.c in the Linux kernel. This flaw allows an attacker to conduct a remote denial CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-43540",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43540](https://github.com/Live-Hack-CVE/CVE-2022-43540)",
+      "description": "A vulnerability exists in the ClearPass OnGuard macOS agent that allows for an attacker with local macOS instance access to potentially obtain sensitive information. A successful exploit could allow an attacker to retrieve information that is of a sensitive nature in Aruba ClearPass Policy Manager version(s): ClearPass CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-43539",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43539](https://github.com/Live-Hack-CVE/CVE-2022-43539)",
+      "description": "A vulnerability exists in the ClearPass Policy Manager cluster communications that allow for an attacker in a privileged network position to potentially obtain sensitive information. A successful exploit could allow an attacker to retrieve information that allows for unauthorized actions as a privileged user on the Cle CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-43538",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43538](https://github.com/Live-Hack-CVE/CVE-2022-43538)",
+      "description": "Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. Successful exploits could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in  CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:47:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-43538",
+      "repo_info": "[NumRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/NumRcs/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)",
+      "description": "We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their ow",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-43538",
+      "repo_info": "[HAMRCS/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/HAMRCS/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)",
+      "description": "Features      No local caching     Transfers via Discord webhook     Searches for authorization tokens in multiple directories (Discord, Discord PTB, Discord Canary, Google chrome, Opera, Brave and Yandex)     No external Python modules required     [todo] Cross-platform support",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-43537",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43537](https://github.com/Live-Hack-CVE/CVE-2022-43537)",
+      "description": "Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. Successful exploits could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in  CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-43536",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43536](https://github.com/Live-Hack-CVE/CVE-2022-43536)",
+      "description": "Vulnerabilities in the ClearPass Policy Manager web-based management interface allow remote authenticated users to run arbitrary commands on the underlying host. Successful exploits could allow an attacker to execute arbitrary commands as root on the underlying operating system leading to complete system compromise in  CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-43535",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43535](https://github.com/Live-Hack-CVE/CVE-2022-43535)",
+      "description": "A vulnerability in the ClearPass OnGuard Windows agent could allow malicious users on a Windows instance to elevate their user privileges. A successful exploit could allow these users to execute arbitrary code with NT AUTHORITY\\SYSTEM level privileges on the Windows instance in Aruba ClearPass Policy Manager version(s) CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-43534",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43534](https://github.com/Live-Hack-CVE/CVE-2022-43534)",
+      "description": "A vulnerability in the ClearPass OnGuard Linux agent could allow malicious users on a Linux instance to elevate their user privileges. A successful exploit could allow these users to execute arbitrary code with root level privileges on the Linux instance in Aruba ClearPass Policy Manager version(s): ClearPass Policy Ma CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:49:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-43530",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43530](https://github.com/Live-Hack-CVE/CVE-2022-43530)",
+      "description": "Vulnerabilities in the web-based management interface of ClearPass Policy Manager could allow an authenticated remote attacker to conduct SQL injection attacks against the ClearPass Policy Manager instance. An attacker could exploit these vulnerabilities to obtain and modify sensitive information in the underlying data CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T15:37:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-43530",
+      "repo_info": "[giz-berlin/quasar-app-webpack-json5-vulnerability](https://github.com/giz-berlin/quasar-app-webpack-json5-vulnerability)",
+      "description": "Reproduction for CVE-2022-46175",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T12:48:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-43528",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43528](https://github.com/Live-Hack-CVE/CVE-2022-43528)",
+      "description": "Under certain configurations, an attacker can login to Aruba EdgeConnect Enterprise Orchestrator without supplying a multi-factor authentication code. Successful exploitation allows an attacker to login using only a username and password and successfully bypass MFA requirements in Aruba EdgeConnect Enterprise Orchestra CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-43527",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43527](https://github.com/Live-Hack-CVE/CVE-2022-43527)",
+      "description": "Multiple vulnerabilities within the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victi CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:49:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-43526",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43526](https://github.com/Live-Hack-CVE/CVE-2022-43526)",
+      "description": "Multiple vulnerabilities within the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victi CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-43525",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43525](https://github.com/Live-Hack-CVE/CVE-2022-43525)",
+      "description": "Multiple vulnerabilities within the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow a remote attacker to conduct a reflected cross-site scripting (XSS) attack against a user of the interface. A successful exploit could allow an attacker to execute arbitrary script code in a victi CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-43524",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43524](https://github.com/Live-Hack-CVE/CVE-2022-43524)",
+      "description": "A vulnerability in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct a stored cross-site scripting (XSS) attack against an administrative user of the interface. A successful exploit allows an attacker to execute arbitrary script code  CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-43523",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43523](https://github.com/Live-Hack-CVE/CVE-2022-43523)",
+      "description": "Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:49:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-43521",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43521](https://github.com/Live-Hack-CVE/CVE-2022-43521)",
+      "description": "Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-43520",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43520](https://github.com/Live-Hack-CVE/CVE-2022-43520)",
+      "description": "Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-43519",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43519](https://github.com/Live-Hack-CVE/CVE-2022-43519)",
+      "description": "Multiple vulnerabilities in the web-based management interface of Aruba EdgeConnect Enterprise Orchestrator could allow an authenticated remote attacker to conduct SQL injection attacks against the Aruba EdgeConnect Enterprise Orchestrator instance. An attacker could exploit these vulnerabilities to obtain and modify s CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-43392",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43392](https://github.com/Live-Hack-CVE/CVE-2022-43392)",
+      "description": "A buffer overflow vulnerability in the parameter of web server in Zyxel NR7101 firmware prior to V1.15(ACCC.3)C0, which could allow an authenticated attacker to cause denial-of-service (DoS) conditions by sending a crafted authorization request. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-43390",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43390](https://github.com/Live-Hack-CVE/CVE-2022-43390)",
+      "description": "A command injection vulnerability in the CGI program of Zyxel NR7101 firmware prior to V1.15(ACCC.3)C0, which could allow an authenticated attacker to execute some OS commands on a vulnerable device by sending a crafted HTTP request. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-4338",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4338](https://github.com/Live-Hack-CVE/CVE-2022-4338)",
+      "description": "An integer underflow in Organization Specific TLV was found in various versions of OpenvSwitch. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:10:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-4337",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4337](https://github.com/Live-Hack-CVE/CVE-2022-4337)",
+      "description": "An out-of-bounds read in Organization Specific TLV was found in various versions of OpenvSwitch. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T00:09:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-42967",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42967](https://github.com/Live-Hack-CVE/CVE-2022-42967)",
+      "description": "Caret is vulnerable to an XSS attack when the user opens a crafted Markdown file when preview mode is enabled. This directly leads to client-side code execution. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T15:37:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-42264",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42264](https://github.com/Live-Hack-CVE/CVE-2022-42264)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause the use of an out-of-range pointer offset, which may lead to data tampering, data loss, information disclosure, or denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:11:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-42263",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42263](https://github.com/Live-Hack-CVE/CVE-2022-42263)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an Integer overflow may lead to denial of service or information disclosure. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:11:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-42262",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42262](https://github.com/Live-Hack-CVE/CVE-2022-42262)",
+      "description": "NVIDIA vGPU software contains a vulnerability in the Virtual GPU Manager (vGPU plugin), where an input index is not validated, which may lead to buffer overrun, which in turn may cause data tampering, information disclosure, or denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-42261",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42261](https://github.com/Live-Hack-CVE/CVE-2022-42261)",
+      "description": "NVIDIA vGPU software contains a vulnerability in the Virtual GPU Manager (vGPU plugin), where an input index is not validated, which may lead to buffer overrun, which in turn may cause data tampering, information disclosure, or denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-42260",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42260](https://github.com/Live-Hack-CVE/CVE-2022-42260)",
+      "description": "NVIDIA vGPU Display Driver for Linux guest contains a vulnerability in a D-Bus configuration file, where an unauthorized user in the guest VM can impact protected D-Bus endpoints, which may lead to code execution, denial of service, escalation of privileges, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-42254",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42254](https://github.com/Live-Hack-CVE/CVE-2022-42254)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, data tampering, or information disclosure. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-40615",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40615](https://github.com/Live-Hack-CVE/CVE-2022-40615)",
+      "description": "IBM Sterling Partner Engagement Manager 6.1, 6.2, and 6.2.1 is vulnerable to SQL injection. A remote attacker could send specially crafted SQL statements, which could allow the attacker to view, add, modify or delete information in the back-end database. IBM X-Force ID: 236208. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-34684",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34684](https://github.com/Live-Hack-CVE/CVE-2022-34684)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an off-by-one error may lead to data tampering or information disclosure. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-34441",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34441](https://github.com/Live-Hack-CVE/CVE-2022-34441)",
+      "description": "Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:11:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-34440",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34440](https://github.com/Live-Hack-CVE/CVE-2022-34440)",
+      "description": "Dell EMC SCG Policy Manager, versions from 5.10 to 5.12, contain(s) a contain a Hard-coded Cryptographic Key vulnerability. An attacker with the knowledge of the hard-coded sensitive information, could potentially exploit this vulnerability to login to the system to gain admin privileges. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:11:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-34335",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34335](https://github.com/Live-Hack-CVE/CVE-2022-34335)",
+      "description": "IBM Sterling Partner Engagement Manager 6.1.2, 6.2.0, and 6.2.1 could allow an authenticated user to exhaust server resources which could lead to a denial of service. IBM X-Force ID: 229705. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-34330",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34330](https://github.com/Live-Hack-CVE/CVE-2022-34330)",
+      "description": "IBM Sterling B2B Integrator Standard Edition 6.0.0.0 through 6.1.2.1 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 22 CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:52:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-23814",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-23814](https://github.com/Live-Hack-CVE/CVE-2022-23814)",
+      "description": "Failure to validate addresses provided by software to BIOS commands may result in a potential loss of integrity of guest memory in a confidential compute environment. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-23813",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-23813](https://github.com/Live-Hack-CVE/CVE-2022-23813)",
+      "description": "The software interfaces to ASP and SMU may not enforce the SNP memory security policy resulting in a potential loss of integrity of guest memory in a confidential compute environment. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-23529",
+      "repo_info": "[despossivel/CVE-2022-23529-lab](https://github.com/despossivel/CVE-2022-23529-lab)",
+      "description": "no description",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:46:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-0553",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-0553](https://github.com/Live-Hack-CVE/CVE-2022-0553)",
+      "description": "There is no check to see if slot 0 is being uploaded from the device to the host. When using encrypted images this means the unencrypted firmware can be retrieved easily. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:51:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-46767",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-46767](https://github.com/Live-Hack-CVE/CVE-2021-46767)",
+      "description": "Insufficient input validation in the ASP may allow an attacker with physical access, unauthorized write access to memory potentially leading to a loss of integrity or denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:12:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-41073",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-41073](https://github.com/Live-Hack-CVE/CVE-2021-41073)",
+      "description": "loop_rw_iter in fs/io_uring.c in the Linux kernel 5.10 through 5.14.6 allows local users to gain privileges by using IORING_OP_PROVIDE_BUFFERS to trigger a free of a kernel buffer, as demonstrated by using /proc/&lt;pid&gt;/maps for exploitation. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:47:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-3966",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-3966](https://github.com/Live-Hack-CVE/CVE-2021-3966)",
+      "description": "usb device bluetooth class includes a buffer overflow related to implementation of net_buf_add_mem. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T06:51:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-26403",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26403](https://github.com/Live-Hack-CVE/CVE-2021-26403)",
+      "description": "Insufficient checks in SEV may lead to a malicious hypervisor disclosing the launch secret potentially resulting in compromise of VM confidentiality. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-26402",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26402](https://github.com/Live-Hack-CVE/CVE-2021-26402)",
+      "description": "Insufficient bounds checking in ASP (AMD Secure Processor) firmware while handling BIOS mailbox commands, may allow an attacker to write partially-controlled data out-of-bounds to SMM or SEV-ES regions which may lead to a potential loss of integrity and availability. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-26398",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26398](https://github.com/Live-Hack-CVE/CVE-2021-26398)",
+      "description": "Insufficient input validation in SYS_KEY_DERIVE system call in a compromised user application or ABL may allow an attacker to corrupt ASP (AMD Secure Processor) OS memory which may lead to potential arbitrary code execution. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-26396",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26396](https://github.com/Live-Hack-CVE/CVE-2021-26396)",
+      "description": "Insufficient validation of address mapping to IO in ASP (AMD Secure Processor) may result in a loss of memory integrity in the SNP guest. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-26355",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26355](https://github.com/Live-Hack-CVE/CVE-2021-26355)",
+      "description": "Insufficient fencing and checks in System Management Unit (SMU) may result in access to invalid message port registers that could result in a potential denial-of-service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-26346",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26346](https://github.com/Live-Hack-CVE/CVE-2021-26346)",
+      "description": "Failure to validate the integer operand in ASP (AMD Secure Processor) bootloader may allow an attacker to introduce an integer overflow in the L2 directory table in SPI flash resulting in a potential denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:13Z"
+    },
+    {
+      "cve_id": "CVE-2021-26343",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26343](https://github.com/Live-Hack-CVE/CVE-2021-26343)",
+      "description": "Insufficient validation in ASP BIOS and DRTM commands may allow malicious supervisor x86 software to disclose the contents of sensitive memory which may result in information disclosure. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-26328",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26328](https://github.com/Live-Hack-CVE/CVE-2021-26328)",
+      "description": "Failure to verify the mode of CPU execution at the time of SNP_INIT may lead to a potential loss of memory integrity for SNP guests. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-26316",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26316](https://github.com/Live-Hack-CVE/CVE-2021-26316)",
+      "description": "Failure to validate the communication buffer and communication service in the BIOS may allow an attacker to tamper with the buffer resulting in potential SMM (System Management Mode) arbitrary code execution. CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T11:13:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-36650",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36650](https://github.com/Live-Hack-CVE/CVE-2020-36650)",
+      "description": "A vulnerability, which was classified as critical, was found in IonicaBizau node-gry up to 5.x. This affects an unknown part. The manipulation leads to command injection. Upgrading to version 6.0.0 is able to address this issue. The name of the patch is 5108446c1e23960d65e8b973f1d9486f9f9dbd6c. It is recommended to upg CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T19:59:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-1631",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-1631](https://github.com/Live-Hack-CVE/CVE-2020-1631)",
+      "description": "A vulnerability in the HTTP/HTTPS service used by J-Web, Web Authentication, Dynamic-VPN (DVPN), Firewall Authentication Pass-Through with Web-Redirect, and Zero Touch Provisioning (ZTP) allows an unauthenticated attacker to perform local file inclusion (LFI) or path traversal. Using this vulnerability, an attacker may CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T20:00:23Z"
+    },
+    {
+      "cve_id": "CVE-2018-25073",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25073](https://github.com/Live-Hack-CVE/CVE-2018-25073)",
+      "description": "A vulnerability has been found in Newcomer1989 TSN-Ranksystem up to 1.2.6 and classified as problematic. This vulnerability affects the function getlog of the file webinterface/bot.php. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to version 1.2.7 is able to address th CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T15:37:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-16309",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16309](https://github.com/Live-Hack-CVE/CVE-2017-16309)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:19:21Z"
+    },
+    {
+      "cve_id": "CVE-2017-16303",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16303](https://github.com/Live-Hack-CVE/CVE-2017-16303)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:19:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-16302",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16302](https://github.com/Live-Hack-CVE/CVE-2017-16302)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:19:03Z"
+    },
+    {
+      "cve_id": "CVE-2017-16301",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16301](https://github.com/Live-Hack-CVE/CVE-2017-16301)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:54Z"
+    },
+    {
+      "cve_id": "CVE-2017-16300",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16300](https://github.com/Live-Hack-CVE/CVE-2017-16300)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:44Z"
+    },
+    {
+      "cve_id": "CVE-2017-16289",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16289](https://github.com/Live-Hack-CVE/CVE-2017-16289)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:19:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16286",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16286](https://github.com/Live-Hack-CVE/CVE-2017-16286)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:58Z"
+    },
+    {
+      "cve_id": "CVE-2017-16280",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16280](https://github.com/Live-Hack-CVE/CVE-2017-16280)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:28Z"
+    },
+    {
+      "cve_id": "CVE-2017-16279",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16279](https://github.com/Live-Hack-CVE/CVE-2017-16279)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:19:08Z"
+    },
+    {
+      "cve_id": "CVE-2017-16277",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16277](https://github.com/Live-Hack-CVE/CVE-2017-16277)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:19Z"
+    },
+    {
+      "cve_id": "CVE-2017-16276",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16276](https://github.com/Live-Hack-CVE/CVE-2017-16276)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:49Z"
+    },
+    {
+      "cve_id": "CVE-2017-16275",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16275](https://github.com/Live-Hack-CVE/CVE-2017-16275)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:14Z"
+    },
+    {
+      "cve_id": "CVE-2017-16273",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16273](https://github.com/Live-Hack-CVE/CVE-2017-16273)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-16271",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16271](https://github.com/Live-Hack-CVE/CVE-2017-16271)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:33Z"
+    },
+    {
+      "cve_id": "CVE-2017-16270",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16270](https://github.com/Live-Hack-CVE/CVE-2017-16270)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:09Z"
+    },
+    {
+      "cve_id": "CVE-2017-16268",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16268](https://github.com/Live-Hack-CVE/CVE-2017-16268)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:23Z"
+    },
+    {
+      "cve_id": "CVE-2017-16263",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16263](https://github.com/Live-Hack-CVE/CVE-2017-16263)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-16262",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16262](https://github.com/Live-Hack-CVE/CVE-2017-16262)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:17:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-16261",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16261](https://github.com/Live-Hack-CVE/CVE-2017-16261)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:17:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-16260",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16260](https://github.com/Live-Hack-CVE/CVE-2017-16260)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:18:02Z"
+    },
+    {
+      "cve_id": "CVE-2017-16258",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16258](https://github.com/Live-Hack-CVE/CVE-2017-16258)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:17:49Z"
+    },
+    {
+      "cve_id": "CVE-2017-16256",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-16256](https://github.com/Live-Hack-CVE/CVE-2017-16256)",
+      "description": "Multiple exploitable buffer overflow vulnerabilities exist in the PubNub message handler for the &quot;cc&quot; channel of Insteon Hub running firmware version 1012. Specially crafted commands sent through the PubNub service can cause a stack-based buffer overflow overwriting arbitrary data. An attacker should send an authentica CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T23:17:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-16256",
+      "repo_info": "[fastify/send](https://github.com/fastify/send)",
+      "description": "Fork of the send module to deal with CVE-2017-20165",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T10:20:27Z"
+    },
+    {
+      "cve_id": "CVE-2015-10015",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10015](https://github.com/Live-Hack-CVE/CVE-2015-10015)",
+      "description": "A vulnerability, which was classified as critical, has been found in glidernet ogn-live. This issue affects some unknown processing. The manipulation leads to sql injection. The name of the patch is bc0f19965f760587645583b7624d66a260946e01. It is recommended to apply a patch to fix this issue. The associated identifier CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:09Z"
+    },
+    {
+      "cve_id": "CVE-2014-125076",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125076](https://github.com/Live-Hack-CVE/CVE-2014-125076)",
+      "description": "A vulnerability was found in NoxxieNl Criminals. It has been classified as critical. Affected is an unknown function of the file ingame/roulette.php. The manipulation of the argument gambleMoney leads to sql injection. The name of the patch is 0a60b31271d4cbf8babe4be993d2a3a1617f0897. It is recommended to apply a patch CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:37Z"
+    },
+    {
+      "cve_id": "CVE-2014-125075",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125075](https://github.com/Live-Hack-CVE/CVE-2014-125075)",
+      "description": "A vulnerability was found in gmail-servlet and classified as critical. This issue affects the function search of the file src/Model.java. The manipulation leads to sql injection. The name of the patch is 5d72753c2e95bb373aa86824939397dc25f679ea. It is recommended to apply a patch to fix this issue. The identifier VDB-2 CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T22:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2013-10010",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-10010](https://github.com/Live-Hack-CVE/CVE-2013-10010)",
+      "description": "A vulnerability classified as problematic has been found in zerochplus. This affects the function PrintResList of the file test/mordor/thread.res.pl. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 9ddf9ecca8565341d8d26a3b2f64540bde4fa273. It is r CVE project by @Sn0wAlice",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T17:48:22Z"
+    },
+    {
+      "cve_id": "CVE-2010-1622",
+      "repo_info": "[E-bounce/cve-2010-1622_learning_environment](https://github.com/E-bounce/cve-2010-1622_learning_environment)",
+      "description": "cve-2010-1622 Learning Environment",
+      "date": "2023-01-11",
+      "raw_date": "2023-01-11T03:37:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.220010",
+  "metadata": {
+    "total_cves": 138,
+    "date_range": "2023-01-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

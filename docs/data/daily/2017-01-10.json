@@ -1,0 +1,20 @@
+{
+  "date": "2017-01-10",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-7255",
+      "repo_info": "[bazad/flow_divert-heap-overflow](https://github.com/bazad/flow_divert-heap-overflow)",
+      "description": "Proof-of-concept exploit for CVE-2016-1827 on OS X Yosemite.",
+      "date": "2017-01-10",
+      "raw_date": "2017-01-10T03:41:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.934366",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-01-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

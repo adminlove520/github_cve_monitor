@@ -1,0 +1,27 @@
+{
+  "date": "2019-12-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6389",
+      "repo_info": "[Adelittle/Wordpressz_Dos_CVE_2018_6389](https://github.com/Adelittle/Wordpressz_Dos_CVE_2018_6389)",
+      "description": "no description",
+      "date": "2019-12-08",
+      "raw_date": "2019-12-08T05:37:32Z"
+    },
+    {
+      "cve_id": "CVE-2008-1611",
+      "repo_info": "[Axua/CVE-2008-1611](https://github.com/Axua/CVE-2008-1611)",
+      "description": "CVE-2008-1611 TFTP 1.41 buffer overflow exploit in the filepath",
+      "date": "2019-12-08",
+      "raw_date": "2019-12-08T17:18:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.034692",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-12-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

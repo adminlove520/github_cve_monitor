@@ -1,0 +1,97 @@
+{
+  "date": "2022-10-19",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42899",
+      "repo_info": "[iamsanjay/CVE-2022-42899](https://github.com/iamsanjay/CVE-2022-42899)",
+      "description": "no description",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T02:13:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[neerazz/CVE-2022-42889](https://github.com/neerazz/CVE-2022-42889)",
+      "description": "no description",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T22:56:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[kljunowsky/CVE-2022-42889-text4shell](https://github.com/kljunowsky/CVE-2022-42889-text4shell)",
+      "description": "Apache commons text - CVE-2022-42889 Text4Shell proof of concept exploit.",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T11:49:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[eunomie/cve-2022-42889-check](https://github.com/eunomie/cve-2022-42889-check)",
+      "description": "no description",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T06:54:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[und3sc0n0c1d0/CVE-2022-40684](https://github.com/und3sc0n0c1d0/CVE-2022-40684)",
+      "description": "Utilities for exploiting vulnerability CVE-2022-40684 (FortiOS / FortiProxy / FortiSwitchManager - Authentication bypass on administrative interface).",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T22:07:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[securekomodo/text4shell-scan](https://github.com/securekomodo/text4shell-scan)",
+      "description": "A fully automated, accurate, and extensive scanner for finding text4shell RCE CVE-2022-42889",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T20:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-40674",
+      "repo_info": "[nidhi7598/-expat_2.1.0_CVE-2022-40674](https://github.com/nidhi7598/-expat_2.1.0_CVE-2022-40674)",
+      "description": "no description",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T11:15:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[onlyHerold22/CVE-2022-27925-PoC](https://github.com/onlyHerold22/CVE-2022-27925-PoC)",
+      "description": "no description",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T12:46:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-27414",
+      "repo_info": "[lus33rr/CVE-2022-27414](https://github.com/lus33rr/CVE-2022-27414)",
+      "description": "Exploit of College Website v1.0 CMS - SQL injection",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T22:17:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[toecesws/CVE-2021-4034](https://github.com/toecesws/CVE-2021-4034)",
+      "description": "Vulnerability to CVE-2021-4034 Pwnkit",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T18:19:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[TheKickPuncher/CVE-2020-0688-Python3](https://github.com/TheKickPuncher/CVE-2020-0688-Python3)",
+      "description": "Exploit updated to use Python 3.",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T10:36:10Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[inj3ction/CVE-2017-7921-EXP](https://github.com/inj3ction/CVE-2017-7921-EXP)",
+      "description": "no description",
+      "date": "2022-10-19",
+      "raw_date": "2022-10-19T13:48:49Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.156742",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-10-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

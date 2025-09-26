@@ -1,0 +1,20 @@
+{
+  "date": "2017-01-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-1579",
+      "repo_info": "[u0pattern/Remove-IIS-RIIS](https://github.com/u0pattern/Remove-IIS-RIIS)",
+      "description": "CVE-2015-1635",
+      "date": "2017-01-28",
+      "raw_date": "2017-01-28T16:26:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.935937",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-01-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

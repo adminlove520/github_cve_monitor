@@ -1,0 +1,83 @@
+{
+  "date": "2023-08-05",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-38822",
+      "repo_info": "[TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822](https://github.com/TraiLeR2/Corsair---DLL-Planting-CVE-2023-38822)",
+      "description": "DLL Planting in the Corsair iCUE v.5.3.102 CVE-2023-38822",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T13:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-38821",
+      "repo_info": "[TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821](https://github.com/TraiLeR2/CoD-MW-Warzone-2---CVE-2023-38821)",
+      "description": "DLL Planting in the CoD MW Warzone 2 - CVE-2023-38821",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T13:57:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-38820",
+      "repo_info": "[TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820](https://github.com/TraiLeR2/DLL-Planting-Slack-4.33.73-CVE-2023-38820)",
+      "description": "DLL Planting in the Slack 4.33.73 - CVE-2023-38820",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T14:30:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-3519",
+      "repo_info": "[passwa11/CVE-2023-3519](https://github.com/passwa11/CVE-2023-3519)",
+      "description": "no description",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T01:43:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-2732",
+      "repo_info": "[Pari-Malam/CVE-2023-2732](https://github.com/Pari-Malam/CVE-2023-2732)",
+      "description": "Perform With Massive Authentication Bypass (Wordpress Mstore-API)",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T06:38:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53](https://github.com/HusenjanDev/CVE-2023-27163-AND-Mailtrail-v0.53)",
+      "description": "Requests Baskets (CVE-2023-27163) and Mailtrail v0.53",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T09:32:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-22555",
+      "repo_info": "[tukru/CVE-2021-22555](https://github.com/tukru/CVE-2021-22555)",
+      "description": "This repo hosts TUKRU&#x27;s Linux Privilege Escalation exploit (CVE-2021-22555). It demonstrates gaining root privileges via a vulnerability. Tested on Ubuntu 5.8.0-48-generic and COS 5.4.89+. Use responsibly and ethically.",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T18:56:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-11358",
+      "repo_info": "[isacaya/CVE-2019-11358](https://github.com/isacaya/CVE-2019-11358)",
+      "description": "no description",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T14:44:42Z"
+    },
+    {
+      "cve_id": "CVE-2018-6789",
+      "repo_info": "[thistehneisen/CVE-2018-6789-Python3](https://github.com/thistehneisen/CVE-2018-6789-Python3)",
+      "description": "Exim &lt; 4.90.1 RCE Vulnerability remake for Python3 with arguments passed from CLI",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T11:28:49Z"
+    },
+    {
+      "cve_id": "CVE-2013-3827",
+      "repo_info": "[thistehneisen/CVE-2013-3827](https://github.com/thistehneisen/CVE-2013-3827)",
+      "description": "Quick PoC checker for common configurations that might be available via directory traversal due to CVE-2013-3827",
+      "date": "2023-08-05",
+      "raw_date": "2023-08-05T08:26:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.278162",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-08-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

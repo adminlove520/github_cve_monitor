@@ -1,0 +1,27 @@
+{
+  "date": "2019-12-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19576",
+      "repo_info": "[jra89/CVE-2019-19576](https://github.com/jra89/CVE-2019-19576)",
+      "description": "This is a filter bypass exploit that results in arbitrary file upload and remote code execution in class.upload.php &lt;= 2.0.3",
+      "date": "2019-12-04",
+      "raw_date": "2019-12-04T15:01:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-19511",
+      "repo_info": "[jra89/CVE-2019-19511](https://github.com/jra89/CVE-2019-19511)",
+      "description": "Chevereto - 1.0.0 Free - 1.1.4 Free, 3.13.4 Core, Remote Code Execution",
+      "date": "2019-12-04",
+      "raw_date": "2019-12-04T09:37:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.034333",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-12-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

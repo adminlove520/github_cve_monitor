@@ -1,0 +1,104 @@
+{
+  "date": "2024-11-04",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9537",
+      "repo_info": "[hatvix1/CVE-2024-9537](https://github.com/hatvix1/CVE-2024-9537)",
+      "description": "Authentication Bypass Using an Alternate Path or Channel",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T10:22:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-53615",
+      "repo_info": "[beune/CVE-2024-53615](https://github.com/beune/CVE-2024-53615)",
+      "description": "CVE-2024-53615",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T18:34:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-50804",
+      "repo_info": "[g3tsyst3m/CVE-2024-50804](https://github.com/g3tsyst3m/CVE-2024-50804)",
+      "description": "placeholder for all CVE contributions",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T15:38:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-50526",
+      "repo_info": "[hatvix1/CVE-2024-50526-Private-POC](https://github.com/hatvix1/CVE-2024-50526-Private-POC)",
+      "description": "Unrestricted Upload of File with Dangerous Type",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T16:37:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-50498",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50498](https://github.com/RandomRobbieBF/CVE-2024-50498)",
+      "description": "WP Query Console &lt;= 1.0 - Unauthenticated Remote Code Execution",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T22:13:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-50476",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50476](https://github.com/RandomRobbieBF/CVE-2024-50476)",
+      "description": "GRÜN spendino Spendenformular &lt;= 1.0.1 - Unauthenticated Arbitrary Options Update",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T09:30:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-50475",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50475](https://github.com/RandomRobbieBF/CVE-2024-50475)",
+      "description": "Signup Page &lt;= 1.0 - Unauthenticated Arbitrary Options Update",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T10:46:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-30078",
+      "repo_info": "[zgimszhd61/CVE-2024-30078-POC_WIFI](https://github.com/zgimszhd61/CVE-2024-30078-POC_WIFI)",
+      "description": "basic concept for the latest windows wifi driver CVE",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T03:40:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-25813",
+      "repo_info": "[pbj2647/CVE-2023-25813](https://github.com/pbj2647/CVE-2023-25813)",
+      "description": "no description",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T04:47:55Z"
+    },
+    {
+      "cve_id": "CVE-2018-16452",
+      "repo_info": "[uthrasri/CVE-2018-16452_tcpdump_AOSP10_R33](https://github.com/uthrasri/CVE-2018-16452_tcpdump_AOSP10_R33)",
+      "description": "no description",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T15:18:33Z"
+    },
+    {
+      "cve_id": "CVE-2015-3239",
+      "repo_info": "[RenukaSelvar/libunwind_CVE-2015-3239_After](https://github.com/RenukaSelvar/libunwind_CVE-2015-3239_After)",
+      "description": "no description",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T12:52:16Z"
+    },
+    {
+      "cve_id": "CVE-2015-3239",
+      "repo_info": "[RenukaSelvar/libunwind_CVE-2015-3239_AfterPatch](https://github.com/RenukaSelvar/libunwind_CVE-2015-3239_AfterPatch)",
+      "description": "no description",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T12:38:55Z"
+    },
+    {
+      "cve_id": "CVE-2015-3239",
+      "repo_info": "[RenukaSelvar/libunwind_CVE-2015-3239](https://github.com/RenukaSelvar/libunwind_CVE-2015-3239)",
+      "description": "no description",
+      "date": "2024-11-04",
+      "raw_date": "2024-11-04T12:06:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.355643",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-11-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

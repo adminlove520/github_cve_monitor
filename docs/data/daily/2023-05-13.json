@@ -1,0 +1,48 @@
+{
+  "date": "2023-05-13",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[retr0reg/Tenda-Ac8v4-PoC](https://github.com/retr0reg/Tenda-Ac8v4-PoC)",
+      "description": "Exploits for Tenda Ac8v4 stack-based overflow to Remote-Code Execution via Mipsel Ropping (CVE-2023-33669 - CVE-2023-33675)",
+      "date": "2023-05-13",
+      "raw_date": "2023-05-13T04:10:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-32243",
+      "repo_info": "[little44n1o/cve-2023-32243](https://github.com/little44n1o/cve-2023-32243)",
+      "description": "poc",
+      "date": "2023-05-13",
+      "raw_date": "2023-05-13T19:35:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-29324",
+      "repo_info": "[OLeDouxEt/CVE-2023-29324_Patch_Deploy](https://github.com/OLeDouxEt/CVE-2023-29324_Patch_Deploy)",
+      "description": "no description",
+      "date": "2023-05-13",
+      "raw_date": "2023-05-13T19:40:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[PurpleOzone/PE_CVE-CVE-2021-3156](https://github.com/PurpleOzone/PE_CVE-CVE-2021-3156)",
+      "description": "Exploit for Ubuntu 20.04 using CVE-2021-3156 enhanced with post-exploitation scripts",
+      "date": "2023-05-13",
+      "raw_date": "2023-05-13T01:02:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-17087",
+      "repo_info": "[raiden757/CVE-2020-17087](https://github.com/raiden757/CVE-2020-17087)",
+      "description": "no description",
+      "date": "2023-05-13",
+      "raw_date": "2023-05-13T03:11:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.265356",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-05-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

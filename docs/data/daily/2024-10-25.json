@@ -1,0 +1,104 @@
+{
+  "date": "2024-10-25",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-51435",
+      "repo_info": "[bevennyamande/CVE-2024-51435](https://github.com/bevennyamande/CVE-2024-51435)",
+      "description": "bloodbank POCs",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T23:28:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-48392",
+      "repo_info": "[Renzusclarke/CVE-2024-48392-PoC](https://github.com/Renzusclarke/CVE-2024-48392-PoC)",
+      "description": "no description",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T09:00:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[HazeLook/CVE-2024-47575](https://github.com/HazeLook/CVE-2024-47575)",
+      "description": "no description",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T15:18:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[maybelookis/CVE-2024-47575](https://github.com/maybelookis/CVE-2024-47575)",
+      "description": "no description",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T14:49:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-43532",
+      "repo_info": "[HazeLook/CVE-2024-43532](https://github.com/HazeLook/CVE-2024-43532)",
+      "description": "no description",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T15:25:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-43468",
+      "repo_info": "[tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468](https://github.com/tadash10/Detailed-Analysis-and-Mitigation-Strategies-for-CVE-2024-38124-and-CVE-2024-43468)",
+      "description": "no description",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T14:53:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[groshi/CVE-2024-23113-Private-POC](https://github.com/groshi/CVE-2024-23113-Private-POC)",
+      "description": "CVE-2024-23113-Private-POC",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T11:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-10410",
+      "repo_info": "[K1nako0/CVE-2024-10410](https://github.com/K1nako0/CVE-2024-10410)",
+      "description": "no description",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T14:15:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[MacTavish2/CVE-2023-46747-Mass-RCE](https://github.com/MacTavish2/CVE-2023-46747-Mass-RCE)",
+      "description": "CVE-2023-46747-Mass-RCE",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T17:04:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-23131",
+      "repo_info": "[davidzzo23/CVE-2022-23131](https://github.com/davidzzo23/CVE-2022-23131)",
+      "description": "Zabbix Frontend Authentication Bypass Vulnerability",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T13:44:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-20223",
+      "repo_info": "[xbee9/cve-2022-20223](https://github.com/xbee9/cve-2022-20223)",
+      "description": "A simple bash script for exploiting Android 10/11/12 using cve-2022-20223.",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T07:22:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-20223",
+      "repo_info": "[ShaharyarJalaluddin/cve20220847](https://github.com/ShaharyarJalaluddin/cve20220847)",
+      "description": "CVE_2022_0847",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T03:32:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-0944",
+      "repo_info": "[LipeOzyy/SQLPad-RCE-Exploit-CVE-2022-0944](https://github.com/LipeOzyy/SQLPad-RCE-Exploit-CVE-2022-0944)",
+      "description": "CVE-2022-0944 Remote Code Execution Exploit",
+      "date": "2024-10-25",
+      "raw_date": "2024-10-25T20:31:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.353803",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-10-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

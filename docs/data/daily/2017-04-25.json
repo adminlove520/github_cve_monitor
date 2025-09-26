@@ -1,0 +1,34 @@
+{
+  "date": "2017-04-25",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5693",
+      "repo_info": "[LunNova/Puma6Fail](https://github.com/LunNova/Puma6Fail)",
+      "description": "CVE-2017-5693 Denial of service vulnerability in Puma 6 modems",
+      "date": "2017-04-25",
+      "raw_date": "2017-04-25T21:25:43Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[joke998/Cve-2017-0199-](https://github.com/joke998/Cve-2017-0199-)",
+      "description": "Cve-2017-0199",
+      "date": "2017-04-25",
+      "raw_date": "2017-04-25T03:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[joke998/Cve-2017-0199](https://github.com/joke998/Cve-2017-0199)",
+      "description": "no description",
+      "date": "2017-04-25",
+      "raw_date": "2017-04-25T03:38:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.944053",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-04-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

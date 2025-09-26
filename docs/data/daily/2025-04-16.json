@@ -1,0 +1,209 @@
+{
+  "date": "2025-04-16",
+  "count": 28,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46080",
+      "repo_info": "[yggcwhat/CVE-2025-46080](https://github.com/yggcwhat/CVE-2025-46080)",
+      "description": "Details",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T08:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-442025",
+      "repo_info": "[joey-melo/CVE-2025-442025](https://github.com/joey-melo/CVE-2025-442025)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T16:47:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-442025",
+      "repo_info": "[MITRE-Cyber-Security-CVE-Database/mitre-cve-database](https://github.com/MITRE-Cyber-Security-CVE-Database/mitre-cve-database)",
+      "description": "mitre-cve-database will be hosted here beginning 16-04-2025",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T05:02:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-4162030",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-4162030](https://github.com/NotItsSixtyN3in/CVE-2025-4162030)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T20:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-4162029",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-4162029](https://github.com/NotItsSixtyN3in/CVE-2025-4162029)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T20:39:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-4162028",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-4162028](https://github.com/NotItsSixtyN3in/CVE-2025-4162028)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T20:39:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-4162027",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-4162027](https://github.com/NotItsSixtyN3in/CVE-2025-4162027)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T20:38:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-4162026",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-4162026](https://github.com/NotItsSixtyN3in/CVE-2025-4162026)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T20:37:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-4162025",
+      "repo_info": "[NotItsSixtyN3in/CVE-2025-4162025](https://github.com/NotItsSixtyN3in/CVE-2025-4162025)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T20:32:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-39601",
+      "repo_info": "[Nxploited/CVE-2025-39601](https://github.com/Nxploited/CVE-2025-39601)",
+      "description": "WordPress Custom CSS, JS &amp; PHP plugin &lt;= 2.4.1 - CSRF to RCE vulnerability",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T14:52:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[verylazytech/CVE-2025-3248](https://github.com/verylazytech/CVE-2025-3248)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T14:00:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-30967",
+      "repo_info": "[Anton-ai111/CVE-2025-30967](https://github.com/Anton-ai111/CVE-2025-30967)",
+      "description": "CVE-2025-30967",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T13:06:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-30727",
+      "repo_info": "[HExploited/CVE-2025-30727-Exploit](https://github.com/HExploited/CVE-2025-30727-Exploit)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T18:48:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[enochgitgamefied/NextJS-CVE-2025-29927](https://github.com/enochgitgamefied/NextJS-CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T22:39:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[mhamzakhattak/CVE-2025-29927](https://github.com/mhamzakhattak/CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T10:28:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation](https://github.com/Knotsecurity/CVE-2025-29927-NextJs-Middleware-Simulation)",
+      "description": "Simulates CVE-2025-29927, a critical Next.js vulnerability allowing attackers to bypass middleware authorization by exploiting the internal x-middleware-subrequest HTTP header. Demonstrates unauthorized access to protected routes and provides mitigation strategies.",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T07:33:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-26244",
+      "repo_info": "[JaRm222/CVE-2025-26244](https://github.com/JaRm222/CVE-2025-26244)",
+      "description": "The graph functionality of DeimosC2 v1.1.0-Beta is vulnerable to Stored Cross-Site Scripting (XSS), allowing the theft of session cookie and unauthorized access to the C2 server.",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T18:24:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-24797",
+      "repo_info": "[Alainx277/CVE-2025-24797](https://github.com/Alainx277/CVE-2025-24797)",
+      "description": "Meshtastic buffer overflow vulnerability - CVE-2025-24797",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T19:04:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-57394",
+      "repo_info": "[cwjchoi01/CVE-2024-57394](https://github.com/cwjchoi01/CVE-2024-57394)",
+      "description": "CVE-2024-57394",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T13:36:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[been22426/CVE-2024-3094](https://github.com/been22426/CVE-2024-3094)",
+      "description": "CVE-2024-3094 실습 환경 구축 및 보고",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T12:58:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-23653",
+      "repo_info": "[bio/vue-template-compiler-patched](https://github.com/bio/vue-template-compiler-patched)",
+      "description": "Patched Vue 2.7.16 template compiler with XSS fix for CVE‑2024‑6783",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T12:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[ohnahee/CVE_2023_46604_poc](https://github.com/ohnahee/CVE_2023_46604_poc)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T11:51:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-1054",
+      "repo_info": "[Naman2701B/CVE-2020-1054](https://github.com/Naman2701B/CVE-2020-1054)",
+      "description": "This is a modified version of CVE 2020 1054 PoC",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T03:38:02Z"
+    },
+    {
+      "cve_id": "CVE-2020-0665",
+      "repo_info": "[gunzf0x/CVE-2020-0665](https://github.com/gunzf0x/CVE-2020-0665)",
+      "description": "Proof of Concept for CVE-2020-0665, a.k.a. SID Filter Bypass.",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T10:41:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-17229",
+      "repo_info": "[zeeshangondal/c-cpp_CVE-2018-17229](https://github.com/zeeshangondal/c-cpp_CVE-2018-17229)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T16:11:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-17229",
+      "repo_info": "[ZeeshanGondal0007/c-cpp_CVE-2018-17229](https://github.com/ZeeshanGondal0007/c-cpp_CVE-2018-17229)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T16:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2018-14847",
+      "repo_info": "[tausifzaman/CVE-2018-14847](https://github.com/tausifzaman/CVE-2018-14847)",
+      "description": "This is a proof of concept of the critical WinBox vulnerability (CVE-2018-14847) which allows for arbitrary file read of plain text passwords.  The vulnerability has long since been fixed, so this project has ended and will not be supported or updated anymore. You can fork it and update it yourself instead.",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T18:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2015-6420",
+      "repo_info": "[Leeziao/CVE-2015-6420](https://github.com/Leeziao/CVE-2015-6420)",
+      "description": "no description",
+      "date": "2025-04-16",
+      "raw_date": "2025-04-16T03:03:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.384885",
+  "metadata": {
+    "total_cves": 28,
+    "date_range": "2025-04-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

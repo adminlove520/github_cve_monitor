@@ -1,0 +1,111 @@
+{
+  "date": "2022-10-08",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[gitzero0/ProxyNotShell](https://github.com/gitzero0/ProxyNotShell)",
+      "description": "ProxyNotShell and CVE-2022-41040 and CVE-2022-41082",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T13:37:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[t0mby/CVE-2022-41082-RCE](https://github.com/t0mby/CVE-2022-41082-RCE)",
+      "description": "mass rce for ProxyNotShell",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T10:33:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[b3wT/CVE-2022-41082-MASS-SCANNER](https://github.com/b3wT/CVE-2022-41082-MASS-SCANNER)",
+      "description": "MASS SCANNER FOR PROXYNOTSHELL (CVE-2022-41082 &amp; CVE-2022-41040)",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T08:36:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[kevibeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevibeaumont/CVE-2022-41082-RCE-POC)",
+      "description": "CVE-2022-41082-RCE-POC aka ProxyNotShell",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T07:50:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[kevibeaumont/CVE-2022-41040-RCE-POC](https://github.com/kevibeaumont/CVE-2022-41040-RCE-POC)",
+      "description": "CVE-2022-41040-RCE-POC aka ProxyNotShell",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T07:47:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[stepancar-web-programming/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich](https://github.com/stepancar-web-programming/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich)",
+      "description": "Лабораторная работа по Веб-технологиям",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T06:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[uisvit/CVE-2022-32548-MASS-RCE](https://github.com/uisvit/CVE-2022-32548-MASS-RCE)",
+      "description": "no description",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T12:05:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-2992",
+      "repo_info": "[CsEnox/CVE-2022-2992](https://github.com/CsEnox/CVE-2022-2992)",
+      "description": "Authenticated Remote Command Execution in Gitlab via GitHub import",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T11:42:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-24637",
+      "repo_info": "[hupe1980/CVE-2022-24637](https://github.com/hupe1980/CVE-2022-24637)",
+      "description": "Open Web Analytics (OWA) - Unauthenticated Remote Code Execution",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T21:12:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[hupe1980/CVE-2021-43798](https://github.com/hupe1980/CVE-2021-43798)",
+      "description": "Grafana - Directory Traversal and Arbitrary File Read",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T15:31:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-42321",
+      "repo_info": "[7BitsTeam/exch_CVE-2021-42321](https://github.com/7BitsTeam/exch_CVE-2021-42321)",
+      "description": "no description",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T13:00:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-4045",
+      "repo_info": "[1x019/CVE-2021-4045](https://github.com/1x019/CVE-2021-4045)",
+      "description": "TP-Link Tapo c200 ver &lt;1.1.15 - Remote Code Execution (RCE)",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T04:18:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-26878",
+      "repo_info": "[htarsoo/CVE-2020-26878](https://github.com/htarsoo/CVE-2020-26878)",
+      "description": "no description",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T08:38:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[zmiddle/Simple_CMS_SQLi](https://github.com/zmiddle/Simple_CMS_SQLi)",
+      "description": "This is a exploit for CVE-2019-9053",
+      "date": "2022-10-08",
+      "raw_date": "2022-10-08T14:20:48Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.154857",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2022-10-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

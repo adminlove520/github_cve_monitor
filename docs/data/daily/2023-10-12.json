@@ -1,0 +1,153 @@
+{
+  "date": "2023-10-12",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5538",
+      "repo_info": "[juweihuitao/MpOperationLogs](https://github.com/juweihuitao/MpOperationLogs)",
+      "description": "CVE-2023-5538 - MpOperationLogs &lt;= 1.0.1 - 未经身份验证的存储跨站点脚本",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T01:15:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-44487",
+      "repo_info": "[ByteHackr/CVE-2023-44487](https://github.com/ByteHackr/CVE-2023-44487)",
+      "description": "Test Script for CVE-2023-44487",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T03:14:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-43149",
+      "repo_info": "[MinoTauro2020/CVE-2023-43149](https://github.com/MinoTauro2020/CVE-2023-43149)",
+      "description": "CVE-2023-43149",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T16:11:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-42819",
+      "repo_info": "[C1ph3rX13/CVE-2023-42819](https://github.com/C1ph3rX13/CVE-2023-42819)",
+      "description": "CVE-2023-42819",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T08:45:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[ruycr4ft/CVE-2023-38831](https://github.com/ruycr4ft/CVE-2023-38831)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T12:46:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[threatHNTR/CVE-2023-38646](https://github.com/threatHNTR/CVE-2023-38646)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T14:32:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[passwa11/CVE-2023-38646](https://github.com/passwa11/CVE-2023-38646)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T02:24:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-38545",
+      "repo_info": "[vanigori/CVE-2023-38545-sample](https://github.com/vanigori/CVE-2023-38545-sample)",
+      "description": "Dockerfile containing all the necessary setup files to demo the exploit",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T16:48:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-38545",
+      "repo_info": "[imfht/CVE-2023-38545](https://github.com/imfht/CVE-2023-38545)",
+      "description": "😄 CVE-2023-38545堆溢出的POC和分析文章",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T07:16:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-38545",
+      "repo_info": "[fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow](https://github.com/fatmo666/CVE-2023-38545-libcurl-SOCKS5-heap-buffer-overflow)",
+      "description": "Simple PoC causing overflow",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T07:39:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-3519",
+      "repo_info": "[Aicks/Citrix-CVE-2023-3519](https://github.com/Aicks/Citrix-CVE-2023-3519)",
+      "description": "exploit CVE-2023-3519",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T15:11:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[Aicks/FortiGate-CVE-2023-27997](https://github.com/Aicks/FortiGate-CVE-2023-27997)",
+      "description": "FortiGate exploit  CVE-2023-27997",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T19:43:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[delsploit/CVE-2023-27997](https://github.com/delsploit/CVE-2023-27997)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T17:50:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[lexfo/xortigate-cve-2023-27997](https://github.com/lexfo/xortigate-cve-2023-27997)",
+      "description": "xortigate-cve-2023-27997",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T16:12:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[sincere9/CVE-2023-22515](https://github.com/sincere9/CVE-2023-22515)",
+      "description": "Confluence未授权添加管理员用户漏洞利用脚本",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T02:41:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-21282",
+      "repo_info": "[nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282](https://github.com/nidhi7598/external_aac_AOSP_06_r22_CVE-2023-21282)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T07:22:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-21282",
+      "repo_info": "[pabloec20/rapidreset](https://github.com/pabloec20/rapidreset)",
+      "description": "CVE-2023-44487",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T07:06:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-21251",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-21251)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T07:30:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-34265",
+      "repo_info": "[simonepetruzzi/WebSecurityProject](https://github.com/simonepetruzzi/WebSecurityProject)",
+      "description": "Analysis and replication of CVE-2022-23988 and CVE-2022-34265",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T15:58:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-32548",
+      "repo_info": "[kor34N/CVE-2022-32548-mass](https://github.com/kor34N/CVE-2022-32548-mass)",
+      "description": "no description",
+      "date": "2023-10-12",
+      "raw_date": "2023-10-12T11:11:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.288846",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2023-10-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

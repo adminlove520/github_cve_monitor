@@ -1,0 +1,34 @@
+{
+  "date": "2020-04-27",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8417",
+      "repo_info": "[waleweewe12/CVE-2020-8417](https://github.com/waleweewe12/CVE-2020-8417)",
+      "description": "no description",
+      "date": "2020-04-27",
+      "raw_date": "2020-04-27T00:41:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-15133",
+      "repo_info": "[bukitbarisan/laravel-rce-cve-2018-15133](https://github.com/bukitbarisan/laravel-rce-cve-2018-15133)",
+      "description": "CVE-2018-15133 (Webased)",
+      "date": "2020-04-27",
+      "raw_date": "2020-04-27T16:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[JrDw0/CVE-2017-7921-EXP](https://github.com/JrDw0/CVE-2017-7921-EXP)",
+      "description": "Hikvision camera CVE-2017-7921-EXP",
+      "date": "2020-04-27",
+      "raw_date": "2020-04-27T11:49:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.048915",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-04-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

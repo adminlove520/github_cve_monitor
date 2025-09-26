@@ -1,0 +1,69 @@
+{
+  "date": "2024-02-29",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[hy011121/CVE-2024-25600-wordpress-Exploit-RCE](https://github.com/hy011121/CVE-2024-25600-wordpress-Exploit-RCE)",
+      "description": "(Mirorring)",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T20:53:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[dshabani96/CVE-2024-21413](https://github.com/dshabani96/CVE-2024-21413)",
+      "description": "no description",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T10:07:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-2074",
+      "repo_info": "[yuziiiiiiiiii/CVE-2024-2074](https://github.com/yuziiiiiiiiii/CVE-2024-2074)",
+      "description": "CVE-2024-2074",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T12:30:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-1651",
+      "repo_info": "[hy011121/CVE-2024-1651-exploit-RCE](https://github.com/hy011121/CVE-2024-1651-exploit-RCE)",
+      "description": "(Mirorring)",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T20:06:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-50386",
+      "repo_info": "[vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC](https://github.com/vvmdx/Apache-Solr-RCE_CVE-2023-50386_POC)",
+      "description": "Apache Solr Backup/Restore APIs RCE Poc (CVE-2023-50386)",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T08:57:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-3262",
+      "repo_info": "[SanjayRagavendar/UbuntuPrivilegeEscalationV1](https://github.com/SanjayRagavendar/UbuntuPrivilegeEscalationV1)",
+      "description": "Using CVE-2023-2640 CVE-2023-3262 to escalate previleges",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T16:04:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-0386",
+      "repo_info": "[letsr00t/CVE-2023-0386](https://github.com/letsr00t/CVE-2023-0386)",
+      "description": "no description",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T06:22:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-3345",
+      "repo_info": "[SpiralBL0CK/CVE-2021-3345](https://github.com/SpiralBL0CK/CVE-2021-3345)",
+      "description": "Actual working exploit for CVE-2021-3345",
+      "date": "2024-02-29",
+      "raw_date": "2024-02-29T22:05:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.311574",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-02-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2024-03-28",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-31025",
+      "repo_info": "[no3586/CVE-2024-31025](https://github.com/no3586/CVE-2024-31025)",
+      "description": "Vulnerability verification",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T23:50:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-2193",
+      "repo_info": "[uthrasri/CVE-2024-2193](https://github.com/uthrasri/CVE-2024-2193)",
+      "description": "no description",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T07:30:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-21388",
+      "repo_info": "[d0rb/CVE-2024-21388](https://github.com/d0rb/CVE-2024-21388)",
+      "description": "This Python script exploits a vulnerability (CVE-2024-21388) in Microsoft Edge, allowing silent installation of browser extensions with elevated privileges via a private API.",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T09:31:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-20767",
+      "repo_info": "[huyqa/cve-2024-20767](https://github.com/huyqa/cve-2024-20767)",
+      "description": "no description",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T07:46:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-42789",
+      "repo_info": "[jhonnybonny/CVE-2023-42789](https://github.com/jhonnybonny/CVE-2023-42789)",
+      "description": "Check CVE-2023-42789",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T08:59:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-33246",
+      "repo_info": "[Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-](https://github.com/Sumitpathania03/Apache-RocketMQ-CVE-2023-33246-)",
+      "description": "no description",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T07:21:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[nphuang/NS-Project-2024-Spring](https://github.com/nphuang/NS-Project-2024-Spring)",
+      "description": "Network Security Project CVE-2023-38545",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T06:05:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[mind2hex/CVE-2022-46169](https://github.com/mind2hex/CVE-2022-46169)",
+      "description": "no description",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T19:23:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-39227",
+      "repo_info": "[NoSpaceAvailable/CVE-2022-39227](https://github.com/NoSpaceAvailable/CVE-2022-39227)",
+      "description": "A working POC found while doing a HTB challenge. Original: https://github.com/user0x1337/CVE-2022-39227",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T12:55:13Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[xchg-rax-rax/CVE-2021-43798](https://github.com/xchg-rax-rax/CVE-2021-43798)",
+      "description": "Exploit for CVE-2021-43798",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T19:45:48Z"
+    },
+    {
+      "cve_id": "CVE-2021-31630",
+      "repo_info": "[thewhiteh4t/cve-2021-31630](https://github.com/thewhiteh4t/cve-2021-31630)",
+      "description": "Python script for exploiting command injection in Open PLC Webserver v3",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T21:31:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-17240",
+      "repo_info": "[mind2hex/CVE-2019-17240](https://github.com/mind2hex/CVE-2019-17240)",
+      "description": "Bludit 3.9.2 auth bruteforce bypass",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T19:42:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[mind2hex/CVE-2019-16113](https://github.com/mind2hex/CVE-2019-16113)",
+      "description": "Bludit 3.9.2 Remote Command Execution (RCE)",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T19:37:24Z"
+    },
+    {
+      "cve_id": "CVE-2014-4114",
+      "repo_info": "[chefphenix25/vuln-rabilit-windows7](https://github.com/chefphenix25/vuln-rabilit-windows7)",
+      "description": "ecrit un script python de correction de la vulnérabilités windows 7 pour réponse automatique de wazuh: CVE-2017-0143 (MS17-010 - EternalBlue) CVE-2019-0708 (BlueKeep),  CVE-2019-1181 / CVE-2019-1182 (BlueKeep II), CVE-2015-1701 (MS15-034), CVE-2010-3333 (MS10-092), CVE-2012-0003 (MS12-020), CVE-2017-8759, CVE-2014-4114",
+      "date": "2024-03-28",
+      "raw_date": "2024-03-28T21:38:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.315922",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2024-03-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2021-05-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-10977",
+      "repo_info": "[salgio/eWeLink-QR-Code](https://github.com/salgio/eWeLink-QR-Code)",
+      "description": "This repo describes a vulnerability affecting the QR code based pairing process of the eWeLink IoT devices (CVE-2020-12702).",
+      "date": "2021-05-04",
+      "raw_date": "2021-05-04T14:50:07Z"
+    },
+    {
+      "cve_id": "CVE-2019-11581",
+      "repo_info": "[PetrusViet/CVE-2019-11581](https://github.com/PetrusViet/CVE-2019-11581)",
+      "description": "Atlassian Jira unauthen template injection",
+      "date": "2021-05-04",
+      "raw_date": "2021-05-04T06:30:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.089437",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-05-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

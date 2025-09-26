@@ -1,0 +1,83 @@
+{
+  "date": "2022-05-15",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[M4fiaB0y/CVE-2022-30525](https://github.com/M4fiaB0y/CVE-2022-30525)",
+      "description": "Zyxel Firewall Remote Command Injection Vulnerability (CVE-2022-30525) Batch Detection Script",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T06:20:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs](https://github.com/MaksimsCvetkovs/2022-DP3-3-MaksimsCvetkovs)",
+      "description": "dvb-2022-MaksimsCvetkovs created by GitHub Classroom",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T08:02:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[Inplex-sys/CVE-2022-29464-loader](https://github.com/Inplex-sys/CVE-2022-29464-loader)",
+      "description": "A bots loader for CVE-2022-29464 with multithreading",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T08:51:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-28346",
+      "repo_info": "[ahsentekdemir/CVE-2022-28346](https://github.com/ahsentekdemir/CVE-2022-28346)",
+      "description": "An issue was discovered in Django 2.2 before 2.2.28, 3.2 before 3.2.13, and 4.0 before 4.0.4. QuerySet.annotate(), aggregate(), and extra() methods are subject to SQL injection in column aliases via a crafted dictionary (with dictionary expansion) as the passed **kwargs.",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T00:24:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-24734",
+      "repo_info": "[lavclash75/mybb-CVE-2022-24734](https://github.com/lavclash75/mybb-CVE-2022-24734)",
+      "description": "MyBB 1.8.29 - Remote Code Execution",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T19:18:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[PsychoSec2/CVE-2022-1388-POC](https://github.com/PsychoSec2/CVE-2022-1388-POC)",
+      "description": "An Improved Proof of Concept for CVE-2022-1388 w/ an Interactive Shell",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T03:58:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[iveresk/cve-2022-1388-iveresk-command-shell](https://github.com/iveresk/cve-2022-1388-iveresk-command-shell)",
+      "description": "Improved POC for CVE-2022-1388 that affects multiple F5 products.",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T08:58:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-41117",
+      "repo_info": "[badkeys/keypairvuln](https://github.com/badkeys/keypairvuln)",
+      "description": "Private keys generated with vulnerable keypair versions (CVE-2021-41117)",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T06:56:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-38314",
+      "repo_info": "[twseptian/cve-2021-38314](https://github.com/twseptian/cve-2021-38314)",
+      "description": "cve-2021-38314 - Unauthenticated Sensitive Information Disclosure",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T02:10:01Z"
+    },
+    {
+      "cve_id": "CVE-2008-0166",
+      "repo_info": "[badkeys/debianopenssl](https://github.com/badkeys/debianopenssl)",
+      "description": "Private keys vulnerable to Debian OpenSSL bug (CVE-2008-0166)",
+      "date": "2022-05-15",
+      "raw_date": "2022-05-15T10:28:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.132719",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-05-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

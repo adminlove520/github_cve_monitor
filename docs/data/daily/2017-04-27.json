@@ -1,0 +1,20 @@
+{
+  "date": "2017-04-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-1542",
+      "repo_info": "[patriknordlen/bladelogic_bmc-cve-2016-1542](https://github.com/patriknordlen/bladelogic_bmc-cve-2016-1542)",
+      "description": "A rebuilt version of the exploit for CVE-2016-1542 and CVE-2016-1543 from insinuator.net",
+      "date": "2017-04-27",
+      "raw_date": "2017-04-27T09:16:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.944258",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-04-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

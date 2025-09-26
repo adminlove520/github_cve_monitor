@@ -1,0 +1,20 @@
+{
+  "date": "2017-08-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8464",
+      "repo_info": "[JosephShenton/Triple_Fetch-Kernel-Creds](https://github.com/JosephShenton/Triple_Fetch-Kernel-Creds)",
+      "description": "Attempt to steal kernelcredentials from launchd + task_t pointer (Based on: CVE-2017-7047)",
+      "date": "2017-08-05",
+      "raw_date": "2017-08-05T03:23:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.953404",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-08-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

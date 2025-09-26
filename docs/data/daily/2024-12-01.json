@@ -1,0 +1,76 @@
+{
+  "date": "2024-12-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[r0xdeadbeef/CVE-2024-48990-exploit](https://github.com/r0xdeadbeef/CVE-2024-48990-exploit)",
+      "description": "Needrestart, prior to version 3.8, contains a vulnerability that allows local attackers to execute arbitrary code with root privileges. This is achieved by manipulating the PYTHONPATH environment variable to trick needrestart into running the Python interpreter in an unsafe context.",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T16:26:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-42327",
+      "repo_info": "[aramosf/cve-2024-42327](https://github.com/aramosf/cve-2024-42327)",
+      "description": "cve-2024-42327 ZBX-25623",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T00:15:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-42327",
+      "repo_info": "[zetraxz/CVE-2024-42327](https://github.com/zetraxz/CVE-2024-42327)",
+      "description": "CVE-2024-42327: Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) (CWE-89)",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T11:04:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[XiaomingX/cve-2024-3094-xz-backdoor-exploit](https://github.com/XiaomingX/cve-2024-3094-xz-backdoor-exploit)",
+      "description": "CVE-2024-3094 (XZ Backdoor) Tools",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T05:22:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-22734",
+      "repo_info": "[securekomodo/CVE-2024-22734](https://github.com/securekomodo/CVE-2024-22734)",
+      "description": "Exploit POC for CVE-2024-22734 affecting AMCS Trux Software",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T17:47:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-11320",
+      "repo_info": "[mhaskar/CVE-2024-11320](https://github.com/mhaskar/CVE-2024-11320)",
+      "description": "Exploit for Pandora FMS Remote Code Execution CVE-2024-11320",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T12:39:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB](https://github.com/D1se0/CVE-2024-10924-Bypass-MFA-Wordpress-LAB)",
+      "description": "no description",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T14:43:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-10220",
+      "repo_info": "[XiaomingX/cve-2024-10220-githooks](https://github.com/XiaomingX/cve-2024-10220-githooks)",
+      "description": "CVE-2024-10220 Test repo",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T05:15:25Z"
+    },
+    {
+      "cve_id": "CVE-2019-1010174",
+      "repo_info": "[NketiahGodfred/CVE-2019-1010174](https://github.com/NketiahGodfred/CVE-2019-1010174)",
+      "description": "CImg Library v.2.3.3 - command injection",
+      "date": "2024-12-01",
+      "raw_date": "2024-12-01T05:32:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.360936",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-12-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

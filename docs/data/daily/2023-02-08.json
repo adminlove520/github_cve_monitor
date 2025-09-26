@@ -1,0 +1,636 @@
+{
+  "date": "2023-02-08",
+  "count": 89,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-25163",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25163](https://github.com/Live-Hack-CVE/CVE-2023-25163)",
+      "description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. All versions of Argo CD starting with v2.6.0-rc1 have an output sanitization bug which leaks repository access credentials in error messages. These error messages are visible to the user, and they are logged. The error message is visible when a u CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-24997",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24997](https://github.com/Live-Hack-CVE/CVE-2023-24997)",
+      "description": "Deserialization of Untrusted Data vulnerability in Apache Software Foundation Apache InLong.This issue affects Apache InLong: from 1.1.0 through 1.5.0. Users are advised to upgrade to Apache InLong&#x27;s latest version or cherry-pick https://github.com/apache/inlong/pull/7223 https://github.com/apache/inlong/pull/7223 to s CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-24828",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24828](https://github.com/Live-Hack-CVE/CVE-2023-24828)",
+      "description": "Onedev is a self-hosted Git Server with CI/CD and Kanban. In versions prior to 7.9.12 the algorithm used to generate access token and password reset keys was not cryptographically secure. Existing normal users (or everyone if it allows self-registration) may exploit this to elevate privilege to obtain administrator per CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-24610",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24610](https://github.com/Live-Hack-CVE/CVE-2023-24610)",
+      "description": "NOSH 4a5cfdb allows remote authenticated users to execute PHP arbitrary code via the &quot;practice logo&quot; upload feature. The client-side checks can be bypassed. This may allow attackers to steal Protected Health Information because the product is for health charting. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:20:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-24508",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24508](https://github.com/Live-Hack-CVE/CVE-2023-24508)",
+      "description": "Baicells Nova 227, Nova 233, and Nova 243 LTE TDD eNodeB devices with firmware through RTS/RTD 3.6.6 are vulnerable to remote shell code exploitation via HTTP command injections. Commands are executed using pre-login execution and executed with root permissions. The following methods below have been tested and validate CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-23692",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23692](https://github.com/Live-Hack-CVE/CVE-2023-23692)",
+      "description": "Dell EMC prior to version DDOS 7.9 contain(s) an OS command injection Vulnerability. An authenticated non admin attacker could potentially exploit this vulnerability, leading to the execution of arbitrary OS commands on the application&#x27;s underlying OS, with the privileges of the vulnerable application. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-23136",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23136](https://github.com/Live-Hack-CVE/CVE-2023-23136)",
+      "description": "lmxcms v1.41 was discovered to contain an arbitrary file deletion vulnerability via BackdbAction.class.php. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-23135",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23135](https://github.com/Live-Hack-CVE/CVE-2023-23135)",
+      "description": "An arbitrary file upload vulnerability in Ftdms v3.1.6 allows attackers to execute arbitrary code via uploading a crafted JPG file. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T18:15:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-23132",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23132](https://github.com/Live-Hack-CVE/CVE-2023-23132)",
+      "description": "Selfwealth iOS mobile App 3.3.1 is vulnerable to Sensitive key disclosure. The application reveals hardcoded API keys. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:20:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-23131",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23131](https://github.com/Live-Hack-CVE/CVE-2023-23131)",
+      "description": "Selfwealth iOS mobile App 3.3.1 is vulnerable to Insecure App Transport Security (ATS) Settings. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-23073",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23073](https://github.com/Live-Hack-CVE/CVE-2023-23073)",
+      "description": "Cross site scripting (XSS) vulnerability in Zoho ManageEngine ServiceDesk Plus 14 via PO in the purchase component. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-23026",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23026](https://github.com/Live-Hack-CVE/CVE-2023-23026)",
+      "description": "Cross site scripting (XSS) vulnerability in sourcecodester oretnom23 sales management system 1.0, allows attackers to execute arbitrary code via the product_name and product_price inputs in file print.php. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-23011",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23011](https://github.com/Live-Hack-CVE/CVE-2023-23011)",
+      "description": "Cross Site Scripting (XSS) vulnerability in InvoicePlane 1.6 via filter_product input to file modal_product_lookups.php. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-22575",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22575](https://github.com/Live-Hack-CVE/CVE-2023-22575)",
+      "description": "Dell PowerScale OneFS 9.0.0.x - 9.4.0.x contain an insertion of sensitive information into log file vulnerability in celog. A low privileges user could potentially exploit this vulnerability, leading to information disclosure and escalation of privileges. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-22572",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22572](https://github.com/Live-Hack-CVE/CVE-2023-22572)",
+      "description": "Dell PowerScale OneFS 9.1.0.x-9.4.0.x contain an insertion of sensitive information into log file vulnerability in change password api. A low privilege local attacker could potentially exploit this vulnerability, leading to system takeover. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T18:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-0748",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0748](https://github.com/Live-Hack-CVE/CVE-2023-0748)",
+      "description": "Open Redirect in GitHub repository btcpayserver/btcpayserver prior to 1.7.6. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T18:15:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-0747",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0747](https://github.com/Live-Hack-CVE/CVE-2023-0747)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository btcpayserver/btcpayserver prior to 1.7.6. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T16:01:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-0744",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0744](https://github.com/Live-Hack-CVE/CVE-2023-0744)",
+      "description": "Improper Access Control in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-0743",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0743](https://github.com/Live-Hack-CVE/CVE-2023-0743)",
+      "description": "Cross-site Scripting (XSS) - Generic in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-0742",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0742](https://github.com/Live-Hack-CVE/CVE-2023-0742)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-0741",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0741](https://github.com/Live-Hack-CVE/CVE-2023-0741)",
+      "description": "Cross-site Scripting (XSS) - DOM in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-0740",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0740](https://github.com/Live-Hack-CVE/CVE-2023-0740)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0739",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0739](https://github.com/Live-Hack-CVE/CVE-2023-0739)",
+      "description": "Race Condition in Switch in GitHub repository answerdev/answer prior to 1.0.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:12:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-0736",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0736](https://github.com/Live-Hack-CVE/CVE-2023-0736)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository wallabag/wallabag prior to 2.5.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-0735",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0735](https://github.com/Live-Hack-CVE/CVE-2023-0735)",
+      "description": "Cross-Site Request Forgery (CSRF) in GitHub repository wallabag/wallabag prior to 2.5.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-0731",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0731](https://github.com/Live-Hack-CVE/CVE-2023-0731)",
+      "description": "The Interactive Geo Maps plugin for WordPress is vulnerable to Stored Cross-Site Scripting via the action content parameter in versions up to, and including, 1.5.9 due to insufficient input sanitization and output escaping on user supplied attributes. This makes it possible for authenticated attackers with editor level CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-0730",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0730](https://github.com/Live-Hack-CVE/CVE-2023-0730)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_save_folder_order function. This makes it possible for unauthenticated attackers to invoke this function via forged request gran CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-0727",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0727](https://github.com/Live-Hack-CVE/CVE-2023-0727)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_delete_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted  CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-0726",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0726](https://github.com/Live-Hack-CVE/CVE-2023-0726)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_edit_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-0725",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0725](https://github.com/Live-Hack-CVE/CVE-2023-0725)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_clone_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted t CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-0724",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0724](https://github.com/Live-Hack-CVE/CVE-2023-0724)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_add_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted the CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-0723",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0723](https://github.com/Live-Hack-CVE/CVE-2023-0723)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_move_object function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0722",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0722](https://github.com/Live-Hack-CVE/CVE-2023-0722)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_save_state function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted the CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-0720",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0720](https://github.com/Live-Hack-CVE/CVE-2023-0720)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_folder_order function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and p CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-0719",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0719](https://github.com/Live-Hack-CVE/CVE-2023-0719)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_sort_order function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and per CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-0718",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0718](https://github.com/Live-Hack-CVE/CVE-2023-0718)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-0717",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0717](https://github.com/Live-Hack-CVE/CVE-2023-0717)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_delete_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perfo CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-0716",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0716](https://github.com/Live-Hack-CVE/CVE-2023-0716)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_edit_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-0715",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0715](https://github.com/Live-Hack-CVE/CVE-2023-0715)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_clone_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perfor CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0712",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0712](https://github.com/Live-Hack-CVE/CVE-2023-0712)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_move_object function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:37:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-0711",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0711](https://github.com/Live-Hack-CVE/CVE-2023-0711)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_save_state function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform  CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-0685",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0685](https://github.com/Live-Hack-CVE/CVE-2023-0685)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_unassign_folders function. This makes it possible for unauthenticated attackers to invoke this function via forged request grant CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:13:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-0684",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0684](https://github.com/Live-Hack-CVE/CVE-2023-0684)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_unassign_folders function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and pe CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-0618",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0618](https://github.com/Live-Hack-CVE/CVE-2023-0618)",
+      "description": "A vulnerability was found in TRENDnet TEW-652BRP 3.04B01. It has been declared as critical. This vulnerability affects unknown code of the file cfg_op.ccp of the component Web Service. The manipulation leads to memory corruption. The attack can be initiated remotely. The exploit has been disclosed to the public and may CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-0617",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0617](https://github.com/Live-Hack-CVE/CVE-2023-0617)",
+      "description": "A vulnerability was found in TRENDNet TEW-811DRU 1.0.10.0. It has been classified as critical. This affects an unknown part of the file /wireless/guestnetwork.asp of the component httpd. The manipulation leads to buffer overflow. It is possible to initiate the attack remotely. The exploit has been disclosed to the publ CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-0003",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0003](https://github.com/Live-Hack-CVE/CVE-2023-0003)",
+      "description": "A file disclosure vulnerability in the Palo Alto Networks Cortex XSOAR server software enables an authenticated user with access to the web interface to read local files from the server. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-0002",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0002](https://github.com/Live-Hack-CVE/CVE-2023-0002)",
+      "description": "A problem with a protection mechanism in the Palo Alto Networks Cortex XDR agent on Windows devices allows a local user to execute privileged cytool commands that disable or uninstall the agent. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-0001",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0001](https://github.com/Live-Hack-CVE/CVE-2023-0001)",
+      "description": "An information exposure vulnerability in the Palo Alto Networks Cortex XDR agent on Windows devices allows a local system administrator to disclose the admin password for the agent in cleartext, which bad actors can then use to execute privileged cytool commands that disable or uninstall the agent. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-48094",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48094](https://github.com/Live-Hack-CVE/CVE-2022-48094)",
+      "description": "lmxcms v1.41 was discovered to contain an arbitrary file read vulnerability via TemplateAction.class.php. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-48093",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48093](https://github.com/Live-Hack-CVE/CVE-2022-48093)",
+      "description": "Seacms v12.7 was discovered to contain a remote code execution (RCE) vulnerability via the ip parameter at admin_ ip.php. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:20:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-47648",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47648](https://github.com/Live-Hack-CVE/CVE-2022-47648)",
+      "description": "Bosch Security Systems B420 firmware 02.02.0001 employs IP based authorization in its authentication mechanism, allowing attackers to access the device as long as they are on the same network as a legitimate user. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-47418",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47418](https://github.com/Live-Hack-CVE/CVE-2022-47418)",
+      "description": "LogicalDOC Enterprise and Community Edition (CE) are vulnerable to a stored (persistent, or &quot;Type II&quot;) cross-site scripting (XSS) condition in the document version comments. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-46842",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46842](https://github.com/Live-Hack-CVE/CVE-2022-46842)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in JS Help Desk plugin &lt;= 2.7.1 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:32:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-46815",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46815](https://github.com/Live-Hack-CVE/CVE-2022-46815)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in Lauri Karisola / WP Trio Conditional Shipping for WooCommerce plugin &lt;= 2.3.1 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:32:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-45982",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45982](https://github.com/Live-Hack-CVE/CVE-2022-45982)",
+      "description": "thinkphp 6.0.0~6.0.13 and 6.1.0~6.1.1 contains a deserialization vulnerability. This vulnerability allows attackers to execute arbitrary code via a crafted payload. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-45807",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45807](https://github.com/Live-Hack-CVE/CVE-2022-45807)",
+      "description": "Cross-Site Request Forgery (CSRF) in WPVibes WP Mail Log plugin &lt;= 1.0.1 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:32:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-45770",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45770](https://github.com/Live-Hack-CVE/CVE-2022-45770)",
+      "description": "Improper input validation in driver adgnetworkwfpdrv.sys in Adguard For Windows x86 up to version 7.11 allows attacker to gain local privileges escalation. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:20:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-45192",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45192](https://github.com/Live-Hack-CVE/CVE-2022-45192)",
+      "description": "An issue was discovered on Microchip RN4870 1.43 devices. An attacker within BLE radio range can cause a denial of service by sending a cleartext encryption pause request. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-45191",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45191](https://github.com/Live-Hack-CVE/CVE-2022-45191)",
+      "description": "An issue was discovered on Microchip RN4870 1.43 devices. An attacker within BLE radio range can cause a denial of service by sending a pair confirm message with wrong values. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-45190",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45190](https://github.com/Live-Hack-CVE/CVE-2022-45190)",
+      "description": "An issue was discovered on Microchip RN4870 1.43 devices. An attacker within BLE radio range can bypass passkey entry in the legacy pairing of the device. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-44585",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44585](https://github.com/Live-Hack-CVE/CVE-2022-44585)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in Magneticlab Sàrl Homepage Pop-up plugin &lt;= 1.2.5 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-43765",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43765](https://github.com/Live-Hack-CVE/CVE-2022-43765)",
+      "description": "B&amp;R APROL versions &lt; R 4.2-07 doesn’t process correctly specially formatted data packages sent to port 55502/tcp, which may allow a network based attacker to cause an application Denial-of-Service. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T13:51:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-43764",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43764](https://github.com/Live-Hack-CVE/CVE-2022-43764)",
+      "description": "Insufficient validation of input parameters when changing configuration on Tbase server in B&amp;R APROL versions &lt; R 4.2-07 could result in buffer overflow. This may lead to Denial-of-Service conditions or execution of arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T13:51:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-43763",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43763](https://github.com/Live-Hack-CVE/CVE-2022-43763)",
+      "description": "Insufficient check of preconditions could lead to Denial of Service conditions when calling commands on the Tbase server of B&amp;R APROL versions &lt; R 4.2-07. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T13:51:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-43762",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43762](https://github.com/Live-Hack-CVE/CVE-2022-43762)",
+      "description": "Lack of verification in B&amp;R APROL Tbase server versions &lt; R 4.2-07 may lead to memory leaks when receiving messages CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T13:51:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-43761",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43761](https://github.com/Live-Hack-CVE/CVE-2022-43761)",
+      "description": "Missing authentication when creating and managing the B&amp;R APROL database in versions &lt; R 4.2-07 allows reading and changing the system configuration. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-4304",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4304](https://github.com/Live-Hack-CVE/CVE-2022-4304)",
+      "description": "A timing based side channel exists in the OpenSSL RSA Decryption implementation which could be sufficient to recover a plaintext across a network in a Bleichenbacher style attack. To achieve a successful decryption an attacker would have to be able to send a very large number of trial messages for decryption. The vulne CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-41620",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41620](https://github.com/Live-Hack-CVE/CVE-2022-41620)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in SeoSamba for WordPress Webmasters plugin &lt;= 1.0.5 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T16:01:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-40692",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40692](https://github.com/Live-Hack-CVE/CVE-2022-40692)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in WP Sunshine Sunshine Photo Cart plugin &lt;= 2.9.13 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-40480",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40480](https://github.com/Live-Hack-CVE/CVE-2022-40480)",
+      "description": "Nordic Semiconductor, Microchip Technology NRF5340-DK DT100112 was discovered to contain an issue which allows attackers to cause a Denial of Service (DoS) via a crafted ConReq packet. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-38778",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38778](https://github.com/Live-Hack-CVE/CVE-2022-38778)",
+      "description": "A flaw (CVE-2022-38900) was discovered in one of Kibana’s third party dependencies, that could allow an authenticated user to perform a request that crashes the Kibana server process. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-38777",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38777](https://github.com/Live-Hack-CVE/CVE-2022-38777)",
+      "description": "An issue was discovered in the rollback feature of Elastic Endpoint Security for Windows, which could allow unprivileged users to elevate their privileges to those of the LocalSystem account. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-34350",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34350](https://github.com/Live-Hack-CVE/CVE-2022-34350)",
+      "description": "IBM API Connect 10.0.0.0 through 10.0.5.0, 10.0.1.0 through 10.0.1.7, and 2018.4.1.0 through 2018.4.1.20 is vulnerable to External Service Interaction attack, caused by improper validation of user-supplied input. A remote attacker could exploit this vulnerability to induce the application to perform server-side DNS loo CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T21:33:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-26872",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-26872](https://github.com/Live-Hack-CVE/CVE-2022-26872)",
+      "description": "AMI Megarac Password reset interception via API CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:47:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[daniel616/CVE-2022-21661-Demo](https://github.com/daniel616/CVE-2022-21661-Demo)",
+      "description": "Demonstration of the SQL injection vulnerability in wordpress 5.8.2",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T04:58:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-2094",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2094](https://github.com/Live-Hack-CVE/CVE-2022-2094)",
+      "description": "The Yellow Yard Searchbar WordPress plugin before 2.8.2 does not escape some URL parameters before outputting them back to the user, leading to Reflected Cross-Site Scripting CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-0316",
+      "repo_info": "[KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit](https://github.com/KTN1990/CVE-2022-0316_wordpress_multiple_themes_exploit)",
+      "description": "Wordpress Multiple themes - Unauthenticated Arbitrary File Upload",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T17:37:09Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC](https://github.com/pierpaolosestito-dev/Log4Shell-CVE-2021-44228-PoC)",
+      "description": "no description",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T12:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-44186",
+      "repo_info": "[0xhaggis/CVE-2021-44186](https://github.com/0xhaggis/CVE-2021-44186)",
+      "description": "A download of code without integrity check vulnerability in the &quot;execute restore src-vis&quot; command of FortiOS before 7.0.3.",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T07:30:52Z"
+    },
+    {
+      "cve_id": "CVE-2021-3958",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-3958](https://github.com/Live-Hack-CVE/CVE-2021-3958)",
+      "description": "Improper Handling of Parameters vulnerability in Ipack Automation Systems Ipack SCADA Software allows : Blind SQL Injection.This issue affects Ipack SCADA Software: from unspecified before 1.1.0. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T11:37:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-3958",
+      "repo_info": "[CYBERTHREATANALYSIS/ESXi_ransomware_scanner](https://github.com/CYBERTHREATANALYSIS/ESXi_ransomware_scanner)",
+      "description": "ESXi EZ - A custom scanner that takes list of IPs either in JSON, CSV or individually  and checks for infection CVE-2021-21974",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T10:46:37Z"
+    },
+    {
+      "cve_id": "CVE-2021-36471",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-36471](https://github.com/Live-Hack-CVE/CVE-2021-36471)",
+      "description": "Directory Traversal vulnerability in AdminLTE 3.1.0 allows remote attackers to gain escalated privilege and view sensitive information via /admin/index2.html, /admin/index3.html URIs. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T01:36:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-25298",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-25298](https://github.com/Live-Hack-CVE/CVE-2021-25298)",
+      "description": "Nagios XI version xi-5.7.5 is affected by OS command injection. The vulnerability exists in the file /usr/local/nagiosxi/html/includes/configwizards/cloud-vm/cloud-vm.inc.php due to improper sanitization of authenticated user-controlled input by a single HTTP request, which can lead to OS command injection on the Nagio CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:30Z"
+    },
+    {
+      "cve_id": "CVE-2021-25297",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-25297](https://github.com/Live-Hack-CVE/CVE-2021-25297)",
+      "description": "Nagios XI version xi-5.7.5 is affected by OS command injection. The vulnerability exists in the file /usr/local/nagiosxi/html/includes/configwizards/switch/switch.inc.php due to improper sanitization of authenticated user-controlled input by a single HTTP request, which can lead to OS command injection on the Nagios XI CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-25296",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-25296](https://github.com/Live-Hack-CVE/CVE-2021-25296)",
+      "description": "Nagios XI version xi-5.7.5 is affected by OS command injection. The vulnerability exists in the file /usr/local/nagiosxi/html/includes/configwizards/windowswmi/windowswmi.inc.php due to improper sanitization of authenticated user-controlled input by a single HTTP request, which can lead to OS command injection on the N CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T19:21:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-15112",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-15112](https://github.com/Live-Hack-CVE/CVE-2019-15112)",
+      "description": "The wp-slimstat plugin before 4.8.1 for WordPress has XSS. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:46:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-18540",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-18540](https://github.com/Live-Hack-CVE/CVE-2017-18540)",
+      "description": "The weblibrarian plugin before 3.4.8.7 for WordPress has XSS via front-end short codes. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:46:54Z"
+    },
+    {
+      "cve_id": "CVE-2017-18538",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-18538](https://github.com/Live-Hack-CVE/CVE-2017-18538)",
+      "description": "The weblibrarian plugin before 3.4.8.5 for WordPress has XSS via front-end short codes. CVE project by @Sn0wAlice",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T23:46:50Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[guy-davidi/DirtyCow](https://github.com/guy-davidi/DirtyCow)",
+      "description": "Below code takes advantage of a known vulnerability [Dirty COW (CVE-2016-5195)] to escalate privileges and get root access.  Before running, uncomment sc for your platform within main.c.  Compilation: gcc main.c -o dirtycow -lpthread",
+      "date": "2023-02-08",
+      "raw_date": "2023-02-08T13:00:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.243650",
+  "metadata": {
+    "total_cves": 89,
+    "date_range": "2023-02-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

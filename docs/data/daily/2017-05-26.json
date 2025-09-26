@@ -1,0 +1,34 @@
+{
+  "date": "2017-05-26",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[opsxcq/exploit-CVE-2017-7494](https://github.com/opsxcq/exploit-CVE-2017-7494)",
+      "description": "SambaCry exploit and vulnerable container (CVE-2017-7494)",
+      "date": "2017-05-26",
+      "raw_date": "2017-05-26T00:58:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[Waffles-2/SambaCry](https://github.com/Waffles-2/SambaCry)",
+      "description": "CVE-2017-7494 - Detection Scripts",
+      "date": "2017-05-26",
+      "raw_date": "2017-05-26T07:28:26Z"
+    },
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[gunsan92/CVE2017-7494_quicktest](https://github.com/gunsan92/CVE2017-7494_quicktest)",
+      "description": "Quick assessment script for CVE2017-7494 in a distribution-agnostic way",
+      "date": "2017-05-26",
+      "raw_date": "2017-05-26T02:43:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.946928",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-05-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

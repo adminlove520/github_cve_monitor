@@ -1,0 +1,62 @@
+{
+  "date": "2023-08-21",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-9999",
+      "repo_info": "[obelia01/CVE-2023-9999](https://github.com/obelia01/CVE-2023-9999)",
+      "description": "test",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T12:02:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-5546",
+      "repo_info": "[obelia01/CVE-2023-5546](https://github.com/obelia01/CVE-2023-5546)",
+      "description": "no description",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T11:50:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-36874",
+      "repo_info": "[c4m3l-security/CVE-2023-36874](https://github.com/c4m3l-security/CVE-2023-36874)",
+      "description": "CVE-2023-36874 Proof of Concept",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T22:04:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-29409",
+      "repo_info": "[mateusz834/CVE-2023-29409](https://github.com/mateusz834/CVE-2023-29409)",
+      "description": "CVE-2023-29409 reproducer",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T15:59:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[bingtangbanli/CVE-2023-28432](https://github.com/bingtangbanli/CVE-2023-28432)",
+      "description": "CVE-2023-28432检测工具",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T06:03:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-20562",
+      "repo_info": "[zeze-zeze/HITCON-2023-Demo-CVE-2023-20562](https://github.com/zeze-zeze/HITCON-2023-Demo-CVE-2023-20562)",
+      "description": "no description",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T00:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-20562",
+      "repo_info": "[passwa11/HITCON-2023-Demo-CVE-2023-20562](https://github.com/passwa11/HITCON-2023-Demo-CVE-2023-20562)",
+      "description": "no description",
+      "date": "2023-08-21",
+      "raw_date": "2023-08-21T06:25:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.280400",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-08-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

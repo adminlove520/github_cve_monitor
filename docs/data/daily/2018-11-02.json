@@ -1,0 +1,55 @@
+{
+  "date": "2018-11-02",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[zteeed/CVE-2018-4407-IOS](https://github.com/zteeed/CVE-2018-4407-IOS)",
+      "description": "POC: Heap buffer overflow in the networking code in the XNU operating system kernel",
+      "date": "2018-11-02",
+      "raw_date": "2018-11-02T15:26:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[WyAtu/CVE-2018-4407](https://github.com/WyAtu/CVE-2018-4407)",
+      "description": "CVE-2018-4407 IOS/macOS kernel crash",
+      "date": "2018-11-02",
+      "raw_date": "2018-11-02T08:40:33Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[SamDecrock/node-cve-2018-4407](https://github.com/SamDecrock/node-cve-2018-4407)",
+      "description": "Node.js PoC exploit code for CVE-2018-4407",
+      "date": "2018-11-02",
+      "raw_date": "2018-11-02T22:00:17Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[s2339956/check_icmp_dos-CVE-2018-4407-](https://github.com/s2339956/check_icmp_dos-CVE-2018-4407-)",
+      "description": "CVE-2018-4407 概述與實現",
+      "date": "2018-11-02",
+      "raw_date": "2018-11-02T03:38:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-15982",
+      "repo_info": "[farisv/AppleDOS](https://github.com/farisv/AppleDOS)",
+      "description": "Messing Apple devices on the network with CVE-2018-4407 (heap overflow in bad packet handling)",
+      "date": "2018-11-02",
+      "raw_date": "2018-11-02T08:29:29Z"
+    },
+    {
+      "cve_id": "CVE-2018-14665",
+      "repo_info": "[bolonobolo/CVE-2018-14665](https://github.com/bolonobolo/CVE-2018-14665)",
+      "description": "no description",
+      "date": "2018-11-02",
+      "raw_date": "2018-11-02T01:09:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.996294",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2018-11-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

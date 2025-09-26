@@ -1,0 +1,20 @@
+{
+  "date": "2018-01-23",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8802",
+      "repo_info": "[ozzi-/Zimbra-CVE-2017-8802-Hotifx](https://github.com/ozzi-/Zimbra-CVE-2017-8802-Hotifx)",
+      "description": "Security hotfix for CVE-2017-8802",
+      "date": "2018-01-23",
+      "raw_date": "2018-01-23T14:56:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.969685",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-01-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

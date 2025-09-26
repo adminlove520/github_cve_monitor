@@ -1,0 +1,62 @@
+{
+  "date": "2021-03-30",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[NeoDarwin/CVE-2020-27955](https://github.com/NeoDarwin/CVE-2020-27955)",
+      "description": "CVE-2020-27955 Poc",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T07:12:11Z"
+    },
+    {
+      "cve_id": "CVE-2020-2555",
+      "repo_info": "[f0ns1/CVE-2020](https://github.com/f0ns1/CVE-2020)",
+      "description": "test",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T15:24:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-25078",
+      "repo_info": "[MzzdToT/CVE-2020-25078](https://github.com/MzzdToT/CVE-2020-25078)",
+      "description": "D-Link DCS系列账号密码信息泄露漏洞，通过脚本获取账号密码，可批量。",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T06:57:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-23839",
+      "repo_info": "[boku7/CVE-2020-23839](https://github.com/boku7/CVE-2020-23839)",
+      "description": "Public PoC Disclosure for CVE-2020-23839 -  GetSimple CMS v3.3.16 suffers from a Reflected XSS on the Admin Login Portal",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T00:39:25Z"
+    },
+    {
+      "cve_id": "CVE-2019-12840",
+      "repo_info": "[zAbuQasem/CVE-2019-12840](https://github.com/zAbuQasem/CVE-2019-12840)",
+      "description": "CVE-2019-12840",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T17:32:30Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[Saeed22487/CVE-2018-9995](https://github.com/Saeed22487/CVE-2018-9995)",
+      "description": "CVE-2018-9995 هک دوربین مداربسته با آسیب پذیری",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T14:27:54Z"
+    },
+    {
+      "cve_id": "CVE-2014-8609",
+      "repo_info": "[BelminD/heartbleed](https://github.com/BelminD/heartbleed)",
+      "description": "A collection of scripts and instructions to test CVE-2014-0160 (heartbleed). ❤️ 🩸",
+      "date": "2021-03-30",
+      "raw_date": "2021-03-30T13:11:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.085660",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2021-03-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

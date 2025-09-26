@@ -1,0 +1,34 @@
+{
+  "date": "2021-09-30",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-42171",
+      "repo_info": "[minhnq22/CVE-2021-42171](https://github.com/minhnq22/CVE-2021-42171)",
+      "description": "File upload to Remote Code Execution on Zenario CMS 9.0.54156",
+      "date": "2021-09-30",
+      "raw_date": "2021-09-30T02:44:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-35296",
+      "repo_info": "[afaq1337/CVE-2021-35296](https://github.com/afaq1337/CVE-2021-35296)",
+      "description": "PoC of CVE-2021-35296 - PTCL Modem HG150-Ub",
+      "date": "2021-09-30",
+      "raw_date": "2021-09-30T18:18:27Z"
+    },
+    {
+      "cve_id": "CVE-2021-22015",
+      "repo_info": "[PenteraIO/vScalation-CVE-2021-22015](https://github.com/PenteraIO/vScalation-CVE-2021-22015)",
+      "description": "Scanner for vScalation (CVE-2021-22015) a Local Privilege Escalation in VMWare vCenter",
+      "date": "2021-09-30",
+      "raw_date": "2021-09-30T07:16:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.104813",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-09-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

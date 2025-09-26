@@ -1,0 +1,160 @@
+{
+  "date": "2022-04-26",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-8899",
+      "repo_info": "[w1023913214/CVE-2022-8899](https://github.com/w1023913214/CVE-2022-8899)",
+      "description": "dingdingtest",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T11:26:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[lowkey0808/cve-2022-29464](https://github.com/lowkey0808/cve-2022-29464)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T05:28:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-28346",
+      "repo_info": "[DeEpinGh0st/CVE-2022-28346](https://github.com/DeEpinGh0st/CVE-2022-28346)",
+      "description": "Django QuerySet.annotate(), aggregate(), extra() SQL 注入",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T14:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[whwlsfb/cve-2022-22947-godzilla-memshell](https://github.com/whwlsfb/cve-2022-22947-godzilla-memshell)",
+      "description": "CVE-2022-22947 注入Godzilla内存马",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T05:48:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-15213",
+      "repo_info": "[w1023913214/CVE-2022-15213](https://github.com/w1023913214/CVE-2022-15213)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T08:34:37Z"
+    },
+    {
+      "cve_id": "CVE-2021-43857",
+      "repo_info": "[lowkey0808/CVE-2021-43857](https://github.com/lowkey0808/CVE-2021-43857)",
+      "description": "CVE-2021-43857(gerapy命令执行)",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T01:38:06Z"
+    },
+    {
+      "cve_id": "CVE-2021-39704",
+      "repo_info": "[nanopathi/framework_base_AOSP10_r33_CVE-2021-39704](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-39704)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T11:04:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-39692",
+      "repo_info": "[nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692](https://github.com/nanopathi/packages_apps_ManagedProvisioning_CVE-2021-39692)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T13:03:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-37378",
+      "repo_info": "[nanabingies/Driver-RW](https://github.com/nanabingies/Driver-RW)",
+      "description": "Page Table Manipulation -- CVE-2021-21551",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T16:25:06Z"
+    },
+    {
+      "cve_id": "CVE-2021-36394",
+      "repo_info": "[lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle](https://github.com/lavclash75/CVE-2021-36394-Pre-Auth-RCE-in-Moodle)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T07:52:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-3347",
+      "repo_info": "[nanopathi/linux-4.19.72_CVE-2021-3347](https://github.com/nanopathi/linux-4.19.72_CVE-2021-3347)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T11:32:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-32157",
+      "repo_info": "[dnr6419/CVE-2021-32157](https://github.com/dnr6419/CVE-2021-32157)",
+      "description": "Make it possible to build a vulnerable webmin virtual environment as a container using docker",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T01:49:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-3064",
+      "repo_info": "[0xhaggis/CVE-2021-3064](https://github.com/0xhaggis/CVE-2021-3064)",
+      "description": "Exploit for CVE-2021-3036, HTTP Smuggling + buffer overflow in PanOS 8.x",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T08:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-20038",
+      "repo_info": "[XmasSnowREAL/CVE-2021-20038-Mass-RCE](https://github.com/XmasSnowREAL/CVE-2021-20038-Mass-RCE)",
+      "description": "CVE-2021-20038 multithreaded Mass Scanner and Exploiter tool. SonicWall SMA-100 Unauth RCE Exploit",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T04:38:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-0326",
+      "repo_info": "[nanopathi/Packages_wpa_supplicant8_CVE-2021-0326](https://github.com/nanopathi/Packages_wpa_supplicant8_CVE-2021-0326)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T14:41:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-0326",
+      "repo_info": "[Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326](https://github.com/Satheesh575555/external_wpa_supplicant_8_AOSP10_r33_CVE-2021-0326)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T14:33:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-0326",
+      "repo_info": "[nanopathi/wpa_supplicant_8_CVE-2021-0326.](https://github.com/nanopathi/wpa_supplicant_8_CVE-2021-0326.)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T14:19:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-0315",
+      "repo_info": "[pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315](https://github.com/pazhanivel07/frameworks_base_Aosp10_r33_CVE-2021-0315)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T12:46:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-0315",
+      "repo_info": "[nanopathi/framework_base_AOSP10_r33_CVE-2021-0315](https://github.com/nanopathi/framework_base_AOSP10_r33_CVE-2021-0315)",
+      "description": "no description",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T10:38:35Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[MrrRaph/pandagik](https://github.com/MrrRaph/pandagik)",
+      "description": "Image Magick Exploit for CVE-2016–3714",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T17:12:36Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[passionchenjianyegmail8/scumjrs](https://github.com/passionchenjianyegmail8/scumjrs)",
+      "description": "PoC for Dirty COW (CVE-2016-5195)",
+      "date": "2022-04-26",
+      "raw_date": "2022-04-26T08:54:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.129375",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2022-04-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2019-08-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[sk1dish/ilo4-rce-vuln-scanner](https://github.com/sk1dish/ilo4-rce-vuln-scanner)",
+      "description": "Scan a list of given IP&#x27;s for CVE-2017-12542",
+      "date": "2019-08-16",
+      "raw_date": "2019-08-16T00:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2017-16088",
+      "repo_info": "[devcoinfet/SniperRoost](https://github.com/devcoinfet/SniperRoost)",
+      "description": "used to generate a valid attack chain to exploit CVE-2017-11774 tied to iranian apt only reasearch poc dont use for harm please",
+      "date": "2019-08-16",
+      "raw_date": "2019-08-16T01:25:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.023907",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-08-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

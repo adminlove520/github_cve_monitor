@@ -1,0 +1,118 @@
+{
+  "date": "2025-02-20",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-24971",
+      "repo_info": "[be4zad/CVE-2025-24971](https://github.com/be4zad/CVE-2025-24971)",
+      "description": "CVE-2025-24971 exploit",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T16:59:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-24971",
+      "repo_info": "[toxy4ny/edge-maradeur](https://github.com/toxy4ny/edge-maradeur)",
+      "description": "Exploiting a vulnerability in Windows Disk Cleanup to elevate privileges and provide access to protected data in Edge by bypassing the security feature. CVE-2025-21420 and CVE-2025-21401.",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:10:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-24016",
+      "repo_info": "[MuhammadWaseem29/CVE-2025-24016](https://github.com/MuhammadWaseem29/CVE-2025-24016)",
+      "description": "CVE-2025-24016: RCE in Wazuh server!  Remote Code Execution",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T23:31:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-43768",
+      "repo_info": "[Mahesh-970/CVE-2024-43768](https://github.com/Mahesh-970/CVE-2024-43768)",
+      "description": "no description",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T09:38:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-3273",
+      "repo_info": "[GSTEINF/CVE-2024-3273](https://github.com/GSTEINF/CVE-2024-3273)",
+      "description": "no description",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T22:34:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-2961",
+      "repo_info": "[regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-](https://github.com/regantemudo/PHP-file-read-to-RCE-CVE-2024-2961-)",
+      "description": "To use, implement the Remote class, which tells the exploit how to send the payload.",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T09:41:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-23346",
+      "repo_info": "[Sanity-Archive/CVE-2024-23346](https://github.com/Sanity-Archive/CVE-2024-23346)",
+      "description": "PoC of the vulnerability CVE-2024-23346",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T12:23:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-1651",
+      "repo_info": "[killukeren/cve-2024-1651](https://github.com/killukeren/cve-2024-1651)",
+      "description": "anu",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T07:29:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-13489",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13489](https://github.com/RandomRobbieBF/CVE-2024-13489)",
+      "description": "LTL Freight Quotes – Old Dominion Edition &lt;= 4.2.10 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:46:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-13488",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13488](https://github.com/RandomRobbieBF/CVE-2024-13488)",
+      "description": "LTL Freight Quotes – Estes Edition &lt;= 3.3.7 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:33:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-13485",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13485](https://github.com/RandomRobbieBF/CVE-2024-13485)",
+      "description": "LTL Freight Quotes – ABF Freight Edition &lt;= 3.3.7 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:47:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-13483",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13483](https://github.com/RandomRobbieBF/CVE-2024-13483)",
+      "description": "LTL Freight Quotes – SAIA Edition &lt;= 2.2.10 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:48:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-13481",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13481](https://github.com/RandomRobbieBF/CVE-2024-13481)",
+      "description": "LTL Freight Quotes – R+L Carriers Edition &lt;= 3.3.4 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:52:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-13479",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13479](https://github.com/RandomRobbieBF/CVE-2024-13479)",
+      "description": "LTL Freight Quotes – SEFL Edition &lt;= 3.2.4 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:51:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-13478",
+      "repo_info": "[RandomRobbieBF/CVE-2024-13478](https://github.com/RandomRobbieBF/CVE-2024-13478)",
+      "description": "LTL Freight Quotes – TForce Edition &lt;= 3.6.4 - Unauthenticated SQL Injection",
+      "date": "2025-02-20",
+      "raw_date": "2025-02-20T15:50:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.373995",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-02-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

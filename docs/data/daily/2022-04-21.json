@@ -1,0 +1,181 @@
+{
+  "date": "2022-04-21",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-29598",
+      "repo_info": "[TheGetch/CVE-2022-29598](https://github.com/TheGetch/CVE-2022-29598)",
+      "description": "The RRS v500 application is vulnerable to a reflected Cross-Site Scripting (XSS) vulnerability.",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T20:14:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-29597",
+      "repo_info": "[TheGetch/CVE-2022-29597](https://github.com/TheGetch/CVE-2022-29597)",
+      "description": "The RRS v500 application is vulnerable to a Local File Inclusion (LFI) vulnerability.",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T20:22:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[mr-r3bot/WSO2-CVE-2022-29464](https://github.com/mr-r3bot/WSO2-CVE-2022-29464)",
+      "description": "Pre-auth RCE bug  CVE-2022-29464",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T14:47:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[marschall/psychic-signatures](https://github.com/marschall/psychic-signatures)",
+      "description": "Demos the Psychic Signatures vulnerability (CVE-2022-21449)",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T16:26:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[tufanturhan/wso2-rce-cve-2022-29464](https://github.com/tufanturhan/wso2-rce-cve-2022-29464)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T06:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[c4mx/CVE-2022-22965_PoC](https://github.com/c4mx/CVE-2022-22965_PoC)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T10:17:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-0778",
+      "repo_info": "[0xUhaw/CVE-2022-0778](https://github.com/0xUhaw/CVE-2022-0778)",
+      "description": "Proof of concept for CVE-2022-0778 in P12 and PEM format",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T04:04:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-0265",
+      "repo_info": "[achuna33/CVE-2022-0265](https://github.com/achuna33/CVE-2022-0265)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T08:24:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-3972",
+      "repo_info": "[killvxk/CVE-2021-3972](https://github.com/killvxk/CVE-2021-3972)",
+      "description": "just poc",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T10:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-0640",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0640](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0640)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T08:53:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-0519",
+      "repo_info": "[nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0519)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T18:47:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-0509",
+      "repo_info": "[Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509](https://github.com/Trinadh465/frameworks_av_AOSP10_r33_CVE-2021-0509)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T06:23:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-0508",
+      "repo_info": "[nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0508](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0508)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T08:15:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-0474",
+      "repo_info": "[pazhanivel07/system_bt_A10_r33_CVE-2021-0474](https://github.com/pazhanivel07/system_bt_A10_r33_CVE-2021-0474)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T07:22:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-0437",
+      "repo_info": "[nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0437](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2021-0437)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T10:37:06Z"
+    },
+    {
+      "cve_id": "CVE-2021-0435",
+      "repo_info": "[ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0435](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0435)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T06:54:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-0435",
+      "repo_info": "[nanopathi/system_bt_AOSP10_r33_CVE-2021-0435](https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0435)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T06:37:09Z"
+    },
+    {
+      "cve_id": "CVE-2021-0431",
+      "repo_info": "[nanopathi/system_bt_AOSP10_r33_CVE-2021-0431](https://github.com/nanopathi/system_bt_AOSP10_r33_CVE-2021-0431)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T07:20:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-0431",
+      "repo_info": "[ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0431](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0431)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T07:05:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-0334",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP_r33_CVE_2021-0334](https://github.com/Trinadh465/frameworks_base_AOSP_r33_CVE_2021-0334)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T12:22:55Z"
+    },
+    {
+      "cve_id": "CVE-2020-0458",
+      "repo_info": "[nanopathi/system_media_AOSP10_r33_CVE-2020-0458](https://github.com/nanopathi/system_media_AOSP10_r33_CVE-2020-0458)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T06:20:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-0409",
+      "repo_info": "[nanopathi/system_core_AOSP10_r33_CVE-2020-0409](https://github.com/nanopathi/system_core_AOSP10_r33_CVE-2020-0409)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T11:30:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-0160",
+      "repo_info": "[nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0160](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0160)",
+      "description": "no description",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T09:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2016-10924",
+      "repo_info": "[rvizx/CVE-2016-10924](https://github.com/rvizx/CVE-2016-10924)",
+      "description": "CVE-2016-10924 - Directory traversal vulnerability in WordPress ebook-download plugin(<1.2).  PoC + PID Bruteforce in Python.",
+      "date": "2022-04-21",
+      "raw_date": "2022-04-21T09:21:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.128256",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2022-04-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

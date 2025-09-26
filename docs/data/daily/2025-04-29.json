@@ -1,0 +1,146 @@
+{
+  "date": "2025-04-29",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46701",
+      "repo_info": "[gregk4sec/CVE-2025-46701](https://github.com/gregk4sec/CVE-2025-46701)",
+      "description": "Tomcat CVE",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T00:47:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433](https://github.com/C9b3rD3vi1/Erlang-OTP-SSH-CVE-2025-32433)",
+      "description": "Exploit Erlang/OTP SSH CVE-2025-32433 in a lab setup.",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T21:15:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[ODST-Forge/CVE-2025-32433_PoC](https://github.com/ODST-Forge/CVE-2025-32433_PoC)",
+      "description": "This script is a custom security tool designed to test for a critical pre-authentication vulnerability in systems running Erlang-based SSH servers",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T21:06:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[abrewer251/CVE-2025-32433_Erlang-OTP](https://github.com/abrewer251/CVE-2025-32433_Erlang-OTP)",
+      "description": "This script is a custom security tool designed to test for a critical pre-authentication vulnerability in systems running Erlang-based SSH servers",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T19:02:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[ekomsSavior/AirBorne-PoC](https://github.com/ekomsSavior/AirBorne-PoC)",
+      "description": "poc for CVE-2025-24252 &amp; CVE-2025-24132",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T22:12:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[abrewer251/CVE-2025-31324_PoC_SAP](https://github.com/abrewer251/CVE-2025-31324_PoC_SAP)",
+      "description": "Proof-of-Concept for CVE-2025-31324: Unauthenticated upload in SAP NetWeaver Visual Composer Metadata Uploader",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T00:16:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[Pengrey/CVE-2025-31324](https://github.com/Pengrey/CVE-2025-31324)",
+      "description": "Unauthenticated upload in SAP NetWeaver Visual Composer Metadata Uploader",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T09:46:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[HoumanPashaei/CVE-2025-29927](https://github.com/HoumanPashaei/CVE-2025-29927)",
+      "description": "This is a CVE-2025-29927 Scanner.",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T08:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[rubbxalc/CVE-2025-29927](https://github.com/rubbxalc/CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T10:44:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[Darabium/Gombruc](https://github.com/Darabium/Gombruc)",
+      "description": "This vulnerability is related to CVE-2025-0401, which affects all Linux systems. With the help of this bash script, you can give your user any level of access, up to and including Root access.  Warning: This exploit is for educational purposes only and any exploitation of this vulnerability is risky.",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T09:03:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-28062",
+      "repo_info": "[Thvt0ne/CVE-2025-28062](https://github.com/Thvt0ne/CVE-2025-28062)",
+      "description": "proof of concept",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T11:37:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-26014",
+      "repo_info": "[vigilante-1337/CVE-2025-26014](https://github.com/vigilante-1337/CVE-2025-26014)",
+      "description": "A Remote Code Execution (RCE) vulnerability in Loggrove v.1.0 allows a remote attacker to execute arbitrary code via the path parameter. The manipulation of the argument path from read.py file leads to os command injection. The attack can be launched remotely.",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T08:50:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-24091",
+      "repo_info": "[cyruscostini/CVE-2025-24091](https://github.com/cyruscostini/CVE-2025-24091)",
+      "description": "no description",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T04:26:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-12342",
+      "repo_info": "[becrevex/TPLink-VN020-DoS](https://github.com/becrevex/TPLink-VN020-DoS)",
+      "description": "TPLink VN020-F3v Denial of Service (CVE-2024-12342)",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T18:40:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-12342",
+      "repo_info": "[CyprianAtsyor/letsdefend-cve2024-3400-case-study](https://github.com/CyprianAtsyor/letsdefend-cve2024-3400-case-study)",
+      "description": "Detection, analysis, and response strategies for CVE-2024-3400 exploitation attempts targeting Palo Alto PAN-OS GlobalProtect portals. Includes IOCs, exploit patterns, and mitigation guidance.",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T10:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-32243",
+      "repo_info": "[dev0558/CVE-2023-32243-Detection-and-Mitigation-in-WordPress](https://github.com/dev0558/CVE-2023-32243-Detection-and-Mitigation-in-WordPress)",
+      "description": "no description",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T21:41:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-25012",
+      "repo_info": "[G4sp4rCS/CVE-2022-25012-POC](https://github.com/G4sp4rCS/CVE-2022-25012-POC)",
+      "description": "Improved PoC of CVE-2022-25012",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T01:44:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-42278",
+      "repo_info": "[Chrisync/CVE-Scanner](https://github.com/Chrisync/CVE-Scanner)",
+      "description": "CVE-2021-42287/CVE-2021-42278/OTHER Scanner &amp; Exploiter.",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T11:39:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-12617",
+      "repo_info": "[ducknuts/network-forensics-cve-2017-12617](https://github.com/ducknuts/network-forensics-cve-2017-12617)",
+      "description": "Network forensics example",
+      "date": "2025-04-29",
+      "raw_date": "2025-04-29T13:10:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.387690",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2025-04-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2022-02-09",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-24693",
+      "repo_info": "[lukejenkins/CVE-2022-24693](https://github.com/lukejenkins/CVE-2022-24693)",
+      "description": "no description",
+      "date": "2022-02-09",
+      "raw_date": "2022-02-09T18:28:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-5842",
+      "repo_info": "[prasanthc41m/codoforum](https://github.com/prasanthc41m/codoforum)",
+      "description": "CVE-2020-5842 Stored XSS Vulnerability in Codoforum 4.8.3",
+      "date": "2022-02-09",
+      "raw_date": "2022-02-09T11:20:16Z"
+    },
+    {
+      "cve_id": "CVE-2020-0601",
+      "repo_info": "[modubyk/CVE_2020_0601](https://github.com/modubyk/CVE_2020_0601)",
+      "description": "no description",
+      "date": "2022-02-09",
+      "raw_date": "2022-02-09T02:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-7609",
+      "repo_info": "[aemmitt-ns/pacpoc](https://github.com/aemmitt-ns/pacpoc)",
+      "description": "A local PoC exploit for CVE-2019-2205",
+      "date": "2022-02-09",
+      "raw_date": "2022-02-09T02:08:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.119403",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-02-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

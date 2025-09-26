@@ -1,0 +1,20 @@
+{
+  "date": "2018-06-26",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[Iletee/struts2-rce](https://github.com/Iletee/struts2-rce)",
+      "description": "Exploitable target to CVE-2017-5638",
+      "date": "2018-06-26",
+      "raw_date": "2018-06-26T10:21:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.983898",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-06-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2025-06-21",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5640",
+      "repo_info": "[mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-](https://github.com/mbanyamer/PX4-Military-UAV-Autopilot-1.12.3-Stack-Buffer-Overflow-Exploit-CVE-2025-5640-)",
+      "description": "no description",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T11:52:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-4123",
+      "repo_info": "[punitdarji/Grafana-cve-2025-4123](https://github.com/punitdarji/Grafana-cve-2025-4123)",
+      "description": "no description",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T14:36:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-2539",
+      "repo_info": "[d4rkh0rse/CVE-2025-2539](https://github.com/d4rkh0rse/CVE-2025-2539)",
+      "description": "no description",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T06:51:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[x1ongsec/CVE-2025-24813](https://github.com/x1ongsec/CVE-2025-24813)",
+      "description": "tomcat CVE-2025-24813 反序列化RCE环境",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T14:20:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Dermot-lab/TryHack](https://github.com/Dermot-lab/TryHack)",
+      "description": "CVE-2024-3094",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T20:19:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[maikneysm/AutoPwn-Titanic.htb](https://github.com/maikneysm/AutoPwn-Titanic.htb)",
+      "description": "This is an automated exploitation script for the Hack The Box machine *Titanic*. It extracts Gitea user hashes via LFI, assists in cracking them, and exploits an ImageMagick vulnerability (CVE-2024-41817) to gain root access via a malicious shared library.",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T11:32:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-24249",
+      "repo_info": "[ldb33/CVE-2023-24249-PoC](https://github.com/ldb33/CVE-2023-24249-PoC)",
+      "description": "Proof of concept for HTB easy machine Usage",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T17:02:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[x1ongsec/CVE-2021-44228-Log4j-JNDI](https://github.com/x1ongsec/CVE-2021-44228-Log4j-JNDI)",
+      "description": "CVE-2021-44228 Vulnerability Reproduction Environment CVE-2021-44228 漏洞复现环境",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T07:23:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-30047",
+      "repo_info": "[Andreyfreis/CVE-2021-30047](https://github.com/Andreyfreis/CVE-2021-30047)",
+      "description": "Exploit CVE-2021-30047.",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T04:14:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-21365",
+      "repo_info": "[samaellovecraft/CVE-2020-21365](https://github.com/samaellovecraft/CVE-2020-21365)",
+      "description": "no description",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T04:05:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-12615",
+      "repo_info": "[edyekomu/CVE-2017-12615-PoC](https://github.com/edyekomu/CVE-2017-12615-PoC)",
+      "description": "PoC environment and exploit for the Apache Tomcat on Windows Remote Code Execution Vulnerability",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T10:15:54Z"
+    },
+    {
+      "cve_id": "CVE-2011-0762",
+      "repo_info": "[Andreyfreis/CVE-2011-0762](https://github.com/Andreyfreis/CVE-2011-0762)",
+      "description": "Script que corrigi o exploit da CVE que foi publicado no exploit-db",
+      "date": "2025-06-21",
+      "raw_date": "2025-06-21T04:08:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.397495",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2025-06-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

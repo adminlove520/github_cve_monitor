@@ -1,0 +1,97 @@
+{
+  "date": "2024-05-11",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-35469",
+      "repo_info": "[dovankha/CVE-2024-35469](https://github.com/dovankha/CVE-2024-35469)",
+      "description": "CVE-2024-35469 - SQL injection",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T07:27:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-35468",
+      "repo_info": "[dovankha/CVE-2024-35468](https://github.com/dovankha/CVE-2024-35468)",
+      "description": "CVE-2024-35468 - SQL injection",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T05:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-34226",
+      "repo_info": "[dovankha/CVE-2024-34226](https://github.com/dovankha/CVE-2024-34226)",
+      "description": "CVE-2024-34226 - SQL injection",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T10:33:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-34225",
+      "repo_info": "[dovankha/CVE-2024-34225](https://github.com/dovankha/CVE-2024-34225)",
+      "description": "CVE-20240-34225 - Cross Site Scripting",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T10:20:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-34224",
+      "repo_info": "[dovankha/CVE-2024-34224](https://github.com/dovankha/CVE-2024-34224)",
+      "description": "CVE-2024-34224 - Cross Site Scripting",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T08:58:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-34223",
+      "repo_info": "[dovankha/CVE-2024-34223](https://github.com/dovankha/CVE-2024-34223)",
+      "description": "CVE-2024-34223 - Insecure permission",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T08:36:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-34222",
+      "repo_info": "[dovankha/CVE-2024-34222](https://github.com/dovankha/CVE-2024-34222)",
+      "description": "CVE-2024-34222 - SQL injection",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T08:20:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-32523",
+      "repo_info": "[truonghuuphuc/CVE-2024-32523-Poc](https://github.com/truonghuuphuc/CVE-2024-32523-Poc)",
+      "description": "no description",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T18:16:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[th3Hellion/CVE-2024-21413](https://github.com/th3Hellion/CVE-2024-21413)",
+      "description": "no description",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T12:28:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-1561",
+      "repo_info": "[DiabloHTB/CVE-2024-1561](https://github.com/DiabloHTB/CVE-2024-1561)",
+      "description": "Poc for CVE-2024-1561 affecting Gradio 4.12.0",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T13:44:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-27524",
+      "repo_info": "[karthi-the-hacker/CVE-2023-27524](https://github.com/karthi-the-hacker/CVE-2023-27524)",
+      "description": "Tool for finding CVE-2023-27524 (Apache Superset - Authentication Bypass)",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T12:19:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-2752",
+      "repo_info": "[Cappricio-Securities/CVE-2023-2752](https://github.com/Cappricio-Securities/CVE-2023-2752)",
+      "description": "Tool for finding CVE-2023-27524 (Apache Superset - Authentication Bypass)",
+      "date": "2024-05-11",
+      "raw_date": "2024-05-11T12:29:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.324393",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

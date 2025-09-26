@@ -1,0 +1,20 @@
+{
+  "date": "2020-04-23",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[limkokholefork/GHOSTCHECK-cve-2015-0235](https://github.com/limkokholefork/GHOSTCHECK-cve-2015-0235)",
+      "description": "no description",
+      "date": "2020-04-23",
+      "raw_date": "2020-04-23T22:26:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.048552",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-04-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

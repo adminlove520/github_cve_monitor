@@ -1,0 +1,27 @@
+{
+  "date": "2016-11-02",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-8870",
+      "repo_info": "[zugetor/Joomla-3.4.4-3.6.4_CVE-2016-8869_and_CVE-2016-8870](https://github.com/zugetor/Joomla-3.4.4-3.6.4_CVE-2016-8869_and_CVE-2016-8870)",
+      "description": "Source code: https://github.com/XiphosResearch/exploits/tree/master/Joomraa",
+      "date": "2016-11-02",
+      "raw_date": "2016-11-02T14:35:58Z"
+    },
+    {
+      "cve_id": "CVE-2016-6663",
+      "repo_info": "[firebroo/CVE-2016-6663](https://github.com/firebroo/CVE-2016-6663)",
+      "description": "no description",
+      "date": "2016-11-02",
+      "raw_date": "2016-11-02T02:05:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.928287",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-11-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

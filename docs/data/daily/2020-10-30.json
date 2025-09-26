@@ -1,0 +1,20 @@
+{
+  "date": "2020-10-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[khuntor/CVE-2019-11447-EXP](https://github.com/khuntor/CVE-2019-11447-EXP)",
+      "description": "CuteNews Avatar  2.1.2 Remote Code Execution Vulnerability",
+      "date": "2020-10-30",
+      "raw_date": "2020-10-30T08:21:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.067626",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-10-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

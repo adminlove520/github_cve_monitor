@@ -1,0 +1,27 @@
+{
+  "date": "2016-09-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-2776",
+      "repo_info": "[KosukeShimofuji/CVE-2016-2776](https://github.com/KosukeShimofuji/CVE-2016-2776)",
+      "description": "no description",
+      "date": "2016-09-28",
+      "raw_date": "2016-09-28T10:07:24Z"
+    },
+    {
+      "cve_id": "CVE-2014-7911",
+      "repo_info": "[mabin004/cve-2014-7911](https://github.com/mabin004/cve-2014-7911)",
+      "description": "exp for cve-2014-7911 which can get system privillage",
+      "date": "2016-09-28",
+      "raw_date": "2016-09-28T07:56:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.925196",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-09-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

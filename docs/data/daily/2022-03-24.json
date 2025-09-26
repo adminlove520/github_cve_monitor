@@ -1,0 +1,41 @@
+{
+  "date": "2022-03-24",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8163",
+      "repo_info": "[TKLinux966/CVE-2020-8163](https://github.com/TKLinux966/CVE-2020-8163)",
+      "description": "This is a exploit code for CVE-2020-8163",
+      "date": "2022-03-24",
+      "raw_date": "2022-03-24T06:43:39Z"
+    },
+    {
+      "cve_id": "CVE-2020-3580",
+      "repo_info": "[nxtexploit/CVE-2020-3580](https://github.com/nxtexploit/CVE-2020-3580)",
+      "description": "no description",
+      "date": "2022-03-24",
+      "raw_date": "2022-03-24T09:34:04Z"
+    },
+    {
+      "cve_id": "CVE-2019-16278",
+      "repo_info": "[alexander-fernandes/CVE-2019-16278](https://github.com/alexander-fernandes/CVE-2019-16278)",
+      "description": "A quick python exploit for the Nostromo 1.9.6 remote code execution vulnerability. Only takes in host and port of web server as required arguments.",
+      "date": "2022-03-24",
+      "raw_date": "2022-03-24T12:06:55Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[the-valluvarsploit/CVE-2018-6574](https://github.com/the-valluvarsploit/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2022-03-24",
+      "raw_date": "2022-03-24T08:40:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.124201",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-03-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,741 @@
+{
+  "date": "2023-01-17",
+  "count": 104,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-23749",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23749](https://github.com/Live-Hack-CVE/CVE-2023-23749)",
+      "description": "The &#x27;LDAP Integration with Active Directory and OpenLDAP - NTLM &amp; Kerberos Login&#x27; extension is vulnerable to LDAP Injection since is not properly sanitizing the &#x27;username&#x27; POST parameter. An attacker can manipulate this paramter to dump arbitrary contents form the LDAP Database. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:26:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-23589",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23589](https://github.com/Live-Hack-CVE/CVE-2023-23589)",
+      "description": "The SafeSocks option in Tor before 0.4.7.13 has a logic error in which the unsafe SOCKS4 protocol can be used but not the safe SOCKS4a protocol, aka TROVE-2022-002. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-22734",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22734](https://github.com/Live-Hack-CVE/CVE-2023-22734)",
+      "description": "Shopware is an open source commerce platform based on Symfony Framework and Vue js. The newsletter double opt-in validation was not checked properly, and it was possible to skip the complete double opt in process. As a result operators may have inconsistencies in their newsletter systems. This problem has been fixed wi CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-22733",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22733](https://github.com/Live-Hack-CVE/CVE-2023-22733)",
+      "description": "Shopware is an open source commerce platform based on Symfony Framework and Vue js. In affected versions the log module would write out all kind of sent mails. An attacker with access to either the local system logs or a centralized logging store may have access to other users accounts. This issue has been addressed in CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-22732",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22732](https://github.com/Live-Hack-CVE/CVE-2023-22732)",
+      "description": "Shopware is an open source commerce platform based on Symfony Framework and Vue js. The Administration session expiration was set to one week, when an attacker has stolen the session cookie they could use it for a long period of time. In version 6.4.18.1 an automatic logout into the Administration session has been adde CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-22731",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22731](https://github.com/Live-Hack-CVE/CVE-2023-22731)",
+      "description": "Shopware is an open source commerce platform based on Symfony Framework and Vue js. In a Twig environment **without the Sandbox extension**, it is possible to refer to PHP functions in twig filters like `map`, `filter`, `sort`. This allows a template to call any global PHP function and thus execute arbitrary code. The  CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-22730",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22730](https://github.com/Live-Hack-CVE/CVE-2023-22730)",
+      "description": "Shopware is an open source commerce platform based on Symfony Framework and Vue js. In affected versions It was possible to put the same line item multiple times in the cart using the AP. The Cart Validators checked the line item&#x27;s individuality and the user was able to bypass quantity limits in sales. This problem has CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-22624",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22624](https://github.com/Live-Hack-CVE/CVE-2023-22624)",
+      "description": "Zoho ManageEngine Exchange Reporter Plus before 5708 allows attackers to conduct XXE attacks. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:26:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-22491",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22491](https://github.com/Live-Hack-CVE/CVE-2023-22491)",
+      "description": "Gatsby is a free and open source framework based on React that helps developers build websites and apps. The gatsby-transformer-remark plugin prior to versions 5.25.1 and 6.3.2 passes input through to the `gray-matter` npm package, which is vulnerable to JavaScript injection in its default configuration, unless input i CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-22489",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22489](https://github.com/Live-Hack-CVE/CVE-2023-22489)",
+      "description": "Flarum is a discussion platform for websites. If the first post of a discussion is permanently deleted but the discussion stays visible, any actor who can view the discussion is able to create a new reply via the REST API, no matter the reply permission or lock status. This includes users that don&#x27;t have a validated em CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-22366",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22366](https://github.com/Live-Hack-CVE/CVE-2023-22366)",
+      "description": "CX-Motion-MCH v2.32 and earlier contains an access of uninitialized pointer vulnerability. Having a user to open a specially crafted project file may lead to information disclosure and/or arbitrary code execution. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-22357",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22357](https://github.com/Live-Hack-CVE/CVE-2023-22357)",
+      "description": "Active debug code exists in OMRON CP1L-EL20DR-D all versions, which may lead to a command that is not specified in FINS protocol being executed without authentication. A remote unauthenticated attacker may read/write in arbitrary area of the device memory, which may lead to overwriting the firmware, causing a denial-of CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-22316",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22316](https://github.com/Live-Hack-CVE/CVE-2023-22316)",
+      "description": "Hidden functionality vulnerability in PIX-RT100 versions RT100_TEQ_2.1.1_EQ101 and RT100_TEQ_2.1.2_EQ101 allows a network-adjacent attacker to access the product via undocumented Telnet or SSH services. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-22304",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22304](https://github.com/Live-Hack-CVE/CVE-2023-22304)",
+      "description": "OS command injection vulnerability in PIX-RT100 versions RT100_TEQ_2.1.1_EQ101 and RT100_TEQ_2.1.2_EQ101 allows a network-adjacent attacker who can access product settings to execute an arbitrary OS command. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-22303",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22303](https://github.com/Live-Hack-CVE/CVE-2023-22303)",
+      "description": "TP-Link SG105PE firmware prior to &#x27;TL-SG105PE(UN) 1.0_1.0.0 Build 20221208&#x27; contains an authentication bypass vulnerability. Under the certain conditions, an attacker may impersonate an administrator of the product. As a result, information may be obtained and/or the product&#x27;s settings may be altered with the privilege CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-22298",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22298](https://github.com/Live-Hack-CVE/CVE-2023-22298)",
+      "description": "Open redirect vulnerability in pgAdmin 4 versions prior to v6.14 allows a remote unauthenticated attacker to redirect a user to an arbitrary web site and conduct a phishing attack by having a user to access a specially crafted URL. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-22296",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22296](https://github.com/Live-Hack-CVE/CVE-2023-22296)",
+      "description": "Reflected cross-site scripting vulnerability in MAHO-PBX NetDevancer series MAHO-PBX NetDevancer Lite/Uni/Pro/Cloud prior to Ver.1.11.00, MAHO-PBX NetDevancer VSG Lite/Uni prior to Ver.1.11.00, and MAHO-PBX NetDevancer MobileGate Home/Office prior to Ver.1.11.00 allows a remote unauthenticated attacker to inject an arb CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-22286",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22286](https://github.com/Live-Hack-CVE/CVE-2023-22286)",
+      "description": "Cross-site request forgery (CSRF) vulnerability in MAHO-PBX NetDevancer Lite/Uni/Pro/Cloud prior to Ver.1.11.00, MAHO-PBX NetDevancer VSG Lite/Uni prior to Ver.1.11.00, and MAHO-PBX NetDevancer MobileGate Home/Office prior to Ver.1.11.00 allows a remote unauthenticated attacker to hijack the user authentication and con CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-22280",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22280](https://github.com/Live-Hack-CVE/CVE-2023-22280)",
+      "description": "MAHO-PBX NetDevancer Lite/Uni/Pro/Cloud prior to Ver.1.11.00, MAHO-PBX NetDevancer VSG Lite/Uni prior to Ver.1.11.00, and MAHO-PBX NetDevancer MobileGate Home/Office prior to Ver.1.11.00 allow a remote authenticated attacker with an administrative privilege to execute an arbitrary OS command. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-22279",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22279](https://github.com/Live-Hack-CVE/CVE-2023-22279)",
+      "description": "MAHO-PBX NetDevancer Lite/Uni/Pro/Cloud prior to Ver.1.11.00, MAHO-PBX NetDevancer VSG Lite/Uni prior to Ver.1.11.00, and MAHO-PBX NetDevancer MobileGate Home/Office prior to Ver.1.11.00 allow a remote unauthenticated attacker to execute an arbitrary OS command. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:30:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-22278",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22278](https://github.com/Live-Hack-CVE/CVE-2023-22278)",
+      "description": "m-FILTER prior to Ver.5.70R01 (Ver.5 Series) and m-FILTER prior to Ver.4.87R04 (Ver.4 Series) allows a remote unauthenticated attacker to bypass authentication and send users&#x27; unintended email when email is being sent under the certain conditions. The attacks exploiting this vulnerability have been observed. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:30:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-21681",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21681](https://github.com/Live-Hack-CVE/CVE-2023-21681)",
+      "description": "Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:25:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-21680",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21680](https://github.com/Live-Hack-CVE/CVE-2023-21680)",
+      "description": "Windows Win32k Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:25:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-21561",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21561](https://github.com/Live-Hack-CVE/CVE-2023-21561)",
+      "description": "Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21551, CVE-2023-21730. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:55:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-21559",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21559](https://github.com/Live-Hack-CVE/CVE-2023-21559)",
+      "description": "Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21540, CVE-2023-21550. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-21555",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21555](https://github.com/Live-Hack-CVE/CVE-2023-21555)",
+      "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21546, CVE-2023-21556, CVE-2023-21679. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-21551",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21551](https://github.com/Live-Hack-CVE/CVE-2023-21551)",
+      "description": "Microsoft Cryptographic Services Elevation of Privilege Vulnerability. This CVE ID is unique from CVE-2023-21561, CVE-2023-21730. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-21550",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21550](https://github.com/Live-Hack-CVE/CVE-2023-21550)",
+      "description": "Windows Cryptographic Information Disclosure Vulnerability. This CVE ID is unique from CVE-2023-21540, CVE-2023-21559. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-21549",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21549](https://github.com/Live-Hack-CVE/CVE-2023-21549)",
+      "description": "Windows SMB Witness Service Elevation of Privilege Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-21547",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21547](https://github.com/Live-Hack-CVE/CVE-2023-21547)",
+      "description": "Internet Key Exchange (IKE) Protocol Denial of Service Vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-21546",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21546](https://github.com/Live-Hack-CVE/CVE-2023-21546)",
+      "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21543, CVE-2023-21555, CVE-2023-21556, CVE-2023-21679. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-21543",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21543](https://github.com/Live-Hack-CVE/CVE-2023-21543)",
+      "description": "Windows Layer 2 Tunneling Protocol (L2TP) Remote Code Execution Vulnerability. This CVE ID is unique from CVE-2023-21546, CVE-2023-21555, CVE-2023-21556, CVE-2023-21679. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-0338",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0338](https://github.com/Live-Hack-CVE/CVE-2023-0338)",
+      "description": "Cross-site Scripting (XSS) - Reflected in GitHub repository lirantal/daloradius prior to master-branch. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-0337",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0337](https://github.com/Live-Hack-CVE/CVE-2023-0337)",
+      "description": "Cross-site Scripting (XSS) - Reflected in GitHub repository lirantal/daloradius prior to master-branch. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-0332",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0332](https://github.com/Live-Hack-CVE/CVE-2023-0332)",
+      "description": "A vulnerability was found in SourceCodester Online Food Ordering System 2.0. It has been classified as critical. Affected is an unknown function of the file admin/manage_user.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed to  CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-0158",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0158](https://github.com/Live-Hack-CVE/CVE-2023-0158)",
+      "description": "NLnet Labs Krill supports direct access to the RRDP repository content through its built-in web server at the &quot;/rrdp&quot; endpoint. Prior to 0.12.1 a direct query for any existing directory under &quot;/rrdp/&quot;, rather than an RRDP file such as &quot;/rrdp/notification.xml&quot; as would be expected, causes Krill to crash. If the built-in CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:14:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-4891",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4891](https://github.com/Live-Hack-CVE/CVE-2022-4891)",
+      "description": "A vulnerability has been found in Sisimai up to 4.25.14p11 and classified as problematic. This vulnerability affects the function to_plain of the file lib/sisimai/string.rb. The manipulation leads to inefficient regular expression complexity. The exploit has been disclosed to the public and may be used. Upgrading to ve CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:26:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-48091",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48091](https://github.com/Live-Hack-CVE/CVE-2022-48091)",
+      "description": "Tramyardg hotel-mgmt-system version 2022.4 is vulnerable to Cross Site Scripting (XSS) via process_update_profile.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-48090",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48090](https://github.com/Live-Hack-CVE/CVE-2022-48090)",
+      "description": "Tramyardg hotel-mgmt-system version 2022.4 is vulnerable to SQL Injection via /app/dao/CustomerDAO.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-47966",
+      "repo_info": "[horizon3ai/CVE-2022-47966](https://github.com/horizon3ai/CVE-2022-47966)",
+      "description": "POC for CVE-2022-47966 affecting multiple ManageEngine products",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:26:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-47318",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47318](https://github.com/Live-Hack-CVE/CVE-2022-47318)",
+      "description": "ruby-git versions prior to v1.13.0 allows a remote authenticated attacker to execute an arbitrary ruby code by having a user to load a repository containing a specially crafted filename to the product. This vulnerability is different from CVE-2022-46648. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:30:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-46891",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46891](https://github.com/Live-Hack-CVE/CVE-2022-46891)",
+      "description": "An issue was discovered in the Arm Mali GPU Kernel Driver. There is a use-after-free. A non-privileged user can make improper GPU processing operations to gain access to already freed memory. This affects Midgard r13p0 through r32p0, Bifrost r1p0 through r40p0, and Valhall r19p0 through r40p0. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-46648",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46648](https://github.com/Live-Hack-CVE/CVE-2022-46648)",
+      "description": "ruby-git versions prior to v1.13.0 allows a remote authenticated attacker to execute an arbitrary ruby code by having a user to load a repository containing a specially crafted filename to the product. This vulnerability is different from CVE-2022-47318. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:30:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-46463",
+      "repo_info": "[nu0l/CVE-2022-46463](https://github.com/nu0l/CVE-2022-46463)",
+      "description": "CVE-2022-46463(POC)",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T14:58:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-46463",
+      "repo_info": "[flowerwind/AutoGenerateXalanPayload](https://github.com/flowerwind/AutoGenerateXalanPayload)",
+      "description": "cve-2022-34169 延伸出的Jdk Xalan的payload自动生成工具，可根据不同的Jdk生成出其所对应的xslt文件",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T03:48:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-4621",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4621](https://github.com/Live-Hack-CVE/CVE-2022-4621)",
+      "description": "Panasonic Sanyo CCTV Network Cameras versions 1.02-05 and 2.03-0x are vulnerable to CSRFs that can be exploited to allow an attacker to perform changes with administrator level privileges. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:14:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-45440",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45440](https://github.com/Live-Hack-CVE/CVE-2022-45440)",
+      "description": "A vulnerability exists in the FTP server of the Zyxel AX7501-B0 firmware prior to V5.17(ABPC.3)C0, which processes symbolic links on external storage media. A local authenticated attacker with administrator privileges could abuse this vulnerability to access the root file system by creating a symbolic link on external  CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:07:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-45439",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45439](https://github.com/Live-Hack-CVE/CVE-2022-45439)",
+      "description": "A pair of spare WiFi credentials is stored in the configuration file of the Zyxel AX7501-B0 firmware prior to V5.17(ABPC.3)C0 in cleartext. An unauthenticated attacker could use the credentials to access the WLAN service if the configuration file has been retrieved from the device by leveraging another known vulnerabil CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:07:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-43462",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43462](https://github.com/Live-Hack-CVE/CVE-2022-43462)",
+      "description": "Auth. SQL Injection (SQLi) vulnerability in Adeel Ahmed&#x27;s IP Blacklist Cloud plugin &lt;= 5.00 versions. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:06:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-42475",
+      "repo_info": "[bryanster/ioc-cve-2022-42475](https://github.com/bryanster/ioc-cve-2022-42475)",
+      "description": "test for the ioc described for FG-IR-22-398",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T20:11:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-42462",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42462](https://github.com/Live-Hack-CVE/CVE-2022-42462)",
+      "description": "Auth. Stored Cross-Site Scripting (XSS) vulnerability in Adeel Ahmed&#x27;s IP Blacklist Cloud plugin &lt;= 5.00 versions. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:06:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-41953",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41953](https://github.com/Live-Hack-CVE/CVE-2022-41953)",
+      "description": "Git GUI is a convenient graphical tool that comes with Git for Windows. Its target audience is users who are uncomfortable with using Git on the command-line. Git GUI has a function to clone repositories. Immediately after the local clone is available, Git GUI will automatically post-process it, among other things runn CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-41861",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41861](https://github.com/Live-Hack-CVE/CVE-2022-41861)",
+      "description": "A flaw was found in freeradius. A malicious RADIUS client or home server can send a malformed abinary attribute which can cause the server to crash. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-41860",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41860](https://github.com/Live-Hack-CVE/CVE-2022-41860)",
+      "description": "In freeradius, when an EAP-SIM supplicant sends an unknown SIM option, the server will try to look that option up in the internal dictionaries. This lookup will fail, but the SIM code will not check for that failure. Instead, it will dereference a NULL pointer, and cause the server to crash. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:15:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-41859",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41859](https://github.com/Live-Hack-CVE/CVE-2022-41859)",
+      "description": "In freeradius, the EAP-PWD function compute_password_element() leaks information about the password which allows an attacker to substantially reduce the size of an offline dictionary attack. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:15:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-41858",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41858](https://github.com/Live-Hack-CVE/CVE-2022-41858)",
+      "description": "A flaw was found in the Linux kernel. A NULL pointer dereference may occur while a slip driver is in progress to detach in sl_tx_timeout in drivers/net/slip/slip.c. This issue could allow an attacker to crash the system or leak internal kernel information. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:15:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-4121",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4121](https://github.com/Live-Hack-CVE/CVE-2022-4121)",
+      "description": "In libetpan a null pointer dereference in mailimap_mailbox_data_status_free in low-level/imap/mailimap_types.c was found that could lead to a remote denial of service or other potential consequences. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:15:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[notareaperbutDR34P3r/CVE-2022-40684-Rust](https://github.com/notareaperbutDR34P3r/CVE-2022-40684-Rust)",
+      "description": "no description",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:49:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-37436",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-37436](https://github.com/Live-Hack-CVE/CVE-2022-37436)",
+      "description": "Prior to Apache HTTP Server 2.4.55, a malicious backend can cause the response headers to be truncated early, resulting in some headers being incorporated into the response body. If the later headers have any security purpose, they will not be interpreted by the client. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:26:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-36760",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-36760](https://github.com/Live-Hack-CVE/CVE-2022-36760)",
+      "description": "Inconsistent Interpretation of HTTP Requests (&#x27;HTTP Request Smuggling&#x27;) vulnerability in mod_proxy_ajp of Apache HTTP Server allows an attacker to smuggle requests to the AJP server it forwards requests to. This issue affects Apache HTTP Server Apache HTTP Server 2.4 version 2.4.54 and prior versions. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:25:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-3091",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3091](https://github.com/Live-Hack-CVE/CVE-2022-3091)",
+      "description": "RONDS EPM version 1.19.5 has a vulnerability in which a function could allow unauthenticated users to leak credentials. In some circumstances, an attacker can exploit this vulnerability to execute operating system (OS) commands. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:14:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-3087",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3087](https://github.com/Live-Hack-CVE/CVE-2022-3087)",
+      "description": "Fuji Electric Tellus Lite V-Simulator versions 4.0.12.0 and prior are vulnerable to an out-of-bounds write which may allow an attacker to execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T01:41:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-30544",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-30544](https://github.com/Live-Hack-CVE/CVE-2022-30544)",
+      "description": "Cross-Site Request Forgery (CSRF) in MiKa&#x27;s OSM – OpenStreetMap plugin &lt;= 6.0.1 versions. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:06:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-2893",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2893](https://github.com/Live-Hack-CVE/CVE-2022-2893)",
+      "description": "RONDS EPM version 1.19.5 does not properly validate the filename parameter, which could allow an unauthorized user to specify file paths and download files. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:14:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-27518",
+      "repo_info": "[dolby360/CVE-2022-27518_POC](https://github.com/dolby360/CVE-2022-27518_POC)",
+      "description": "A POC on how to exploit CVE-2022-27518",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:40:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-23540",
+      "repo_info": "[jsirichai/CVE-2022-23540-PoC](https://github.com/jsirichai/CVE-2022-23540-PoC)",
+      "description": "no description",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T10:34:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-20413",
+      "repo_info": "[pazhanivel07/frameworks_av-r33_CVE-2022-20413](https://github.com/pazhanivel07/frameworks_av-r33_CVE-2022-20413)",
+      "description": "no description",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T10:33:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-1427",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-1427](https://github.com/Live-Hack-CVE/CVE-2022-1427)",
+      "description": "Out-of-bounds Read in mrb_obj_is_kind_of in in GitHub repository mruby/mruby prior to 3.2. # Impact: Possible arbitrary code execution if being exploited. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:25:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-1201",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-1201](https://github.com/Live-Hack-CVE/CVE-2022-1201)",
+      "description": "NULL Pointer Dereference in mrb_vm_exec with super in GitHub repository mruby/mruby prior to 3.2. This vulnerability is capable of making the mruby interpreter crash, thus affecting the availability of the system. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:25:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-0614",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-0614](https://github.com/Live-Hack-CVE/CVE-2022-0614)",
+      "description": "Use of Out-of-range Pointer Offset in Homebrew mruby prior to 3.2. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:25:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-32837",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32837](https://github.com/Live-Hack-CVE/CVE-2021-32837)",
+      "description": "mechanize, a library for automatically interacting with HTTP web servers, contains a regular expression that is vulnerable to regular expression denial of service (ReDoS) prior to version 0.4.6. If a web server responds in a malicious way, then mechanize could crash. Version 0.4.6 has a patch for the issue. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:20Z"
+    },
+    {
+      "cve_id": "CVE-2021-26385",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26385](https://github.com/Live-Hack-CVE/CVE-2021-26385)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:32:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-26358",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26358](https://github.com/Live-Hack-CVE/CVE-2021-26358)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:32:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-26357",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26357](https://github.com/Live-Hack-CVE/CVE-2021-26357)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:32:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-26319",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-26319](https://github.com/Live-Hack-CVE/CVE-2021-26319)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate is unused by its CNA. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:32:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-36611",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36611](https://github.com/Live-Hack-CVE/CVE-2020-36611)",
+      "description": "Incorrect Default Permissions vulnerability in Hitachi Tuning Manager on Linux (Hitachi Tuning Manager server, Hitachi Tuning Manager - Agent for RAID, Hitachi Tuning Manager - Agent for NAS, Hitachi Tuning Manager - Agent for SAN Switch components) allows local users to read and write specific files.This issue affects CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T07:07:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-28478",
+      "repo_info": "[NetJBS/CVE-2020-28478--PoC](https://github.com/NetJBS/CVE-2020-28478--PoC)",
+      "description": "no description",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T02:19:31Z"
+    },
+    {
+      "cve_id": "CVE-2018-14628",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-14628](https://github.com/Live-Hack-CVE/CVE-2018-14628)",
+      "description": "An information leak vulnerability was discovered in Samba&#x27;s LDAP server. Due to missing access control checks, an authenticated but unprivileged attacker could discover the names and preserved attributes of deleted objects in the LDAP store. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T19:14:59Z"
+    },
+    {
+      "cve_id": "CVE-2017-8917",
+      "repo_info": "[xeno-john/joomla_CVE-2017-8917](https://github.com/xeno-john/joomla_CVE-2017-8917)",
+      "description": "Project for the Cyberspace Security class.",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T17:47:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-20170",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-20170](https://github.com/Live-Hack-CVE/CVE-2017-20170)",
+      "description": "A vulnerability was found in ollpu parontalli. It has been classified as critical. Affected is an unknown function of the file httpdocs/index.php. The manipulation of the argument s leads to sql injection. The name of the patch is 6891bb2dec57dca6daabc15a6d2808c8896620e5. It is recommended to apply a patch to fix this  CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T15:56:30Z"
+    },
+    {
+      "cve_id": "CVE-2016-4565",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4565](https://github.com/Live-Hack-CVE/CVE-2016-4565)",
+      "description": "The InfiniBand (aka IB) stack in the Linux kernel before 4.5.3 incorrectly relies on the write system call, which allows local users to cause a denial of service (kernel memory write operation) or possibly have unspecified other impact via a uAPI interface. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:37Z"
+    },
+    {
+      "cve_id": "CVE-2016-4557",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4557](https://github.com/Live-Hack-CVE/CVE-2016-4557)",
+      "description": "The replace_map_fd_with_map_ptr function in kernel/bpf/verifier.c in the Linux kernel before 4.5.5 does not properly maintain an fd data structure, which allows local users to gain privileges or cause a denial of service (use-after-free) via crafted BPF instructions that reference an incorrect file descriptor. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:46Z"
+    },
+    {
+      "cve_id": "CVE-2016-4440",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4440](https://github.com/Live-Hack-CVE/CVE-2016-4440)",
+      "description": "arch/x86/kvm/vmx.c in the Linux kernel through 4.6.3 mishandles the APICv on/off state, which allows guest OS users to obtain direct APIC MSR access on the host OS, and consequently cause a denial of service (host OS crash) or possibly execute arbitrary code on the host OS, via x2APIC mode. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:50Z"
+    },
+    {
+      "cve_id": "CVE-2016-3135",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-3135](https://github.com/Live-Hack-CVE/CVE-2016-3135)",
+      "description": "Integer overflow in the xt_alloc_table_info function in net/netfilter/x_tables.c in the Linux kernel through 4.5.2 on 32-bit platforms allows local users to gain privileges or cause a denial of service (heap memory corruption) via an IPT_SO_SET_REPLACE setsockopt call. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:55Z"
+    },
+    {
+      "cve_id": "CVE-2016-2070",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-2070](https://github.com/Live-Hack-CVE/CVE-2016-2070)",
+      "description": "The tcp_cwnd_reduction function in net/ipv4/tcp_input.c in the Linux kernel before 4.3.5 allows remote attackers to cause a denial of service (divide-by-zero error and system crash) via crafted TCP traffic. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:59Z"
+    },
+    {
+      "cve_id": "CVE-2016-1583",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1583](https://github.com/Live-Hack-CVE/CVE-2016-1583)",
+      "description": "The ecryptfs_privileged_open function in fs/ecryptfs/kthread.c in the Linux kernel before 4.6.3 allows local users to gain privileges or cause a denial of service (stack memory consumption) via vectors involving crafted mmap calls for /proc pathnames, leading to recursive pagefault handling. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:41:03Z"
+    },
+    {
+      "cve_id": "CVE-2016-15021",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-15021](https://github.com/Live-Hack-CVE/CVE-2016-15021)",
+      "description": "A vulnerability was found in nickzren alsdb. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. Upgrading to version v2 is able to address this issue. The name of the patch is cbc79a68145e845f951113d184b4de207c341599. It is recommended to upgrade the affe CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:37Z"
+    },
+    {
+      "cve_id": "CVE-2015-3288",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-3288](https://github.com/Live-Hack-CVE/CVE-2015-3288)",
+      "description": "mm/memory.c in the Linux kernel before 4.1.4 mishandles anonymous pages, which allows local users to gain privileges or cause a denial of service (page tainting) via a crafted application that triggers writing to page zero. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:33Z"
+    },
+    {
+      "cve_id": "CVE-2015-10061",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10061](https://github.com/Live-Hack-CVE/CVE-2015-10061)",
+      "description": "A vulnerability was found in evandro-machado Trabalho-Web2. It has been classified as critical. This affects an unknown part of the file src/java/br/com/magazine/dao/ClienteDAO.java. The manipulation leads to sql injection. The name of the patch is f59ac954625d0a4f6d34f069a2e26686a7a20aeb. It is recommended to apply a  CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:32Z"
+    },
+    {
+      "cve_id": "CVE-2014-9914",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-9914](https://github.com/Live-Hack-CVE/CVE-2014-9914)",
+      "description": "Race condition in the ip4_datagram_release_cb function in net/ipv4/datagram.c in the Linux kernel before 3.15.2 allows local users to gain privileges or cause a denial of service (use-after-free) by leveraging incorrect expectations about locking during multithreaded access to internal data structures for IPv4 UDP sock CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2014-9904",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-9904](https://github.com/Live-Hack-CVE/CVE-2014-9904)",
+      "description": "The snd_compress_check_input function in sound/core/compress_offload.c in the ALSA subsystem in the Linux kernel before 3.17 does not properly check for an integer overflow, which allows local users to cause a denial of service (insufficient memory allocation) or possibly have unspecified other impact via a crafted SND CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:28Z"
+    },
+    {
+      "cve_id": "CVE-2014-7145",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-7145](https://github.com/Live-Hack-CVE/CVE-2014-7145)",
+      "description": "The SMB2_tcon function in fs/cifs/smb2pdu.c in the Linux kernel before 3.16.3 allows remote CIFS servers to cause a denial of service (NULL pointer dereference and client system crash) or possibly have unspecified other impact by deleting the IPC$ share during resolution of DFS referrals. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:20Z"
+    },
+    {
+      "cve_id": "CVE-2014-6416",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-6416](https://github.com/Live-Hack-CVE/CVE-2014-6416)",
+      "description": "Buffer overflow in net/ceph/auth_x.c in Ceph, as used in the Linux kernel before 3.16.3, allows remote attackers to cause a denial of service (memory corruption and panic) or possibly have unspecified other impact via a long unencrypted auth ticket. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2014-5460",
+      "repo_info": "[brookeses69/CVE-2014-5460](https://github.com/brookeses69/CVE-2014-5460)",
+      "description": "CVE-2014-5460",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T12:35:56Z"
+    },
+    {
+      "cve_id": "CVE-2013-4247",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-4247](https://github.com/Live-Hack-CVE/CVE-2013-4247)",
+      "description": "Off-by-one error in the build_unc_path_to_root function in fs/cifs/connect.c in the Linux kernel before 3.9.6 allows remote attackers to cause a denial of service (memory corruption and system crash) via a DFS share mount operation that triggers use of an unexpected DFS referral name length. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:12Z"
+    },
+    {
+      "cve_id": "CVE-2013-1059",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-1059](https://github.com/Live-Hack-CVE/CVE-2013-1059)",
+      "description": "net/ceph/auth_none.c in the Linux kernel through 3.10 allows remote attackers to cause a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impact via an auth_reply message that triggers an attempted build_request operation. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:16Z"
+    },
+    {
+      "cve_id": "CVE-2013-10013",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-10013](https://github.com/Live-Hack-CVE/CVE-2013-10013)",
+      "description": "A vulnerability was found in Bricco Authenticator Plugin. It has been declared as critical. This vulnerability affects the function authenticate/compare of the file src/java/talentum/escenic/plugins/authenticator/authenticators/DBAuthenticator.java. The manipulation leads to sql injection. Upgrading to version 1.39 is  CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T18:06:28Z"
+    },
+    {
+      "cve_id": "CVE-2012-6704",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-6704](https://github.com/Live-Hack-CVE/CVE-2012-6704)",
+      "description": "The sock_setsockopt function in net/core/sock.c in the Linux kernel before 3.5 mishandles negative values of sk_sndbuf and sk_rcvbuf, which allows local users to cause a denial of service (memory corruption and system crash) or possibly have unspecified other impact by leveraging the CAP_NET_ADMIN capability for a craf CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:07Z"
+    },
+    {
+      "cve_id": "CVE-2012-6703",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-6703](https://github.com/Live-Hack-CVE/CVE-2012-6703)",
+      "description": "Integer overflow in the snd_compr_allocate_buffer function in sound/core/compress_offload.c in the ALSA subsystem in the Linux kernel before 3.6-rc6-next-20120917 allows local users to cause a denial of service (insufficient memory allocation) or possibly have unspecified other impact via a crafted SNDRV_COMPRESS_SET_P CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:40:03Z"
+    },
+    {
+      "cve_id": "CVE-2012-6701",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-6701](https://github.com/Live-Hack-CVE/CVE-2012-6701)",
+      "description": "Integer overflow in fs/aio.c in the Linux kernel before 3.4.1 allows local users to cause a denial of service or possibly have unspecified other impact via a large AIO iovec. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:58Z"
+    },
+    {
+      "cve_id": "CVE-2012-6638",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-6638](https://github.com/Live-Hack-CVE/CVE-2012-6638)",
+      "description": "The tcp_rcv_state_process function in net/ipv4/tcp_input.c in the Linux kernel before 3.2.24 allows remote attackers to cause a denial of service (kernel resource consumption) via a flood of SYN+FIN TCP packets, a different vulnerability than CVE-2012-2663. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:49Z"
+    },
+    {
+      "cve_id": "CVE-2012-3400",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-3400](https://github.com/Live-Hack-CVE/CVE-2012-3400)",
+      "description": "Heap-based buffer overflow in the udf_load_logicalvol function in fs/udf/super.c in the Linux kernel before 3.4.5 allows remote attackers to cause a denial of service (system crash) or possibly have unspecified other impact via a crafted UDF filesystem. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T23:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2010-10008",
+      "repo_info": "[Live-Hack-CVE/CVE-2010-10008](https://github.com/Live-Hack-CVE/CVE-2010-10008)",
+      "description": "** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in simplesamlphp simplesamlphp-module-openidprovider up to 0.8.x. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file templates/trust.tpl.php. The manipulation of the argumen CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T11:31:45Z"
+    },
+    {
+      "cve_id": "CVE-2006-20001",
+      "repo_info": "[Live-Hack-CVE/CVE-2006-20001](https://github.com/Live-Hack-CVE/CVE-2006-20001)",
+      "description": "A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier. CVE project by @Sn0wAlice",
+      "date": "2023-01-17",
+      "raw_date": "2023-01-17T21:26:19Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.224558",
+  "metadata": {
+    "total_cves": 104,
+    "date_range": "2023-01-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

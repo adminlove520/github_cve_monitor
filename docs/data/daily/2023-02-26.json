@@ -1,0 +1,69 @@
+{
+  "date": "2023-02-26",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-26984",
+      "repo_info": "[bypazs/CVE-2023-26984](https://github.com/bypazs/CVE-2023-26984)",
+      "description": "An issue in the password reset function of Peppermint v0.2.4 allows attackers to access the emails and passwords of the Tickets page via a crafted request.",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T16:45:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-24749",
+      "repo_info": "[mahaloz/netgear-pwnagent](https://github.com/mahaloz/netgear-pwnagent)",
+      "description": "An exploit PoC for CVE-2023-24749, aka PwnAgent",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T00:16:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-0669",
+      "repo_info": "[yosef0x01/CVE-2023-0669-Analysis](https://github.com/yosef0x01/CVE-2023-0669-Analysis)",
+      "description": "no description",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T02:33:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-0669",
+      "repo_info": "[trhacknon/CVE-2023-0669-bis](https://github.com/trhacknon/CVE-2023-0669-bis)",
+      "description": "no description",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T20:22:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[M507/nmap-vulnerability-scan-scripts](https://github.com/M507/nmap-vulnerability-scan-scripts)",
+      "description": "nmap detection scripts for CVE-2022-45477, CVE-2022-45479, CVE-2022-45482, CVE-2022-45481",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T23:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-39952",
+      "repo_info": "[Chocapikk/CVE-2022-39952](https://github.com/Chocapikk/CVE-2022-39952)",
+      "description": "PoC for CVE-2022-39952 affecting Fortinet FortiNAC.",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T18:10:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[orsuprasad/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/orsuprasad/CVE-2022-0847-DirtyPipe-Exploits)",
+      "description": "no description",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T07:08:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[n3rada/zero-effort](https://github.com/n3rada/zero-effort)",
+      "description": "Exploiting CVE-2020-1472 vulnerability (a.k.a Zerologon) without effort.",
+      "date": "2023-02-26",
+      "raw_date": "2023-02-26T11:49:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.254018",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-02-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

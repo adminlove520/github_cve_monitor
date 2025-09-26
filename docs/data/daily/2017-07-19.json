@@ -1,0 +1,27 @@
+{
+  "date": "2017-07-19",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7529",
+      "repo_info": "[liusec/CVE-2017-7529](https://github.com/liusec/CVE-2017-7529)",
+      "description": "no description",
+      "date": "2017-07-19",
+      "raw_date": "2017-07-19T09:55:42Z"
+    },
+    {
+      "cve_id": "CVE-2014-9322",
+      "repo_info": "[RKX1209/CVE-2014-9322](https://github.com/RKX1209/CVE-2014-9322)",
+      "description": "CVE-2014-9322 (a.k.a BadIRET) proof of concept for Linux",
+      "date": "2017-07-19",
+      "raw_date": "2017-07-19T10:06:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.951829",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-07-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

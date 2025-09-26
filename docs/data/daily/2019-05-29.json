@@ -1,0 +1,27 @@
+{
+  "date": "2019-05-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-9367",
+      "repo_info": "[Ekultek/BlueKeep](https://github.com/Ekultek/BlueKeep)",
+      "description": "Proof of concept for CVE-2019-0708",
+      "date": "2019-05-29",
+      "raw_date": "2019-05-29T16:53:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-2725",
+      "repo_info": "[lufeirider/CVE-2019-2725](https://github.com/lufeirider/CVE-2019-2725)",
+      "description": "CVE-2019-2725 命令回显",
+      "date": "2019-05-29",
+      "raw_date": "2019-05-29T01:57:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.016610",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-05-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

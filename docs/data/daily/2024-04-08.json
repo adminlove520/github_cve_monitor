@@ -1,0 +1,146 @@
+{
+  "date": "2024-04-08",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6666",
+      "repo_info": "[JohnnyBradvo/CVE-2024-6666](https://github.com/JohnnyBradvo/CVE-2024-6666)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T12:52:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-5555",
+      "repo_info": "[JohnnyBradvo/CVE-2024-5555](https://github.com/JohnnyBradvo/CVE-2024-5555)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T12:50:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-4444",
+      "repo_info": "[JohnnyBradvo/CVE-2024-4444](https://github.com/JohnnyBradvo/CVE-2024-4444)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T12:35:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-3333",
+      "repo_info": "[JohnnyBradvo/CVE-2024-3333](https://github.com/JohnnyBradvo/CVE-2024-3333)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T12:34:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-31345",
+      "repo_info": "[Chokopikkk/CVE-2024-31345_exploit](https://github.com/Chokopikkk/CVE-2024-31345_exploit)",
+      "description": "CVE-2024-31345: WordPress Auto Poster plugin &lt;= 1.2 - Arbitrary File Upload vulnerability",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T08:01:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-31286",
+      "repo_info": "[Auggustino/CVE-2024-31286-Wordpress-Exploit](https://github.com/Auggustino/CVE-2024-31286-Wordpress-Exploit)",
+      "description": "CVE-2024-31286: WordPress WP Photo Album Plus plugin &lt; 8.6.03.005 - Arbitrary File Upload vulnerability",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T10:12:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-31233",
+      "repo_info": "[JohnNetSouldRU/CVE-2024-31233-POC](https://github.com/JohnNetSouldRU/CVE-2024-31233-POC)",
+      "description": "Exploit CVE-2024-31233 for the Sizam Rehub WordPress Theme",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T10:19:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-29399",
+      "repo_info": "[ally-petitt/CVE-2024-29399](https://github.com/ally-petitt/CVE-2024-29399)",
+      "description": "CVE-2024-29399 reference",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T23:03:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-2879",
+      "repo_info": "[herculeszxc/CVE-2024-2879](https://github.com/herculeszxc/CVE-2024-2879)",
+      "description": "CVE-2024-2879 - LayerSlider 7.9.11 - 7.10.0 - Unauthenticated SQL Injection",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T18:50:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-2879",
+      "repo_info": "[Yashodhanvivek/Firebolt-wristphone-vulnerability](https://github.com/Yashodhanvivek/Firebolt-wristphone-vulnerability)",
+      "description": "This repository is for Firebolt wristphone vulnerability for CVE ID CVE-2024-30656 suggested by MITRE",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T17:05:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-2222",
+      "repo_info": "[JohnnyBradvo/CVE-2024-2222](https://github.com/JohnnyBradvo/CVE-2024-2222)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T12:45:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-21894",
+      "repo_info": "[RansomGroupCVE/CVE-2024-21894-POC](https://github.com/RansomGroupCVE/CVE-2024-21894-POC)",
+      "description": "Exploit CVE-2024-21894 for Vulnerable Ivanti Connect Secure and Policy Secure Gateways POC",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T16:50:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-21894",
+      "repo_info": "[LearningOS/rust-rustlings-2024-spring-ChenCveral](https://github.com/LearningOS/rust-rustlings-2024-spring-ChenCveral)",
+      "description": "rust-rustlings-2024-spring-ChenCveral created by GitHub Classroom",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T08:09:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-21894",
+      "repo_info": "[nickswink/D-Link-NAS-Devices-Unauthenticated-RCE](https://github.com/nickswink/D-Link-NAS-Devices-Unauthenticated-RCE)",
+      "description": "UNTESTED exploit script for CVE-2024-3272 + CVE-2024-3273. The script exploits a backdoor authentication bypass + arbitrary command injection vulnerability.",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T13:54:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK](https://github.com/AlexLondan/CVE-2024-21762-Fortinet-RCE-ALLWORK)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T13:30:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-21426",
+      "repo_info": "[JohnnyBradvo/CVE-2024-21426-SharePoint-RCE](https://github.com/JohnnyBradvo/CVE-2024-21426-SharePoint-RCE)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T13:30:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-21410",
+      "repo_info": "[JohnBordon/CVE-2024-21410-poc](https://github.com/JohnBordon/CVE-2024-21410-poc)",
+      "description": "Privilege Escalation in Microsoft Exchange 2019",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T10:54:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-21306",
+      "repo_info": "[d4rks1d33/C-PoC-for-CVE-2024-21306](https://github.com/d4rks1d33/C-PoC-for-CVE-2024-21306)",
+      "description": "no description",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T01:15:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-12641",
+      "repo_info": "[mbadanoiu/CVE-2020-12641](https://github.com/mbadanoiu/CVE-2020-12641)",
+      "description": "CVE-2020-12641: Command Injection via “_im_convert_path” Parameter in Roundcube Webmail",
+      "date": "2024-04-08",
+      "raw_date": "2024-04-08T19:48:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.318541",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2024-04-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

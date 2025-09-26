@@ -1,0 +1,76 @@
+{
+  "date": "2023-04-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-26866",
+      "repo_info": "[lionelmusonza/CVE-2023-26866](https://github.com/lionelmusonza/CVE-2023-26866)",
+      "description": "no description",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T21:19:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-21036",
+      "repo_info": "[lordofpipes/acropadetect](https://github.com/lordofpipes/acropadetect)",
+      "description": "Web tool for detecting Acropalypse (CVE-2023-21036)",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T00:08:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[devAL3X/CVE-2022-46169_poc](https://github.com/devAL3X/CVE-2022-46169_poc)",
+      "description": "no description",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T22:37:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[m3ssap0/cacti-rce-cve-2022-46169-vulnerable-application](https://github.com/m3ssap0/cacti-rce-cve-2022-46169-vulnerable-application)",
+      "description": "WARNING: This is a vulnerable application to test the exploit for the Cacti command injection (CVE-2022-46169). Run it at your own risk!",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T19:20:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-3552",
+      "repo_info": "[kabir0x23/CVE-2022-3552](https://github.com/kabir0x23/CVE-2022-3552)",
+      "description": "BoxBilling&lt;=4.22.1.5 - Remote Code Execution (RCE)",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T11:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-25012",
+      "repo_info": "[s3l33/CVE-2022-25012](https://github.com/s3l33/CVE-2022-25012)",
+      "description": "Updated version of this weak password encryption script",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T04:21:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-1227",
+      "repo_info": "[iridium-soda/CVE-2022-1227_Exploit](https://github.com/iridium-soda/CVE-2022-1227_Exploit)",
+      "description": "A script for exploiting CVE-2022-1227",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T07:28:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-22911",
+      "repo_info": "[ChrisPritchard/CVE-2021-22911-rust](https://github.com/ChrisPritchard/CVE-2021-22911-rust)",
+      "description": "no description",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T07:19:54Z"
+    },
+    {
+      "cve_id": "CVE-2010-4180",
+      "repo_info": "[protonnegativo/CVE-2010-4180-by-ChatGPT](https://github.com/protonnegativo/CVE-2010-4180-by-ChatGPT)",
+      "description": "no description",
+      "date": "2023-04-01",
+      "raw_date": "2023-04-01T13:19:14Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.259106",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-04-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

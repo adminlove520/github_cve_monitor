@@ -1,0 +1,20 @@
+{
+  "date": "2018-08-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[trimstray/massh-enum](https://github.com/trimstray/massh-enum)",
+      "description": "OpenSSH 2.3 up to 7.4 Mass Username Enumeration (CVE-2018-15473).",
+      "date": "2018-08-17",
+      "raw_date": "2018-08-17T23:48:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.988526",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-08-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

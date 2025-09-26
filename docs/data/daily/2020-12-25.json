@@ -1,0 +1,41 @@
+{
+  "date": "2020-12-25",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9470",
+      "repo_info": "[Al1ex/CVE-2020-9470](https://github.com/Al1ex/CVE-2020-9470)",
+      "description": "Wing FTP Server 6.2.5 - Privilege Escalation",
+      "date": "2020-12-25",
+      "raw_date": "2020-12-25T01:53:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-8635",
+      "repo_info": "[Al1ex/CVE-2020-8635](https://github.com/Al1ex/CVE-2020-8635)",
+      "description": "Wing FTP Server 6.2.3 - Privilege Escalation",
+      "date": "2020-12-25",
+      "raw_date": "2020-12-25T01:15:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-8165",
+      "repo_info": "[taipansec/CVE-2020-8165](https://github.com/taipansec/CVE-2020-8165)",
+      "description": "no description",
+      "date": "2020-12-25",
+      "raw_date": "2020-12-25T20:07:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-11652",
+      "repo_info": "[Al1ex/CVE-2020-11652](https://github.com/Al1ex/CVE-2020-11652)",
+      "description": "CVE-2020-11652 &amp; CVE-2020-11651",
+      "date": "2020-12-25",
+      "raw_date": "2020-12-25T02:58:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.075047",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-12-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

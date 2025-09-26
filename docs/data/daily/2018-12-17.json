@@ -1,0 +1,34 @@
+{
+  "date": "2018-12-17",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8120",
+      "repo_info": "[Ekultek/PoC](https://github.com/Ekultek/PoC)",
+      "description": "Leveraging CVE-2018-19788 without root shells",
+      "date": "2018-12-17",
+      "raw_date": "2018-12-17T19:26:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-4242",
+      "repo_info": "[gdraperi/remote-bitlocker-encryption-report](https://github.com/gdraperi/remote-bitlocker-encryption-report)",
+      "description": "PowerShell script to mitigate CVE-2018-12038. The script takes a list of PC as input, gets their BitLocker encryption type remotely, and outputs a report as a CSV file",
+      "date": "2018-12-17",
+      "raw_date": "2018-12-17T16:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-1270",
+      "repo_info": "[Venscor/CVE-2018-1270](https://github.com/Venscor/CVE-2018-1270)",
+      "description": "CVE-2018-1270 表达式RCE环境",
+      "date": "2018-12-17",
+      "raw_date": "2018-12-17T02:22:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.001041",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-12-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

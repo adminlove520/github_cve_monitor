@@ -1,0 +1,62 @@
+{
+  "date": "2024-03-10",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-26475",
+      "repo_info": "[TronciuVlad/CVE-2024-26475](https://github.com/TronciuVlad/CVE-2024-26475)",
+      "description": "An issue in radareorg radare2 v.0.9.7 through v.5.8.6 and fixed in v.5.8.8 allows a local attacker to cause a denial of service via the grub_sfs_read_extent function.",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T22:51:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[labesterOct/CVE-2024-23113](https://github.com/labesterOct/CVE-2024-23113)",
+      "description": "CVE-2024-23113 Exploit with More than 20000 Targets",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T07:34:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[foxymoxxy/CVE-2024-23113-POC](https://github.com/foxymoxxy/CVE-2024-23113-POC)",
+      "description": "CVE-2024-23113 FortiOS SSL VPN RCE",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T06:56:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-20337",
+      "repo_info": "[swagcraftedd/CVE-2024-20337-POC](https://github.com/swagcraftedd/CVE-2024-20337-POC)",
+      "description": "CVE-2024-20337 POC Cisco Secure Client CRLF RCE and unauthorized remote access to VPN sessions",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T06:13:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-6000",
+      "repo_info": "[rxerium/CVE-2023-6000](https://github.com/rxerium/CVE-2023-6000)",
+      "description": "The Popup Builder WordPress plugin before 4.2.3 does not prevent simple visitors from updating existing popups, and injecting raw JavaScript in them, which could lead to Stored XSS attacks.",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T16:20:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-0266",
+      "repo_info": "[SeanHeelan/claude_opus_cve_2023_0266](https://github.com/SeanHeelan/claude_opus_cve_2023_0266)",
+      "description": "Demo showing Claude Opus does not find CVE-2023-0266",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T04:41:34Z"
+    },
+    {
+      "cve_id": "CVE-2017-15428",
+      "repo_info": "[Michelangelo-S/CVE-2017-15428](https://github.com/Michelangelo-S/CVE-2017-15428)",
+      "description": "An exploit for CVE-2017-15428",
+      "date": "2024-03-10",
+      "raw_date": "2024-03-10T14:53:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.313036",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-03-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

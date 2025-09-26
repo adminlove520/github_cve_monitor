@@ -1,0 +1,41 @@
+{
+  "date": "2022-03-22",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-24181",
+      "repo_info": "[cyberhawk000/CVE-2022-24181](https://github.com/cyberhawk000/CVE-2022-24181)",
+      "description": "XSS via Host Header injection and Steal  Password Reset Token of another user",
+      "date": "2022-03-22",
+      "raw_date": "2022-03-22T08:06:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[tmoneypenny/CVE-2022-0847](https://github.com/tmoneypenny/CVE-2022-0847)",
+      "description": "Poc",
+      "date": "2022-03-22",
+      "raw_date": "2022-03-22T03:17:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-0824",
+      "repo_info": "[honypot/CVE-2022-0824](https://github.com/honypot/CVE-2022-0824)",
+      "description": "Deployement of Webmin version 1.984 which is vulnerable to authenticated remote code execution exploit.",
+      "date": "2022-03-22",
+      "raw_date": "2022-03-22T03:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-43530",
+      "repo_info": "[hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-](https://github.com/hfh86/CVE-2021-43530-UXSS-On-QRcode-Reader-)",
+      "description": "CVE-2021-43530 A Universal XSS vulnerability was present in Firefox for Android resulting from improper sanitization when processing a URL scanned from a QR code. *This bug only affects Firefox for Android. Other operating systems are unaffected.*. This vulnerability affects Firefox < 94.",
+      "date": "2022-03-22",
+      "raw_date": "2022-03-22T07:07:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.123957",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-03-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

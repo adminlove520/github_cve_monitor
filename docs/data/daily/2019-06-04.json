@@ -1,0 +1,20 @@
+{
+  "date": "2019-06-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-7547",
+      "repo_info": "[miracle03/CVE-2015-7547-master](https://github.com/miracle03/CVE-2015-7547-master)",
+      "description": "loudong",
+      "date": "2019-06-04",
+      "raw_date": "2019-06-04T03:24:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.017131",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-06-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

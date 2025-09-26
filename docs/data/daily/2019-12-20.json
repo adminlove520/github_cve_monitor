@@ -1,0 +1,20 @@
+{
+  "date": "2019-12-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-16778",
+      "repo_info": "[breaktoprotect/CVE-2017-16778-Intercom-DTMF-Injection](https://github.com/breaktoprotect/CVE-2017-16778-Intercom-DTMF-Injection)",
+      "description": "A coordinated disclosure and security advisory on Fermax Intercom DTML Injection vulneraiblity. Special thanks to Fermax International for prompt responses and allowing details to be publicized.",
+      "date": "2019-12-20",
+      "raw_date": "2019-12-20T07:20:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.035855",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-12-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

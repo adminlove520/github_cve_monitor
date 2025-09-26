@@ -1,0 +1,55 @@
+{
+  "date": "2024-02-11",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-22867",
+      "repo_info": "[brandon-t-elliott/CVE-2024-22867](https://github.com/brandon-t-elliott/CVE-2024-22867)",
+      "description": "no description",
+      "date": "2024-02-11",
+      "raw_date": "2024-02-11T01:52:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[vidura2/cve-2023-46747](https://github.com/vidura2/cve-2023-46747)",
+      "description": "no description",
+      "date": "2024-02-11",
+      "raw_date": "2024-02-11T14:38:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Boogipop/CVE-2023-22527-Godzilla-MEMSHELL](https://github.com/Boogipop/CVE-2023-22527-Godzilla-MEMSHELL)",
+      "description": "CVE-2023-22527 内存马注入工具",
+      "date": "2024-02-11",
+      "raw_date": "2024-02-11T16:46:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-4262",
+      "repo_info": "[quangnh89/CVE-2022-4262](https://github.com/quangnh89/CVE-2022-4262)",
+      "description": "no description",
+      "date": "2024-02-11",
+      "raw_date": "2024-02-11T18:53:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[CRFSlick/CVE-2019-11447-POC](https://github.com/CRFSlick/CVE-2019-11447-POC)",
+      "description": "CuteNews 2.1.2 - CVE-2019-11447 Proof-Of-Concept",
+      "date": "2024-02-11",
+      "raw_date": "2024-02-11T21:36:58Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[hackintoanetwork/shellshock](https://github.com/hackintoanetwork/shellshock)",
+      "description": "Python3 Shellshock (CVE-2014-6271) Scanner",
+      "date": "2024-02-11",
+      "raw_date": "2024-02-11T09:29:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.308664",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2024-02-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2011-07-31",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2011-3026",
+      "repo_info": "[jan0/isslfix](https://github.com/jan0/isslfix)",
+      "description": "CVE-2011-0228 fix for older idevices/firmwares",
+      "date": "2011-07-31",
+      "raw_date": "2011-07-31T18:29:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.761983",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2011-07-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

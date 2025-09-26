@@ -1,0 +1,20 @@
+{
+  "date": "2015-02-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2010-4258",
+      "repo_info": "[johnreginald/CVE-2010-4258](https://github.com/johnreginald/CVE-2010-4258)",
+      "description": "Exploit based on a faulty clone(2) implementation in Linux < 2.6.36.2 that allows overwrite of arbitrary kernel word with NULL. Research and personal-security use only. Not malicious.",
+      "date": "2015-02-17",
+      "raw_date": "2015-02-17T01:12:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.873470",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-02-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2021-09-22",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[j4k0m/CVE-2018-6574](https://github.com/j4k0m/CVE-2018-6574)",
+      "description": "Remote command execution in Golang go get command allows an attacker to gain code execution on a system by installing a malicious library.",
+      "date": "2021-09-22",
+      "raw_date": "2021-09-22T12:13:52Z"
+    },
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[NeKroFR/CVE-2018-16763](https://github.com/NeKroFR/CVE-2018-16763)",
+      "description": "CVE-2018-16763  but without errors",
+      "date": "2021-09-22",
+      "raw_date": "2021-09-22T07:02:52Z"
+    },
+    {
+      "cve_id": "CVE-2018-11235",
+      "repo_info": "[j4k0m/CVE-2018-11235](https://github.com/j4k0m/CVE-2018-11235)",
+      "description": "Auto malicious git repository creation to exploit CVE-2018-11235 a Remote Code Execution using Git Sub module.",
+      "date": "2021-09-22",
+      "raw_date": "2021-09-22T21:15:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.103957",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-09-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2021-02-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-3122",
+      "repo_info": "[acquiredsecurity/CVE-2021-3122-Details](https://github.com/acquiredsecurity/CVE-2021-3122-Details)",
+      "description": "no description",
+      "date": "2021-02-07",
+      "raw_date": "2021-02-07T16:05:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-7384",
+      "repo_info": "[nikhil1232/CVE-2020-7384](https://github.com/nikhil1232/CVE-2020-7384)",
+      "description": "CVE-2020-7384",
+      "date": "2021-02-07",
+      "raw_date": "2021-02-07T16:00:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-27930",
+      "repo_info": "[FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930](https://github.com/FunPhishing/Apple-Safari-Remote-Code-Execution-CVE-2020-27930)",
+      "description": "Apple Safari Remote Code Execution",
+      "date": "2021-02-07",
+      "raw_date": "2021-02-07T11:28:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.079949",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-02-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

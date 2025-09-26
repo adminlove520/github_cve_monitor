@@ -1,0 +1,48 @@
+{
+  "date": "2023-06-19",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[arunsnap/CVE-2023-30212-POC](https://github.com/arunsnap/CVE-2023-30212-POC)",
+      "description": "no description",
+      "date": "2023-06-19",
+      "raw_date": "2023-06-19T16:30:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-29325",
+      "repo_info": "[a-bazi/test2-CVE-2023-29325](https://github.com/a-bazi/test2-CVE-2023-29325)",
+      "description": "no description",
+      "date": "2023-06-19",
+      "raw_date": "2023-06-19T12:57:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-2833",
+      "repo_info": "[Alucard0x1/CVE-2023-2833](https://github.com/Alucard0x1/CVE-2023-2833)",
+      "description": "Mass Exploit Privileges Authentication (Subscriber to Administrator) - Wordpress Plugin ReviewX",
+      "date": "2023-06-19",
+      "raw_date": "2023-06-19T22:10:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-27372",
+      "repo_info": "[nuts7/CVE-2023-27372](https://github.com/nuts7/CVE-2023-27372)",
+      "description": "SPIP before 4.2.1 allows Remote Code Execution via form values in the public area because serialization is mishandled. The fixed versions are 3.2.18, 4.0.10, 4.1.8, and 4.2.1.",
+      "date": "2023-06-19",
+      "raw_date": "2023-06-19T14:36:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-22911",
+      "repo_info": "[overgrowncarrot1/CVE-2021-22911](https://github.com/overgrowncarrot1/CVE-2021-22911)",
+      "description": "no description",
+      "date": "2023-06-19",
+      "raw_date": "2023-06-19T23:56:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.270884",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-06-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

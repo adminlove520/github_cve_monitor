@@ -1,0 +1,139 @@
+{
+  "date": "2024-08-09",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6782",
+      "repo_info": "[jdpsl/CVE-2024-6782](https://github.com/jdpsl/CVE-2024-6782)",
+      "description": "Improper access control in Calibre 6.9.0 ~ 7.14.0 allow unauthenticated attackers to achieve remote code execution.",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T06:25:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-38856",
+      "repo_info": "[codeb0ss/CVE-2024-38856-PoC](https://github.com/codeb0ss/CVE-2024-38856-PoC)",
+      "description": "Mass Exploit - CVE-2024-38856 [Remote Code Execution]",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T11:26:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[CloudCrowSec001/CVE-2024-38077-POC](https://github.com/CloudCrowSec001/CVE-2024-38077-POC)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T01:18:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[psl-b/CVE-2024-38077-check](https://github.com/psl-b/CVE-2024-38077-check)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T22:01:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[qi4L/CVE-2024-38077](https://github.com/qi4L/CVE-2024-38077)",
+      "description": "RDL的堆溢出导致的RCE",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T05:00:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[Sec-Link/CVE-2024-38077](https://github.com/Sec-Link/CVE-2024-38077)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T07:37:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[Wlibang/CVE-2024-38077](https://github.com/Wlibang/CVE-2024-38077)",
+      "description": "CVE-2024-38077，本仓库仅用作备份，",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T07:46:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[SecStarBot/CVE-2024-38077-POC](https://github.com/SecStarBot/CVE-2024-38077-POC)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T01:24:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-36877",
+      "repo_info": "[jjensn/CVE-2024-36877](https://github.com/jjensn/CVE-2024-36877)",
+      "description": "Exploit POC for CVE-2024-36877",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T15:33:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-22120",
+      "repo_info": "[g4nkd/CVE-2024-22120-RCE-with-gopher](https://github.com/g4nkd/CVE-2024-22120-RCE-with-gopher)",
+      "description": "This is my exploit for CVE-2024-22120, which involves an SSRF vulnerability inside an XXE with a Gopher payload.",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T21:21:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-0030",
+      "repo_info": "[uthrasri/system_bt_CVE-2024-0030](https://github.com/uthrasri/system_bt_CVE-2024-0030)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T08:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-0030",
+      "repo_info": "[murphysecurity/RDL-detect](https://github.com/murphysecurity/RDL-detect)",
+      "description": "远程探测 remote desktop licensing 服务开放情况，用于 CVE-2024-38077 漏洞快速排查",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T07:45:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-27216",
+      "repo_info": "[HoangREALER/CVE-2023-27216](https://github.com/HoangREALER/CVE-2023-27216)",
+      "description": "Newbie&#x27;s approach to firmware hacking",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T10:05:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-46080",
+      "repo_info": "[geniuszlyy/CVE-2022-46080](https://github.com/geniuszlyy/CVE-2022-46080)",
+      "description": "it is script that enables Telnet on routers by sending a specially crafted request. The script allows users to specify the router&#x27;s URL, Telnet port, and password. It validates the inputs and logs the process, providing feedback on whether the exploit was successful.",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T19:32:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-45701",
+      "repo_info": "[geniuszlyy/CVE-2022-45701](https://github.com/geniuszlyy/CVE-2022-45701)",
+      "description": "it is script designed to exploit certain vulnerabilities in routers by sending payloads through SNMP (Simple Network Management Protocol). The script automates the process of authorization, payload generation, and execution, allowing for remote command execution on the target device.",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T19:30:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-44149",
+      "repo_info": "[geniuszlyy/CVE-2022-44149](https://github.com/geniuszlyy/CVE-2022-44149)",
+      "description": "it is script designed to interact with a router by sending a payload to its system tools. The script retrieves the router&#x27;s configuration from environment variables to ensure security. It includes functions for generating an authorization header, sending a payload, and logging the process.",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T19:27:22Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[jtoalu/CTF-CVE-2019-9053-GTFOBins](https://github.com/jtoalu/CTF-CVE-2019-9053-GTFOBins)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T19:20:02Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[elliotosama/CVE-2012-2982](https://github.com/elliotosama/CVE-2012-2982)",
+      "description": "no description",
+      "date": "2024-08-09",
+      "raw_date": "2024-08-09T16:18:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.341176",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2024-08-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

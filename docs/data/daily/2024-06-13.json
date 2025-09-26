@@ -1,0 +1,132 @@
+{
+  "date": "2024-06-13",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-5633",
+      "repo_info": "[0XJ175/DRive](https://github.com/0XJ175/DRive)",
+      "description": "A PoC malware exploiting CVE-2024-26229",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T01:24:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[Sh0ckFR/CVE-2024-4577](https://github.com/Sh0ckFR/CVE-2024-4577)",
+      "description": "Fixed and minimalist PoC of the CVE-2024-4577",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T14:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[hexedbyte/cve-2024-4577](https://github.com/hexedbyte/cve-2024-4577)",
+      "description": "no description",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T11:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[Zombie-Kaiser/cve-2024-4367-PoC-fixed](https://github.com/Zombie-Kaiser/cve-2024-4367-PoC-fixed)",
+      "description": "PDF.js是由Mozilla维护的基于JavaScript的PDF查看器。此漏洞允许攻击者在打开恶意 PDF 文件后立即执行任意 JavaScript 代码。这会影响所有 Firefox 用户 （&lt;126），因为 Firefox 使用 PDF.js 来显示 PDF 文件，但也严重影响了许多基于 Web 和 Electron 的应用程序，这些应用程序（间接）使用 PDF.js 进行预览功能。",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T15:14:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-37051",
+      "repo_info": "[mrblackstar26/CVE-2024-37051](https://github.com/mrblackstar26/CVE-2024-37051)",
+      "description": "Users of JetBrains IDEs at risk of GitHub access token compromise (CVE-2024-37051)",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T09:15:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-31210",
+      "repo_info": "[Abo5/CVE-2024-31210](https://github.com/Abo5/CVE-2024-31210)",
+      "description": "This Ruby script checks if a given WordPress site is vulnerable to CVE-2024-31210, which allows administrator-level users on single-site installations and Super Admin-level users on Multisite installations to execute arbitrary PHP code via the plugin upload mechanism.",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T00:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-29855",
+      "repo_info": "[sinsinology/CVE-2024-29855](https://github.com/sinsinology/CVE-2024-29855)",
+      "description": "PoC for the Veeam Recovery Orchestrator Authentication CVE-2024-29855",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T08:32:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-28995",
+      "repo_info": "[karkis3c/cves](https://github.com/karkis3c/cves)",
+      "description": "SolarWinds Serv-U Directory Traversal Vulnerability (CVE-2024-28995) POC",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T12:02:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[TadashiJei/Valve-Press-CVE-2024-27956-RCE](https://github.com/TadashiJei/Valve-Press-CVE-2024-27956-RCE)",
+      "description": "Valve Press - CVE-2024-27956-RCE - SQL Injection",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T02:05:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-24590",
+      "repo_info": "[xffsec/CVE-2024-24590-ClearML-RCE-Exploit](https://github.com/xffsec/CVE-2024-24590-ClearML-RCE-Exploit)",
+      "description": "no description",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T22:17:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[WanLiChangChengWanLiChang/CVE-2024-23692-RCE](https://github.com/WanLiChangChengWanLiChang/CVE-2024-23692-RCE)",
+      "description": "no description",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T13:13:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[vanboomqi/CVE-2024-23692](https://github.com/vanboomqi/CVE-2024-23692)",
+      "description": "no description",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T09:12:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS](https://github.com/jakabakos/CVE-2024-23692-RCE-in-Rejetto-HFS)",
+      "description": "Unauthenticated RCE Flaw in Rejetto HTTP File Server (CVE-2024-23692)",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T06:00:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-4596",
+      "repo_info": "[RHYru9/CVE-2023-4596-checker](https://github.com/RHYru9/CVE-2023-4596-checker)",
+      "description": "no description",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T10:41:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-1026",
+      "repo_info": "[r0lh/kygocera](https://github.com/r0lh/kygocera)",
+      "description": "Improved Golang Version of Rapid7 PoC for CVE-2022-1026",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T09:40:02Z"
+    },
+    {
+      "cve_id": "CVE-2020-0014",
+      "repo_info": "[ASIFASSU/CVE-2020-0014](https://github.com/ASIFASSU/CVE-2020-0014)",
+      "description": "Type Toast vulnerability",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T06:28:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[yZ1337/CVE-2018-15473](https://github.com/yZ1337/CVE-2018-15473)",
+      "description": "Fix for CVE-2018-15473",
+      "date": "2024-06-13",
+      "raw_date": "2024-06-13T09:55:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.330712",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2024-06-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2021-04-22",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-21972",
+      "repo_info": "[pettyhacks/vSphereyeeter](https://github.com/pettyhacks/vSphereyeeter)",
+      "description": "POC exploit for CVE-2021-21972",
+      "date": "2021-04-22",
+      "raw_date": "2021-04-22T14:00:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[X0UCYB3R/Check-WP-CVE-2020-35489](https://github.com/X0UCYB3R/Check-WP-CVE-2020-35489)",
+      "description": "no description",
+      "date": "2021-04-22",
+      "raw_date": "2021-04-22T05:17:16Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[itssmikefm/CVE-2020-1472](https://github.com/itssmikefm/CVE-2020-1472)",
+      "description": "no description",
+      "date": "2021-04-22",
+      "raw_date": "2021-04-22T18:51:09Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[Gh0st0ne/weaponized-0604](https://github.com/Gh0st0ne/weaponized-0604)",
+      "description": "Automated tool to exploit sharepoint CVE-2019-0604",
+      "date": "2021-04-22",
+      "raw_date": "2021-04-22T12:11:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.088170",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-04-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

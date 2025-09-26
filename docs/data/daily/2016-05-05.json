@@ -1,0 +1,34 @@
+{
+  "date": "2016-05-05",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3714",
+      "repo_info": "[jpeanut/ImageTragick-CVE-2016-3714-RShell](https://github.com/jpeanut/ImageTragick-CVE-2016-3714-RShell)",
+      "description": "no description",
+      "date": "2016-05-05",
+      "raw_date": "2016-05-05T18:16:52Z"
+    },
+    {
+      "cve_id": "CVE-2016-3714",
+      "repo_info": "[chusiang/CVE-2016-3714.ansible.role](https://github.com/chusiang/CVE-2016-3714.ansible.role)",
+      "description": "Fix ImageMagick Command Injection (CVE-2016-3714) with Ansible.",
+      "date": "2016-05-05",
+      "raw_date": "2016-05-05T11:05:20Z"
+    },
+    {
+      "cve_id": "CVE-2008-6970",
+      "repo_info": "[KyomaHooin/CVE-2008-6970](https://github.com/KyomaHooin/CVE-2008-6970)",
+      "description": "Blind SQL injection brute force.",
+      "date": "2016-05-05",
+      "raw_date": "2016-05-05T14:13:33Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.912358",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2016-05-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

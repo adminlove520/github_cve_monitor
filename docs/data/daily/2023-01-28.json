@@ -1,0 +1,300 @@
+{
+  "date": "2023-01-28",
+  "count": 41,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-23627",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23627](https://github.com/Live-Hack-CVE/CVE-2023-23627)",
+      "description": "Sanitize is an allowlist-based HTML and CSS sanitizer. Versions 5.0.0 and later, prior to 6.0.1, are vulnerable to Cross-site Scripting. When Sanitize is configured with a custom allowlist that allows `noscript` elements, attackers are able to include arbitrary HTML, resulting in XSS (cross-site scripting) or other und CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-23624",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23624](https://github.com/Live-Hack-CVE/CVE-2023-23624)",
+      "description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, someone can use the `exclude_tag param` to filter out topics and deduce which ones were using a specific hidden tag. This affects any Discourse site using hid CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-23621",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23621](https://github.com/Live-Hack-CVE/CVE-2023-23621)",
+      "description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and version 3.1.0.beta2 on the `beta` and `tests-passed` branches, a malicious user can cause a regular expression denial of service using a carefully crafted user agent. This issue is patched in version 3.0.1 on the `stable` CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-23620",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23620](https://github.com/Live-Hack-CVE/CVE-2023-23620)",
+      "description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, the contents of latest/top routes for restricted tags can be accessed by unauthorized users. This issue is patched in version 3.0.1 on the `stable` branch and 3.1.0.b CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-23617",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23617](https://github.com/Live-Hack-CVE/CVE-2023-23617)",
+      "description": "OpenMage LTS is an e-commerce platform. Versions prior to 19.4.22 and 20.0.19 contain an infinite loop in malicious code filter in certain conditions. Versions 19.4.22 and 20.0.19 have a fix for this issue. There are no known workarounds. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-23616",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23616](https://github.com/Live-Hack-CVE/CVE-2023-23616)",
+      "description": "Discourse is an open-source discussion platform. Prior to version 3.0.1 on the `stable` branch and 3.1.0.beta2 on the `beta` and `tests-passed` branches, when submitting a membership request, there is no character limit for the reason provided with the request. This could potentially allow a user to flood the database  CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-23014",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23014](https://github.com/Live-Hack-CVE/CVE-2023-23014)",
+      "description": "Cross Site Scripting (XSS) vulnerability in InventorySystem thru commit e08fbbe17902146313501ed0b5feba81d58f455c (on Apr 23, 2021) via edit_store_name and edit_active inputs in file InventorySystem.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-23012",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23012](https://github.com/Live-Hack-CVE/CVE-2023-23012)",
+      "description": "Cross Site Scripting (XSS) vulnerability in craigrodway classroombookings 2.6.4 allows attackers to execute arbitrary code or other unspecified impacts via the input bgcol in file Weeks.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-23010",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23010](https://github.com/Live-Hack-CVE/CVE-2023-23010)",
+      "description": "Cross Site Scripting (XSS) vulnerability in Ecommerce-CodeIgniter-Bootstrap thru commit d5904379ca55014c5df34c67deda982c73dc7fe5 (on Dec 27, 2022), allows attackers to execute arbitrary code via the languages and trans_load parameters in file add_product.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-22737",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22737](https://github.com/Live-Hack-CVE/CVE-2023-22737)",
+      "description": "wire-server provides back end services for Wire, a team communication and collaboration platform. Prior to version 2022-12-09, every member of a Conversation can remove a Bot from a Conversation due to a missing permissions check. Only Conversation admins should be able to remove Bots. Regular Conversations are not all CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-0561",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0561](https://github.com/Live-Hack-CVE/CVE-2023-0561)",
+      "description": "A vulnerability, which was classified as critical, was found in SourceCodester Online Tours &amp; Travels Management System 1.0. Affected is an unknown function of the file /user/s.php. The manipulation of the argument id leads to sql injection. It is possible to launch the attack remotely. The exploit has been disclosed t CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T19:42:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-0560",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0560](https://github.com/Live-Hack-CVE/CVE-2023-0560)",
+      "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Online Tours &amp; Travels Management System 1.0. This issue affects some unknown processing of the file admin/practice_pdf.php. The manipulation of the argument id leads to sql injection. The attack may be initiated remotely. The exploit h CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T19:42:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-0101",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0101](https://github.com/Live-Hack-CVE/CVE-2023-0101)",
+      "description": "A privilege escalation vulnerability was identified in Nessus versions 8.10.1 through 8.15.8 and 10.0.0 through 10.4.1. An authenticated attacker could potentially execute a specially crafted file to obtain root or NT AUTHORITY / SYSTEM privileges on the Nessus host. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-0047",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0047](https://github.com/Live-Hack-CVE/CVE-2023-0047)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was in a CNA pool that was not assigned to any issues during 2023. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-47015",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47015](https://github.com/Live-Hack-CVE/CVE-2022-47015)",
+      "description": "MariaDB Server before 10.3.34 thru 10.9.3 is vulnerable to Denial of Service. It is possible for function spider_db_mbase::print_warnings to dereference a null pointer. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-47012",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47012](https://github.com/Live-Hack-CVE/CVE-2022-47012)",
+      "description": "Use of uninitialized variable in function gen_eth_recv in GNS3 dynamips 0.2.21. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-45748",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45748](https://github.com/Live-Hack-CVE/CVE-2022-45748)",
+      "description": "An issue was discovered with assimp 5.1.4, a use after free occurred in function ColladaParser::ExtractDataObjectFromChannel in file /code/AssetLib/Collada/ColladaParser.cpp. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-42423",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42423](https://github.com/Live-Hack-CVE/CVE-2022-42423)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-42421",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42421](https://github.com/Live-Hack-CVE/CVE-2022-42421)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-42420",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42420](https://github.com/Live-Hack-CVE/CVE-2022-42420)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-42419",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42419](https://github.com/Live-Hack-CVE/CVE-2022-42419)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-42418",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42418](https://github.com/Live-Hack-CVE/CVE-2022-42418)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. The issue re CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-42417",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42417](https://github.com/Live-Hack-CVE/CVE-2022-42417)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-42416",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42416](https://github.com/Live-Hack-CVE/CVE-2022-42416)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of TIF files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-42415",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42415](https://github.com/Live-Hack-CVE/CVE-2022-42415)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of JP2 files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-42414",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42414](https://github.com/Live-Hack-CVE/CVE-2022-42414)",
+      "description": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. The  CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:34:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-42410",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42410](https://github.com/Live-Hack-CVE/CVE-2022-42410)",
+      "description": "This vulnerability allows remote attackers to execute arbitrary code on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PGM files. Crafted data CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-42409",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42409](https://github.com/Live-Hack-CVE/CVE-2022-42409)",
+      "description": "This vulnerability allows remote attackers to disclose sensitive information on affected installations of PDF-XChange Editor. User interaction is required to exploit this vulnerability in that the target must visit a malicious page or open a malicious file. The specific flaw exists within the parsing of PDF files. Craf CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-39324",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-39324](https://github.com/Live-Hack-CVE/CVE-2022-39324)",
+      "description": "Grafana is an open-source platform for monitoring and observability. Prior to versions 8.5.16 and 9.2.8, malicious user can create a snapshot and arbitrarily choose the `originalUrl` parameter by editing the query, thanks to a web proxy. When another user opens the URL of the snapshot, they will be presented with the r CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-23935",
+      "repo_info": "[dpbe32/CVE-2022-23935-PoC-Exploit](https://github.com/dpbe32/CVE-2022-23935-PoC-Exploit)",
+      "description": "CVE-2022-23935 exploit PoC exiftool version 12.37",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T18:04:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-23552",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-23552](https://github.com/Live-Hack-CVE/CVE-2022-23552)",
+      "description": "Grafana is an open-source platform for monitoring and observability. Starting with the 8.1 branch and prior to versions 8.5.16, 9.2.10, and 9.3.4, Grafana had a stored XSS vulnerability affecting the core plugin GeoMap. The stored XSS vulnerability was possible because SVG files weren&#x27;t properly sanitized and allowed a CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[mauricelambert/LabAutomationCVE-2021-43798](https://github.com/mauricelambert/LabAutomationCVE-2021-43798)",
+      "description": "This script implements a lab automation where I exploit CVE-2021-43798 to steal user secrets and then gain privileges on a Linux system.",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T11:12:22Z"
+    },
+    {
+      "cve_id": "CVE-2020-24371",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24371](https://github.com/Live-Hack-CVE/CVE-2020-24371)",
+      "description": "lgc.c in Lua 5.4.0 mishandles the interaction between barriers and the sweep phase, leading to a memory access violation involving collectgarbage. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-16093",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-16093](https://github.com/Live-Hack-CVE/CVE-2020-16093)",
+      "description": "In LemonLDAP::NG (aka lemonldap-ng) through 2.0.8, validity of the X.509 certificate is not checked by default when connecting to remote LDAP backends, because the default configuration of the Net::LDAPS module for Perl is used. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T19:42:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-14967",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14967](https://github.com/Live-Hack-CVE/CVE-2020-14967)",
+      "description": "An issue was discovered in the jsrsasign package before 8.0.18 for Node.js. Its RSA PKCS1 v1.5 decryption implementation does not detect ciphertext modification by prepending &#x27;\\0&#x27; bytes to ciphertexts (it decrypts modified ciphertexts without error). An attacker might prepend these bytes with the goal of triggering mem CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:02:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-14966",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14966](https://github.com/Live-Hack-CVE/CVE-2020-14966)",
+      "description": "An issue was discovered in the jsrsasign package through 8.0.18 for Node.js. It allows a malleability in ECDSA signatures by not checking overflows in the length of a sequence and &#x27;0&#x27; characters appended or prepended to an integer. The modified signatures are verified as valid. This could have a security-relevant impac CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-14947",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14947](https://github.com/Live-Hack-CVE/CVE-2020-14947)",
+      "description": "OCS Inventory NG 2.7 allows Remote Command Execution via shell metacharacters to require/commandLine/CommandLine.php because mib_file in plugins/main_sections/ms_config/ms_snmp_config.php is mishandled in get_mib_oid. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:39Z"
+    },
+    {
+      "cve_id": "CVE-2020-13640",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-13640](https://github.com/Live-Hack-CVE/CVE-2020-13640)",
+      "description": "A SQL injection issue in the gVectors wpDiscuz plugin 5.3.5 and earlier for WordPress allows remote attackers to execute arbitrary SQL commands via the order parameter of a wpdLoadMoreComments request. (No 7.x versions are affected.) CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T02:03:04Z"
+    },
+    {
+      "cve_id": "CVE-2019-19740",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-19740](https://github.com/Live-Hack-CVE/CVE-2019-19740)",
+      "description": "Octeth Oempro 4.7 and 4.8 allow SQL injection. The parameter CampaignID in Campaign.Get is vulnerable. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:28Z"
+    },
+    {
+      "cve_id": "CVE-2019-11165",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-11165](https://github.com/Live-Hack-CVE/CVE-2019-11165)",
+      "description": "Improper conditions check in the Linux kernel driver for the Intel(R) FPGA SDK for OpenCL(TM) Pro Edition before version 19.4 may allow an authenticated user to potentially enable denial of service via local access. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-10695",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-10695](https://github.com/Live-Hack-CVE/CVE-2019-10695)",
+      "description": "When using the cd4pe::root_configuration task to configure a Continuous Delivery for PE installation, the root user’s username and password were exposed in the job’s Job Details pane in the PE console. These issues have been resolved in version 1.2.1 of the puppetlabs/cd4pe module. CVE project by @Sn0wAlice",
+      "date": "2023-01-28",
+      "raw_date": "2023-01-28T06:35:32Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.233511",
+  "metadata": {
+    "total_cves": 41,
+    "date_range": "2023-01-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2020-02-28",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[truongtn/cve-2020-0688](https://github.com/truongtn/cve-2020-0688)",
+      "description": "I made this script for conducting CVE-2020-0688 more rapidly. It helps to improve checking the vuln, reducing hugely steps for that",
+      "date": "2020-02-28",
+      "raw_date": "2020-02-28T03:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[onSec-fr/CVE-2020-0688-Scanner](https://github.com/onSec-fr/CVE-2020-0688-Scanner)",
+      "description": "Quick tool for checking CVE-2020-0688 on multiple hosts with a non-intrusive method.",
+      "date": "2020-02-28",
+      "raw_date": "2020-02-28T16:04:30Z"
+    },
+    {
+      "cve_id": "CVE-2019-0053",
+      "repo_info": "[dreamsmasher/inetutils-CVE-2019-0053-Patched-PKGBUILD](https://github.com/dreamsmasher/inetutils-CVE-2019-0053-Patched-PKGBUILD)",
+      "description": "A patched Arch Linux PKGBUILD to address CVE-2019-0053 (buffer overflow). Downloads and applies a (currently) unreleased patch from upstream.",
+      "date": "2020-02-28",
+      "raw_date": "2020-02-28T21:12:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.043082",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-02-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

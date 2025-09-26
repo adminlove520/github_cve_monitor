@@ -1,0 +1,20 @@
+{
+  "date": "2018-02-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-5374",
+      "repo_info": "[can/CVE-2015-5374-DoS-PoC](https://github.com/can/CVE-2015-5374-DoS-PoC)",
+      "description": "CVE-2015-5374 Denial of Service PoC",
+      "date": "2018-02-14",
+      "raw_date": "2018-02-14T22:12:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.971740",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-02-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

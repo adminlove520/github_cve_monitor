@@ -1,0 +1,34 @@
+{
+  "date": "2018-02-06",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7679",
+      "repo_info": "[emcalv/tivoli-poc](https://github.com/emcalv/tivoli-poc)",
+      "description": "CVE-2017-1635 PoC code",
+      "date": "2018-02-06",
+      "raw_date": "2018-02-06T09:43:28Z"
+    },
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[awidardi/opsxcq-cve-2016-10033](https://github.com/awidardi/opsxcq-cve-2016-10033)",
+      "description": "To solve CTFS.me problem",
+      "date": "2018-02-06",
+      "raw_date": "2018-02-06T08:59:14Z"
+    },
+    {
+      "cve_id": "CVE-2006-4777",
+      "repo_info": "[Mario1234/js-driveby-download-CVE-2006-4777](https://github.com/Mario1234/js-driveby-download-CVE-2006-4777)",
+      "description": "malware del lado del cliente de explotacion de vulnerabilidad de internet explorer 6.0 SP1 en windows xp SP2. No requiere de consentimiento por parte del usuario y no descarga ningun archivo",
+      "date": "2018-02-06",
+      "raw_date": "2018-02-06T15:55:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.970989",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-02-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

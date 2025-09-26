@@ -1,0 +1,55 @@
+{
+  "date": "2020-02-17",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-7247",
+      "repo_info": "[superzerosec/cve-2020-7247](https://github.com/superzerosec/cve-2020-7247)",
+      "description": "OpenSMTPD version 6.6.2 remote code execution exploit",
+      "date": "2020-02-17",
+      "raw_date": "2020-02-17T03:28:09Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[kyletimmermans/blackboard-xss](https://github.com/kyletimmermans/blackboard-xss)",
+      "description": "Information regarding CVE-2020-9008",
+      "date": "2020-02-17",
+      "raw_date": "2020-02-17T00:07:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[DimitriFourny/cve-2019-2215](https://github.com/DimitriFourny/cve-2019-2215)",
+      "description": "Android privilege escalation via an use-after-free in binder.c",
+      "date": "2020-02-17",
+      "raw_date": "2020-02-17T11:53:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-17564",
+      "repo_info": "[Exploit-3389/CVE-2019-17564](https://github.com/Exploit-3389/CVE-2019-17564)",
+      "description": "no description",
+      "date": "2020-02-17",
+      "raw_date": "2020-02-17T09:52:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[eastmountyxz/CVE-2018-20250-WinRAR](https://github.com/eastmountyxz/CVE-2018-20250-WinRAR)",
+      "description": "这资源是作者复现微软签字证书漏洞CVE-2020-0601，结合相关资源及文章实现。推荐大家结合作者博客，复现了该漏洞和理解恶意软件自启动劫持原理。作为网络安全初学者，自己确实很菜，但希望坚持下去，一起加油！",
+      "date": "2020-02-17",
+      "raw_date": "2020-02-17T15:08:22Z"
+    },
+    {
+      "cve_id": "CVE-2016-4977",
+      "repo_info": "[N0b1e6/CVE-2016-4977-POC](https://github.com/N0b1e6/CVE-2016-4977-POC)",
+      "description": "no description",
+      "date": "2020-02-17",
+      "raw_date": "2020-02-17T09:54:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.041887",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2020-02-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

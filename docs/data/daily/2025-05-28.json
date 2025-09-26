@@ -1,0 +1,83 @@
+{
+  "date": "2025-05-28",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5287",
+      "repo_info": "[Nxploited/CVE-2025-5287](https://github.com/Nxploited/CVE-2025-5287)",
+      "description": "WordPress Likes and Dislikes Plugin &lt;= 1.0.0 is vulnerable to SQL Injection",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T12:35:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-24071",
+      "repo_info": "[ex-cal1bur/SMB_CVE-2025-24071](https://github.com/ex-cal1bur/SMB_CVE-2025-24071)",
+      "description": "Exploited CVE-2025-24071 via SMB by hosting a .library-ms file inside a .tar archive. Using tar x from smbclient, the payload is extracted server-side without user interaction. Responder captures the NTLM hash once the target accesses the library.",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T00:21:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-22252",
+      "repo_info": "[korden-c/CVE-2025-22252](https://github.com/korden-c/CVE-2025-22252)",
+      "description": "CVE-2025-22252 – Authentication Bypass in Fortinet Products",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T13:04:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-32462",
+      "repo_info": "[SpiralBL0CK/CVE-2024-32462](https://github.com/SpiralBL0CK/CVE-2024-32462)",
+      "description": "CVE-2024-32462 code exec sbx escape",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T05:07:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-28995",
+      "repo_info": "[ibrahimsql/CVE-2024-28995](https://github.com/ibrahimsql/CVE-2024-28995)",
+      "description": "SolarWinds Serv-U Directory Traversal",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T10:41:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-46818",
+      "repo_info": "[engranaabubakar/CVE-2023-46818](https://github.com/engranaabubakar/CVE-2023-46818)",
+      "description": "no description",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T15:18:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-46818",
+      "repo_info": "[afrojack1/cve202338600test.github.io](https://github.com/afrojack1/cve202338600test.github.io)",
+      "description": "CVE-2023-38600 Test in html",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T13:40:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[Ask-os/CVE-2021-41773](https://github.com/Ask-os/CVE-2021-41773)",
+      "description": "no description",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T02:57:44Z"
+    },
+    {
+      "cve_id": "CVE-2018-8097",
+      "repo_info": "[StellarDriftLabs/CVE-2018-8097-PoC](https://github.com/StellarDriftLabs/CVE-2018-8097-PoC)",
+      "description": "POC for CVE-2018-8097 This script exploits CVE-2018-8097 and can retrieve files and contents using a blind RCE method.",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T13:49:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-9248",
+      "repo_info": "[0xsharz/telerik-scanner-cve-2017-9248](https://github.com/0xsharz/telerik-scanner-cve-2017-9248)",
+      "description": "Telerik CVE-2017-9248 Vulnerability Scanner",
+      "date": "2025-05-28",
+      "raw_date": "2025-05-28T12:12:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.392948",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-05-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

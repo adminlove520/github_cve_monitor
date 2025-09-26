@@ -1,0 +1,62 @@
+{
+  "date": "2024-10-18",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9796",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9796](https://github.com/RandomRobbieBF/CVE-2024-9796)",
+      "description": "WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T14:30:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-9593",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9593](https://github.com/RandomRobbieBF/CVE-2024-9593)",
+      "description": "Time Clock &lt;= 1.2.2 &amp; Time Clock Pro &lt;= 1.1.4 - Unauthenticated (Limited) Remote Code Execution",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T09:11:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-46483",
+      "repo_info": "[kn32/cve-2024-46483](https://github.com/kn32/cve-2024-46483)",
+      "description": "Pre-Authentication Heap Overflow in Xlight SFTP server &lt;= 3.9.4.2",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T11:46:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-35133",
+      "repo_info": "[Ozozuz/Ozozuz-IBM-Security-Verify-CVE-2024-35133](https://github.com/Ozozuz/Ozozuz-IBM-Security-Verify-CVE-2024-35133)",
+      "description": "Security Bulletin for CVE-2024-35133 - With PoC",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T09:49:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-33231",
+      "repo_info": "[fdzdev/CVE-2024-33231](https://github.com/fdzdev/CVE-2024-33231)",
+      "description": "XSS Vulnerability via File Upload in Ferozo Webmail Application",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T22:09:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-35575",
+      "repo_info": "[dylvie/CVE-2020-35575-TP-LINK-TL-WR841ND-password-disclosure](https://github.com/dylvie/CVE-2020-35575-TP-LINK-TL-WR841ND-password-disclosure)",
+      "description": "password-disclosure issue in the web interface on certain TP-Link devices",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T17:08:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-11248",
+      "repo_info": "[nod3jzzz/poc-CVE-2019-11248](https://github.com/nod3jzzz/poc-CVE-2019-11248)",
+      "description": "no description",
+      "date": "2024-10-18",
+      "raw_date": "2024-10-18T14:21:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.352805",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-10-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

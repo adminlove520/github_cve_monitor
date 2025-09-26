@@ -1,0 +1,20 @@
+{
+  "date": "2020-10-10",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[n3m1dotsys/CVE-2018-16763-Exploit-Python3](https://github.com/n3m1dotsys/CVE-2018-16763-Exploit-Python3)",
+      "description": "no description",
+      "date": "2020-10-10",
+      "raw_date": "2020-10-10T20:23:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.065632",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-10-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

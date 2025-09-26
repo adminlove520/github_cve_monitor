@@ -1,0 +1,41 @@
+{
+  "date": "2020-10-21",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[puckiestyle/CVE-2020-1472](https://github.com/puckiestyle/CVE-2020-1472)",
+      "description": "no description",
+      "date": "2020-10-21",
+      "raw_date": "2020-10-21T09:42:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-18935",
+      "repo_info": "[luuquy/DecryptRawdata_CVE_2019_18935](https://github.com/luuquy/DecryptRawdata_CVE_2019_18935)",
+      "description": "no description",
+      "date": "2020-10-21",
+      "raw_date": "2020-10-21T09:43:12Z"
+    },
+    {
+      "cve_id": "CVE-2019-17240",
+      "repo_info": "[ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass](https://github.com/ColdFusionX/CVE-2019-17240_Bludit-BF-Bypass)",
+      "description": "Bludit &lt;= 3.9.2 - Authentication Bruteforce Mitigation Bypass Exploit/PoC",
+      "date": "2020-10-21",
+      "raw_date": "2020-10-21T10:13:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-1579",
+      "repo_info": "[Elsfa7-110/CVE-2019-1579](https://github.com/Elsfa7-110/CVE-2019-1579)",
+      "description": "no description",
+      "date": "2020-10-21",
+      "raw_date": "2020-10-21T12:30:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.066757",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-10-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

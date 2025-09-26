@@ -1,0 +1,34 @@
+{
+  "date": "2021-05-05",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-18634",
+      "repo_info": "[paras1te-x/CVE-2019-18634](https://github.com/paras1te-x/CVE-2019-18634)",
+      "description": "exploit",
+      "date": "2021-05-05",
+      "raw_date": "2021-05-05T04:53:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-1388",
+      "repo_info": "[nobodyatall648/CVE-2019-1388](https://github.com/nobodyatall648/CVE-2019-1388)",
+      "description": "CVE-2019-1388  Abuse UAC Windows Certificate Dialog",
+      "date": "2021-05-05",
+      "raw_date": "2021-05-05T08:22:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-1388",
+      "repo_info": "[synod2/WP_CROP_RCE](https://github.com/synod2/WP_CROP_RCE)",
+      "description": "cve-2019-8942, cve-2019-8943",
+      "date": "2021-05-05",
+      "raw_date": "2021-05-05T16:23:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.089537",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-05-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

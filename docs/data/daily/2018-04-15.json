@@ -1,0 +1,20 @@
+{
+  "date": "2018-04-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[thehappydinoa/CVE-2018-7600](https://github.com/thehappydinoa/CVE-2018-7600)",
+      "description": "Proof-of-Concept for Drupal CVE-2018-7600 / SA-CORE-2018-002",
+      "date": "2018-04-15",
+      "raw_date": "2018-04-15T02:21:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.977288",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-04-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

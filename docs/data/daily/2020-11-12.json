@@ -1,0 +1,34 @@
+{
+  "date": "2020-11-12",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[BurnyMcDull/CVE-2017-7921](https://github.com/BurnyMcDull/CVE-2017-7921)",
+      "description": "海康威视未授权访问检测poc及口令爆破",
+      "date": "2020-11-12",
+      "raw_date": "2020-11-12T09:02:10Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[MuirlandOracle/CVE-2014-6271-IPFire](https://github.com/MuirlandOracle/CVE-2014-6271-IPFire)",
+      "description": "no description",
+      "date": "2020-11-12",
+      "raw_date": "2020-11-12T04:12:55Z"
+    },
+    {
+      "cve_id": "CVE-2013-2977",
+      "repo_info": "[t0rt3ll1n0/PCmanBoF](https://github.com/t0rt3ll1n0/PCmanBoF)",
+      "description": "A very simple buffer overflow using CVE-2013-4730 against PCman's FTP server",
+      "date": "2020-11-12",
+      "raw_date": "2020-11-12T08:20:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.069034",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-11-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

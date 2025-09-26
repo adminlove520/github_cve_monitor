@@ -1,0 +1,27 @@
+{
+  "date": "2021-02-15",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8637",
+      "repo_info": "[DXY0411/CVE-2020-8637](https://github.com/DXY0411/CVE-2020-8637)",
+      "description": "no description",
+      "date": "2021-02-15",
+      "raw_date": "2021-02-15T06:38:35Z"
+    },
+    {
+      "cve_id": "CVE-2020-8165",
+      "repo_info": "[monitorapp-aicc/report](https://github.com/monitorapp-aicc/report)",
+      "description": "CVE-2020-14210",
+      "date": "2021-02-15",
+      "raw_date": "2021-02-15T05:08:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.080792",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-02-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2019-10-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-10149",
+      "repo_info": "[Diefunction/CVE-2019-10149](https://github.com/Diefunction/CVE-2019-10149)",
+      "description": "CVE-2019-10149 : A flaw was found in Exim versions 4.87 to 4.91 (inclusive). Improper validation of recipient address in deliver_message() function in /src/deliver.c may lead to remote command execution.",
+      "date": "2019-10-27",
+      "raw_date": "2019-10-27T01:03:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.030773",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-10-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

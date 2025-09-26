@@ -1,0 +1,104 @@
+{
+  "date": "2024-01-16",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-21887",
+      "repo_info": "[Chocapikk/CVE-2024-21887](https://github.com/Chocapikk/CVE-2024-21887)",
+      "description": "A command injection vulnerability in web components of Ivanti Connect Secure (9.x, 22.x) and Ivanti Policy Secure (9.x, 22.x) allows an authenticated administrator to send specially crafted requests and execute arbitrary commands on the appliance.",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T20:59:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-21887",
+      "repo_info": "[duy-31/CVE-2023-46805_CVE-2024-21887](https://github.com/duy-31/CVE-2023-46805_CVE-2024-21887)",
+      "description": "no description",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T19:40:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-21887",
+      "repo_info": "[rxwx/pulse-meter](https://github.com/rxwx/pulse-meter)",
+      "description": "Tool for checking the Ivanti Connect Secure System Snapshot for IOCs related to CVE-2023-46805 and CVE-2024-21887",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T19:19:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-48858",
+      "repo_info": "[pentestfunctions/BlueDucky](https://github.com/pentestfunctions/BlueDucky)",
+      "description": "🚨 CVE-2023-45866 - BlueDucky Implementation (Using DuckyScript) 🔓 Unauthenticated Peering Leading to Code Execution (Using HID Keyboard)",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T06:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-48858",
+      "repo_info": "[Eason-zz/BluetoothDucky](https://github.com/Eason-zz/BluetoothDucky)",
+      "description": "CVE-2023-45866 - BluetoothDucky implementation (Using DuckyScript)",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T07:44:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-46805",
+      "repo_info": "[cbeek-r7/CVE-2023-46805](https://github.com/cbeek-r7/CVE-2023-46805)",
+      "description": "Simple scanner for scanning a list of ip-addresses for vulnerable Ivanti Pulse Secure devices",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T08:05:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-43786",
+      "repo_info": "[jfrog/jfrog-CVE-2023-43786-libX11_DoS](https://github.com/jfrog/jfrog-CVE-2023-43786-libX11_DoS)",
+      "description": "no description",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T20:04:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-26609",
+      "repo_info": "[D1G17/CVE-2023-26609](https://github.com/D1G17/CVE-2023-26609)",
+      "description": "Exploit information for CVE-2023-26609",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T15:02:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-26602",
+      "repo_info": "[D1G17/CVE-2023-26602](https://github.com/D1G17/CVE-2023-26602)",
+      "description": "Exploit information for CVE-2023-26602",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T15:01:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Avento/CVE-2023-22527_Confluence_RCE](https://github.com/Avento/CVE-2023-22527_Confluence_RCE)",
+      "description": "CVE-2023-22527 - RCE (Remote Code Execution) Vulnerability In Confluence Data Center and Confluence Server PoC",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T08:46:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Sudistark/patch-diff-CVE-2023-22527](https://github.com/Sudistark/patch-diff-CVE-2023-22527)",
+      "description": "no description",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T13:50:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-1326",
+      "repo_info": "[Pol-Ruiz/CVE-2023-1326](https://github.com/Pol-Ruiz/CVE-2023-1326)",
+      "description": "Esto es una prueba de concepto propia i basica de la vulneravilidad CVE-2023-1326",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T10:20:53Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Pol-Ruiz/CVE-2021-4034](https://github.com/Pol-Ruiz/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2024-01-16",
+      "raw_date": "2024-01-16T10:18:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.304466",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-01-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

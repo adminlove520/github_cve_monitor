@@ -1,0 +1,118 @@
+{
+  "date": "2023-06-29",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-37621",
+      "repo_info": "[MY0723/CNVD-2022-27366__CVE-2023-37621](https://github.com/MY0723/CNVD-2022-27366__CVE-2023-37621)",
+      "description": "no description",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T01:36:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-3338",
+      "repo_info": "[TurtleARM/CVE-2023-3338](https://github.com/TurtleARM/CVE-2023-3338)",
+      "description": "Linux kernel LPE practice with an NPD vulnerability",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T10:12:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-2982",
+      "repo_info": "[RandomRobbieBF/CVE-2023-2982](https://github.com/RandomRobbieBF/CVE-2023-2982)",
+      "description": "WordPress Social Login and Register (Discord, Google, Twitter, LinkedIn) &lt;= 7.6.4 - Authentication Bypass",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T14:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[gysf666/CVE-2023-27997-test](https://github.com/gysf666/CVE-2023-27997-test)",
+      "description": "test",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T03:03:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-27997-test-nleyl](https://github.com/hheeyywweellccoommee/CVE-2023-27997-test-nleyl)",
+      "description": "test",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T04:00:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-0830",
+      "repo_info": "[xbz0n/CVE-2023-0830](https://github.com/xbz0n/CVE-2023-0830)",
+      "description": "no description",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T15:23:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-46395",
+      "repo_info": "[Pro-me3us/CVE_2022_46395_Raven](https://github.com/Pro-me3us/CVE_2022_46395_Raven)",
+      "description": "CVE-2022-46395 POC for FireTV 2nd gen Cube (raven)",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T18:56:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-46395",
+      "repo_info": "[Pro-me3us/CVE_2022_46395_Gazelle](https://github.com/Pro-me3us/CVE_2022_46395_Gazelle)",
+      "description": "CVE-2022-46395 POC for FireTV 3rd gen Cube (gazelle)",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T18:54:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-24715",
+      "repo_info": "[Finbek/CVE_APIs](https://github.com/Finbek/CVE_APIs)",
+      "description": "This project crawls and stores CVE data since 2022 and share them via an REST API that allows users to query known vulnerabilities.",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T08:57:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[HenriVlasic/Exploit-for-CVE-2022-22963](https://github.com/HenriVlasic/Exploit-for-CVE-2022-22963)",
+      "description": "An exploit for the CVE-2022-22963 (Spring Cloud Function Vulnerability)",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T04:04:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[Hamesawian/CVE-2021-42013](https://github.com/Hamesawian/CVE-2021-42013)",
+      "description": "no description",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T16:32:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-1732",
+      "repo_info": "[yangshifan-git/CVE-2021-1732](https://github.com/yangshifan-git/CVE-2021-1732)",
+      "description": "no description",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T12:23:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-1732",
+      "repo_info": "[MrHarshvardhan/PY-Log4j-RCE-Scanner](https://github.com/MrHarshvardhan/PY-Log4j-RCE-Scanner)",
+      "description": "Using this tool, you can scan for remote command execution vulnerability CVE-2021-44228 on Apache Log4j at multiple addresses.",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T07:46:40Z"
+    },
+    {
+      "cve_id": "CVE-2015-10034",
+      "repo_info": "[andrenasx/CVE-2015-10034-Test](https://github.com/andrenasx/CVE-2015-10034-Test)",
+      "description": "no description",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T17:30:13Z"
+    },
+    {
+      "cve_id": "CVE-2015-10034",
+      "repo_info": "[hheeyywweellccoommee/CVE-2015-10034-Test-lazmv](https://github.com/hheeyywweellccoommee/CVE-2015-10034-Test-lazmv)",
+      "description": "no description",
+      "date": "2023-06-29",
+      "raw_date": "2023-06-29T18:02:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.272512",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2023-06-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

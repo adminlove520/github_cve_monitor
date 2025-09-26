@@ -1,0 +1,27 @@
+{
+  "date": "2017-11-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5123",
+      "repo_info": "[0x5068656e6f6c/CVE-2017-5123](https://github.com/0x5068656e6f6c/CVE-2017-5123)",
+      "description": "Exploit for the linux kernel vulnerability CVE-2017-5123",
+      "date": "2017-11-03",
+      "raw_date": "2017-11-03T02:52:26Z"
+    },
+    {
+      "cve_id": "CVE-2017-16524",
+      "repo_info": "[nicpenning/RTF-Cleaner](https://github.com/nicpenning/RTF-Cleaner)",
+      "description": "RTF de-obfuscator for CVE-2017-0199 documents to find URLs statically.",
+      "date": "2017-11-03",
+      "raw_date": "2017-11-03T16:47:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.961984",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-11-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

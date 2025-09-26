@@ -1,0 +1,27 @@
+{
+  "date": "2019-03-05",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8639",
+      "repo_info": "[ze0r/CVE-2018-8639-exp](https://github.com/ze0r/CVE-2018-8639-exp)",
+      "description": "no description",
+      "date": "2019-03-05",
+      "raw_date": "2019-03-05T14:18:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-19276",
+      "repo_info": "[Ektoplasma/ezwinrar](https://github.com/Ektoplasma/ezwinrar)",
+      "description": "Python tool exploiting CVE-2018-20250 found by CheckPoint folks",
+      "date": "2019-03-05",
+      "raw_date": "2019-03-05T13:05:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.008708",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-03-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

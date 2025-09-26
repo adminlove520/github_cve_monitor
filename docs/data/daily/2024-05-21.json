@@ -1,0 +1,181 @@
+{
+  "date": "2024-05-21",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4875",
+      "repo_info": "[RandomRobbieBF/CVE-2024-4875](https://github.com/RandomRobbieBF/CVE-2024-4875)",
+      "description": "HT Mega – Absolute Addons For Elementor &lt;= 2.5.2 - Missing Authorization to Options Update",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T14:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-4323",
+      "repo_info": "[d0rb/CVE-2024-4323](https://github.com/d0rb/CVE-2024-4323)",
+      "description": "Critical heap buffer overflow vulnerability in the handle_trace_request and parse_trace_request functions of the Fluent Bit HTTP server.",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T12:59:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-4323",
+      "repo_info": "[Roronoawjd/hook](https://github.com/Roronoawjd/hook)",
+      "description": "CVE-2024-32002 hook POC",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T12:31:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-3272",
+      "repo_info": "[aliask/dinkleberry](https://github.com/aliask/dinkleberry)",
+      "description": "Patch your D-Link device affected by CVE-2024-3272",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T08:40:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-32640",
+      "repo_info": "[nancyariah4/CVE-2024-32640-MuraCMS](https://github.com/nancyariah4/CVE-2024-32640-MuraCMS)",
+      "description": "CVE-2024-32640-SQLI-MuraCMS",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T14:19:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[jerrydotlam/cve-2024-32002-2](https://github.com/jerrydotlam/cve-2024-32002-2)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T01:48:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[jerrydotlam/cve-2024-32002-1](https://github.com/jerrydotlam/cve-2024-32002-1)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T01:47:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[JJoosh/CVE-2024-32002-Reverse-Shell](https://github.com/JJoosh/CVE-2024-32002-Reverse-Shell)",
+      "description": "Este script demuestra cómo explotar la vulnerabilidad CVE-2024-32002 para obtener una reverse shell, proporcionando acceso remoto al sistema afectado. Úselo con precaución en entornos controlados y solo con fines educativos o de pruebas de seguridad.",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T13:45:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[Roronoawjd/git_rce](https://github.com/Roronoawjd/git_rce)",
+      "description": "CVE-2024-32002 POC",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T13:19:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[1mxml/CVE-2024-32002-poc](https://github.com/1mxml/CVE-2024-32002-poc)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T07:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[FeatherStark/CVE-2024-VUL](https://github.com/FeatherStark/CVE-2024-VUL)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T04:01:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[jerrydotlam/cve-2024-32002-3](https://github.com/jerrydotlam/cve-2024-32002-3)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T02:04:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-29895",
+      "repo_info": "[nancyariah4/CVE-2024-29895-CactiRCE-PoC](https://github.com/nancyariah4/CVE-2024-29895-CactiRCE-PoC)",
+      "description": "CVE-2024-29895-CactiRCE-PoC , RCE, POC, CVE-2024-29895",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T12:30:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)",
+      "description": "CVE-2024-27956-RCE-POC-Wordpress, Wordpress, CVE-2024-27956-PoC, RCE",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T14:55:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-27130",
+      "repo_info": "[d0rb/CVE-2024-27130](https://github.com/d0rb/CVE-2024-27130)",
+      "description": "This Python script is designed as a proof-of-concept (PoC) for the CVE-2024-27130 vulnerability in QNAP QTS",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T11:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-11318",
+      "repo_info": "[xthalach/CVE-2024-11318](https://github.com/xthalach/CVE-2024-11318)",
+      "description": "This repository details an IDOR vulnerability in AbsysNet 2.3.1, which allows a remote attacker to brute-force session IDs via the /cgi-bin/ocap/ endpoint. Successful exploitation can compromise active user sessions, exposing authentication tokens in HTML. The attack is limited to active sessions and is terminated if the user logs out.",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T18:35:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-0230",
+      "repo_info": "[keldnorman/cve-2024-0230-blue](https://github.com/keldnorman/cve-2024-0230-blue)",
+      "description": "Helper script to POC of CVE-2024-0230 Bluetooth",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T22:23:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-34992",
+      "repo_info": "[d0rb/CVE-2023-34992-Checker](https://github.com/d0rb/CVE-2023-34992-Checker)",
+      "description": "This script checks if a target host is vulnerable to CVE-2023-34992 by sending a crafted payload to the FortiSIEM appliance. It then analyzes the response to determine if the host is vulnerable.",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T12:30:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-2640",
+      "repo_info": "[K5LK/CVE-2023-2640-32629](https://github.com/K5LK/CVE-2023-2640-32629)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T23:39:02Z"
+    },
+    {
+      "cve_id": "CVE-2019-3396",
+      "repo_info": "[Avento/CVE-2019-3396-Memshell-for-Behinder](https://github.com/Avento/CVE-2019-3396-Memshell-for-Behinder)",
+      "description": "CVE-2019-3396 Memshell for Behinder",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T08:20:01Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[h2oa/CVE-2018-25031](https://github.com/h2oa/CVE-2018-25031)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T02:09:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[dego905/Cam](https://github.com/dego905/Cam)",
+      "description": "Este script está creado para mostar usuarios de DVR, VULNERABILIDAD (CVE-2018-9995)",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T02:11:34Z"
+    },
+    {
+      "cve_id": "CVE-2018-0296",
+      "repo_info": "[Cappricio-Securities/CVE-2018-0296](https://github.com/Cappricio-Securities/CVE-2018-0296)",
+      "description": "Cisco ASA - Local File Inclusion",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T06:41:28Z"
+    },
+    {
+      "cve_id": "CVE-2013-3900",
+      "repo_info": "[Securenetology/CVE-2013-3900](https://github.com/Securenetology/CVE-2013-3900)",
+      "description": "no description",
+      "date": "2024-05-21",
+      "raw_date": "2024-05-21T15:19:49Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.326142",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2024-05-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

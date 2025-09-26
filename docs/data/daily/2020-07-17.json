@@ -1,0 +1,34 @@
+{
+  "date": "2020-07-17",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[w4fz5uck5/CVE-2019-19781-CitrixRCE](https://github.com/w4fz5uck5/CVE-2019-19781-CitrixRCE)",
+      "description": "Citrix Unauthorized Remote Code Execution Attacker - CVE-2019-19781",
+      "date": "2020-07-17",
+      "raw_date": "2020-07-17T11:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[dldygnl/CVE-2019-16113](https://github.com/dldygnl/CVE-2019-16113)",
+      "description": "Bludit Exploitation Via upload Image.php",
+      "date": "2020-07-17",
+      "raw_date": "2020-07-17T13:37:20Z"
+    },
+    {
+      "cve_id": "CVE-2013-5700",
+      "repo_info": "[nondejus/CVE-2013-5700](https://github.com/nondejus/CVE-2013-5700)",
+      "description": "no description",
+      "date": "2020-07-17",
+      "raw_date": "2020-07-17T13:50:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.057326",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-07-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

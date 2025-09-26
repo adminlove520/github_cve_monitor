@@ -1,0 +1,104 @@
+{
+  "date": "2024-05-05",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-34474",
+      "repo_info": "[Alaatk/CVE-2024-34474](https://github.com/Alaatk/CVE-2024-34474)",
+      "description": "Clario through 2024-04-11 for Windows Desktop has weak permissions for %PROGRAMDATA%\\Clario and tries to load DLLs from there as SYSTEM.",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T05:28:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-34472",
+      "repo_info": "[osvaldotenorio/CVE-2024-34472](https://github.com/osvaldotenorio/CVE-2024-34472)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T00:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-34471",
+      "repo_info": "[osvaldotenorio/CVE-2024-34471](https://github.com/osvaldotenorio/CVE-2024-34471)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T01:10:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-34470",
+      "repo_info": "[osvaldotenorio/CVE-2024-34470](https://github.com/osvaldotenorio/CVE-2024-34470)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T00:31:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-33911",
+      "repo_info": "[xbz0n/CVE-2024-33911](https://github.com/xbz0n/CVE-2024-33911)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T11:14:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-3273",
+      "repo_info": "[OIivr/Turvan6rkus-CVE-2024-3273](https://github.com/OIivr/Turvan6rkus-CVE-2024-3273)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T22:07:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-32709",
+      "repo_info": "[truonghuuphuc/CVE-2024-32709-Poc](https://github.com/truonghuuphuc/CVE-2024-32709-Poc)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T17:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-32136",
+      "repo_info": "[xbz0n/CVE-2024-32136](https://github.com/xbz0n/CVE-2024-32136)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T10:49:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[FoxyProxys/CVE-2024-27956](https://github.com/FoxyProxys/CVE-2024-27956)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T19:50:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[RHYru9/CVE-2024-25600-mass](https://github.com/RHYru9/CVE-2024-25600-mass)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T02:18:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[mil4ne/CVE-2023-23752-Joomla-v4.2.8](https://github.com/mil4ne/CVE-2023-23752-Joomla-v4.2.8)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T16:16:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[ronmadar/Open-Source-Package-Seal-Security](https://github.com/ronmadar/Open-Source-Package-Seal-Security)",
+      "description": "Fix open source package uses tough-cookie 2.5.0 to process their clients&#x27; cookies. Unfortunately, it is affected by CVE-2023-26136.",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T14:27:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-9670",
+      "repo_info": "[OracleNep/CVE-2019-9670-DtdFilegeneration](https://github.com/OracleNep/CVE-2019-9670-DtdFilegeneration)",
+      "description": "no description",
+      "date": "2024-05-05",
+      "raw_date": "2024-05-05T01:09:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.323440",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-05-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

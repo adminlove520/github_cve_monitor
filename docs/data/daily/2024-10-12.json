@@ -1,0 +1,62 @@
+{
+  "date": "2024-10-12",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8529",
+      "repo_info": "[RandomRobbieBF/CVE-2024-8529](https://github.com/RandomRobbieBF/CVE-2024-8529)",
+      "description": "LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_fields&#x27;",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T20:52:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-7593",
+      "repo_info": "[skyrowalker/CVE-2024-7593](https://github.com/skyrowalker/CVE-2024-7593)",
+      "description": "no description",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T02:17:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-37404",
+      "repo_info": "[nothe1senberg/CVE-2024-37404](https://github.com/nothe1senberg/CVE-2024-37404)",
+      "description": "no description",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T16:12:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-3656",
+      "repo_info": "[h4x0r-dz/CVE-2024-3656](https://github.com/h4x0r-dz/CVE-2024-3656)",
+      "description": "Keycloak admin API allows low privilege users to use administrative functions",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T09:17:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-40539",
+      "repo_info": "[lpyydxs/CVE-2021-40539](https://github.com/lpyydxs/CVE-2021-40539)",
+      "description": "CVE-2021-40539：ADSelfService Plus RCE漏洞",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T09:09:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-40539",
+      "repo_info": "[lpyzds/CVE-2021-40539](https://github.com/lpyzds/CVE-2021-40539)",
+      "description": "CVE-2021-40539：ADSelfService Plus RCE漏洞",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T09:01:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[s3nd3rjz/poc-CVE-2020-1938](https://github.com/s3nd3rjz/poc-CVE-2020-1938)",
+      "description": "cve-2020-1938 POC, updated version",
+      "date": "2024-10-12",
+      "raw_date": "2024-10-12T01:46:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.351825",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-10-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

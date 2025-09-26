@@ -1,0 +1,27 @@
+{
+  "date": "2023-06-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-40028",
+      "repo_info": "[sudovivek/My-CVE](https://github.com/sudovivek/My-CVE)",
+      "description": "Explore CVE-2023-33580 (XSS) &amp; CVE-2023-33584 (SQLI) discovered by me. Dive into vulnerabilities and exploits for insights.",
+      "date": "2023-06-04",
+      "raw_date": "2023-06-04T11:27:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[hau-zy/KeePass-dump-py](https://github.com/hau-zy/KeePass-dump-py)",
+      "description": "Re-write of original KeePass 2.X Master Password Dumper (CVE-2023-32784) POC in python.",
+      "date": "2023-06-04",
+      "raw_date": "2023-06-04T08:24:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.268528",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2023-06-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

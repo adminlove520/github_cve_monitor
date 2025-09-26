@@ -1,0 +1,27 @@
+{
+  "date": "2022-02-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[jas9reet/CVE-2021-42013-LAB](https://github.com/jas9reet/CVE-2021-42013-LAB)",
+      "description": "Apache HTTP Server 2.4.50 - RCE Lab",
+      "date": "2022-02-03",
+      "raw_date": "2022-02-03T13:26:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[Kayky-cmd/CVE-2019-6447--.](https://github.com/Kayky-cmd/CVE-2019-6447--.)",
+      "description": "no description",
+      "date": "2022-02-03",
+      "raw_date": "2022-02-03T05:50:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.118814",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-02-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

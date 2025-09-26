@@ -1,0 +1,55 @@
+{
+  "date": "2023-07-15",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-36884",
+      "repo_info": "[zerosorai/CVE-2023-36884](https://github.com/zerosorai/CVE-2023-36884)",
+      "description": "This is an emergency solution while Microsoft addresses the vulnerability.",
+      "date": "2023-07-15",
+      "raw_date": "2023-07-15T16:56:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-30383",
+      "repo_info": "[a2ure123/CVE-2023-30383](https://github.com/a2ure123/CVE-2023-30383)",
+      "description": "no description",
+      "date": "2023-07-15",
+      "raw_date": "2023-07-15T08:43:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-39986",
+      "repo_info": "[flamebarke/nmap-printer-nse-scripts](https://github.com/flamebarke/nmap-printer-nse-scripts)",
+      "description": "NSE port of CVE-2022-1026 exploit for mass identification and exploitation",
+      "date": "2023-07-15",
+      "raw_date": "2023-07-15T14:56:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-40449",
+      "repo_info": "[toanthang1842002/CVE-2021-40449](https://github.com/toanthang1842002/CVE-2021-40449)",
+      "description": "no description",
+      "date": "2023-07-15",
+      "raw_date": "2023-07-15T15:17:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-40449",
+      "repo_info": "[hheeyywweellccoommee/CVE-2021-40449-xarrd](https://github.com/hheeyywweellccoommee/CVE-2021-40449-xarrd)",
+      "description": "no description",
+      "date": "2023-07-15",
+      "raw_date": "2023-07-15T16:02:13Z"
+    },
+    {
+      "cve_id": "CVE-2017-6074",
+      "repo_info": "[toanthang1842002/CVE-2017-6074](https://github.com/toanthang1842002/CVE-2017-6074)",
+      "description": "no description",
+      "date": "2023-07-15",
+      "raw_date": "2023-07-15T12:20:51Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.274984",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-07-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

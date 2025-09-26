@@ -1,0 +1,405 @@
+{
+  "date": "2023-01-26",
+  "count": 56,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-24709",
+      "repo_info": "[SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC](https://github.com/SlashXzerozero/Injection-vulnerability-in-Paradox-Security-Systems-IPR512-CVE-2023-24709-PoC)",
+      "description": "In Paradox Security System IPR512 Web console login form page, attacker can input JavaScript string, such as &quot;&lt;/script&gt;&quot; that will overwrite configurations in the file &quot;login.xml&quot; and cause the login page to crash.",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T12:13:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-0410",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0410](https://github.com/Live-Hack-CVE/CVE-2023-0410)",
+      "description": "Cross-site Scripting (XSS) - Generic in GitHub repository builderio/qwik prior to 0.1.0-beta5. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:05:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-0396",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0396](https://github.com/Live-Hack-CVE/CVE-2023-0396)",
+      "description": "A malicious / defective bluetooth controller can cause buffer overreads in the most functions that process HCI command responses. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-0296",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0296](https://github.com/Live-Hack-CVE/CVE-2023-0296)",
+      "description": "The Birthday attack against 64-bit block ciphers flaw (CVE-2016-2183) was reported for the health checks port (9979) on etcd grpc-proxy component. Even though the CVE-2016-2183 has been fixed in the etcd components, to enable periodic health checks from kubelet, it was necessary to open up a new port (9979) on etcd grp CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-48191",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48191](https://github.com/Live-Hack-CVE/CVE-2022-48191)",
+      "description": "A vulnerability exists in Trend Micro Maximum Security 2022 (17.7) wherein a low-privileged user can write a known malicious executable to a specific location and in the process of removal and restoral an attacker could replace an original folder with a mount point to an arbitrary location, allowing a escalation of pri CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-48126",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48126](https://github.com/Live-Hack-CVE/CVE-2022-48126)",
+      "description": "TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the username parameter in the setting/setOpenVpnCertGenerationCfg function. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-48125",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48125](https://github.com/Live-Hack-CVE/CVE-2022-48125)",
+      "description": "TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the password parameter in the setting/setOpenVpnCertGenerationCfg function. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-48124",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48124](https://github.com/Live-Hack-CVE/CVE-2022-48124)",
+      "description": "TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the FileName parameter in the setting/setOpenVpnCertGenerationCfg function. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-48123",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48123](https://github.com/Live-Hack-CVE/CVE-2022-48123)",
+      "description": "TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the servername parameter in the setting/delStaticDhcpRules function. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-48122",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48122](https://github.com/Live-Hack-CVE/CVE-2022-48122)",
+      "description": "TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the dayvalid parameter in the setting/delStaticDhcpRules function. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-48121",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48121](https://github.com/Live-Hack-CVE/CVE-2022-48121)",
+      "description": "TOTOlink A7100RU V7.4cu.2313_B20191024 was discovered to contain a command injection vulnerability via the rsabits parameter in the setting/delStaticDhcpRules function. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-47917",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47917](https://github.com/Live-Hack-CVE/CVE-2022-47917)",
+      "description": "Sewio’s Real-Time Location System (RTLS) Studio version 2.0.0 up to and including version 2.6.2 is vulnerable to improper input validation of user input to several modules and services of the software. This could allow an attacker to delete arbitrary files and cause a denial-of-service condition. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-44877",
+      "repo_info": "[straight-tamago/FileSwitcherPro](https://github.com/straight-tamago/FileSwitcherPro)",
+      "description": "CVE-2022-46689",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T19:52:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-43977",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43977](https://github.com/Live-Hack-CVE/CVE-2022-43977)",
+      "description": "An issue was discovered on GE Grid Solutions MS3000 devices before 3.7.6.25p0_3.2.2.17p0_4.7p0. The debug port accessible via TCP (a qconn service) lacks access control. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-43976",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43976](https://github.com/Live-Hack-CVE/CVE-2022-43976)",
+      "description": "An issue was discovered in FC46-WebBridge on GE Grid Solutions MS3000 devices before 3.7.6.25p0_3.2.2.17p0_4.7p0. Direct access to the API is possible on TCP port 8888 via programs located in the cgi-bin folder without any authentication. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-40997",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40997](https://github.com/Live-Hack-CVE/CVE-2022-40997)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-40996",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40996](https://github.com/Live-Hack-CVE/CVE-2022-40996)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-40995",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40995](https://github.com/Live-Hack-CVE/CVE-2022-40995)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-40994",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40994](https://github.com/Live-Hack-CVE/CVE-2022-40994)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-40992",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40992](https://github.com/Live-Hack-CVE/CVE-2022-40992)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-40991",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40991](https://github.com/Live-Hack-CVE/CVE-2022-40991)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-40990",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40990](https://github.com/Live-Hack-CVE/CVE-2022-40990)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-40987",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40987](https://github.com/Live-Hack-CVE/CVE-2022-40987)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-40986",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40986](https://github.com/Live-Hack-CVE/CVE-2022-40986)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-40985",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40985](https://github.com/Live-Hack-CVE/CVE-2022-40985)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-40701",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40701](https://github.com/Live-Hack-CVE/CVE-2022-40701)",
+      "description": "A directory traversal vulnerability exists in the httpd delfile.cgi functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted HTTP request can lead to arbitrary file deletion. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-40220",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40220](https://github.com/Live-Hack-CVE/CVE-2022-40220)",
+      "description": "An OS command injection vulnerability exists in the httpd txt/restore.cgi functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network request can lead to arbitrary command execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:33:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-38715",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38715](https://github.com/Live-Hack-CVE/CVE-2022-38715)",
+      "description": "A leftover debug code vulnerability exists in the httpd shell.cgi functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted HTTP request can lead to remote code execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:32:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-38459",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38459](https://github.com/Live-Hack-CVE/CVE-2022-38459)",
+      "description": "A stack-based buffer overflow vulnerability exists in the httpd downfile.cgi functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted HTTP request can lead to remote code execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:32:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-38088",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38088](https://github.com/Live-Hack-CVE/CVE-2022-38088)",
+      "description": "A directory traversal vulnerability exists in the httpd downfile.cgi functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted HTTP request can lead to arbitrary file read. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:32:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-3806",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3806](https://github.com/Live-Hack-CVE/CVE-2022-3806)",
+      "description": "Inconsistent handling of error cases in bluetooth hci may lead to a double free condition of a network buffer. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-36279",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-36279](https://github.com/Live-Hack-CVE/CVE-2022-36279)",
+      "description": "A stack-based buffer overflow vulnerability exists in the httpd delfile.cgi functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted HTTP request can lead to remote code execution. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T23:32:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-36279",
+      "repo_info": "[sondermc/git-cveissues](https://github.com/sondermc/git-cveissues)",
+      "description": "vulnerabilities, CVE-2022-41903, and CVE-2022-23521, that affect versions 2.39 and older. Git for Windows was also patched to address an additional, Windows-specific issue known as CVE-2022-41953.",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T08:34:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-3100",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3100](https://github.com/Live-Hack-CVE/CVE-2022-3100)",
+      "description": "A flaw was found in the openstack-barbican component. This issue allows an access policy bypass via a query string when accessing the API. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:05:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-23521",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-23521](https://github.com/Live-Hack-CVE/CVE-2022-23521)",
+      "description": "Git is distributed revision control system. gitattributes are a mechanism to allow defining attributes for paths. These attributes can be defined by adding a `.gitattributes` file to the repository, which contains a set of file patterns and the attributes that should be set for paths matching this pattern. When parsing CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-20964",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-20964](https://github.com/Live-Hack-CVE/CVE-2022-20964)",
+      "description": "A vulnerability in the web-based management interface of Cisco Identity Services Engine could allow an authenticated, remote attacker to inject arbitrary commands on the underlying operating system. This vulnerability is due to improper validation of user input within requests as part of the web-based management interf CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:12Z"
+    },
+    {
+      "cve_id": "CVE-2016-4226",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4226](https://github.com/Live-Hack-CVE/CVE-2016-4226)",
+      "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-4173, CVE-2016-4174, CVE-2016-4222, CVE-2016-4227, CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:34Z"
+    },
+    {
+      "cve_id": "CVE-2016-4225",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4225](https://github.com/Live-Hack-CVE/CVE-2016-4225)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code by leveraging an unspecified &quot;type confusion,&quot; a different vulnerability than CVE-2016-4223 and CVE-2016-4224. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:54Z"
+    },
+    {
+      "cve_id": "CVE-2016-4224",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4224](https://github.com/Live-Hack-CVE/CVE-2016-4224)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code by leveraging an unspecified &quot;type confusion,&quot; a different vulnerability than CVE-2016-4223 and CVE-2016-4225. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:55:02Z"
+    },
+    {
+      "cve_id": "CVE-2016-4223",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4223](https://github.com/Live-Hack-CVE/CVE-2016-4223)",
+      "description": "Adobe Flash Player before 18.0.0.366 and 19.x through 22.x before 22.0.0.209 on Windows and OS X and before 11.2.202.632 on Linux allows attackers to execute arbitrary code by leveraging an unspecified &quot;type confusion,&quot; a different vulnerability than CVE-2016-4224 and CVE-2016-4225. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2016-4128",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4128](https://github.com/Live-Hack-CVE/CVE-2016-4128)",
+      "description": "Unspecified vulnerability in Adobe Flash Player 21.0.0.242 and earlier, as used in the Adobe Flash libraries in Microsoft Internet Explorer 10 and 11 and Microsoft Edge, has unknown impact and attack vectors, a different vulnerability than other CVEs listed in MS16-083. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:20:59Z"
+    },
+    {
+      "cve_id": "CVE-2016-4127",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4127](https://github.com/Live-Hack-CVE/CVE-2016-4127)",
+      "description": "Unspecified vulnerability in Adobe Flash Player 21.0.0.242 and earlier, as used in the Adobe Flash libraries in Microsoft Internet Explorer 10 and 11 and Microsoft Edge, has unknown impact and attack vectors, a different vulnerability than other CVEs listed in MS16-083. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:03Z"
+    },
+    {
+      "cve_id": "CVE-2016-4126",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4126](https://github.com/Live-Hack-CVE/CVE-2016-4126)",
+      "description": "Unspecified vulnerability in Adobe Flash Player 21.0.0.242 and earlier, as used in the Adobe Flash libraries in Microsoft Internet Explorer 10 and 11 and Microsoft Edge, has unknown impact and attack vectors, a different vulnerability than other CVEs listed in MS16-083. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:07Z"
+    },
+    {
+      "cve_id": "CVE-2016-4125",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-4125](https://github.com/Live-Hack-CVE/CVE-2016-4125)",
+      "description": "Unspecified vulnerability in Adobe Flash Player 21.0.0.242 and earlier, as used in the Adobe Flash libraries in Microsoft Internet Explorer 10 and 11 and Microsoft Edge, has unknown impact and attack vectors, a different vulnerability than other CVEs listed in MS16-083. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:11Z"
+    },
+    {
+      "cve_id": "CVE-2016-1031",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1031](https://github.com/Live-Hack-CVE/CVE-2016-1031)",
+      "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1013, CVE-2016-1016, and CVE-2016-1 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:39Z"
+    },
+    {
+      "cve_id": "CVE-2016-1029",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1029](https://github.com/Live-Hack-CVE/CVE-2016-1029)",
+      "description": "Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1012, CVE-2016-1020, CVE-2016-102 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:30Z"
+    },
+    {
+      "cve_id": "CVE-2016-1028",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1028](https://github.com/Live-Hack-CVE/CVE-2016-1028)",
+      "description": "Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1012, CVE-2016-1020, CVE-2016-102 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:19Z"
+    },
+    {
+      "cve_id": "CVE-2016-1027",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1027](https://github.com/Live-Hack-CVE/CVE-2016-1027)",
+      "description": "Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1012, CVE-2016-1020, CVE-2016-102 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:26Z"
+    },
+    {
+      "cve_id": "CVE-2016-1026",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1026](https://github.com/Live-Hack-CVE/CVE-2016-1026)",
+      "description": "Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1012, CVE-2016-1020, CVE-2016-102 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:23Z"
+    },
+    {
+      "cve_id": "CVE-2016-1025",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1025](https://github.com/Live-Hack-CVE/CVE-2016-1025)",
+      "description": "Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code or cause a denial of service (memory corruption) via unspecified vectors, a different vulnerability than CVE-2016-1012, CVE-2016-1020, CVE-2016-102 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T21:21:15Z"
+    },
+    {
+      "cve_id": "CVE-2016-1017",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1017](https://github.com/Live-Hack-CVE/CVE-2016-1017)",
+      "description": "Use-after-free vulnerability in the LoadVars.decode function in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-101 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:43Z"
+    },
+    {
+      "cve_id": "CVE-2016-1016",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1016](https://github.com/Live-Hack-CVE/CVE-2016-1016)",
+      "description": "Use-after-free vulnerability in the Transform object implementation in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via a flash.geom.Matrix callback, a different vulnerability than CVE-2016-10 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:05:13Z"
+    },
+    {
+      "cve_id": "CVE-2016-1013",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1013](https://github.com/Live-Hack-CVE/CVE-2016-1013)",
+      "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1011, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:24Z"
+    },
+    {
+      "cve_id": "CVE-2016-1011",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-1011](https://github.com/Live-Hack-CVE/CVE-2016-1011)",
+      "description": "Use-after-free vulnerability in Adobe Flash Player before 18.0.0.343 and 19.x through 21.x before 21.0.0.213 on Windows and OS X and before 11.2.202.616 on Linux allows attackers to execute arbitrary code via unspecified vectors, a different vulnerability than CVE-2016-1013, CVE-2016-1016, CVE-2016-1017, and CVE-2016-1 CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T15:54:28Z"
+    },
+    {
+      "cve_id": "CVE-2014-2383",
+      "repo_info": "[Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation](https://github.com/Relativ3Pa1n/CVE-2014-2383-LFI-to-RCE-Escalation)",
+      "description": "no description",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:01:50Z"
+    },
+    {
+      "cve_id": "CVE-2014-2383",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-2383](https://github.com/Live-Hack-CVE/CVE-2014-2383)",
+      "description": "dompdf.php in dompdf before 0.6.1, when DOMPDF_ENABLE_PHP is enabled, allows context-dependent attackers to bypass chroot protections and read arbitrary files via a PHP protocol and wrappers in the input_file parameter, as demonstrated by a php://filter/read=convert.base64-encode/resource in the input_file parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-26",
+      "raw_date": "2023-01-26T18:04:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.231654",
+  "metadata": {
+    "total_cves": 56,
+    "date_range": "2023-01-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2018-11-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[lucagiovagnoli/CVE-2018-4407](https://github.com/lucagiovagnoli/CVE-2018-4407)",
+      "description": "A buffer overflow vulnerability in the XNU kernel&#x27;s ICMP error code causes IOS devices to crash (laptops and mobiles).",
+      "date": "2018-11-04",
+      "raw_date": "2018-11-04T05:10:38Z"
+    },
+    {
+      "cve_id": "CVE-2018-4407",
+      "repo_info": "[r3dxpl0it/CVE-2018-4407](https://github.com/r3dxpl0it/CVE-2018-4407)",
+      "description": "IOS/MAC Denial-Of-Service [POC/EXPLOIT FOR MASSIVE ATTACK TO IOS/MAC IN NETWORK]",
+      "date": "2018-11-04",
+      "raw_date": "2018-11-04T01:47:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.996499",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-11-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

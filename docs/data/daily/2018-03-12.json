@@ -1,0 +1,41 @@
+{
+  "date": "2018-03-12",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-3066",
+      "repo_info": "[codewhitesec/ColdFusionPwn](https://github.com/codewhitesec/ColdFusionPwn)",
+      "description": "Exploitation Tool for CVE-2017-3066 targeting Adobe Coldfusion 11/12",
+      "date": "2018-03-12",
+      "raw_date": "2018-03-12T16:44:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-13253",
+      "repo_info": "[tamirzb/CVE-2017-13253](https://github.com/tamirzb/CVE-2017-13253)",
+      "description": "PoC code for CVE-2017-13253",
+      "date": "2018-03-12",
+      "raw_date": "2018-03-12T16:06:21Z"
+    },
+    {
+      "cve_id": "CVE-2017-0213",
+      "repo_info": "[FixYourFace/SpringBreakPoC](https://github.com/FixYourFace/SpringBreakPoC)",
+      "description": "PoC for SpringBreak (CVE-2017-8046)",
+      "date": "2018-03-12",
+      "raw_date": "2018-03-12T18:49:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-0213",
+      "repo_info": "[Hurdano/CVE-CISCO-2017-15805](https://github.com/Hurdano/CVE-CISCO-2017-15805)",
+      "description": "no description",
+      "date": "2018-03-12",
+      "raw_date": "2018-03-12T10:50:34Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.974219",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2018-03-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

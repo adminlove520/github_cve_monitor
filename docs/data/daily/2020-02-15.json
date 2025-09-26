@@ -1,0 +1,20 @@
+{
+  "date": "2020-02-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[withmasday/HTC](https://github.com/withmasday/HTC)",
+      "description": "Hack The CCTV - DVRs; Credentials Exposed - CVE-2018-9995",
+      "date": "2020-02-15",
+      "raw_date": "2020-02-15T04:42:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.041728",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-02-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

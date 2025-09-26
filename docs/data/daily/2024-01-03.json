@@ -1,0 +1,69 @@
+{
+  "date": "2024-01-03",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[julienbrs/malicious-exploit-CVE-2023-51385](https://github.com/julienbrs/malicious-exploit-CVE-2023-51385)",
+      "description": "no description",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T19:08:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[julienbrs/exploit-CVE-2023-51385](https://github.com/julienbrs/exploit-CVE-2023-51385)",
+      "description": "no description",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T18:40:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[uccu99/CVE-2023-51385](https://github.com/uccu99/CVE-2023-51385)",
+      "description": "no description",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T06:28:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-48864",
+      "repo_info": "[f3lze3/CVE-2023-48864](https://github.com/f3lze3/CVE-2023-48864)",
+      "description": "CVE-2023-48864",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T12:12:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[Sumitpathania03/CVE-2022-22947](https://github.com/Sumitpathania03/CVE-2022-22947)",
+      "description": "no description",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T09:37:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[nvk0x/CVE-2022-1388-exploit](https://github.com/nvk0x/CVE-2022-1388-exploit)",
+      "description": "exploit poc",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T12:28:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-0995",
+      "repo_info": "[1nzag/CVE-2022-0995](https://github.com/1nzag/CVE-2022-0995)",
+      "description": "CVE-2022-0995 exploit",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T11:03:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-11023",
+      "repo_info": "[Cybernegro/CVE-2020-11023](https://github.com/Cybernegro/CVE-2020-11023)",
+      "description": "CVE-2020-11023  PoC for bug bounty.",
+      "date": "2024-01-03",
+      "raw_date": "2024-01-03T02:35:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.302480",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-01-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2023-05-31",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-33381",
+      "repo_info": "[duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC](https://github.com/duality084/CVE-2023-33381-MitraStar-GPT-2741GNAC)",
+      "description": "CVE-2023-33381: OS command injection on MitraStar GPT-2741GNAC",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T22:30:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-33246",
+      "repo_info": "[yizhimanpadewoniu/CVE-2023-33246-Copy](https://github.com/yizhimanpadewoniu/CVE-2023-33246-Copy)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T07:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-3009",
+      "repo_info": "[mnqazi/CVE-2023-3009](https://github.com/mnqazi/CVE-2023-3009)",
+      "description": "Stored XSS vulnerability in Teampass &lt; 3.0.9 (Bypass of CVE-2023–2516) — M Nadeem Qazi",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T16:23:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-28244",
+      "repo_info": "[sk3w/cve-2023-28244](https://github.com/sk3w/cve-2023-28244)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T16:43:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-2732",
+      "repo_info": "[domainhigh/CVE-2023-2732-Mass](https://github.com/domainhigh/CVE-2023-2732-Mass)",
+      "description": "CVE-2023-2732 Mass",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T02:43:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-20493",
+      "repo_info": "[Trinadh465/frameworks_base_CVE-2022-20493](https://github.com/Trinadh465/frameworks_base_CVE-2022-20493)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T09:18:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-20492",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20492](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20492)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T07:07:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-20490",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20490](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20490)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T10:45:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-20489",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T11:56:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-20489",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20489_old)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T11:22:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-20456",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2022-20456)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T10:07:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-0778",
+      "repo_info": "[bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-](https://github.com/bL34cHig0/Telstra-Cybersecurity-Virtual-Experience-)",
+      "description": "A simple python script for a firewall rule that blocks incoming requests based on the Spring4Shell (CVE-2022-22965) vulnerability",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T12:04:25Z"
+    },
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[reneoliveirajr/wp_CVE-2020-35489_checker](https://github.com/reneoliveirajr/wp_CVE-2020-35489_checker)",
+      "description": "Verificador de Vulnerabilidade CVE-2020-35489 em Sites Wordpress",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T02:12:26Z"
+    },
+    {
+      "cve_id": "CVE-2020-13995",
+      "repo_info": "[dbrumley/extract75-cve-2020-13995](https://github.com/dbrumley/extract75-cve-2020-13995)",
+      "description": "no description",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T00:47:22Z"
+    },
+    {
+      "cve_id": "CVE-2010-2075",
+      "repo_info": "[FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1](https://github.com/FredBrave/CVE-2010-2075-UnrealIRCd-3.2.8.1)",
+      "description": "Exploit for CVE:2010-2075. This exploit allows remote command execution in UnrealIRCd 3.2.8.1.",
+      "date": "2023-05-31",
+      "raw_date": "2023-05-31T23:35:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.267891",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2023-05-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

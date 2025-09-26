@@ -1,0 +1,83 @@
+{
+  "date": "2025-08-06",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-54794",
+      "repo_info": "[AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back](https://github.com/AdityaBhatt3010/CVE-2025-54794-Hijacking-Claude-AI-with-a-Prompt-Injection-The-Jailbreak-That-Talked-Back)",
+      "description": "A high-severity prompt injection flaw in Claude AI proves that even the smartest language models can be turned into weapons — all with a few lines of code.",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T08:29:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-54253",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-54253](https://github.com/B1ack4sh/Blackash-CVE-2025-54253)",
+      "description": "CVE-2025-54253",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T10:37:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-54253",
+      "repo_info": "[Shivshantp/CVE-2025-54253-Exploit-Demo](https://github.com/Shivshantp/CVE-2025-54253-Exploit-Demo)",
+      "description": "Simulated PoC for CVE-2025-54253: Adobe AEM OGNL Injection Vulnerability",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T19:28:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[570RMBR3AK3R/xwiki-cve-2025-24893-poc](https://github.com/570RMBR3AK3R/xwiki-cve-2025-24893-poc)",
+      "description": "PoC for CVE-2025-24893",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T15:56:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[salo-404/firewall](https://github.com/salo-404/firewall)",
+      "description": "🔒 Spring4Shell Firewall Defense — Cybersecurity Incident Simulation This project is part of a Cybersecurity Job Simulation I completed in August 2025 through Forage. It focuses on detecting, analyzing, and mitigating a simulated real-world cyberattack involving the Spring4Shell (CVE-2022-22965) vulnerability",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T07:58:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[cyglegit/CVE-2025-24813](https://github.com/cyglegit/CVE-2025-24813)",
+      "description": "Automated scanner + exploit for CVE-2025-24813",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T07:16:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-32167",
+      "repo_info": "[Narsimhareddy28/CVE-2024-32167](https://github.com/Narsimhareddy28/CVE-2024-32167)",
+      "description": "no description",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T23:03:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-32019",
+      "repo_info": "[C0deInBlack/CVE-2024-32019-poc](https://github.com/C0deInBlack/CVE-2024-32019-poc)",
+      "description": "Netdata ndsudo PoC",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T22:49:45Z"
+    },
+    {
+      "cve_id": "CVE-2021-3544",
+      "repo_info": "[Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE](https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE)",
+      "description": "POC for CVE-2021-3544 based on https://www.exploit-db.com/exploits/49601",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T16:10:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-](https://github.com/esmwaSpyware/DoS-PoC-for-CVE-2020-0796-SMBGhost-)",
+      "description": "no description",
+      "date": "2025-08-06",
+      "raw_date": "2025-08-06T07:03:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.407657",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-08-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

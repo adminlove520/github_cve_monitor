@@ -1,0 +1,97 @@
+{
+  "date": "2023-07-20",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-36884",
+      "repo_info": "[ToddMaxey/CVE-2023-36884](https://github.com/ToddMaxey/CVE-2023-36884)",
+      "description": "PowerShell Script for initial mitigation of vulnerability",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T21:10:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-3519",
+      "repo_info": "[telekom-security/cve-2023-3519-citrix-scanner](https://github.com/telekom-security/cve-2023-3519-citrix-scanner)",
+      "description": "Citrix Scanner for CVE-2023-3519",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T13:16:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-3519",
+      "repo_info": "[securekomodo/citrixInspector](https://github.com/securekomodo/citrixInspector)",
+      "description": "Accurately fingerprint and detect vulnerable versions of Netscaler / Citrix ADC to CVE-2023-3519",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T16:05:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-31753",
+      "repo_info": "[khmk2k/CVE-2023-31753](https://github.com/khmk2k/CVE-2023-31753)",
+      "description": "Proof of Concept for CVE-2023-31753 - eNdonesia Portal 8.7",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T13:56:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-28121",
+      "repo_info": "[Jenderal92/CVE-2023-28121](https://github.com/Jenderal92/CVE-2023-28121)",
+      "description": "Python 2.7",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T09:28:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[overgrowncarrot1/CVE-2023-27163](https://github.com/overgrowncarrot1/CVE-2023-27163)",
+      "description": "CVE-2023-27163",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T00:18:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-44875",
+      "repo_info": "[c0d30d1n/CVE-2022-44875-Test](https://github.com/c0d30d1n/CVE-2022-44875-Test)",
+      "description": "Testing CVE-2022-44875",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T14:30:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-44735",
+      "repo_info": "[defensor/CVE-2021-44735](https://github.com/defensor/CVE-2021-44735)",
+      "description": "Exploit for CVE-2021-44735",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T09:20:13Z"
+    },
+    {
+      "cve_id": "CVE-2021-23017",
+      "repo_info": "[lakshit1212/CVE-2021-23017-PoC](https://github.com/lakshit1212/CVE-2021-23017-PoC)",
+      "description": "no description",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T05:39:01Z"
+    },
+    {
+      "cve_id": "CVE-2018-0959",
+      "repo_info": "[pwndorei/CVE-2018-0959](https://github.com/pwndorei/CVE-2018-0959)",
+      "description": "Exploit CVE-2018-0959",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T06:44:57Z"
+    },
+    {
+      "cve_id": "CVE-2015-2166",
+      "repo_info": "[K3ysTr0K3R/CVE-2015-2166-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2015-2166-EXPLOIT)",
+      "description": "CVE-2015-2166 is a directory traversal vulnerability in Ericsson Drutt Mobile Service Delivery Platform (MSDP) versions 4, 5, and 6. It allows remote attackers to read arbitrary files on the system using &quot;..%2f&quot; in the default URI.",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T15:58:01Z"
+    },
+    {
+      "cve_id": "CVE-2010-4231",
+      "repo_info": "[K3ysTr0K3R/CVE-2010-4231-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2010-4231-EXPLOIT)",
+      "description": "CVE-2010-4231: Directory Traversal in Camtron CMNC-200 &amp; TecVoz CMNC-200 IP Cameras. Remote attackers can read arbitrary files using &quot;..&quot; traversal in the URI.",
+      "date": "2023-07-20",
+      "raw_date": "2023-07-20T14:37:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.275653",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2023-07-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

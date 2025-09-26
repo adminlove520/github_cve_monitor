@@ -1,0 +1,20 @@
+{
+  "date": "2017-09-09",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[mazen160/struts-pwn_CVE-2017-9805](https://github.com/mazen160/struts-pwn_CVE-2017-9805)",
+      "description": "An exploit for Apache Struts CVE-2017-9805",
+      "date": "2017-09-09",
+      "raw_date": "2017-09-09T01:32:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.956711",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-09-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

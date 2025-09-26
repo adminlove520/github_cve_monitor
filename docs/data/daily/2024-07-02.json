@@ -1,0 +1,384 @@
+{
+  "date": "2024-07-02",
+  "count": 53,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[zgimszhd61/cve-2024-6387-poc](https://github.com/zgimszhd61/cve-2024-6387-poc)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T01:39:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[betancour/OpenSSH-Vulnerability-test](https://github.com/betancour/OpenSSH-Vulnerability-test)",
+      "description": "OpenSSH CVE-2024-6387 Vulnerability Checker",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T01:24:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[3yujw7njai/CVE-2024-6387](https://github.com/3yujw7njai/CVE-2024-6387)",
+      "description": "SSH RCE PoC CVE-2024-6387",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T01:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[l0n3m4n/CVE-2024-6387](https://github.com/l0n3m4n/CVE-2024-6387)",
+      "description": "PoC - Remote Unauthenticated Code Execution Vulnerability in OpenSSH server (CVE-2024-6387)",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T18:32:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[devarshishimpi/CVE-2024-6387-Check](https://github.com/devarshishimpi/CVE-2024-6387-Check)",
+      "description": "CVE-2024-6387 Checker is a fast, efficient tool for detecting OpenSSH servers vulnerable to the regreSSHion exploit. It quickly scans multiple IPs, domain names, and CIDR ranges to identify risks and help secure your infrastructure.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T11:55:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[grupooruss/CVE-2024-6387-Tester](https://github.com/grupooruss/CVE-2024-6387-Tester)",
+      "description": "regreSSHion vulnerability in OpenSSH CVE-2024-6387 Testing Script",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T21:16:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker](https://github.com/EkaterinaMarchetti/CVE-2024-6387-regreSSHion-Checker)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T21:13:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[edsonjt81/CVE-2024-6387_Check](https://github.com/edsonjt81/CVE-2024-6387_Check)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T20:35:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[RickGeex/CVE-2024-6387-Checker](https://github.com/RickGeex/CVE-2024-6387-Checker)",
+      "description": "CVE-2024-6387-Check is a streamlined and efficient tool created to detect servers operating on vulnerable versions of OpenSSH.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T18:46:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[BrandonLynch2402/cve-2024-6387-nuclei-template](https://github.com/BrandonLynch2402/cve-2024-6387-nuclei-template)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T20:19:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[xonoxitron/regreSSHion-checker](https://github.com/xonoxitron/regreSSHion-checker)",
+      "description": "Quickly identifies servers vulnerable to OpenSSH &#x27;regreSSHion&#x27; (CVE-2024-6387).",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T18:59:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[n1cks0n/Test_CVE-2024-6387](https://github.com/n1cks0n/Test_CVE-2024-6387)",
+      "description": "Test_CVE-2024-6387 is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T18:30:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[th3gokul/CVE-2024-6387](https://github.com/th3gokul/CVE-2024-6387)",
+      "description": "CVE-2024-6387 : Vulnerability Detection tool  for regreSSHion Remote Unauthenticated Code Execution in OpenSSH Server",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T17:04:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[MrR0b0t19/CVE-2024-6387-Exploit-POC](https://github.com/MrR0b0t19/CVE-2024-6387-Exploit-POC)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T16:34:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[AiGptCode/ssh_exploiter_CVE-2024-6387](https://github.com/AiGptCode/ssh_exploiter_CVE-2024-6387)",
+      "description": "CVE-2024-6387 with auto ip scanner and auto expliot",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T12:57:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[xonoxitron/regreSSHion](https://github.com/xonoxitron/regreSSHion)",
+      "description": "CVE-2024-6387 (regreSSHion) Exploit (PoC), a vulnerability in OpenSSH&#x27;s server (sshd) on glibc-based Linux systems.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T14:41:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[dawnl3ss/CVE-2024-6387](https://github.com/dawnl3ss/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T15:13:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[no-one-sec/CVE-2024-6387](https://github.com/no-one-sec/CVE-2024-6387)",
+      "description": "开箱即用的AK47",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T15:13:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[xristos8574/regreSSHion-nmap-scanner](https://github.com/xristos8574/regreSSHion-nmap-scanner)",
+      "description": "A bash script for nmap to scan for vulnerable machines in regards to the latest CVE-2024-6387",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T13:50:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[k4t3pr0/CVE-2024-6387-POC](https://github.com/k4t3pr0/CVE-2024-6387-POC)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T10:05:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[ACHUX21/checker-CVE-2024-6387](https://github.com/ACHUX21/checker-CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T12:48:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[hssmo/cve-2024-6387_AImade](https://github.com/hssmo/cve-2024-6387_AImade)",
+      "description": "cve-2024-6387_AImade",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T12:24:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[rumochnaya/openssh-cve-2024-6387.sh](https://github.com/rumochnaya/openssh-cve-2024-6387.sh)",
+      "description": "openssh-cve-2024-6387.sh",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T11:05:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[zenzue/CVE-2024-6387-Mitigation](https://github.com/zenzue/CVE-2024-6387-Mitigation)",
+      "description": "Mitigation Guide for CVE-2024-6387 in OpenSSH",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T11:08:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook](https://github.com/DanWiseProgramming/CVE-2024-6387-Mitigation-Ansible-Playbook)",
+      "description": "An Ansible Playbook to mitigate the risk of RCE (CVE-2024-6387) until platforms update OpenSSH to a non-vulnerable version.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T10:34:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[SecWithMoh/CVE-2024-6387](https://github.com/SecWithMoh/CVE-2024-6387)",
+      "description": "This Go program scans targets for CVE-2024-6387 in OpenSSH, categorizing servers by vulnerability status and port availability.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T09:41:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[ahlfors/CVE-2024-6387](https://github.com/ahlfors/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T03:42:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[PrincipalAnthony/CVE-2024-6387-Updated-x64bit](https://github.com/PrincipalAnthony/CVE-2024-6387-Updated-x64bit)",
+      "description": "Private x64 RCE exploit for CVE-2024-6387 [02.07.2024] from exploit.in",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T09:45:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Maikefee/CVE-2024-6387_Check.py](https://github.com/Maikefee/CVE-2024-6387_Check.py)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T03:27:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[CiderAndWhisky/regression-scanner](https://github.com/CiderAndWhisky/regression-scanner)",
+      "description": "Used to detect ssh servers vulnerable to CVE-2024-6387. Shameless robbery from https://github.com/bigb0x/CVE-2024-6387 using ChatGPT to translate the code to PHP.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T07:42:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[R4Tw1z/CVE-2024-6387](https://github.com/R4Tw1z/CVE-2024-6387)",
+      "description": "This script, created by R4Tw1z, is designed to scan IP addresses to check if they are running a potentially vulnerable version of OpenSSH. The tool leverages multi-threading to optimize scanning performance and handle multiple IP addresses concurrently.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T06:40:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[shamo0/CVE-2024-6387_PoC](https://github.com/shamo0/CVE-2024-6387_PoC)",
+      "description": "Script for checking CVE-2024-6387 (regreSSHion)",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T08:13:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[paradessia/CVE-2024-6387-nmap](https://github.com/paradessia/CVE-2024-6387-nmap)",
+      "description": "CVE-2024-6387-nmap",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T08:19:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[oliferFord/CVE-2024-6387-SSH-RCE](https://github.com/oliferFord/CVE-2024-6387-SSH-RCE)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T06:54:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[d0rb/CVE-2024-6387](https://github.com/d0rb/CVE-2024-6387)",
+      "description": "This Python script exploits a remote code execution vulnerability (CVE-2024-6387) in OpenSSH.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T06:53:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[HadesNull123/CVE-2024-6387_Check](https://github.com/HadesNull123/CVE-2024-6387_Check)",
+      "description": "RCE OpenSSH CVE-2024-6387 Check",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T05:21:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[thegenetic/CVE-2024-6387-exploit](https://github.com/thegenetic/CVE-2024-6387-exploit)",
+      "description": "CVE-2024-6387 exploit",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T04:09:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Mufti22/CVE-2024-6387-checkher](https://github.com/Mufti22/CVE-2024-6387-checkher)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T03:48:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[TAM-K592/CVE-2024-6387](https://github.com/TAM-K592/CVE-2024-6387)",
+      "description": "Recently, the OpenSSH maintainers released security updates to fix a critical vulnerability that could lead to unauthenticated remote code execution (RCE) with root privileges. This vulnerability, identified as CVE-2024-6387, resides in the OpenSSH server component (sshd), which is designed to listen for connections from client applications.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T02:51:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[teamos-hub/regreSSHion](https://github.com/teamos-hub/regreSSHion)",
+      "description": "This is a POC I wrote for CVE-2024-6387",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T02:54:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[muyuanlove/CVE-2024-6387fixshell](https://github.com/muyuanlove/CVE-2024-6387fixshell)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T02:35:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[yya1233/CVE-2024-6387-Updated-SSH-RCE](https://github.com/yya1233/CVE-2024-6387-Updated-SSH-RCE)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T02:09:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[CognisysGroup/CVE-2024-6387-Checker](https://github.com/CognisysGroup/CVE-2024-6387-Checker)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T21:47:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-4836",
+      "repo_info": "[sleep46/CVE-2024-4836_Check](https://github.com/sleep46/CVE-2024-4836_Check)",
+      "description": "examlpe poc of CVE-2024-4836_Check",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T17:17:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[AmbroseCdMeng/CVE-2024-32002](https://github.com/AmbroseCdMeng/CVE-2024-32002)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T13:02:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-27292",
+      "repo_info": "[th3gokul/CVE-2024-27292](https://github.com/th3gokul/CVE-2024-27292)",
+      "description": "CVE-2024-27292 : Docassemble V1.4.96 Unauthenticated Path Traversal",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T04:41:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-21006",
+      "repo_info": "[lightr3d/CVE-2024-21006_jar](https://github.com/lightr3d/CVE-2024-21006_jar)",
+      "description": "CVE-2024-21006 exp",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T06:25:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-20399",
+      "repo_info": "[Blootus/CVE-2024-20399-Cisco-RCE](https://github.com/Blootus/CVE-2024-20399-Cisco-RCE)",
+      "description": "Private exploit for Cisco Nexus giving RCE",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T23:40:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-35985",
+      "repo_info": "[N00BIER/CVE-2023-35985](https://github.com/N00BIER/CVE-2023-35985)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T12:50:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-2375",
+      "repo_info": "[0x0jr/HTB-Devvortex-CVE-2023-2375-PoC](https://github.com/0x0jr/HTB-Devvortex-CVE-2023-2375-PoC)",
+      "description": "CVE-2023-23752 Unauthenticated Information Disclosure Showcase Using Devvortex From HTB.",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T23:50:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[Sic4rio/Grafana-Decryptor-for-CVE-2021-43798](https://github.com/Sic4rio/Grafana-Decryptor-for-CVE-2021-43798)",
+      "description": "Grafana Decryptor for CVE-2021-43798",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T08:43:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[raymontag/CVE-2019-2215](https://github.com/raymontag/CVE-2019-2215)",
+      "description": "no description",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T10:35:30Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[kooroshsanaei/HikVision-CVE-2017-7921](https://github.com/kooroshsanaei/HikVision-CVE-2017-7921)",
+      "description": "Test For CVE-2017–7921;",
+      "date": "2024-07-02",
+      "raw_date": "2024-07-02T11:47:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.334291",
+  "metadata": {
+    "total_cves": 53,
+    "date_range": "2024-07-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

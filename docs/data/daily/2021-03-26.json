@@ -1,0 +1,20 @@
+{
+  "date": "2021-03-26",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-1335",
+      "repo_info": "[siramk/CVE-2018-1335](https://github.com/siramk/CVE-2018-1335)",
+      "description": "no description",
+      "date": "2021-03-26",
+      "raw_date": "2021-03-26T11:51:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.085224",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-03-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

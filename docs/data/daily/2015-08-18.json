@@ -1,0 +1,20 @@
+{
+  "date": "2015-08-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-3864",
+      "repo_info": "[pwnaccelerator/stagefright-cve-2015-3864](https://github.com/pwnaccelerator/stagefright-cve-2015-3864)",
+      "description": "PoC - Binary patches for CVE-2015-3864 (NOT for production, use at your own risk)",
+      "date": "2015-08-18",
+      "raw_date": "2015-08-18T06:24:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.889500",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-08-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

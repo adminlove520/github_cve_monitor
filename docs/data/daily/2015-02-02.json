@@ -1,0 +1,20 @@
+{
+  "date": "2015-02-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[makelinux/CVE-2015-0235-workaround](https://github.com/makelinux/CVE-2015-0235-workaround)",
+      "description": "A shared library wrapper with additional checks for vulnerable functions gethostbyname2_r gethostbyname_r (GHOST vulnerability)",
+      "date": "2015-02-02",
+      "raw_date": "2015-02-02T11:16:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.872248",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-02-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

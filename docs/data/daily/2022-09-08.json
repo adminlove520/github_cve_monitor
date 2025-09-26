@@ -1,0 +1,55 @@
+{
+  "date": "2022-09-08",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-34265",
+      "repo_info": "[coco0x0a/CTF_CVE-2022-34265](https://github.com/coco0x0a/CTF_CVE-2022-34265)",
+      "description": "no description",
+      "date": "2022-09-08",
+      "raw_date": "2022-09-08T21:22:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-20126",
+      "repo_info": "[Trinadh465/packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126](https://github.com/Trinadh465/packages_apps_Bluetooth_AOSP10_r33_CVE-2022-20126)",
+      "description": "no description",
+      "date": "2022-09-08",
+      "raw_date": "2022-09-08T10:51:13Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[digital-dev/Log4j-CVE-2021-44228-Remediation](https://github.com/digital-dev/Log4j-CVE-2021-44228-Remediation)",
+      "description": "This powershell script is intended to be used by anyone looking to remediate the Log4j Vulnerability within their environment. It can target multiple machines and run remotely as a job on all or only affected devices.",
+      "date": "2022-09-08",
+      "raw_date": "2022-09-08T00:22:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-39674",
+      "repo_info": "[nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674](https://github.com/nidhi7598/system_bt_AOSP_10_r33_CVE-2021-39674)",
+      "description": "no description",
+      "date": "2022-09-08",
+      "raw_date": "2022-09-08T06:53:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-38314",
+      "repo_info": "[akhilkoradiya/CVE-2021-38314](https://github.com/akhilkoradiya/CVE-2021-38314)",
+      "description": "CVE-2021-38314 Python Exploit",
+      "date": "2022-09-08",
+      "raw_date": "2022-09-08T09:08:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-25478",
+      "repo_info": "[santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack](https://github.com/santokum/CVE-2020-25478--ASUS-RT-AC87U-TFTP-is-vulnerable-to-Denial-of-Service-DoS-attack)",
+      "description": "ASUS RT-AC87U TFTP is vulnerable to Denial of Service(DoS) attack",
+      "date": "2022-09-08",
+      "raw_date": "2022-09-08T09:04:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.150298",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-09-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

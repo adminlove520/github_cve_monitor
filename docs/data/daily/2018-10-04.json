@@ -1,0 +1,20 @@
+{
+  "date": "2018-10-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-2794",
+      "repo_info": "[shaheemirza/TendaSpill](https://github.com/shaheemirza/TendaSpill)",
+      "description": "An exploitation tool to extract passwords using CVE-2015-5995.",
+      "date": "2018-10-04",
+      "raw_date": "2018-10-04T18:20:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.993075",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-10-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

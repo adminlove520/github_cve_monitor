@@ -1,0 +1,370 @@
+{
+  "date": "2020-11-30",
+  "count": 51,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-15999",
+      "repo_info": "[rauc/rauc-1.5-integration](https://github.com/rauc/rauc-1.5-integration)",
+      "description": "integration examples for the CVE-2020-25860 fix",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T16:39:51Z"
+    },
+    {
+      "cve_id": "CVE-2018-8120",
+      "repo_info": "[wikiZ/cve-2018-8120](https://github.com/wikiZ/cve-2018-8120)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T23:28:32Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Zeop-CyberSec/fortios_vpnssl_traversal_leak](https://github.com/Zeop-CyberSec/fortios_vpnssl_traversal_leak)",
+      "description": "This module massively scan and exploit a path traversal vulnerability in the FortiOS SSL VPN web portal may allow an unauthenticated attacker to download FortiOS system files through specially crafted HTTP resource requests (CVE-2018-13379).",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T08:39:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-5954",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-5954](https://github.com/ossf-cve-benchmark/CVE-2017-5954)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18635",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18635](https://github.com/ossf-cve-benchmark/CVE-2017-18635)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18355",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18355](https://github.com/ossf-cve-benchmark/CVE-2017-18355)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18354",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18354](https://github.com/ossf-cve-benchmark/CVE-2017-18354)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18353",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18353](https://github.com/ossf-cve-benchmark/CVE-2017-18353)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18352",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18352](https://github.com/ossf-cve-benchmark/CVE-2017-18352)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18214",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18214](https://github.com/ossf-cve-benchmark/CVE-2017-18214)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18077",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-18077](https://github.com/ossf-cve-benchmark/CVE-2017-18077)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-17461",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-17461](https://github.com/ossf-cve-benchmark/CVE-2017-17461)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16877",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16877](https://github.com/ossf-cve-benchmark/CVE-2017-16877)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16226",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16226](https://github.com/ossf-cve-benchmark/CVE-2017-16226)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16224",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16224](https://github.com/ossf-cve-benchmark/CVE-2017-16224)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16138",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16138](https://github.com/ossf-cve-benchmark/CVE-2017-16138)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16137",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16137](https://github.com/ossf-cve-benchmark/CVE-2017-16137)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16136",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16136](https://github.com/ossf-cve-benchmark/CVE-2017-16136)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16119",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16119](https://github.com/ossf-cve-benchmark/CVE-2017-16119)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16118",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16118](https://github.com/ossf-cve-benchmark/CVE-2017-16118)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16117",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16117](https://github.com/ossf-cve-benchmark/CVE-2017-16117)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16114",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16114](https://github.com/ossf-cve-benchmark/CVE-2017-16114)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16107",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16107](https://github.com/ossf-cve-benchmark/CVE-2017-16107)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16100",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16100](https://github.com/ossf-cve-benchmark/CVE-2017-16100)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16098",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16098](https://github.com/ossf-cve-benchmark/CVE-2017-16098)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16087",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16087](https://github.com/ossf-cve-benchmark/CVE-2017-16087)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16084",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16084](https://github.com/ossf-cve-benchmark/CVE-2017-16084)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16083",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16083](https://github.com/ossf-cve-benchmark/CVE-2017-16083)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16082",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16082](https://github.com/ossf-cve-benchmark/CVE-2017-16082)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16043",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16043](https://github.com/ossf-cve-benchmark/CVE-2017-16043)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16042",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16042](https://github.com/ossf-cve-benchmark/CVE-2017-16042)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16034",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16034](https://github.com/ossf-cve-benchmark/CVE-2017-16034)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16031",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16031](https://github.com/ossf-cve-benchmark/CVE-2017-16031)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16030",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16030](https://github.com/ossf-cve-benchmark/CVE-2017-16030)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16029",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16029](https://github.com/ossf-cve-benchmark/CVE-2017-16029)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16028",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16028](https://github.com/ossf-cve-benchmark/CVE-2017-16028)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16026",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16026](https://github.com/ossf-cve-benchmark/CVE-2017-16026)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-16023",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16023](https://github.com/ossf-cve-benchmark/CVE-2017-16023)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16018",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16018](https://github.com/ossf-cve-benchmark/CVE-2017-16018)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16014",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16014](https://github.com/ossf-cve-benchmark/CVE-2017-16014)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16011",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16011](https://github.com/ossf-cve-benchmark/CVE-2017-16011)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16006",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16006](https://github.com/ossf-cve-benchmark/CVE-2017-16006)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-16003",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-16003](https://github.com/ossf-cve-benchmark/CVE-2017-16003)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-15010",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-15010](https://github.com/ossf-cve-benchmark/CVE-2017-15010)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-10910",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-10910](https://github.com/ossf-cve-benchmark/CVE-2017-10910)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-1001004",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-1001004](https://github.com/ossf-cve-benchmark/CVE-2017-1001004)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000427",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-1000427](https://github.com/ossf-cve-benchmark/CVE-2017-1000427)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000219",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-1000219](https://github.com/ossf-cve-benchmark/CVE-2017-1000219)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000006",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-1000006](https://github.com/ossf-cve-benchmark/CVE-2017-1000006)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-0931",
+      "repo_info": "[ossf-cve-benchmark/CVE-2017-0931](https://github.com/ossf-cve-benchmark/CVE-2017-0931)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:43:26Z"
+    },
+    {
+      "cve_id": "CVE-2014-4113",
+      "repo_info": "[wikiZ/cve-2014-4113](https://github.com/wikiZ/cve-2014-4113)",
+      "description": "no description",
+      "date": "2020-11-30",
+      "raw_date": "2020-11-30T14:50:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.070758",
+  "metadata": {
+    "total_cves": 51,
+    "date_range": "2020-11-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

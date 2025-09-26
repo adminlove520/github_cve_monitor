@@ -1,0 +1,195 @@
+{
+  "date": "2022-05-09",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-28986",
+      "repo_info": "[FlaviuPopescu/CVE-2022-28986](https://github.com/FlaviuPopescu/CVE-2022-28986)",
+      "description": "A Insecure direct object references (IDOR) vulnerability in \"Simple 2FA Plugin for Moodle\" by LMS Doctor",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T17:07:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-28601",
+      "repo_info": "[FlaviuPopescu/CVE-2022-28601](https://github.com/FlaviuPopescu/CVE-2022-28601)",
+      "description": "A Two-Factor Authentication (2FA) bypass vulnerability in \"Simple 2FA  Plugin for Moodle\" by LMS Doctor",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T16:57:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-28590",
+      "repo_info": "[jcarabantes/CVE-2022-28590](https://github.com/jcarabantes/CVE-2022-28590)",
+      "description": "no description",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T14:12:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[ExploitPwner/CVE-2022-26809-RCE-POC](https://github.com/ExploitPwner/CVE-2022-26809-RCE-POC)",
+      "description": "CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T16:48:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-26133",
+      "repo_info": "[Pear1y/CVE-2022-26133](https://github.com/Pear1y/CVE-2022-26133)",
+      "description": "Atlassian Bitbucket Data Center反序列化漏洞(CVE-2022-26133)批量验证和利用脚本",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T12:07:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[alt3kx/CVE-2022-1388_PoC](https://github.com/alt3kx/CVE-2022-1388_PoC)",
+      "description": "F5 BIG-IP RCE exploitation (CVE-2022-1388)",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T10:34:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[horizon3ai/CVE-2022-1388](https://github.com/horizon3ai/CVE-2022-1388)",
+      "description": "POC for CVE-2022-1388",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T11:46:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[ZephrFish/F5-CVE-2022-1388-Exploit](https://github.com/ZephrFish/F5-CVE-2022-1388-Exploit)",
+      "description": "Exploit and Check Script for CVE 2022-1388",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T11:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[trhacknon/CVE-2022-1388-RCE-checker](https://github.com/trhacknon/CVE-2022-1388-RCE-checker)",
+      "description": "no description",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T17:34:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[superzerosec/CVE-2022-1388](https://github.com/superzerosec/CVE-2022-1388)",
+      "description": "CVE-2022-1388 POC exploit",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T15:42:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[saucer-man/CVE-2022-1388](https://github.com/saucer-man/CVE-2022-1388)",
+      "description": "CVE-2022-1388",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T15:24:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388](https://github.com/Angus-Team/F5-BIG-IP-RCE-CVE-2022-1388)",
+      "description": "多线程检测CVE-2022-1388",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T14:09:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[savior-only/CVE-2022-1388](https://github.com/savior-only/CVE-2022-1388)",
+      "description": "CVE-2022-1388 F5 BIG-IP iControl REST身份验证绕过漏洞",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T14:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[cve-hunter/CVE-2022-1388-mass](https://github.com/cve-hunter/CVE-2022-1388-mass)",
+      "description": "no description",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T14:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Al1ex/CVE-2022-1388](https://github.com/Al1ex/CVE-2022-1388)",
+      "description": "CVE-2022-1388 F5 BIG-IP iControl REST RCE",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T14:01:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Henry4E36/CVE-2022-1388](https://github.com/Henry4E36/CVE-2022-1388)",
+      "description": "F5 BIG-IP iControl REST身份验证绕过漏洞",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T14:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[0xf4n9x/CVE-2022-1388](https://github.com/0xf4n9x/CVE-2022-1388)",
+      "description": "CVE-2022-1388 F5 BIG-IP iControl REST Auth Bypass RCE",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T10:22:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[crowsec-edtech/CVE-2022-1388](https://github.com/crowsec-edtech/CVE-2022-1388)",
+      "description": "Poc Exploit for BIG-IP Pre-Auth RCE - CVE-2022-1388",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T11:58:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Vulnmachines/F5-Big-IP-CVE-2022-1388](https://github.com/Vulnmachines/F5-Big-IP-CVE-2022-1388)",
+      "description": "CVE-2022-1388 F5 Big IP unauth remote code execution",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T10:46:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE](https://github.com/sherlocksecurity/CVE-2022-1388_F5_BIG-IP_RCE)",
+      "description": "PoC for CVE-2022-1388_F5_BIG-IP",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T07:39:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[yukar1z0e/CVE-2022-1388](https://github.com/yukar1z0e/CVE-2022-1388)",
+      "description": "batch scan CVE-2022-1388",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T10:06:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[Hudi233/CVE-2022-1388](https://github.com/Hudi233/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T03:20:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-1040",
+      "repo_info": "[Seatwe/CVE-2022-1040-rce](https://github.com/Seatwe/CVE-2022-1040-rce)",
+      "description": "CVE-2022-1040 is an authentication bypass and rce in user portal and webadmin of sophos firewall",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T16:49:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-0492",
+      "repo_info": "[Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2022-0492)",
+      "description": "no description",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T13:20:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-45046",
+      "repo_info": "[r3kind1e/Log4Shell-obfuscated-payloads-generator](https://github.com/r3kind1e/Log4Shell-obfuscated-payloads-generator)",
+      "description": "Generate primary obfuscated or secondary obfuscated CVE-2021-44228 or CVE-2021-45046 payloads to evade WAF detection.",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T15:02:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-45046",
+      "repo_info": "[YutuSec/Apisix_Crack](https://github.com/YutuSec/Apisix_Crack)",
+      "description": "Apisix系列漏洞：未授权漏洞（CVE-2021-45232）、默认秘钥（CVE-2020-13945）批量探测。",
+      "date": "2022-05-09",
+      "raw_date": "2022-05-09T12:26:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.131448",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2022-05-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

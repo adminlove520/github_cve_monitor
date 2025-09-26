@@ -1,0 +1,27 @@
+{
+  "date": "2020-10-02",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0208",
+      "repo_info": "[Vladimir-Ivanov-Git/sap_igs_xxe](https://github.com/Vladimir-Ivanov-Git/sap_igs_xxe)",
+      "description": "SAP IGS XXE attack CVE-2018-2392 and CVE-2018-2393",
+      "date": "2020-10-02",
+      "raw_date": "2020-10-02T17:57:22Z"
+    },
+    {
+      "cve_id": "CVE-2009-0182",
+      "repo_info": "[zaphoxx/zaphoxx-coldfusion](https://github.com/zaphoxx/zaphoxx-coldfusion)",
+      "description": "coldfusion exploit based on https://cvedetails.com/cve/CVE-2009-2265/",
+      "date": "2020-10-02",
+      "raw_date": "2020-10-02T15:17:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.064906",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-10-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

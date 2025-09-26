@@ -1,0 +1,41 @@
+{
+  "date": "2023-07-02",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-37250",
+      "repo_info": "[ewilded/CVE-2023-37250](https://github.com/ewilded/CVE-2023-37250)",
+      "description": "PoC",
+      "date": "2023-07-02",
+      "raw_date": "2023-07-02T05:37:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-32315",
+      "repo_info": "[Pari-Malam/CVE-2023-32315](https://github.com/Pari-Malam/CVE-2023-32315)",
+      "description": "no description",
+      "date": "2023-07-02",
+      "raw_date": "2023-07-02T20:38:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[bhavikmalhotra/CVE-2022-44268-Exploit](https://github.com/bhavikmalhotra/CVE-2022-44268-Exploit)",
+      "description": "Expoit for CVE-2022-44268",
+      "date": "2023-07-02",
+      "raw_date": "2023-07-02T17:24:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[Squirre17/hbp-attack-demo](https://github.com/Squirre17/hbp-attack-demo)",
+      "description": "Linux kernel hbp exploit method demo. (i.e. the degradation version of CVE-2022-42703)",
+      "date": "2023-07-02",
+      "raw_date": "2023-07-02T10:58:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.273097",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2023-07-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2022-10-26",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[qingsiweisan/CVE-2022-40684](https://github.com/qingsiweisan/CVE-2022-40684)",
+      "description": "no description",
+      "date": "2022-10-26",
+      "raw_date": "2022-10-26T01:48:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-36231",
+      "repo_info": "[affix/CVE-2022-36231](https://github.com/affix/CVE-2022-36231)",
+      "description": "pdf_info &lt;= 0.5.3 OS Command Injection",
+      "date": "2022-10-26",
+      "raw_date": "2022-10-26T14:51:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-36231",
+      "repo_info": "[uFrenchDev/zVulnerabilityScanner](https://github.com/uFrenchDev/zVulnerabilityScanner)",
+      "description": "zVulnerabilityScanner Version 2022 / 2023. Is the best CVE Scanner for Apache and Ngix",
+      "date": "2022-10-26",
+      "raw_date": "2022-10-26T11:09:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.157940",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-10-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

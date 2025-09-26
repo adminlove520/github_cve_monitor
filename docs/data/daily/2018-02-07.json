@@ -1,0 +1,27 @@
+{
+  "date": "2018-02-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15365",
+      "repo_info": "[Cymmetria/micros_honeypot](https://github.com/Cymmetria/micros_honeypot)",
+      "description": "MICROS Honeypot is a low interaction honeypot to detect CVE-2018-2636 in the Oracle Hospitality Simphony component of Oracle Hospitality Applications (MICROS). This is a directory traversal vulnerability.",
+      "date": "2018-02-07",
+      "raw_date": "2018-02-07T05:54:46Z"
+    },
+    {
+      "cve_id": "CVE-2017-5487",
+      "repo_info": "[Cymmetria/weblogic_honeypot](https://github.com/Cymmetria/weblogic_honeypot)",
+      "description": "WebLogic Honeypot is a low interaction honeypot to detect CVE-2017-10271 in the Oracle WebLogic Server component of Oracle Fusion Middleware. This is a Remote Code Execution vulnerability.",
+      "date": "2018-02-07",
+      "raw_date": "2018-02-07T06:11:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.971087",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-02-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2021-03-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-2555",
+      "repo_info": "[feihong-cs/Attacking_Shiro_with_CVE_2020_2555](https://github.com/feihong-cs/Attacking_Shiro_with_CVE_2020_2555)",
+      "description": "no description",
+      "date": "2021-03-20",
+      "raw_date": "2021-03-20T15:28:09Z"
+    },
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[maximilianmarx/atutor-blind-sqli](https://github.com/maximilianmarx/atutor-blind-sqli)",
+      "description": "Exploiting CVE-2016-2555 enumerating and dumping the underlying Database.",
+      "date": "2021-03-20",
+      "raw_date": "2021-03-20T11:42:32Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.084654",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-03-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

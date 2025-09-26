@@ -1,0 +1,41 @@
+{
+  "date": "2020-02-07",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-20059",
+      "repo_info": "[jra89/CVE-2019-20059](https://github.com/jra89/CVE-2019-20059)",
+      "description": "Yetishare SQL Injection in sSortDir_0 parameter - v3.5.2 - v4.5.4. Apart from an admin being able to exploit this, it could also be used in a CSRF attack to trick an admin user into running malicious queries.",
+      "date": "2020-02-07",
+      "raw_date": "2020-02-07T17:47:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-18634",
+      "repo_info": "[saleemrashid/sudo-cve-2019-18634](https://github.com/saleemrashid/sudo-cve-2019-18634)",
+      "description": "Proof of Concept for CVE-2019-18634",
+      "date": "2020-02-07",
+      "raw_date": "2020-02-07T18:07:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-18634",
+      "repo_info": "[Plazmaz/CVE-2019-18634](https://github.com/Plazmaz/CVE-2019-18634)",
+      "description": "A functional exploit for CVE-2019-18634, a BSS overflow in sudo&#x27;s pwfeedback feature that allows for for privesc",
+      "date": "2020-02-07",
+      "raw_date": "2020-02-07T02:41:44Z"
+    },
+    {
+      "cve_id": "CVE-2015-7501",
+      "repo_info": "[xnorkl/Joomla_Payload](https://github.com/xnorkl/Joomla_Payload)",
+      "description": "Adapted CVE-2015-8562 payload",
+      "date": "2020-02-07",
+      "raw_date": "2020-02-07T14:11:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.040906",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-02-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

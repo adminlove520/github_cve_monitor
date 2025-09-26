@@ -1,0 +1,41 @@
+{
+  "date": "2022-11-24",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[adeljck/CVE-2022-39197](https://github.com/adeljck/CVE-2022-39197)",
+      "description": "CVE-2022-39197",
+      "date": "2022-11-24",
+      "raw_date": "2022-11-24T17:22:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-38374",
+      "repo_info": "[azhurtanov/CVE-2022-38374](https://github.com/azhurtanov/CVE-2022-38374)",
+      "description": "no description",
+      "date": "2022-11-24",
+      "raw_date": "2022-11-24T13:13:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-2650",
+      "repo_info": "[HackinKraken/CVE-2022-2650](https://github.com/HackinKraken/CVE-2022-2650)",
+      "description": "Improper Restriction of Excessive Authentication Attempts (Brute Force) on wger workout application",
+      "date": "2022-11-24",
+      "raw_date": "2022-11-24T21:01:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-40303",
+      "repo_info": "[zecopro/CVE-2021-40303](https://github.com/zecopro/CVE-2021-40303)",
+      "description": "perfex crm 1.10 is vulnerable to Stored Cross Site Scripting (XSS) via /clients/profile.",
+      "date": "2022-11-24",
+      "raw_date": "2022-11-24T20:00:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.161831",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-11-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

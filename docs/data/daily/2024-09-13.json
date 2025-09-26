@@ -1,0 +1,118 @@
+{
+  "date": "2024-09-13",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4879",
+      "repo_info": "[0xWhoami35/CVE-2024-4879](https://github.com/0xWhoami35/CVE-2024-4879)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T01:20:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-45200",
+      "repo_info": "[latte-soft/kartlanpwn](https://github.com/latte-soft/kartlanpwn)",
+      "description": "Information &amp; PoC for CVE-2024-45200, Mario Kart 8 Deluxe&#x27;s &quot;KartLANPwn&quot; buffer overflow vulnerability",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T00:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-44623",
+      "repo_info": "[merbinr/CVE-2024-44623](https://github.com/merbinr/CVE-2024-44623)",
+      "description": "Details about the Blind RCE issue(SPX-GC) in SPX-GC",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T17:11:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-44542",
+      "repo_info": "[alphandbelt/CVE-2024-44542](https://github.com/alphandbelt/CVE-2024-44542)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T15:05:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-44346",
+      "repo_info": "[Shauryae1337/CVE-2024-44346](https://github.com/Shauryae1337/CVE-2024-44346)",
+      "description": "Public Disclosure",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T10:27:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[daniellowrie/CVE-2024-36401-PoC](https://github.com/daniellowrie/CVE-2024-36401-PoC)",
+      "description": "Proof-of-Concept Exploit for CVE-2024-36401 GeoServer 2.25.1",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T10:28:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-29847",
+      "repo_info": "[horizon3ai/CVE-2024-29847](https://github.com/horizon3ai/CVE-2024-29847)",
+      "description": "Ivanti EPM AgentPortal RCE Vulnerability",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T14:02:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-51467",
+      "repo_info": "[AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-](https://github.com/AhmedMansour93/Event-ID-217-Rule-Name-SOC254-Apache-OFBiz-Auth-Bypass-and-Code-Injection-0Day-CVE-2023-51467-)",
+      "description": "🚨 Just completed an incident report on Event ID 217: Apache OFBiz Auth Bypass and Code Injection 0-Day (CVE-2023-51467). This critical vulnerability allows attackers to bypass authentication and execute code remotely! Stay vigilant and ensure your systems are patched! Big thanks to LetsDefend.io for the platform to practice real-world scenarios.",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T11:47:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-4166",
+      "repo_info": "[inviewp/CVE-2023-4166](https://github.com/inviewp/CVE-2023-4166)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T11:52:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-4165",
+      "repo_info": "[inviewp/CVE-2023-4165](https://github.com/inviewp/CVE-2023-4165)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T11:39:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-33831",
+      "repo_info": "[btar1gan/exploit_CVE-2023-33831](https://github.com/btar1gan/exploit_CVE-2023-33831)",
+      "description": "New exploit for FUXA v1.1.13 - Unauthenticated remote code excecution",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T20:25:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-27372",
+      "repo_info": "[inviewp/CVE-2023-27372](https://github.com/inviewp/CVE-2023-27372)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T09:36:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-](https://github.com/AhmedMansour93/Event-ID-193-Rule-Name-SOC231-Cisco-IOS-XE-Web-UI-ZeroDay-CVE-2023-20198-)",
+      "description": "🚨 Just completed a detailed investigation for Event ID 193: &quot;SOC231 - Cisco IOS XE Web UI ZeroDay (CVE-2023-20198)&quot; via @LetsDefend.io. The attacker successfully bypassed authentication, gaining admin control over the device! Immediate containment was critical. Stay vigilant! 💻🔐",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T09:17:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-0944",
+      "repo_info": "[Robocopsita/CVE-2022-0944_RCE_POC](https://github.com/Robocopsita/CVE-2022-0944_RCE_POC)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T09:30:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[acidburn2049/CVE-2021-3156](https://github.com/acidburn2049/CVE-2021-3156)",
+      "description": "no description",
+      "date": "2024-09-13",
+      "raw_date": "2024-09-13T04:20:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.347040",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-09-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

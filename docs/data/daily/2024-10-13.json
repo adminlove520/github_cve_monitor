@@ -1,0 +1,62 @@
+{
+  "date": "2024-10-13",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-35250",
+      "repo_info": "[varwara/CVE-2024-35250](https://github.com/varwara/CVE-2024-35250)",
+      "description": "PoC for the Untrusted Pointer Dereference in the ks.sys driver",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T19:30:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-26229",
+      "repo_info": "[mqxmm/CVE-2024-26229](https://github.com/mqxmm/CVE-2024-26229)",
+      "description": "no description",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T12:10:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-52268",
+      "repo_info": "[squ1dw3rm/CVE-2023-52268](https://github.com/squ1dw3rm/CVE-2023-52268)",
+      "description": "Authentication Bypass for FreeScout End-User Portal",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T02:17:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Agentgilspy/CVE-2022-26134](https://github.com/Agentgilspy/CVE-2022-26134)",
+      "description": "no description",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T13:38:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-0944",
+      "repo_info": "[toneillcodes/poc-cve-2022-0944](https://github.com/toneillcodes/poc-cve-2022-0944)",
+      "description": "PoC for RCE in SQLPad (CVE-2022-0944)",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T22:34:09Z"
+    },
+    {
+      "cve_id": "CVE-2020-15916",
+      "repo_info": "[geniuszlyy/CVE-2020-15916](https://github.com/geniuszlyy/CVE-2020-15916)",
+      "description": "This project is a PoC for exploiting CVE-2020-15916, a vulnerability that allows unauthorized changes to the LAN configuration of a device",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T17:30:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[lemonadern/poc-cve-2019-14287](https://github.com/lemonadern/poc-cve-2019-14287)",
+      "description": "no description",
+      "date": "2024-10-13",
+      "raw_date": "2024-10-13T11:33:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.351956",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-10-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

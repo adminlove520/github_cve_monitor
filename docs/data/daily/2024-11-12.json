@@ -1,0 +1,139 @@
+{
+  "date": "2024-11-12",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-50972",
+      "repo_info": "[Akhlak2511/CVE-2024-50972](https://github.com/Akhlak2511/CVE-2024-50972)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T17:40:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-50971",
+      "repo_info": "[Akhlak2511/CVE-2024-50971](https://github.com/Akhlak2511/CVE-2024-50971)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T17:36:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-50970",
+      "repo_info": "[Akhlak2511/CVE-2024-50970](https://github.com/Akhlak2511/CVE-2024-50970)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T17:30:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-50969",
+      "repo_info": "[Akhlak2511/CVE-2024-50969](https://github.com/Akhlak2511/CVE-2024-50969)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T17:20:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-50968",
+      "repo_info": "[Akhlak2511/CVE-2024-50968](https://github.com/Akhlak2511/CVE-2024-50968)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T12:48:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-50251",
+      "repo_info": "[slavin-ayu/CVE-2024-50251-PoC](https://github.com/slavin-ayu/CVE-2024-50251-PoC)",
+      "description": "Just a local Dos bug in Linux kernel",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T08:08:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-49368",
+      "repo_info": "[Aashay221999/CVE-2024-49368](https://github.com/Aashay221999/CVE-2024-49368)",
+      "description": "Explorations of CVE-2024-49368 + Exploit Development",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T03:50:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-45827",
+      "repo_info": "[0xNslabs/CVE-2024-45827-PoC](https://github.com/0xNslabs/CVE-2024-45827-PoC)",
+      "description": "PoC Script for CVE-2024-45827: Exploits a remote command injection vulnerability in SoftBank RP562B mesh device.",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T02:02:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[workshop748/CVE-2024-3400](https://github.com/workshop748/CVE-2024-3400)",
+      "description": "Attempt at making the CVE-2024-3400 initial exploit (for educational purposes)",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T03:46:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-32640",
+      "repo_info": "[pizza-power/CVE-2024-32640](https://github.com/pizza-power/CVE-2024-32640)",
+      "description": "Python POC for CVE-2024-32640 Mura CMS SQLi",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T20:50:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-10629",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10629](https://github.com/RandomRobbieBF/CVE-2024-10629)",
+      "description": "GPX Viewer &lt;= 2.2.8 - Authenticated (Subscriber+) Arbitrary File Creation",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T16:36:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-2603",
+      "repo_info": "[Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603](https://github.com/Pazhanivelmani/external_libcap-Android10_r33_CVE-2023-2603)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T07:12:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-1999",
+      "repo_info": "[Pazhanivelmani/webp_Android10_r33_CVE-2023-1999](https://github.com/Pazhanivelmani/webp_Android10_r33_CVE-2023-1999)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T11:12:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[w0r1i0g1ht/CVE-2022-21661](https://github.com/w0r1i0g1ht/CVE-2022-21661)",
+      "description": "CVE-2022-21661 docker and poc",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T13:23:12Z"
+    },
+    {
+      "cve_id": "CVE-2020-24881",
+      "repo_info": "[harshtech123/cve-2020-24881](https://github.com/harshtech123/cve-2020-24881)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T08:32:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-16278",
+      "repo_info": "[cancela24/CVE-2019-16278-Nostromo-1.9.6-RCE](https://github.com/cancela24/CVE-2019-16278-Nostromo-1.9.6-RCE)",
+      "description": "This repository contains an exploit for CVE-2019-16278 in Nostromo Web Server 1.9.6, allowing remote code execution via a directory traversal vulnerability. The script uses pwntools to establish a reverse shell. For educational and authorized testing use only.",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T00:13:24Z"
+    },
+    {
+      "cve_id": "CVE-2016-6328",
+      "repo_info": "[Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328](https://github.com/Pazhanivelmani/libexif_Android10_r33_CVE-2016-6328)",
+      "description": "no description",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T07:26:22Z"
+    },
+    {
+      "cve_id": "CVE-2015-1328",
+      "repo_info": "[YastrebX/CVE-2015-1328](https://github.com/YastrebX/CVE-2015-1328)",
+      "description": "CVE: 2015-1328 On python test",
+      "date": "2024-11-12",
+      "raw_date": "2024-11-12T16:25:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.357049",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2024-11-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

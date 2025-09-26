@@ -1,0 +1,34 @@
+{
+  "date": "2020-11-13",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15133",
+      "repo_info": "[aljavier/exploit_laravel_cve-2018-15133](https://github.com/aljavier/exploit_laravel_cve-2018-15133)",
+      "description": "Exploit for Laravel Remote Code Execution with API_KEY (CVE-2018-15133)",
+      "date": "2020-11-13",
+      "raw_date": "2020-11-13T16:33:52Z"
+    },
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[rvermeulen/apache-struts-cve-2017-9805](https://github.com/rvermeulen/apache-struts-cve-2017-9805)",
+      "description": "no description",
+      "date": "2020-11-13",
+      "raw_date": "2020-11-13T12:04:32Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[MisakaMikato/cve-2017-7921-golang](https://github.com/MisakaMikato/cve-2017-7921-golang)",
+      "description": "Hikvision IP camera access bypass exploit, developed by golang.",
+      "date": "2020-11-13",
+      "raw_date": "2020-11-13T04:15:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.069139",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-11-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2022-11-11",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-41352",
+      "repo_info": "[Cr4ckC4t/cve-2022-41352-zimbra-rce](https://github.com/Cr4ckC4t/cve-2022-41352-zimbra-rce)",
+      "description": "Zimbra &lt;9.0.0.p27 RCE",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T20:58:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-41352",
+      "repo_info": "[EkamSinghWalia/OpenSSL-Vulnerability-Detection-Script](https://github.com/EkamSinghWalia/OpenSSL-Vulnerability-Detection-Script)",
+      "description": "This is an OpenSSL Vulnerability Detection Script for CVE-2022-2274",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T16:27:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-40140",
+      "repo_info": "[ipsBruno/CVE-2022-40140-SCANNER](https://github.com/ipsBruno/CVE-2022-40140-SCANNER)",
+      "description": "A Shodan hunter for CVE-2022-40140",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T16:25:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-40140",
+      "repo_info": "[mike-develop-root/cve-2022-5](https://github.com/mike-develop-root/cve-2022-5)",
+      "description": "cve-2022-5",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T13:47:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-40140",
+      "repo_info": "[mike-develop-root/cve-2022-1](https://github.com/mike-develop-root/cve-2022-1)",
+      "description": "cve-2022-1",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T13:09:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-3949",
+      "repo_info": "[maikroservice/CVE-2022-3949](https://github.com/maikroservice/CVE-2022-3949)",
+      "description": "XSS in Simple Cashiering System",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T12:21:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-3942",
+      "repo_info": "[maikroservice/CVE-2022-3942](https://github.com/maikroservice/CVE-2022-3942)",
+      "description": "no description",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T10:24:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-3942",
+      "repo_info": "[dkjiayu/dkjiayu.github.io](https://github.com/dkjiayu/dkjiayu.github.io)",
+      "description": "POC for cve-2022-22620",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T06:35:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-31898",
+      "repo_info": "[gigaryte/cve-2022-31898](https://github.com/gigaryte/cve-2022-31898)",
+      "description": "Exploit POC code for CVE-2022-31898, a command injection for GL-iNet routers with firmware below 3.215",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T05:11:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-29447",
+      "repo_info": "[M3l0nPan/wordpress-cve-2021-29447](https://github.com/M3l0nPan/wordpress-cve-2021-29447)",
+      "description": "Exploit WordPress Media Library XML External Entity Injection (XXE) to exfiltrate files.",
+      "date": "2022-11-11",
+      "raw_date": "2022-11-11T22:41:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.159964",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-11-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

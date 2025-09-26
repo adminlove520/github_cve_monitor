@@ -1,0 +1,41 @@
+{
+  "date": "2023-07-16",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-21746",
+      "repo_info": "[Muhammad-Ali007/LocalPotato_CVE-2023-21746](https://github.com/Muhammad-Ali007/LocalPotato_CVE-2023-21746)",
+      "description": "no description",
+      "date": "2023-07-16",
+      "raw_date": "2023-07-16T15:57:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-20110",
+      "repo_info": "[redfr0g/CVE-2023-20110](https://github.com/redfr0g/CVE-2023-20110)",
+      "description": "PoC script for CVE-2023-20110 - Cisco Smart Software Manager On-Prem SQL Injection Vulnerability",
+      "date": "2023-07-16",
+      "raw_date": "2023-07-16T10:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-28171",
+      "repo_info": "[NyaMeeEain/CVE-2022-28171-POC](https://github.com/NyaMeeEain/CVE-2022-28171-POC)",
+      "description": "no description",
+      "date": "2023-07-16",
+      "raw_date": "2023-07-16T07:30:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[VitoBonetti/CVE-2018-16763](https://github.com/VitoBonetti/CVE-2018-16763)",
+      "description": "Fuel CMS 1.4.1 - Remote Code Execution - Python 3.x",
+      "date": "2023-07-16",
+      "raw_date": "2023-07-16T20:40:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.275110",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2023-07-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

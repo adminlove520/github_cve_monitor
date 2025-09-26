@@ -1,0 +1,125 @@
+{
+  "date": "2025-05-06",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46731",
+      "repo_info": "[singetu0096/CVE-2025-46731](https://github.com/singetu0096/CVE-2025-46731)",
+      "description": "no description",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T02:26:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-45250",
+      "repo_info": "[Anike-x/CVE-2025-45250](https://github.com/Anike-x/CVE-2025-45250)",
+      "description": "CVE-2025-45250 POC",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T13:59:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-45250",
+      "repo_info": "[xp3s/CVE-2025-45250](https://github.com/xp3s/CVE-2025-45250)",
+      "description": "CVE-2025-45250 POC",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T14:22:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-3604",
+      "repo_info": "[Nxploited/CVE-2025-3604](https://github.com/Nxploited/CVE-2025-3604)",
+      "description": "Flynax Bridge &lt;= 2.2.0 - Unauthenticated Privilege Escalation via Account Takeover",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T01:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-34028",
+      "repo_info": "[Mattb709/CVE-2025-34028-PoC-Commvault-RCE](https://github.com/Mattb709/CVE-2025-34028-PoC-Commvault-RCE)",
+      "description": "Proof-of-Concept (PoC) for CVE-2025-34028, a Remote Code Execution vulnerability in Commvault Command Center. This Python script scans single or multiple targets, executes commands, and reports vulnerable hosts.",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T16:44:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-34028",
+      "repo_info": "[becrevex/Commvault-CVE-2025-34028](https://github.com/becrevex/Commvault-CVE-2025-34028)",
+      "description": "Commvault Remote Code Execution (CVE-2025-34028) NSE",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T06:16:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[rf-peixoto/sap_netweaver_cve-2025-31324-](https://github.com/rf-peixoto/sap_netweaver_cve-2025-31324-)",
+      "description": "Research Purposes only",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T16:58:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[moften/CVE-2025-29927](https://github.com/moften/CVE-2025-29927)",
+      "description": "Next.js Auth Bypass PoC Edge Runtime Env Leak via Middleware Bug",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T21:47:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[apwlq/AirBorne-PoC](https://github.com/apwlq/AirBorne-PoC)",
+      "description": "poc for CVE-2025-24252 &amp; CVE-2025-24132",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T14:18:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-2011",
+      "repo_info": "[datagoboom/CVE-2025-2011](https://github.com/datagoboom/CVE-2025-2011)",
+      "description": "PoC for CVE-2025-2011 - SQLi in Depicter plugin &lt;= 3.6.1",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T20:14:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[abrewer251/CVE-2025-1974_IngressNightmare_PoC](https://github.com/abrewer251/CVE-2025-1974_IngressNightmare_PoC)",
+      "description": "no description",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T23:49:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-23017",
+      "repo_info": "[moften/CVE-2021-23017](https://github.com/moften/CVE-2021-23017)",
+      "description": "NGINX DNS Overflow Vulnerability Check  - CVE-2021-23017 PoC",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T16:32:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-35730",
+      "repo_info": "[ankadien203/roundcube](https://github.com/ankadien203/roundcube)",
+      "description": "CVE-2020_35730",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T08:27:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-16891",
+      "repo_info": "[hackaholicguy/CVE-2019-16891-Liferay-deserialization-RCE](https://github.com/hackaholicguy/CVE-2019-16891-Liferay-deserialization-RCE)",
+      "description": "no description",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T04:05:41Z"
+    },
+    {
+      "cve_id": "CVE-2004-0789",
+      "repo_info": "[HimmeL-Byte/CVE-2004-0789-DDOS](https://github.com/HimmeL-Byte/CVE-2004-0789-DDOS)",
+      "description": "no description",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T09:42:13Z"
+    },
+    {
+      "cve_id": "CVE-2002-2154",
+      "repo_info": "[Hirainsingadia/CVE-2002-2154](https://github.com/Hirainsingadia/CVE-2002-2154)",
+      "description": "no description",
+      "date": "2025-05-06",
+      "raw_date": "2025-05-06T09:36:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.388943",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-05-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

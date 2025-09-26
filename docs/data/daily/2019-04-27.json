@@ -1,0 +1,27 @@
+{
+  "date": "2019-04-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8890",
+      "repo_info": "[jsotiro/VulnerableSpringDataRest](https://github.com/jsotiro/VulnerableSpringDataRest)",
+      "description": "An intentionally vulnerable (CVE-2017-8046) SrpingData REST appl with Swagger Support for pentesting purposes",
+      "date": "2019-04-27",
+      "raw_date": "2019-04-27T07:23:53Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[shawntns/exploit-CVE-2014-6271](https://github.com/shawntns/exploit-CVE-2014-6271)",
+      "description": "no description",
+      "date": "2019-04-27",
+      "raw_date": "2019-04-27T18:55:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.013628",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-04-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

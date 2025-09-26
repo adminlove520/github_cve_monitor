@@ -1,0 +1,118 @@
+{
+  "date": "2023-11-07",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-43777",
+      "repo_info": "[SySS-Research/easy-password-recovery](https://github.com/SySS-Research/easy-password-recovery)",
+      "description": "Password recovery easySoft and easyE4 (CVE-2023-43776 and CVE-2023-43777)",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T07:44:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[s4m98/winrar-cve-2023-38831-poc-gen](https://github.com/s4m98/winrar-cve-2023-38831-poc-gen)",
+      "description": "WinRAR cve-2023-38831-poc-generator",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T04:14:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[Mrunalkaran/CVE-2023-38646](https://github.com/Mrunalkaran/CVE-2023-38646)",
+      "description": "Metabase Pre-Auth RCE POC",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T03:57:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-9276",
+      "repo_info": "[mmezirard/cve-2018-9276](https://github.com/mmezirard/cve-2018-9276)",
+      "description": "A POC written in Python to exploit CVE 2018-9276.",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T09:31:33Z"
+    },
+    {
+      "cve_id": "CVE-2016-0798",
+      "repo_info": "[nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0798)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T05:11:01Z"
+    },
+    {
+      "cve_id": "CVE-2016-0797",
+      "repo_info": "[nidhi7598/OPENSSL_1.0.1g_CVE-2016-0797](https://github.com/nidhi7598/OPENSSL_1.0.1g_CVE-2016-0797)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T04:45:53Z"
+    },
+    {
+      "cve_id": "CVE-2015-3197",
+      "repo_info": "[Trinadh465/OpenSSL-1_0_1g_CVE-2015-3197](https://github.com/Trinadh465/OpenSSL-1_0_1g_CVE-2015-3197)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T06:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2014-8275",
+      "repo_info": "[uthrasri/CVE-2014-8275_openssl_g2.5](https://github.com/uthrasri/CVE-2014-8275_openssl_g2.5)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T07:07:46Z"
+    },
+    {
+      "cve_id": "CVE-2014-8275",
+      "repo_info": "[uthrasri/Openssl_G2.5_CVE-2014-8275](https://github.com/uthrasri/Openssl_G2.5_CVE-2014-8275)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T06:42:34Z"
+    },
+    {
+      "cve_id": "CVE-2014-5139",
+      "repo_info": "[uthrasri/CVE-2014-5139](https://github.com/uthrasri/CVE-2014-5139)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T17:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2014-3570",
+      "repo_info": "[uthrasri/CVE-2014-3570_G2.5_openssl_no_patch](https://github.com/uthrasri/CVE-2014-3570_G2.5_openssl_no_patch)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T17:29:28Z"
+    },
+    {
+      "cve_id": "CVE-2014-3570",
+      "repo_info": "[uthrasri/CVE-2014-3570](https://github.com/uthrasri/CVE-2014-3570)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T15:19:36Z"
+    },
+    {
+      "cve_id": "CVE-2014-3570",
+      "repo_info": "[uthrasri/openssl_G2.5_CVE-2014-3570](https://github.com/uthrasri/openssl_G2.5_CVE-2014-3570)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T13:04:45Z"
+    },
+    {
+      "cve_id": "CVE-2014-3570",
+      "repo_info": "[uthrasri/Openssl_G2.5_CVE-2014-3570_01](https://github.com/uthrasri/Openssl_G2.5_CVE-2014-3570_01)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T14:33:31Z"
+    },
+    {
+      "cve_id": "CVE-2014-3566",
+      "repo_info": "[uthrasri/openssl_g2.5_CVE-2014-3566](https://github.com/uthrasri/openssl_g2.5_CVE-2014-3566)",
+      "description": "no description",
+      "date": "2023-11-07",
+      "raw_date": "2023-11-07T10:57:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.293585",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2023-11-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

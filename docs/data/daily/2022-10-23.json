@@ -1,0 +1,97 @@
+{
+  "date": "2022-10-23",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[cxzero/CVE-2022-42889-text4shell](https://github.com/cxzero/CVE-2022-42889-text4shell)",
+      "description": "CVE-2022-42889 aka Text4Shell research &amp; PoC",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T13:42:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[0xmaximus/Apache-Commons-Text-CVE-2022-42889](https://github.com/0xmaximus/Apache-Commons-Text-CVE-2022-42889)",
+      "description": "Apache Text4Shell (CVE-2022-42889) Burp Bounty Profile",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T08:33:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[akshayithape-devops/CVE-2022-42889-POC](https://github.com/akshayithape-devops/CVE-2022-42889-POC)",
+      "description": "A simple dockerize application that shows how to exploit the CVE-2022-42889 vulnerability.",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T05:48:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-42045",
+      "repo_info": "[ReCryptLLC/CVE-2022-42045](https://github.com/ReCryptLLC/CVE-2022-42045)",
+      "description": "no description",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T15:58:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-38813",
+      "repo_info": "[RashidKhanPathan/CVE-2022-38813](https://github.com/RashidKhanPathan/CVE-2022-38813)",
+      "description": "Authenticated Vertical Privilege Escalation Vulnerability in Blood Donor Management System",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T14:03:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-37705",
+      "repo_info": "[MaherAzzouzi/CVE-2022-37705](https://github.com/MaherAzzouzi/CVE-2022-37705)",
+      "description": "Amanda 3.5.1 second LPE.",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T11:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-37704",
+      "repo_info": "[MaherAzzouzi/CVE-2022-37704](https://github.com/MaherAzzouzi/CVE-2022-37704)",
+      "description": "Amanda 3.5.1 LPE",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T11:43:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-37704",
+      "repo_info": "[smileostrich/Text4Shell-Scanner](https://github.com/smileostrich/Text4Shell-Scanner)",
+      "description": "Vulnerability Scanner for CVE-2022-42889 (Text4Shell)",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T09:45:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[WilsonFung414/CVE-2022-30190](https://github.com/WilsonFung414/CVE-2022-30190)",
+      "description": "no description",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T15:24:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-1015",
+      "repo_info": "[ysanatomic/CVE-2022-1015](https://github.com/ysanatomic/CVE-2022-1015)",
+      "description": "A write-up and LPE PoC of an OOB read and write vulnerability in the Linux Kernel.",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T10:57:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-40438",
+      "repo_info": "[WilsonFung414/CVE-2021-40438_Docker](https://github.com/WilsonFung414/CVE-2021-40438_Docker)",
+      "description": "An Application Server Docker build for CVE-2021-40438",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T05:20:27Z"
+    },
+    {
+      "cve_id": "CVE-2021-27928",
+      "repo_info": "[WilsonFung414/CVE-2021-27928_Docker](https://github.com/WilsonFung414/CVE-2021-27928_Docker)",
+      "description": "A Database Server Docker build for CVE-2021-27928 &amp; another project CVE-2021-40438",
+      "date": "2022-10-23",
+      "raw_date": "2022-10-23T06:31:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.157389",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-10-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

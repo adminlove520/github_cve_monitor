@@ -1,0 +1,195 @@
+{
+  "date": "2023-12-20",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-51214",
+      "repo_info": "[chandraprarikraj/CVE-2023-51214](https://github.com/chandraprarikraj/CVE-2023-51214)",
+      "description": "no description",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T21:23:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-50596",
+      "repo_info": "[chandraprarikraj/CVE-2023-50596](https://github.com/chandraprarikraj/CVE-2023-50596)",
+      "description": "no description",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T21:43:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-50164",
+      "repo_info": "[Trackflaw/CVE-2023-50164-ApacheStruts2-Docker](https://github.com/Trackflaw/CVE-2023-50164-ApacheStruts2-Docker)",
+      "description": "Vulnerable docker container for Apache Struts 2 RCE CVE-2023-50164",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T08:46:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-50164",
+      "repo_info": "[desquezzee/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/desquezzee/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T11:48:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-50164",
+      "repo_info": "[Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE](https://github.com/Thirukrishnan/CVE-2023-50164-Apache-Struts-RCE)",
+      "description": "no description",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T08:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-50072",
+      "repo_info": "[ahrixia/CVE-2023-50072](https://github.com/ahrixia/CVE-2023-50072)",
+      "description": "no description",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T14:36:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-49989",
+      "repo_info": "[geraldoalcantara/CVE-2023-49989](https://github.com/geraldoalcantara/CVE-2023-49989)",
+      "description": "Hotel Booking Management v1.0 - SQL Injection Vulnerability in the &quot;id&quot; parameter at update.php",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:46:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-49988",
+      "repo_info": "[geraldoalcantara/CVE-2023-49988](https://github.com/geraldoalcantara/CVE-2023-49988)",
+      "description": "Hotel Booking Management v1.0 - SQL Injection Vulnerability in the &quot;npss&quot; parameter at rooms.php",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-49987",
+      "repo_info": "[geraldoalcantara/CVE-2023-49987](https://github.com/geraldoalcantara/CVE-2023-49987)",
+      "description": "School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;tname&quot; parameter on &quot;new_term&quot;",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:30:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-49986",
+      "repo_info": "[geraldoalcantara/CVE-2023-49986](https://github.com/geraldoalcantara/CVE-2023-49986)",
+      "description": "School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; parameter on &quot;add_new_parent&quot;",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:21:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-49985",
+      "repo_info": "[geraldoalcantara/CVE-2023-49985](https://github.com/geraldoalcantara/CVE-2023-49985)",
+      "description": "School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;cname&quot; parameter on &quot;new_class&quot;",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:12:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-49984",
+      "repo_info": "[geraldoalcantara/CVE-2023-49984](https://github.com/geraldoalcantara/CVE-2023-49984)",
+      "description": "School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; field/parameter on &quot;/management/settings&quot;",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-49983",
+      "repo_info": "[geraldoalcantara/CVE-2023-49983](https://github.com/geraldoalcantara/CVE-2023-49983)",
+      "description": "School Fees Management System v1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;name&quot; field/parameter on &quot;/management/class&quot;",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T03:56:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-49982",
+      "repo_info": "[geraldoalcantara/CVE-2023-49982](https://github.com/geraldoalcantara/CVE-2023-49982)",
+      "description": "School Fees Management System v1.0 - Incorrect Access Control - Privilege Escalation",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T03:44:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-49981",
+      "repo_info": "[geraldoalcantara/CVE-2023-49981](https://github.com/geraldoalcantara/CVE-2023-49981)",
+      "description": "School Fees Management System v1.0 - Incorrect Access Control - Directory Listing",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T03:19:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-49979",
+      "repo_info": "[geraldoalcantara/CVE-2023-49979](https://github.com/geraldoalcantara/CVE-2023-49979)",
+      "description": "Best Student Management System v1.0 - Incorrect Access Control - Directory Listing",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T03:01:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-49978",
+      "repo_info": "[geraldoalcantara/CVE-2023-49978](https://github.com/geraldoalcantara/CVE-2023-49978)",
+      "description": "Customer Support System 1.0 - Incorrect Access Control",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T01:51:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-49977",
+      "repo_info": "[geraldoalcantara/CVE-2023-49977](https://github.com/geraldoalcantara/CVE-2023-49977)",
+      "description": "Customer Support System 1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;Address&quot; field/parameter on &quot;customer_list&quot; Page",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T01:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-49974",
+      "repo_info": "[geraldoalcantara/CVE-2023-49974](https://github.com/geraldoalcantara/CVE-2023-49974)",
+      "description": "Customer Support System 1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;contact&quot; field/parameter on &quot;customer_list&quot; Page",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T01:31:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-49973",
+      "repo_info": "[geraldoalcantara/CVE-2023-49973](https://github.com/geraldoalcantara/CVE-2023-49973)",
+      "description": "Customer Support System 1.0 - Cross-Site Scripting (XSS) Vulnerability in &quot;email&quot; field/parameter on &quot;customer_list&quot; Page",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T01:26:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-49971",
+      "repo_info": "[geraldoalcantara/CVE-2023-49971](https://github.com/geraldoalcantara/CVE-2023-49971)",
+      "description": "Customer Support System 1.0 - (XSS) Cross-Site Scripting Vulnerability in the &quot;firstname&quot; parameter at &quot;customer_list",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T00:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-49539",
+      "repo_info": "[KharimMchatta/basketcraft](https://github.com/KharimMchatta/basketcraft)",
+      "description": "this is a script that exploits the CVE-2023-27163 vulnerability which is request-basket SSRF",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T06:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-47119",
+      "repo_info": "[Cristiano100/CVE-2023-47119](https://github.com/Cristiano100/CVE-2023-47119)",
+      "description": "no description",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T04:43:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[TindalyTn/CVE-2023-23752](https://github.com/TindalyTn/CVE-2023-23752)",
+      "description": "Mass Scanner for CVE-2023-23752",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T20:20:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-1133",
+      "repo_info": "[That-Guy-Steve/CVE-2018-1133-Exploit](https://github.com/That-Guy-Steve/CVE-2018-1133-Exploit)",
+      "description": "no description",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T17:29:54Z"
+    },
+    {
+      "cve_id": "CVE-2009-3103",
+      "repo_info": "[Sic4rio/CVE-2009-3103---srv2.sys-SMB-Code-Execution-Python-MS09-050-](https://github.com/Sic4rio/CVE-2009-3103---srv2.sys-SMB-Code-Execution-Python-MS09-050-)",
+      "description": "Microsoft Windows - &#x27;srv2.sys&#x27; SMB Code Execution (Python) (MS09-050)",
+      "date": "2023-12-20",
+      "raw_date": "2023-12-20T02:36:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.300235",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2023-12-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

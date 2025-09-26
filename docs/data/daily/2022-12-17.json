@@ -1,0 +1,41 @@
+{
+  "date": "2022-12-17",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-46689",
+      "repo_info": "[zhuowei/MacDirtyCowDemo](https://github.com/zhuowei/MacDirtyCowDemo)",
+      "description": "Get root on macOS 13.0.1 with CVE-2022-46689 (macOS equivalent of the Dirty Cow bug), using the testcase extracted from Apple&#x27;s XNU source.",
+      "date": "2022-12-17",
+      "raw_date": "2022-12-17T16:45:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-26258",
+      "repo_info": "[zwclose/CVE-2021-26258](https://github.com/zwclose/CVE-2021-26258)",
+      "description": "Files and tools for CVE-2021-26258",
+      "date": "2022-12-17",
+      "raw_date": "2022-12-17T00:59:32Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[r0lh/CVE-2018-7600](https://github.com/r0lh/CVE-2018-7600)",
+      "description": "Drupal CVE-2018-7600 RCE Pseudo-Shell PoC",
+      "date": "2022-12-17",
+      "raw_date": "2022-12-17T11:11:47Z"
+    },
+    {
+      "cve_id": "CVE-2003-0358",
+      "repo_info": "[gmh5225/CVE-2003-0358](https://github.com/gmh5225/CVE-2003-0358)",
+      "description": "By passing an overly large string when invoking nethack, it is possible to corrupt memory. jnethack and falconseye are also prone to this vulnerability.",
+      "date": "2022-12-17",
+      "raw_date": "2022-12-17T13:11:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.164760",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-12-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

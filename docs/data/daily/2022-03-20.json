@@ -1,0 +1,41 @@
+{
+  "date": "2022-03-20",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-24990",
+      "repo_info": "[0xf4n9x/CVE-2022-24990](https://github.com/0xf4n9x/CVE-2022-24990)",
+      "description": "CVE-2022-24990 TerraMaster TOS unauthenticated RCE via PHP Object Instantiation",
+      "date": "2022-03-20",
+      "raw_date": "2022-03-20T05:15:16Z"
+    },
+    {
+      "cve_id": "CVE-2020-17456",
+      "repo_info": "[chatbottesisgmailh/Sauercloude](https://github.com/chatbottesisgmailh/Sauercloude)",
+      "description": "0day VirtualBox 6.1.2 Escape for RealWorld CTF 2020/2021 CVE-2021-2119",
+      "date": "2022-03-20",
+      "raw_date": "2022-03-20T03:17:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-18634",
+      "repo_info": "[TheJoyOfHacking/saleemrashid-sudo-cve-2019-18634](https://github.com/TheJoyOfHacking/saleemrashid-sudo-cve-2019-18634)",
+      "description": "no description",
+      "date": "2022-03-20",
+      "raw_date": "2022-03-20T01:39:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[akr3ch/CVE-2017-9841](https://github.com/akr3ch/CVE-2017-9841)",
+      "description": "RCE exploit for PHP Unit 5.6.2",
+      "date": "2022-03-20",
+      "raw_date": "2022-03-20T07:01:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.123700",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-03-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

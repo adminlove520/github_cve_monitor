@@ -1,0 +1,97 @@
+{
+  "date": "2022-08-02",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[lovechoudoufu/cobaltstrike4.5_cdf](https://github.com/lovechoudoufu/cobaltstrike4.5_cdf)",
+      "description": "cobaltstrike4.5版本破/解、去除checksum8特征、bypass BeaconEye、修复错误路径泄漏stage、增加totp双因子验证、修复CVE-2022-39197等",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T08:20:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-38604",
+      "repo_info": "[LucaBarile/CVE-2022-38604](https://github.com/LucaBarile/CVE-2022-38604)",
+      "description": "Exploits and reports for CVE-2022-38604",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T13:53:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-36946",
+      "repo_info": "[XmasSnowISBACK/CVE-2022-36946](https://github.com/XmasSnowISBACK/CVE-2022-36946)",
+      "description": "CVE-2022-36946 linux kernel panic in netfilter_queue",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T18:57:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-34918",
+      "repo_info": "[veritas501/CVE-2022-34918](https://github.com/veritas501/CVE-2022-34918)",
+      "description": "no description",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T09:52:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[XmasSnowISBACK/CVE-2022-33891](https://github.com/XmasSnowISBACK/CVE-2022-33891)",
+      "description": "CVE-2022-33891 - Apache Spark Command Injection",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T18:41:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft](https://github.com/emanuelandrei/Nft-Grabber-Stealer-Exploit-Cve-2022-Steal-BlockHain-Hack-Nft)",
+      "description": "This repo provides a nice and easy way for linking an existing NFT smart contract to this minting dapp. There are two ways of using this repo, you can go the simple route or the more complex one.  The simple route is so simple, all you need to do is download the build folder on the release page and change the configuration to fit your needs. (Follow the video for a walk through).  The more complex route allows you to add additional functionality if you are comfortable with coding in react.js. (Follow the below instructions for a walk through).",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T19:57:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[emanuelandrei/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/emanuelandrei/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)",
+      "description": "We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast &amp; reliably. Efficiency is guaranteed.",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T19:48:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[lmdelm/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/lmdelm/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)",
+      "description": "Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks &amp; scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking &amp; cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger &amp; clipper  Desktop &amp; Webcam screenshot",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T19:47:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[XmasSnowISBACK/CVE-2022-21661](https://github.com/XmasSnowISBACK/CVE-2022-21661)",
+      "description": "CVE-2022-21661 exp for Elementor custom skin.",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T18:51:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/XmasSnowISBACK/CVE-2022-0847-DirtyPipe-Exploits)",
+      "description": "COMPILED",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T18:53:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[vino-theva/CVE-2021-44228](https://github.com/vino-theva/CVE-2021-44228)",
+      "description": "Apache Log4j is a logging tool written in Java. This paper focuses on what is Log4j and log4shell  vulnerability and how it works, how it affects the victim, and  how can this be mitigated",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T17:03:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[vino-theva/CVE-2019-6447](https://github.com/vino-theva/CVE-2019-6447)",
+      "description": "This paper is about manual exploitation of android open port vulnerability found in ES file manager. This open TCP 59777 port allows the attacker to install a backdoor  and gather all the user’s data. Further in this paper there will be a proof of concept presented  to consolidate the vulnerability. Download the PDF and enjoy !!! Cheers !!!",
+      "date": "2022-08-02",
+      "raw_date": "2022-08-02T17:16:34Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.145303",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-08-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

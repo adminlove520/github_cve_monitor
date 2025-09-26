@@ -1,0 +1,20 @@
+{
+  "date": "2020-04-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Eugene24/CVE-2018-6574](https://github.com/Eugene24/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2020-04-08",
+      "raw_date": "2020-04-08T11:33:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.047027",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-04-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

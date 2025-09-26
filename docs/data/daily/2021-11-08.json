@@ -1,0 +1,34 @@
+{
+  "date": "2021-11-08",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-40346",
+      "repo_info": "[Vulnmachines/HAProxy_CVE-2021-40346](https://github.com/Vulnmachines/HAProxy_CVE-2021-40346)",
+      "description": "HAProxy CVE-2021-40346",
+      "date": "2021-11-08",
+      "raw_date": "2021-11-08T11:53:45Z"
+    },
+    {
+      "cve_id": "CVE-2018-12533",
+      "repo_info": "[Pastea/CVE-2018-12533](https://github.com/Pastea/CVE-2018-12533)",
+      "description": "no description",
+      "date": "2021-11-08",
+      "raw_date": "2021-11-08T21:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2013-2165",
+      "repo_info": "[Pastea/CVE-2013-2165](https://github.com/Pastea/CVE-2013-2165)",
+      "description": "no description",
+      "date": "2021-11-08",
+      "raw_date": "2021-11-08T21:07:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.108913",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-11-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

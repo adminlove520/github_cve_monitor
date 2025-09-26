@@ -1,0 +1,83 @@
+{
+  "date": "2023-05-25",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[kuttappu123/CVE-2023-30212-LAB](https://github.com/kuttappu123/CVE-2023-30212-LAB)",
+      "description": "no description",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T15:04:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE](https://github.com/Rishipatidar/CVE-2023-30212-POC-DOCKER-FILE)",
+      "description": "This repository provides a Docker container for simulating the CVE-2023-30212 vulnerability, allowing you to practice and understand its impact. It includes a comprehensive guide to help you set up the container on your own computer. The documentation for the Docker creation process is also included.",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T16:23:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[hheeyywweellccoommee/Django_rce-nwvba](https://github.com/hheeyywweellccoommee/Django_rce-nwvba)",
+      "description": "Django修复文件上传验证绕过漏洞（CVE-2023-31047）不完全，同一接口处可绕过验证导致rce",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T01:00:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-30145",
+      "repo_info": "[paragbagul111/CVE-2023-30145](https://github.com/paragbagul111/CVE-2023-30145)",
+      "description": "Camaleon CMS v2.7.0 contain a Server-Side Template  Injection (SSTI) vulnerability",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T12:35:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-29923",
+      "repo_info": "[CKevens/CVE-2023-29923-Scan](https://github.com/CKevens/CVE-2023-29923-Scan)",
+      "description": "PowerJob &lt;=4.3.2 未授权访问漏洞检测工具（CVE-2023-29922）",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T02:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-2825",
+      "repo_info": "[Occamsec/CVE-2023-2825](https://github.com/Occamsec/CVE-2023-2825)",
+      "description": "GitLab CVE-2023-2825 PoC. This PoC leverages a path traversal vulnerability to retrieve the /etc/passwd file from a system running GitLab 16.0.0.",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T13:25:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-2732",
+      "repo_info": "[RandomRobbieBF/CVE-2023-2732](https://github.com/RandomRobbieBF/CVE-2023-2732)",
+      "description": "MStore API &lt;= 3.9.2 - Authentication Bypass",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T10:18:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-25292",
+      "repo_info": "[tucommenceapousser/CVE-2023-25292](https://github.com/tucommenceapousser/CVE-2023-25292)",
+      "description": "no description",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T20:56:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963](https://github.com/nikn0laty/RCE-in-Spring-Cloud-CVE-2022-22963)",
+      "description": "Exploit for CVE-2022-22963 remote command execution in Spring Cloud Function",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T19:50:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[Ajomix/CVE-2020-0796-VCS](https://github.com/Ajomix/CVE-2020-0796-VCS)",
+      "description": "analyze ndays in VCS",
+      "date": "2023-05-25",
+      "raw_date": "2023-05-25T17:22:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.266990",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-05-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

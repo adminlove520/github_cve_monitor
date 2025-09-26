@@ -1,0 +1,76 @@
+{
+  "date": "2023-04-04",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-42896",
+      "repo_info": "[Trinadh465/linux_4.19.72_CVE-2023-42896](https://github.com/Trinadh465/linux_4.19.72_CVE-2023-42896)",
+      "description": "no description",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T10:11:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[adhikara13/CVE-2023-23752](https://github.com/adhikara13/CVE-2023-23752)",
+      "description": "Poc for CVE-2023-23752",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T21:14:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-20944",
+      "repo_info": "[hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944](https://github.com/hshivhare67/platform_frameworks_base_AOSP10_r33_CVE-2023-20944)",
+      "description": "no description",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T12:07:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-43680",
+      "repo_info": "[Nivaskumark/external_expat_AOSP10_r33_CVE-2022-43680](https://github.com/Nivaskumark/external_expat_AOSP10_r33_CVE-2022-43680)",
+      "description": "no description",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T06:31:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[necroteddy/CVE-2022-42889](https://github.com/necroteddy/CVE-2022-42889)",
+      "description": "docker for CVE-2022-42889",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T20:08:08Z"
+    },
+    {
+      "cve_id": "CVE-2020-0183",
+      "repo_info": "[hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183](https://github.com/hshivhare67/platform_packages_apps_bluetooth_AOSP10_r33_CVE-2020-0183)",
+      "description": "no description",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T10:46:05Z"
+    },
+    {
+      "cve_id": "CVE-2014-3544",
+      "repo_info": "[randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution](https://github.com/randallbanner/Rejetto-HTTP-File-Server-HFS-2.3.x---Remote-Command-Execution)",
+      "description": "CVE-2014-6287",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T18:39:30Z"
+    },
+    {
+      "cve_id": "CVE-2012-2012",
+      "repo_info": "[hello123body/CVE-2012-2012](https://github.com/hello123body/CVE-2012-2012)",
+      "description": "no description",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T06:35:51Z"
+    },
+    {
+      "cve_id": "CVE-2006-3392",
+      "repo_info": "[MrEmpy/CVE-2006-3392](https://github.com/MrEmpy/CVE-2006-3392)",
+      "description": "no description",
+      "date": "2023-04-04",
+      "raw_date": "2023-04-04T01:54:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.259497",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-04-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

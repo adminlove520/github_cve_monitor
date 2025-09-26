@@ -1,0 +1,20 @@
+{
+  "date": "2019-06-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[VikasVarshney/CVE_2018_6574](https://github.com/VikasVarshney/CVE_2018_6574)",
+      "description": "no description",
+      "date": "2019-06-17",
+      "raw_date": "2019-06-17T05:31:34Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.018442",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-06-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

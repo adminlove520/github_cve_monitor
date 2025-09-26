@@ -1,0 +1,97 @@
+{
+  "date": "2024-08-02",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6529",
+      "repo_info": "[Abdurahmon3236/CVE-2024-6529](https://github.com/Abdurahmon3236/CVE-2024-6529)",
+      "description": "no description",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T20:02:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-5246",
+      "repo_info": "[Abdurahmon3236/CVE-2024-5246](https://github.com/Abdurahmon3236/CVE-2024-5246)",
+      "description": "no description",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T20:56:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-40110",
+      "repo_info": "[Abdurahmon3236/CVE-2024-40110](https://github.com/Abdurahmon3236/CVE-2024-40110)",
+      "description": "no description",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T20:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-39614",
+      "repo_info": "[Abdurahmon3236/-CVE-2024-39614](https://github.com/Abdurahmon3236/-CVE-2024-39614)",
+      "description": "no description",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T20:11:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-38473",
+      "repo_info": "[Abdurahmon3236/CVE-2024-38473](https://github.com/Abdurahmon3236/CVE-2024-38473)",
+      "description": "no description",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T19:57:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-38473",
+      "repo_info": "[Abdurahmon3236/CVE-2024-poc-s](https://github.com/Abdurahmon3236/CVE-2024-poc-s)",
+      "description": "new poc&#x27;s",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T11:31:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-37085",
+      "repo_info": "[mahmutaymahmutay/CVE-2024-37085](https://github.com/mahmutaymahmutay/CVE-2024-37085)",
+      "description": "Vulnerability Scanner for CVE-2024-37085 and Exploits ( For Educational Purpose only)",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T13:31:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[chrisWalker11/CVE-2024-32002](https://github.com/chrisWalker11/CVE-2024-32002)",
+      "description": "adapting CVE-2024-32002 for running offline and locally",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T18:44:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-24549",
+      "repo_info": "[Abdurahmon3236/CVE-2024-24549](https://github.com/Abdurahmon3236/CVE-2024-24549)",
+      "description": "no description",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T21:05:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-50564",
+      "repo_info": "[ipuig/CVE-2023-50564](https://github.com/ipuig/CVE-2023-50564)",
+      "description": "CVE-2023-50564 PoC",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T13:37:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-27372",
+      "repo_info": "[charchit-subedi/chamilo-lms-unauthenticated-rce-poc](https://github.com/charchit-subedi/chamilo-lms-unauthenticated-rce-poc)",
+      "description": "This is a script written in Python that allows the exploitation of the Chamilo&#x27;s LMS software security flaw described in CVE-2023-4220",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T06:14:56Z"
+    },
+    {
+      "cve_id": "CVE-2021-21551",
+      "repo_info": "[Eap2468/CVE-2021-21551](https://github.com/Eap2468/CVE-2021-21551)",
+      "description": "Proof of concept exploit for CVE-2021-21551",
+      "date": "2024-08-02",
+      "raw_date": "2024-08-02T20:14:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.340070",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-08-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

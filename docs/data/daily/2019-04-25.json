@@ -1,0 +1,55 @@
+{
+  "date": "2019-04-25",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-20434",
+      "repo_info": "[mhaskar/CVE-2018-20434](https://github.com/mhaskar/CVE-2018-20434)",
+      "description": "The official exploit code for LibreNMS v1.46 Remote Code Execution CVE-2018-20434",
+      "date": "2019-04-25",
+      "raw_date": "2019-04-25T11:06:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[likekabin/CVE-2018-20250](https://github.com/likekabin/CVE-2018-20250)",
+      "description": "no description",
+      "date": "2019-04-25",
+      "raw_date": "2019-04-25T02:30:50Z"
+    },
+    {
+      "cve_id": "CVE-2017-9791",
+      "repo_info": "[SkyBlueEternal/CNVD-C-2019-48814-CNNVD-201904-961](https://github.com/SkyBlueEternal/CNVD-C-2019-48814-CNNVD-201904-961)",
+      "description": "CVE-2019-2725poc汇总 更新绕过CVE-2017-10271补丁POC",
+      "date": "2019-04-25",
+      "raw_date": "2019-04-25T03:07:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-9791",
+      "repo_info": "[7kbstorm/WebLogic_CNVD_C2019_48814](https://github.com/7kbstorm/WebLogic_CNVD_C2019_48814)",
+      "description": "WebLogic CNVD-C-2019_48814 CVE-2017-10271 Scan By 7kbstorm",
+      "date": "2019-04-25",
+      "raw_date": "2019-04-25T12:33:31Z"
+    },
+    {
+      "cve_id": "CVE-2017-9791",
+      "repo_info": "[Yuusuke4/WebLogic_CNVD_C_2019_48814](https://github.com/Yuusuke4/WebLogic_CNVD_C_2019_48814)",
+      "description": "WebLogic CNVD-C-2019_48814 CVE-2017-10271",
+      "date": "2019-04-25",
+      "raw_date": "2019-04-25T12:18:16Z"
+    },
+    {
+      "cve_id": "CVE-2009-5147",
+      "repo_info": "[zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-](https://github.com/zhangyongbo100/-Ruby-dl-handle.c-CVE-2009-5147-)",
+      "description": "no description",
+      "date": "2019-04-25",
+      "raw_date": "2019-04-25T06:46:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.013422",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2019-04-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

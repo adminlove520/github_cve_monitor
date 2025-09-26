@@ -1,0 +1,41 @@
+{
+  "date": "2022-06-27",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-3625",
+      "repo_info": "[huihuo123/CVE-2023-3625](https://github.com/huihuo123/CVE-2023-3625)",
+      "description": "免杀，红队，蓝队，防守",
+      "date": "2022-06-27",
+      "raw_date": "2022-06-27T15:42:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-4295",
+      "repo_info": "[Lucaskrell/go_follina](https://github.com/Lucaskrell/go_follina)",
+      "description": "Follina (CVE-2022-30190) proof-of-concept",
+      "date": "2022-06-27",
+      "raw_date": "2022-06-27T16:14:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-26855",
+      "repo_info": "[kh4sh3i/ProxyLogon](https://github.com/kh4sh3i/ProxyLogon)",
+      "description": "ProxyLogon (CVE-2021-26855+CVE-2021-27065) Exchange Server RCE (SSRF-&gt;GetWebShell)",
+      "date": "2022-06-27",
+      "raw_date": "2022-06-27T08:07:48Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[anujbhan/shellshock-victim-host](https://github.com/anujbhan/shellshock-victim-host)",
+      "description": "A docker container vulnerable to Shellshock - CVE-2014-6271",
+      "date": "2022-06-27",
+      "raw_date": "2022-06-27T21:52:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.140208",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-06-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

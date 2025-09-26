@@ -1,0 +1,27 @@
+{
+  "date": "2013-01-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-0156",
+      "repo_info": "[heroku/heroku-CVE-2013-0156](https://github.com/heroku/heroku-CVE-2013-0156)",
+      "description": "Inspect all of your heroku apps to see if they are running a vulnerable version of Rails",
+      "date": "2013-01-11",
+      "raw_date": "2013-01-11T02:13:48Z"
+    },
+    {
+      "cve_id": "CVE-2013-0156",
+      "repo_info": "[josal/crack-0.1.8-fixed](https://github.com/josal/crack-0.1.8-fixed)",
+      "description": "crack repo from jnunemaker but with version 0.1.8 and rails CVE-2013-0156 vulnerability fixed",
+      "date": "2013-01-11",
+      "raw_date": "2013-01-11T18:21:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.805551",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2013-01-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-12-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-25637",
+      "repo_info": "[brahmiboudjema/CVE-2020-25637-libvirt-double-free](https://github.com/brahmiboudjema/CVE-2020-25637-libvirt-double-free)",
+      "description": "Double Free",
+      "date": "2020-12-04",
+      "raw_date": "2020-12-04T11:01:29Z"
+    },
+    {
+      "cve_id": "CVE-2006-3392",
+      "repo_info": "[IvanGlinkin/CVE-2006-3392](https://github.com/IvanGlinkin/CVE-2006-3392)",
+      "description": "This small script helps to avoid using MetaSploit (msfconsole) during the Enterprise pentests and OSCP-like exams. Grep included function will help you to get only the important information.",
+      "date": "2020-12-04",
+      "raw_date": "2020-12-04T11:44:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.072554",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-12-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

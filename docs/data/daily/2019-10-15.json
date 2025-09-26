@@ -1,0 +1,69 @@
+{
+  "date": "2019-10-15",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16278",
+      "repo_info": "[ianxtianxt/CVE-2019-16278](https://github.com/ianxtianxt/CVE-2019-16278)",
+      "description": "CVE-2019-16278Nostromo httpd命令执行",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T12:47:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[CashWilliams/CVE-2019-14287-demo](https://github.com/CashWilliams/CVE-2019-14287-demo)",
+      "description": "This is a container built for demonstration purposes that has a version of the sudo command which is vulnerable to CVE-2019-14287",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T17:58:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-9951",
+      "repo_info": "[sandi-go/cve-2018-9951](https://github.com/sandi-go/cve-2018-9951)",
+      "description": "no description",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T07:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2018-9950",
+      "repo_info": "[sandi-go/PS-2017-13---CVE-2018-9950](https://github.com/sandi-go/PS-2017-13---CVE-2018-9950)",
+      "description": "no description",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T06:47:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-8389",
+      "repo_info": "[sandi-go/cve-2018-8389](https://github.com/sandi-go/cve-2018-8389)",
+      "description": "no description",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T07:09:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-15968",
+      "repo_info": "[sandi-go/cve-2018-15968](https://github.com/sandi-go/cve-2018-15968)",
+      "description": "no description",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T06:26:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-14442",
+      "repo_info": "[sandi-go/PS-2018-002---CVE-2018-14442](https://github.com/sandi-go/PS-2018-002---CVE-2018-14442)",
+      "description": "no description",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T06:58:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-12798",
+      "repo_info": "[sandi-go/cve-2018-12798](https://github.com/sandi-go/cve-2018-12798)",
+      "description": "no description",
+      "date": "2019-10-15",
+      "raw_date": "2019-10-15T07:05:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.029583",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2019-10-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

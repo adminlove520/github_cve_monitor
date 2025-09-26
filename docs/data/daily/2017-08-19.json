@@ -1,0 +1,20 @@
+{
+  "date": "2017-08-19",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3309",
+      "repo_info": "[bazad/IOFireWireFamily-overflow](https://github.com/bazad/IOFireWireFamily-overflow)",
+      "description": "CVE-2016-7608: Buffer overflow in IOFireWireFamily.",
+      "date": "2017-08-19",
+      "raw_date": "2017-08-19T20:49:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.954815",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-08-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

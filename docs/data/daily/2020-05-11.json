@@ -1,0 +1,62 @@
+{
+  "date": "2020-05-11",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-12717",
+      "repo_info": "[wabzqem/covidsafe-CVE-2020-12717-exploit](https://github.com/wabzqem/covidsafe-CVE-2020-12717-exploit)",
+      "description": "Code for exploit for CVE-2020-12717",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T13:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[HussyCool/CVE-2019-14287-IT18030372-](https://github.com/HussyCool/CVE-2019-14287-IT18030372-)",
+      "description": "Sudo Security Policy bypass Vulnerability",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T19:19:17Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[SachinthaDeSilva-cmd/Exploit-CVE-2019-14287](https://github.com/SachinthaDeSilva-cmd/Exploit-CVE-2019-14287)",
+      "description": "Documentation for Sudo Security Bypass - CVE 2019-14287",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T16:40:12Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[Tharana/Exploiting-a-Linux-kernel-vulnerability](https://github.com/Tharana/Exploiting-a-Linux-kernel-vulnerability)",
+      "description": "Local Root vulnerability- CVE-2019-13272 / Security Bypass Vulnerability – CVE-2019-14287",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T11:24:29Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-](https://github.com/shanuka-ashen/Dirty-Cow-Explanation-CVE-2016-5195-)",
+      "description": "no description",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T19:25:26Z"
+    },
+    {
+      "cve_id": "CVE-2015-7547",
+      "repo_info": "[xycloops123/TKEY-remote-DoS-vulnerability-exploit](https://github.com/xycloops123/TKEY-remote-DoS-vulnerability-exploit)",
+      "description": "Exploit code for CVE-2015-5477 POC",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T18:01:09Z"
+    },
+    {
+      "cve_id": "CVE-2015-7547",
+      "repo_info": "[Tharana/Android-vulnerability-exploitation](https://github.com/Tharana/Android-vulnerability-exploitation)",
+      "description": "Google Android - 'Stagefright' Remote Code Execution - CVE-2015-1538",
+      "date": "2020-05-11",
+      "raw_date": "2020-05-11T11:34:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.050306",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2020-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

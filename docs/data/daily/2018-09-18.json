@@ -1,0 +1,20 @@
+{
+  "date": "2018-09-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-16711",
+      "repo_info": "[DownWithUp/CVE-2018-16711](https://github.com/DownWithUp/CVE-2018-16711)",
+      "description": "PoC code for CVE-2018-16711 (exploit by wrmsr)",
+      "date": "2018-09-18",
+      "raw_date": "2018-09-18T22:18:32Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.991609",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-09-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

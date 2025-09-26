@@ -1,0 +1,34 @@
+{
+  "date": "2020-03-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-2555",
+      "repo_info": "[Y4er/CVE-2020-2555](https://github.com/Y4er/CVE-2020-2555)",
+      "description": "Weblogic com.tangosol.util.extractor.ReflectionExtractor RCE",
+      "date": "2020-03-07",
+      "raw_date": "2020-03-07T18:58:09Z"
+    },
+    {
+      "cve_id": "CVE-2019-19905",
+      "repo_info": "[dpmdpm2/CVE-2019-19905](https://github.com/dpmdpm2/CVE-2019-19905)",
+      "description": "no description",
+      "date": "2020-03-07",
+      "raw_date": "2020-03-07T20:23:04Z"
+    },
+    {
+      "cve_id": "CVE-2019-19905",
+      "repo_info": "[manish1772/Machine-learning-in-Cyber-security](https://github.com/manish1772/Machine-learning-in-Cyber-security)",
+      "description": "The data set was provided by https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2019.json.zip. The dataset was in json format i had to flatten it first.There were inner records again.I have flattened the file based on the sample given in the mail.  Data set was about cyber security vulnarabilities.National vulnarabilities database is the product of the US NIST.NVD provides all the information regarding vulnarabilities.The main features i researched were about CWE codes,CVSS base score.  cwe codes refers to The Common Weakness Enumeration Specification (CWE) provides a common language of discourse for discussing, finding and dealing with the causes of software security vulnerabilities as they are found in code, design, or system architecture. Each individual CWE represents a single vulnerability type. CWE is currently maintained by the MITRE Corporation with support from the National Cyber Security Division (DHS). A detailed CWE list is currently available at the MITRE website; this list provides a detailed definition for each individual CWE.[used from NVD website]  Later, NIST provides common measure to analyse the effect of vulnarability called CVSS base score.I have taken this feature to measure the severity of the vulnarability with respect to cwe codes  The data preparation and EDA is pretty straight forward.This problem looks like unsupervised learning because there were no class lables i thought to just cluster the cwe codes based on severity i.e base score,hence i used k means clustering.The k means clustering can be prone to outliers but the feature base score was from 1-10 which means it is scaled up already.Hence i decided to go with k means.",
+      "date": "2020-03-07",
+      "raw_date": "2020-03-07T10:26:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.043883",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-03-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

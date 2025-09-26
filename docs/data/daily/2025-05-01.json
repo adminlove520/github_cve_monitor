@@ -1,0 +1,111 @@
+{
+  "date": "2025-05-01",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[Caztemaz/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce](https://github.com/Caztemaz/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce)",
+      "description": "Exploit development involves tools like exploitation frameworks and CVE databases. LNK exploits, such as LNK builder or LNK payload techniques, leverage vulnerabilities like CVE-2025-44228 for silent RCE execution through shortcut files.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T16:35:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[Caztemaz/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud](https://github.com/Caztemaz/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud)",
+      "description": "Exploit development targets vulnerabilities like CVE-2025-44228, often using tools like silent exploit builders. Office documents, including DOC files, are exploited through malware payloads and CVE exploits, impacting platforms like Office 365.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T16:35:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[Caztemaz/Phantom-Registy-Exploit-Cve2025-20682-Runtime-Fud-Lnk](https://github.com/Caztemaz/Phantom-Registy-Exploit-Cve2025-20682-Runtime-Fud-Lnk)",
+      "description": "Exploit development involves tools like exploitation frameworks and CVE databases. Registry exploits, such as reg exploit or registry-based payloads, leverage vulnerabilities for silent execution, often using FUD techniques to evade detection.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T16:35:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment](https://github.com/Onapsis/Onapsis-Mandiant-CVE-2025-31324-Vuln-Compromise-Assessment)",
+      "description": "CVE-2025-31324 vulnerability and compromise assessment tool",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T18:44:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[ibrahimsql/CVE-2025-31161](https://github.com/ibrahimsql/CVE-2025-31161)",
+      "description": "CVE-2025-31161, a critical authentication bypass vulnerability in CrushFTP WebInterface. This tool allows security researchers to scan for vulnerable instances and verify the security posture of CrushFTP servers.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T21:57:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-24054",
+      "repo_info": "[S4mma3l/CVE-2025-24054](https://github.com/S4mma3l/CVE-2025-24054)",
+      "description": "no description",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T21:57:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-20029",
+      "repo_info": "[schoi1337/CVE-2025-20029-simulation](https://github.com/schoi1337/CVE-2025-20029-simulation)",
+      "description": "Simulated environment for CVE-2025-20029 using Docker. Includes PoC and auto-reporting.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T05:46:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-12654",
+      "repo_info": "[Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Yuweixn/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)",
+      "description": "Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T13:54:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-31317",
+      "repo_info": "[JadeByteZen/CVE-2024-31317-PoC-Deployer](https://github.com/JadeByteZen/CVE-2024-31317-PoC-Deployer)",
+      "description": "no description",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T11:41:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[devsec23/CVE-2024-27956](https://github.com/devsec23/CVE-2024-27956)",
+      "description": "CVE-2024-27956 - WP Automatic SQL Injection Exploit Tool",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T22:39:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[Rohith-Reddy-Y/Zero-Day-Vulnerability-Exploitation-Detection-Tool](https://github.com/Rohith-Reddy-Y/Zero-Day-Vulnerability-Exploitation-Detection-Tool)",
+      "description": "An AI-powered tool to predict and prevent zero-day attacks on firewalls, like Palo Alto’s CVE-2024-3400. Uses Python, Wireshark, MITRE ATT&amp;CK datasets, and Docker for real-time anomaly detection.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T15:47:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[Geinasz/CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection](https://github.com/Geinasz/CMD-Exploit-CVE-2024-RCE-AboRady-FUD-25765-Injection)",
+      "description": "Exploit development uses tools like exploitation frameworks and CVE databases. Cmd exploits, such as cmd fud or cmd exploit, enable silent execution while avoiding detection through proper setups.",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T15:01:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-4226",
+      "repo_info": "[SkyW4r33x/CVE-2023-4226](https://github.com/SkyW4r33x/CVE-2023-4226)",
+      "description": "Vulnerabilidad de carga de archivos sin restricciones en **Chamilo LMS** (&lt;= v1.11.24).",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T23:42:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-40355",
+      "repo_info": "[ace-83/CVE-2023-40355](https://github.com/ace-83/CVE-2023-40355)",
+      "description": "CVE-2023-40355 checker",
+      "date": "2025-05-01",
+      "raw_date": "2025-05-01T17:16:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.388125",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-05-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

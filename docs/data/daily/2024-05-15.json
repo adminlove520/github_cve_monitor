@@ -1,0 +1,83 @@
+{
+  "date": "2024-05-15",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-32640",
+      "repo_info": "[tk-sawada/IPLineFinder](https://github.com/tk-sawada/IPLineFinder)",
+      "description": "Find rows contain specific IP addresses in large files and then, extract them. This tool make for investigating logs for cve-2024-3400",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T15:50:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-29895",
+      "repo_info": "[Stuub/CVE-2024-29895-CactiRCE-PoC](https://github.com/Stuub/CVE-2024-29895-CactiRCE-PoC)",
+      "description": "CVE-2024-29895 PoC - Exploiting remote command execution in Cacti servers using the 1.3.X DEV branch builds",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T13:11:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-29895",
+      "repo_info": "[Yoga913/CVE-2024-CISCO](https://github.com/Yoga913/CVE-2024-CISCO)",
+      "description": "CVE digunakan untuk mengidentifikasi kerentanan keamanan pada perangkat lunak dan perangkat keras2. CVE memungkinkan pengguna untuk mencari dan memperbaiki kerentanan keamanan pada sistem mereka2.",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T17:27:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[W3BW/CVE-2024-27956-RCE-File-Package](https://github.com/W3BW/CVE-2024-27956-RCE-File-Package)",
+      "description": "no description",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T07:48:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-22026",
+      "repo_info": "[securekomodo/CVE-2024-22026](https://github.com/securekomodo/CVE-2024-22026)",
+      "description": "Exploit POC for CVE-2024-22026 affecting Ivanti EPMM &quot;MobileIron Core&quot;",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T11:20:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-21768",
+      "repo_info": "[xboxoneresearch/CVE-2023-21768-dotnet](https://github.com/xboxoneresearch/CVE-2023-21768-dotnet)",
+      "description": "C# / .NET version of CVE-2023-21768",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T17:42:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-34646",
+      "repo_info": "[0xB455/CVE-2021-34646](https://github.com/0xB455/CVE-2021-34646)",
+      "description": "PoC for CVE-2021-34646",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T06:35:42Z"
+    },
+    {
+      "cve_id": "CVE-2019-1609",
+      "repo_info": "[1X14720f130x/CVE-2019-1609](https://github.com/1X14720f130x/CVE-2019-1609)",
+      "description": "Statis analysis of the RTCore64 associated with Micro-Star MSI Afterburner version 4.6.2.15658 + SDK +  POC",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T16:08:33Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[geozin/POC-CVE-2018-25031](https://github.com/geozin/POC-CVE-2018-25031)",
+      "description": "no description",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T23:21:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-14716",
+      "repo_info": "[0xB455/CVE-2018-14716](https://github.com/0xB455/CVE-2018-14716)",
+      "description": "PoC for CVE-2018-14716",
+      "date": "2024-05-15",
+      "raw_date": "2024-05-15T06:47:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.325004",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-05-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

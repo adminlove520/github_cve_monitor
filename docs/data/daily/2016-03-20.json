@@ -1,0 +1,34 @@
+{
+  "date": "2016-03-20",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-0805",
+      "repo_info": "[ikoz/cert-pinning-flaw-poc](https://github.com/ikoz/cert-pinning-flaw-poc)",
+      "description": "Simple script for testing CVE-2016-2402 and similar flaws",
+      "date": "2016-03-20",
+      "raw_date": "2016-03-20T18:04:40Z"
+    },
+    {
+      "cve_id": "CVE-2015-1538",
+      "repo_info": "[niranjanshr13/Stagefright-cve-2015-1538-1](https://github.com/niranjanshr13/Stagefright-cve-2015-1538-1)",
+      "description": "Cve-2015-1538-1",
+      "date": "2016-03-20",
+      "raw_date": "2016-03-20T20:20:06Z"
+    },
+    {
+      "cve_id": "CVE-2013-4434",
+      "repo_info": "[styx00/Dropbear_CVE-2013-4434](https://github.com/styx00/Dropbear_CVE-2013-4434)",
+      "description": "Dropbear user enumeration (CVE-2013-4434) PoC",
+      "date": "2016-03-20",
+      "raw_date": "2016-03-20T15:06:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.908276",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2016-03-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

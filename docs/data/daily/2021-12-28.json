@@ -1,0 +1,27 @@
+{
+  "date": "2021-12-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[4nner/CVE-2019-9053](https://github.com/4nner/CVE-2019-9053)",
+      "description": "CVE-2019-9053 Exploit for Python 3",
+      "date": "2021-12-28",
+      "raw_date": "2021-12-28T16:30:12Z"
+    },
+    {
+      "cve_id": "CVE-2018-15133",
+      "repo_info": "[NatteeSetobol/CVE-2018-15133-Lavel-Expliot](https://github.com/NatteeSetobol/CVE-2018-15133-Lavel-Expliot)",
+      "description": "Lavel Expliot CVE-2018-15133 / An Expliot I wrote a long time ago for a CTF box.",
+      "date": "2021-12-28",
+      "raw_date": "2021-12-28T02:33:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.114603",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

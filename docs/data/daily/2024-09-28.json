@@ -1,0 +1,97 @@
+{
+  "date": "2024-09-28",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8949",
+      "repo_info": "[fa-rrel/CVE-2024-8949-POC](https://github.com/fa-rrel/CVE-2024-8949-POC)",
+      "description": "SourceCodester Online Eyewear Shop Remote File Inclusion Vulnerability",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T15:58:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-47176",
+      "repo_info": "[aytackalinci/CVE-2024-47176](https://github.com/aytackalinci/CVE-2024-47176)",
+      "description": "Vulnerability Scanner for CUPS: CVE-2024-47176",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T19:01:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-47176",
+      "repo_info": "[mr-r3b00t/CVE-2024-47176](https://github.com/mr-r3b00t/CVE-2024-47176)",
+      "description": "Scanner",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T16:02:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-45614",
+      "repo_info": "[ooooooo-q/puma_header_normalization-CVE-2024-45614](https://github.com/ooooooo-q/puma_header_normalization-CVE-2024-45614)",
+      "description": "Puma Header normalization CVE-2024-45614 確認",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T06:29:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-45519",
+      "repo_info": "[p33d/CVE-2024-45519](https://github.com/p33d/CVE-2024-45519)",
+      "description": "no description",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T08:29:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-36837",
+      "repo_info": "[lhc321-source/CVE-2024-36837](https://github.com/lhc321-source/CVE-2024-36837)",
+      "description": "CVE-2024-36837 POC",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T10:44:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[PunitTailor55/GeoServer-CVE-2024-36401](https://github.com/PunitTailor55/GeoServer-CVE-2024-36401)",
+      "description": "GeoServer CVE-2024-36401: Remote Code Execution (RCE) Vulnerability In Evaluating Property Name Expressions",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T14:55:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-33210",
+      "repo_info": "[paragbagul111/CVE-2024-33210](https://github.com/paragbagul111/CVE-2024-33210)",
+      "description": "A cross-site scripting (XSS) vulnerability has been identified in Flatpress 1.3. This vulnerability allows an attacker to inject malicious scripts into web pages viewed by other users.",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T08:24:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-33209",
+      "repo_info": "[paragbagul111/CVE-2024-33209](https://github.com/paragbagul111/CVE-2024-33209)",
+      "description": "FlatPress 1.3. is vulnerable to Cross Site Scripting (XSS). An attacker can inject malicious JavaScript code into the &quot;Add New Entry&quot; section, which allows them to execute arbitrary code in the context of a victim&#x27;s web browser.",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T08:17:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-29269",
+      "repo_info": "[Quantum-Hacker/CVE-2024-29269](https://github.com/Quantum-Hacker/CVE-2024-29269)",
+      "description": "no description",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T18:01:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-24409",
+      "repo_info": "[passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)",
+      "description": "ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T15:00:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-20467",
+      "repo_info": "[saler-cve/PoC-Exploit-CVE-2024-20467](https://github.com/saler-cve/PoC-Exploit-CVE-2024-20467)",
+      "description": "no description",
+      "date": "2024-09-28",
+      "raw_date": "2024-09-28T21:23:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.349451",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-09-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

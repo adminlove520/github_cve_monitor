@@ -1,0 +1,83 @@
+{
+  "date": "2024-09-17",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8484",
+      "repo_info": "[RedTeamPentesting/watchguard-sso-client](https://github.com/RedTeamPentesting/watchguard-sso-client)",
+      "description": "Client Implementation for the WatchGuard SSO Agent Protocol used for Security Research (CVE-2024-6592, CVE-2024-6593, CVE-2024-6594)",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T14:01:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-8350",
+      "repo_info": "[karlemilnikka/CVE-2024-8349-and-CVE-2024-8350](https://github.com/karlemilnikka/CVE-2024-8349-and-CVE-2024-8350)",
+      "description": "Authenticated Privilege Escalation to Admin exploiting Uncanny Groups for LearnDash.",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T13:44:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-7965",
+      "repo_info": "[maybeheisenberg/CVE-2024-7965-exploit](https://github.com/maybeheisenberg/CVE-2024-7965-exploit)",
+      "description": "no description",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T15:17:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-5458",
+      "repo_info": "[justmexD8/CVE-2024-5458-POC](https://github.com/justmexD8/CVE-2024-5458-POC)",
+      "description": "Filter bypass in filter_var",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T00:22:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-44346",
+      "repo_info": "[sahil3276/CVE-2024-44346](https://github.com/sahil3276/CVE-2024-44346)",
+      "description": "Public Disclosure of CVE-2024-44346",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T18:20:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-43160",
+      "repo_info": "[KTN1990/CVE-2024-43160](https://github.com/KTN1990/CVE-2024-43160)",
+      "description": "The BerqWP – Automated All-In-One PageSpeed Optimization Plugin for Core Web Vitals, Cache, CDN, Images, CSS, and JavaScript plugin for WordPress is vulnerable to arbitrary file uploads",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T04:19:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-2876",
+      "repo_info": "[0xAgun/CVE-2024-2876](https://github.com/0xAgun/CVE-2024-2876)",
+      "description": "no description",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T05:54:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-2188",
+      "repo_info": "[hacefresko/CVE-2024-2188](https://github.com/hacefresko/CVE-2024-2188)",
+      "description": "Exploit for stored XSS vulnerability found in the TP-Link Archer AX50 router.",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T14:33:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-6241",
+      "repo_info": "[ilGobbo00/CVE-2023-6241-Pixel7_Adaptation](https://github.com/ilGobbo00/CVE-2023-6241-Pixel7_Adaptation)",
+      "description": "Adaptation of CVE-2023-6241 for Google Pixel 7 from Google Pixel 8 taken from securitylab/SecurityExploits/Android/Mali/CVE_2023_6241",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T07:19:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-25479",
+      "repo_info": "[SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN](https://github.com/SpiralBL0CK/CVE-2024-40431-CVE-2022-25479-EOP-CHAIN)",
+      "description": "CVE-2024-40431+CVE-2022-25479 chain for EOP(DATA ONLY ATTACK) ROUGHT SKELLETON ATM. WILL EVENTUALLY TURN IT INTO FULL EOP",
+      "date": "2024-09-17",
+      "raw_date": "2024-09-17T06:28:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.347689",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-09-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

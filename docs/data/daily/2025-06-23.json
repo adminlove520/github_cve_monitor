@@ -1,0 +1,153 @@
+{
+  "date": "2025-06-23",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-49132",
+      "repo_info": "[nfoltc/CVE-2025-49132](https://github.com/nfoltc/CVE-2025-49132)",
+      "description": "Check a list of Pterodactyl panels for vulnerabilities from a file.",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T00:38:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-49132",
+      "repo_info": "[qiaojojo/CVE-2025-49132_poc](https://github.com/qiaojojo/CVE-2025-49132_poc)",
+      "description": "Pterodactyl翼龙面板CVE-2025-49132批量检测☝️🤓",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T20:51:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-48988",
+      "repo_info": "[nankuo/CVE-2025-48976_CVE-2025-48988](https://github.com/nankuo/CVE-2025-48976_CVE-2025-48988)",
+      "description": "CVE-2025-48976_CVE-2025-48988",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T05:41:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-45960",
+      "repo_info": "[pracharapol/CVE-2025-45960](https://github.com/pracharapol/CVE-2025-45960)",
+      "description": "no description",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T00:20:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-45710",
+      "repo_info": "[partywavesec/CVE-2025-45710](https://github.com/partywavesec/CVE-2025-45710)",
+      "description": "CVE-2025-45710",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T15:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-4322",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-4322](https://github.com/B1ack4sh/Blackash-CVE-2025-4322)",
+      "description": "CVE-2025-4322 – Unauthenticated Privilege Escalation via Password Update &quot;Account Takeover&quot; 🔥",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T21:08:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[0-d3y/langflow-rce-exploit](https://github.com/0-d3y/langflow-rce-exploit)",
+      "description": "Remote Code Execution Exploit for Langflow (CVE-2025-3248) - [ By S4Tech ]",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T01:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[dennisec/Mass-CVE-2025-3248](https://github.com/dennisec/Mass-CVE-2025-3248)",
+      "description": "Mass-CVE-2025-3248",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T09:36:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[dennisec/CVE-2025-3248](https://github.com/dennisec/CVE-2025-3248)",
+      "description": "CVE-2025-3248",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T09:30:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-26466",
+      "repo_info": "[mrowkoob/CVE-2025-26466-msf](https://github.com/mrowkoob/CVE-2025-26466-msf)",
+      "description": "CVE-2025-26466 - SSH Ping DoS Ruby module for Metasploit Framework",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T13:00:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-1094",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-1094](https://github.com/B1ack4sh/Blackash-CVE-2025-1094)",
+      "description": "CVE-2025-1094",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T18:01:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[byteReaper77/CVE-2024-4577](https://github.com/byteReaper77/CVE-2024-4577)",
+      "description": "Exploit (C) CVE-2024-4577 on PHP CGI",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T05:27:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[O-Carneiro/cve_2024_32002_rce](https://github.com/O-Carneiro/cve_2024_32002_rce)",
+      "description": "Repo tor showcase the exploit",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T05:50:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[O-Carneiro/cve_2024_32002_hook](https://github.com/O-Carneiro/cve_2024_32002_hook)",
+      "description": "Repo to showcase the explotation of cve 2024 32002",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T05:45:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-33538",
+      "repo_info": "[mrowkoob/CVE-2023-33538-msf](https://github.com/mrowkoob/CVE-2023-33538-msf)",
+      "description": "CVE-2023-33538 - TP-Link Command Injection Ruby module for Metasploit Framework",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T22:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-33538",
+      "repo_info": "[gdesantis01/instructions-summarizing](https://github.com/gdesantis01/instructions-summarizing)",
+      "description": "Site containing info useful for demonstrate CVE-2023-37273",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T16:48:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-20938",
+      "repo_info": "[anansi2safe/CVE-2023-20938](https://github.com/anansi2safe/CVE-2023-20938)",
+      "description": "no description",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T10:54:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-31630",
+      "repo_info": "[machevalia/OpenPLC-CVE-2021-31630-RCE](https://github.com/machevalia/OpenPLC-CVE-2021-31630-RCE)",
+      "description": "no description",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T21:54:55Z"
+    },
+    {
+      "cve_id": "CVE-2020-1048",
+      "repo_info": "[talsim/printDemon2system](https://github.com/talsim/printDemon2system)",
+      "description": "PrintDemon (CVE-2020-1048) Privilege Escalation",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T13:24:38Z"
+    },
+    {
+      "cve_id": "CVE-2015-6967",
+      "repo_info": "[cuerv0x/CVE-2015-6967](https://github.com/cuerv0x/CVE-2015-6967)",
+      "description": "no description",
+      "date": "2025-06-23",
+      "raw_date": "2025-06-23T16:23:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.397911",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2025-06-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

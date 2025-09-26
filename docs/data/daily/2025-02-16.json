@@ -1,0 +1,62 @@
+{
+  "date": "2025-02-16",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-24016",
+      "repo_info": "[0xjessie21/CVE-2025-24016](https://github.com/0xjessie21/CVE-2025-24016)",
+      "description": "CVE-2025-24016: Critical Remote Code Execution (RCE) in Wazuh server",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T11:01:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-5084",
+      "repo_info": "[ModeBrutal/CVE-2024-5084-Auto-Exploit](https://github.com/ModeBrutal/CVE-2024-5084-Auto-Exploit)",
+      "description": "no description",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T13:39:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[ten-ops/CVE-2024-48990_needrestart](https://github.com/ten-ops/CVE-2024-48990_needrestart)",
+      "description": "Exploit for CVE-2024-48990 - Privilege Escalation in Needrestart 3.7-3. For eductional purposes only",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T21:26:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-42327",
+      "repo_info": "[godylockz/CVE-2024-42327](https://github.com/godylockz/CVE-2024-42327)",
+      "description": "POC for CVE-2024-42327: Zabbix Privilege Escalation -&gt; RCE",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T07:33:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-48795",
+      "repo_info": "[sudovivek/Published-CVE](https://github.com/sudovivek/Published-CVE)",
+      "description": "Explore CVE-2023-33580 (XSS) &amp; CVE-2023-33584 (SQLI) discovered by me. Dive into vulnerabilities and exploits for insights.",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T08:05:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-19609",
+      "repo_info": "[abelsrzz/CVE-2019-18818_CVE-2019-19609](https://github.com/abelsrzz/CVE-2019-18818_CVE-2019-19609)",
+      "description": "This repository contains a Python script to exploit two vulnerabilities: CVE-2019-18818 and CVE-2019-19609.",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T19:43:11Z"
+    },
+    {
+      "cve_id": "CVE-2012-1823",
+      "repo_info": "[JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web](https://github.com/JasonHobs/CVE-2012-1823-exploit-for-https-user-password-web)",
+      "description": "CVE-2012-1823 exploit for https user password website.",
+      "date": "2025-02-16",
+      "raw_date": "2025-02-16T23:45:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.373317",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2025-02-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

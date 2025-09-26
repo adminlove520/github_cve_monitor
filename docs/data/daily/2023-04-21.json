@@ -1,0 +1,76 @@
+{
+  "date": "2023-04-21",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28206",
+      "repo_info": "[ZZY3312/CVE-2023-28206](https://github.com/ZZY3312/CVE-2023-28206)",
+      "description": "no description",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T12:08:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[daniloalbuqrque/poc-cve-xss-inventory-press-plugin](https://github.com/daniloalbuqrque/poc-cve-xss-inventory-press-plugin)",
+      "description": "PoC for CVE-2023-2579",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T16:22:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-27350",
+      "repo_info": "[TamingSariMY/CVE-2023-27350-POC](https://github.com/TamingSariMY/CVE-2023-27350-POC)",
+      "description": "no description",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T20:13:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-27350",
+      "repo_info": "[MaanVader/CVE-2023-27350-POC](https://github.com/MaanVader/CVE-2023-27350-POC)",
+      "description": "A simple python script to check if a service is vulnerable",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T09:19:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-1454",
+      "repo_info": "[padbergpete47/CVE-2023-1454](https://github.com/padbergpete47/CVE-2023-1454)",
+      "description": "CVE-2023-1454,Jeecg-Boot 前台SQL注入,CVE-2023-1454批量检测",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T09:27:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-4944",
+      "repo_info": "[MrEmpy/CVE-2022-4944](https://github.com/MrEmpy/CVE-2022-4944)",
+      "description": "「💥」CVE-2022-4944: KodExplorer &lt;= 4.49 - CSRF to Arbitrary File Upload",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T15:09:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[RSA-Demo/cve-2022-42889-text4shell](https://github.com/RSA-Demo/cve-2022-42889-text4shell)",
+      "description": "no description",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T08:15:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-21882",
+      "repo_info": "[dishfwk/CVE-2022-21882](https://github.com/dishfwk/CVE-2022-21882)",
+      "description": "no description",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T06:14:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[Anonimo501/ssh_enum_users_CVE-2018-15473](https://github.com/Anonimo501/ssh_enum_users_CVE-2018-15473)",
+      "description": "no description",
+      "date": "2023-04-21",
+      "raw_date": "2023-04-21T13:16:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.261999",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-04-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

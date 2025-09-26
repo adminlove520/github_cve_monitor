@@ -1,0 +1,27 @@
+{
+  "date": "2021-09-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-0041",
+      "repo_info": "[koharin/CVE-2020-0041](https://github.com/koharin/CVE-2020-0041)",
+      "description": "no description",
+      "date": "2021-09-10",
+      "raw_date": "2021-09-10T08:01:54Z"
+    },
+    {
+      "cve_id": "CVE-2017-17275",
+      "repo_info": "[Ali-Imangholi/EternalBlueTrojan](https://github.com/Ali-Imangholi/EternalBlueTrojan)",
+      "description": "EternalBlueTrojan(CVE-2017-0144)",
+      "date": "2021-09-10",
+      "raw_date": "2021-09-10T18:18:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.102878",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-09-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

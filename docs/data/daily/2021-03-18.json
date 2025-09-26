@@ -1,0 +1,55 @@
+{
+  "date": "2021-03-18",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-17136",
+      "repo_info": "[xyddnljydd/CVE-2020-17136](https://github.com/xyddnljydd/CVE-2020-17136)",
+      "description": "CVE-2020-17136 exploit",
+      "date": "2021-03-18",
+      "raw_date": "2021-03-18T11:16:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-17136",
+      "repo_info": "[cssxn/CVE-2020-17136](https://github.com/cssxn/CVE-2020-17136)",
+      "description": "Windows Cloud Files Mini Filter Driver Elevation of Privilege Vulnerability",
+      "date": "2021-03-18",
+      "raw_date": "2021-03-18T16:13:23Z"
+    },
+    {
+      "cve_id": "CVE-2019-3403",
+      "repo_info": "[davidmckennirey/CVE-2019-3403](https://github.com/davidmckennirey/CVE-2019-3403)",
+      "description": "A simple python3 exploit for CVE-2019-3403",
+      "date": "2021-03-18",
+      "raw_date": "2021-03-18T22:36:58Z"
+    },
+    {
+      "cve_id": "CVE-2019-20361",
+      "repo_info": "[jerrylewis9/CVE-2019-20361-EXPLOIT](https://github.com/jerrylewis9/CVE-2019-20361-EXPLOIT)",
+      "description": "There was a flaw in the WordPress plugin, Email Subscribers &amp; Newsletters before 4.3.1, that allowed SQL statements to be passed to the database in the hash parameter (a blind SQL injection vulnerability).",
+      "date": "2021-03-18",
+      "raw_date": "2021-03-18T00:22:05Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[thewhiteh4t/cve-2019-11447](https://github.com/thewhiteh4t/cve-2019-11447)",
+      "description": "CutePHP Cute News 2.1.2 RCE PoC",
+      "date": "2021-03-18",
+      "raw_date": "2021-03-18T09:24:29Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[AlexJS6/CVE-2012-2982_Python](https://github.com/AlexJS6/CVE-2012-2982_Python)",
+      "description": "PoC Python script as an exercice from tryhackme.",
+      "date": "2021-03-18",
+      "raw_date": "2021-03-18T16:47:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.084425",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-03-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

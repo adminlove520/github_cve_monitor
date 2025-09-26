@@ -1,0 +1,132 @@
+{
+  "date": "2025-04-30",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46721",
+      "repo_info": "[justinas/nosurf-cve-2025-46721](https://github.com/justinas/nosurf-cve-2025-46721)",
+      "description": "no description",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T13:53:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-42599",
+      "repo_info": "[cyruscostini/CVE-2025-42599](https://github.com/cyruscostini/CVE-2025-42599)",
+      "description": "no description",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T22:24:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-39538",
+      "repo_info": "[Nxploited/CVE-2025-39538](https://github.com/Nxploited/CVE-2025-39538)",
+      "description": "WordPress WP-Advanced-Search &lt;= 3.3.9.3 - Arbitrary File Upload Vulnerability",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T17:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-39538",
+      "repo_info": "[respondiq/jsp-webshell-scanner](https://github.com/respondiq/jsp-webshell-scanner)",
+      "description": "🔍 A simple Bash script to detect malicious JSP webshells, including those used in exploits of SAP NetWeaver CVE-2025-31324.",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T15:38:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[absholi7ly/TomcatKiller-CVE-2025-31650](https://github.com/absholi7ly/TomcatKiller-CVE-2025-31650)",
+      "description": "A tool designed to detect the vulnerability **CVE-2025-31650** in Apache Tomcat (versions 10.1.10 to 10.1.39)",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T02:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[tunahantekeoglu/CVE-2025-31650](https://github.com/tunahantekeoglu/CVE-2025-31650)",
+      "description": "CVE-2025-31650 PoC",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T11:10:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[JonathanStross/CVE-2025-31324](https://github.com/JonathanStross/CVE-2025-31324)",
+      "description": "A Python-based security scanner for identifying the CVE-2025-31324 vulnerability in SAP Visual Composer systems, and detecting known Indicators of Compromise (IOCs) such as malicious .jsp.",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T22:31:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[nullcult/CVE-2025-31324-File-Upload](https://github.com/nullcult/CVE-2025-31324-File-Upload)",
+      "description": "A totally unauthenticated file-upload endpoint in Visual Composer lets anyone drop arbitrary files (e.g., a JSP web-shell) onto the server.",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T13:39:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[BlueOWL-overlord/Burp_CVE-2025-31324](https://github.com/BlueOWL-overlord/Burp_CVE-2025-31324)",
+      "description": "Python-based Burp Suite extension is designed to detect the presence of CVE-2025-31324",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T06:34:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-30392",
+      "repo_info": "[Totunm/CVE-2025-30392](https://github.com/Totunm/CVE-2025-30392)",
+      "description": "no description",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T21:56:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[0xpr4bin/vulnerable-next_js_cve-2025-29927](https://github.com/0xpr4bin/vulnerable-next_js_cve-2025-29927)",
+      "description": "no description",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T06:29:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-29775",
+      "repo_info": "[twypsy/cve-2025-29775](https://github.com/twypsy/cve-2025-29775)",
+      "description": "POCs for CVE-2025-29775",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T00:34:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-24271",
+      "repo_info": "[moften/CVE-2025-24271](https://github.com/moften/CVE-2025-24271)",
+      "description": "Vulnerabilidad en AirPlay expone información sensible en dispositivos Apple",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T19:59:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-21756",
+      "repo_info": "[mr-spongebob/CVE-2025-21756](https://github.com/mr-spongebob/CVE-2025-21756)",
+      "description": "no description",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T09:05:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-40635",
+      "repo_info": "[yen5004/CVE-2024-40635_POC](https://github.com/yen5004/CVE-2024-40635_POC)",
+      "description": "Proof of Concept code for proving CVE-2024-40635 vulnerability",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T16:22:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[amoy6228/CVE-2024-36401_Geoserver_RCE_POC](https://github.com/amoy6228/CVE-2024-36401_Geoserver_RCE_POC)",
+      "description": "本脚本是针对 GeoServer 的远程代码执行漏洞（CVE-2024-36401）开发的 PoC（Proof of Concept）探测工具。该漏洞允许攻击者通过构造特定请求，在目标服务器上执行任意命令。",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T07:45:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[isabelacostaz/CVE-2019-0708-POC](https://github.com/isabelacostaz/CVE-2019-0708-POC)",
+      "description": "no description",
+      "date": "2025-04-30",
+      "raw_date": "2025-04-30T13:47:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.387907",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-04-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2018-11-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[aeroot/WP-GDPR-Compliance-Plugin-Exploit](https://github.com/aeroot/WP-GDPR-Compliance-Plugin-Exploit)",
+      "description": "Exploit of the privilege escalation vulnerability of the WordPress plugin &quot;WP GDPR Compliance&quot; by &quot;Van Ons&quot; (https://de.wordpress.org/plugins/wp-gdpr-compliance/) CVE-2018-19207",
+      "date": "2018-11-27",
+      "raw_date": "2018-11-27T14:27:06Z"
+    },
+    {
+      "cve_id": "CVE-2017-16082",
+      "repo_info": "[nulldreams/CVE-2017-16082](https://github.com/nulldreams/CVE-2017-16082)",
+      "description": "NodeJS + Postgres (Remote Code Execution) 🛰",
+      "date": "2018-11-27",
+      "raw_date": "2018-11-27T18:09:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.998922",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-11-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

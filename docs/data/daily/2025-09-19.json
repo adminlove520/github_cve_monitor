@@ -1,0 +1,69 @@
+{
+  "date": "2025-09-19",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-56762",
+      "repo_info": "[Shaunak-Chatterjee/CVE-2025-56762](https://github.com/Shaunak-Chatterjee/CVE-2025-56762)",
+      "description": "Proof of Concept for CVE-2025-56762",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T16:00:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-55241",
+      "repo_info": "[Spanky-McSpank/CVE-2025-55241-Internal-Audit](https://github.com/Spanky-McSpank/CVE-2025-55241-Internal-Audit)",
+      "description": "Audit Tool for CVE-2025-55241 - No Warranty Provided or Assumed. Analyze and Use at Own Risk",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T14:13:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[ammarm0010/CVE-2025-49144_PoC](https://github.com/ammarm0010/CVE-2025-49144_PoC)",
+      "description": "no description",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T17:17:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[l4f2s4/CVE-2025-49113_exploit_cookies](https://github.com/l4f2s4/CVE-2025-49113_exploit_cookies)",
+      "description": "CVE-2025-49113 - Roundcube Remote Code Execution",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T06:07:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-10585",
+      "repo_info": "[AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day](https://github.com/AdityaBhatt3010/CVE-2025-10585-The-Chrome-V8-Zero-Day)",
+      "description": "Google patched CVE-2025-10585, a Chrome V8 zero-day under active exploitation — here’s what it is, why it matters, and how to stay safe.",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T19:53:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-10035",
+      "repo_info": "[h4xnz/CVE-2025-10035-Exploit](https://github.com/h4xnz/CVE-2025-10035-Exploit)",
+      "description": "no description",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T17:00:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-57366",
+      "repo_info": "[h4ckusaur/CVE-2024-57366](https://github.com/h4ckusaur/CVE-2024-57366)",
+      "description": "Productized exploit for CVE-2024-57366 on WAVLINK WL-WN586X3-A routers (UNPATCHED AS OF THIS RELEASE!)",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T19:16:12Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[jameseyes/DVRC](https://github.com/jameseyes/DVRC)",
+      "description": "(CVE-2018-9995) Get DVR Credentials",
+      "date": "2025-09-19",
+      "raw_date": "2025-09-19T02:05:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.417239",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2025-09-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

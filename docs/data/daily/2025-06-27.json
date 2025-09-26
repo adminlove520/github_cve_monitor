@@ -1,0 +1,83 @@
+{
+  "date": "2025-06-27",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6218",
+      "repo_info": "[speinador/CVE-2025-6218_WinRAR](https://github.com/speinador/CVE-2025-6218_WinRAR)",
+      "description": "no description",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T00:11:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-32711",
+      "repo_info": "[daryllundy/cve-2025-32711](https://github.com/daryllundy/cve-2025-32711)",
+      "description": "no description",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T22:18:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[ThemeHackers/CVE-2025-30208](https://github.com/ThemeHackers/CVE-2025-30208)",
+      "description": "CVE‑2025‑30208 is a medium-severity arbitrary file read vulnerability in the Vite development server (a popular frontend build tool)",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T10:13:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-20281",
+      "repo_info": "[abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE](https://github.com/abrewer251/CVE-2025-20281-2-Citrix-ISE-RCE)",
+      "description": "Unauthenticated Python PoC for CVE-2025-20281 RCE against Cisco ISE ERS API",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T21:07:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Ikram124/CVE-2024-3094-analysis](https://github.com/Ikram124/CVE-2024-3094-analysis)",
+      "description": "Security analysis project: Real-world CVE breakdown",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T17:14:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-27388",
+      "repo_info": "[Mahesh-970/CVE-2024-27388_afterpatch](https://github.com/Mahesh-970/CVE-2024-27388_afterpatch)",
+      "description": "no description",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T13:42:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-52927",
+      "repo_info": "[seadragnol/CVE-2023-52927-private](https://github.com/seadragnol/CVE-2023-52927-private)",
+      "description": "no description",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T05:04:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-7378",
+      "repo_info": "[loganpkinfosec/CVE-2020-7378](https://github.com/loganpkinfosec/CVE-2020-7378)",
+      "description": "no description",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T12:13:14Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration](https://github.com/ArtemCyberLab/Project-Field-Analysis-and-Memory-Leak-Demonstration)",
+      "description": "The objective of this project was to assess a remote host for the Heartbleed vulnerability (CVE-2014-0160), verify its presence, and exploit it to extract potentially sensitive information from server memory over the TLS protocol.",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T21:55:20Z"
+    },
+    {
+      "cve_id": "CVE-2010-5195",
+      "repo_info": "[CristinaPravata/dirtycaw-projet](https://github.com/CristinaPravata/dirtycaw-projet)",
+      "description": "Escala de privilegios con CVE-2010-5195",
+      "date": "2025-06-27",
+      "raw_date": "2025-06-27T10:49:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.398734",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-06-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

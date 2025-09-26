@@ -1,0 +1,27 @@
+{
+  "date": "2021-05-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-28948",
+      "repo_info": "[nopdata/cve-2020-28948](https://github.com/nopdata/cve-2020-28948)",
+      "description": "no description",
+      "date": "2021-05-24",
+      "raw_date": "2021-05-24T15:36:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-8809",
+      "repo_info": "[oldboysonnt/dp](https://github.com/oldboysonnt/dp)",
+      "description": "Exploit CVE-2017-9248 Telerik ReMix from Paul Taylor&#x27;s script. Exploit Telerik lastest version fixed vuln. ReMix by TinoKa &amp; Shaco JX",
+      "date": "2021-05-24",
+      "raw_date": "2021-05-24T18:07:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.091506",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-05-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

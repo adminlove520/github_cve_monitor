@@ -1,0 +1,34 @@
+{
+  "date": "2021-11-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-42056",
+      "repo_info": "[z00z00z00/Safenet_SAC_CVE-2021-42056](https://github.com/z00z00z00/Safenet_SAC_CVE-2021-42056)",
+      "description": "Safenet Authentication Client Privilege Escalation - CVE-2021-42056",
+      "date": "2021-11-18",
+      "raw_date": "2021-11-18T14:27:06Z"
+    },
+    {
+      "cve_id": "CVE-2018-7422",
+      "repo_info": "[jessisec/CVE-2018-7422](https://github.com/jessisec/CVE-2018-7422)",
+      "description": "Site Editor WordPress Plugin <= 1.1.1 Local File Inclusion Script",
+      "date": "2021-11-18",
+      "raw_date": "2021-11-18T21:52:11Z"
+    },
+    {
+      "cve_id": "CVE-2013-1763",
+      "repo_info": "[Gabriel-Lima232/FreeBSD-9.0-9.1-Privilege-Escalation](https://github.com/Gabriel-Lima232/FreeBSD-9.0-9.1-Privilege-Escalation)",
+      "description": "CVE-2013-2171",
+      "date": "2021-11-18",
+      "raw_date": "2021-11-18T12:25:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.110051",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-11-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

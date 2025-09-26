@@ -1,0 +1,27 @@
+{
+  "date": "2018-01-02",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-3881",
+      "repo_info": "[1337g/CVE-2017-3881](https://github.com/1337g/CVE-2017-3881)",
+      "description": "credit to artkond",
+      "date": "2018-01-02",
+      "raw_date": "2018-01-02T01:45:15Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[MDudek-ICS/AntiWeb_testing-Suite](https://github.com/MDudek-ICS/AntiWeb_testing-Suite)",
+      "description": "Suite de herramientas que sacan partido del CVE-2017-9097 (+RCE)",
+      "date": "2018-01-02",
+      "raw_date": "2018-01-02T11:28:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.967596",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-01-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

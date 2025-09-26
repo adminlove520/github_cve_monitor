@@ -1,0 +1,62 @@
+{
+  "date": "2023-05-02",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-29007",
+      "repo_info": "[omespino/CVE-2023-29007](https://github.com/omespino/CVE-2023-29007)",
+      "description": "no description",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T23:47:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[Safarchand/CVE-2022-46169](https://github.com/Safarchand/CVE-2022-46169)",
+      "description": "Improved PoC for Unauthenticated RCE on Cacti &lt;= 1.2.22 - CVE-2022-46169",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T17:26:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[meowhua15/CVE-2022-30190](https://github.com/meowhua15/CVE-2022-30190)",
+      "description": "no description",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T07:56:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[sha-16/RCE-Cacti-1.2.22](https://github.com/sha-16/RCE-Cacti-1.2.22)",
+      "description": "Este es un código del exploit CVE-2022-46169, que recree utilizando Python3! Si por ahí estás haciendo una máquina de HTB, esto te puede ser útil... 🤞✨",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T02:41:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-24637",
+      "repo_info": "[c0derpwner/HTB-pwned](https://github.com/c0derpwner/HTB-pwned)",
+      "description": "CVE-2022-24637",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T08:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-41091",
+      "repo_info": "[UncleJ4ck/CVE-2021-41091](https://github.com/UncleJ4ck/CVE-2021-41091)",
+      "description": "POC for CVE-2021-41091",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T07:25:13Z"
+    },
+    {
+      "cve_id": "CVE-2014-0196",
+      "repo_info": "[azimuthadv/cs465finalproject](https://github.com/azimuthadv/cs465finalproject)",
+      "description": "Our final project for the Spring 2014 CS465 (Information Visualization) class at Middlebury College -- a visualizer for CVE vulnerabilities.",
+      "date": "2023-05-02",
+      "raw_date": "2023-05-02T05:18:19Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.263690",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-05-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2022-10-21",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[stavrosgns/Text4ShellPayloads](https://github.com/stavrosgns/Text4ShellPayloads)",
+      "description": "This project includes a python script which generates malicious commands leveraging CVE-2022-42889 vulnerability",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T19:41:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[humbss/CVE-2022-42889](https://github.com/humbss/CVE-2022-42889)",
+      "description": "no description",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T13:48:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[Bendalledj/CVE-2022-40684](https://github.com/Bendalledj/CVE-2022-40684)",
+      "description": "CVE 2022 40684",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T08:07:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-2402",
+      "repo_info": "[SecurityAndStuff/CVE-2022-2402](https://github.com/SecurityAndStuff/CVE-2022-2402)",
+      "description": "no description",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T19:10:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-1000",
+      "repo_info": "[yonggui-li/CVE-2022-1000_poc](https://github.com/yonggui-li/CVE-2022-1000_poc)",
+      "description": "no description",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T03:23:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[trhacknon/CVE-2018-7600](https://github.com/trhacknon/CVE-2018-7600)",
+      "description": "no description",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T21:05:40Z"
+    },
+    {
+      "cve_id": "CVE-2007-4559",
+      "repo_info": "[Ooscaar/MALW](https://github.com/Ooscaar/MALW)",
+      "description": "CVE-2007-4559 - Polemarch exploit",
+      "date": "2022-10-21",
+      "raw_date": "2022-10-21T06:38:41Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.157093",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-10-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

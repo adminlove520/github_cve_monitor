@@ -1,0 +1,76 @@
+{
+  "date": "2025-01-09",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-0282",
+      "repo_info": "[securexploit1/CVE-2025-0282](https://github.com/securexploit1/CVE-2025-0282)",
+      "description": "no description",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T17:36:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-0282",
+      "repo_info": "[BishopFox/CVE-2025-0282-check](https://github.com/BishopFox/CVE-2025-0282-check)",
+      "description": "Safely detect if an Ivanti server is vulnerable to CVE-2025-0282",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T18:43:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-8743",
+      "repo_info": "[siunam321/CVE-2024-8743-PoC](https://github.com/siunam321/CVE-2024-8743-PoC)",
+      "description": "Proof-of-Concept script for WordPress plugin Bit File Manager version &lt;= 6.5.7 Authenticated (Subscriber+) Limited JavaScript File Upload (CVE-2024-8743) vulnerability",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T08:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-56067",
+      "repo_info": "[RandomRobbieBF/CVE-2024-56067](https://github.com/RandomRobbieBF/CVE-2024-56067)",
+      "description": "WP SuperBackup &lt;= 2.3.3 - Missing Authorization to Unauthenticated Back-Up File Download",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T10:40:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-56064",
+      "repo_info": "[RandomRobbieBF/CVE-2024-56064](https://github.com/RandomRobbieBF/CVE-2024-56064)",
+      "description": "WP SuperBackup &lt;= 2.3.3 - Unauthenticated Arbitrary File Upload",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T15:35:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-51818",
+      "repo_info": "[RandomRobbieBF/CVE-2024-51818](https://github.com/RandomRobbieBF/CVE-2024-51818)",
+      "description": "Fancy Product Designer &lt;= 6.4.3 - Unauthenticated SQL Injection",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T10:00:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-3393",
+      "repo_info": "[waived/CVE-2024-3393](https://github.com/waived/CVE-2024-3393)",
+      "description": "PAN-OS: Firewall Denial-of-Service exploit via malicious DNS query",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T22:03:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-28108",
+      "repo_info": "[ZeroEthical/CVE-2022-28108](https://github.com/ZeroEthical/CVE-2022-28108)",
+      "description": "no description",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T22:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2020-1938",
+      "repo_info": "[bash3rt3am/poc-cve](https://github.com/bash3rt3am/poc-cve)",
+      "description": "cve-2019-11248  cve-2020-1938",
+      "date": "2025-01-09",
+      "raw_date": "2025-01-09T21:26:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.367383",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-01-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

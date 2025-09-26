@@ -1,0 +1,55 @@
+{
+  "date": "2022-07-27",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-28219",
+      "repo_info": "[aeifkz/CVE-2022-28219-Like](https://github.com/aeifkz/CVE-2022-28219-Like)",
+      "description": "建立一個概念類似 CVE-2022-28219 的測試環境",
+      "date": "2022-07-27",
+      "raw_date": "2022-07-27T09:03:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp](https://github.com/fuckjsonp/FuckJsonp-RCE-CVE-2022-26809-SQL-XSS-FuckJsonp)",
+      "description": "警惕 一种针对红队的新型溯源手段!",
+      "date": "2022-07-27",
+      "raw_date": "2022-07-27T15:48:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[carloscast1llo/CVE-2021-4034](https://github.com/carloscast1llo/CVE-2021-4034)",
+      "description": "Vulnerability Polkit&#x27;s pkexec",
+      "date": "2022-07-27",
+      "raw_date": "2022-07-27T10:15:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-2509",
+      "repo_info": "[jbaines-r7/overkill](https://github.com/jbaines-r7/overkill)",
+      "description": "QNAP N-Day (Probably not CVE-2020-2509)",
+      "date": "2022-07-27",
+      "raw_date": "2022-07-27T19:58:40Z"
+    },
+    {
+      "cve_id": "CVE-2018-2628",
+      "repo_info": "[cscadoge/weblogic-cve-2018-2628](https://github.com/cscadoge/weblogic-cve-2018-2628)",
+      "description": "weblogic-cve-2018-2628-exp",
+      "date": "2022-07-27",
+      "raw_date": "2022-07-27T06:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2014-0043",
+      "repo_info": "[JJK96/JavaClasspathEnum](https://github.com/JJK96/JavaClasspathEnum)",
+      "description": "Java classpath enumeration, focussed on CVE-2014-0043 for Apache Wicket 6.x",
+      "date": "2022-07-27",
+      "raw_date": "2022-07-27T14:43:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.144569",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-07-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

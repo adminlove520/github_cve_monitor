@@ -1,0 +1,20 @@
+{
+  "date": "2021-02-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-1000542",
+      "repo_info": "[xenophil90/edb-49263-fixed](https://github.com/xenophil90/edb-49263-fixed)",
+      "description": "Fixed version of the Python script to exploit CVE-2018-19571 and CVE-2018-19585 (GitLab 11.4.7 - Authenticated Remote Code Execution) that is available at https://www.exploit-db.com/exploits/49263 (Python 3.9).",
+      "date": "2021-02-08",
+      "raw_date": "2021-02-08T07:38:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.080120",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-02-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

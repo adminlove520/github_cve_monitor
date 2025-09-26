@@ -1,0 +1,48 @@
+{
+  "date": "2024-08-07",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-44541",
+      "repo_info": "[pointedsec/CVE-2024-44541](https://github.com/pointedsec/CVE-2024-44541)",
+      "description": "This repository details a SQL Injection vulnerability in Inventio Lite v4&#x27;s, including exploitation steps and a Python script to automate the attack. It provides information on the vulnerable code, recommended fixes, and how to extract and decrypt administrative credentials.",
+      "date": "2024-08-07",
+      "raw_date": "2024-08-07T08:45:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-32113",
+      "repo_info": "[YongYe-Security/CVE-2024-32113](https://github.com/YongYe-Security/CVE-2024-32113)",
+      "description": "CVE-2024-32113 Apache OFBIZ Batch Scanning",
+      "date": "2024-08-07",
+      "raw_date": "2024-08-07T07:12:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-6444",
+      "repo_info": "[Wayne-Ker/CVE-202306444-POC](https://github.com/Wayne-Ker/CVE-202306444-POC)",
+      "description": "Proof of concept on Unauthenticated Administrator Email Disclosure CVE-2023-6444",
+      "date": "2024-08-07",
+      "raw_date": "2024-08-07T01:58:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-24249",
+      "repo_info": "[IDUZZEL/CVE-2023-24249-Exploit](https://github.com/IDUZZEL/CVE-2023-24249-Exploit)",
+      "description": "Exploit script for CVE-2023-24249 - a vulnerability allowing remote code execution via file upload and command injection.",
+      "date": "2024-08-07",
+      "raw_date": "2024-08-07T04:36:44Z"
+    },
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[VanishedPeople/CVE-2017-7269](https://github.com/VanishedPeople/CVE-2017-7269)",
+      "description": "no description",
+      "date": "2024-08-07",
+      "raw_date": "2024-08-07T16:45:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.340875",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2024-08-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

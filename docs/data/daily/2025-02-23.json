@@ -1,0 +1,62 @@
+{
+  "date": "2025-02-23",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-20029",
+      "repo_info": "[mbadanoiu/CVE-2025-20029](https://github.com/mbadanoiu/CVE-2025-20029)",
+      "description": "CVE-2025-20029: Command Injection in TMSH CLI in F5 BIG-IP",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T18:36:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-0411",
+      "repo_info": "[cesarbtakeda/7-Zip-CVE-2025-0411-POC](https://github.com/cesarbtakeda/7-Zip-CVE-2025-0411-POC)",
+      "description": "no description",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T02:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[MaleeshaUdan/wordpress-CVE-2024-10924--exploit](https://github.com/MaleeshaUdan/wordpress-CVE-2024-10924--exploit)",
+      "description": "WordPress CVE-2024-10924 Exploit for  Really Simple Security plugin",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T08:47:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[gl1tch0x1/Ghost-CMS-Exploit](https://github.com/gl1tch0x1/Ghost-CMS-Exploit)",
+      "description": "Ghost-CMS Exploit is python script. This script first performs brute-force authentication attempts using the provided wordlists. If valid credentials are found, it proceeds to check for CVE-2024-23724 vulnerability and generates an exploit payload if vulnerable.",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T07:23:40Z"
+    },
+    {
+      "cve_id": "CVE-2021-27365",
+      "repo_info": "[coderzawad/Kernel-CVE-2021-27365-hotfix](https://github.com/coderzawad/Kernel-CVE-2021-27365-hotfix)",
+      "description": "no description",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T04:31:55Z"
+    },
+    {
+      "cve_id": "CVE-2014-0221",
+      "repo_info": "[chihyeonwon/OpenSSL_DTLS_CVE_2014_0221](https://github.com/chihyeonwon/OpenSSL_DTLS_CVE_2014_0221)",
+      "description": "OpenSSL DTLS CVE-2014-0221 Remote Denial",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T02:17:41Z"
+    },
+    {
+      "cve_id": "CVE-2013-3900",
+      "repo_info": "[AdenilsonSantos/WinVerifyTrust](https://github.com/AdenilsonSantos/WinVerifyTrust)",
+      "description": "WinVerifyTrust Signature Validation CVE-2013-3900 Mitigation (EnableCertPaddingCheck)",
+      "date": "2025-02-23",
+      "raw_date": "2025-02-23T23:32:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.374479",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2025-02-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

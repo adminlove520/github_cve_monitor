@@ -1,0 +1,930 @@
+{
+  "date": "2023-02-14",
+  "count": 131,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-25758",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25758](https://github.com/Live-Hack-CVE/CVE-2023-25758)",
+      "description": "Onekey Touch devices through 4.0.0 and Onekey Mini devices through 2.10.0 allow man-in-the-middle attackers to obtain the seed phase. The man-in-the-middle access can only be obtained after disassembling a device (i.e., here, &quot;man-in-the-middle&quot; does not refer to the attacker&#x27;s position on an IP network). NOTE: the ven CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T11:56:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-25725",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25725](https://github.com/Live-Hack-CVE/CVE-2023-25725)",
+      "description": "HAProxy before 2.7.3 may allow a bypass of access control because HTTP/1 headers are inadvertently lost in some situations, aka &quot;request smuggling.&quot; The HTTP header parsers in HAProxy may accept empty header field names, which could be used to truncate the list of HTTP headers and thus make some headers disappear after CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-25614",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25614](https://github.com/Live-Hack-CVE/CVE-2023-25614)",
+      "description": "SAP NetWeaver AS ABAP (BSP Framework) application - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allow an unauthenticated attacker to inject the code that can be executed by the application over the network. On successful exploitation it can gain access to the sensitive information which le CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-25576",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25576](https://github.com/Live-Hack-CVE/CVE-2023-25576)",
+      "description": "@fastify/multipart is a Fastify plugin to parse the multipart content-type. Prior to versions 7.4.1 and 6.0.1, @fastify/multipart may experience denial of service due to a number of situations in which an unlimited number of parts are accepted. This includes the multipart body parser accepting an unlimited number of fi CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:32:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-25149",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25149](https://github.com/Live-Hack-CVE/CVE-2023-25149)",
+      "description": "TimescaleDB, an open-source time-series SQL database, has a privilege escalation vulnerability in versions 2.8.0 through 2.9.2. During installation, TimescaleDB creates a telemetry job that is runs as the installation user. The queries run as part of the telemetry data collection were not run with a locked down `search CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-25141",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25141](https://github.com/Live-Hack-CVE/CVE-2023-25141)",
+      "description": "Apache Sling JCR Base &lt; 3.1.12 has a critical injection vulnerability when running on old JDK versions (JDK 1.8.191 or earlier) through utility functions in RepositoryAccessor. The functions getRepository and getRepositoryFromURL allow an application to access data stored in a remote location via JDNI and RMI. Users of CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-25136",
+      "repo_info": "[ticofookfook/CVE-2023-25136](https://github.com/ticofookfook/CVE-2023-25136)",
+      "description": "no description",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T20:13:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-25066",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25066](https://github.com/Live-Hack-CVE/CVE-2023-25066)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in FolioVision FV Flowplayer Video Player plugin &lt;= 7.5.30.7212 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T11:56:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-25065",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25065](https://github.com/Live-Hack-CVE/CVE-2023-25065)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in ShapedPlugin WP Tabs – Responsive Tabs Plugin for WordPress plugin &lt;= 2.1.14 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:09:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-24557",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24557](https://github.com/Live-Hack-CVE/CVE-2023-24557)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:17:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-24556",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24556](https://github.com/Live-Hack-CVE/CVE-2023-24556)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:17:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-24555",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24555](https://github.com/Live-Hack-CVE/CVE-2023-24555)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:17:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-24554",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24554](https://github.com/Live-Hack-CVE/CVE-2023-24554)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:17:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-24553",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24553](https://github.com/Live-Hack-CVE/CVE-2023-24553)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected applications contain an out of bounds read past the end of an allocated structure while parsing specially crafted PAR files. This could allow an attacker to execute code CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-24552",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24552](https://github.com/Live-Hack-CVE/CVE-2023-24552)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected application contains an out of bounds read past the end of an allocated buffer while parsing a specially crafted PAR file. This could allow an attacker to to execute cod CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-24551",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24551](https://github.com/Live-Hack-CVE/CVE-2023-24551)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected application is vulnerable to heap-based buffer underflow while parsing specially crafted PAR files. An attacker could leverage this vulnerability to execute code in the  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-24550",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24550](https://github.com/Live-Hack-CVE/CVE-2023-24550)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected application is vulnerable to heap-based buffer while parsing specially crafted PAR files. An attacker could leverage this vulnerability to execute code in the context of CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-24549",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24549](https://github.com/Live-Hack-CVE/CVE-2023-24549)",
+      "description": "A vulnerability has been identified in Solid Edge SE2022 (All versions &lt; V2210Update12), Solid Edge SE2023 (All versions &lt; V2023Update2). The affected application is vulnerable to stack-based buffer while parsing specially crafted PAR files. An attacker could leverage this vulnerability to execute code in the context o CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-24530",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24530](https://github.com/Live-Hack-CVE/CVE-2023-24530)",
+      "description": "SAP BusinessObjects Business Intelligence Platform (CMC) - versions 420, 430, allows an authenticated admin user to upload malicious code that can be executed by the application over the network. On successful exploitation, attacker can perform operations that may completely compromise the application causing high impa CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-24529",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24529](https://github.com/Live-Hack-CVE/CVE-2023-24529)",
+      "description": "Due to lack of proper input validation, BSP application (CRM_BSP_FRAME) - versions 700, 701, 702, 731, 740, 750, 751, 752, 75C, 75D, 75E, 75F, 75G, 75H, allow malicious inputs from untrusted sources, which can be leveraged by an attacker to execute a Reflected Cross-Site Scripting (XSS) attack. As a result, an attacker CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-24528",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24528](https://github.com/Live-Hack-CVE/CVE-2023-24528)",
+      "description": "SAP Fiori apps for Travel Management in SAP ERP (My Travel Requests) - version 600, allows an authenticated attacker to exploit a certain misconfigured application endpoint to view sensitive data. This endpoint is normally exposed over the network and successful exploitation can lead to exposure of data like travel doc CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-24525",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24525](https://github.com/Live-Hack-CVE/CVE-2023-24525)",
+      "description": "SAP CRM WebClient UI - versions WEBCUIF 748, 800, 801, S4FND 102, 103, does not sufficiently encode user-controlled inputs, resulting in Cross-Site Scripting (XSS) vulnerability. On successful exploitation an authenticated attacker can cause limited impact on confidentiality of the application. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-24524",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24524](https://github.com/Live-Hack-CVE/CVE-2023-24524)",
+      "description": "SAP S/4 HANA Map Treasury Correspondence Format Data does not perform necessary authorization check for an authenticated user, resulting in escalation of privileges. This could allow an attacker to delete the data with a high impact to availability. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-24523",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24523](https://github.com/Live-Hack-CVE/CVE-2023-24523)",
+      "description": "An attacker authenticated as a non-admin user with local access to a server port assigned to the SAP Host Agent (Start Service) - versions 7.21, 7.22, can submit a crafted ConfigureOutsideDiscovery request with an operating system command which will be executed with administrator privileges. The OS command can read or  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-24522",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24522](https://github.com/Live-Hack-CVE/CVE-2023-24522)",
+      "description": "Due to insufficient input sanitization, SAP NetWeaver AS ABAP (Business Server Pages) - versions 700, 701, 702, 731, 740, allows an unauthenticated user to alter the current session of the user by injecting the malicious code over the network and gain access to the unintended data. This may lead to a limited impact on  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-24521",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24521](https://github.com/Live-Hack-CVE/CVE-2023-24521)",
+      "description": "Due to insufficient input sanitization, SAP NetWeaver AS ABAP (BSP Framework) - versions 700, 701, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, allows an unauthenticated user to alter the current session of the user by injecting the malicious code over the network and gain access to the unintended data. This  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-24482",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24482](https://github.com/Live-Hack-CVE/CVE-2023-24482)",
+      "description": "A vulnerability has been identified in COMOS V10.2 (All versions), COMOS V10.3.3.1 (All versions &lt; V10.3.3.1.45), COMOS V10.3.3.2 (All versions &lt; V10.3.3.2.33), COMOS V10.3.3.3 (All versions &lt; V10.3.3.3.9), COMOS V10.3.3.4 (All versions &lt; V10.3.3.4.6), COMOS V10.4.0.0 (All versions &lt; V10.4.0.0.31), COMOS V10.4.1.0 (All CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-24382",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24382](https://github.com/Live-Hack-CVE/CVE-2023-24382)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in Photon WP Material Design Icons for Page Builders plugin &lt;= 1.4.2 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:09:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-24377",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24377](https://github.com/Live-Hack-CVE/CVE-2023-24377)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in Ecwid Ecommerce Ecwid Ecommerce Shopping Cart plugin &lt;= 6.11.3 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:09:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-24161",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24161](https://github.com/Live-Hack-CVE/CVE-2023-24161)",
+      "description": "TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the webWlanIdx parameter in the setWebWlanIdx function. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-24160",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24160](https://github.com/Live-Hack-CVE/CVE-2023-24160)",
+      "description": "TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the admuser parameter in the setPasswordCfg function. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-24159",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24159](https://github.com/Live-Hack-CVE/CVE-2023-24159)",
+      "description": "TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the admpass parameter in the setPasswordCfg function. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-24055",
+      "repo_info": "[zwlsix/KeePass-CVE-2023-24055](https://github.com/zwlsix/KeePass-CVE-2023-24055)",
+      "description": "KeePass CVE-2023-24055复现",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T05:20:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-23944",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23944](https://github.com/Live-Hack-CVE/CVE-2023-23944)",
+      "description": "Nextcloud mail is an email app for the nextcloud home server platform. In versions prior to 2.2.2 user&#x27;s passwords were stored in cleartext in the database during the duration of OAuth2 setup procedure. Any attacker or malicious user with access to the database would have access to these user passwords until the OAuth  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-23860",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23860](https://github.com/Live-Hack-CVE/CVE-2023-23860)",
+      "description": "SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to craft a link, which when clicked by an unsuspecting user can be used to redirect a user to a malicious site which could read or modify some sensitive information or expose  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-23859",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23859](https://github.com/Live-Hack-CVE/CVE-2023-23859)",
+      "description": "SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to craft a malicious link, which when clicked by an unsuspecting user, can be used to read or modify some sensitive information. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-23858",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23858](https://github.com/Live-Hack-CVE/CVE-2023-23858)",
+      "description": "Due to insufficient input validation, SAP NetWeaver AS for ABAP and ABAP Platform - versions 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, allows an unauthenticated attacker to send a crafted URL to a user, and by clicking the URL, the tricked user accesses SAP and might be directed with the response to somewh CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-23856",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23856](https://github.com/Live-Hack-CVE/CVE-2023-23856)",
+      "description": "In SAP BusinessObjects Business Intelligence (Web Intelligence user interface) - version 430, some calls return json with wrong content type in the header of the response. As a result, a custom application that calls directly the jsp of Web Intelligence DHTML may be vulnerable to XSS attacks. On successful exploitation CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:26:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-23855",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23855](https://github.com/Live-Hack-CVE/CVE-2023-23855)",
+      "description": "SAP Solution Manager - version 720, allows an authenticated attacker to redirect users to a malicious site due to insufficient URL validation. A successful attack could lead an attacker to read or modify the information or expose the user to a phishing attack. As a result, it has a low impact to confidentiality, integr CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:26:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-23854",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23854](https://github.com/Live-Hack-CVE/CVE-2023-23854)",
+      "description": "SAP NetWeaver Application Server for ABAP and ABAP Platform - versions 700, 701, 702, 731, 740, 750, 751, 752, does not perform necessary authorization checks for an authenticated user, resulting in escalation of privileges. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:26:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-23853",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23853](https://github.com/Live-Hack-CVE/CVE-2023-23853)",
+      "description": "An unauthenticated attacker in AP NetWeaver Application Server for ABAP and ABAP Platform - versions 700, 702, 731, 740, 750, 751, 752, 753, 754, 755, 756, 757, 789, 790, can craft a link which when clicked by an unsuspecting user can be used to redirect a user to a malicious site which could read or modify some sensit CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:26:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-23835",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23835](https://github.com/Live-Hack-CVE/CVE-2023-23835)",
+      "description": "A vulnerability has been identified in Mendix Applications using Mendix 7 (All versions &lt; V7.23.34), Mendix Applications using Mendix 8 (All versions &lt; V8.18.23), Mendix Applications using Mendix 9 (All versions &lt; V9.22.0), Mendix Applications using Mendix 9 (V9.12) (All versions &lt; V9.12.10), Mendix Applications using  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-22942",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22942](https://github.com/Live-Hack-CVE/CVE-2023-22942)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, a cross-site request forgery in the Splunk Secure Gateway (SSG) app in the ‘kvstore_client’ REST endpoint lets a potential attacker update SSG [App Key Value Store (KV store)](https://docs.splunk.com/Documentation/Splunk/latest/Admin/AboutKVstore) collectio CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:40:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-22941",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22941](https://github.com/Live-Hack-CVE/CVE-2023-22941)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, an improperly-formatted ‘INGEST_EVAL’ parameter in a [Field Transformation](https://docs.splunk.com/Documentation/Splunk/latest/Knowledge/Managefieldtransforms) crashes the Splunk daemon (splunkd). CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:40:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-22940",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22940](https://github.com/Live-Hack-CVE/CVE-2023-22940)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, aliases of the ‘collect’ search processing language (SPL) command, including ‘summaryindex’, ‘sumindex’, ‘stash’,’ mcollect’, and ‘meventcollect’, were not designated as safeguarded commands. The commands could potentially allow for the exposing of data to  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:40:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-22939",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22939](https://github.com/Live-Hack-CVE/CVE-2023-22939)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘map’ search processing language (SPL) command lets a search [bypass SPL safeguards for risky commands](https://docs.splunk.com/Documentation/Splunk/latest/Security/SPLsafeguards). The vulnerability requires a higher privileged user to initiate a reques CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:40:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-22938",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22938](https://github.com/Live-Hack-CVE/CVE-2023-22938)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘sendemail’ REST API endpoint lets any authenticated user send an email as the Splunk instance. The endpoint is now restricted to the ‘splunk-system-user’ account on the local instance. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:40:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-22937",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22937](https://github.com/Live-Hack-CVE/CVE-2023-22937)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the lookup table upload feature let a user upload lookup tables with unnecessary filename extensions. Lookup table file extensions may now be one of the following only: .csv, .csv.gz, .kmz, .kml, .mmdb, or .mmdb.gzl. For more information on lookup table fil CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-22936",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22936](https://github.com/Live-Hack-CVE/CVE-2023-22936)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘search_listener’ parameter in a search allows for a blind server-side request forgery (SSRF) by an authenticated user. The initiator of the request cannot see the response without the presence of an additional vulnerability within the environment. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-22935",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22935](https://github.com/Live-Hack-CVE/CVE-2023-22935)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘display.page.search.patterns.sensitivity’ search parameter lets a search bypass [SPL safeguards for risky commands](https://docs.splunk.com/Documentation/Splunk/latest/Security/SPLsafeguards). The vulnerability requires a higher privileged user to init CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-22934",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22934](https://github.com/Live-Hack-CVE/CVE-2023-22934)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, the ‘pivot’ search processing language (SPL) command lets a search bypass [SPL safeguards for risky commands](https://docs.splunk.com/Documentation/Splunk/latest/Security/SPLsafeguards) using a saved search job. The vulnerability requires an authenticated u CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-22933",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22933](https://github.com/Live-Hack-CVE/CVE-2023-22933)",
+      "description": "In Splunk Enterprise versions below 8.1.13, 8.2.10, and 9.0.4, a View allows for Cross-Site Scripting (XSS) in an extensible mark-up language (XML) View through the ‘layoutPanel’ attribute in the ‘module’ tag’. The vulnerability affects instances with Splunk Web enabled. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-22932",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22932](https://github.com/Live-Hack-CVE/CVE-2023-22932)",
+      "description": "In Splunk Enterprise 9.0 versions before 9.0.4, a View allows for Cross-Site Scripting (XSS) through the error message in a Base64-encoded image. The vulnerability affects instances with Splunk Web enabled. It does not affect Splunk Enterprise versions below 9.0. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-22931",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22931](https://github.com/Live-Hack-CVE/CVE-2023-22931)",
+      "description": "In Splunk Enterprise versions below 8.1.13 and 8.2.10, the ‘createrss’ external search command overwrites existing Resource Description Format Site Summary (RSS) feeds without verifying permissions. This feature has been deprecated and disabled by default. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-22375",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22375](https://github.com/Live-Hack-CVE/CVE-2023-22375)",
+      "description": "** UNSUPPORTED WHEN ASSIGNED ** Cross-site request forgery (CSRF) vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a remote unauthenticated attacker to hijack the authentication and conduct arbitrary operations by having a logged-in user to view a malicious page. NOTE: This vuln CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-22370",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22370](https://github.com/Live-Hack-CVE/CVE-2023-22370)",
+      "description": "** UNSUPPORTED WHEN ASSIGNED ** Stored cross-site scripting vulnerability in Wired/Wireless LAN Pan/Tilt Network Camera CS-WMV02G all versions allows a network-adjacent authenticated attacker to inject an arbitrary script. NOTE: This vulnerability only affects products that are no longer supported by the developer. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-21753",
+      "repo_info": "[timpen432/-Wh0Am1001-CVE-2023-21753](https://github.com/timpen432/-Wh0Am1001-CVE-2023-21753)",
+      "description": "no description",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T04:43:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-21699",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21699](https://github.com/Live-Hack-CVE/CVE-2023-21699)",
+      "description": "Windows Internet Storage Name Service (iSNS) Server Information Disclosure Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-21697",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21697](https://github.com/Live-Hack-CVE/CVE-2023-21697)",
+      "description": "Windows Internet Storage Name Service (iSNS) Server Information Disclosure Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-21695",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21695](https://github.com/Live-Hack-CVE/CVE-2023-21695)",
+      "description": "Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-21694",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21694](https://github.com/Live-Hack-CVE/CVE-2023-21694)",
+      "description": "Windows Fax Service Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-21693",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21693](https://github.com/Live-Hack-CVE/CVE-2023-21693)",
+      "description": "Microsoft PostScript Printer Driver Information Disclosure Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-21692",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21692](https://github.com/Live-Hack-CVE/CVE-2023-21692)",
+      "description": "Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-21691",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21691](https://github.com/Live-Hack-CVE/CVE-2023-21691)",
+      "description": "Microsoft Protected Extensible Authentication Protocol (PEAP) Information Disclosure Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:55:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-21690",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21690](https://github.com/Live-Hack-CVE/CVE-2023-21690)",
+      "description": "Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-21689",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21689](https://github.com/Live-Hack-CVE/CVE-2023-21689)",
+      "description": "Microsoft Protected Extensible Authentication Protocol (PEAP) Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-21688",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21688](https://github.com/Live-Hack-CVE/CVE-2023-21688)",
+      "description": "NT OS Kernel Elevation of Privilege Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-21687",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21687](https://github.com/Live-Hack-CVE/CVE-2023-21687)",
+      "description": "HTTP.sys Information Disclosure Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-21686",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21686](https://github.com/Live-Hack-CVE/CVE-2023-21686)",
+      "description": "Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-21685",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21685](https://github.com/Live-Hack-CVE/CVE-2023-21685)",
+      "description": "Microsoft WDAC OLE DB provider for SQL Server Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-21684",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21684](https://github.com/Live-Hack-CVE/CVE-2023-21684)",
+      "description": "Microsoft PostScript Printer Driver Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-21573",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21573](https://github.com/Live-Hack-CVE/CVE-2023-21573)",
+      "description": "Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-21572",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21572](https://github.com/Live-Hack-CVE/CVE-2023-21572)",
+      "description": "Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-21571",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21571](https://github.com/Live-Hack-CVE/CVE-2023-21571)",
+      "description": "Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-21570",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21570](https://github.com/Live-Hack-CVE/CVE-2023-21570)",
+      "description": "Microsoft Dynamics 365 (on-premises) Cross-site Scripting Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-21568",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21568](https://github.com/Live-Hack-CVE/CVE-2023-21568)",
+      "description": "Microsoft SQL Server Integration Service (VS extension) Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-21564",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21564](https://github.com/Live-Hack-CVE/CVE-2023-21564)",
+      "description": "Azure DevOps Server Cross-Site Scripting Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-21529",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21529](https://github.com/Live-Hack-CVE/CVE-2023-21529)",
+      "description": "Microsoft Exchange Server Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-21528",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-21528](https://github.com/Live-Hack-CVE/CVE-2023-21528)",
+      "description": "Microsoft SQL Server Remote Code Execution Vulnerability CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T21:54:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0827",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0827](https://github.com/Live-Hack-CVE/CVE-2023-0827)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository pimcore/pimcore prior to 1.5.17. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0804",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0804](https://github.com/Live-Hack-CVE/CVE-2023-0804)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3609, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-0803",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0803](https://github.com/Live-Hack-CVE/CVE-2023-0803)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3516, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-0802",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0802](https://github.com/Live-Hack-CVE/CVE-2023-0802)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3724, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-0801",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0801](https://github.com/Live-Hack-CVE/CVE-2023-0801)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in libtiff/tif_unix.c:368, invoked by tools/tiffcrop.c:2903 and tools/tiffcrop.c:6778, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-0800",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0800](https://github.com/Live-Hack-CVE/CVE-2023-0800)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds write in tiffcrop in tools/tiffcrop.c:3502, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit 33aee127. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-0799",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0799](https://github.com/Live-Hack-CVE/CVE-2023-0799)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3701, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-0798",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0798](https://github.com/Live-Hack-CVE/CVE-2023-0798)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3400, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-0797",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0797](https://github.com/Live-Hack-CVE/CVE-2023-0797)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in libtiff/tif_unix.c:368, invoked by tools/tiffcrop.c:2903 and tools/tiffcrop.c:6921, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-0796",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0796](https://github.com/Live-Hack-CVE/CVE-2023-0796)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3592, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-0795",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0795](https://github.com/Live-Hack-CVE/CVE-2023-0795)",
+      "description": "LibTIFF 4.4.0 has an out-of-bounds read in tiffcrop in tools/tiffcrop.c:3488, allowing attackers to cause a denial-of-service via a crafted tiff file. For users that compile libtiff from sources, the fix is available with commit afaabc3e. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-0687",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0687](https://github.com/Live-Hack-CVE/CVE-2023-0687)",
+      "description": "A vulnerability was found in GNU C Library 2.38. It has been declared as critical. This vulnerability affects the function __monstartup of the file gmon.c of the component Call Graph Monitor. The manipulation leads to buffer overflow. It is recommended to apply a patch to fix this issue. VDB-220246 is the identifier as CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-0655",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0655](https://github.com/Live-Hack-CVE/CVE-2023-0655)",
+      "description": "SonicWall Email Security contains a vulnerability that could permit a remote unauthenticated attacker access to an error page that includes sensitive information about users email addresses. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T06:27:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-0518",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0518](https://github.com/Live-Hack-CVE/CVE-2023-0518)",
+      "description": "An issue has been discovered in GitLab CE/EE affecting all versions starting from 14.0 before 15.6.7, all versions starting from 15.7 before 15.7.6, all versions starting from 15.8 before 15.8.1. It was possible to trigger a DoS attack by uploading a malicious Helm chart. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0236",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0236](https://github.com/Live-Hack-CVE/CVE-2023-0236)",
+      "description": "The Tutor LMS WordPress plugin before 2.0.10 does not sanitise and escape the reset_key and user_id parameters before outputting then back in attributes, leading to Reflected Cross-Site Scripting which could be used against high privilege users such as admin CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:15:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-0178",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0178](https://github.com/Live-Hack-CVE/CVE-2023-0178)",
+      "description": "The Annual Archive WordPress plugin before 1.6.0 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:15:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-0176",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0176](https://github.com/Live-Hack-CVE/CVE-2023-0176)",
+      "description": "The Giveaways and Contests by RafflePress WordPress plugin before 1.11.3 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:15:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-0174",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0174](https://github.com/Live-Hack-CVE/CVE-2023-0174)",
+      "description": "The WP VR WordPress plugin before 8.2.7 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:15:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-0173",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0173](https://github.com/Live-Hack-CVE/CVE-2023-0173)",
+      "description": "The Drag &amp; Drop Sales Funnel Builder for WordPress plugin before 2.6.9 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-0171",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0171](https://github.com/Live-Hack-CVE/CVE-2023-0171)",
+      "description": "The jQuery T(-) Countdown Widget WordPress plugin before 2.3.24 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:15:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-4902",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4902](https://github.com/Live-Hack-CVE/CVE-2022-4902)",
+      "description": "A vulnerability classified as problematic has been found in eXo Chat Application. Affected is an unknown function of the file application/src/main/webapp/vue-app/components/ExoChatMessageComposer.vue of the component Mention Handler. The manipulation leads to cross site scripting. It is possible to launch the attack re CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-47977",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47977](https://github.com/Live-Hack-CVE/CVE-2022-47977)",
+      "description": "A vulnerability has been identified in JT Open (All versions &lt; V11.2.3.0), JT Utilities (All versions &lt; V13.2.3.0). The affected application contains a memory corruption vulnerability while parsing specially crafted JT files. This could allow an attacker to execute code in the context of the current process. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-47936",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47936](https://github.com/Live-Hack-CVE/CVE-2022-47936)",
+      "description": "A vulnerability has been identified in JT Open (All versions &lt; V11.2.3.0), JT Utilities (All versions &lt; V13.2.3.0), Parasolid V34.0 (All versions &lt; V34.0.252), Parasolid V34.1 (All versions &lt; V34.1.242), Parasolid V35.0 (All versions &lt; V35.0.170), Parasolid V35.1 (All versions &lt; V35.1.150). The affected application con CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-46862",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46862](https://github.com/Live-Hack-CVE/CVE-2022-46862)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in ExpressTech Quiz And Survey Master – Best Quiz, Exam and Survey Plugin for WordPress plugin &lt;= 8.0.7 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:09:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-43469",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43469](https://github.com/Live-Hack-CVE/CVE-2022-43469)",
+      "description": "Cross-Site Request Forgery (CSRF) vulnerability in Orchestrated Corona Virus (COVID-19) Banner &amp; Live Data plugin &lt;= 1.7.0.6 versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T11:56:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-4286",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4286](https://github.com/Live-Hack-CVE/CVE-2022-4286)",
+      "description": "A reflected cross-site scripting (XSS) vulnerability exists in System Diagnostics Manager of B&amp;R Automation Runtime versions &gt;=3.00 and &lt;=C4.93 that enables a remote attacker to execute arbitrary JavaScript in the context of the users browser session. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-42439",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42439](https://github.com/Live-Hack-CVE/CVE-2022-42439)",
+      "description": "IBM App Connect Enterprise 11.0.0.17 through 11.0.0.19 and 12.0.4.0 and 12.0.5.0 contains an unspecified vulnerability in the Discovery Connector nodes which may cause a 3rd party system’s credentials to be exposed to a privileged attacker. IBM X-Force ID: 238211. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:38:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-41564",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41564](https://github.com/Live-Hack-CVE/CVE-2022-41564)",
+      "description": "The Hawk Console component of TIBCO Software Inc.&#x27;s TIBCO Hawk and TIBCO Operational Intelligence Hawk RedTail contains a vulnerability that will return the EMS transport password and EMS SSL password to a privileged user. Affected releases are TIBCO Software Inc.&#x27;s TIBCO Hawk: versions 6.2.1 and below and TIBCO Operat CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-4138",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4138](https://github.com/Live-Hack-CVE/CVE-2022-4138)",
+      "description": "A Cross Site Request Forgery issue has been discovered in GitLab CE/EE affecting all versions before 15.6.7, all versions starting from 15.7 before 15.7.6, and all versions starting from 15.8 before 15.8.1. An attacker could take over a project if an Owner or Maintainer uploads a file to a malicious project. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-41342",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41342](https://github.com/Live-Hack-CVE/CVE-2022-41342)",
+      "description": "Improper buffer restrictions the Intel(R) C++ Compiler Classic before version 2021.7.1. for some Intel(R) oneAPI Toolkits before version 2022.3.1 may allow a privileged user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-40196",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40196](https://github.com/Live-Hack-CVE/CVE-2022-40196)",
+      "description": "Improper access control in the Intel(R) oneAPI DPC++/C++ Compiler before version 2022.2.1 for some Intel(R) oneAPI Toolkits before version 2022.3.1 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-38136",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38136](https://github.com/Live-Hack-CVE/CVE-2022-38136)",
+      "description": "Uncontrolled search path in the Intel(R) oneAPI DPC++/C++ Compiler before version 2022.2.1 for some Intel(R) oneAPI Toolkits before version 2022.3.1 may allow an authenticated user to potentially enable escalation of privilege via local access. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-3759",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3759](https://github.com/Live-Hack-CVE/CVE-2022-3759)",
+      "description": "An issue has been discovered in GitLab CE/EE affecting all versions starting from 14.3 before 15.6.7, all versions starting from 15.7 before 15.7.6, all versions starting from 15.8 before 15.8.1. An attacker may upload a crafted CI job artifact zip file in a project that uses dynamic child pipelines and make a sidekiq  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:52:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-35868",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-35868](https://github.com/Live-Hack-CVE/CVE-2022-35868)",
+      "description": "A vulnerability has been identified in TIA Multiuser Server V14 (All versions), TIA Multiuser Server V15 (All versions &lt; V15.1 Update 8), TIA Project-Server (All versions &lt; V1.1), TIA Project-Server V16 (All versions), TIA Project-Server V17 (All versions). Affected applications contain an untrusted search path vulnera CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-3411",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3411](https://github.com/Live-Hack-CVE/CVE-2022-3411)",
+      "description": "A lack of length validation in GitLab CE/EE affecting all versions from 12.4 before 15.6.7, 15.7 before 15.7.6, and 15.8 before 15.8.1 allows an authenticated attacker to create a large Issue description via GraphQL which, when repeatedly requested, saturates CPU usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T01:51:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-32656",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-32656](https://github.com/Live-Hack-CVE/CVE-2022-32656)",
+      "description": "In Wi-Fi driver, there is a possible undefined behavior due to incorrect error handling. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation. Patch ID: GN20220705035; Issue ID: GN20220705035. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:38:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-31808",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-31808](https://github.com/Live-Hack-CVE/CVE-2022-31808)",
+      "description": "A vulnerability has been identified in SiPass integrated AC5102 (ACC-G2) (All versions &lt; V2.85.44), SiPass integrated ACC-AP (All versions &lt; V2.85.43). Affected devices improperly sanitize user input on the telnet command line interface. This could allow an authenticated user to escalate privileges by injecting arbitra CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T15:16:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-2933",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2933](https://github.com/Live-Hack-CVE/CVE-2022-2933)",
+      "description": "The 0mk Shortener plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 0.2. This is due to missing or incorrect nonce validation on the zeromk_options_page function. This makes it possible for unauthenticated attackers to inject malicious web scripts via the &#x27;zeromk_user&#x27; a CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-22564",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-22564](https://github.com/Live-Hack-CVE/CVE-2022-22564)",
+      "description": "Dell EMC Unity versions before 5.2.0.0.5.173 , use(es) broken cryptographic algorithm. A remote unauthenticated attacker could potentially exploit this vulnerability by performing MitM attacks and let attackers obtain sensitive information. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-46023",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-46023](https://github.com/Live-Hack-CVE/CVE-2021-46023)",
+      "description": "An Untrusted Pointer Dereference was discovered in function mrb_vm_exec in mruby before 3.1.0-rc. The vulnerability causes a segmentation fault and application crash. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:32:37Z"
+    },
+    {
+      "cve_id": "CVE-2021-43391",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-43391](https://github.com/Live-Hack-CVE/CVE-2021-43391)",
+      "description": "An Out-of-Bounds Read vulnerability exists when reading a DXF file using Open Design Alliance Drawings SDK before 2022.11. The specific issue exists within the parsing of DXF files. Crafted data in a DXF file (an invalid dash counter in line types) can trigger a read past the end of an allocated buffer. An attacker can CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:10:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-43336",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-43336](https://github.com/Live-Hack-CVE/CVE-2021-43336)",
+      "description": "An Out-of-Bounds Write vulnerability exists when reading a DXF or DWG file using Open Design Alliance Drawings SDK before 2022.11. The specific issue exists within the parsing of DXF and DWG files. Crafted data in a DXF or DWG file (an invalid number of properties) can trigger a write operation past the end of an alloc CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-32936",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32936](https://github.com/Live-Hack-CVE/CVE-2021-32936)",
+      "description": "An out-of-bounds write issue exists in the DXF file-recovering procedure in the Drawings SDK (All versions prior to 2022.4) resulting from the lack of proper validation of user-supplied data. This can result in a write past the end of an allocated buffer and allow attackers to cause a denial-of-service condition or exe CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T14:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-29841",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-29841](https://github.com/Live-Hack-CVE/CVE-2021-29841)",
+      "description": "IBM Financial Transaction Manager 3.2.4 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 205045. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:32:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-29728",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-29728](https://github.com/Live-Hack-CVE/CVE-2021-29728)",
+      "description": "IBM Sterling Secure Proxy 6.0.1, 6.0.2, 2.4.3.2, and 3.4.3.2 contains hard-coded credentials, such as a password or cryptographic key, which it uses for its own inbound authentication, outbound communication to external components, or encryption of internal data. IBM X-Force ID: 201160. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:05Z"
+    },
+    {
+      "cve_id": "CVE-2021-29723",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-29723](https://github.com/Live-Hack-CVE/CVE-2021-29723)",
+      "description": "IBM Sterling Secure Proxy 6.0.1, 6.0.2, 2.4.3.2, and 3.4.3.2 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-ForceID: 201100. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-29722",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-29722](https://github.com/Live-Hack-CVE/CVE-2021-29722)",
+      "description": "IBM Sterling Secure Proxy 6.0.1, 6.0.2, 2.4.3.2, and 3.4.3.2 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 201095. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:32:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-4870",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-4870](https://github.com/Live-Hack-CVE/CVE-2020-4870)",
+      "description": "IBM MQ 9.2 CD and LTS are vulnerable to a denial of service attack caused by an error processing connecting applications. IBM X-Force ID: 190833. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-4675",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-4675](https://github.com/Live-Hack-CVE/CVE-2020-4675)",
+      "description": "IBM InfoSphere Master Data Management Server 11.6 is vulnerable to cross-site request forgery which could allow an attacker to execute malicious and unauthorized actions transmitted from a user that the website trusts. IBM X-Force ID: 186324. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:09Z"
+    },
+    {
+      "cve_id": "CVE-2017-7308",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-7308](https://github.com/Live-Hack-CVE/CVE-2017-7308)",
+      "description": "The packet_set_ring function in net/packet/af_packet.c in the Linux kernel through 4.10.6 does not properly validate certain block-size data, which allows local users to cause a denial of service (integer signedness error and out-of-bounds write), or gain privileges (if the CAP_NET_RAW capability is held), via crafted  CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T19:39:06Z"
+    },
+    {
+      "cve_id": "CVE-2014-6195",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-6195](https://github.com/Live-Hack-CVE/CVE-2014-6195)",
+      "description": "The (1) Java GUI and (2) Web GUI components in the IBM Tivoli Storage Manager (TSM) Backup-Archive client 5.4 and 5.5 before 5.5.4.4 on AIX, Linux, and Solaris; 5.4.x and 5.5.x on Windows and z/OS; 6.1 before 6.1.5.7 on z/OS; 6.1 and 6.2 before 6.2.5.2 on Windows, before 6.2.5.3 on AIX and Linux x86, and before 6.2.5.4 CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T18:33:17Z"
+    },
+    {
+      "cve_id": "CVE-2012-3287",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-3287](https://github.com/Live-Hack-CVE/CVE-2012-3287)",
+      "description": "Poul-Henning Kamp md5crypt has insufficient algorithmic complexity and a consequently short runtime, which makes it easier for context-dependent attackers to discover cleartext passwords via a brute-force attack, as demonstrated by an attack using GPU hardware. CVE project by @Sn0wAlice",
+      "date": "2023-02-14",
+      "raw_date": "2023-02-14T11:56:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.248316",
+  "metadata": {
+    "total_cves": 131,
+    "date_range": "2023-02-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

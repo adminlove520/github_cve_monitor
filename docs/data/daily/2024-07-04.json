@@ -1,0 +1,202 @@
+{
+  "date": "2024-07-04",
+  "count": 27,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[invaderslabs/regreSSHion-CVE-2024-6387-](https://github.com/invaderslabs/regreSSHion-CVE-2024-6387-)",
+      "description": "Provides instructions for using the script to check if your OpenSSH installation is vulnerable to CVE-2024-6387",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T13:15:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[sardine-web/CVE-2024-6387_Check](https://github.com/sardine-web/CVE-2024-6387_Check)",
+      "description": "It Was Discovered That OpenSSH Incorrectly Handled Signal Management. A Remote Attacker Could Use This Issue To Bypass Authentication And Remotely Access Systems WithOut Proper Credentials.",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T21:20:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[lala-amber/CVE-2024-6387](https://github.com/lala-amber/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T13:28:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[sms2056/CVE-2024-6387](https://github.com/sms2056/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T06:10:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231](https://github.com/Redfox-Secuirty/Digisol-DG-GR1321-s-Improper-Access-Control--CVE-2024--4231)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T06:10:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Redfox-Secuirty/Asus-RT--N12-B1-s-Privilege-Escalation--CVE--2024--28326](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-Privilege-Escalation--CVE--2024--28326)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T06:03:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Redfox-Secuirty/Asus-RT--N12-B1-s-Insecure-Credential-Storage-CVE--2024--28327](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-Insecure-Credential-Storage-CVE--2024--28327)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T05:55:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328](https://github.com/Redfox-Secuirty/Asus-RT--N12-B1-s-CSV-Injection-CVE--2024--28328)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T05:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325](https://github.com/Redfox-Secuirty/Asus-RT-N12-B1-s-Credentials-Stored-in-Cleartext--CVE--2024--28325)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T05:44:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker](https://github.com/turbobit/CVE-2024-6387-OpenSSH-Vulnerability-Checker)",
+      "description": "Welcome to the CVE-2024-6387 OpenSSH Vulnerability Checker repository!  This project offers multiple scripts to check the installed version of OpenSSH on your system and determine if it is vulnerable to CVE-2024-6387. It supports various environments, including Ubuntu, Mac, and Windows.",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T03:56:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[JackSparrowhk/ssh-CVE-2024-6387-poc](https://github.com/JackSparrowhk/ssh-CVE-2024-6387-poc)",
+      "description": "CVE-2024-6387_Check 是一款轻量级、高效的工具，旨在识别运行易受攻击的 OpenSSH 版本的服务器，专门针对最近发现的regreSSHion漏洞 (CVE-2024-6387)。此脚本有助于快速扫描多个 IP 地址、域名和 CIDR 网络范围，以检测潜在漏洞并确保您的基础设施安全。",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T03:51:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-4232",
+      "repo_info": "[Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Storage-in-Plaintext--CVE-2024-4232)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T06:30:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-4232",
+      "repo_info": "[Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Policy-Bypass--CVE--2024-2257](https://github.com/Redfox-Secuirty/Digisol-DG--GR1321-s-Password-Policy-Bypass--CVE--2024-2257)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T06:23:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-39250",
+      "repo_info": "[liqhtnd/sshd-logingracetime0](https://github.com/liqhtnd/sshd-logingracetime0)",
+      "description": "Script to address CVE-2024-6387 by changing the LoginGraceTime in sshd.",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T01:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-39211",
+      "repo_info": "[artemy-ccrsky/CVE-2024-39211](https://github.com/artemy-ccrsky/CVE-2024-39211)",
+      "description": "CVE-2024-39211",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T09:24:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-39211",
+      "repo_info": "[4lxprime/regreSSHive](https://github.com/4lxprime/regreSSHive)",
+      "description": "rewrited SSH Exploit for CVE-2024-6387 (regreSSHion)",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T14:34:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-39203",
+      "repo_info": "[5r1an/CVE-2024-39203](https://github.com/5r1an/CVE-2024-39203)",
+      "description": "A cross-site scripting (XSS) vulnerability in the Backend Theme. Management module of Z-BlogPHP v1.7.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload.",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T02:30:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[bigb0x/CVE-2024-36401](https://github.com/bigb0x/CVE-2024-36401)",
+      "description": "POC for CVE-2024-36401. This POC will attempt to establish a reverse shell from the vlun targets.",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T13:19:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-29972",
+      "repo_info": "[codeb0ss/CVE-2024-29972-PoC](https://github.com/codeb0ss/CVE-2024-29972-PoC)",
+      "description": "CVE-2024-29972 - Exploit",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T21:31:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-1086",
+      "repo_info": "[xzx482/CVE-2024-1086](https://github.com/xzx482/CVE-2024-1086)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T10:51:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[aditibv/MOVEit-CVE-2023-34362](https://github.com/aditibv/MOVEit-CVE-2023-34362)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T21:13:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-37706",
+      "repo_info": "[AleksPwn/CVE-2022-37706](https://github.com/AleksPwn/CVE-2022-37706)",
+      "description": "The exploit is tested on Ubuntu 22.04",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T07:42:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-3357",
+      "repo_info": "[iamz24/CVE-2021-3493_CVE-2022-3357](https://github.com/iamz24/CVE-2021-3493_CVE-2022-3357)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T17:29:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Typical0day/CVE-2021-4034](https://github.com/Typical0day/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T02:33:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[Typical0day/CVE-2021-3156](https://github.com/Typical0day/CVE-2021-3156)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T02:29:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-23358",
+      "repo_info": "[MehdiBoukhobza/SandBox_CVE-2021-23358](https://github.com/MehdiBoukhobza/SandBox_CVE-2021-23358)",
+      "description": "no description",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T14:55:10Z"
+    },
+    {
+      "cve_id": "CVE-2017-12617",
+      "repo_info": "[yZ1337/CVE-2017-12617](https://github.com/yZ1337/CVE-2017-12617)",
+      "description": "CVE-2017-12617",
+      "date": "2024-07-04",
+      "raw_date": "2024-07-04T07:23:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.334993",
+  "metadata": {
+    "total_cves": 27,
+    "date_range": "2024-07-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

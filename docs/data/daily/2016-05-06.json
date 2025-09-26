@@ -1,0 +1,20 @@
+{
+  "date": "2016-05-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2008-7220",
+      "repo_info": "[marcelki/sockstress](https://github.com/marcelki/sockstress)",
+      "description": "Sockstress (CVE-2008-4609)  DDoS implementation written in Go",
+      "date": "2016-05-06",
+      "raw_date": "2016-05-06T17:21:32Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.912530",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-05-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

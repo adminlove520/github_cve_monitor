@@ -1,0 +1,69 @@
+{
+  "date": "2025-01-19",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9796",
+      "repo_info": "[viniciuslazzari/CVE-2024-9796](https://github.com/viniciuslazzari/CVE-2024-9796)",
+      "description": "Vulnerable website to the CVE-2024-9796",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T18:40:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-55504",
+      "repo_info": "[SyFi/CVE-2024-55504](https://github.com/SyFi/CVE-2024-55504)",
+      "description": "CVE-2024-55504",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T01:58:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-41570",
+      "repo_info": "[HimmeL-Byte/CVE-2024-41570-SSRF-RCE](https://github.com/HimmeL-Byte/CVE-2024-41570-SSRF-RCE)",
+      "description": "no description",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T14:48:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-41570",
+      "repo_info": "[thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE](https://github.com/thisisveryfunny/CVE-2024-41570-Havoc-C2-RCE)",
+      "description": "This is a Chained RCE in the Havoc C2 framework using github.com/chebuya and github.com/IncludeSecurity pocs",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T22:03:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-23724",
+      "repo_info": "[Youssefdds/CVE-2024-23724](https://github.com/Youssefdds/CVE-2024-23724)",
+      "description": "no description",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T16:35:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-21887",
+      "repo_info": "[Hexastrike/Ivanti-Secure-Connect-Logs-Parser](https://github.com/Hexastrike/Ivanti-Secure-Connect-Logs-Parser)",
+      "description": "A Python script for examining Ivanti Secure Connect (ICS) event logs, designed to support investigations into vulnerabilities CVE-2025-0282, CVE-2023-46805, and CVE-2024-21887.",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T09:02:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-21887",
+      "repo_info": "[EliahKagan/checkout-index](https://github.com/EliahKagan/checkout-index)",
+      "description": "Reproducer for CVE-2025-22620",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T05:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-35511",
+      "repo_info": "[13m0n4de/pngcheck-vulns](https://github.com/13m0n4de/pngcheck-vulns)",
+      "description": "Research and verification of vulnerabilities in pngcheck, including CVE-2020-27818, CVE-2020-35511 and other bugs found in version 2.4.0.",
+      "date": "2025-01-19",
+      "raw_date": "2025-01-19T18:33:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.369042",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2025-01-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2021-09-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0114",
+      "repo_info": "[j4k0m/CVE-2018-0114](https://github.com/j4k0m/CVE-2018-0114)",
+      "description": "Exploitation of a vulnerability in Cisco's node-jose, a JavaScript library created to manage JWT.",
+      "date": "2021-09-03",
+      "raw_date": "2021-09-03T13:11:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.102060",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-09-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2025-06-13",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6335",
+      "repo_info": "[jujubooom/CVE-2025-6335](https://github.com/jujubooom/CVE-2025-6335)",
+      "description": "cve报告",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T13:14:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-5815",
+      "repo_info": "[RootHarpy/CVE-2025-5815-Nuclei-Template](https://github.com/RootHarpy/CVE-2025-5815-Nuclei-Template)",
+      "description": "CVE-2025-5815: An unauthenticated vulnerability in the WordPress Traffic Monitor plugin (≤ 3.2.2) allowing remote attackers to disable bot logging via an exposed AJAX action without requiring authentication.",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T07:21:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-46157",
+      "repo_info": "[morphine009/CVE-2025-46157](https://github.com/morphine009/CVE-2025-46157)",
+      "description": "no description",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T15:31:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-46157",
+      "repo_info": "[assad12341/Dos-exploit-](https://github.com/assad12341/Dos-exploit-)",
+      "description": "CVE-2025-31650",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T14:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-46157",
+      "repo_info": "[assad12341/DOS-exploit](https://github.com/assad12341/DOS-exploit)",
+      "description": "CVE-2025-31650",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T14:26:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-4009",
+      "repo_info": "[realcodeb0ss/CVE-2025-4009](https://github.com/realcodeb0ss/CVE-2025-4009)",
+      "description": "CVE-2025-4009 PoC/EXP",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T19:11:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-33073",
+      "repo_info": "[mverschu/CVE-2025-33073](https://github.com/mverschu/CVE-2025-33073)",
+      "description": "PoC Exploit for the NTLM reflection SMB flaw.",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T12:15:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-29471",
+      "repo_info": "[skraft9/CVE-2025-29471](https://github.com/skraft9/CVE-2025-29471)",
+      "description": "no description",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T01:55:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-24071",
+      "repo_info": "[DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-](https://github.com/DeshanFer94/CVE-2025-24071-POC-NTLMHashDisclosure-)",
+      "description": "CVE-2025-24071: NTLMv2 Hash Disclosure via .library-ms File",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T05:08:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-2082",
+      "repo_info": "[Burak1320demiroz/cve-2025-2082](https://github.com/Burak1320demiroz/cve-2025-2082)",
+      "description": "no description",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T00:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-55890",
+      "repo_info": "[samh4cks/CVE-2024-55890](https://github.com/samh4cks/CVE-2024-55890)",
+      "description": "no description",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T04:26:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[BugVex/Poison-HTB-Report](https://github.com/BugVex/Poison-HTB-Report)",
+      "description": "Privilege Escalation on HTB &quot;Poison&quot; using PwnKit (CVE-2021-4034)",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T01:28:50Z"
+    },
+    {
+      "cve_id": "CVE-2020-21365",
+      "repo_info": "[andrei2308/CVE-2020-21365](https://github.com/andrei2308/CVE-2020-21365)",
+      "description": "no description",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T18:41:55Z"
+    },
+    {
+      "cve_id": "CVE-2017-8291",
+      "repo_info": "[hkcfs/PIL-CVE-2017-8291](https://github.com/hkcfs/PIL-CVE-2017-8291)",
+      "description": "CVE-2017-8291 CTF with docker and examples",
+      "date": "2025-06-13",
+      "raw_date": "2025-06-13T09:22:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.395899",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-06-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

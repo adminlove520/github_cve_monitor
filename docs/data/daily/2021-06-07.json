@@ -1,0 +1,34 @@
+{
+  "date": "2021-06-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-1388",
+      "repo_info": "[suprise4u/CVE-2019-1388](https://github.com/suprise4u/CVE-2019-1388)",
+      "description": "no description",
+      "date": "2021-06-07",
+      "raw_date": "2021-06-07T22:29:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-11933",
+      "repo_info": "[brunosergi/bloodit](https://github.com/brunosergi/bloodit)",
+      "description": "Bludit 3.9.2 - Auth Brute Force Mitigation Bypass. CVE-2019-17240",
+      "date": "2021-06-07",
+      "raw_date": "2021-06-07T17:22:40Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[kienquoc102/CVE-2018-9995-2](https://github.com/kienquoc102/CVE-2018-9995-2)",
+      "description": "no description",
+      "date": "2021-06-07",
+      "raw_date": "2021-06-07T05:57:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.092972",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-06-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

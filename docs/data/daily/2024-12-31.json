@@ -1,0 +1,48 @@
+{
+  "date": "2024-12-31",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-57698",
+      "repo_info": "[rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698](https://github.com/rodolfomarianocy/xpl-ModernWMS-CVE-2024-57698)",
+      "description": "It is possible to view the MD5 hash of the admin password and other attributes without authentication, even after initial setup and password change. This is due to excessive information exposure, lack of session management, and inadequate access control on the /user/list?culture=en-us endpoint.",
+      "date": "2024-12-31",
+      "raw_date": "2024-12-31T13:06:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-51442",
+      "repo_info": "[mselbrede/CVE-2024-51442](https://github.com/mselbrede/CVE-2024-51442)",
+      "description": "CVE-2024-51442 write up and example config file",
+      "date": "2024-12-31",
+      "raw_date": "2024-12-31T19:27:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-50623",
+      "repo_info": "[iSee857/Cleo-CVE-2024-50623-PoC](https://github.com/iSee857/Cleo-CVE-2024-50623-PoC)",
+      "description": "Cleo 远程代码执行漏洞批量检测脚本（CVE-2024-50623）",
+      "date": "2024-12-31",
+      "raw_date": "2024-12-31T07:43:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian](https://github.com/chaos198800/CVE-2023-38831WinRAR-dai-ma-zhi-xing-lou-dong-fu-xian-zi-yuan-wen-jian)",
+      "description": "CVE-2023-38831WinRAR代码执行漏洞复现资源文件",
+      "date": "2024-12-31",
+      "raw_date": "2024-12-31T04:14:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-21772",
+      "repo_info": "[3dluvr/New-lib3mf.dll-for-MeshMixer](https://github.com/3dluvr/New-lib3mf.dll-for-MeshMixer)",
+      "description": "Precompiled lib3mf.dll for MeshMixer which includes a backported patch for CVE-2021-21772 and zlib 1.3.1",
+      "date": "2024-12-31",
+      "raw_date": "2024-12-31T03:48:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.365737",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2024-12-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

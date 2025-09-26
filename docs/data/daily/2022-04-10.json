@@ -1,0 +1,34 @@
+{
+  "date": "2022-04-10",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-8014",
+      "repo_info": "[f01965/CVE-2019-8014](https://github.com/f01965/CVE-2019-8014)",
+      "description": "no description",
+      "date": "2022-04-10",
+      "raw_date": "2022-04-10T00:53:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[Giler2004/bazad1](https://github.com/Giler2004/bazad1)",
+      "description": "CVE-2018-4185: iOS 11.2-11.2.6 kernel pointer disclosure introduced by Apple's Meltdown mitigation.",
+      "date": "2022-04-10",
+      "raw_date": "2022-04-10T15:50:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-5146",
+      "repo_info": "[f01965/CVE-2018-5146](https://github.com/f01965/CVE-2018-5146)",
+      "description": "no description",
+      "date": "2022-04-10",
+      "raw_date": "2022-04-10T02:12:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.126453",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

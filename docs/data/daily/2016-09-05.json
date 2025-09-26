@@ -1,0 +1,20 @@
+{
+  "date": "2016-09-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2009-0473",
+      "repo_info": "[akbarq/CVE-2009-0473-check](https://github.com/akbarq/CVE-2009-0473-check)",
+      "description": "Simple script to exploit open redirection vulnerability in Rockwell ControlLogix 1756-ENBT/A",
+      "date": "2016-09-05",
+      "raw_date": "2016-09-05T23:08:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.923188",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-09-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

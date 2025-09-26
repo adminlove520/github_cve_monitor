@@ -1,0 +1,69 @@
+{
+  "date": "2024-06-25",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6028",
+      "repo_info": "[truonghuuphuc/CVE-2024-6028-Poc](https://github.com/truonghuuphuc/CVE-2024-6028-Poc)",
+      "description": "CVE-2024-6028 Quiz Maker &lt;= 6.5.8.3 - Unauthenticated SQL Injection via &#x27;ays_questions&#x27; Parameter",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T13:55:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-33883",
+      "repo_info": "[Grantzile/PoC-CVE-2024-33883](https://github.com/Grantzile/PoC-CVE-2024-33883)",
+      "description": "PoC of CVE-2024-33883, RCE vulnerability of ejs.",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T18:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-33113",
+      "repo_info": "[tekua/CVE-2024-33113](https://github.com/tekua/CVE-2024-33113)",
+      "description": "Le routeur D-LINK DIR-845L est vulnérable à un problème de divulgation d&#x27;informations. Plus précisément, le fichier bsc_sms_inbox.php sur l&#x27;appareil peut être exploité pour divulguer des informations sensibles.",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T14:16:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-33111",
+      "repo_info": "[FaLLenSKiLL1/CVE-2024-33111](https://github.com/FaLLenSKiLL1/CVE-2024-33111)",
+      "description": "D-Link DIR-845L router is vulnerable to Cross Site Scripting (XSS) via /htdocs/webinc/js/bsc_sms_inbox.php.",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T14:54:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-47108",
+      "repo_info": "[bahe-msft/govuln-CVE-2023-47108](https://github.com/bahe-msft/govuln-CVE-2023-47108)",
+      "description": "no description",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T05:05:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784](https://github.com/Hirusha-N/CVE-2021-34527-CVE-2023-38831-and-CVE-2023-32784)",
+      "description": "no description",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T02:30:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[TeymurNovruzov/CVE-2019-9053-python3-remastered](https://github.com/TeymurNovruzov/CVE-2019-9053-python3-remastered)",
+      "description": "The script has been remastered by Teymur Novruzov to ensure compatibility with Python 3. This tool is intended for educational purposes only. Unauthorized use of this tool on any system or network without permission is illegal. The author is not responsible for any misuse of this tool.",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T10:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[zerobytesecure/CVE-2019-19781](https://github.com/zerobytesecure/CVE-2019-19781)",
+      "description": "no description",
+      "date": "2024-06-25",
+      "raw_date": "2024-06-25T21:02:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.332975",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-06-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2015-11-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-7808",
+      "repo_info": "[Prajithp/CVE-2015-7808](https://github.com/Prajithp/CVE-2015-7808)",
+      "description": "PoC code for vBulletin PreAuth vulnerability",
+      "date": "2015-11-06",
+      "raw_date": "2015-11-06T19:47:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.896498",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-11-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

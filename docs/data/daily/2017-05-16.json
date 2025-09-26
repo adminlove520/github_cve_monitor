@@ -1,0 +1,41 @@
+{
+  "date": "2017-05-16",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[zcgonvh/cve-2017-7269-tool](https://github.com/zcgonvh/cve-2017-7269-tool)",
+      "description": "CVE-2017-7269 to webshell or shellcode loader",
+      "date": "2017-05-16",
+      "raw_date": "2017-05-16T18:47:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000367",
+      "repo_info": "[valarauco/wannafind](https://github.com/valarauco/wannafind)",
+      "description": "Simple script using nmap to detect CVE-2017-0143 MS17-010 in your network",
+      "date": "2017-05-16",
+      "raw_date": "2017-05-16T19:34:38Z"
+    },
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[mike-williams/imagetragick-poc](https://github.com/mike-williams/imagetragick-poc)",
+      "description": "Create a docker container with vulnerable imagemagick and node app to demonstrate what CVE 2016-3714 is",
+      "date": "2017-05-16",
+      "raw_date": "2017-05-16T20:25:58Z"
+    },
+    {
+      "cve_id": "CVE-2016-0728",
+      "repo_info": "[hal0taso/CVE-2016-0728](https://github.com/hal0taso/CVE-2016-0728)",
+      "description": "cve-2016-0728 exploit and summary",
+      "date": "2017-05-16",
+      "raw_date": "2017-05-16T06:37:19Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.946003",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-05-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

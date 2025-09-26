@@ -1,0 +1,111 @@
+{
+  "date": "2025-03-20",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813](https://github.com/n0n-zer0/Spring-Boot-Tomcat-CVE-2025-24813)",
+      "description": "POC for CVE-2025-24813 using Spring-Boot",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T22:52:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-2476",
+      "repo_info": "[McTavishSue/CVE-2025-2476](https://github.com/McTavishSue/CVE-2025-2476)",
+      "description": "Use After Free (CWE-416)",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T13:44:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-0086",
+      "repo_info": "[Mahesh-970/CVE-2025-0086](https://github.com/Mahesh-970/CVE-2025-0086)",
+      "description": "no description",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T06:10:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-48591",
+      "repo_info": "[GCatt-AS/CVE-2024-48591](https://github.com/GCatt-AS/CVE-2024-48591)",
+      "description": "no description",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T09:25:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-48590",
+      "repo_info": "[GCatt-AS/CVE-2024-48590](https://github.com/GCatt-AS/CVE-2024-48590)",
+      "description": "no description",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T09:17:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-32962",
+      "repo_info": "[absholi7ly/Poc-CVE-2024-32962-xml-crypto](https://github.com/absholi7ly/Poc-CVE-2024-32962-xml-crypto)",
+      "description": "no description",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T06:17:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-45878",
+      "repo_info": "[killercd/CVE-2023-45878](https://github.com/killercd/CVE-2023-45878)",
+      "description": "CVE-2023-45878 GibbonEdu Arbitrary File Write",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T20:57:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-45878",
+      "repo_info": "[PaulDHaes/CVE-2023-45878-POC](https://github.com/PaulDHaes/CVE-2023-45878-POC)",
+      "description": "CVE-2023-45878 poc for gibbon LMS on xampp windows",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T12:05:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-38181",
+      "repo_info": "[Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet](https://github.com/Bariskizilkaya/CVE_2022_38181-Mali-SAMSUNG-S6-Lite-Tablet)",
+      "description": "no description",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T21:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[ashique-thaha/CVE-2021-41773-POC](https://github.com/ashique-thaha/CVE-2021-41773-POC)",
+      "description": "The POC and Lab setup documentation of CVE 2021 41773",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T18:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2020-7247",
+      "repo_info": "[minhluannguyen/CVE-2020-7247-reproducer](https://github.com/minhluannguyen/CVE-2020-7247-reproducer)",
+      "description": "no description",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T08:33:30Z"
+    },
+    {
+      "cve_id": "CVE-2019-9193",
+      "repo_info": "[jhnhnck/CVE-2019-9193](https://github.com/jhnhnck/CVE-2019-9193)",
+      "description": "PoC tool designed to exploit an authenticated Remote Code Execution (RCE) vulnerability in certain versions of PostgreSQL (9.3 - 11.7)",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T17:46:42Z"
+    },
+    {
+      "cve_id": "CVE-2016-1000229",
+      "repo_info": "[barteeees/SwaggerUI-CVE-2016-1000229](https://github.com/barteeees/SwaggerUI-CVE-2016-1000229)",
+      "description": "CVE-2016-1000229",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T15:43:28Z"
+    },
+    {
+      "cve_id": "CVE-2012-1823",
+      "repo_info": "[Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web](https://github.com/Dmitri131313/CVE-2012-1823-exploit-for-https-user-password-web)",
+      "description": "CVE-2012-1823 exploit for https user password website.",
+      "date": "2025-03-20",
+      "raw_date": "2025-03-20T15:09:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.378723",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-03-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

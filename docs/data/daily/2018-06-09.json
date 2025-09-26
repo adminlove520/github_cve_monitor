@@ -1,0 +1,20 @@
+{
+  "date": "2018-06-09",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-4463",
+      "repo_info": "[yuvatia/page-table-exploitation](https://github.com/yuvatia/page-table-exploitation)",
+      "description": "A demonstration of how page tables can be used to run arbitrary code in ring-0 and lead to a privesc. Uses CVE-2016-7255 as an example.",
+      "date": "2018-06-09",
+      "raw_date": "2018-06-09T23:14:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.982229",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-06-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

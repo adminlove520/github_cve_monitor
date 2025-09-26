@@ -1,0 +1,20 @@
+{
+  "date": "2014-03-29",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-3137",
+      "repo_info": "[hantwister/o5logon-fetch](https://github.com/hantwister/o5logon-fetch)",
+      "description": "Attempts to exploit CVE-2012-3137 on vulnerable Oracle servers",
+      "date": "2014-03-29",
+      "raw_date": "2014-03-29T14:10:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.845271",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-03-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

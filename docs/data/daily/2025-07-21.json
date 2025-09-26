@@ -1,0 +1,153 @@
+{
+  "date": "2025-07-21",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[soltanali0/CVE-2025-53770-Exploit](https://github.com/soltanali0/CVE-2025-53770-Exploit)",
+      "description": "SharePoint WebPart Injection Exploit Tool",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T13:48:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[grupooruss/CVE-2025-53770-Checker](https://github.com/grupooruss/CVE-2025-53770-Checker)",
+      "description": "Comprueba si un servidor SharePoint on-premises es vulnerable a CVE-2025-53770",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T18:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[ZephrFish/CVE-2025-53770-Scanner](https://github.com/ZephrFish/CVE-2025-53770-Scanner)",
+      "description": "ToolShell scanner - CVE-2025-53770 and detection information",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T16:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[hazcod/CVE-2025-53770](https://github.com/hazcod/CVE-2025-53770)",
+      "description": "Scanner for the SharePoint CVE-2025-53770 RCE zero day vulnerability.",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T14:19:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[siag-itsec/CVE-2025-53770-Hunting](https://github.com/siag-itsec/CVE-2025-53770-Hunting)",
+      "description": "Hunting for Critical SharePoint Vulnerability CVE-2025-53770",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T16:29:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[kaizensecurity/CVE-2025-53770](https://github.com/kaizensecurity/CVE-2025-53770)",
+      "description": "POC",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T06:39:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[paolokappa/SharePointSecurityMonitor](https://github.com/paolokappa/SharePointSecurityMonitor)",
+      "description": "A comprehensive security monitoring solution for SharePoint Server with specific protection against CVE-2025-53770 and other threats",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T12:52:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[n1chr0x/ZeroPoint](https://github.com/n1chr0x/ZeroPoint)",
+      "description": "This PowerShell script detects indicators of compromise for CVE-2025-53770 — a critical RCE vulnerability in Microsoft SharePoint.  Created by @n1chr0x and @BlackRazer67",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T06:29:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770](https://github.com/Bluefire-Redteam-Cybersecurity/bluefire-sharepoint-cve-2025-53770)",
+      "description": "no description",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T05:21:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[RukshanaAlikhan/CVE-2025-53770](https://github.com/RukshanaAlikhan/CVE-2025-53770)",
+      "description": "A critical zero-day vulnerability CVE‑2025‑53770 has been actively exploited in the wild against on-premises  Microsoft SharePoint Server. Dubbed &quot;ToolShell,&quot; this exploit leverages a deserialization flaw (variant of  CVE‑2025‑49706, CVSS: 6.3).",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T04:41:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-50360",
+      "repo_info": "[Ch1keen/CVE-2025-50360](https://github.com/Ch1keen/CVE-2025-50360)",
+      "description": "Report and PoC of Heap Buffer Overflow in Pepper Language before version 0.1.1, commit 961a5d9988c5986d563310275adad3fd181b2bb7",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T10:48:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462](https://github.com/AdityaBhatt3010/Sudo-Privilege-Escalation-Linux-CVE-2025-32463-and-CVE-2025-32462)",
+      "description": "A deep dive into two critical Sudo vulnerabilities (CVE‑2025‑32463 &amp; CVE‑2025‑32462) that enable local privilege escalation across major Linux distributions.",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T15:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-25014",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-25014](https://github.com/B1ack4sh/Blackash-CVE-2025-25014)",
+      "description": "CVE-2025-25014",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T22:58:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-9264",
+      "repo_info": "[patrickpichler/grafana-CVE-2024-9264](https://github.com/patrickpichler/grafana-CVE-2024-9264)",
+      "description": "Grafana image with DuckDB binary present vulnerable to exploit CVE-2024-9264",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T12:02:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-9264",
+      "repo_info": "[Yumeae/Bootstrap-with-XSS](https://github.com/Yumeae/Bootstrap-with-XSS)",
+      "description": "A poc for Bootstrap XSS(CVE-2024-6485、CVE-2016-10735、CVE-2019-8331、CVE-2018-14040)",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T08:52:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-8118",
+      "repo_info": "[nurarifin05/POC-CVE-2024-8118](https://github.com/nurarifin05/POC-CVE-2024-8118)",
+      "description": "Berikut untuk POC grafana CVE-2024-8118",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T05:58:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-4947",
+      "repo_info": "[bjrjk/CVE-2024-4947](https://github.com/bjrjk/CVE-2024-4947)",
+      "description": "A in-the-wild V8 type confusion bug.",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T13:02:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[holokitty/Exploit-CVE-2024-36401](https://github.com/holokitty/Exploit-CVE-2024-36401)",
+      "description": "Python exploit for GeoServer (CVE-2024-36401) with JSP web shell upload",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T18:40:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[szybnev/CVE-2023-7028](https://github.com/szybnev/CVE-2023-7028)",
+      "description": "This FORK of repository presents a proof-of-concept of CVE-2023-7028. I am only improve exploit usage",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T12:34:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[BreezeGalaxy/CVE-2023-38646](https://github.com/BreezeGalaxy/CVE-2023-38646)",
+      "description": "no description",
+      "date": "2025-07-21",
+      "raw_date": "2025-07-21T11:13:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.404059",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2025-07-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

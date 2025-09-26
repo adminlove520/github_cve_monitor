@@ -1,0 +1,20 @@
+{
+  "date": "2018-07-23",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-6117",
+      "repo_info": "[milo2012/CVE-2013-6117](https://github.com/milo2012/CVE-2013-6117)",
+      "description": "CVE-2013-6117",
+      "date": "2018-07-23",
+      "raw_date": "2018-07-23T14:56:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.986300",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-07-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

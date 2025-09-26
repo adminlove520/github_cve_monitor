@@ -1,0 +1,55 @@
+{
+  "date": "2022-07-19",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-34918",
+      "repo_info": "[randorisec/CVE-2022-34918-LPE-PoC](https://github.com/randorisec/CVE-2022-34918-LPE-PoC)",
+      "description": "no description",
+      "date": "2022-07-19",
+      "raw_date": "2022-07-19T12:46:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[west-wind/CVE-2022-33891](https://github.com/west-wind/CVE-2022-33891)",
+      "description": "PoC for CVE-2022-33891",
+      "date": "2022-07-19",
+      "raw_date": "2022-07-19T23:16:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[HuskyHacks/cve-2022-33891](https://github.com/HuskyHacks/cve-2022-33891)",
+      "description": "Apache Spark Shell Command Injection Vulnerability",
+      "date": "2022-07-19",
+      "raw_date": "2022-07-19T18:52:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[cybersecurityresearcher/CVE-2022-26809-RCE-POC](https://github.com/cybersecurityresearcher/CVE-2022-26809-RCE-POC)",
+      "description": "CVE-2022-26809 is a vulnerability in Remote Procedure Call Runtime",
+      "date": "2022-07-19",
+      "raw_date": "2022-07-19T07:18:45Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j](https://github.com/cybersecurityresearcher/CVE-2021-44228-Mass-RCE-Log4j)",
+      "description": "CVE-2021-44228 Log4J multithreaded Mass Exploitation tool compatible with URL/IP lists.",
+      "date": "2022-07-19",
+      "raw_date": "2022-07-19T07:13:28Z"
+    },
+    {
+      "cve_id": "CVE-2019-8985",
+      "repo_info": "[Ler2sq/CVE-2019-8985](https://github.com/Ler2sq/CVE-2019-8985)",
+      "description": "CVE–2019–8985 Netis WF2411 RCE",
+      "date": "2022-07-19",
+      "raw_date": "2022-07-19T13:30:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.143463",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-07-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

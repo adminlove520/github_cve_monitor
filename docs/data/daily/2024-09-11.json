@@ -1,0 +1,125 @@
+{
+  "date": "2024-09-11",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8277",
+      "repo_info": "[realbotnet/CVE-2024-8277](https://github.com/realbotnet/CVE-2024-8277)",
+      "description": "CVE-2024-8277 - 0Day Auto Exploit Authentication Bypass in WooCommerce Photo Reviews Plugin",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T20:09:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-5522",
+      "repo_info": "[kryptonproject/CVE-2024-5522-PoC](https://github.com/kryptonproject/CVE-2024-5522-PoC)",
+      "description": "no description",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T04:46:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-45507",
+      "repo_info": "[Avento/CVE-2024-45507_Behinder_Webshell](https://github.com/Avento/CVE-2024-45507_Behinder_Webshell)",
+      "description": "no description",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T07:14:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-37084",
+      "repo_info": "[vuhz/CVE-2024-37084](https://github.com/vuhz/CVE-2024-37084)",
+      "description": "Spring Cloud Remote Code Execution",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T14:09:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-26581",
+      "repo_info": "[laoqin1234/Linux-Root-CVE-2024-26581-PoC](https://github.com/laoqin1234/Linux-Root-CVE-2024-26581-PoC)",
+      "description": "no description",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T08:29:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-0624",
+      "repo_info": "[kodaichodai/CVE-2024-0624](https://github.com/kodaichodai/CVE-2024-0624)",
+      "description": "a PoC for CVE-2024-0624/WP Plugin - Paid Memberships Pro (&lt;= 2.12.7)",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:20:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-0623",
+      "repo_info": "[kodaichodai/CVE-2024-0623](https://github.com/kodaichodai/CVE-2024-0623)",
+      "description": "a PoC for CVE-2024-0623/WP Plugin - VK Block Patterns (&lt;= 1.31.1.1)",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:19:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-0590",
+      "repo_info": "[kodaichodai/CVE-2024-0590](https://github.com/kodaichodai/CVE-2024-0590)",
+      "description": "a PoC for CVE-2024-0590/WP Plugin - Microsoft Clarity (&lt;= 0.9.3)",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:17:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-0588",
+      "repo_info": "[kodaichodai/CVE-2024-0588](https://github.com/kodaichodai/CVE-2024-0588)",
+      "description": "a PoC for CVE-2024-0588/WP Plugin - Paid Memberships Pro (&lt;= 2.12.7)",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:14:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-0509",
+      "repo_info": "[kodaichodai/CVE-2024-0509](https://github.com/kodaichodai/CVE-2024-0509)",
+      "description": "a PoC for CVE-2024-0509/WP Plugin - WP 404 Auto Redirect to Similar Post (&lt;= 5.4.14)",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:05:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-0379",
+      "repo_info": "[kodaichodai/CVE-2024-0379](https://github.com/kodaichodai/CVE-2024-0379)",
+      "description": "a PoC for CVE-2024-0379/WP Plugin - Custom Twitter Feeds - A Tweets Widget or X Feed Widget (&lt;= 2.2.1)",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:12:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[OtisSymbos/CVE-2021-44228-Log4Shell-](https://github.com/OtisSymbos/CVE-2021-44228-Log4Shell-)",
+      "description": "no description",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T01:13:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[safeer-accuknox/log4j-shell-poc](https://github.com/safeer-accuknox/log4j-shell-poc)",
+      "description": "Log4J exploit CVE-2021-44228",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T05:06:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[DenuwanJayasekara/CVE-Exploitation-Reports](https://github.com/DenuwanJayasekara/CVE-Exploitation-Reports)",
+      "description": "CVE Exploitation Reports: CVE-2007-3280, CVE-2017-0144, CVE-2019-0708",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T07:56:20Z"
+    },
+    {
+      "cve_id": "CVE-2019-0567",
+      "repo_info": "[NatteeSetobol/CVE-2019-0567-MS-Edge](https://github.com/NatteeSetobol/CVE-2019-0567-MS-Edge)",
+      "description": "My proof of concept for CVE-2019 Microsoft-Edge",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T00:04:59Z"
+    },
+    {
+      "cve_id": "CVE-2013-3900",
+      "repo_info": "[OtisSymbos/CVE-2013-3900-WinTrustVerify](https://github.com/OtisSymbos/CVE-2013-3900-WinTrustVerify)",
+      "description": "Powershell script that checks for cert padding in the Windows Registry and adds it if it does not exist. Meant to resolve the WinTrustVerify Vulnerability.",
+      "date": "2024-09-11",
+      "raw_date": "2024-09-11T01:15:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.346695",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2024-09-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

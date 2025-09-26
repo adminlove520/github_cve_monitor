@@ -1,0 +1,132 @@
+{
+  "date": "2025-06-03",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5419",
+      "repo_info": "[takeshirisulu/CVE-2025-5419](https://github.com/takeshirisulu/CVE-2025-5419)",
+      "description": "no description",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T13:30:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-49125",
+      "repo_info": "[gregk4sec/CVE-2025-49125](https://github.com/gregk4sec/CVE-2025-49125)",
+      "description": "Tomcat CVE",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T03:04:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[rxerium/CVE-2025-49113](https://github.com/rxerium/CVE-2025-49113)",
+      "description": "Detection for CVE-2025-49113",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T19:04:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-46206",
+      "repo_info": "[Landw-hub/CVE-2025-46206](https://github.com/Landw-hub/CVE-2025-46206)",
+      "description": "no description",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T04:10:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-4123",
+      "repo_info": "[imbas007/CVE-2025-4123-template](https://github.com/imbas007/CVE-2025-4123-template)",
+      "description": "no description",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T06:24:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-32873",
+      "repo_info": "[Apollo-R3bot/django-vulnerability-CVE-2025-32873](https://github.com/Apollo-R3bot/django-vulnerability-CVE-2025-32873)",
+      "description": "Django Security Issue (CVE-2025-32873)",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T09:16:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-3102",
+      "repo_info": "[0xgh057r3c0n/CVE-2025-3102](https://github.com/0xgh057r3c0n/CVE-2025-3102)",
+      "description": "SureTriggers &lt;= 1.0.78 - Authorization Bypass Exploit",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T08:34:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-2945",
+      "repo_info": "[abrewer251/CVE-2025-2945_PoC](https://github.com/abrewer251/CVE-2025-2945_PoC)",
+      "description": "pgAdmin Proof of Concept",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T18:17:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-22224",
+      "repo_info": "[takeshirisulu/CVE-2025-22224](https://github.com/takeshirisulu/CVE-2025-22224)",
+      "description": "Privilege Escalation via TOCTOU Race Condition in VMware VMX (CVE-2025-22224)",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T12:59:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-22224",
+      "repo_info": "[Waseemarif/cve20254664](https://github.com/Waseemarif/cve20254664)",
+      "description": "no description",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T11:04:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-20188",
+      "repo_info": "[takeshirisulu/CVE-2025-20188](https://github.com/takeshirisulu/CVE-2025-20188)",
+      "description": "no description",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T13:04:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[r007sec/CVE-2024-53677](https://github.com/r007sec/CVE-2024-53677)",
+      "description": "no description",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T12:55:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[valeriot30/cve-2024-3094](https://github.com/valeriot30/cve-2024-3094)",
+      "description": "A XZ backdoor vulnerability explained in details",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T09:09:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-39910",
+      "repo_info": "[z1ph1us/MilkSad-Mnemonic-Generator](https://github.com/z1ph1us/MilkSad-Mnemonic-Generator)",
+      "description": "This tool generates BIP-39 mnemonic phrases derived from Unix timestamps, exploring the &#x27;Milk Sad&#x27; vulnerability&#x27;s implications (CVE-2023-39910)",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T09:00:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[J0ey17/Exploit_CVE-2023-27163](https://github.com/J0ey17/Exploit_CVE-2023-27163)",
+      "description": "Proof of Concept exploit for Server Side Request Forgery vulnerability in Requests Basket v1.2.1 and before.",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T13:17:06Z"
+    },
+    {
+      "cve_id": "CVE-2019-7214",
+      "repo_info": "[ElusiveHacker/CVE-2019-7214](https://github.com/ElusiveHacker/CVE-2019-7214)",
+      "description": "For CTF use only (the CVE-2019-7214 also resolves the host from /etc/hosts)",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T13:33:51Z"
+    },
+    {
+      "cve_id": "CVE-2014-4688",
+      "repo_info": "[fenix0499/CVE-2014-4688-NodeJs-Exploit](https://github.com/fenix0499/CVE-2014-4688-NodeJs-Exploit)",
+      "description": "Authenticated Remote Command Execution – pfSense &lt;= 2.1.3",
+      "date": "2025-06-03",
+      "raw_date": "2025-06-03T02:41:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.393943",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-06-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,496 @@
+{
+  "date": "2024-04-05",
+  "count": 69,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-30850",
+      "repo_info": "[chebuya/CVE-2024-30850-chaos-rat-rce-poc](https://github.com/chebuya/CVE-2024-30850-chaos-rat-rce-poc)",
+      "description": "CHAOS RAT web panel path RCE PoC",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T21:35:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-30737",
+      "repo_info": "[yashpatelphd/CVE-2024-30737](https://github.com/yashpatelphd/CVE-2024-30737)",
+      "description": "Remote Command Execution Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:41:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-30736",
+      "repo_info": "[yashpatelphd/CVE-2024-30736](https://github.com/yashpatelphd/CVE-2024-30736)",
+      "description": "Insecure Deserialization Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:37:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-30735",
+      "repo_info": "[yashpatelphd/CVE-2024-30735](https://github.com/yashpatelphd/CVE-2024-30735)",
+      "description": "Arbitrary File Upload Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:35:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-30733",
+      "repo_info": "[yashpatelphd/CVE-2024-30733](https://github.com/yashpatelphd/CVE-2024-30733)",
+      "description": "Buffer Overflow Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:30:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-30730",
+      "repo_info": "[yashpatelphd/CVE-2024-30730](https://github.com/yashpatelphd/CVE-2024-30730)",
+      "description": "Insecure Logging Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:23:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-30729",
+      "repo_info": "[yashpatelphd/CVE-2024-30729](https://github.com/yashpatelphd/CVE-2024-30729)",
+      "description": "OS Command Injection Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:20:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-30728",
+      "repo_info": "[yashpatelphd/CVE-2024-30728](https://github.com/yashpatelphd/CVE-2024-30728)",
+      "description": "Security Misconfiguration in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:18:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-30727",
+      "repo_info": "[yashpatelphd/CVE-2024-30727](https://github.com/yashpatelphd/CVE-2024-30727)",
+      "description": "Information Leakage in ROS Kinetic Kame via Plaintext Message Transmission",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:14:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-30726",
+      "repo_info": "[yashpatelphd/CVE-2024-30726](https://github.com/yashpatelphd/CVE-2024-30726)",
+      "description": "Shell Injection Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:11:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-30724",
+      "repo_info": "[yashpatelphd/CVE-2024-30724](https://github.com/yashpatelphd/CVE-2024-30724)",
+      "description": "Unauthorized Information Access Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:06:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-30723",
+      "repo_info": "[yashpatelphd/CVE-2024-30723](https://github.com/yashpatelphd/CVE-2024-30723)",
+      "description": "Unauthorized Node Injection Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T11:02:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-30722",
+      "repo_info": "[yashpatelphd/CVE-2024-30722](https://github.com/yashpatelphd/CVE-2024-30722)",
+      "description": "Denial-of-Service (DoS) Vulnerability in ROS Kinetic Kame",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T10:59:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-30721",
+      "repo_info": "[yashpatelphd/CVE-2024-30721](https://github.com/yashpatelphd/CVE-2024-30721)",
+      "description": "Arbitrary File Upload Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T09:18:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-30719",
+      "repo_info": "[yashpatelphd/CVE-2024-30719](https://github.com/yashpatelphd/CVE-2024-30719)",
+      "description": "Insecure Deserialization Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T09:13:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-30718",
+      "repo_info": "[yashpatelphd/CVE-2024-30718](https://github.com/yashpatelphd/CVE-2024-30718)",
+      "description": "Remote Command Execution Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T09:10:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-30716",
+      "repo_info": "[yashpatelphd/CVE-2024-30716](https://github.com/yashpatelphd/CVE-2024-30716)",
+      "description": "Insecure Logging Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T09:03:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-30715",
+      "repo_info": "[yashpatelphd/CVE-2024-30715](https://github.com/yashpatelphd/CVE-2024-30715)",
+      "description": "Buffer Overflow Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T09:00:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-30713",
+      "repo_info": "[yashpatelphd/CVE-2024-30713](https://github.com/yashpatelphd/CVE-2024-30713)",
+      "description": "OS Command Injection Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:55:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-30712",
+      "repo_info": "[yashpatelphd/CVE-2024-30712](https://github.com/yashpatelphd/CVE-2024-30712)",
+      "description": "Shell Injection Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:51:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-30711",
+      "repo_info": "[yashpatelphd/CVE-2024-30711](https://github.com/yashpatelphd/CVE-2024-30711)",
+      "description": "Security Misconfiguration in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:47:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-30710",
+      "repo_info": "[yashpatelphd/CVE-2024-30710](https://github.com/yashpatelphd/CVE-2024-30710)",
+      "description": "Information Leakage in ROS2 Dashing Diademata via Plaintext Message Transmission",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:44:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-30708",
+      "repo_info": "[yashpatelphd/CVE-2024-30708](https://github.com/yashpatelphd/CVE-2024-30708)",
+      "description": "Denial-of-Service (DoS) Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:35:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-30707",
+      "repo_info": "[yashpatelphd/CVE-2024-30707](https://github.com/yashpatelphd/CVE-2024-30707)",
+      "description": "Unauthorized Node Injection Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:31:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-30706",
+      "repo_info": "[yashpatelphd/CVE-2024-30706](https://github.com/yashpatelphd/CVE-2024-30706)",
+      "description": "Unauthorized Access Vulnerability in ROS2 Dashing Diademata",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T08:28:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-30704",
+      "repo_info": "[yashpatelphd/CVE-2024-30704](https://github.com/yashpatelphd/CVE-2024-30704)",
+      "description": "Insecure Deserialization Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-30703",
+      "repo_info": "[yashpatelphd/CVE-2024-30703](https://github.com/yashpatelphd/CVE-2024-30703)",
+      "description": "Arbitrary File Upload Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:50:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-30702",
+      "repo_info": "[yashpatelphd/CVE-2024-30702](https://github.com/yashpatelphd/CVE-2024-30702)",
+      "description": "Remote Command Execution Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:47:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-30701",
+      "repo_info": "[yashpatelphd/CVE-2024-30701](https://github.com/yashpatelphd/CVE-2024-30701)",
+      "description": "Insecure Logging Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:44:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-30699",
+      "repo_info": "[yashpatelphd/CVE-2024-30699](https://github.com/yashpatelphd/CVE-2024-30699)",
+      "description": "Buffer Overflow Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:40:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-30697",
+      "repo_info": "[yashpatelphd/CVE-2024-30697](https://github.com/yashpatelphd/CVE-2024-30697)",
+      "description": "Information Leakage in ROS2 Galactic Geochelone via Plaintext Message Transmission",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:34:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-30696",
+      "repo_info": "[yashpatelphd/CVE-2024-30696](https://github.com/yashpatelphd/CVE-2024-30696)",
+      "description": "OS Command Injection Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-30695",
+      "repo_info": "[yashpatelphd/CVE-2024-30695](https://github.com/yashpatelphd/CVE-2024-30695)",
+      "description": "Security Misconfiguration in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:29:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-30694",
+      "repo_info": "[yashpatelphd/CVE-2024-30694](https://github.com/yashpatelphd/CVE-2024-30694)",
+      "description": "Shell Injection Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:26:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-30692",
+      "repo_info": "[yashpatelphd/CVE-2024-30692](https://github.com/yashpatelphd/CVE-2024-30692)",
+      "description": "Denial-of-Service (DoS) Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:21:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-30691",
+      "repo_info": "[yashpatelphd/CVE-2024-30691](https://github.com/yashpatelphd/CVE-2024-30691)",
+      "description": "Unauthorized Access Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:18:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-30690",
+      "repo_info": "[yashpatelphd/CVE-2024-30690](https://github.com/yashpatelphd/CVE-2024-30690)",
+      "description": "Unauthorized Node Injection Vulnerability in ROS2 Galactic Geochelone",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:13:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-30688",
+      "repo_info": "[yashpatelphd/CVE-2024-30688](https://github.com/yashpatelphd/CVE-2024-30688)",
+      "description": "Arbitrary File Upload Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:07:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-30687",
+      "repo_info": "[yashpatelphd/CVE-2024-30687](https://github.com/yashpatelphd/CVE-2024-30687)",
+      "description": "Insecure Deserialization Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:04:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-30686",
+      "repo_info": "[yashpatelphd/CVE-2024-30686](https://github.com/yashpatelphd/CVE-2024-30686)",
+      "description": "Remote Command Execution Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:00:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-30684",
+      "repo_info": "[yashpatelphd/CVE-2024-30684](https://github.com/yashpatelphd/CVE-2024-30684)",
+      "description": "Insecure Logging Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:48:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-30683",
+      "repo_info": "[yashpatelphd/CVE-2024-30683](https://github.com/yashpatelphd/CVE-2024-30683)",
+      "description": "Buffer Overflow Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:45:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-30681",
+      "repo_info": "[yashpatelphd/CVE-2024-30681](https://github.com/yashpatelphd/CVE-2024-30681)",
+      "description": "OS Command Injection Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-30680",
+      "repo_info": "[yashpatelphd/CVE-2024-30680](https://github.com/yashpatelphd/CVE-2024-30680)",
+      "description": "Shell Injection Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:36:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-30679",
+      "repo_info": "[yashpatelphd/CVE-2024-30679](https://github.com/yashpatelphd/CVE-2024-30679)",
+      "description": "Security Misconfiguration in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:33:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-30678",
+      "repo_info": "[yashpatelphd/CVE-2024-30678](https://github.com/yashpatelphd/CVE-2024-30678)",
+      "description": "Information Leakage in ROS2 Iron Irwini via Plaintext Message Transmission",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:29:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-30676",
+      "repo_info": "[yashpatelphd/CVE-2024-30676](https://github.com/yashpatelphd/CVE-2024-30676)",
+      "description": "Denial-of-Service (DoS) Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:24:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-30675",
+      "repo_info": "[yashpatelphd/CVE-2024-30675](https://github.com/yashpatelphd/CVE-2024-30675)",
+      "description": "Unauthorized Node Injection Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:21:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-30674",
+      "repo_info": "[yashpatelphd/CVE-2024-30674](https://github.com/yashpatelphd/CVE-2024-30674)",
+      "description": "Unauthorized Information Access Vulnerability in ROS2 Iron Irwini",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:17:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-30672",
+      "repo_info": "[yashpatelphd/CVE-2024-30672](https://github.com/yashpatelphd/CVE-2024-30672)",
+      "description": "Arbitrary File Upload Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T06:07:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-30667",
+      "repo_info": "[yashpatelphd/CVE-2024-30667](https://github.com/yashpatelphd/CVE-2024-30667)",
+      "description": "Insecure Deserialization Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:53:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-30666",
+      "repo_info": "[yashpatelphd/CVE-2024-30666](https://github.com/yashpatelphd/CVE-2024-30666)",
+      "description": "Buffer Overflow Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:49:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-30665",
+      "repo_info": "[yashpatelphd/CVE-2024-30665](https://github.com/yashpatelphd/CVE-2024-30665)",
+      "description": "OS Command Injection Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:45:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-30663",
+      "repo_info": "[yashpatelphd/CVE-2024-30663](https://github.com/yashpatelphd/CVE-2024-30663)",
+      "description": "Security Misconfiguration in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:39:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-30662",
+      "repo_info": "[yashpatelphd/CVE-2024-30662](https://github.com/yashpatelphd/CVE-2024-30662)",
+      "description": "Information Leakage in ROS Melodic Morenia via Plaintext Message Transmission",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:36:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-30661",
+      "repo_info": "[yashpatelphd/CVE-2024-30661](https://github.com/yashpatelphd/CVE-2024-30661)",
+      "description": "Unauthorized Information Access Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:32:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-30659",
+      "repo_info": "[yashpatelphd/CVE-2024-30659](https://github.com/yashpatelphd/CVE-2024-30659)",
+      "description": "Shell Injection Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:23:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-30658",
+      "repo_info": "[yashpatelphd/CVE-2024-30658](https://github.com/yashpatelphd/CVE-2024-30658)",
+      "description": "Denial-of-Service (DoS) Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:17:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-30657",
+      "repo_info": "[yashpatelphd/CVE-2024-30657](https://github.com/yashpatelphd/CVE-2024-30657)",
+      "description": "Unauthorized Node Injection Vulnerability in ROS Melodic Morenia",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:07:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-30657",
+      "repo_info": "[badsectorlabs/ludus_xz_backdoor](https://github.com/badsectorlabs/ludus_xz_backdoor)",
+      "description": "An Ansible Role that installs the xz backdoor (CVE-2024-3094) on a Debian host and optionally installs the xzbot tool.",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T01:44:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-29201",
+      "repo_info": "[chokopikk/CVE-2024-29201-POC](https://github.com/chokopikk/CVE-2024-29201-POC)",
+      "description": "CVE-2024-29201 JumpServer Ansible Remote Code Execution POC",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T17:00:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-25693",
+      "repo_info": "[MrCyb3rSec/CVE-2024-25693-exploit](https://github.com/MrCyb3rSec/CVE-2024-25693-exploit)",
+      "description": "Exploit to PATH Traversal Esri Portal for ArcGIS versions &lt;= 11.2",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T14:32:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[Amirasaiyad/BLE-TPMS](https://github.com/Amirasaiyad/BLE-TPMS)",
+      "description": "CVE-2024-39081. BLE TPMS data manipulation over bluetooth communication.",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:13:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[FoxyProxys/CVE-2024-0582](https://github.com/FoxyProxys/CVE-2024-0582)",
+      "description": "no description",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T18:12:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[Forsaken0129/CVE-2024-0582](https://github.com/Forsaken0129/CVE-2024-0582)",
+      "description": "no description",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T15:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-6634",
+      "repo_info": "[krn966/CVE-2023-6634](https://github.com/krn966/CVE-2023-6634)",
+      "description": "CVE-2023-6634",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T18:07:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-5631",
+      "repo_info": "[soreta2/CVE-2023-5631-POC](https://github.com/soreta2/CVE-2023-5631-POC)",
+      "description": "Roundcube before 1.4.15, 1.5.x before 1.5.5, and 1.6.x before 1.6.4 and allows XSS to be saved via an HTML email message with a crafted SVG document due to program/ behavior lib/Roundcube/rcube_washtml.php",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T20:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-0386",
+      "repo_info": "[churamanib/CVE-2023-0386](https://github.com/churamanib/CVE-2023-0386)",
+      "description": "no description",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T05:47:00Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[ASUKA39/CVE-2016-5195](https://github.com/ASUKA39/CVE-2016-5195)",
+      "description": "DirtyCOW 笔记",
+      "date": "2024-04-05",
+      "raw_date": "2024-04-05T07:14:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.317638",
+  "metadata": {
+    "total_cves": 69,
+    "date_range": "2024-04-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "date": "2024-04-04",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-31380",
+      "repo_info": "[Chokopik/CVE-2024-31380-POC](https://github.com/Chokopik/CVE-2024-31380-POC)",
+      "description": "CVE-2024-31380 Soflyy Oxygen Builder RCE",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T19:42:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[crfearnworks/ansible-CVE-2024-3094](https://github.com/crfearnworks/ansible-CVE-2024-3094)",
+      "description": "Ansible playbooks designed to check and remediate CVE-2024-3094 (XZ Backdoor)",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T13:31:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[robertdebock/ansible-playbook-cve-2024-3094](https://github.com/robertdebock/ansible-playbook-cve-2024-3094)",
+      "description": "A small repo with a single playbook.",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T14:52:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[dead1nfluence/Leantime-POC](https://github.com/dead1nfluence/Leantime-POC)",
+      "description": "CVE-2024-27474, CVE-2024-27476, CVE-2024-27477",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T13:58:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[felipecosta09/cve-2024-3094](https://github.com/felipecosta09/cve-2024-3094)",
+      "description": "A tutorial on how to detect the CVE 2024-3094",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T06:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-30851",
+      "repo_info": "[chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc](https://github.com/chebuya/CVE-2024-30851-jasmin-ransomware-path-traversal-poc)",
+      "description": "Jasmin ransomware web panel path traversal PoC",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T22:59:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-2879",
+      "repo_info": "[JohnNetSouldRU/CVE-2024-2879-POC](https://github.com/JohnNetSouldRU/CVE-2024-2879-POC)",
+      "description": "POC CVE-2024-2879 Exploit ----&gt; RCE",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T08:43:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-27191",
+      "repo_info": "[somecodeinjection/CVE-2024-27191-POC](https://github.com/somecodeinjection/CVE-2024-27191-POC)",
+      "description": "CVE-2024-27191 POC Inpersttion Slivery Extender RCE",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T19:30:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-26574",
+      "repo_info": "[Alaatk/CVE-2024-26574](https://github.com/Alaatk/CVE-2024-26574)",
+      "description": "Wondershare Filmora v.13.0.51 - Insecure Permissions Privilege Escalation",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T13:44:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-26574",
+      "repo_info": "[weltregie/liblzma-scan](https://github.com/weltregie/liblzma-scan)",
+      "description": "Scans liblzma from xu-utils for backdoor (CVE-2024-3094)",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T11:29:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[behindsecurity/htb-wifinetictwo-exploit](https://github.com/behindsecurity/htb-wifinetictwo-exploit)",
+      "description": "A simple python script to exploit CVE-2021-31630 on HTB WifineticTwo CTF",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T15:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-38297",
+      "repo_info": "[paras98/CVE-2021-38297-Go-wasm-Replication](https://github.com/paras98/CVE-2021-38297-Go-wasm-Replication)",
+      "description": "no description",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T01:17:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-16431",
+      "repo_info": "[RHYru9/CVE-2018-16431](https://github.com/RHYru9/CVE-2018-16431)",
+      "description": "Mass scanner , and  single for CVE-2018-16431",
+      "date": "2024-04-04",
+      "raw_date": "2024-04-04T19:31:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.317461",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-04-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

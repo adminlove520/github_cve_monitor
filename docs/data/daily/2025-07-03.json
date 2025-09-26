@@ -1,0 +1,188 @@
+{
+  "date": "2025-07-03",
+  "count": 25,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6554",
+      "repo_info": "[rbaicba/CVE-2025-6554](https://github.com/rbaicba/CVE-2025-6554)",
+      "description": "no description",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T20:45:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-6543",
+      "repo_info": "[abrewer251/CVE-2025-6543_CitrixNetScaler_PoC](https://github.com/abrewer251/CVE-2025-6543_CitrixNetScaler_PoC)",
+      "description": "Multi-host, multi-port scanner and auditor for CVE-2025-6543-affected NetScaler devices. Supports SNMP and SSH enumeration with optional CSV reporting and exploit stubs.",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T20:02:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-6218",
+      "repo_info": "[mulwareX/CVE-2025-6218-POC](https://github.com/mulwareX/CVE-2025-6218-POC)",
+      "description": "RARLAB WinRAR Directory Traversal Remote Code Execution",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T04:52:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-6218",
+      "repo_info": "[Mikivirus0/sudoinjection](https://github.com/Mikivirus0/sudoinjection)",
+      "description": "Sudo Local Privilege Escalation CVE-2025-32463 (Best For Cases Where the shell is not stable to spawn a new root shell)",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T04:24:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-6019",
+      "repo_info": "[dreysanox/CVE-2025-6019_Poc](https://github.com/dreysanox/CVE-2025-6019_Poc)",
+      "description": "Exploit for CVE-2025-6019",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T12:45:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-6018",
+      "repo_info": "[iamgithubber/CVE-2025-6018-19-exploit](https://github.com/iamgithubber/CVE-2025-6018-19-exploit)",
+      "description": "no description",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T10:03:54Z"
+    },
+    {
+      "cve_id": "CVE-2025-49596",
+      "repo_info": "[ashiqrehan-21/MCP-Inspector-CVE-2025-49596](https://github.com/ashiqrehan-21/MCP-Inspector-CVE-2025-49596)",
+      "description": "MCP-Inspector-vulncheck is a Python script that checks if an MCP Inspector server is vulnerable to CVE-2025-49596. It tests whether the /sse endpoint responds to unauthenticated requests, indicating a potential security flaw. The script is simple to use and provides clear output on whether the target server is likely vulnerable or patched.",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T16:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-4660",
+      "repo_info": "[NetSPI/CVE-2025-4660](https://github.com/NetSPI/CVE-2025-4660)",
+      "description": "PoC for CVE-2025-4660 demonstrating exploitation of the Forescout SecureConnector on Windows",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T10:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-45407",
+      "repo_info": "[yallasec/CVE-2025-45407](https://github.com/yallasec/CVE-2025-45407)",
+      "description": "CVE-2025-45407: Multiple XSS Vulnerabilities in DiscoveryNG v6.0.8 Hotfix 2 Discovered by: YallaSec Security Research Team CVE ID: CVE-2025-45407 Date Published: July 2025",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T10:44:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[mirchr/CVE-2025-32463-sudo-chwoot](https://github.com/mirchr/CVE-2025-32463-sudo-chwoot)",
+      "description": "PoC for CVE-2025-32463 - Sudo chroot Elevation of Privilege Vulnerability",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T20:40:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[nflatrea/CVE-2025-32463](https://github.com/nflatrea/CVE-2025-32463)",
+      "description": "Sudo chroot privileged escalation PoC",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T10:31:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[CIA911/sudo_patch_CVE-2025-32463](https://github.com/CIA911/sudo_patch_CVE-2025-32463)",
+      "description": "Mr.CIA&#x27;s manual patching guide for CVE-2025-32463 (Sudo local privilege escalation) on Kali Linux and Ubuntu WSL.",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T19:04:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[san8383/CVE-2025-32463](https://github.com/san8383/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T11:55:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[0xAkarii/CVE-2025-32463](https://github.com/0xAkarii/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T11:58:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[mylovem313/CVE-2025-32462](https://github.com/mylovem313/CVE-2025-32462)",
+      "description": "CVE-2025-32462 exploit code",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T22:34:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[cybersentinelx1/CVE-2025-32462-Exploit](https://github.com/cybersentinelx1/CVE-2025-32462-Exploit)",
+      "description": "CVE-2025-32462 Exploit",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T15:53:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[atomicjjbod/CVE-2025-32462](https://github.com/atomicjjbod/CVE-2025-32462)",
+      "description": "Exploit for CVE-2025-32462",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T14:30:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-32462",
+      "repo_info": "[CryingN/CVE-2025-32462](https://github.com/CryingN/CVE-2025-32462)",
+      "description": "A easy sudo poc by cryingn.",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T07:59:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[yaleman/cve-2025-24813-poc](https://github.com/yaleman/cve-2025-24813-poc)",
+      "description": "no description",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T00:31:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-23968",
+      "repo_info": "[d0n601/CVE-2025-23968](https://github.com/d0n601/CVE-2025-23968)",
+      "description": "Arbitrary File Upload in AI Bud – AI Content Generator, AI Chatbot, ChatGPT, Gemini, GPT-4o &lt;= 1.8.4",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T19:34:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-20281",
+      "repo_info": "[grupooruss/CVE-2025-20281-Cisco](https://github.com/grupooruss/CVE-2025-20281-Cisco)",
+      "description": "This script checks for the presence of the **CVE-2025-20281** vulnerability in Cisco Identity Services Engine (ISE) and ISE-PIC, which allows **unauthenticated remote code execution (RCE)** as root due to insufficient input validation in a specific API.",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T02:10:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-48061",
+      "repo_info": "[BwithE/CVE-2024-48061](https://github.com/BwithE/CVE-2024-48061)",
+      "description": "CVE-2024-48061 - poc",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T19:51:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-43110",
+      "repo_info": "[ready2disclose/CVE-2022-43110](https://github.com/ready2disclose/CVE-2022-43110)",
+      "description": "CVE-2022-43110",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T05:18:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-31491",
+      "repo_info": "[ready2disclose/CVE-2022-31491](https://github.com/ready2disclose/CVE-2022-31491)",
+      "description": "CVE-2022-31491",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T05:15:55Z"
+    },
+    {
+      "cve_id": "CVE-2018-4386",
+      "repo_info": "[a0zhar/Bad_Hoist-WriteUp](https://github.com/a0zhar/Bad_Hoist-WriteUp)",
+      "description": "A Writeup for Sleirsgoevy&#x27;s version of the Exploit Implementation of CVE-2018-4386 by Fire30 called Bad_Hoist",
+      "date": "2025-07-03",
+      "raw_date": "2025-07-03T14:22:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.399821",
+  "metadata": {
+    "total_cves": 25,
+    "date_range": "2025-07-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

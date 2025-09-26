@@ -1,0 +1,41 @@
+{
+  "date": "2017-07-07",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-4490",
+      "repo_info": "[homjxi0e/CVE-2017-4490-install-Script-Python-in-Terminal-](https://github.com/homjxi0e/CVE-2017-4490-install-Script-Python-in-Terminal-)",
+      "description": "no description",
+      "date": "2017-07-07",
+      "raw_date": "2017-07-07T20:21:51Z"
+    },
+    {
+      "cve_id": "CVE-2017-4490",
+      "repo_info": "[dragoneeg/Struts2-048](https://github.com/dragoneeg/Struts2-048)",
+      "description": "CVE-2017-9791",
+      "date": "2017-07-07",
+      "raw_date": "2017-07-07T18:27:31Z"
+    },
+    {
+      "cve_id": "CVE-2017-4490",
+      "repo_info": "[IanSmith123/s2-048](https://github.com/IanSmith123/s2-048)",
+      "description": "Apache struts struts 2 048, CVE-2017-9791.",
+      "date": "2017-07-07",
+      "raw_date": "2017-07-07T12:35:55Z"
+    },
+    {
+      "cve_id": "CVE-2014-1303",
+      "repo_info": "[RKX1209/CVE-2014-1303](https://github.com/RKX1209/CVE-2014-1303)",
+      "description": "CVE-2014-1303 (WebKit Heap based BOF) proof of concept for Linux",
+      "date": "2017-07-07",
+      "raw_date": "2017-07-07T06:15:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.950809",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-07-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

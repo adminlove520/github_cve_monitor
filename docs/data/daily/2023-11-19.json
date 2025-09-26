@@ -1,0 +1,34 @@
+{
+  "date": "2023-11-19",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4357",
+      "repo_info": "[OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation](https://github.com/OgulcanUnveren/CVE-2023-4357-APT-Style-exploitation)",
+      "description": "Apt style exploitation of Chrome 0day CVE-2023-4357",
+      "date": "2023-11-19",
+      "raw_date": "2023-11-19T22:20:10Z"
+    },
+    {
+      "cve_id": "CVE-2019-0567",
+      "repo_info": "[NatteeSetobol/Chakra-CVE-2019-0567](https://github.com/NatteeSetobol/Chakra-CVE-2019-0567)",
+      "description": "A POC of a type confusion bug in chakracore framework that leads to code execute.",
+      "date": "2023-11-19",
+      "raw_date": "2023-11-19T07:58:34Z"
+    },
+    {
+      "cve_id": "CVE-2014-9690",
+      "repo_info": "[ForceFledgling/CVE-2014-9690](https://github.com/ForceFledgling/CVE-2014-9690)",
+      "description": "WPS PIN Offline Brute Force Cracking Vulnerability in Huawei Home Gateway Products",
+      "date": "2023-11-19",
+      "raw_date": "2023-11-19T16:34:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.295601",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2023-11-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

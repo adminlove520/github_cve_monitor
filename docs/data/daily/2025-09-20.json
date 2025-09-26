@@ -1,0 +1,104 @@
+{
+  "date": "2025-09-20",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9074",
+      "repo_info": "[pucagit/CVE-2025-9074](https://github.com/pucagit/CVE-2025-9074)",
+      "description": "no description",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T03:31:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-57515",
+      "repo_info": "[sanchitsahni/CVE-2025-57515](https://github.com/sanchitsahni/CVE-2025-57515)",
+      "description": "Uniclare Student Portal is an online platform providing students access to academic resources and administrative functions, including grades, course materials, assignment submission, instructor communication, class registration, and personal information management. It streamlines processes and enhances the student experience.",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T06:49:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-55887",
+      "repo_info": "[amalpvatayam67/day08-CISCO-fmc-sim](https://github.com/amalpvatayam67/day08-CISCO-fmc-sim)",
+      "description": "This is a minimal, educational simulation that demonstrates the _impact_ class of a management-plane parsing RCE (inspired by CVE-2025-20265). It intentionally executes commands from crafted input for local learning only.",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T10:15:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-55885",
+      "repo_info": "[0xZeroSec/CVE-2025-55885](https://github.com/0xZeroSec/CVE-2025-55885)",
+      "description": "no description",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T11:56:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[mihnasdsad/CVE-2025-32463](https://github.com/mihnasdsad/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T02:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[Soham-id/2025hvv](https://github.com/Soham-id/2025hvv)",
+      "description": "🛡️ Exploit Akamai&#x27;s RepositoryService XXE vulnerability (CVE-2025-49493) with this testbed, aiding in secure coding practices and vulnerability assessments.",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T01:50:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[ashardev002/CVE-2025-32463_chwoot](https://github.com/ashardev002/CVE-2025-32463_chwoot)",
+      "description": "🔍 Demonstrate the CVE-2025-32463 privilege-escalation flaw in sudo&#x27;s chroot feature with this minimal, reproducible proof of concept environment.",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T00:42:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[At0mXploit/CVE-2025-32463](https://github.com/At0mXploit/CVE-2025-32463)",
+      "description": "Sudo before 1.9.17p1 allows local users to obtain root access because /etc/nsswitch.conf from a user-controlled directory is used with the --chroot option.",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T20:13:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[sdrtba/CVE-2025-29927](https://github.com/sdrtba/CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T08:12:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-10035",
+      "repo_info": "[rxerium/CVE-2025-10035](https://github.com/rxerium/CVE-2025-10035)",
+      "description": "Detection for CVE-2025-10035",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T07:35:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public](https://github.com/Titus-soc/-CVE-2024-3094-Vulnerability-Checker-Fixer-Public)",
+      "description": "no description",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T11:09:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[RelicHunt3r/swagger-ui](https://github.com/RelicHunt3r/swagger-ui)",
+      "description": "POC for Testing HTML Injection in Swagger UI (CVE-2018-25031).",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T20:17:10Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[rh007pt/swagger-ui](https://github.com/rh007pt/swagger-ui)",
+      "description": "POC for Testing HTML Injection in Swagger UI (CVE-2018-25031).",
+      "date": "2025-09-20",
+      "raw_date": "2025-09-20T19:20:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.417384",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-09-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

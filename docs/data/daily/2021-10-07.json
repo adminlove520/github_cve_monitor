@@ -1,0 +1,34 @@
+{
+  "date": "2021-10-07",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[noflowpls/CVE-2021-41773](https://github.com/noflowpls/CVE-2021-41773)",
+      "description": "CVE-2021-41773",
+      "date": "2021-10-07",
+      "raw_date": "2021-10-07T12:30:13Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[justakazh/mass_cve-2021-41773](https://github.com/justakazh/mass_cve-2021-41773)",
+      "description": "MASS CVE-2021-41773",
+      "date": "2021-10-07",
+      "raw_date": "2021-10-07T15:13:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[febinrev/CVE-2019-6447-ESfile-explorer-exploit](https://github.com/febinrev/CVE-2019-6447-ESfile-explorer-exploit)",
+      "description": "ES File Explorer v4.1.9.7.4 Open port vulnerability exploit. CVE-2019-6447",
+      "date": "2021-10-07",
+      "raw_date": "2021-10-07T13:41:06Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.105573",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-10-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

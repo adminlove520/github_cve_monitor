@@ -1,0 +1,41 @@
+{
+  "date": "2019-10-16",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[s1kr10s/D-Link-DIR-859-RCE](https://github.com/s1kr10s/D-Link-DIR-859-RCE)",
+      "description": "D-Link DIR-859 - RCE UnAutenticated (CVE-2019–17621)",
+      "date": "2019-10-16",
+      "raw_date": "2019-10-16T15:32:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[fastmo/CVE-2019-11932](https://github.com/fastmo/CVE-2019-11932)",
+      "description": "Programa para hackear Whatsapp Mediante Gif ,asiendo un exploit con el puerto.",
+      "date": "2019-10-16",
+      "raw_date": "2019-10-16T20:13:23Z"
+    },
+    {
+      "cve_id": "CVE-2017-18635",
+      "repo_info": "[ShielderSec/CVE-2017-18635](https://github.com/ShielderSec/CVE-2017-18635)",
+      "description": "PoC for CVE-2017-18635",
+      "date": "2019-10-16",
+      "raw_date": "2019-10-16T21:27:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-17562",
+      "repo_info": "[ivanitlearning/CVE-2017-17562](https://github.com/ivanitlearning/CVE-2017-17562)",
+      "description": "Standalone Python 3 exploit for CVE-2017-17562",
+      "date": "2019-10-16",
+      "raw_date": "2019-10-16T16:28:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.029727",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-10-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

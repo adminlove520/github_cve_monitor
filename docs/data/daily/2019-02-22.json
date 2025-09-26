@@ -1,0 +1,41 @@
+{
+  "date": "2019-02-22",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[WyAtu/CVE-2018-20250](https://github.com/WyAtu/CVE-2018-20250)",
+      "description": "exp for https://research.checkpoint.com/extracting-code-execution-from-winrar",
+      "date": "2019-02-22",
+      "raw_date": "2019-02-22T04:52:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[blunden/UNACEV2.DLL-CVE-2018-20250](https://github.com/blunden/UNACEV2.DLL-CVE-2018-20250)",
+      "description": "A version of the binary patched to address CVE-2018-20250",
+      "date": "2019-02-22",
+      "raw_date": "2019-02-22T14:19:20Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[nmweizi/CVE-2018-20250-poc-winrar](https://github.com/nmweizi/CVE-2018-20250-poc-winrar)",
+      "description": "no description",
+      "date": "2019-02-22",
+      "raw_date": "2019-02-22T13:18:14Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[QAX-A-Team/CVE-2018-20250](https://github.com/QAX-A-Team/CVE-2018-20250)",
+      "description": "010 Editor template for ACE archive format &amp; CVE-2018-2025[0-3]",
+      "date": "2019-02-22",
+      "raw_date": "2019-02-22T06:47:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.007724",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-02-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

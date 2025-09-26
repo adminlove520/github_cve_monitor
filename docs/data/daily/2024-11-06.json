@@ -1,0 +1,76 @@
+{
+  "date": "2024-11-06",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-50340",
+      "repo_info": "[Nyamort/CVE-2024-50340](https://github.com/Nyamort/CVE-2024-50340)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T21:24:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-49328",
+      "repo_info": "[RandomRobbieBF/CVE-2024-49328](https://github.com/RandomRobbieBF/CVE-2024-49328)",
+      "description": "WP REST API FNS &lt;= 1.0.0 - Privilege Escalation",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T16:25:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[BTtea/CVE-2024-4577-RCE-PoC](https://github.com/BTtea/CVE-2024-4577-RCE-PoC)",
+      "description": "CVE-2024-4577 RCE PoC",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T05:30:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[pedrochalegre7/CVE-2024-4367-pdf-sample](https://github.com/pedrochalegre7/CVE-2024-4367-pdf-sample)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T19:15:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-2598",
+      "repo_info": "[LLfam/CVE-2023-2598](https://github.com/LLfam/CVE-2023-2598)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T21:24:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-25813",
+      "repo_info": "[pbj2647/CVE-2023-25813](https://github.com/pbj2647/CVE-2023-25813)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T04:28:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-8321",
+      "repo_info": "[SatheeshGitHub575/external_curl_CVE-2020-8321](https://github.com/SatheeshGitHub575/external_curl_CVE-2020-8321)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T05:30:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-24370",
+      "repo_info": "[RenukaSelvar/lua_CVE-2020-24370_AfterPatch](https://github.com/RenukaSelvar/lua_CVE-2020-24370_AfterPatch)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T10:09:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-24370",
+      "repo_info": "[RenukaSelvar/lua_CVE-2020-24370](https://github.com/RenukaSelvar/lua_CVE-2020-24370)",
+      "description": "no description",
+      "date": "2024-11-06",
+      "raw_date": "2024-11-06T09:38:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.356082",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-11-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

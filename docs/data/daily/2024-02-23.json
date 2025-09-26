@@ -1,0 +1,62 @@
+{
+  "date": "2024-02-23",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25227",
+      "repo_info": "[thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227](https://github.com/thetrueartist/ABO.CMS-Login-SQLi-CVE-2024-25227)",
+      "description": "no description",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T16:46:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-22234",
+      "repo_info": "[shellfeel/CVE-2024-22243-CVE-2024-22234](https://github.com/shellfeel/CVE-2024-22243-CVE-2024-22234)",
+      "description": "env of CVE-2024-22243&amp;CVE-2024-22234",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T10:09:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/ahmetkarakayaoffical/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability)",
+      "description": "Bu betik, Microsoft Outlook&#x27;ta keşfedilen ve CVSS değeri 9.8 olan önemli bir güvenlik açığı olan CVE-2024-21413 için bir kavram kanıtı (PoC) sunmaktadır. MonikerLink hatası olarak adlandırılan bu güvenlik açığı, yerel NTLM bilgilerinin potansiyel sızıntısı ve uzaktan kod çalıştırma olasılığı dahil olmak üzere geniş kapsamlı etkilere sahiptir.",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T12:13:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-1709",
+      "repo_info": "[HussainFathy/CVE-2024-1709](https://github.com/HussainFathy/CVE-2024-1709)",
+      "description": "A Scanner for CVE-2024-1709 - ConnectWise SecureConnect Authentication Bypass Vulnerability",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T17:26:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-1651",
+      "repo_info": "[sharpicx/CVE-2024-1651-PoC](https://github.com/sharpicx/CVE-2024-1651-PoC)",
+      "description": "Torrentpier v2.4.1. CVE-2024-1651. Remote Code Execution (RCE).",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T11:04:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-36730",
+      "repo_info": "[RandomRobbieBF/CVE-2020-36730](https://github.com/RandomRobbieBF/CVE-2020-36730)",
+      "description": "CMP - Coming Soon &amp; Maintenance &lt; 3.8.2 - Improper Access Controls on AJAX Calls (Subscriber+)",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T15:29:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[hungdnvp/POC-CVE-2020-0796](https://github.com/hungdnvp/POC-CVE-2020-0796)",
+      "description": "no description",
+      "date": "2024-02-23",
+      "raw_date": "2024-02-23T08:41:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.310569",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-02-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2020-04-10",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-6207",
+      "repo_info": "[DimitriFourny/cve-2019-6207](https://github.com/DimitriFourny/cve-2019-6207)",
+      "description": "MacOS kernel memory leak (4 bytes)",
+      "date": "2020-04-10",
+      "raw_date": "2020-04-10T14:30:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-12386",
+      "repo_info": "[0xLyte/cve-2018-12386](https://github.com/0xLyte/cve-2018-12386)",
+      "description": "CVE-2018-12386 - Firefox Sandboxed RCE Exploit for Linux (Firefox &lt;v62.0.3)",
+      "date": "2020-04-10",
+      "raw_date": "2020-04-10T11:59:15Z"
+    },
+    {
+      "cve_id": "CVE-2017-11176",
+      "repo_info": "[c3r34lk1ll3r/CVE-2017-11176](https://github.com/c3r34lk1ll3r/CVE-2017-11176)",
+      "description": "Code execution for CVE-2017-11176",
+      "date": "2020-04-10",
+      "raw_date": "2020-04-10T12:44:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.047220",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

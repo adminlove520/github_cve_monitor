@@ -1,0 +1,20 @@
+{
+  "date": "2017-07-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2028",
+      "repo_info": "[ninj4c0d3r/ShellEvil](https://github.com/ninj4c0d3r/ShellEvil)",
+      "description": "Struts 2 DefaultActionMapper Interactive Shell Exploit for CVE-2013-225  [S2-016]",
+      "date": "2017-07-05",
+      "raw_date": "2017-07-05T06:44:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.950645",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-07-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

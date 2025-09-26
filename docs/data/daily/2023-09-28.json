@@ -1,0 +1,118 @@
+{
+  "date": "2023-09-28",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4683",
+      "repo_info": "[Songg45/CVE-2023-4683-Test](https://github.com/Songg45/CVE-2023-4683-Test)",
+      "description": "CVE-2023-4683 - Test",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T20:49:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-44771",
+      "repo_info": "[sromanhu/CVE-2023-44771_ZenarioCMS--Stored-XSS---Page-Layout](https://github.com/sromanhu/CVE-2023-44771_ZenarioCMS--Stored-XSS---Page-Layout)",
+      "description": "Zenariocms 9.4.59197 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Page Layout",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T23:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-44770",
+      "repo_info": "[sromanhu/CVE-2023-44770_ZenarioCMS--Reflected-XSS---Organizer-Alias](https://github.com/sromanhu/CVE-2023-44770_ZenarioCMS--Reflected-XSS---Organizer-Alias)",
+      "description": "Zenariocms 9.4.59197 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Spare alias from organizer.",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T23:18:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-44769",
+      "repo_info": "[sromanhu/CVE-2023-44769_ZenarioCMS--Reflected-XSS---Alias](https://github.com/sromanhu/CVE-2023-44769_ZenarioCMS--Reflected-XSS---Alias)",
+      "description": "Zenariocms 9.4.59197 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload to the Spare aliases from Alias.",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T23:08:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-43770",
+      "repo_info": "[knight0x07/CVE-2023-43770-PoC](https://github.com/knight0x07/CVE-2023-43770-PoC)",
+      "description": "PoC for Stored XSS (CVE-2023-43770) Vulnerability",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T13:43:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-43261",
+      "repo_info": "[win3zz/CVE-2023-43261](https://github.com/win3zz/CVE-2023-43261)",
+      "description": "CVE-2023-43261 - Credential Leakage Through Unprotected System Logs and Weak Password Encryption",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T08:45:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-43115",
+      "repo_info": "[jostaub/ghostscript-CVE-2023-43115](https://github.com/jostaub/ghostscript-CVE-2023-43115)",
+      "description": "A small write-up with examples to understand CVE-2023-43115",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T17:30:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-42820",
+      "repo_info": "[h4m5t/CVE-2023-42820](https://github.com/h4m5t/CVE-2023-42820)",
+      "description": "no description",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T17:16:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-37073",
+      "repo_info": "[Hamza0X/CVE-2023-37073](https://github.com/Hamza0X/CVE-2023-37073)",
+      "description": "Telnet default credentials can lead to information disclosure and denial-of-service (DoS) attacks.",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T19:26:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-37073",
+      "repo_info": "[skulkarni-mv/goIssue_kirkstone](https://github.com/skulkarni-mv/goIssue_kirkstone)",
+      "description": "go CVE-2023-24538 patch issue resolver - Kirkstone",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T17:01:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-36884",
+      "repo_info": "[jakabakos/CVE-2023-36884-MS-Office-HTML-RCE](https://github.com/jakabakos/CVE-2023-36884-MS-Office-HTML-RCE)",
+      "description": "MS Office and Windows HTML RCE (CVE-2023-36884) - PoC and exploit",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T11:53:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-36723",
+      "repo_info": "[Wh04m1001/CVE-2023-36723](https://github.com/Wh04m1001/CVE-2023-36723)",
+      "description": "no description",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T21:20:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-34040",
+      "repo_info": "[pyn3rd/CVE-2023-34040](https://github.com/pyn3rd/CVE-2023-34040)",
+      "description": "Spring-Kafka-Deserialization-Remote-Code-Execution",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T11:18:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-20209",
+      "repo_info": "[peter5he1by/CVE-2023-20209](https://github.com/peter5he1by/CVE-2023-20209)",
+      "description": "no description",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T15:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-1386",
+      "repo_info": "[zycoder0day/CVE-2022-1386-Mass_Vulnerability](https://github.com/zycoder0day/CVE-2022-1386-Mass_Vulnerability)",
+      "description": "no description",
+      "date": "2023-09-28",
+      "raw_date": "2023-09-28T11:55:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.286572",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2023-09-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

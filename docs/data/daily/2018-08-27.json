@@ -1,0 +1,20 @@
+{
+  "date": "2018-08-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4330",
+      "repo_info": "[Ekultek/Strutter](https://github.com/Ekultek/Strutter)",
+      "description": "Proof of Concept for CVE-2018-11776",
+      "date": "2018-08-27",
+      "raw_date": "2018-08-27T17:22:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.989488",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-08-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

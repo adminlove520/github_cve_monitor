@@ -1,0 +1,34 @@
+{
+  "date": "2018-11-20",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[ngyanch/4062-1](https://github.com/ngyanch/4062-1)",
+      "description": "CVE-2008-0128",
+      "date": "2018-11-20",
+      "raw_date": "2018-11-20T16:26:21Z"
+    },
+    {
+      "cve_id": "CVE-2018-19592",
+      "repo_info": "[BradyDonovan/CVE-2018-19592](https://github.com/BradyDonovan/CVE-2018-19592)",
+      "description": "no description",
+      "date": "2018-11-20",
+      "raw_date": "2018-11-20T06:51:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-16943",
+      "repo_info": "[beraphin/CVE-2017-16943](https://github.com/beraphin/CVE-2017-16943)",
+      "description": "no description",
+      "date": "2018-11-20",
+      "raw_date": "2018-11-20T09:46:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:28.998237",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-11-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2023-12-28",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-51764",
+      "repo_info": "[eeenvik1/CVE-2023-51764](https://github.com/eeenvik1/CVE-2023-51764)",
+      "description": "PoC CVE-2023-51764",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T06:20:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[siyi-star/CVE-2023-51385_test-star-main](https://github.com/siyi-star/CVE-2023-51385_test-star-main)",
+      "description": "CVE-2023-51385_test-star-main",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T16:56:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-48974",
+      "repo_info": "[vinnie1717/CVE-2023-48974](https://github.com/vinnie1717/CVE-2023-48974)",
+      "description": "no description",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T23:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-46344",
+      "repo_info": "[vinnie1717/CVE-2023-46344](https://github.com/vinnie1717/CVE-2023-46344)",
+      "description": "no description",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T23:29:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-36025",
+      "repo_info": "[coolman6942o/-EXPLOIT-CVE-2023-36025](https://github.com/coolman6942o/-EXPLOIT-CVE-2023-36025)",
+      "description": "Windows SmartScreen Security Feature Bypass Vulnerability",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T23:29:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[MasterCode112/CVE-2023-27163](https://github.com/MasterCode112/CVE-2023-27163)",
+      "description": "Proof of Concept for Server Side Request Forgery (SSRF) in request-baskets (V&lt;= v.1.2.1)",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T11:36:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-25194",
+      "repo_info": "[YongYe-Security/CVE-2023-25194](https://github.com/YongYe-Security/CVE-2023-25194)",
+      "description": "CVE-2023-25194 Scan",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T04:24:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-24955",
+      "repo_info": "[former-farmer/CVE-2023-24955-PoC](https://github.com/former-farmer/CVE-2023-24955-PoC)",
+      "description": "Exploit for Microsoft SharePoint 2019",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T09:08:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[ducnorth2712/CVE-2023-23397](https://github.com/ducnorth2712/CVE-2023-23397)",
+      "description": "no description",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T02:20:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-36267",
+      "repo_info": "[scabench/jsonorg-fp1](https://github.com/scabench/jsonorg-fp1)",
+      "description": "simple application with a (unreachable!) CVE-2022-45688 vulnerability",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T23:52:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[xmqaq/CVE-2022-22963](https://github.com/xmqaq/CVE-2022-22963)",
+      "description": "CVE-2022-22963-poc",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T06:58:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[solomon12354/CVE-2022-0847-Dirty_Pipe_virus](https://github.com/solomon12354/CVE-2022-0847-Dirty_Pipe_virus)",
+      "description": "no description",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T16:52:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-22986",
+      "repo_info": "[huydung26/CVE-2021-22986](https://github.com/huydung26/CVE-2021-22986)",
+      "description": "Custom POC of CVE-2021-22986 by Al1ex@Heptagram",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T01:49:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[substing/CVE-2019-11447_reverse_shell_upload](https://github.com/substing/CVE-2019-11447_reverse_shell_upload)",
+      "description": "no description",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T19:11:09Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[stevenlutfi/Cve-2019](https://github.com/stevenlutfi/Cve-2019)",
+      "description": "no description",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T13:38:52Z"
+    },
+    {
+      "cve_id": "CVE-2006-2842",
+      "repo_info": "[karthi-the-hacker/CVE-2006-2842](https://github.com/karthi-the-hacker/CVE-2006-2842)",
+      "description": "CVE-2006-2842 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications.",
+      "date": "2023-12-28",
+      "raw_date": "2023-12-28T15:17:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.301555",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2023-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

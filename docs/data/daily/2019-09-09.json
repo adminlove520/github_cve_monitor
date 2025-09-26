@@ -1,0 +1,27 @@
+{
+  "date": "2019-09-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[BishopFox/pwn-pulse](https://github.com/BishopFox/pwn-pulse)",
+      "description": "Exploit for Pulse Connect Secure SSL VPN arbitrary file read vulnerability (CVE-2019-11510)",
+      "date": "2019-09-09",
+      "raw_date": "2019-09-09T15:58:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-16748",
+      "repo_info": "[GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara](https://github.com/GainSec/CVE-2017-16744-and-CVE-2017-16748-Tridium-Niagara)",
+      "description": "Proof of Concept (PoC) for  CVE: 2017-16744 and 2017-16748",
+      "date": "2019-09-09",
+      "raw_date": "2019-09-09T19:08:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.026139",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-09-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

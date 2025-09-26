@@ -1,0 +1,83 @@
+{
+  "date": "2024-11-25",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9659",
+      "repo_info": "[zetraxz/CVE-2024-9659](https://github.com/zetraxz/CVE-2024-9659)",
+      "description": "CVE-2024-9659: Unrestricted Upload of File with Dangerous Type (CWE-434)",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T19:16:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-56331",
+      "repo_info": "[griisemine/CVE-2024-56331](https://github.com/griisemine/CVE-2024-56331)",
+      "description": "no description",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T08:16:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-52430",
+      "repo_info": "[RandomRobbieBF/CVE-2024-52430](https://github.com/RandomRobbieBF/CVE-2024-52430)",
+      "description": "Lis Video Gallery &lt;= 0.2.1 - Unauthenticated PHP Object Injection",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T13:55:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-52380",
+      "repo_info": "[RandomRobbieBF/CVE-2024-52380](https://github.com/RandomRobbieBF/CVE-2024-52380)",
+      "description": "Picsmize &lt;= 1.0.0 - Unauthenticated Arbitrary File Upload",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T14:56:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-5057",
+      "repo_info": "[g1thubb004/poc-CVE-2024-5057](https://github.com/g1thubb004/poc-CVE-2024-5057)",
+      "description": "poc-CVE-2024-5057",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T23:10:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-50395",
+      "repo_info": "[neko-hat/CVE-2024-50395](https://github.com/neko-hat/CVE-2024-50395)",
+      "description": "no description",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T06:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[ally-petitt/CVE-2024-48990-Exploit](https://github.com/ally-petitt/CVE-2024-48990-Exploit)",
+      "description": "My exploit for CVE-2024-48990. Full details of how I made this are on my blog.",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T05:28:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-26360",
+      "repo_info": "[issamjr/CVE-2023-26360](https://github.com/issamjr/CVE-2023-26360)",
+      "description": "CVE-2023-26360 - Adobe Coldfusion",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T17:42:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[madbaiu/CVE-2022-30190](https://github.com/madbaiu/CVE-2022-30190)",
+      "description": "CVE-2022-30190 Proof-Of-Concept",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T11:55:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[wubinworks/magento2-template-filter-patch](https://github.com/wubinworks/magento2-template-filter-patch)",
+      "description": "Magento 2 patch for CVE-2022-24086. Fix the RCE vulnerability and related bugs by performing deep template variable escaping. If you cannot upgrade Magento or cannot apply the official patches, try this one.",
+      "date": "2024-11-25",
+      "raw_date": "2024-11-25T06:56:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T13:48:29.359839",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-11-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
