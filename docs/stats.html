@@ -338,7 +338,7 @@
       
       try {
         // 从缓存的JSON文件读取数据
-        const cacheResponse = await fetch('./Data/cache/stats.json');
+        const cacheResponse = await fetch('./data/cache/stats.json');
         
         if (cacheResponse.ok) {
           const statsData = await cacheResponse.json();
@@ -977,7 +977,7 @@
           const date = new Date(today);
           date.setDate(date.getDate() - i);
           const dateStr = date.toISOString().split('T')[0];
-          const fileName = `Data/daily/${dateStr}.json`;
+          const fileName = `data/daily/${dateStr}.json`;
           
           try {
             const response = await fetch(fileName);
@@ -1118,7 +1118,7 @@
         html += `
           <div style="margin-top: 15px; padding: 12px; background: #f8d7da; border-radius: 8px; border-left: 4px solid #dc3545; font-size: 0.9em; color: #721c24;">
             <strong>⚠️ 数据来源：</strong> HTTP 404 - 所有数据文件都不存在。这是正常的，表示数据尚未上传到远程仓库。
-            ${last404Date ? `最后尝试的文件：Data/daily/${last404Date}.json` : ''}
+            ${last404Date ? `最后尝试的文件：data/daily/${last404Date}.json` : ''}
           </div>
         `;
       }

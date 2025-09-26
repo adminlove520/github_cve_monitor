@@ -147,7 +147,7 @@ jobs:
               stats['generated_at'] = datetime.utcnow().isoformat()
               
               # 保存到文件
-              with open('docs/Data/cache/stats.json', 'w', encoding='utf-8') as f:
+              with open('docs/data/cache/stats.json', 'w', encoding='utf-8') as f:
                   json.dump(stats, f, ensure_ascii=False, indent=2)
               
               print('✅ 统计数据获取成功')
@@ -259,7 +259,7 @@ jobs:
                   })
               
               # 保存到文件
-              with open('docs/Data/cache/stats.json', 'w', encoding='utf-8') as f:
+              with open('docs/data/cache/stats.json', 'w', encoding='utf-8') as f:
                   json.dump(fallback_stats, f, ensure_ascii=False, indent=2)
               print('✅ 已保存基于本地文件系统的统计数据')
           """
@@ -348,7 +348,7 @@ jobs:
               }
               
               # 保存到文件
-              with open('docs/Data/cache/reports.json', 'w', encoding='utf-8') as f:
+              with open('docs/data/cache/reports.json', 'w', encoding='utf-8') as f:
                   json.dump(result, f, ensure_ascii=False, indent=2)
               
               print(f'✅ 每日报告数据获取成功，共 {len(reports_data)} 条报告')
@@ -430,7 +430,7 @@ jobs:
                   'is_fallback': True,
                   'source': 'local_scan'
               }
-              with open('docs/Data/cache/reports.json', 'w', encoding='utf-8') as f:
+              with open('docs/data/cache/reports.json', 'w', encoding='utf-8') as f:
                   json.dump(fallback_data, f, ensure_ascii=False, indent=2)
               print(f'✅ 已保存备用报告数据，包含 {len(fallback_reports)} 条真实报告信息')
           """
@@ -441,7 +441,7 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # 添加所有变更的文件
-          git add docs/Data/cache/
+          git add docs/data/cache/
           
           # 检查是否有变更
           if git diff --cached --quiet; then

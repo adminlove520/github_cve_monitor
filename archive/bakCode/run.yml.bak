@@ -25,7 +25,7 @@ jobs:
           }
           EOF
           
-          cat > docs/Data/config.json << EOF
+          cat > docs/dataconfig.json << EOF
           {
             "github_token": "${{ secrets.GH_TOKEN }}",
             "api_base_url": "https://api.github.com",
@@ -75,13 +75,13 @@ jobs:
       #     
       #     # #### Week 38
       #     
-      #     # - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/#/Data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
+      #     # - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/#/data${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
       #     # EOF
       #     
       #     # # 添加历史报告链接
       #     # if [ -d "../docs/Data" ]; then
       #     #   echo "" >> "每日报告.md"
-      #     #   for dir in ../docs/Data/*/; do
+      #     #   for dir in ../docs/data*/; do
       #     #     if [ -d "$dir" ]; then
       #     #       dir_name=$(basename "$dir")
       #     #       if [ "$dir_name" != "${WEEK_STR}" ]; then
@@ -89,7 +89,7 @@ jobs:
       #     #           if [ -f "$file" ]; then
       #     #             file_name=$(basename "$file" .md)
       #     #             date_part=$(echo "$file_name" | sed 's/daily_//' | sed 's/\(.\{4\}\)\(.\{2\}\)\(.\{2\}\)/\1-\2-\3/')
-      #     #             echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/#/Data/$dir_name/$file_name.md)" >> "每日报告.md"
+      #     #             echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/#/data$dir_name/$file_name.md)" >> "每日报告.md"
       #     #           fi
       #     #         done
       #     #       fi

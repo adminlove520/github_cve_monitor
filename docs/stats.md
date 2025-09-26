@@ -12,8 +12,8 @@
    - 使用安全存储的GitHub Token（`secrets.GH_TOKEN`）
 
 2. **前端无Token访问**
-   - 统计页面从`docs/Data/cache/stats.json`读取数据
-   - 每日报告页面从`docs/Data/cache/reports.json`读取数据
+   - 统计页面从`docs/data/cache/stats.json`读取数据
+   - 每日报告页面从`docs/data/cache/reports.json`读取数据
    - 完全移除前端代码中的Token引用
 
 3. **缓存机制**
