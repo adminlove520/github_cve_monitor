@@ -1,0 +1,69 @@
+{
+  "date": "2022-07-20",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[AkbarTrilaksana/cve-2022-33891](https://github.com/AkbarTrilaksana/cve-2022-33891)",
+      "description": "no description",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T22:52:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-29078",
+      "repo_info": "[miko550/CVE-2022-29078](https://github.com/miko550/CVE-2022-29078)",
+      "description": "vuln ejs 3.1.6 docker",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T10:10:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[keven1z/CVE-2021-22205](https://github.com/keven1z/CVE-2021-22205)",
+      "description": "CVE-2021-22205 检测脚本,支持getshell和命令执行",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T16:57:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-0188",
+      "repo_info": "[Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33](https://github.com/Nivaskumark/packages_apps_Settings_CVE-2020-0188_A10_R33)",
+      "description": "no description",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T04:04:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-17621",
+      "repo_info": "[Ler2sq/CVE-2019-17621](https://github.com/Ler2sq/CVE-2019-17621)",
+      "description": "CVE-2019-17621 DLink_RCE",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T09:39:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-19246",
+      "repo_info": "[NeoWans/CVE-2018-19246](https://github.com/NeoWans/CVE-2018-19246)",
+      "description": "no description",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T13:06:26Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[201646613/CVE-2017-7921](https://github.com/201646613/CVE-2017-7921)",
+      "description": "CVE-2017-7921-EXP Hikvision camera",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T07:07:07Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[mr-l0n3lly/CVE-2007-2447](https://github.com/mr-l0n3lly/CVE-2007-2447)",
+      "description": "CVE-2007-2447 samba remote code execution",
+      "date": "2022-07-20",
+      "raw_date": "2022-07-20T08:11:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.904609",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-07-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

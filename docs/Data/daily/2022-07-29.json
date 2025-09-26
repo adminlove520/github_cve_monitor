@@ -1,0 +1,48 @@
+{
+  "date": "2022-07-29",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-34970",
+      "repo_info": "[0xhebi/CVE-2022-34970](https://github.com/0xhebi/CVE-2022-34970)",
+      "description": "Vulnerability in Crow prior v1.0+4",
+      "date": "2022-07-29",
+      "raw_date": "2022-07-29T00:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-2185",
+      "repo_info": "[ESUAdmin/CVE-2022-2185](https://github.com/ESUAdmin/CVE-2022-2185)",
+      "description": "wo ee cve-2022-2185 gitlab authenticated rce",
+      "date": "2022-07-29",
+      "raw_date": "2022-07-29T11:14:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[Skipper7718/CVE-2022-21449-showcase](https://github.com/Skipper7718/CVE-2022-21449-showcase)",
+      "description": "no description",
+      "date": "2022-07-29",
+      "raw_date": "2022-07-29T16:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-1119",
+      "repo_info": "[z92g/CVE-2022-1119](https://github.com/z92g/CVE-2022-1119)",
+      "description": "WordPress Simple File List FileRead POC",
+      "date": "2022-07-29",
+      "raw_date": "2022-07-29T05:04:26Z"
+    },
+    {
+      "cve_id": "CVE-2015-1427",
+      "repo_info": "[xpgdgit/CVE-2015-1427](https://github.com/xpgdgit/CVE-2015-1427)",
+      "description": "no description",
+      "date": "2022-07-29",
+      "raw_date": "2022-07-29T09:14:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.905873",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-07-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

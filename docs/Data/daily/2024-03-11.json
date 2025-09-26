@@ -1,0 +1,69 @@
+{
+  "date": "2024-03-11",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-29375",
+      "repo_info": "[ismailcemunver/CVE-2024-29375](https://github.com/ismailcemunver/CVE-2024-29375)",
+      "description": "CSV Injection in Addactis IBNRS 3.10.3.107",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T16:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-2856",
+      "repo_info": "[codewhitesec/HttpRemotingObjRefLeak](https://github.com/codewhitesec/HttpRemotingObjRefLeak)",
+      "description": "Additional resources for leaking and exploiting ObjRefs via HTTP .NET Remoting (CVE-2024-29059)",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T10:14:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-28222",
+      "repo_info": "[c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-28222-NetBackup-RCE-exploit)",
+      "description": "Proof of concept CVE-2024-28222 Veritas NetBackup RCE exploit CVSS-9.8",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T13:19:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-28085",
+      "repo_info": "[skyler-ferrante/CVE-2024-28085](https://github.com/skyler-ferrante/CVE-2024-28085)",
+      "description": "WallEscape vulnerability in util-linux",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T00:15:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-27665",
+      "repo_info": "[Thirukrishnan/CVE-2024-27665](https://github.com/Thirukrishnan/CVE-2024-27665)",
+      "description": "no description",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T04:46:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[t4ril/CVE-2024-21762-PoC](https://github.com/t4ril/CVE-2024-21762-PoC)",
+      "description": "CVE-2024-21762 is an out of bounds write vulnerability in fortinet fortios which leads to unauthenticated remote code execution",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T02:31:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[c0d3b3af/CVE-2024-21762-RCE-exploit](https://github.com/c0d3b3af/CVE-2024-21762-RCE-exploit)",
+      "description": "RCE exploit for FortiOS 6.0-7.4.2",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T12:03:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[cleverg0d/CVE-2024-21762-Checker](https://github.com/cleverg0d/CVE-2024-21762-Checker)",
+      "description": "This script performs vulnerability scanning for CVE-2024-21762, a Fortinet SSL VPN remote code execution vulnerability. It checks whether a given server is vulnerable to this CVE by sending specific requests and analyzing the responses.",
+      "date": "2024-03-11",
+      "raw_date": "2024-03-11T12:28:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.075103",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-03-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

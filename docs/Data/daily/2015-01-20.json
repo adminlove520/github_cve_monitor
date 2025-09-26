@@ -1,0 +1,34 @@
+{
+  "date": "2015-01-20",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-4140",
+      "repo_info": "[day6reak/CVE-2014-4140](https://github.com/day6reak/CVE-2014-4140)",
+      "description": "no description",
+      "date": "2015-01-20",
+      "raw_date": "2015-01-20T23:56:14Z"
+    },
+    {
+      "cve_id": "CVE-2014-4109",
+      "repo_info": "[day6reak/CVE-2014-4109](https://github.com/day6reak/CVE-2014-4109)",
+      "description": "no description",
+      "date": "2015-01-20",
+      "raw_date": "2015-01-20T23:35:26Z"
+    },
+    {
+      "cve_id": "CVE-2014-1773",
+      "repo_info": "[day6reak/CVE-2014-1773](https://github.com/day6reak/CVE-2014-1773)",
+      "description": "no description",
+      "date": "2015-01-20",
+      "raw_date": "2015-01-20T23:32:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.632791",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2015-01-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

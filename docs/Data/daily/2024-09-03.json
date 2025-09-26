@@ -1,0 +1,118 @@
+{
+  "date": "2024-09-03",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-45589",
+      "repo_info": "[BenRogozinski/CVE-2024-45589](https://github.com/BenRogozinski/CVE-2024-45589)",
+      "description": "Writeup and proof-of-concept code for CVE-2024-45589",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T03:32:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-44947",
+      "repo_info": "[Abdurahmon3236/CVE-2024-44947](https://github.com/Abdurahmon3236/CVE-2024-44947)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T18:37:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[Brownpanda29/Cve-2024-38063](https://github.com/Brownpanda29/Cve-2024-38063)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T14:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-33453",
+      "repo_info": "[Ant1sec-ops/CVE-2024-33453](https://github.com/Ant1sec-ops/CVE-2024-33453)",
+      "description": "Sensitive Data exposure",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T07:21:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-30875",
+      "repo_info": "[Ant1sec-ops/CVE-2024-30875](https://github.com/Ant1sec-ops/CVE-2024-30875)",
+      "description": "Reflected Cross Site Scripting - RXSS",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T07:11:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[dkhacks/CVE_2024_27198](https://github.com/dkhacks/CVE_2024_27198)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T16:11:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-24809",
+      "repo_info": "[fa-rrel/CVE-2024-24809-Proof-of-concept](https://github.com/fa-rrel/CVE-2024-24809-Proof-of-concept)",
+      "description": "Critical Flaws in Traccar GPS System Expose Users to Remote Attacks",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T09:56:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[BinaryGoodBoy0101/Jenkins-Exploit-CVE-2024-23897-Fsociety](https://github.com/BinaryGoodBoy0101/Jenkins-Exploit-CVE-2024-23897-Fsociety)",
+      "description": "exploit diseñado para aprovechar una vulnerabilidad crítica en Jenkins versiones &lt;= 2.441. La vulnerabilidad, CVE-2024-23897, permite la lectura arbitraria de archivos a través del CLI de Jenkins, lo que puede llevar a la exposición de información sensible o incluso a la ejecución remota de código (RCE) bajo ciertas circunstancias.",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T16:06:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-0049",
+      "repo_info": "[Aakashmom/frameworks_av_android10_r33_CVE-2024-0049](https://github.com/Aakashmom/frameworks_av_android10_r33_CVE-2024-0049)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T12:15:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-0023",
+      "repo_info": "[Aakashmom/frameworks_av_android10_r33_CVE-2024-0023](https://github.com/Aakashmom/frameworks_av_android10_r33_CVE-2024-0023)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T12:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit](https://github.com/0x00-null/Chamilo-CVE-2023-4220-RCE-Exploit)",
+      "description": "(CVE-2023-4220) Chamilo LMS Unauthenticated Big Upload File Remote Code Execution",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T12:16:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[CuriousLearnerDev/ColdFusion_EXp](https://github.com/CuriousLearnerDev/ColdFusion_EXp)",
+      "description": "Adobe ColdFusion CVE-2023-26360/CVE-2023-29298 自动化实现反弹",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T09:53:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[Raffli-Dev/CVE-2023-41425](https://github.com/Raffli-Dev/CVE-2023-41425)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T09:59:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-26785",
+      "repo_info": "[Ant1sec-ops/CVE-2023-26785](https://github.com/Ant1sec-ops/CVE-2023-26785)",
+      "description": "Authenticated Code execution",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T06:38:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-2648",
+      "repo_info": "[inviewp/-E-Office_CVE-2023-2648](https://github.com/inviewp/-E-Office_CVE-2023-2648)",
+      "description": "no description",
+      "date": "2024-09-03",
+      "raw_date": "2024-09-03T12:01:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.107490",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-09-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

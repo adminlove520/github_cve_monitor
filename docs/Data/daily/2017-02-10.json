@@ -1,0 +1,27 @@
+{
+  "date": "2017-02-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-4117",
+      "repo_info": "[glestel/minion-ticket-bleed-plugin](https://github.com/glestel/minion-ticket-bleed-plugin)",
+      "description": "Minion plugin for checking Ticketbleed (CVE-2016-9244)",
+      "date": "2017-02-10",
+      "raw_date": "2017-02-10T13:17:01Z"
+    },
+    {
+      "cve_id": "CVE-2016-4117",
+      "repo_info": "[EgeBalci/Ticketbleed](https://github.com/EgeBalci/Ticketbleed)",
+      "description": "This is a tool for exploiting Ticketbleed (CVE-2016-9244) vulnerability.",
+      "date": "2017-02-10",
+      "raw_date": "2017-02-10T10:21:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.698939",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-02-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

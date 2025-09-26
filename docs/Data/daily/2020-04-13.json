@@ -1,0 +1,41 @@
+{
+  "date": "2020-04-13",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11707",
+      "repo_info": "[flabbergastedbd/cve-2019-11707](https://github.com/flabbergastedbd/cve-2019-11707)",
+      "description": "https://bugs.chromium.org/p/project-zero/issues/detail?id=1820",
+      "date": "2020-04-13",
+      "raw_date": "2020-04-13T15:11:46Z"
+    },
+    {
+      "cve_id": "CVE-2019-11707",
+      "repo_info": "[chaizeg/CSRF-breach](https://github.com/chaizeg/CSRF-breach)",
+      "description": "Reproduction of CSRF breach CVE-2019-1010054",
+      "date": "2020-04-13",
+      "raw_date": "2020-04-13T20:56:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-11707",
+      "repo_info": "[chaizeg/privilege-escalation-breach](https://github.com/chaizeg/privilege-escalation-breach)",
+      "description": "Reproduction of privilege escalation breach CVE-2019-3010",
+      "date": "2020-04-13",
+      "raw_date": "2020-04-13T20:44:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-19320",
+      "repo_info": "[ASkyeye/CVE-2018-19320](https://github.com/ASkyeye/CVE-2018-19320)",
+      "description": "Exploiting ring0 memcpy-like functionality to disable Driver Signing Enforcement (DSE)",
+      "date": "2020-04-13",
+      "raw_date": "2020-04-13T11:34:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.807882",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-04-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2021-04-25",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-18634",
+      "repo_info": "[edsonjt81/sudo-cve-2019-18634](https://github.com/edsonjt81/sudo-cve-2019-18634)",
+      "description": "no description",
+      "date": "2021-04-25",
+      "raw_date": "2021-04-25T18:53:17Z"
+    },
+    {
+      "cve_id": "CVE-2019-14287",
+      "repo_info": "[edsonjt81/CVE-2019-14287-](https://github.com/edsonjt81/CVE-2019-14287-)",
+      "description": "no description",
+      "date": "2021-04-25",
+      "raw_date": "2021-04-25T18:57:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.848652",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-04-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

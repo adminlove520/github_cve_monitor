@@ -1,0 +1,83 @@
+{
+  "date": "2018-04-03",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2008-6827",
+      "repo_info": "[alt3kx/CVE-2008-6827](https://github.com/alt3kx/CVE-2008-6827)",
+      "description": "Symantec Altiris Client Service 6.8.378 - Local Privilege Escalation",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T00:08:23Z"
+    },
+    {
+      "cve_id": "CVE-2007-6638",
+      "repo_info": "[alt3kx/CVE-2007-6638](https://github.com/alt3kx/CVE-2007-6638)",
+      "description": "March Networks DVR 3204 - Logfile Information Disclosure",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T00:36:34Z"
+    },
+    {
+      "cve_id": "CVE-2007-5036",
+      "repo_info": "[alt3kx/CVE-2007-5036](https://github.com/alt3kx/CVE-2007-5036)",
+      "description": "Airsensor M520 - HTTPd Unauthenticated Remote Denial of Service / Buffer Overflow (PoC)",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T01:09:40Z"
+    },
+    {
+      "cve_id": "CVE-2007-3830",
+      "repo_info": "[alt3kx/CVE-2007-3830](https://github.com/alt3kx/CVE-2007-3830)",
+      "description": "IBM Proventia Sensor Appliance - Multiple Input Validation Vulnerabilities",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T01:18:41Z"
+    },
+    {
+      "cve_id": "CVE-2004-2549",
+      "repo_info": "[alt3kx/CVE-2004-2549](https://github.com/alt3kx/CVE-2004-2549)",
+      "description": "Nortel Wireless LAN Access Point 2200 Series - Denial of Service",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T01:30:30Z"
+    },
+    {
+      "cve_id": "CVE-2002-0448",
+      "repo_info": "[alt3kx/CVE-2002-0448](https://github.com/alt3kx/CVE-2002-0448)",
+      "description": "Xerver 2.10 - Multiple Request Denial of Service Vulnerabilities",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T01:38:08Z"
+    },
+    {
+      "cve_id": "CVE-2002-0289",
+      "repo_info": "[alt3kx/CVE-2002-0289](https://github.com/alt3kx/CVE-2002-0289)",
+      "description": "Phusion WebServer 1.0 - 'URL' Remote Buffer Overflow",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T01:52:34Z"
+    },
+    {
+      "cve_id": "CVE-2002-0288",
+      "repo_info": "[alt3kx/CVE-2002-0288](https://github.com/alt3kx/CVE-2002-0288)",
+      "description": "Phusion WebServer 1.0 - Directory Traversal",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T02:06:11Z"
+    },
+    {
+      "cve_id": "CVE-2002-0201",
+      "repo_info": "[alt3kx/CVE-2002-0201](https://github.com/alt3kx/CVE-2002-0201)",
+      "description": "Cyberstop Web Server for Windows 0.1 allows remote attackers to cause a denial of service (crash) and possibly execute arbitrary code via a long HTTP GET request, possibly triggering a buffer overflow.",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T02:15:51Z"
+    },
+    {
+      "cve_id": "CVE-2001-0932",
+      "repo_info": "[alt3kx/CVE-2001-0932](https://github.com/alt3kx/CVE-2001-0932)",
+      "description": "Cooolsoft PowerFTP Server 2.0 3/2.10 - Multiple Denial of Service Vulnerabilities",
+      "date": "2018-04-03",
+      "raw_date": "2018-04-03T02:21:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.737291",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2018-04-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

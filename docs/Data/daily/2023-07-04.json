@@ -1,0 +1,55 @@
+{
+  "date": "2023-07-04",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-24488",
+      "repo_info": "[Abo5/CVE-2023-24488](https://github.com/Abo5/CVE-2023-24488)",
+      "description": "CVE-2023-24488.rb The provided script is a Ruby script used to check and detect the CVE-2023-24488 security vulnerability in Citrix Gateway and Citrix ADC.",
+      "date": "2023-07-04",
+      "raw_date": "2023-07-04T00:29:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-24488",
+      "repo_info": "[securitycipher/CVE-2023-24488](https://github.com/securitycipher/CVE-2023-24488)",
+      "description": "POC for CVE-2023-24488",
+      "date": "2023-07-04",
+      "raw_date": "2023-07-04T18:02:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-46080",
+      "repo_info": "[yerodin/CVE-2022-46080](https://github.com/yerodin/CVE-2022-46080)",
+      "description": "Nexxt Router 15.03.06.60 Authentication Bypass and Remote Command Execution",
+      "date": "2023-07-04",
+      "raw_date": "2023-07-04T08:31:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-23614",
+      "repo_info": "[4rtamis/CVE-2022-23614](https://github.com/4rtamis/CVE-2022-23614)",
+      "description": "Proof of concept for CVE-2022-23614 (command injection in Twig)",
+      "date": "2023-07-04",
+      "raw_date": "2023-07-04T15:52:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[im-suman-roy/CVE-2019-9053](https://github.com/im-suman-roy/CVE-2019-9053)",
+      "description": "This is the Updated Python3 exploit for CVE-2019-9053",
+      "date": "2023-07-04",
+      "raw_date": "2023-07-04T11:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[krypton612/hikivision](https://github.com/krypton612/hikivision)",
+      "description": "CVE-2017-7921 EXPLOIT",
+      "date": "2023-07-04",
+      "raw_date": "2023-07-04T23:22:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.035346",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-07-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

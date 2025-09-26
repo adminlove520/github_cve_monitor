@@ -1,0 +1,41 @@
+{
+  "date": "2020-07-21",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9006",
+      "repo_info": "[s3rgeym/cve-2020-9006](https://github.com/s3rgeym/cve-2020-9006)",
+      "description": "no description",
+      "date": "2020-07-21",
+      "raw_date": "2020-07-21T05:39:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-6287",
+      "repo_info": "[Onapsis/CVE-2020-6287_RECON-scanner](https://github.com/Onapsis/CVE-2020-6287_RECON-scanner)",
+      "description": "no description",
+      "date": "2020-07-21",
+      "raw_date": "2020-07-21T01:22:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-1337",
+      "repo_info": "[math1as/CVE-2020-1337-exploit](https://github.com/math1as/CVE-2020-1337-exploit)",
+      "description": "CVE-2020-1337 Windows Print Spooler Privilege Escalation",
+      "date": "2020-07-21",
+      "raw_date": "2020-07-21T08:01:20Z"
+    },
+    {
+      "cve_id": "CVE-2014-4210",
+      "repo_info": "[unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC](https://github.com/unmanarc/CVE-2014-4210-SSRF-PORTSCANNER-POC)",
+      "description": "CVE-2014-4210 SSRF PORTSCANNER PoC",
+      "date": "2020-07-21",
+      "raw_date": "2020-07-21T03:45:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.818051",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-07-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

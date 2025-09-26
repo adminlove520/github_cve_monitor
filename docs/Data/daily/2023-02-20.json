@@ -1,0 +1,55 @@
+{
+  "date": "2023-02-20",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Vulnmachines/joomla_CVE-2023-23752](https://github.com/Vulnmachines/joomla_CVE-2023-23752)",
+      "description": "no description",
+      "date": "2023-02-20",
+      "raw_date": "2023-02-20T10:30:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-44311",
+      "repo_info": "[DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311](https://github.com/DesmondSanctity/Out-Of-Bounds-read-in-html2xhtml-v1.3-CVE-2022-44311)",
+      "description": "no description",
+      "date": "2023-02-20",
+      "raw_date": "2023-02-20T01:28:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-39952",
+      "repo_info": "[horizon3ai/CVE-2022-39952](https://github.com/horizon3ai/CVE-2022-39952)",
+      "description": "POC for CVE-2022-39952",
+      "date": "2023-02-20",
+      "raw_date": "2023-02-20T15:12:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-37032",
+      "repo_info": "[spwpun/CVE-2022-37032](https://github.com/spwpun/CVE-2022-37032)",
+      "description": "PoC for CVE-2022-37032，tested on frr-8.3。",
+      "date": "2023-02-20",
+      "raw_date": "2023-02-20T12:07:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[k4u5h41/CVE-2021-4034_Python3](https://github.com/k4u5h41/CVE-2021-4034_Python3)",
+      "description": "no description",
+      "date": "2023-02-20",
+      "raw_date": "2023-02-20T20:39:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-7384",
+      "repo_info": "[0xCarsonS/CVE-2020-7384](https://github.com/0xCarsonS/CVE-2020-7384)",
+      "description": "no description",
+      "date": "2023-02-20",
+      "raw_date": "2023-02-20T19:42:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.015196",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-02-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

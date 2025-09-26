@@ -1,0 +1,83 @@
+{
+  "date": "2023-08-13",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-38836",
+      "repo_info": "[GREENHAT7/Hvv2023](https://github.com/GREENHAT7/Hvv2023)",
+      "description": "HW2023@POC@EXP@CVE-2023-2023",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T05:54:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[0xFTW/CVE-2023-27163](https://github.com/0xFTW/CVE-2023-27163)",
+      "description": "CVE-2023-27163  Request-Baskets v1.2.1 - Server-side request forgery (SSRF)",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T08:49:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[thomas-osgood/CVE-2023-27163](https://github.com/thomas-osgood/CVE-2023-27163)",
+      "description": "Golang PoC for CVE-2023-27163 Mailtrail Exploit",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T04:19:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[chairat095/CVE-2022-44268_By_Kyokito](https://github.com/chairat095/CVE-2022-44268_By_Kyokito)",
+      "description": "CVE-2022-44268_By_Kyokito",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T04:43:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-3457",
+      "repo_info": "[Nithisssh/CVE-2022-3457](https://github.com/Nithisssh/CVE-2022-3457)",
+      "description": "no description",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T18:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-1036",
+      "repo_info": "[Nithisssh/CVE-2022-1036](https://github.com/Nithisssh/CVE-2022-1036)",
+      "description": "no description",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T17:59:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-0688",
+      "repo_info": "[Nithisssh/CVE-2022-0688](https://github.com/Nithisssh/CVE-2022-0688)",
+      "description": "no description",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T15:22:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-0558",
+      "repo_info": "[Nithisssh/CVE-2022-0558](https://github.com/Nithisssh/CVE-2022-0558)",
+      "description": "no description",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T14:43:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-0379",
+      "repo_info": "[Nithisssh/CVE-2022-0379](https://github.com/Nithisssh/CVE-2022-0379)",
+      "description": "no description",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T13:34:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-0379",
+      "repo_info": "[h4ck0rman/Spring4Shell-PoC](https://github.com/h4ck0rman/Spring4Shell-PoC)",
+      "description": "A quick python script that automates the exploitation of the second deadliest Java based vulnerability CVE-2022-22965.",
+      "date": "2023-08-13",
+      "raw_date": "2023-08-13T11:42:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.041193",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-08-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

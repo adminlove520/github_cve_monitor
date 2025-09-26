@@ -1,0 +1,20 @@
+{
+  "date": "2019-10-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-11776",
+      "repo_info": "[cucadili/CVE-2018-11776](https://github.com/cucadili/CVE-2018-11776)",
+      "description": "Investigation of CVE-2018-11776 vulnerability that allows attackers to remotely execute code and gain control over Apache Struts-based applications.",
+      "date": "2019-10-08",
+      "raw_date": "2019-10-08T23:01:49Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.789149",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-10-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

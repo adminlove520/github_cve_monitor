@@ -1,0 +1,34 @@
+{
+  "date": "2023-03-04",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-44877",
+      "repo_info": "[RicYaben/CVE-2022-44877-LAB](https://github.com/RicYaben/CVE-2022-44877-LAB)",
+      "description": "no description",
+      "date": "2023-03-04",
+      "raw_date": "2023-03-04T09:15:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-1386",
+      "repo_info": "[uicres/draytek-RCE](https://github.com/uicres/draytek-RCE)",
+      "description": "mass exploiter for draytek vigor (CVE-2022-32548)",
+      "date": "2023-03-04",
+      "raw_date": "2023-03-04T12:44:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-3129",
+      "repo_info": "[ajisai-babu/CVE-2021-3129-exp](https://github.com/ajisai-babu/CVE-2021-3129-exp)",
+      "description": "Laravel Debug mode RCE漏洞（CVE-2021-3129）poc / exp",
+      "date": "2023-03-04",
+      "raw_date": "2023-03-04T17:04:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.016950",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2023-03-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

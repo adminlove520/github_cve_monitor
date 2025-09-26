@@ -1,0 +1,20 @@
+{
+  "date": "2017-08-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8625",
+      "repo_info": "[faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc](https://github.com/faizzaidi/Wolfcms-v0.8.3.1-xss-POC-by-Provensec-llc)",
+      "description": "WolfCMS-v0.8.3.1 Cross Site Scripting(XSS) Assigned CVE Number: CVE-2017-11611",
+      "date": "2017-08-25",
+      "raw_date": "2017-08-25T03:19:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.716853",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

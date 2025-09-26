@@ -1,0 +1,90 @@
+{
+  "date": "2024-09-15",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6782",
+      "repo_info": "[Uno13x/CVE-2024-6782-PoC](https://github.com/Uno13x/CVE-2024-6782-PoC)",
+      "description": "Unauthenticated remote code execution via Calibre’s content server in Calibre &amp;lt;= 7.14.0.",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T18:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-40711",
+      "repo_info": "[watchtowrlabs/CVE-2024-40711](https://github.com/watchtowrlabs/CVE-2024-40711)",
+      "description": "Pre-Auth Exploit for CVE-2024-40711",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T17:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-38127",
+      "repo_info": "[pwndorei/CVE-2024-38127](https://github.com/pwndorei/CVE-2024-38127)",
+      "description": "no description",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T07:38:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-27564",
+      "repo_info": "[Quantum-Hacker/CVE-2024-27564](https://github.com/Quantum-Hacker/CVE-2024-27564)",
+      "description": "no description",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T15:11:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-27564",
+      "repo_info": "[MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564](https://github.com/MuhammadWaseem29/SSRF-Exploit-CVE-2024-27564)",
+      "description": "no description",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T10:25:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[verylazytech/CVE-2024-23692](https://github.com/verylazytech/CVE-2024-23692)",
+      "description": "POC - Unauthenticated RCE Flaw in Rejetto HTTP File Server - CVE-2024-23692",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T12:15:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-1071",
+      "repo_info": "[Dogu589/WordPress-Exploit-CVE-2024-1071](https://github.com/Dogu589/WordPress-Exploit-CVE-2024-1071)",
+      "description": "no description",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T11:28:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-0297",
+      "repo_info": "[btar1gan/exploit_CVE-2023-0297](https://github.com/btar1gan/exploit_CVE-2023-0297)",
+      "description": "New exploit for pyLoad v0.5.0 - Unauthenticated remote code excecution",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T17:15:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-38304",
+      "repo_info": "[philsajdak/CVE-2021-38304-PoC](https://github.com/philsajdak/CVE-2021-38304-PoC)",
+      "description": "CVE-2021-38304 Proof of Concept",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T02:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2020-27950",
+      "repo_info": "[lyonzon2/browser-crash-tool](https://github.com/lyonzon2/browser-crash-tool)",
+      "description": "A Bash script for Kali Linux that exploits an iOS WebKit vulnerability (CVE-2020-27950) using Metasploit and ngrok. Automates payload delivery with a public URL via ngrok, checks for required tools, handles errors, and provides an easy way to crash browsers for educational purposes only.",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T16:54:03Z"
+    },
+    {
+      "cve_id": "CVE-2015-9238",
+      "repo_info": "[JamesDarf/wargame-secure_compare](https://github.com/JamesDarf/wargame-secure_compare)",
+      "description": "CVE-2015-9238: Insecure Comparison in secure-compare",
+      "date": "2024-09-15",
+      "raw_date": "2024-09-15T14:33:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.109531",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-09-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

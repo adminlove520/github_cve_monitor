@@ -1,0 +1,62 @@
+{
+  "date": "2022-10-06",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-40146",
+      "repo_info": "[jsharp6968/cve_2021_40146](https://github.com/jsharp6968/cve_2021_40146)",
+      "description": "A PoC exploit for the Apache Any23 &lt;=2.5 RCE vulnerability",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T17:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[kevbeaumont/CVE-2022-41082-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41082-RCE-POC)",
+      "description": "CVE-2022-41082-RCE-POC aka ProxyNotShell",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T22:18:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[d3duct1v/CVE-2022-41040](https://github.com/d3duct1v/CVE-2022-41040)",
+      "description": "Code set relating to CVE-2022-41040",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T01:20:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[kevbeaumont/CVE-2022-41040-RCE-POC](https://github.com/kevbeaumont/CVE-2022-41040-RCE-POC)",
+      "description": "CVE-2022-41040-RCE-POC aka ProxyNotShell",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T22:16:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[Imeneallouche/Follina-attack-CVE-2022-30190-](https://github.com/Imeneallouche/Follina-attack-CVE-2022-30190-)",
+      "description": "this is a demo attack of FOLLINA exploit , a vulnerability that has been discovered in May 2022 and stood unpatched until June 2022",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T11:41:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[belebeba/20222-fall-lab-portfolio-cvetkov-vyacheslav-andreevich](https://github.com/belebeba/20222-fall-lab-portfolio-cvetkov-vyacheslav-andreevich)",
+      "description": "Лабораторная работа по Веб-технологиям",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T20:56:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[belebeba/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich](https://github.com/belebeba/2022-fall-lab-portfolio-cvetkov-vyacheslav-andreevich)",
+      "description": "Лабораторная работа по Веб-технологиям",
+      "date": "2022-10-06",
+      "raw_date": "2022-10-06T20:41:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.915696",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-10-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

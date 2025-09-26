@@ -1,0 +1,27 @@
+{
+  "date": "2017-12-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[chrisjd20/cve-2017-9805.py](https://github.com/chrisjd20/cve-2017-9805.py)",
+      "description": "Better Exploit Code For CVE 2017 9805 apache struts",
+      "date": "2017-12-04",
+      "raw_date": "2017-12-04T18:23:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-15095",
+      "repo_info": "[SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095](https://github.com/SecureSkyTechnology/study-struts2-s2-054_055-jackson-cve-2017-7525_cve-2017-15095)",
+      "description": "Struts2の脆弱性S2-045, S2-055 および Jackson の脆弱性 CVE-2017-7525, CVE-2017-15095 の調査報告",
+      "date": "2017-12-04",
+      "raw_date": "2017-12-04T10:07:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.726204",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-12-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

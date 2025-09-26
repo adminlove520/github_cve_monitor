@@ -1,0 +1,111 @@
+{
+  "date": "2025-04-13",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[ethanol1310/POC-CVE-2025-29927-](https://github.com/ethanol1310/POC-CVE-2025-29927-)",
+      "description": "POC CVE-2025-29927",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T08:23:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-21298",
+      "repo_info": "[mr-big-leach/CVE-2025-21298](https://github.com/mr-big-leach/CVE-2025-21298)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T17:18:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-53591",
+      "repo_info": "[aljoharasubaie/CVE-2024-53591](https://github.com/aljoharasubaie/CVE-2024-53591)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T08:46:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-46818",
+      "repo_info": "[ajdumanhug/CVE-2023-46818](https://github.com/ajdumanhug/CVE-2023-46818)",
+      "description": "CVE-2023-46818 Python3 Exploit for ISPConfig &lt;= 3.2.11 (language_edit.php) PHP Code Injection Vulnerability",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T19:12:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-46818",
+      "repo_info": "[blindma1den/CVE-2023-46818-Exploit](https://github.com/blindma1den/CVE-2023-46818-Exploit)",
+      "description": "This is my own exploit for CVE-2023-46818 happy hacking!",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T14:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-45878",
+      "repo_info": "[Can0I0Ever0Enter/CVE-2023-45878](https://github.com/Can0I0Ever0Enter/CVE-2023-45878)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T08:23:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-35085",
+      "repo_info": "[maoruiQa/CVE-2023-35085-POC-EXP](https://github.com/maoruiQa/CVE-2023-35085-POC-EXP)",
+      "description": "POC and EXP for CVE-2023-35085",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T16:29:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-3128",
+      "repo_info": "[spyata123/CVE-2023-3128](https://github.com/spyata123/CVE-2023-3128)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T14:06:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[oieramelibia/DEV_Practica_CVE_2021_4034](https://github.com/oieramelibia/DEV_Practica_CVE_2021_4034)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T19:48:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[ikerSandoval003/CVE-2021-4034](https://github.com/ikerSandoval003/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T18:33:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[marcosChoucino/CVE-2021-4034](https://github.com/marcosChoucino/CVE-2021-4034)",
+      "description": "Exploit de la vulneravilidad CVE-2021-4034",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T16:07:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[igonzalez357/CVE-2021-4034-PwnKit-](https://github.com/igonzalez357/CVE-2021-4034-PwnKit-)",
+      "description": "Este repositorio muestra cómo explotar la vulnerabilidad CVE-2021-4034.",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T15:18:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[nagorealbisu/CVE-2021-4034](https://github.com/nagorealbisu/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T09:28:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-](https://github.com/ArtemCyberLab/Project-Exploiting-a-Vulnerability-in-Fuel-CMS-CVE-2018-16763-)",
+      "description": "The goal of this project was to conduct a security audit of a blog recently launched by Ackme Support Incorporated, identifying any critical vulnerabilities before the site goes public. The task involved finding a way to remotely execute code and gain access to the target system.",
+      "date": "2025-04-13",
+      "raw_date": "2025-04-13T00:45:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.146143",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-04-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

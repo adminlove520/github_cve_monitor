@@ -1,0 +1,195 @@
+{
+  "date": "2025-03-28",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-3282025",
+      "repo_info": "[itssixtyn3in/CVE-2025-3282025](https://github.com/itssixtyn3in/CVE-2025-3282025)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T04:28:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-3272025",
+      "repo_info": "[itssixtyn3in/CVE-2025-3272025](https://github.com/itssixtyn3in/CVE-2025-3272025)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T04:18:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-30772",
+      "repo_info": "[Nxploited/CVE-2025-30772](https://github.com/Nxploited/CVE-2025-30772)",
+      "description": "WordPress WPC Smart Upsell Funnel for WooCommerce plugin &lt;= 3.0.4 - Arbitrary Option Update to Privilege Escalation vulnerability",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T10:29:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[keklick1337/CVE-2025-30208-ViteVulnScanner](https://github.com/keklick1337/CVE-2025-30208-ViteVulnScanner)",
+      "description": "CVE-2025-30208 ViteVulnScanner",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T12:17:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[sadhfdw129/CVE-2025-30208-Vite](https://github.com/sadhfdw129/CVE-2025-30208-Vite)",
+      "description": "CVE-2025-30208 - Vite脚本",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T09:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[yuzu-juice/CVE-2025-29927_demo](https://github.com/yuzu-juice/CVE-2025-29927_demo)",
+      "description": "This repository is for educational and research purposes.",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T02:31:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-29018",
+      "repo_info": "[b1tm4r/CVE-2025-29018](https://github.com/b1tm4r/CVE-2025-29018)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T09:01:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-29018",
+      "repo_info": "[0x0Luk/0xMiddleware](https://github.com/0x0Luk/0xMiddleware)",
+      "description": "CVE-2025-29927: Next.js Middleware Exploit",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T07:31:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-29017",
+      "repo_info": "[b1tm4r/CVE-2025-29017](https://github.com/b1tm4r/CVE-2025-29017)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T09:00:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-2857",
+      "repo_info": "[RimaRuer/CVE-2025-2857-Exploit](https://github.com/RimaRuer/CVE-2025-2857-Exploit)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T21:01:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-2783",
+      "repo_info": "[bronsoneaver/CVE-2025-2783](https://github.com/bronsoneaver/CVE-2025-2783)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T20:33:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-26909",
+      "repo_info": "[ZeroDayx/CVE-2025-26909](https://github.com/ZeroDayx/CVE-2025-26909)",
+      "description": "CVE-2025-26909",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T13:31:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[AlperenY-cs/CVE-2025-24813](https://github.com/AlperenY-cs/CVE-2025-24813)",
+      "description": "Create lab for CVE-2025-24813",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T09:44:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[AnonKryptiQuz/NextSploit](https://github.com/AnonKryptiQuz/NextSploit)",
+      "description": "NextSploit is a command-line tool designed to detect and exploit CVE-2025-29927, a security flaw in Next.js",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T11:09:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-2249",
+      "repo_info": "[Nxploited/CVE-2025-2249](https://github.com/Nxploited/CVE-2025-2249)",
+      "description": "WordPress SoJ SoundSlides Plugin &lt;= 1.2.2 is vulnerable to Arbitrary File Upload",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T22:57:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-2249",
+      "repo_info": "[mscholz-dev/next-cve-9-2025](https://github.com/mscholz-dev/next-cve-9-2025)",
+      "description": "next js cve 9",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T21:37:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-21298",
+      "repo_info": "[Denyningbow/rtf-ctf-cve-2025-21298](https://github.com/Denyningbow/rtf-ctf-cve-2025-21298)",
+      "description": "A safe CTF challenge demonstrating CVE-2025-21298 using RTF and OLE objects.",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T03:10:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[rjhaikal/POC-IngressNightmare-CVE-2025-1974](https://github.com/rjhaikal/POC-IngressNightmare-CVE-2025-1974)",
+      "description": "POC IngressNightmare (CVE-2025-1974), modified from https://github.com/yoshino-s/CVE-2025-1974",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T16:57:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-1653",
+      "repo_info": "[realcodeb0ss/CVE-2025-1653-poc](https://github.com/realcodeb0ss/CVE-2025-1653-poc)",
+      "description": "[WordPress uListing Plugin] &lt;= Privilege Escalation Explo1t",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T23:44:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-1653",
+      "repo_info": "[coleleavitt/AAMVA-PDF417-Vulnerability-Research](https://github.com/coleleavitt/AAMVA-PDF417-Vulnerability-Research)",
+      "description": "Research into systemic PDF417 validation vulnerabilities in AAMVA-compliant ID systems (CVE-2025-31336, CVE-2025-31337, scr1841160)",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T22:16:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo](https://github.com/brandonhjh/Jenkins-CVE-2024-23897-Exploit-Demo)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T08:12:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-26209",
+      "repo_info": "[cnetsec/CVE-2023-26209](https://github.com/cnetsec/CVE-2023-26209)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T02:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-26208",
+      "repo_info": "[cnetsec/CVE-2023-26208](https://github.com/cnetsec/CVE-2023-26208)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T02:16:52Z"
+    },
+    {
+      "cve_id": "CVE-2021-24019",
+      "repo_info": "[cnetsec/CVE-2021-24019](https://github.com/cnetsec/CVE-2021-24019)",
+      "description": "Exploit",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T02:08:17Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[mr-won/WebLogic_CVE_2020_14882](https://github.com/mr-won/WebLogic_CVE_2020_14882)",
+      "description": "2020 14882 oracle weblogic consolejndi.portal 이중인코딩 mvel2 인자 rce",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T10:14:10Z"
+    },
+    {
+      "cve_id": "CVE-2020-0618",
+      "repo_info": "[N3xtGenH4cker/CVE-2020-0618_DETECTION](https://github.com/N3xtGenH4cker/CVE-2020-0618_DETECTION)",
+      "description": "no description",
+      "date": "2025-03-28",
+      "raw_date": "2025-03-28T07:29:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.142640",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2025-03-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "date": "2023-09-15",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4128",
+      "repo_info": "[Trinadh465/linux-4.1.15_CVE-2023-4128](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-4128)",
+      "description": "no description",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T13:45:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[IMHarman/CVE-2023-38831](https://github.com/IMHarman/CVE-2023-38831)",
+      "description": "no description",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T12:58:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-26607",
+      "repo_info": "[Trinadh465/linux-4.1.15_CVE-2023-26607](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-26607)",
+      "description": "no description",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T06:42:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-4060",
+      "repo_info": "[im-hanzou/UPGer](https://github.com/im-hanzou/UPGer)",
+      "description": "Automatic Mass Tool for checking vulnerability in CVE-2022-4060 - WordPress Plugin : User Post Gallery &lt;= 2.19 - Unauthenticated RCE",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T21:38:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-3564",
+      "repo_info": "[nidhi7598/linux-v4.19.72_CVE-2022-3564](https://github.com/nidhi7598/linux-v4.19.72_CVE-2022-3564)",
+      "description": "no description",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T10:04:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[IMHarman/CVE-2022-33891](https://github.com/IMHarman/CVE-2022-33891)",
+      "description": "no description",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T12:49:58Z"
+    },
+    {
+      "cve_id": "CVE-2019-14234",
+      "repo_info": "[malvika-thakur/CVE-2019-14234](https://github.com/malvika-thakur/CVE-2019-14234)",
+      "description": "POC-Django JSONField/HStoreField SQL Injection Vulnerability (CVE-2019-14234)",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T09:34:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-14882",
+      "repo_info": "[nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14882](https://github.com/nidhi7598/external_tcpdump-4.9.2_AOSP_10_r33_CVE-2018-14882)",
+      "description": "no description",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T09:29:30Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[0xTabun/CVE-2014-6287](https://github.com/0xTabun/CVE-2014-6287)",
+      "description": "Rejetto http File Server 2.3.x (Reverse shell)",
+      "date": "2023-09-15",
+      "raw_date": "2023-09-15T21:13:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.046447",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-09-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

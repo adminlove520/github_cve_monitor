@@ -1,0 +1,69 @@
+{
+  "date": "2023-05-17",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[CTM1/CVE-2023-32784-keepass-linux](https://github.com/CTM1/CVE-2023-32784-keepass-linux)",
+      "description": "KeePass Master Password Extraction PoC for Linux",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T20:15:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[MarcusGutierrez/complex-vulnerabilities](https://github.com/MarcusGutierrez/complex-vulnerabilities)",
+      "description": "exhaustive list of all complex vulnerabilities from CVE-1999-0001 to CVE-2023-29421",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T21:43:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-31703",
+      "repo_info": "[sahiloj/CVE-2023-31703](https://github.com/sahiloj/CVE-2023-31703)",
+      "description": "no description",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T07:22:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-31702",
+      "repo_info": "[sahiloj/CVE-2023-31702](https://github.com/sahiloj/CVE-2023-31702)",
+      "description": "no description",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T06:27:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-31584",
+      "repo_info": "[rootd4ddy/CVE-2023-31584](https://github.com/rootd4ddy/CVE-2023-31584)",
+      "description": "Public disclosure for CVE-2023-31584.",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T20:08:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[0-d3y/CVE-2023-29489](https://github.com/0-d3y/CVE-2023-29489)",
+      "description": "Mass Scaning vulnerability in Cpanel [XSS]",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T20:46:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-1671",
+      "repo_info": "[csffs/cve-2023-1671](https://github.com/csffs/cve-2023-1671)",
+      "description": "Exploit to cve-2023-1671. So there is a test and exploitation function. The test sends a ping request to the dnslog domain from the vulnerable site. If the ping passes, the vulnerability exists, if it doesn&#x27;t, then cve-2023-1671 is missing. The exploit function, on the other hand, sends a request with your command to the server.",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T11:20:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[BlizzardEternity/CVE-2022-0847](https://github.com/BlizzardEternity/CVE-2022-0847)",
+      "description": "no description",
+      "date": "2023-05-17",
+      "raw_date": "2023-05-17T17:14:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.027976",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-05-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

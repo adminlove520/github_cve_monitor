@@ -1,0 +1,20 @@
+{
+  "date": "2017-06-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9606",
+      "repo_info": "[Houl777/CVE-2017-9606](https://github.com/Houl777/CVE-2017-9606)",
+      "description": "no description",
+      "date": "2017-06-14",
+      "raw_date": "2017-06-14T04:30:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.710396",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-06-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

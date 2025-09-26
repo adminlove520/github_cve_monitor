@@ -1,0 +1,97 @@
+{
+  "date": "2023-11-05",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23727",
+      "repo_info": "[actuator/yi](https://github.com/actuator/yi)",
+      "description": "CVE-2023-47882 - CVE-2024-23727",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T20:37:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[vxcall/kur](https://github.com/vxcall/kur)",
+      "description": ":pager: A tiny code that performs kernel-mode read/write using CVE-2023-38817.",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T06:00:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-5360",
+      "repo_info": "[Pushkarup/CVE-2023-5360](https://github.com/Pushkarup/CVE-2023-5360)",
+      "description": "The Royal Elementor Addons and Templates WordPress plugin before 1.3.79 does not properly validate uploaded files, which could allow unauthenticated users to upload arbitrary files, such as PHP and achieve RCE.",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T18:02:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-47489",
+      "repo_info": "[nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489)",
+      "description": "no description",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T12:02:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[prodigiousMind/CVE-2023-41425](https://github.com/prodigiousMind/CVE-2023-41425)",
+      "description": "no description",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T15:06:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-37903",
+      "repo_info": "[7h3h4ckv157/CVE-2023-37903](https://github.com/7h3h4ckv157/CVE-2023-37903)",
+      "description": "Exploit for CVE-2023-37903",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T11:23:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-3452",
+      "repo_info": "[leoanggal1/CVE-2023-3452-PoC](https://github.com/leoanggal1/CVE-2023-3452-PoC)",
+      "description": "Wordpress Plugin Canto &lt; 3.0.5 - Remote File Inclusion (RFI) and Remote Code Execution (RCE)",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T16:33:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-30190",
+      "repo_info": "[MojithaR/CVE-2023-30190-FOLLINA](https://github.com/MojithaR/CVE-2023-30190-FOLLINA)",
+      "description": "no description",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T13:36:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-22518",
+      "repo_info": "[sanjai-AK47/CVE-2023-22518](https://github.com/sanjai-AK47/CVE-2023-22518)",
+      "description": "An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22518 Improper Authorization",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T06:45:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[ayushx007/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/ayushx007/CVE-2022-0847-DirtyPipe-Exploits)",
+      "description": "no description",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T15:34:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[jsirichai/CVE-2019-2215](https://github.com/jsirichai/CVE-2019-2215)",
+      "description": "Android Kernel Vulnerability (CVE-2019-2215) temporary root PoC",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T14:32:11Z"
+    },
+    {
+      "cve_id": "CVE-2015-6967",
+      "repo_info": "[3mpir3Albert/HTB_Nibbles](https://github.com/3mpir3Albert/HTB_Nibbles)",
+      "description": "In this repository you will find the technical report of Nibbles, the exploit to abuse the CVE-2015-6967 and an autopwn tool in case you want to resolve the machine in HackTheBox",
+      "date": "2023-11-05",
+      "raw_date": "2023-11-05T22:26:48Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.055237",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2023-11-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

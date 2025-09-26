@@ -1,0 +1,20 @@
+{
+  "date": "2014-10-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-7169",
+      "repo_info": "[cloudpassage/mangy-beast](https://github.com/cloudpassage/mangy-beast)",
+      "description": "CloudPassage Halo policy for detecting vulnerability to CVE-2014-3566 (AKA POODLE)",
+      "date": "2014-10-20",
+      "raw_date": "2014-10-20T18:09:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.625162",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-10-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2017-06-30",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638](https://github.com/sUbc0ol/Apache-Struts2-RCE-Exploit-v2-CVE-2017-5638)",
+      "description": "no description",
+      "date": "2017-06-30",
+      "raw_date": "2017-06-30T09:55:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner](https://github.com/sUbc0ol/Apache-Struts-CVE-2017-5638-RCE-Mass-Scanner)",
+      "description": "no description",
+      "date": "2017-06-30",
+      "raw_date": "2017-06-30T09:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2017-2793",
+      "repo_info": "[sUbc0ol/Detection-for-CVE-2017-2793](https://github.com/sUbc0ol/Detection-for-CVE-2017-2793)",
+      "description": "no description",
+      "date": "2017-06-30",
+      "raw_date": "2017-06-30T09:32:42Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[sUbc0ol/Microsoft-Word-CVE-2017-0199-](https://github.com/sUbc0ol/Microsoft-Word-CVE-2017-0199-)",
+      "description": "no description",
+      "date": "2017-06-30",
+      "raw_date": "2017-06-30T09:08:40Z"
+    },
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[sUbc0ol/CVE-2015-0235](https://github.com/sUbc0ol/CVE-2015-0235)",
+      "description": "no description",
+      "date": "2017-06-30",
+      "raw_date": "2017-06-30T10:29:40Z"
+    },
+    {
+      "cve_id": "CVE-2012-6066",
+      "repo_info": "[bongbongco/CVE-2012-6066](https://github.com/bongbongco/CVE-2012-6066)",
+      "description": "FreeSSHD Remote Authentication Bypass Vulnerability (freeSSHd 2.1.3)",
+      "date": "2017-06-30",
+      "raw_date": "2017-06-30T02:15:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.711747",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2017-06-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

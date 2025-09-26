@@ -1,0 +1,34 @@
+{
+  "date": "2023-12-06",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-46474",
+      "repo_info": "[Xn2/CVE-2023-46474](https://github.com/Xn2/CVE-2023-46474)",
+      "description": "PoC for CVE-2023-46474.",
+      "date": "2023-12-06",
+      "raw_date": "2023-12-06T13:05:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-1326",
+      "repo_info": "[diego-tella/CVE-2023-1326-PoC](https://github.com/diego-tella/CVE-2023-1326-PoC)",
+      "description": "A proof of concept for CVE-2023–1326 in apport-cli 2.26.0",
+      "date": "2023-12-06",
+      "raw_date": "2023-12-06T00:07:40Z"
+    },
+    {
+      "cve_id": "CVE-2020-25213",
+      "repo_info": "[Nguyen-id/CVE-2020-25213](https://github.com/Nguyen-id/CVE-2020-25213)",
+      "description": "no description",
+      "date": "2023-12-06",
+      "raw_date": "2023-12-06T10:47:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.060031",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2023-12-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2024-03-09",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-27697",
+      "repo_info": "[SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697](https://github.com/SanjinDedic/FuguHub-8.4-Authenticated-RCE-CVE-2024-27697)",
+      "description": "Arbitrary Code Execution on FuguHub 8.4",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T22:24:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[K3ysTr0K3R/CVE-2024-27198-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-27198-EXPLOIT)",
+      "description": "A PoC exploit for CVE-2024-27198 - JetBrains TeamCity Authentication Bypass",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T22:04:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[CharonDefalt/CVE-2024-27198-RCE](https://github.com/CharonDefalt/CVE-2024-27198-RCE)",
+      "description": "no description",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T04:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[cvedayprotech3s/cve-2024-23113](https://github.com/cvedayprotech3s/cve-2024-23113)",
+      "description": "no description",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T18:17:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-49453",
+      "repo_info": "[nitipoom-jar/CVE-2023-49453](https://github.com/nitipoom-jar/CVE-2023-49453)",
+      "description": "no description",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T05:15:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-3824",
+      "repo_info": "[NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit](https://github.com/NewLockBit/Research-of-CVE-2023-3824-NCA-Lockbit)",
+      "description": "Research of CVE-2023-3824 (NCA - Lockbit)",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T09:07:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-3824",
+      "repo_info": "[NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK](https://github.com/NewLockBit/CVE-2023-3824-PHP-to-RCE-National-Crime-AgencyLEAK)",
+      "description": "no description",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T08:23:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-36407",
+      "repo_info": "[zha0/CVE-2023-36407](https://github.com/zha0/CVE-2023-36407)",
+      "description": "no description",
+      "date": "2024-03-09",
+      "raw_date": "2024-03-09T06:10:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.074810",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-03-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

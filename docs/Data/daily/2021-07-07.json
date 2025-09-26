@@ -1,0 +1,20 @@
+{
+  "date": "2021-07-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2008-4250",
+      "repo_info": "[k4u5h41/MS08_067_CVE-2008-4250](https://github.com/k4u5h41/MS08_067_CVE-2008-4250)",
+      "description": "ms08_067 ( Python3 Script)",
+      "date": "2021-07-07",
+      "raw_date": "2021-07-07T14:58:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.856384",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-07-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

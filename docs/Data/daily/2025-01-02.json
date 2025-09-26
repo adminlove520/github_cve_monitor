@@ -1,0 +1,118 @@
+{
+  "date": "2025-01-02",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-55980",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55980](https://github.com/RandomRobbieBF/CVE-2024-55980)",
+      "description": "Wr Age Verification &lt;= 2.0.0 - Unauthenticated SQL Injection",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T11:11:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-55978",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55978](https://github.com/RandomRobbieBF/CVE-2024-55978)",
+      "description": "Code Generator Pro &lt;= 1.2 - Unauthenticated SQL Injection",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T13:21:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-54385",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54385](https://github.com/RandomRobbieBF/CVE-2024-54385)",
+      "description": "Radio Player &lt;= 2.0.82 - Blind Unauthenticated Server-Side Request Forgery",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T13:40:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-54363",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54363](https://github.com/RandomRobbieBF/CVE-2024-54363)",
+      "description": "Wp NssUser Register &lt;= 1.0.0 - Unauthenticated Privilege Escalation",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T14:41:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-54330",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54330](https://github.com/RandomRobbieBF/CVE-2024-54330)",
+      "description": "Hurrakify &lt;= 2.4 - Unauthenticated Server-Side Request Forgery",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T10:31:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-53522",
+      "repo_info": "[Safecloudth/CVE-2024-53522](https://github.com/Safecloudth/CVE-2024-53522)",
+      "description": "PoC for CVE-2024-53522 affecting HOSxP XE 4",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T04:13:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-49112",
+      "repo_info": "[BOl1o/CVE-2024-49112-RCE-PoC](https://github.com/BOl1o/CVE-2024-49112-RCE-PoC)",
+      "description": "CVE-2024-49112 Windows LDAP RCE PoC and Metasploit Module",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T04:29:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-49112",
+      "repo_info": "[CCIEVoice2009/CVE-2024-49112](https://github.com/CCIEVoice2009/CVE-2024-49112)",
+      "description": "no description",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T14:02:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-49112",
+      "repo_info": "[PraiseImafidon/Version_Vulnerability_Scanner](https://github.com/PraiseImafidon/Version_Vulnerability_Scanner)",
+      "description": "A vulnerability scanner for Firefox and Thunderbird that checks if your versions are out of date and susceptible to CVE-2024-9680.",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T12:21:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-42327",
+      "repo_info": "[Marouane133/jenkins-lfi](https://github.com/Marouane133/jenkins-lfi)",
+      "description": "Jenkins CVE-2024-23897 POC : Arbitrary File Read Vulnerability Leading to RCE",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T03:28:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-38856",
+      "repo_info": "[FakesiteSecurity/CVE-2024-38856_Scen](https://github.com/FakesiteSecurity/CVE-2024-38856_Scen)",
+      "description": "Tentang Pemindai &amp; Eksploitasi Apache OFBiz RCE (CVE-2024-38856)",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T15:25:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-10400",
+      "repo_info": "[k0ns0l/CVE-2024-10400](https://github.com/k0ns0l/CVE-2024-10400)",
+      "description": "no description",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T00:12:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-41924",
+      "repo_info": "[alej6/MassCyberCenter-Mentorship-Project-](https://github.com/alej6/MassCyberCenter-Mentorship-Project-)",
+      "description": "Exploiting CVE-2022-2825 on a VM",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T16:10:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-2024",
+      "repo_info": "[FarizDevloper/CVE-2017-2024](https://github.com/FarizDevloper/CVE-2017-2024)",
+      "description": "CVE-2017-9805 is a critical vulnerability in Apache Struts 2&#x27;s Rest Plugin, allowing attackers to execute remote code via a specially crafted XML payload. If exploited, this vulnerability can lead to unauthorized system access and compromise vulnerable applications.",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T11:06:58Z"
+    },
+    {
+      "cve_id": "CVE-2017-2024",
+      "repo_info": "[wdragondragon/spring-framework](https://github.com/wdragondragon/spring-framework)",
+      "description": "Fixed cve-2024-38816 based on version 5.3.39",
+      "date": "2025-01-02",
+      "raw_date": "2025-01-02T07:50:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.127954",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-01-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

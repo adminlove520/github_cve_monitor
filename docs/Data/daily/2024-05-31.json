@@ -1,0 +1,251 @@
+{
+  "date": "2024-05-31",
+  "count": 34,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-5522",
+      "repo_info": "[truonghuuphuc/CVE-2024-5522-Poc](https://github.com/truonghuuphuc/CVE-2024-5522-Poc)",
+      "description": "CVE-2024-5522 HTML5 Video Player &lt;= 2.5.26 - Unauthenticated SQL Injection",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T04:41:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[Zhang-Yiiliin/test_cve_2024_32002](https://github.com/Zhang-Yiiliin/test_cve_2024_32002)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T08:10:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[AD-Appledog/CVE-2024-32002](https://github.com/AD-Appledog/CVE-2024-32002)",
+      "description": "CVE-2024-32002wakuwaku",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T02:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[AD-Appledog/wakuwaku](https://github.com/AD-Appledog/wakuwaku)",
+      "description": "cve-2024-32002yahhh",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T02:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-27348",
+      "repo_info": "[Zeyad-Azima/CVE-2024-27348](https://github.com/Zeyad-Azima/CVE-2024-27348)",
+      "description": "Apache HugeGraph Server RCE Scanner ( CVE-2024-27348 )",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T20:11:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[jsebastianherrera/CVE-2024-24919](https://github.com/jsebastianherrera/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T01:14:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[MohamedWagdy7/CVE-2024-24919](https://github.com/MohamedWagdy7/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T22:07:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[seed1337/CVE-2024-24919-POC](https://github.com/seed1337/CVE-2024-24919-POC)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T11:52:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[un9nplayer/CVE-2024-24919](https://github.com/un9nplayer/CVE-2024-24919)",
+      "description": "This repository contains a proof-of-concept (PoC) exploit for CVE-2024-24919, a critical vulnerability discovered in Check Point SVN. The vulnerability allows for reading system files. CVE ID: CVE-2024-24919",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T18:14:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[nexblade12/CVE-2024-24919](https://github.com/nexblade12/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T17:41:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[GlobalsecureAcademy/CVE-2024-24919](https://github.com/GlobalsecureAcademy/CVE-2024-24919)",
+      "description": "Exploit tool to validate CVE-2024-24919 vulnerability on Checkpoint Firewall VPNs",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T17:14:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[GoatSecurity/CVE-2024-24919](https://github.com/GoatSecurity/CVE-2024-24919)",
+      "description": "CVE-2024-24919 exploit",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T13:11:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[0x3f3c/CVE-2024-24919](https://github.com/0x3f3c/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T12:08:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[smackerdodi/CVE-2024-24919-nuclei-templater](https://github.com/smackerdodi/CVE-2024-24919-nuclei-templater)",
+      "description": "Nuclei template for CVE-2024-24919",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T12:33:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN](https://github.com/Praison001/CVE-2024-24919-Check-Point-Remote-Access-VPN)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T12:10:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[RevoltSecurities/CVE-2024-24919](https://github.com/RevoltSecurities/CVE-2024-24919)",
+      "description": "An Vulnerability detection and Exploitation tool for CVE-2024-24919",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T10:18:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[Vulnpire/CVE-2024-24919](https://github.com/Vulnpire/CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T11:29:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[3UR/CVE-2024-24919](https://github.com/3UR/CVE-2024-24919)",
+      "description": "CLI based PoC for CVE-2024-24919",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T09:43:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[satriarizka/CVE-2024-24919](https://github.com/satriarizka/CVE-2024-24919)",
+      "description": "A simple bash and python script to check for the vulnerability CVE-2024-24919",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T08:01:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[zam89/CVE-2024-24919](https://github.com/zam89/CVE-2024-24919)",
+      "description": "Simple POC Python script that check &amp; leverage Check Point CVE-2024-24919 vulnerability (Wrong Check Point)",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T07:59:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-46805",
+      "repo_info": "[Cappricio-Securities/CVE-2023-46805](https://github.com/Cappricio-Securities/CVE-2023-46805)",
+      "description": "Ivanti ICS - Authentication Bypass",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T02:18:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[pulentoski/CVE-2023-46604](https://github.com/pulentoski/CVE-2023-46604)",
+      "description": "El script explota una vulnerabilidad de deserialización insegura en Apache ActiveMQ (CVE-2023-46604)",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T00:38:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-30481",
+      "repo_info": "[JHVIW/jhviw.github.io](https://github.com/JHVIW/jhviw.github.io)",
+      "description": "Results of my research I have done on CVE-2021-30481 and on wallhacks in the videogame Counter-Strike 2",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T09:43:39Z"
+    },
+    {
+      "cve_id": "CVE-2020-26217",
+      "repo_info": "[epicosy/XStream-1](https://github.com/epicosy/XStream-1)",
+      "description": "xstream with CVE-2020-26217",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T20:52:08Z"
+    },
+    {
+      "cve_id": "CVE-2020-13973",
+      "repo_info": "[epicosy/json-sanitizer](https://github.com/epicosy/json-sanitizer)",
+      "description": "json-sanitizer with CVE-2020-13973",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T00:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2019-17513",
+      "repo_info": "[epicosy/Ratpack-1](https://github.com/epicosy/Ratpack-1)",
+      "description": "ratpack with CVE-2019-17513",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T20:26:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-17513",
+      "repo_info": "[epicosy/Quartz-1](https://github.com/epicosy/Quartz-1)",
+      "description": "quartz with CVE-2019-13990",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T20:17:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-15477",
+      "repo_info": "[epicosy/jooby](https://github.com/epicosy/jooby)",
+      "description": "jooby with CVE-2019-15477",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T00:09:01Z"
+    },
+    {
+      "cve_id": "CVE-2018-1000844",
+      "repo_info": "[epicosy/Retrofit-1](https://github.com/epicosy/Retrofit-1)",
+      "description": "retrofit with CVE-2018-1000844",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T20:09:00Z"
+    },
+    {
+      "cve_id": "CVE-2016-10006",
+      "repo_info": "[epicosy/VUL4J-60](https://github.com/epicosy/VUL4J-60)",
+      "description": "nahsra/antisamy with CVE-2016-10006",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T21:12:16Z"
+    },
+    {
+      "cve_id": "CVE-2016-10006",
+      "repo_info": "[epicosy/VUL4J-23](https://github.com/epicosy/VUL4J-23)",
+      "description": "apache/sling with CVE-2016-5394",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T21:05:46Z"
+    },
+    {
+      "cve_id": "CVE-2015-6748",
+      "repo_info": "[epicosy/VUL4J-59](https://github.com/epicosy/VUL4J-59)",
+      "description": "jhy/jsoup with CVE-2015-6748",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T21:24:39Z"
+    },
+    {
+      "cve_id": "CVE-2013-4378",
+      "repo_info": "[epicosy/VUL4J-50](https://github.com/epicosy/VUL4J-50)",
+      "description": "javamelody/javamelody with CVE-2013-4378",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T21:31:15Z"
+    },
+    {
+      "cve_id": "CVE-2010-3124",
+      "repo_info": "[KOBUKOVUI/DLL_Injection_On_VLC](https://github.com/KOBUKOVUI/DLL_Injection_On_VLC)",
+      "description": "DLL Injection and CVE-2010-3124",
+      "date": "2024-05-31",
+      "raw_date": "2024-05-31T10:34:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.090002",
+  "metadata": {
+    "total_cves": 34,
+    "date_range": "2024-05-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

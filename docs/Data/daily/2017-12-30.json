@@ -1,0 +1,20 @@
+{
+  "date": "2017-12-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[sp4c30x1/uc_httpd_exploit](https://github.com/sp4c30x1/uc_httpd_exploit)",
+      "description": "Simple uc httpd exploit made with py3.. this exploit was written from CVE-2014-2324",
+      "date": "2017-12-30",
+      "raw_date": "2017-12-30T17:46:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.728560",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-12-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

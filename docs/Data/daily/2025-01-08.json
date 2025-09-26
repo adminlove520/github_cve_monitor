@@ -1,0 +1,153 @@
+{
+  "date": "2025-01-08",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-26125",
+      "repo_info": "[ZeroMemoryEx/CVE-2025-26125](https://github.com/ZeroMemoryEx/CVE-2025-26125)",
+      "description": "(0day) Local Privilege Escalation in IObit Malware Fighter",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T05:50:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-22510",
+      "repo_info": "[DoTTak/CVE-2025-22510](https://github.com/DoTTak/CVE-2025-22510)",
+      "description": "PoC of CVE-2025-22510",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T01:02:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-9047",
+      "repo_info": "[verylazytech/CVE-2024-9047](https://github.com/verylazytech/CVE-2024-9047)",
+      "description": "POC - WordPress File Upload plugin, in the wfu_file_downloader.php file before version &lt;= 4.24.11",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T07:27:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-7627",
+      "repo_info": "[siunam321/CVE-2024-7627-PoC](https://github.com/siunam321/CVE-2024-7627-PoC)",
+      "description": "Proof-of-Concept script for WordPress plugin Bit File Manager version 6.0 - 6.5.5 Unauthenticated Remote Code Execution via Race Condition (CVE-2024-7627) vulnerability",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T02:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-54761",
+      "repo_info": "[0xsu3ks/CVE-POC-2024](https://github.com/0xsu3ks/CVE-POC-2024)",
+      "description": "This is a PoC for a CVE in an unpublished application",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T02:50:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-54498",
+      "repo_info": "[wh1te4ever/CVE-2024-54498-PoC](https://github.com/wh1te4ever/CVE-2024-54498-PoC)",
+      "description": "Escape macOS Sandbox using sharedfilelistd exploit",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T09:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[punitdarji/Apache-struts-cve-2024-53677](https://github.com/punitdarji/Apache-struts-cve-2024-53677)",
+      "description": "no description",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T19:36:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-50603",
+      "repo_info": "[newlinesec/CVE-2024-50603](https://github.com/newlinesec/CVE-2024-50603)",
+      "description": "CVE-2024-50603-nuclei-poc",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T12:00:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-49112",
+      "repo_info": "[bo0l3an/CVE-2024-49112-PoC](https://github.com/bo0l3an/CVE-2024-49112-PoC)",
+      "description": "CVE-2024-49112 LDAP RCE PoC and Metasploit Module",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T01:56:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[Dejavu666/CVE-2024-4577](https://github.com/Dejavu666/CVE-2024-4577)",
+      "description": "CVE-2024-4577 POC",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T07:41:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-38998",
+      "repo_info": "[cesarbtakeda/PP_CVE-2024-38998](https://github.com/cesarbtakeda/PP_CVE-2024-38998)",
+      "description": "no description",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T08:04:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-11613",
+      "repo_info": "[Sachinart/CVE-2024-11613-wp-file-upload](https://github.com/Sachinart/CVE-2024-11613-wp-file-upload)",
+      "description": "Exploit by Chirag Artani for CVE-2024-11613 in WordPress File Upload",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T10:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-11423",
+      "repo_info": "[RandomRobbieBF/CVE-2024-11423](https://github.com/RandomRobbieBF/CVE-2024-11423)",
+      "description": "Ultimate Gift Cards for WooCommerce &lt;= 3.0.6 - Missing Authorization to Infinite Money Glitch",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T07:12:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-48795",
+      "repo_info": "[TrixSec/CVE-2023-48795](https://github.com/TrixSec/CVE-2023-48795)",
+      "description": "A Python-based tool to check for vulnerabilities in OpenSSH installations on local or remote systems by scanning specific IPs. It checks if the OpenSSH version is affected by CVE-2023-48795",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T07:19:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-3824",
+      "repo_info": "[fr33c0d3/poc-cve-2023-3824](https://github.com/fr33c0d3/poc-cve-2023-3824)",
+      "description": "PoC CVE 2023-3824",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T01:43:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[mithunmadhukuttan/Dirty-Pipe-Exploit](https://github.com/mithunmadhukuttan/Dirty-Pipe-Exploit)",
+      "description": "The **Dirty Pipe exploit (CVE-2022-0847)** is a Linux kernel vulnerability (v5.8+) allowing unprivileged attackers to overwrite arbitrary files via a flaw in the pipe mechanism. This leads to privilege escalation, granting root access. Similar to Dirty Cow but easier to exploit. Fix: Update to a patched kernel version.",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T07:40:20Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Kz0x-337/CVE-2021-44228](https://github.com/Kz0x-337/CVE-2021-44228)",
+      "description": "no description",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T23:40:16Z"
+    },
+    {
+      "cve_id": "CVE-2020-23127",
+      "repo_info": "[patrickhalasik/cve-2020-23127-PoC](https://github.com/patrickhalasik/cve-2020-23127-PoC)",
+      "description": "no description",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T14:53:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[altsun/CVE-2018-16763-FuelCMS-1.4.1-RCE](https://github.com/altsun/CVE-2018-16763-FuelCMS-1.4.1-RCE)",
+      "description": "Fuel CMS 1.4.1 - Remote Code Execution",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T01:30:07Z"
+    },
+    {
+      "cve_id": "CVE-2015-9251",
+      "repo_info": "[hackgiver/CVE-2015-9251](https://github.com/hackgiver/CVE-2015-9251)",
+      "description": "This repository contains a Proof of Concept (PoC) for CVE-2015-9251, a vulnerability in jQuery versions prior to 3.0.0 that allows attackers to perform Cross-Site Scripting (XSS) attacks under certain conditions.",
+      "date": "2025-01-08",
+      "raw_date": "2025-01-08T10:03:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.129095",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2025-01-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

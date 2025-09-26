@@ -1,0 +1,20 @@
+{
+  "date": "2022-11-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[cryxnet/CVE-2022-42889-PoC](https://github.com/cryxnet/CVE-2022-42889-PoC)",
+      "description": "Proof of Concept for CVE-2022-42889 (Text4Shell Vulnerability)",
+      "date": "2022-11-04",
+      "raw_date": "2022-11-04T19:26:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.920122",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2022-11-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

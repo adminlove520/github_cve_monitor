@@ -1,0 +1,132 @@
+{
+  "date": "2023-04-06",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[LHXHL/Minio-CVE-2023-28432](https://github.com/LHXHL/Minio-CVE-2023-28432)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T12:29:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[AkbarWiraN/Joomla-Scanner](https://github.com/AkbarWiraN/Joomla-Scanner)",
+      "description": "CVE-2023-23752",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T12:15:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-22809",
+      "repo_info": "[CKevens/CVE-2023-22809-sudo-POC](https://github.com/CKevens/CVE-2023-22809-sudo-POC)",
+      "description": "CVE-2023-22809 Linux Sudo",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T03:11:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-0669",
+      "repo_info": "[Avento/CVE-2023-0669](https://github.com/Avento/CVE-2023-0669)",
+      "description": "CVE-2023-0669 Python PoC",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T03:40:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-4939",
+      "repo_info": "[BaconCriCRi/PoC-CVE-2022-4939-](https://github.com/BaconCriCRi/PoC-CVE-2022-4939-)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T13:34:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-48150",
+      "repo_info": "[sahilop123/-CVE-2022-48150](https://github.com/sahilop123/-CVE-2022-48150)",
+      "description": "I Found the reflected xss vulnerability in shopware 5 .for more details check my poc video",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T16:14:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-42896",
+      "repo_info": "[himanshu667/kernel_v4.19.72_CVE-2022-42896](https://github.com/himanshu667/kernel_v4.19.72_CVE-2022-42896)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T17:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-42896",
+      "repo_info": "[hshivhare67/kernel_v4.19.72_CVE-2022-42896_new](https://github.com/hshivhare67/kernel_v4.19.72_CVE-2022-42896_new)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T12:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-34972",
+      "repo_info": "[DevCyberNico/exploit_-CVE-2022-34972](https://github.com/DevCyberNico/exploit_-CVE-2022-34972)",
+      "description": "https://www.cvedetails.com/cve/CVE-2022-34972/",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T14:12:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-25315",
+      "repo_info": "[hshivhare67/external_expat_v2.1.0_CVE-2022-25315](https://github.com/hshivhare67/external_expat_v2.1.0_CVE-2022-25315)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T05:42:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-20347",
+      "repo_info": "[hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347](https://github.com/hshivhare67/platform_packages_apps_settings_AOSP10_r33_CVE-2022-20347)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T09:54:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-20224",
+      "repo_info": "[hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224](https://github.com/hshivhare67/platform_system_bt_AOSP10_r33_CVE-2022-20224)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T11:02:47Z"
+    },
+    {
+      "cve_id": "CVE-2021-45960",
+      "repo_info": "[hshivhare67/external_expat_v2.2.6_CVE-2021-45960](https://github.com/hshivhare67/external_expat_v2.2.6_CVE-2021-45960)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T06:20:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-3490",
+      "repo_info": "[pivik271/CVE-2021-3490](https://github.com/pivik271/CVE-2021-3490)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T03:21:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-31290",
+      "repo_info": "[qaisarafridi/cve-2021-31290](https://github.com/qaisarafridi/cve-2021-31290)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T07:57:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-3129",
+      "repo_info": "[qaisarafridi/cve-2021-3129](https://github.com/qaisarafridi/cve-2021-3129)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T07:56:33Z"
+    },
+    {
+      "cve_id": "CVE-2018-14463",
+      "repo_info": "[hshivhare67/platform_external_tcpdump_AOSP10_r33_4.9.2-_CVE-2018-14463](https://github.com/hshivhare67/platform_external_tcpdump_AOSP10_r33_4.9.2-_CVE-2018-14463)",
+      "description": "no description",
+      "date": "2023-04-06",
+      "raw_date": "2023-04-06T06:58:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.021928",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2023-04-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

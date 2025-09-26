@@ -1,0 +1,76 @@
+{
+  "date": "2023-12-14",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-49954",
+      "repo_info": "[CVE-2023-49954/CVE-2023-49954.github.io](https://github.com/CVE-2023-49954/CVE-2023-49954.github.io)",
+      "description": "SQL Injection in 3CX CRM Integration",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T18:38:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-49438",
+      "repo_info": "[brandon-t-elliott/CVE-2023-49438](https://github.com/brandon-t-elliott/CVE-2023-49438)",
+      "description": "CVE-2023-49438 - Open Redirect Vulnerability in Flask-Security-Too",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T23:58:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-49070",
+      "repo_info": "[abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC](https://github.com/abdoghazy2015/ofbiz-CVE-2023-49070-RCE-POC)",
+      "description": "no description",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T09:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-49038",
+      "repo_info": "[christopher-pace/CVE-2023-49038](https://github.com/christopher-pace/CVE-2023-49038)",
+      "description": "CVE-2023-49038",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T01:49:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-22524",
+      "repo_info": "[imperva/CVE-2023-22524](https://github.com/imperva/CVE-2023-22524)",
+      "description": "no description",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T09:12:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-22524",
+      "repo_info": "[ron-imperva/CVE-2023-22524](https://github.com/ron-imperva/CVE-2023-22524)",
+      "description": "Atlassian Companion RCE Vulnerability Proof of Concept",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T15:33:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-4047",
+      "repo_info": "[entroychang/CVE-2022-4047](https://github.com/entroychang/CVE-2022-4047)",
+      "description": "CVE-2022-4047 poc",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T07:36:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-5029",
+      "repo_info": "[thehunt1s0n/Exihibitor-RCE](https://github.com/thehunt1s0n/Exihibitor-RCE)",
+      "description": "Exihibitor Web Ui 1.7.1 RCE, CVE-2019-5029",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T01:05:45Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[ThiiagoEscobar/CVE-2018-25031](https://github.com/ThiiagoEscobar/CVE-2018-25031)",
+      "description": "no description",
+      "date": "2023-12-14",
+      "raw_date": "2023-12-14T11:38:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.061210",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-12-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

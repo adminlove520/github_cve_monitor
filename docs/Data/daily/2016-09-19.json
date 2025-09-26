@@ -1,0 +1,20 @@
+{
+  "date": "2016-09-19",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-3308",
+      "repo_info": "[jackhuyh/CVE-2016-3308](https://github.com/jackhuyh/CVE-2016-3308)",
+      "description": "Use CVE-2016-3308 corrupt win32k desktop heap",
+      "date": "2016-09-19",
+      "raw_date": "2016-09-19T02:01:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.686302",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-09-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

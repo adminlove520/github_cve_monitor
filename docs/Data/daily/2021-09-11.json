@@ -1,0 +1,27 @@
+{
+  "date": "2021-09-11",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19609",
+      "repo_info": "[D3m0nicw0lf/CVE-2019-19609](https://github.com/D3m0nicw0lf/CVE-2019-19609)",
+      "description": "Strapi  Remote Code Execution",
+      "date": "2021-09-11",
+      "raw_date": "2021-09-11T06:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2018-13379",
+      "repo_info": "[nivdolgin/CVE-2018-13379](https://github.com/nivdolgin/CVE-2018-13379)",
+      "description": "Hunting CVE-2018-13379",
+      "date": "2021-09-11",
+      "raw_date": "2021-09-11T13:12:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.863138",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-09-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

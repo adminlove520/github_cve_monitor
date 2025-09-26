@@ -1,0 +1,76 @@
+{
+  "date": "2023-05-24",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-32243",
+      "repo_info": "[YouGina/CVE-2023-32243](https://github.com/YouGina/CVE-2023-32243)",
+      "description": "Vulnerable docker to test for: CVE-2023-32243",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T19:50:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-32243",
+      "repo_info": "[hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa](https://github.com/hheeyywweellccoommee/Mass-CVE-2023-32243-kcpqa)",
+      "description": "Mass CVE-2023-32243",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T01:02:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-31595",
+      "repo_info": "[Yozarseef95/CVE-2023-31595](https://github.com/Yozarseef95/CVE-2023-31595)",
+      "description": "IC Realtime ICIP-P2012T is vulnerable to Incorrect Access Control via an open port",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T04:32:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-31594",
+      "repo_info": "[Yozarseef95/CVE-2023-31594](https://github.com/Yozarseef95/CVE-2023-31594)",
+      "description": "IC Realtime ICIP-P2012T 2.420 is vulnerable to Incorrect Access Control",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T04:09:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-2859",
+      "repo_info": "[mnqazi/CVE-2023-2859](https://github.com/mnqazi/CVE-2023-2859)",
+      "description": "CVE-2023-2859 Medium Blog",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T10:46:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-2591",
+      "repo_info": "[mnqazi/CVE-2023-2591](https://github.com/mnqazi/CVE-2023-2591)",
+      "description": "CVE-2023-2591 Medium blog",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T10:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-2516",
+      "repo_info": "[mnqazi/CVE-2023-2516](https://github.com/mnqazi/CVE-2023-2516)",
+      "description": "Medium Blog",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T10:44:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-2516",
+      "repo_info": "[xzsec/Django_rce](https://github.com/xzsec/Django_rce)",
+      "description": "Django修复文件上传验证绕过漏洞（CVE-2023-31047）不完全，同一接口处可绕过验证导致rce",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T07:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-19492",
+      "repo_info": "[hheeyywweellccoommee/CVE-2019-19492-mbprp](https://github.com/hheeyywweellccoommee/CVE-2019-19492-mbprp)",
+      "description": "FreeSWITCH Exploit (CVE-2019-19492)",
+      "date": "2023-05-24",
+      "raw_date": "2023-05-24T01:02:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.028963",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-05-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2024-11-20",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9474",
+      "repo_info": "[deathvu/CVE-2024-9474](https://github.com/deathvu/CVE-2024-9474)",
+      "description": "PoC for PAN-OS Exploit",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T22:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-9474",
+      "repo_info": "[hazesecurity/CVE-2024-9474](https://github.com/hazesecurity/CVE-2024-9474)",
+      "description": "no description",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T16:42:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-6330",
+      "repo_info": "[RandomRobbieBF/CVE-2024-6330](https://github.com/RandomRobbieBF/CVE-2024-6330)",
+      "description": "GEO my WordPress &lt; 4.5.0.2 - Unauthenticated LFI to RCE/PHAR Deserialization",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T06:08:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-52316",
+      "repo_info": "[TAM-K592/CVE-2024-52316](https://github.com/TAM-K592/CVE-2024-52316)",
+      "description": "CVE-2024-52316 - Apache Tomcat Authentication Bypass Vulnerability",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T10:22:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-48990",
+      "repo_info": "[makuga01/CVE-2024-48990-PoC](https://github.com/makuga01/CVE-2024-48990-PoC)",
+      "description": "PoC for CVE-2024-48990",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T18:41:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[Trackflaw/CVE-2024-10924-Wordpress-Docker](https://github.com/Trackflaw/CVE-2024-10924-Wordpress-Docker)",
+      "description": "Vulnerable docker container for Really Simple Security (Free, Pro, and Pro Multisite) 9.0.0 – 9.1.1.1 – Authentication Bypass CVE-2023-50164",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T16:50:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[julesbsz/CVE-2024-10924](https://github.com/julesbsz/CVE-2024-10924)",
+      "description": "POC for CVE-2024-10924 written in Python",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T13:13:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-0012",
+      "repo_info": "[greaselovely/CVE-2024-0012](https://github.com/greaselovely/CVE-2024-0012)",
+      "description": "PANW NGFW CVE-2024-0012",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T15:35:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-0012",
+      "repo_info": "[hazesecurity/CVE-2024-0012](https://github.com/hazesecurity/CVE-2024-0012)",
+      "description": "no description",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T16:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-28354",
+      "repo_info": "[stormfleet/CVE-2023-28354](https://github.com/stormfleet/CVE-2023-28354)",
+      "description": "CVE-2023-28354",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T15:19:32Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[SUDORM0X/PoC-CVE-2018-15473](https://github.com/SUDORM0X/PoC-CVE-2018-15473)",
+      "description": "FAFAF",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T13:40:14Z"
+    },
+    {
+      "cve_id": "CVE-2017-7504",
+      "repo_info": "[wudidwo/CVE-2017-7504-poc](https://github.com/wudidwo/CVE-2017-7504-poc)",
+      "description": "no description",
+      "date": "2024-11-20",
+      "raw_date": "2024-11-20T14:53:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.120775",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-11-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

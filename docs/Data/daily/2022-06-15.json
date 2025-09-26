@@ -1,0 +1,83 @@
+{
+  "date": "2022-06-15",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30709",
+      "repo_info": "[bl4ckmenace/CVE-2022-30709](https://github.com/bl4ckmenace/CVE-2022-30709)",
+      "description": "Reflected XSS on /link.cgi/ in Latest Webmin (1.994)",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T17:46:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[MalwareTech/FollinaExtractor](https://github.com/MalwareTech/FollinaExtractor)",
+      "description": "Extract payload URLs from Follina (CVE-2022-30190) docx and rtf files",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T02:22:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[Cerebrovinny/follina-CVE-2022-30190](https://github.com/Cerebrovinny/follina-CVE-2022-30190)",
+      "description": "follina zero day vulnerability to help Microsoft to mitigate the attack",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T22:49:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[notherealhazard/follina-CVE-2022-30190](https://github.com/notherealhazard/follina-CVE-2022-30190)",
+      "description": "no description",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T09:13:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-30023",
+      "repo_info": "[Haniwa0x01/CVE-2022-30023](https://github.com/Haniwa0x01/CVE-2022-30023)",
+      "description": "no description",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T16:10:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-22972",
+      "repo_info": "[bengisugun/CVE-2022-22972-](https://github.com/bengisugun/CVE-2022-22972-)",
+      "description": "IOC List",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T12:34:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-20004",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2022-20004)",
+      "description": "no description",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T10:29:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-2555",
+      "repo_info": "[minhangxiaohui/Weblogic_Coherence_exploit](https://github.com/minhangxiaohui/Weblogic_Coherence_exploit)",
+      "description": "some work for exploits cve-2020-2555\\2883\\14645 to attack ,draw lessons from Weblogic_cmd",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T08:28:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer](https://github.com/VinuKalana/CVE-2019-6447-Android-Vulnerability-in-ES-File-Explorer)",
+      "description": "This repository is developed to understand CVE-2019-6447",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T05:32:34Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor](https://github.com/p4tq/hikvision_CVE-2017-7921_auth_bypass_config_decryptor)",
+      "description": "no description",
+      "date": "2022-06-15",
+      "raw_date": "2022-06-15T03:49:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.899590",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-06-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

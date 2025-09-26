@@ -1,0 +1,125 @@
+{
+  "date": "2025-04-06",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-30567",
+      "repo_info": "[KaxuFF/CVE-2025-30567-PoC](https://github.com/KaxuFF/CVE-2025-30567-PoC)",
+      "description": "CVE-2025-30567 - WordPress WP01 &lt; Path traversal",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T14:38:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[gotr00t0day/CVE-2025-29927](https://github.com/gotr00t0day/CVE-2025-29927)",
+      "description": "Next.js Middleware Bypass Scanne",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T20:59:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[YEONDG/nextjs-cve-2025-29927](https://github.com/YEONDG/nextjs-cve-2025-29927)",
+      "description": "vulnerable-nextjs-14-CVE-2025-29927",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T04:55:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-2783",
+      "repo_info": "[Alchemist3dot14/CVE-2025-2783](https://github.com/Alchemist3dot14/CVE-2025-2783)",
+      "description": "Simulated PoC for CVE-2025-2783 — a sandbox escape vulnerability in Chrome&#x27;s Mojo IPC. Includes phishing delivery, memory fuzzing, IPC simulation, and logging. Safe for red team demos, detection engineering, and educational use.",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T03:49:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[La3B0z/CVE-2025-24813-POC](https://github.com/La3B0z/CVE-2025-24813-POC)",
+      "description": "CVE-2025-24813-POC JSP Web Shell Uploader",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T19:36:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-2005",
+      "repo_info": "[mrmtwoj/CVE-2025-2005](https://github.com/mrmtwoj/CVE-2025-2005)",
+      "description": "WordPress FEUP Arbitrary File Upload Exploit (CVE-2025-2005)",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T18:14:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-56145",
+      "repo_info": "[hmhlol/craft-cms-RCE-CVE-2024-56145](https://github.com/hmhlol/craft-cms-RCE-CVE-2024-56145)",
+      "description": "A POC lab environment for CVE-2024-56145 CraftCMS RCE.",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T10:16:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[VVeakee/CVE-2024-4367](https://github.com/VVeakee/CVE-2024-4367)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T03:37:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-42007",
+      "repo_info": "[BubblyCola/CVE_2024_42007](https://github.com/BubblyCola/CVE_2024_42007)",
+      "description": "Python exploit for CVE-2024-42007 — a path traversal vulnerability in php-spx &lt;= 0.4.15 that allows arbitrary file read via SPX_UI_URI parameter.",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T13:38:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[Koray123-debug/CVE-2024-34102](https://github.com/Koray123-debug/CVE-2024-34102)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T16:00:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[OliveiraaX/-CVE-2024-10924](https://github.com/OliveiraaX/-CVE-2024-10924)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T22:21:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[insomnia-jacob/CVE-2023-4220](https://github.com/insomnia-jacob/CVE-2023-4220)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T16:56:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[insomnia-jacob/CVE-2023-41425](https://github.com/insomnia-jacob/CVE-2023-41425)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T16:58:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-22978",
+      "repo_info": "[he-ewo/CVE-2022-22978](https://github.com/he-ewo/CVE-2022-22978)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T14:17:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-14714",
+      "repo_info": "[ediop3SquadALT/TimeInjector](https://github.com/ediop3SquadALT/TimeInjector)",
+      "description": "Time injector is a CVE-2018-14714 exploitation script",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T10:53:52Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[madanokr001/CVE-2011-2523](https://github.com/madanokr001/CVE-2011-2523)",
+      "description": "no description",
+      "date": "2025-04-06",
+      "raw_date": "2025-04-06T10:52:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.144610",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-04-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

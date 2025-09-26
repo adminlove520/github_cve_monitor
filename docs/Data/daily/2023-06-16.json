@@ -1,0 +1,69 @@
+{
+  "date": "2023-06-16",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-34830",
+      "repo_info": "[leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below](https://github.com/leekenghwa/CVE-2023-34830---Reflected-XSS-found-in-I-doit-Open-v24-and-below)",
+      "description": "no description",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T08:43:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-34830",
+      "repo_info": "[costacoco/Adiscon](https://github.com/costacoco/Adiscon)",
+      "description": "CVE-2023-34600",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T08:30:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[kenbuckler/MOVEit-CVE-2023-34362](https://github.com/kenbuckler/MOVEit-CVE-2023-34362)",
+      "description": "Repository with everything I have tracking the impact of MOVEit CVE-2023-34362",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T00:39:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[rio128128/CVE-2023-27997-POC](https://github.com/rio128128/CVE-2023-27997-POC)",
+      "description": "POC FortiOS SSL-VPN buffer overflow vulnerability",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T03:25:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[BishopFox/CVE-2023-27997-check](https://github.com/BishopFox/CVE-2023-27997-check)",
+      "description": "Safely detect whether a FortiGate SSL VPN instance is vulnerable to CVE-2023-27997 based on response timing",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T20:15:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Sweelg/CVE-2023-23752](https://github.com/Sweelg/CVE-2023-23752)",
+      "description": "Joomla未授权访问漏洞",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T07:53:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-23333",
+      "repo_info": "[Mr-xn/CVE-2023-23333](https://github.com/Mr-xn/CVE-2023-23333)",
+      "description": "SolarView Compact through 6.00 downloader.php commands injection (RCE) nuclei-templates",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T14:33:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-1011",
+      "repo_info": "[xkaneiki/CVE-2022-1011](https://github.com/xkaneiki/CVE-2022-1011)",
+      "description": "这个漏洞感觉只能信息泄露？",
+      "date": "2023-06-16",
+      "raw_date": "2023-06-16T03:02:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.032600",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-06-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

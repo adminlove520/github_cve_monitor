@@ -1,0 +1,55 @@
+{
+  "date": "2021-08-29",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[darrenmartyn/sophucked](https://github.com/darrenmartyn/sophucked)",
+      "description": "CVE-2020-25223",
+      "date": "2021-08-29",
+      "raw_date": "2021-08-29T11:08:53Z"
+    },
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[Vulnmachines/Ctirix_RCE-CVE-2019-19781](https://github.com/Vulnmachines/Ctirix_RCE-CVE-2019-19781)",
+      "description": "Citrix ADC RCE cve-2019-19781",
+      "date": "2021-08-29",
+      "raw_date": "2021-08-29T05:22:47Z"
+    },
+    {
+      "cve_id": "CVE-2019-19609",
+      "repo_info": "[diego-tella/CVE-2019-19609-EXPLOIT](https://github.com/diego-tella/CVE-2019-19609-EXPLOIT)",
+      "description": "Exploit for CVE-2019-19609 in Strapi (Remote Code Execution)",
+      "date": "2021-08-29",
+      "raw_date": "2021-08-29T17:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-19609",
+      "repo_info": "[ebadfd/CVE-2019-19609](https://github.com/ebadfd/CVE-2019-19609)",
+      "description": "Strapi Framework Vulnerable to Remote Code Execution",
+      "date": "2021-08-29",
+      "raw_date": "2021-08-29T16:18:27Z"
+    },
+    {
+      "cve_id": "CVE-2019-18818",
+      "repo_info": "[guglia001/CVE-2019-18818](https://github.com/guglia001/CVE-2019-18818)",
+      "description": "no description",
+      "date": "2021-08-29",
+      "raw_date": "2021-08-29T23:30:15Z"
+    },
+    {
+      "cve_id": "CVE-2017-3248",
+      "repo_info": "[BabyTeam1024/CVE-2017-3248](https://github.com/BabyTeam1024/CVE-2017-3248)",
+      "description": "no description",
+      "date": "2021-08-29",
+      "raw_date": "2021-08-29T03:24:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.861648",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

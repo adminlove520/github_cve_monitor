@@ -1,0 +1,20 @@
+{
+  "date": "2017-12-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-6516",
+      "repo_info": "[wpengfei/CVE-2016-6516-exploit](https://github.com/wpengfei/CVE-2016-6516-exploit)",
+      "description": "An demonstration of how to exploit double-fetch vulnerability CVE-2016-6516",
+      "date": "2017-12-07",
+      "raw_date": "2017-12-07T01:55:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.726474",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-12-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

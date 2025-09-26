@@ -1,0 +1,55 @@
+{
+  "date": "2020-12-14",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27949",
+      "repo_info": "[seemoo-lab/dtrace-memaccess_cve-2020-27949](https://github.com/seemoo-lab/dtrace-memaccess_cve-2020-27949)",
+      "description": "no description",
+      "date": "2020-12-14",
+      "raw_date": "2020-12-14T19:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-27190",
+      "repo_info": "[qlh831/x-CVE-2020-27190](https://github.com/qlh831/x-CVE-2020-27190)",
+      "description": "no description",
+      "date": "2020-12-14",
+      "raw_date": "2020-12-14T06:44:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-17530",
+      "repo_info": "[fengziHK/CVE-2020-17530-strust2-061](https://github.com/fengziHK/CVE-2020-17530-strust2-061)",
+      "description": "CVE-2020-17530-strust2-061",
+      "date": "2020-12-14",
+      "raw_date": "2020-12-14T06:54:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-15002",
+      "repo_info": "[skr0x1c0/SSRF-CVE-2020-15002](https://github.com/skr0x1c0/SSRF-CVE-2020-15002)",
+      "description": "https://hackerone.com/reports/863553",
+      "date": "2020-12-14",
+      "raw_date": "2020-12-14T07:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-15002",
+      "repo_info": "[skr0x1c0/Blind-SSRF-CVE-2020-15002](https://github.com/skr0x1c0/Blind-SSRF-CVE-2020-15002)",
+      "description": "https://hackerone.com/reports/865652",
+      "date": "2020-12-14",
+      "raw_date": "2020-12-14T07:48:44Z"
+    },
+    {
+      "cve_id": "CVE-2018-13379",
+      "repo_info": "[B1anda0/CVE-2018-13379](https://github.com/B1anda0/CVE-2018-13379)",
+      "description": "Fortinet FortiOS路径遍历漏洞 （CVE-2018-13379）批量检测脚本",
+      "date": "2020-12-14",
+      "raw_date": "2020-12-14T12:17:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.833924",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2020-12-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

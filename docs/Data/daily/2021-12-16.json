@@ -1,0 +1,41 @@
+{
+  "date": "2021-12-16",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Kr0ff/CVE-2021-44228](https://github.com/Kr0ff/CVE-2021-44228)",
+      "description": "Log4Shell Proof of Concept (CVE-2021-44228)",
+      "date": "2021-12-16",
+      "raw_date": "2021-12-16T21:19:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Joefreedy/Log4j-Windows-Scanner](https://github.com/Joefreedy/Log4j-Windows-Scanner)",
+      "description": "CVE-2021-44228 vulnerability in Apache Log4j library - Log4j vulnerability scanner on Windows machines.",
+      "date": "2021-12-16",
+      "raw_date": "2021-12-16T10:37:16Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[korteke/log4shell-demo](https://github.com/korteke/log4shell-demo)",
+      "description": "Simple webapp that is vulnerable to Log4Shell (CVE-2021-44228)",
+      "date": "2021-12-16",
+      "raw_date": "2021-12-16T12:44:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[axisops/CVE-2021-44228](https://github.com/axisops/CVE-2021-44228)",
+      "description": "log4j mitigation work",
+      "date": "2021-12-16",
+      "raw_date": "2021-12-16T16:42:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.873820",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-12-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

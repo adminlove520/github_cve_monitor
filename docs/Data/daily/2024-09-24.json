@@ -1,0 +1,62 @@
+{
+  "date": "2024-09-24",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8484",
+      "repo_info": "[RandomRobbieBF/CVE-2024-8484](https://github.com/RandomRobbieBF/CVE-2024-8484)",
+      "description": "REST API TO MiniProgram &lt;= 4.7.1 - Unauthenticated SQL Injection",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T13:46:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-7593",
+      "repo_info": "[D3N14LD15K/CVE-2024-7593_PoC_Exploit](https://github.com/D3N14LD15K/CVE-2024-7593_PoC_Exploit)",
+      "description": "CVE-2024-7593 Ivanti Virtual Traffic Manager 22.2R1 / 22.7R2 Admin Panel Authentication Bypass PoC [EXPLOIT]",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T22:24:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-47066",
+      "repo_info": "[l8BL/CVE-2024-47066](https://github.com/l8BL/CVE-2024-47066)",
+      "description": "Proof-of-Concept for CVE-2024-47066",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T09:59:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-43918",
+      "repo_info": "[KTN1990/CVE-2024-43918](https://github.com/KTN1990/CVE-2024-43918)",
+      "description": "WBW Product Table Pro &lt;= 1.9.4 - Unauthenticated Arbitrary SQL Execution to RCE",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T05:50:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-38200",
+      "repo_info": "[passtheticket/CVE-2024-38200](https://github.com/passtheticket/CVE-2024-38200)",
+      "description": "CVE-2024-38200 - Microsoft Office NTLMv2 Disclosure Vulnerability",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T19:24:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[horizon3ai/CVE-2024-28987](https://github.com/horizon3ai/CVE-2024-28987)",
+      "description": "Proof of Concept Exploit for CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T18:12:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-21987",
+      "repo_info": "[chunzhennn/cve-2023-21987-poc](https://github.com/chunzhennn/cve-2023-21987-poc)",
+      "description": "Oracle VirtualBox VGA OOB-Read Vulnerability",
+      "date": "2024-09-24",
+      "raw_date": "2024-09-24T14:01:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.110917",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-09-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

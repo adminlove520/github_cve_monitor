@@ -1,0 +1,20 @@
+{
+  "date": "2017-07-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8464",
+      "repo_info": "[embedi/amt_auth_bypass_poc](https://github.com/embedi/amt_auth_bypass_poc)",
+      "description": "CVE-2017-5689 Proof-of-Concept exploit",
+      "date": "2017-07-27",
+      "raw_date": "2017-07-27T21:06:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.714155",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-07-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2016-04-05",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-7547",
+      "repo_info": "[eSentire/cve-2015-7547-public](https://github.com/eSentire/cve-2015-7547-public)",
+      "description": "PoC attack server for CVE-2015-7547 buffer overflow vulnerability in glibc DNS stub resolver (public version)",
+      "date": "2016-04-05",
+      "raw_date": "2016-04-05T13:50:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.671905",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-04-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

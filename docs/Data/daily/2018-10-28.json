@@ -1,0 +1,20 @@
+{
+  "date": "2018-10-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-17961",
+      "repo_info": "[Zazzzles/Wordpress-DOS](https://github.com/Zazzzles/Wordpress-DOS)",
+      "description": "Exploit for vulnerability CVE-2018-6389 on wordpress sites",
+      "date": "2018-10-28",
+      "raw_date": "2018-10-28T21:05:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.756442",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-10-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

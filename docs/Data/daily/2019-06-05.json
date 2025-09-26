@@ -1,0 +1,27 @@
+{
+  "date": "2019-06-05",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-17456",
+      "repo_info": "[799600966/CVE-2018-17456](https://github.com/799600966/CVE-2018-17456)",
+      "description": "no description",
+      "date": "2019-06-05",
+      "raw_date": "2019-06-05T15:10:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-16341",
+      "repo_info": "[mpgn/CVE-2018-16341](https://github.com/mpgn/CVE-2018-16341)",
+      "description": "CVE-2018-16341 - Nuxeo Remote Code Execution without authentication using Server Side Template Injection",
+      "date": "2019-06-05",
+      "raw_date": "2019-06-05T18:24:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.777570",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-06-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2017-11-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-1000250",
+      "repo_info": "[olav-st/CVE-2017-1000250-PoC](https://github.com/olav-st/CVE-2017-1000250-PoC)",
+      "description": "Proof of concept exploit script for CVE-2017-1000250. Written while researching for the essay in TTM4137 Wireless Security.",
+      "date": "2017-11-12",
+      "raw_date": "2017-11-12T18:18:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.724129",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-11-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

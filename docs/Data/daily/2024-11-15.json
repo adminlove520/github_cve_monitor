@@ -1,0 +1,167 @@
+{
+  "date": "2024-11-15",
+  "count": 22,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9796",
+      "repo_info": "[issamiso/CVE-2024-9796](https://github.com/issamiso/CVE-2024-9796)",
+      "description": "WordPress WP-Advanced-Search &lt;= 3.3.9 - Unauthenticated SQL Injection",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T22:55:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-9464",
+      "repo_info": "[p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464](https://github.com/p33d/Palo-Alto-Expedition-Remote-Code-Execution-Exploit-CVE-2024-5910-CVE-2024-9464)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T23:46:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-7954",
+      "repo_info": "[issamiso/CVE-2024-7954](https://github.com/issamiso/CVE-2024-7954)",
+      "description": "The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request.",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T21:08:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-54761",
+      "repo_info": "[nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection](https://github.com/nscan9/CVE-2024-54761-BigAnt-Office-Messenger-5.6.06-RCE-via-SQL-Injection)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T05:55:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-52301",
+      "repo_info": "[martinhaunschmid/CVE-2024-52301-Research](https://github.com/martinhaunschmid/CVE-2024-52301-Research)",
+      "description": "A bit of research around CVE-2024-52301",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T19:11:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-51747",
+      "repo_info": "[l20170217b/CVE-2024-51747](https://github.com/l20170217b/CVE-2024-51747)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T03:40:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-50849",
+      "repo_info": "[Wh1teSnak3/CVE-2024-50849](https://github.com/Wh1teSnak3/CVE-2024-50849)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T19:51:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-50848",
+      "repo_info": "[Wh1teSnak3/CVE-2024-50848](https://github.com/Wh1teSnak3/CVE-2024-50848)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T18:57:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-50803",
+      "repo_info": "[Praison001/CVE-2024-50803-Redaxo](https://github.com/Praison001/CVE-2024-50803-Redaxo)",
+      "description": "Stored XSS in mediapool feature of Redaxo",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T17:05:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-50657",
+      "repo_info": "[SAHALLL/CVE-2024-50657](https://github.com/SAHALLL/CVE-2024-50657)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T05:22:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[expl0itsecurity/CVE-2024-47575](https://github.com/expl0itsecurity/CVE-2024-47575)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T13:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[skyalliance/exploit-cve-2024-47575](https://github.com/skyalliance/exploit-cve-2024-47575)",
+      "description": "FortiManager Unauthenticated Remote Code Execution (CVE-2024-47575)",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T03:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-43532",
+      "repo_info": "[expl0itsecurity/CVE-2024-43532](https://github.com/expl0itsecurity/CVE-2024-43532)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T13:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[expl0itsecurity/CVE-2024-28987](https://github.com/expl0itsecurity/CVE-2024-28987)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T13:27:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-2876",
+      "repo_info": "[issamiso/CVE-2024-2876](https://github.com/issamiso/CVE-2024-2876)",
+      "description": "WP-SQL-Injection CVE-2024-2876 AND 2024-CVE-2024-3495",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T22:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[expl0itsecurity/CVE-2024-23113](https://github.com/expl0itsecurity/CVE-2024-23113)",
+      "description": "no description",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T13:23:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-2242",
+      "repo_info": "[RandomRobbieBF/CVE-2024-2242](https://github.com/RandomRobbieBF/CVE-2024-2242)",
+      "description": "Contact Form 7 &lt;= 5.9 - Reflected Cross-Site Scripting",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T07:32:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-10914",
+      "repo_info": "[Bu0uCat/D-Link-NAS-CVE-2024-10914-](https://github.com/Bu0uCat/D-Link-NAS-CVE-2024-10914-)",
+      "description": "这是一个D-Link rce漏洞 检测程序",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T07:56:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-39275",
+      "repo_info": "[omar2535/CVE-2022-39275](https://github.com/omar2535/CVE-2022-39275)",
+      "description": "CVE-2022-39275 Setup and POC",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T22:21:16Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[Super-Binary/cve-2021-44228](https://github.com/Super-Binary/cve-2021-44228)",
+      "description": "这是安徽大学 “漏洞分析实验”（大三秋冬）期中作业归档。完整文档位于https://testgames.me/2024/11/10/cve-2021-44228/",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T01:11:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[KonEch0/CVE-2018-25031-SG](https://github.com/KonEch0/CVE-2018-25031-SG)",
+      "description": "CVE-2018-25031-SG",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T11:13:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-1000531",
+      "repo_info": "[realbatuhan/JWT-Bruteforcer](https://github.com/realbatuhan/JWT-Bruteforcer)",
+      "description": "Jwt Bruteforcer with CVE-2018-1000531 Test",
+      "date": "2024-11-15",
+      "raw_date": "2024-11-15T21:00:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.119829",
+  "metadata": {
+    "total_cves": 22,
+    "date_range": "2024-11-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

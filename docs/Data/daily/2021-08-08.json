@@ -1,0 +1,27 @@
+{
+  "date": "2021-08-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[julio-cfa/POC-ES-File-Explorer-CVE-2019-6447](https://github.com/julio-cfa/POC-ES-File-Explorer-CVE-2019-6447)",
+      "description": "Very basic bash script to exploit the CVE-2019-6447.",
+      "date": "2021-08-08",
+      "raw_date": "2021-08-08T02:54:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-2879",
+      "repo_info": "[prizoner627/CVE2018](https://github.com/prizoner627/CVE2018)",
+      "description": "pentesterlab challange",
+      "date": "2021-08-08",
+      "raw_date": "2021-08-08T13:26:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.859597",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

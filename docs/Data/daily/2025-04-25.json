@@ -1,0 +1,146 @@
+{
+  "date": "2025-04-25",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[becrevex/CVE-2025-32433](https://github.com/becrevex/CVE-2025-32433)",
+      "description": "Erlang OTP SSH NSE Discovery Script",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T15:57:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[0x7556/CVE-2025-32433](https://github.com/0x7556/CVE-2025-32433)",
+      "description": "CVE-2025-32433 Erlang/OTP SSH RCE Exploit",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T15:31:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-31324",
+      "repo_info": "[rxerium/CVE-2025-31324](https://github.com/rxerium/CVE-2025-31324)",
+      "description": "SAP NetWeaver Visual Composer Metadata Uploader is not protected with a proper authorization, allowing unauthenticated agent to upload potentially malicious executable binaries that could severely harm the host system. This could significantly affect the confidentiality, integrity, and availability of the targeted system.",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T15:22:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-3102",
+      "repo_info": "[SUPRAAA-1337/CVE-2025-3102-exploit](https://github.com/SUPRAAA-1337/CVE-2025-3102-exploit)",
+      "description": "Exploitation of an authorization bypass vulnerability in the SureTriggers plugin for WordPress versions &lt;= 1.0.78, allowing unauthenticated attackers to create new WordPress users.",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T23:28:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-3102",
+      "repo_info": "[SUPRAAA-1337/CVE-2025-3102](https://github.com/SUPRAAA-1337/CVE-2025-3102)",
+      "description": "Detects the version of the SureTriggers WordPress plugin from exposed asset URLs and compares it to determine if it&#x27;s vulnerable (&lt;= 1.0.78).",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T11:56:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-3102",
+      "repo_info": "[SUPRAAA-1337/CVE-2025-3102_v2](https://github.com/SUPRAAA-1337/CVE-2025-3102_v2)",
+      "description": "Checks the SureTriggers WordPress plugin&#x27;s readme.txt file for the Stable tag version. If the version is less than or equal to 1.0.78, it is considered vulnerable.0.78).",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T12:13:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[EQSTLab/CVE-2025-29927](https://github.com/EQSTLab/CVE-2025-29927)",
+      "description": "Next.js middleware bypass exploit",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T08:51:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-29306",
+      "repo_info": "[Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE](https://github.com/Mattb709/CVE-2025-29306-PoC-FoxCMS-RCE)",
+      "description": "Proof-of-Concept (PoC) for CVE-2025-29306, a Remote Code Execution vulnerability in FoxCMS. This Python script scans single or multiple targets, executes commands, and reports vulnerable hosts.",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T03:45:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-0927",
+      "repo_info": "[mr-spongebob/CVE-2025-0927](https://github.com/mr-spongebob/CVE-2025-0927)",
+      "description": "no description",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T13:13:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-32830",
+      "repo_info": "[ptrstr/CVE-2024-32830-poc](https://github.com/ptrstr/CVE-2024-32830-poc)",
+      "description": "PoC code to download files with CVE-2024-32830",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T16:35:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[CyprianAtsyor/CVE-2024-24919-Incident-Report.md](https://github.com/CyprianAtsyor/CVE-2024-24919-Incident-Report.md)",
+      "description": "no description",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T09:30:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[becrevex/CVE-2023-41425](https://github.com/becrevex/CVE-2023-41425)",
+      "description": "WonderCMS v3.4.2 NSE Discovery Script",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T16:11:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-41064",
+      "repo_info": "[K4Der11000/k4_cve-2023-41064](https://github.com/K4Der11000/k4_cve-2023-41064)",
+      "description": "no description",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T14:36:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-30861",
+      "repo_info": "[fromitive/cve-2023-30861-poc](https://github.com/fromitive/cve-2023-30861-poc)",
+      "description": "Flask CVE-2023-30861 Poc 환경구축",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T06:59:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-1545",
+      "repo_info": "[gunzf0x/CVE-2023-1545](https://github.com/gunzf0x/CVE-2023-1545)",
+      "description": "Python Proof of Concept for CVE-2023-1545 (SQL Injection for Teampass versions prior to 3.0.0.23).",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T18:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2019-5420",
+      "repo_info": "[sealldeveloper/CVE-2019-5420-PoC](https://github.com/sealldeveloper/CVE-2019-5420-PoC)",
+      "description": "A PoC of CVE-2019-5420 I made for PentesterLab",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T18:03:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-0114",
+      "repo_info": "[sealldeveloper/CVE-2018-0114-PoC](https://github.com/sealldeveloper/CVE-2018-0114-PoC)",
+      "description": "A PoC of CVE-2018-0114 I made for PentesterLab",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T15:04:39Z"
+    },
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[sealldeveloper/CVE-2016-2098-PoC](https://github.com/sealldeveloper/CVE-2016-2098-PoC)",
+      "description": "A PoC of CVE-2016-2098 I made for PentesterLab",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T16:02:26Z"
+    },
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[sealldeveloper/CVE-2016-10033-PoC](https://github.com/sealldeveloper/CVE-2016-10033-PoC)",
+      "description": "A PoC of CVE-2016-10033 I made for PentesterLab",
+      "date": "2025-04-25",
+      "raw_date": "2025-04-25T15:47:14Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.148739",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2025-04-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

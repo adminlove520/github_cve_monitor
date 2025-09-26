@@ -1,0 +1,55 @@
+{
+  "date": "2022-08-11",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-36446",
+      "repo_info": "[p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE](https://github.com/p0dalirius/CVE-2022-36446-Webmin-Software-Package-Updates-RCE)",
+      "description": "A Python script to exploit CVE-2022-36446 Software Package Updates RCE (Authenticated) on Webmin &lt; 1.997.",
+      "date": "2022-08-11",
+      "raw_date": "2022-08-11T11:47:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-31262",
+      "repo_info": "[secure-77/CVE-2022-31262](https://github.com/secure-77/CVE-2022-31262)",
+      "description": "GOG Galaxy LPE Exploit",
+      "date": "2022-08-11",
+      "raw_date": "2022-08-11T19:33:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-2588",
+      "repo_info": "[Markakd/CVE-2022-2588](https://github.com/Markakd/CVE-2022-2588)",
+      "description": "exploit for CVE-2022-2588",
+      "date": "2022-08-11",
+      "raw_date": "2022-08-11T06:01:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-24654",
+      "repo_info": "[leonardobg/CVE-2022-24654](https://github.com/leonardobg/CVE-2022-24654)",
+      "description": "PoC for CVE-2022-24654",
+      "date": "2022-08-11",
+      "raw_date": "2022-08-11T15:06:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-4154",
+      "repo_info": "[Markakd/CVE-2021-4154](https://github.com/Markakd/CVE-2021-4154)",
+      "description": "CVE-2021-4154 exploit",
+      "date": "2022-08-11",
+      "raw_date": "2022-08-11T05:46:27Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Silencecyber/cve-2021-4034](https://github.com/Silencecyber/cve-2021-4034)",
+      "description": "no description",
+      "date": "2022-08-11",
+      "raw_date": "2022-08-11T14:10:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.907441",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-08-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

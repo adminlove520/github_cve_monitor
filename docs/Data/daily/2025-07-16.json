@@ -1,0 +1,125 @@
+{
+  "date": "2025-07-16",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-5777](https://github.com/B1ack4sh/Blackash-CVE-2025-5777)",
+      "description": "CVE-2025-5777",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T15:12:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-53964",
+      "repo_info": "[tigr78/CVE-2025-53964](https://github.com/tigr78/CVE-2025-53964)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T21:35:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-52688",
+      "repo_info": "[joelczk/CVE-2025-52688](https://github.com/joelczk/CVE-2025-52688)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T11:38:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[nguyentranbaotran/cve-2025-48384-poc](https://github.com/nguyentranbaotran/cve-2025-48384-poc)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T03:59:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-47812",
+      "repo_info": "[rxerium/CVE-2025-47812](https://github.com/rxerium/CVE-2025-47812)",
+      "description": "Detection for CVE-2025-47812",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T06:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[92gmuz/CVE-2025-32463](https://github.com/92gmuz/CVE-2025-32463)",
+      "description": "Privilege escalation to root via sudo without gcc. Exploit works on vulnerable sudo versions. Clone the repo and run the script. 🐙💻",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T19:33:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[Floodnut/CVE-2025-32463](https://github.com/Floodnut/CVE-2025-32463)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T16:55:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[krypton-0x00/CVE-2025-32463-Chwoot-POC](https://github.com/krypton-0x00/CVE-2025-32463-Chwoot-POC)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T11:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-32432",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-32432](https://github.com/B1ack4sh/Blackash-CVE-2025-32432)",
+      "description": "CVE-2025-32432",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T09:23:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-27521",
+      "repo_info": "[alialucas7/CVE-2025-27521_PoC](https://github.com/alialucas7/CVE-2025-27521_PoC)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T22:31:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-27210",
+      "repo_info": "[absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit](https://github.com/absholi7ly/CVE-2025-27210_NodeJS_Path_Traversal_Exploit)",
+      "description": "(PoC) CVE-2025-27210, a precise Path Traversal vulnerability affecting Node.js applications running on Microsoft Windows. This vulnerability leverages the specific way Windows handles reserved device file names",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T05:33:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-22870",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-22870](https://github.com/B1ack4sh/Blackash-CVE-2025-22870)",
+      "description": "CVE-2025-22870",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T21:02:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[Skycritch/CVE-2024-4577](https://github.com/Skycritch/CVE-2024-4577)",
+      "description": "Exploit for php-cgi",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T00:03:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-25226",
+      "repo_info": "[krill-x7/CVE-2022-25226](https://github.com/krill-x7/CVE-2022-25226)",
+      "description": "ThinVNC 1.0b1 - Authentication Bypass to RCE",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T02:56:46Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[Kalidas-7/CVE-2019-9053](https://github.com/Kalidas-7/CVE-2019-9053)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T16:37:48Z"
+    },
+    {
+      "cve_id": "CVE-2013-3900",
+      "repo_info": "[malaya-m/cve-2013-3900-remediation-report](https://github.com/malaya-m/cve-2013-3900-remediation-report)",
+      "description": "no description",
+      "date": "2025-07-16",
+      "raw_date": "2025-07-16T09:33:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.164922",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-07-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

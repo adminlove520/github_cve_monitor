@@ -1,0 +1,20 @@
+{
+  "date": "2021-06-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9496",
+      "repo_info": "[ambalabanov/CVE-2020-9496](https://github.com/ambalabanov/CVE-2020-9496)",
+      "description": "XML-RPC request are vulnerable to unsafe deserialization and Cross-Site Scripting issues in Apache OFBiz 17.12.03",
+      "date": "2021-06-06",
+      "raw_date": "2021-06-06T10:32:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.853078",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-06-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

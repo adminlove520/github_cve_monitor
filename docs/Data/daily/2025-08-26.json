@@ -1,0 +1,104 @@
+{
+  "date": "2025-08-26",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC](https://github.com/DeepBlue-dot/CVE-2025-8088-WinRAR-Startup-PoC)",
+      "description": "no description",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T01:43:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal](https://github.com/AdityaBhatt3010/CVE-2025-8088-WinRAR-Zero-Day-Path-Traversal)",
+      "description": "An engaging walkthrough on uncovering, patching, and securing the WinRAR CVE-2025-8088 with a hands-on hacker’s twist.",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T20:37:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[torjan0/xwiki_solrsearch-rce-exploit](https://github.com/torjan0/xwiki_solrsearch-rce-exploit)",
+      "description": "Unauth RCE PoC for XWiki SolrSearch (CVE-2025-24893). Command exec + reverse shell. Built during process of pwning HTB “Editor”",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T20:12:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[pescada-dev/-CVE-2025-8088](https://github.com/pescada-dev/-CVE-2025-8088)",
+      "description": "POWERSHEL script to check if your device is affected or no",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T16:32:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-57773",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-57773](https://github.com/B1ack4sh/Blackash-CVE-2025-57773)",
+      "description": "Blackash-CVE-2025-57773",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T12:41:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-34030",
+      "repo_info": "[HackerTyperAbuser/CVE-2025-34030-PoC](https://github.com/HackerTyperAbuser/CVE-2025-34030-PoC)",
+      "description": "PoC for CVE-2025-34030 sar2html &#x27;plot&#x27; parameter RCE",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T01:08:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-24893",
+      "repo_info": "[ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup](https://github.com/ibadovulfat/CVE-2025-24893_HackTheBox-Editor-Writeup)",
+      "description": "A critical remote code execution (RCE) vulnerability (CVE‑2025‑24893) exists in the XWiki Platform, specifically in the SolrSearch RSS feed endpoint.",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T10:33:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-0762",
+      "repo_info": "[abandon1337/CVE-2024-0762](https://github.com/abandon1337/CVE-2024-0762)",
+      "description": "UEFIcanhazbufferoverflow",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T02:05:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-45866",
+      "repo_info": "[Sergeb250/BlueDucky](https://github.com/Sergeb250/BlueDucky)",
+      "description": "BlueDucky exploits a Bluetooth vulnerability, specifically CVE-2023-45866, which allows an attacker to inject keystrokes into a target device. The attacker&#x27;s device impersonates a Bluetooth keyboard to establish an encrypted connection without user authorization. The BlueDucky tool automates this process",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T14:26:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-45866",
+      "repo_info": "[cyboorgCommit/cebubmission](https://github.com/cyboorgCommit/cebubmission)",
+      "description": "Pilot program for CVE submission through GitHub. CVE Record Submission via Pilot PRs ending 6/30/2023",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T10:39:09Z"
+    },
+    {
+      "cve_id": "CVE-2019-6693",
+      "repo_info": "[Real4XoR/CVE-2019-6693](https://github.com/Real4XoR/CVE-2019-6693)",
+      "description": "no description",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T03:15:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-11043",
+      "repo_info": "[a1ex-var1amov/ctf-cve-2019-11043](https://github.com/a1ex-var1amov/ctf-cve-2019-11043)",
+      "description": "no description",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T15:55:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[futureFfff/CVE-2017](https://github.com/futureFfff/CVE-2017)",
+      "description": "Proof-of-Concept exploits for CVE-2017-11882",
+      "date": "2025-08-26",
+      "raw_date": "2025-08-26T13:24:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.174383",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-08-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2022-11-10",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-43332",
+      "repo_info": "[maikroservice/CVE-2022-43332](https://github.com/maikroservice/CVE-2022-43332)",
+      "description": "Cross Site Scripting in WonderCMS v3.3.4",
+      "date": "2022-11-10",
+      "raw_date": "2022-11-10T10:06:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-43332",
+      "repo_info": "[mattjmillner/CVE-Smackdown](https://github.com/mattjmillner/CVE-Smackdown)",
+      "description": "Implementation of CVE-2022-30190 in C",
+      "date": "2022-11-10",
+      "raw_date": "2022-11-10T18:15:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-39395",
+      "repo_info": "[harry1osborn/CVE-2022-39395](https://github.com/harry1osborn/CVE-2022-39395)",
+      "description": "CVE-2022-39395 valid pay",
+      "date": "2022-11-10",
+      "raw_date": "2022-11-10T01:42:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-1012",
+      "repo_info": "[nanopathi/Linux-4.19.72_CVE-2022-1012](https://github.com/nanopathi/Linux-4.19.72_CVE-2022-1012)",
+      "description": "no description",
+      "date": "2022-11-10",
+      "raw_date": "2022-11-10T08:30:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-25641",
+      "repo_info": "[l0n3rs/CVE-2021-25641](https://github.com/l0n3rs/CVE-2021-25641)",
+      "description": "A Exploit Tool For CVE-2021-25641.",
+      "date": "2022-11-10",
+      "raw_date": "2022-11-10T06:33:54Z"
+    },
+    {
+      "cve_id": "CVE-2017-0785",
+      "repo_info": "[Joanmei/CVE-2017-0785](https://github.com/Joanmei/CVE-2017-0785)",
+      "description": "no description",
+      "date": "2022-11-10",
+      "raw_date": "2022-11-10T15:34:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.920886",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-11-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

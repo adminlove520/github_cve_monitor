@@ -1,0 +1,55 @@
+{
+  "date": "2020-07-13",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8193",
+      "repo_info": "[PR3R00T/CVE-2020-8193-Citrix-Scanner](https://github.com/PR3R00T/CVE-2020-8193-Citrix-Scanner)",
+      "description": "Scanning for CVE-2020-8193 - Auth Bypass check",
+      "date": "2020-07-13",
+      "raw_date": "2020-07-13T10:36:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-24033",
+      "repo_info": "[M0NsTeRRR/CVE-2020-24033](https://github.com/M0NsTeRRR/CVE-2020-24033)",
+      "description": "no description",
+      "date": "2020-07-13",
+      "raw_date": "2020-07-13T00:25:58Z"
+    },
+    {
+      "cve_id": "CVE-2019-18988",
+      "repo_info": "[mr-r3b00t/CVE-2019-18988](https://github.com/mr-r3b00t/CVE-2019-18988)",
+      "description": "TeamViewer Store Credentials Decryption",
+      "date": "2020-07-13",
+      "raw_date": "2020-07-13T15:30:02Z"
+    },
+    {
+      "cve_id": "CVE-2019-18988",
+      "repo_info": "[JonasDL/PruebaCVE20191351](https://github.com/JonasDL/PruebaCVE20191351)",
+      "description": "Prueba de CVE-2019-1351",
+      "date": "2020-07-13",
+      "raw_date": "2020-07-13T00:33:43Z"
+    },
+    {
+      "cve_id": "CVE-2019-11043",
+      "repo_info": "[corifeo/CVE-2019-11043](https://github.com/corifeo/CVE-2019-11043)",
+      "description": "quick and dirty PHP RCE proof of concept",
+      "date": "2020-07-13",
+      "raw_date": "2020-07-13T16:32:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-1297",
+      "repo_info": "[Chirantar7004/Android-Passive-Location-Tracker](https://github.com/Chirantar7004/Android-Passive-Location-Tracker)",
+      "description": "Location tracking app without location permissions! Makes use of CVE-2018-15835 which makes use of Android OS information leakage.",
+      "date": "2020-07-13",
+      "raw_date": "2020-07-13T20:43:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.817140",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2020-07-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

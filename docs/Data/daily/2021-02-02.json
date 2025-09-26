@@ -1,0 +1,20 @@
+{
+  "date": "2021-02-02",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2028",
+      "repo_info": "[mambroziak/docker-cve-2013-2028](https://github.com/mambroziak/docker-cve-2013-2028)",
+      "description": "Dockerfile to build cve-2013-2028 container with centos6 and nginx",
+      "date": "2021-02-02",
+      "raw_date": "2021-02-02T03:45:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.839613",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-02-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

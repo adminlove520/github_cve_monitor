@@ -1,0 +1,237 @@
+{
+  "date": "2024-07-01",
+  "count": 32,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[xaitax/CVE-2024-6387_Check](https://github.com/xaitax/CVE-2024-6387_Check)",
+      "description": "CVE-2024-6387_Check is a lightweight, efficient tool designed to identify servers running vulnerable versions of OpenSSH",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T20:33:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[kuffsit/check_cve_2024_6387](https://github.com/kuffsit/check_cve_2024_6387)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T16:38:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[bigb0x/CVE-2024-6387](https://github.com/bigb0x/CVE-2024-6387)",
+      "description": "Bulk Scanning Tool for OpenSSH  CVE-2024-6387, CVE-2006-5051 and CVE-2008-4109.",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T20:45:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[jack0we/CVE-2024-6387](https://github.com/jack0we/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T18:28:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[TrustResearcher/CVE-2024-6387-Updated-SSH-RCE](https://github.com/TrustResearcher/CVE-2024-6387-Updated-SSH-RCE)",
+      "description": "CVE-2024-6387 for SSH RCE in Python [Update]",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T15:30:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[lflare/cve-2024-6387-poc](https://github.com/lflare/cve-2024-6387-poc)",
+      "description": "32-bit PoC for CVE-2024-6387 &quot;regreSSHion&quot; -- mirror of the original 7etsuo/cve-2024-6387-poc",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T12:26:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[passwa11/cve-2024-6387-poc](https://github.com/passwa11/cve-2024-6387-poc)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T14:08:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[FerasAlrimali/CVE-2024-6387-POC](https://github.com/FerasAlrimali/CVE-2024-6387-POC)",
+      "description": "SSHd cve-2024-6387-poc",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T13:38:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[getdrive/CVE-2024-6387-PoC](https://github.com/getdrive/CVE-2024-6387-PoC)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T12:51:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[shyrwall/cve-2024-6387-poc](https://github.com/shyrwall/cve-2024-6387-poc)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T12:48:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[acrono/cve-2024-6387-poc](https://github.com/acrono/cve-2024-6387-poc)",
+      "description": "32-bit PoC for CVE-2024-6387 — mirror of the original 7etsuo/cve-2024-6387-poc",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T12:16:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[zgzhang/cve-2024-6387-poc](https://github.com/zgzhang/cve-2024-6387-poc)",
+      "description": "a signal handler race condition in OpenSSH&#x27;s server (sshd)",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:55:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-6050",
+      "repo_info": "[kac89/CVE-2024-6050](https://github.com/kac89/CVE-2024-6050)",
+      "description": "Reflected XSS in SOWA OPAC",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T14:31:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-5961",
+      "repo_info": "[kac89/CVE-2024-5961](https://github.com/kac89/CVE-2024-5961)",
+      "description": "Reflected XSS in 2ClickPortal",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T11:17:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-37765",
+      "repo_info": "[Atreb92/cve-2024-37765](https://github.com/Atreb92/cve-2024-37765)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:39:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-37764",
+      "repo_info": "[Atreb92/cve-2024-37764](https://github.com/Atreb92/cve-2024-37764)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:37:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-37763",
+      "repo_info": "[Atreb92/cve-2024-37763](https://github.com/Atreb92/cve-2024-37763)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:35:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-37762",
+      "repo_info": "[Atreb92/cve-2024-37762](https://github.com/Atreb92/cve-2024-37762)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:28:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento](https://github.com/jakabakos/CVE-2024-34102-CosmicSting-XXE-in-Adobe-Commerce-and-Magento)",
+      "description": "CosmicSting: critical unauthenticated XXE vulnerability in Adobe Commerce and Magento (CVE-2024-34102)",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T08:19:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[cmsec423/Magento-XXE-CVE-2024-34102](https://github.com/cmsec423/Magento-XXE-CVE-2024-34102)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T05:08:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[cmsec423/CVE-2024-34102](https://github.com/cmsec423/CVE-2024-34102)",
+      "description": "Magento XXE",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T05:06:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-29269",
+      "repo_info": "[K3ysTr0K3R/CVE-2024-29269-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-29269-EXPLOIT)",
+      "description": "A PoC exploit for CVE-2024-29269 - Telesquare TLR-2005KSH Remote Code Execution (RCE)",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T23:49:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-29269",
+      "repo_info": "[wiggels/regresshion-check](https://github.com/wiggels/regresshion-check)",
+      "description": "CLI Tool to Check SSH Servers for Vulnerability to CVE-2024-6387",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T22:53:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-28995",
+      "repo_info": "[Stuub/CVE-2024-28995](https://github.com/Stuub/CVE-2024-28995)",
+      "description": "CVE-2024-28955 Exploitation PoC",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T11:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-20666",
+      "repo_info": "[invaderslabs/CVE-2024-20666](https://github.com/invaderslabs/CVE-2024-20666)",
+      "description": "CVE-2024-20666 vulnerability Solution patch failures in the Windows Recovery Environment (WinRE).",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:14:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-40127",
+      "repo_info": "[RenukaSelvar/packages_providers_MediaProvider_CVE-2023-40127](https://github.com/RenukaSelvar/packages_providers_MediaProvider_CVE-2023-40127)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T12:46:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-40127",
+      "repo_info": "[RenukaSelvar/platform_packages_providers_MediaProvider_CVE-2023-40127](https://github.com/RenukaSelvar/platform_packages_providers_MediaProvider_CVE-2023-40127)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T12:23:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-40127",
+      "repo_info": "[saurabh2088/platform_packages_providers_MediaProvider_CVE-2023-40127](https://github.com/saurabh2088/platform_packages_providers_MediaProvider_CVE-2023-40127)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T11:24:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-39361",
+      "repo_info": "[HPT-Intern-Task-Submission/CVE-2023-39361](https://github.com/HPT-Intern-Task-Submission/CVE-2023-39361)",
+      "description": "no description",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T13:36:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[evkl1d/CVE-2021-4034](https://github.com/evkl1d/CVE-2021-4034)",
+      "description": "polkit",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T08:04:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-19609",
+      "repo_info": "[Hackhoven/Strapi-RCE](https://github.com/Hackhoven/Strapi-RCE)",
+      "description": "Exploit script showcasing a mixture of CVE-2019-18818 and CVE-2019-19609 for unauthenticated remote code execution in Strapi CMS.",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T10:23:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-19609",
+      "repo_info": "[mbadanoiu/MAL-008](https://github.com/mbadanoiu/MAL-008)",
+      "description": "Case Study: SSHtranger Things (CVE-2019-6111, CVE-2019-6110) in Cisco SD-WAN",
+      "date": "2024-07-01",
+      "raw_date": "2024-07-01T14:07:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.095931",
+  "metadata": {
+    "total_cves": 32,
+    "date_range": "2024-07-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "date": "2025-03-07",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2525-25748",
+      "repo_info": "[huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2525-25748-Cross-Site-Request-Forgery-CSRF-Vulnerability-in-HotelDruid-3.0.7)",
+      "description": "Cross-Site Request Forgery (CSRF) Vulnerability in HotelDruid 3.0.7 (CVE-2025-25748)",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T12:07:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-26056",
+      "repo_info": "[rohan-pt/CVE-2025-26056](https://github.com/rohan-pt/CVE-2025-26056)",
+      "description": "no description",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T18:22:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-26055",
+      "repo_info": "[rohan-pt/CVE-2025-26055](https://github.com/rohan-pt/CVE-2025-26055)",
+      "description": "CVE Description",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T18:21:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-26054",
+      "repo_info": "[rohan-pt/CVE-2025-26054](https://github.com/rohan-pt/CVE-2025-26054)",
+      "description": "CVE-2025-26054",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T18:21:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-25749",
+      "repo_info": "[huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7](https://github.com/huyvo2910/CVE-2025-25749-Weak-Password-Policy-in-HotelDruid-3.0.7)",
+      "description": "no description",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T12:18:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-25747",
+      "repo_info": "[huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS](https://github.com/huyvo2910/CVE-2025-25747-HotelDruid-3-0-7-Reflected-XSS)",
+      "description": "no description",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T11:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-21298",
+      "repo_info": "[Dit-Developers/CVE-2025-21298](https://github.com/Dit-Developers/CVE-2025-21298)",
+      "description": "A Critical Windows OLE Zero-Click Vulnerability",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T16:54:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-57972",
+      "repo_info": "[tania-silva/CVE-2024-57972](https://github.com/tania-silva/CVE-2024-57972)",
+      "description": "no description",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T12:02:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-40028",
+      "repo_info": "[syogod/CVE-2023-40028](https://github.com/syogod/CVE-2023-40028)",
+      "description": "CVE-2023-40028 is a security vulnerability affecting Ghost CMS versions prior to 5.59.1.",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T00:48:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-37787",
+      "repo_info": "[vasykor/CVE-2021-37787](https://github.com/vasykor/CVE-2021-37787)",
+      "description": "CVE-2021-37787",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T13:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.](https://github.com/PakwanSK/Simulating-and-preventing-Zerologon-CVE-2020-1472-vulnerability-attacks.)",
+      "description": "Simulation of the Zerologon (CVE-2020-1472) vulnerability attack in Active Directory on Windows Server 2016 and the use of the Trend Micro Deep Security solution to prevent such attacks.",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T02:28:21Z"
+    },
+    {
+      "cve_id": "CVE-2019-7214",
+      "repo_info": "[Drew-Alleman/CVE-2019-7214](https://github.com/Drew-Alleman/CVE-2019-7214)",
+      "description": "Python3 Rewrite of SmarterMail &lt; Build 6985 Remote Code Execution found by 1F98D (CVE-2019-7214)",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T02:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[elw0od/PentesterLab](https://github.com/elw0od/PentesterLab)",
+      "description": "OrangeBadge - Exercise CVE-2018-6574: go get RCE",
+      "date": "2025-03-07",
+      "raw_date": "2025-03-07T13:24:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.138423",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-03-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

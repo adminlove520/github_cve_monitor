@@ -1,0 +1,20 @@
+{
+  "date": "2021-02-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-1769",
+      "repo_info": "[int0/CVE-2015-1769](https://github.com/int0/CVE-2015-1769)",
+      "description": "PoC for CVE-2015-1769",
+      "date": "2021-02-17",
+      "raw_date": "2021-02-17T03:25:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.841214",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-02-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

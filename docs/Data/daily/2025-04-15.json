@@ -1,0 +1,139 @@
+{
+  "date": "2025-04-15",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-46078",
+      "repo_info": "[yggcwhat/CVE-2025-46078](https://github.com/yggcwhat/CVE-2025-46078)",
+      "description": "Vulnerability Description",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T13:01:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-30406",
+      "repo_info": "[bronsoneaver/CVE-2025-30406](https://github.com/bronsoneaver/CVE-2025-30406)",
+      "description": "Use of Hard-coded Cryptographic Key (CWE-321)",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T21:48:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-29722",
+      "repo_info": "[cypherdavy/CVE-2025-29722](https://github.com/cypherdavy/CVE-2025-29722)",
+      "description": "Cross Site Request Forgery (CSRF) in Commercify v1.0",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T12:47:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-29279",
+      "repo_info": "[0xBl4nk/CVE-2025-29279](https://github.com/0xBl4nk/CVE-2025-29279)",
+      "description": "POC",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T22:54:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-29278",
+      "repo_info": "[0xBl4nk/CVE-2025-29278](https://github.com/0xBl4nk/CVE-2025-29278)",
+      "description": "POC",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T23:03:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-29277",
+      "repo_info": "[0xBl4nk/CVE-2025-29277](https://github.com/0xBl4nk/CVE-2025-29277)",
+      "description": "POC",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T23:08:52Z"
+    },
+    {
+      "cve_id": "CVE-2025-29276",
+      "repo_info": "[0xBl4nk/CVE-2025-29276](https://github.com/0xBl4nk/CVE-2025-29276)",
+      "description": "POC",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T23:13:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-29275",
+      "repo_info": "[0xBl4nk/CVE-2025-29275](https://github.com/0xBl4nk/CVE-2025-29275)",
+      "description": "POC",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T23:22:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-24799",
+      "repo_info": "[MatheuZSecurity/Exploit-CVE-2025-24799](https://github.com/MatheuZSecurity/Exploit-CVE-2025-24799)",
+      "description": "CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T04:57:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-24016",
+      "repo_info": "[celsius026/poc_CVE-2025-24016](https://github.com/celsius026/poc_CVE-2025-24016)",
+      "description": "no description",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T14:24:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-2294",
+      "repo_info": "[rhz0d/CVE-2025-2294](https://github.com/rhz0d/CVE-2025-2294)",
+      "description": "no description",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T19:27:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-55211",
+      "repo_info": "[micaelmaciel/CVE-2024-55211](https://github.com/micaelmaciel/CVE-2024-55211)",
+      "description": "Cookie-based authentication vulnerability on Tk-Rt-Wr135G",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T20:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-52550",
+      "repo_info": "[Anton-ai111/CVE-2024-52550](https://github.com/Anton-ai111/CVE-2024-52550)",
+      "description": "CVE-2024-52550",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T14:30:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-34844",
+      "repo_info": "[shkch02/cve_2023_34844](https://github.com/shkch02/cve_2023_34844)",
+      "description": "no description",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T13:32:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-1514",
+      "repo_info": "[wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-](https://github.com/wsx-rootdeef/CVE-2023-1514-SQL-Injection-Teampass-)",
+      "description": "no description",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T00:54:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[Hackheart-tech/-exploit-lab](https://github.com/Hackheart-tech/-exploit-lab)",
+      "description": "Exploits Python cve-2019-9053– by HackHeart",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T19:41:33Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[kaizoku73/CVE-2019-9053](https://github.com/kaizoku73/CVE-2019-9053)",
+      "description": "CMS Made Simple ≤ 2.2.9 SQL Injection Vulnerability CVE-2019-9053 is a vulnerability found in CMS Made Simple (CMSMS) versions up to 2.2.9, where the application is vulnerable to a blind time-based SQL injection",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T14:11:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[del0x3/CVE-2019-9053-port-py3](https://github.com/del0x3/CVE-2019-9053-port-py3)",
+      "description": "CVE-2019-9053.",
+      "date": "2025-04-15",
+      "raw_date": "2025-04-15T06:51:14Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.146591",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2025-04-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

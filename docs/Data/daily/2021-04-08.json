@@ -1,0 +1,27 @@
+{
+  "date": "2021-04-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-1000117",
+      "repo_info": "[USSCltd/aaLogger](https://github.com/USSCltd/aaLogger)",
+      "description": "CVE-2017-9627 CVE-2017-9629 CVE-2017-9631",
+      "date": "2021-04-08",
+      "raw_date": "2021-04-08T09:16:47Z"
+    },
+    {
+      "cve_id": "CVE-2003-0264",
+      "repo_info": "[SxNade/CVE-2003-0264_EXPLOIT](https://github.com/SxNade/CVE-2003-0264_EXPLOIT)",
+      "description": "Buffer Overflow in Seattle Lab Mail (SLmail) 5.5 - POP3",
+      "date": "2021-04-08",
+      "raw_date": "2021-04-08T04:51:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.846906",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-04-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

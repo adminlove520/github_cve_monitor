@@ -1,0 +1,34 @@
+{
+  "date": "2018-11-28",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-14667",
+      "repo_info": "[r00t4dm/CVE-2018-14667](https://github.com/r00t4dm/CVE-2018-14667)",
+      "description": "about CVE-2018-14667 from RichFaces Framework 3.3.4",
+      "date": "2018-11-28",
+      "raw_date": "2018-11-28T07:35:28Z"
+    },
+    {
+      "cve_id": "CVE-2016-3957",
+      "repo_info": "[msharm33/CVE2016-5734](https://github.com/msharm33/CVE2016-5734)",
+      "description": "Group Project S&amp;P",
+      "date": "2018-11-28",
+      "raw_date": "2018-11-28T15:34:24Z"
+    },
+    {
+      "cve_id": "CVE-2011-4862",
+      "repo_info": "[lol-fi/cve-2011-4862](https://github.com/lol-fi/cve-2011-4862)",
+      "description": "no description",
+      "date": "2018-11-28",
+      "raw_date": "2018-11-28T21:13:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.759707",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-11-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

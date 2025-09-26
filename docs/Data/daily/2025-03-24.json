@@ -1,0 +1,188 @@
+{
+  "date": "2025-03-24",
+  "count": 25,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[Oyst3r1ng/CVE-2025-29927](https://github.com/Oyst3r1ng/CVE-2025-29927)",
+      "description": "Next.js Middleware Auth Bypass",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T13:27:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[elshaheedy/CVE-2025-29927-Sigma-Rule](https://github.com/elshaheedy/CVE-2025-29927-Sigma-Rule)",
+      "description": "Sigma Rule for CVE-2025–29927 Detection",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T23:13:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[tobiasGuta/CVE-2025-29927-POC](https://github.com/tobiasGuta/CVE-2025-29927-POC)",
+      "description": "Nuclei Template: CVE-2025-29927 - Next.js Middleware Authentication Bypass",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T21:47:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[ricsirigu/CVE-2025-29927](https://github.com/ricsirigu/CVE-2025-29927)",
+      "description": "A deliberately Next.js app, vulnerable to CVE-2025-29927, Authorization Bypass",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T19:13:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[0xWhoknows/CVE-2025-29927](https://github.com/0xWhoknows/CVE-2025-29927)",
+      "description": "Async Python scanner for Next.js CVE-2025-29927. Uses aiohttp &amp; aiofiles to efficiently process large URL lists, detect vulnerabilities, and save results. Features connection pooling, caching, and chunked processing for fast performance",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T19:18:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[lediusa/CVE-2025-29927](https://github.com/lediusa/CVE-2025-29927)",
+      "description": "New nuclei CVE",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T14:21:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[RoyCampos/CVE-2025-29927](https://github.com/RoyCampos/CVE-2025-29927)",
+      "description": "CVE-2025-29927 Exploit Checker",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T05:07:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[kuzushiki/CVE-2025-29927-test](https://github.com/kuzushiki/CVE-2025-29927-test)",
+      "description": "CVE-2025-29927の検証",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T16:27:17Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[lem0n817/CVE-2025-29927](https://github.com/lem0n817/CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T15:25:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[arvion-agent/next-CVE-2025-29927](https://github.com/arvion-agent/next-CVE-2025-29927)",
+      "description": "CVE-2025-29927 Authorization Bypass in Next.js Middleware",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T13:23:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[iSee857/CVE-2025-29927](https://github.com/iSee857/CVE-2025-29927)",
+      "description": "Next.Js 权限绕过漏洞(CVE-2025-29927)",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T09:27:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[fourcube/nextjs-middleware-bypass-demo](https://github.com/fourcube/nextjs-middleware-bypass-demo)",
+      "description": "Demo for Next.js middleware bypass - CVE-2025-29927",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T08:07:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[strobes-security/nextjs-vulnerable-app](https://github.com/strobes-security/nextjs-vulnerable-app)",
+      "description": "CVE-2025-29927 lab",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T05:05:11Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[sandumjacob/IngressNightmare-POCs](https://github.com/sandumjacob/IngressNightmare-POCs)",
+      "description": "Worlds First Public POC for CVE-2025-1974 lol",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T21:51:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[Eve-SatOrU/POC-CVE-2025-29927](https://github.com/Eve-SatOrU/POC-CVE-2025-29927)",
+      "description": "CVE-2025-29927 Proof of Concept",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T11:42:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[u238/Tomcat-CVE_2025_24813](https://github.com/u238/Tomcat-CVE_2025_24813)",
+      "description": "A playground to test the RCE exploit for tomcat CVE-2025-24813",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T18:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[beyond-devsecops/CVE-2025-24813](https://github.com/beyond-devsecops/CVE-2025-24813)",
+      "description": "Session Exploit",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T17:47:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-22224",
+      "repo_info": "[bronsoneaver/CVE-2025-22224](https://github.com/bronsoneaver/CVE-2025-22224)",
+      "description": "Time-of-check Time-of-use (TOCTOU) Race Condition (CWE-367)",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T04:04:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-51793",
+      "repo_info": "[Nxploited/CVE-2024-51793](https://github.com/Nxploited/CVE-2024-51793)",
+      "description": "WordPress RepairBuddy plugin &lt;= 3.8115 - Arbitrary File Upload vulnerability",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T00:38:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[ejaboz/cve-2024-24919](https://github.com/ejaboz/cve-2024-24919)",
+      "description": "no description",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T16:07:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-2387",
+      "repo_info": "[RandomRobbieBF/CVE-2024-2387](https://github.com/RandomRobbieBF/CVE-2024-2387)",
+      "description": "Advanced Form Integration – Connect WooCommerce and Contact Form 7 to Google Sheets and other platforms &lt;= 1.82.0 - SQL Injection to Reflected Cross-Site Scripting via integration_id",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T09:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-21125",
+      "repo_info": "[761669642/Mahesh-970-CVE-2023-21125_bluedriod_repo](https://github.com/761669642/Mahesh-970-CVE-2023-21125_bluedriod_repo)",
+      "description": "no description",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T09:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[chaudharyarjun/text4shell-exploit](https://github.com/chaudharyarjun/text4shell-exploit)",
+      "description": "A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions &lt; 1.10.",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T15:28:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[Syndicate27/text4shell-exploit](https://github.com/Syndicate27/text4shell-exploit)",
+      "description": "A custom Python-based proof-of-concept (PoC) exploit targeting Text4Shell (CVE-2022-42889), a critical remote code execution vulnerability in Apache Commons Text versions &lt; 1.10.",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T15:58:18Z"
+    },
+    {
+      "cve_id": "CVE-2002-0082",
+      "repo_info": "[ratiros01/CVE-2002-0082](https://github.com/ratiros01/CVE-2002-0082)",
+      "description": "CVE-2002-0082",
+      "date": "2025-03-24",
+      "raw_date": "2025-03-24T03:22:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.141526",
+  "metadata": {
+    "total_cves": 25,
+    "date_range": "2025-03-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

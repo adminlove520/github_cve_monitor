@@ -1,0 +1,118 @@
+{
+  "date": "2024-12-19",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9935",
+      "repo_info": "[verylazytech/CVE-2024-9935](https://github.com/verylazytech/CVE-2024-9935)",
+      "description": "PDF Generator Addon for Elementor Page Builder &lt;= 1.7.5 - Unauthenticated Arbitrary File Download",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T08:57:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[zql-gif/CVE-2024-6387](https://github.com/zql-gif/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T03:08:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-54379",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54379](https://github.com/RandomRobbieBF/CVE-2024-54379)",
+      "description": "Minterpress &lt;= 1.0.5 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T17:04:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-54378",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54378](https://github.com/RandomRobbieBF/CVE-2024-54378)",
+      "description": "Quietly Insights &lt;= 1.2.2 - Missing Authorization to Authenticated (Subscriber+) Arbitrary Options Update",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T17:15:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-54369",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54369](https://github.com/RandomRobbieBF/CVE-2024-54369)",
+      "description": "Zita Site Builder &lt;= 1.0.2 - Missing Authorization to Arbitrary Plugin Installation",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T15:38:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-54262",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54262](https://github.com/RandomRobbieBF/CVE-2024-54262)",
+      "description": "Import Export For WooCommerce &lt;= 1.5 - Authenticated (Subscriber+) Arbitrary File Upload",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T14:42:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-50944",
+      "repo_info": "[AbdullahAlmutawa/CVE-2024-50944](https://github.com/AbdullahAlmutawa/CVE-2024-50944)",
+      "description": "Integer Overflow in Cart Logic in SimplCommerce allows remote attackers to manipulate product quantities and total prices via crafted inputs that exploit insufficient validation of the quantity parameter.",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T23:33:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[yiliufeng168/CVE-2024-50379-POC](https://github.com/yiliufeng168/CVE-2024-50379-POC)",
+      "description": "no description",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T02:43:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-39908",
+      "repo_info": "[SpiralBL0CK/CVE-2024-39908](https://github.com/SpiralBL0CK/CVE-2024-39908)",
+      "description": "CVE-2024-39908 full poc",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T18:59:52Z"
+    },
+    {
+      "cve_id": "CVE-2024-35176",
+      "repo_info": "[SpiralBL0CK/CVE-2024-35176](https://github.com/SpiralBL0CK/CVE-2024-35176)",
+      "description": "CVE-2024-35176 poc full",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T19:01:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-12025",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12025](https://github.com/RandomRobbieBF/CVE-2024-12025)",
+      "description": "Collapsing Categories &lt;= 3.0.8 - Unauthenticated SQL Injection",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T14:15:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-12025",
+      "repo_info": "[awusan125/test_for6387](https://github.com/awusan125/test_for6387)",
+      "description": "test code for cve-2024-6387",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T10:16:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-10793",
+      "repo_info": "[MAHajian/CVE-2024-10793](https://github.com/MAHajian/CVE-2024-10793)",
+      "description": "no description",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T15:50:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-32981",
+      "repo_info": "[SpiralBL0CK/CVE-2022-32981](https://github.com/SpiralBL0CK/CVE-2022-32981)",
+      "description": "poc for CVE-2022-32981 under work",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T21:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[MasterCode112/CVE-2019-15107](https://github.com/MasterCode112/CVE-2019-15107)",
+      "description": "webmin or minisever RCE",
+      "date": "2024-12-19",
+      "raw_date": "2024-12-19T08:52:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.125883",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-12-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

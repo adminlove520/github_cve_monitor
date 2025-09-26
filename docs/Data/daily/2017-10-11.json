@@ -1,0 +1,62 @@
+{
+  "date": "2017-10-11",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9999",
+      "repo_info": "[homjxi0e/CVE-2017-9999_bypassing_General_Firefox](https://github.com/homjxi0e/CVE-2017-9999_bypassing_General_Firefox)",
+      "description": "no description",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T17:54:50Z"
+    },
+    {
+      "cve_id": "CVE-2017-7998",
+      "repo_info": "[aymankhalfatni/Safari_Mac](https://github.com/aymankhalfatni/Safari_Mac)",
+      "description": "Exploit Safari CVE-2017-7089",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T15:09:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-10617",
+      "repo_info": "[gteissier/CVE-2017-10617](https://github.com/gteissier/CVE-2017-10617)",
+      "description": "Contrail: hard coded credentials (CVE-2017-10616) and XML External Entity (XXE) vulnerability (CVE-2017-10617)",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T07:38:18Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[lcfpadilha/mac0352-ep4](https://github.com/lcfpadilha/mac0352-ep4)",
+      "description": "Apache HTTP Server 2.4.23 vulnerability study (CVE-2016-8740)",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T23:42:49Z"
+    },
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[arbll/dirtycow](https://github.com/arbll/dirtycow)",
+      "description": "Ready to use, weaponized dirtycow (CVE-2016-5195)",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T14:07:28Z"
+    },
+    {
+      "cve_id": "CVE-2012-1675",
+      "repo_info": "[bongbongco/CVE-2012-1675](https://github.com/bongbongco/CVE-2012-1675)",
+      "description": "Oracle Database TNS Listener Poison Attack Vulnerability",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T23:46:24Z"
+    },
+    {
+      "cve_id": "CVE-2010-4221",
+      "repo_info": "[bongbongco/MS10-070](https://github.com/bongbongco/MS10-070)",
+      "description": "CVE-2010-3332 Oracle Padding Vulnerability in Microsoft ASP.NET",
+      "date": "2017-10-11",
+      "raw_date": "2017-10-11T23:50:33Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.721257",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2017-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

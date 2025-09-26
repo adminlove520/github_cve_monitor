@@ -1,0 +1,384 @@
+{
+  "date": "2023-01-01",
+  "count": 53,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-22551",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22551](https://github.com/Live-Hack-CVE/CVE-2023-22551)",
+      "description": "The FTP (aka &quot;Implementation of a simple FTP client and server&quot;) project through 96c1a35 allows remote attackers to cause a denial of service (memory consumption) by engaging in client activity, such as establishing and then terminating a connection. This occurs because malloc is used but free is not. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T19:48:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-0029",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0029](https://github.com/Live-Hack-CVE/CVE-2023-0029)",
+      "description": "A vulnerability was found in Multilaser RE708 RE1200R4GC-2T2R-V3_v3411b_MUL029B. It has been rated as problematic. This issue affects some unknown processing of the component Telnet Service. The manipulation leads to denial of service. The attack may be initiated remotely. The identifier VDB-217169 was assigned to this CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T15:28:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-48198",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48198](https://github.com/Live-Hack-CVE/CVE-2022-48198)",
+      "description": "The ntpd_driver component before 1.3.0 and 2.x before 2.2.0 for Robot Operating System (ROS) allows attackers, who control the source code of a different node in the same ROS application, to change a robot&#x27;s behavior. This occurs because a topic name depends on the attacker-controlled time_ref_topic parameter. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-47952",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47952](https://github.com/Live-Hack-CVE/CVE-2022-47952)",
+      "description": "lxc-user-nic in lxc through 5.0.1 is installed setuid root, and may allow local users to infer whether any file exists, even within a protected directory tree, because &quot;Failed to open&quot; often indicates that a file does not exist, whereas &quot;does not refer to a network namespace path&quot; often indicates that a file exists. NO CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-47634",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47634](https://github.com/Live-Hack-CVE/CVE-2022-47634)",
+      "description": "M-Link Archive Server in Isode M-Link R16.2v1 through R17.0 before R17.0v24 allows non-administrative users to access and manipulate archive data via certain HTTP endpoints, aka LINK-2867. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-45213",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45213](https://github.com/Live-Hack-CVE/CVE-2022-45213)",
+      "description": "perfSONAR before 4.4.6 inadvertently supports the parse option for a file:// URL. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-45027",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45027](https://github.com/Live-Hack-CVE/CVE-2022-45027)",
+      "description": "perfSONAR before 4.4.6, when performing participant discovery, incorrectly uses an HTTP request header value to determine a local address. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-43805",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43805](https://github.com/Live-Hack-CVE/CVE-2022-43805)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:44:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-43804",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43804](https://github.com/Live-Hack-CVE/CVE-2022-43804)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:44:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-43803",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43803](https://github.com/Live-Hack-CVE/CVE-2022-43803)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:44:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-43802",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43802](https://github.com/Live-Hack-CVE/CVE-2022-43802)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:44:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-43801",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43801](https://github.com/Live-Hack-CVE/CVE-2022-43801)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-43800",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43800](https://github.com/Live-Hack-CVE/CVE-2022-43800)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-43799",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43799](https://github.com/Live-Hack-CVE/CVE-2022-43799)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-43798",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43798](https://github.com/Live-Hack-CVE/CVE-2022-43798)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-43797",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43797](https://github.com/Live-Hack-CVE/CVE-2022-43797)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-43796",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43796](https://github.com/Live-Hack-CVE/CVE-2022-43796)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-43795",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43795](https://github.com/Live-Hack-CVE/CVE-2022-43795)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-43794",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43794](https://github.com/Live-Hack-CVE/CVE-2022-43794)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-43793",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43793](https://github.com/Live-Hack-CVE/CVE-2022-43793)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-43792",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43792](https://github.com/Live-Hack-CVE/CVE-2022-43792)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-43791",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43791](https://github.com/Live-Hack-CVE/CVE-2022-43791)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-43790",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43790](https://github.com/Live-Hack-CVE/CVE-2022-43790)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-43789",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43789](https://github.com/Live-Hack-CVE/CVE-2022-43789)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-43788",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43788](https://github.com/Live-Hack-CVE/CVE-2022-43788)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-43787",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43787](https://github.com/Live-Hack-CVE/CVE-2022-43787)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:43:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-43786",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43786](https://github.com/Live-Hack-CVE/CVE-2022-43786)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:42:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-43785",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43785](https://github.com/Live-Hack-CVE/CVE-2022-43785)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:42:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-43784",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43784](https://github.com/Live-Hack-CVE/CVE-2022-43784)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:42:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-43783",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43783](https://github.com/Live-Hack-CVE/CVE-2022-43783)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:42:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-40711",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40711](https://github.com/Live-Hack-CVE/CVE-2022-40711)",
+      "description": "PrimeKey EJBCA 7.9.0.2 Community allows stored XSS in the End Entity section. A user with the RA Administrator role can inject an XSS payload to target higher-privilege users. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-38223",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38223](https://github.com/Live-Hack-CVE/CVE-2022-38223)",
+      "description": "There is an out-of-bounds write in checkType located in etc.c in w3m 0.5.3. It can be triggered by sending a crafted HTML file to the w3m binary. It allows an attacker to cause Denial of Service or possibly have unspecified other impact. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-37787",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-37787](https://github.com/Live-Hack-CVE/CVE-2022-37787)",
+      "description": "An issue was discovered in WeCube platform 3.2.2. A DOM XSS vulnerability has been found on the plugin database execution page. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-37786",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-37786](https://github.com/Live-Hack-CVE/CVE-2022-37786)",
+      "description": "An issue was discovered in WeCube Platform 3.2.2. There are multiple CSV injection issues: the [Home / Admin / Resources] page, the [Home / Admin / System Params] page, and the [Home / Design / Basekey Configuration] page. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-37785",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-37785](https://github.com/Live-Hack-CVE/CVE-2022-37785)",
+      "description": "An issue was discovered in WeCube Platform 3.2.2. Cleartext passwords are displayed in the configuration for terminal plugins. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-36827",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-36827](https://github.com/Live-Hack-CVE/CVE-2022-36827)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:42:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-36816",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-36816](https://github.com/Live-Hack-CVE/CVE-2022-36816)",
+      "description": "To maintain compliance with CNA rules, we have rejected this CVE record because it has not been used. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T06:42:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-34324",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34324](https://github.com/Live-Hack-CVE/CVE-2022-34324)",
+      "description": "Multiple SQL injections in Sage XRT Business Exchange 12.4.302 allow an authenticated attacker to inject malicious data in SQL queries: Add Currencies, Payment Order, and Transfer History. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-34323",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34323](https://github.com/Live-Hack-CVE/CVE-2022-34323)",
+      "description": "Multiple XSS issues were discovered in Sage XRT Business Exchange 12.4.302 that allow an attacker to execute JavaScript code in the context of other users&#x27; browsers. The attacker needs to be authenticated to reach the vulnerable features. An issue is present in the Filters and Display model features (OnlineBanking &gt; We CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-34322",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34322](https://github.com/Live-Hack-CVE/CVE-2022-34322)",
+      "description": "Multiple XSS issues were discovered in Sage Enterprise Intelligence 2021 R1.1 that allow an attacker to execute JavaScript code in the context of users&#x27; browsers. The attacker needs to be authenticated to reach the vulnerable features. An issue is present in the Notify Users About Modification menu and the Notification CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-4297",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4297](https://github.com/Live-Hack-CVE/CVE-2021-4297)",
+      "description": "A vulnerability has been found in trampgeek jobe up to 1.6.4 and classified as problematic. This vulnerability affects the function runs_post of the file application/controllers/Restapi.php. The manipulation of the argument sourcefilename leads to an unknown weakness. Upgrading to version 1.6.5 is able to address this  CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T21:58:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-42205",
+      "repo_info": "[gmh5225/CVE-2021-42205](https://github.com/gmh5225/CVE-2021-42205)",
+      "description": "ELAN Miniport touchpad Windows driver before 24.21.51.2, as used in PC hardware from multiple manufacturers, allows local users to cause a system crash by sending a certain IOCTL request, because that request is handled twice. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T18:30:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-41823",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-41823](https://github.com/Live-Hack-CVE/CVE-2021-41823)",
+      "description": "The Web Application Firewall (WAF) in Kemp LoadMaster 7.2.54.1 allows certain uses of onmouseover to bypass an XSS protection mechanism. CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:13:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-21366",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-21366](https://github.com/Live-Hack-CVE/CVE-2021-21366)",
+      "description": "xmldom is a pure JavaScript W3C standard-based (XML DOM Level 2 Core) DOMParser and XMLSerializer module. xmldom versions 0.4.0 and older do not correctly preserve system identifiers, FPIs or namespaces when repeatedly parsing and serializing maliciously crafted documents. This may lead to unexpected syntactic changes  CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T21:58:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-17382",
+      "repo_info": "[houseofxyz/CVE-2020-17382](https://github.com/houseofxyz/CVE-2020-17382)",
+      "description": "no description",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T13:49:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-25063",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25063](https://github.com/Live-Hack-CVE/CVE-2018-25063)",
+      "description": "A vulnerability classified as problematic was found in Zenoss Dashboard up to 1.3.4. Affected by this vulnerability is an unknown functionality of the file ZenPacks/zenoss/Dashboard/browser/resources/js/defaultportlets.js. The manipulation of the argument HTMLString leads to cross site scripting. The attack can be laun CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-25062",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25062](https://github.com/Live-Hack-CVE/CVE-2018-25062)",
+      "description": "A vulnerability classified as problematic has been found in flar2 ElementalX up to 6.x. Affected is the function xfrm_dump_policy_done of the file net/xfrm/xfrm_user.c of the component ipsec. The manipulation leads to denial of service. Upgrading to version 7.00 is able to address this issue. The name of the patch is 1 CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-19320",
+      "repo_info": "[houseofxyz/CVE-2018-19320](https://github.com/houseofxyz/CVE-2018-19320)",
+      "description": "no description",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T13:50:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[philippedixon/CVE-2018-15473](https://github.com/philippedixon/CVE-2018-15473)",
+      "description": "no description",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T19:31:24Z"
+    },
+    {
+      "cve_id": "CVE-2015-10006",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10006](https://github.com/Live-Hack-CVE/CVE-2015-10006)",
+      "description": "A vulnerability, which was classified as problematic, has been found in admont28 Ingnovarq. Affected by this issue is some unknown functionality of the file app/controller/insertarSliderAjax.php. The manipulation of the argument imagetitle leads to cross site scripting. The attack may be launched remotely. The name of  CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T19:48:41Z"
+    },
+    {
+      "cve_id": "CVE-2014-125030",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125030](https://github.com/Live-Hack-CVE/CVE-2014-125030)",
+      "description": "A vulnerability, which was classified as critical, has been found in taoeffect Empress. Affected by this issue is some unknown functionality. The manipulation leads to use of hard-coded password. The name of the patch is 557e177d8a309d6f0f26de46efb38d43e000852d. It is recommended to apply a patch to fix this issue. VDB CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T12:12:21Z"
+    },
+    {
+      "cve_id": "CVE-2013-10006",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-10006](https://github.com/Live-Hack-CVE/CVE-2013-10006)",
+      "description": "A vulnerability classified as problematic was found in Ziftr primecoin up to 0.8.4rc1. Affected by this vulnerability is the function HTTPAuthorized of the file src/bitcoinrpc.cpp. The manipulation of the argument strUserPass/strRPCUserColonPass leads to observable timing discrepancy. Upgrading to version 0.8.4rc2 is a CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T19:48:37Z"
+    },
+    {
+      "cve_id": "CVE-2010-10002",
+      "repo_info": "[Live-Hack-CVE/CVE-2010-10002](https://github.com/Live-Hack-CVE/CVE-2010-10002)",
+      "description": "** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic has been found in SimpleSAMLphp simplesamlphp-module-openid. Affected is an unknown function of the file templates/consumer.php of the component OpenID Handler. The manipulation of the argument AuthState leads to c CVE project by @Sn0wAlice",
+      "date": "2023-01-01",
+      "raw_date": "2023-01-01T19:48:33Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.973994",
+  "metadata": {
+    "total_cves": 53,
+    "date_range": "2023-01-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

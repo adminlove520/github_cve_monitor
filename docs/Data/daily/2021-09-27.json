@@ -1,0 +1,27 @@
+{
+  "date": "2021-09-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[k-fire/CVE-2019-19781-exploit](https://github.com/k-fire/CVE-2019-19781-exploit)",
+      "description": "CVE-2019-19781",
+      "date": "2021-09-27",
+      "raw_date": "2021-09-27T02:23:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-16763",
+      "repo_info": "[kxisxr/Bash-Script-CVE-2018-16763](https://github.com/kxisxr/Bash-Script-CVE-2018-16763)",
+      "description": "FUEL CMS 1.4.1 allows PHP Code Evaluation via the pages/select/ filter parameter or the preview/ data parameter. This can lead to Pre-Auth Remote Code Execution.",
+      "date": "2021-09-27",
+      "raw_date": "2021-09-27T05:15:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.864580",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-09-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

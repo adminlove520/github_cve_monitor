@@ -1,0 +1,76 @@
+{
+  "date": "2024-03-19",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-28515",
+      "repo_info": "[heshi906/CVE-2024-28515](https://github.com/heshi906/CVE-2024-28515)",
+      "description": "A vuln about csapp.",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T01:53:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-23334",
+      "repo_info": "[jhonnybonny/CVE-2024-23334](https://github.com/jhonnybonny/CVE-2024-23334)",
+      "description": "aiohttp LFI (CVE-2024-23334)",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T16:28:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-1698",
+      "repo_info": "[codeb0ss/CVE-2024-1698-PoC](https://github.com/codeb0ss/CVE-2024-1698-PoC)",
+      "description": "Mass Exploit CVE-2024-1698 - Wordpress NotificationX &lt;= 2.8.2 - SQL Injection",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T14:22:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-1212",
+      "repo_info": "[Chocapikk/CVE-2024-1212](https://github.com/Chocapikk/CVE-2024-1212)",
+      "description": "Unauthenticated Command Injection In Progress Kemp LoadMaster",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T22:23:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-0015",
+      "repo_info": "[UmVfX1BvaW50/CVE-2024-0015](https://github.com/UmVfX1BvaW50/CVE-2024-0015)",
+      "description": "a demo poc for CVE-2024-0015",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T10:00:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-38545",
+      "repo_info": "[Yang-Shun-Yu/CVE-2023-38545](https://github.com/Yang-Shun-Yu/CVE-2023-38545)",
+      "description": "no description",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T13:45:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-32629",
+      "repo_info": "[Nkipohcs/CVE-2023-2640-CVE-2023-32629](https://github.com/Nkipohcs/CVE-2023-2640-CVE-2023-32629)",
+      "description": "no description",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T22:56:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-30253",
+      "repo_info": "[Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack](https://github.com/Goethe-Universitat-Cybersecurity/NSEC3-Encloser-Attack)",
+      "description": "This project generates DNS zonefiles with custom NSEC3 parameters to reproduce and evaluate the attacks in CVE-2023-50868.",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T16:13:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-0423",
+      "repo_info": "[sparrow-labz/CVE-2020-0423](https://github.com/sparrow-labz/CVE-2020-0423)",
+      "description": "Researching CVE published originally by longterm.io",
+      "date": "2024-03-19",
+      "raw_date": "2024-03-19T01:47:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.076442",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-03-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

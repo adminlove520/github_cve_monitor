@@ -1,0 +1,20 @@
+{
+  "date": "2017-09-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9798",
+      "repo_info": "[nitrado/CVE-2017-9798](https://github.com/nitrado/CVE-2017-9798)",
+      "description": "Checks a shared hosting environment for CVE-2017-9798",
+      "date": "2017-09-18",
+      "raw_date": "2017-09-18T15:17:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.719039",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-09-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2018-04-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[DavidBuchanan314/NXLoader](https://github.com/DavidBuchanan314/NXLoader)",
+      "description": "My first Android app: Launch Fusée Gelée payloads from stock Android (CVE-2018-6242)",
+      "date": "2018-04-28",
+      "raw_date": "2018-04-28T11:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[Al1ex/CVE-2017-7269](https://github.com/Al1ex/CVE-2017-7269)",
+      "description": "no description",
+      "date": "2018-04-28",
+      "raw_date": "2018-04-28T04:11:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.739521",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-04-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

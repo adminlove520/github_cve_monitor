@@ -1,0 +1,27 @@
+{
+  "date": "2021-04-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-3810",
+      "repo_info": "[farisv/Moodle-CVE-2019-3810](https://github.com/farisv/Moodle-CVE-2019-3810)",
+      "description": "Moodle (&lt; 3.6.2, &lt; 3.5.4, &lt; 3.4.7, &lt; 3.1.16) XSS PoC for Privilege Escalation (Student to Admin)",
+      "date": "2021-04-29",
+      "raw_date": "2021-04-29T09:38:08Z"
+    },
+    {
+      "cve_id": "CVE-2007-2447",
+      "repo_info": "[cherrera0001/CVE-2007-2447](https://github.com/cherrera0001/CVE-2007-2447)",
+      "description": "Samba usermap script.",
+      "date": "2021-04-29",
+      "raw_date": "2021-04-29T03:48:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.849070",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-04-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "date": "2024-05-20",
+  "count": 23,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4439",
+      "repo_info": "[xssor-dz/-CVE-2024-4439](https://github.com/xssor-dz/-CVE-2024-4439)",
+      "description": "WordPress Core &lt; 6.5.2 - Unauthenticated &amp; Authenticated (Contributor+) Stored Cross-Site Scripting via Avatar Block",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T23:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[s4vvysec/CVE-2024-4367-POC](https://github.com/s4vvysec/CVE-2024-4367-POC)",
+      "description": "CVE-2024-4367 arbitrary js execution in pdf js",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T22:56:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[LOURC0D3/CVE-2024-4367-PoC](https://github.com/LOURC0D3/CVE-2024-4367-PoC)",
+      "description": "CVE-2024-4367 &amp; CVE-2024-34342 Proof of Concept",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T10:02:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-4323",
+      "repo_info": "[skilfoy/CVE-2024-4323-Exploit-POC](https://github.com/skilfoy/CVE-2024-4323-Exploit-POC)",
+      "description": "This proof-of-concept script demonstrates how to exploit CVE-2024-4323, a memory corruption vulnerability in Fluent Bit, enabling remote code execution.",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T15:04:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-36079",
+      "repo_info": "[DxRvs/vaultize_CVE-2024-36079](https://github.com/DxRvs/vaultize_CVE-2024-36079)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T22:07:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-34958",
+      "repo_info": "[Gr-1m/CVE-2024-34958-1](https://github.com/Gr-1m/CVE-2024-34958-1)",
+      "description": "idccms CSRF poc",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T08:15:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-3435",
+      "repo_info": "[ymuraki-csc/cve-2024-3435](https://github.com/ymuraki-csc/cve-2024-3435)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T02:17:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-32004",
+      "repo_info": "[10cks/CVE-2024-32004-POC](https://github.com/10cks/CVE-2024-32004-POC)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T14:59:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[KiranKumarK20/CVE-2024-32002](https://github.com/KiranKumarK20/CVE-2024-32002)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T10:07:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[jweny/CVE-2024-32002_EXP](https://github.com/jweny/CVE-2024-32002_EXP)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T02:58:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[CrackerCat/CVE-2024-32002_EXP](https://github.com/CrackerCat/CVE-2024-32002_EXP)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T06:12:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[jweny/CVE-2024-32002_HOOK](https://github.com/jweny/CVE-2024-32002_HOOK)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T02:52:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[10cks/hook](https://github.com/10cks/hook)",
+      "description": "CVE-2024-32002-hook",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T02:44:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-2961",
+      "repo_info": "[rvizx/CVE-2024-2961](https://github.com/rvizx/CVE-2024-2961)",
+      "description": "CVE-2024–2961 Security Issue Mitigation Script",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T06:53:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-23108",
+      "repo_info": "[horizon3ai/CVE-2024-23108](https://github.com/horizon3ai/CVE-2024-23108)",
+      "description": "CVE-2024-23108: Fortinet FortiSIEM Unauthenticated 2nd Order Command Injection",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T14:34:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-22120",
+      "repo_info": "[W01fh4cker/CVE-2024-22120-RCE](https://github.com/W01fh4cker/CVE-2024-22120-RCE)",
+      "description": "Time Based SQL Injection in Zabbix Server Audit Log --&gt; RCE",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T03:29:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-20356",
+      "repo_info": "[SherllyNeo/CVE_2024_20356](https://github.com/SherllyNeo/CVE_2024_20356)",
+      "description": "A oxidized version of https://github.com/nettitude/CVE-2024-20356/blob/main/CVE-2024-20356.py",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T00:57:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-4568",
+      "repo_info": "[Cappricio-Securities/CVE-2023-4568](https://github.com/Cappricio-Securities/CVE-2023-4568)",
+      "description": "PaperCut NG Unauthenticated XMLRPC Functionality",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T17:41:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-38039",
+      "repo_info": "[Smartkeyss/CVE-2023-38039](https://github.com/Smartkeyss/CVE-2023-38039)",
+      "description": "For all vicarius.io/vsoviety analysis",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T14:52:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-27100",
+      "repo_info": "[fabdotnet/CVE-2023-27100](https://github.com/fabdotnet/CVE-2023-27100)",
+      "description": "no description",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T13:35:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-24917",
+      "repo_info": "[Cappricio-Securities/CVE-2021-24917](https://github.com/Cappricio-Securities/CVE-2021-24917)",
+      "description": "WordPress WPS Hide Login &lt;1.9.1 - Information Disclosure",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T02:07:52Z"
+    },
+    {
+      "cve_id": "CVE-2020-24913",
+      "repo_info": "[agarma/CVE-2020-24913-PoC](https://github.com/agarma/CVE-2020-24913-PoC)",
+      "description": "A Poc for CVE-2020-24913, a SQL injection vulnerability in qcubed (all versions including 3.1.1) in profile.php via the strQuery parameter allows an unauthenticated attacker to access the database by injecting SQL code via a crafted POST request.",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T18:45:50Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[R0rt1z2/huawei-unlock](https://github.com/R0rt1z2/huawei-unlock)",
+      "description": "Unlock your Huawei device with ADB (CVE-2019-2215)",
+      "date": "2024-05-20",
+      "raw_date": "2024-05-20T10:58:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.087735",
+  "metadata": {
+    "total_cves": 23,
+    "date_range": "2024-05-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

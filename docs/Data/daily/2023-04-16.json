@@ -1,0 +1,48 @@
+{
+  "date": "2023-04-16",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-31714",
+      "repo_info": "[msd0pe-1/CVE-2023-31714](https://github.com/msd0pe-1/CVE-2023-31714)",
+      "description": "no description",
+      "date": "2023-04-16",
+      "raw_date": "2023-04-16T20:20:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-28772",
+      "repo_info": "[daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin](https://github.com/daniloalbuqrque/poc-cve-xss-encoded-wp-inventory-manager-plugin)",
+      "description": "PoC for CVE-2023-2123",
+      "date": "2023-04-16",
+      "raw_date": "2023-04-16T00:33:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-21716",
+      "repo_info": "[JMousqueton/CVE-2023-21716](https://github.com/JMousqueton/CVE-2023-21716)",
+      "description": "POC : CVE-2023-21716 Microsoft Word RTF Font Table Heap Corruption",
+      "date": "2023-04-16",
+      "raw_date": "2023-04-16T21:12:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-2002",
+      "repo_info": "[lrh2000/CVE-2023-2002](https://github.com/lrh2000/CVE-2023-2002)",
+      "description": "Linux Bluetooth - Run arbitrary management commands as an unprivileged user",
+      "date": "2023-04-16",
+      "raw_date": "2023-04-16T10:05:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-46689",
+      "repo_info": "[tdquang266/MDC](https://github.com/tdquang266/MDC)",
+      "description": "I do some tweaking for iOS from 16.0 to 16.1.2 based on MacDirtyCow (CVE-2022-46689) exploit.",
+      "date": "2023-04-16",
+      "raw_date": "2023-04-16T03:33:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.023466",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2023-04-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

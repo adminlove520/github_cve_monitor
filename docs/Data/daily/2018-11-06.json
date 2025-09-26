@@ -1,0 +1,34 @@
+{
+  "date": "2018-11-06",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7750",
+      "repo_info": "[jm33-m0/CVE-2018-7750](https://github.com/jm33-m0/CVE-2018-7750)",
+      "description": "an RCE (remote command execution) approach of CVE-2018-7750",
+      "date": "2018-11-06",
+      "raw_date": "2018-11-06T10:01:13Z"
+    },
+    {
+      "cve_id": "CVE-2017-9101",
+      "repo_info": "[jasperla/CVE-2017-9101](https://github.com/jasperla/CVE-2017-9101)",
+      "description": "Exploit for PlaySMS 1.4 authenticated RCE",
+      "date": "2018-11-06",
+      "raw_date": "2018-11-06T19:16:29Z"
+    },
+    {
+      "cve_id": "CVE-2011-1475",
+      "repo_info": "[samaujs/CVE-2011-1475](https://github.com/samaujs/CVE-2011-1475)",
+      "description": "Check with Maven on CVE-2011-1475",
+      "date": "2018-11-06",
+      "raw_date": "2018-11-06T08:08:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.757398",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-11-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

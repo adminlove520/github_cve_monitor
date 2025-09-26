@@ -1,0 +1,90 @@
+{
+  "date": "2024-03-06",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-27198",
+      "repo_info": "[W01fh4cker/CVE-2024-27198-RCE](https://github.com/W01fh4cker/CVE-2024-27198-RCE)",
+      "description": "CVE-2024-27198 &amp; CVE-2024-27199 Authentication Bypass --&gt; RCE in JetBrains TeamCity Pre-2023.11.4",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T03:15:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-25832",
+      "repo_info": "[0xNslabs/CVE-2024-25832-PoC](https://github.com/0xNslabs/CVE-2024-25832-PoC)",
+      "description": "PoC Script for CVE-2024-25832: Exploit chain reverse shell, information disclosure (root password leak) + unrestricted file upload in DataCube3",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T04:11:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-25250",
+      "repo_info": "[ASR511-OO7/CVE-2024-25250.](https://github.com/ASR511-OO7/CVE-2024-25250.)",
+      "description": "no description",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T11:11:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-24108",
+      "repo_info": "[ASR511-OO7/CVE-2024-24108](https://github.com/ASR511-OO7/CVE-2024-24108)",
+      "description": "no description",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T11:14:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-24105",
+      "repo_info": "[ASR511-OO7/CVE-2024-24105](https://github.com/ASR511-OO7/CVE-2024-24105)",
+      "description": "no description",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T11:17:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-24104",
+      "repo_info": "[ASR511-OO7/CVE-2024-24104](https://github.com/ASR511-OO7/CVE-2024-24104)",
+      "description": "no description",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T11:23:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-21762",
+      "repo_info": "[c0d3b3af/CVE-2024-21762-Exploit](https://github.com/c0d3b3af/CVE-2024-21762-Exploit)",
+      "description": "proof-of-concept out-of-bound write vuln in FortiOS ---&gt; RCE",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T21:39:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-1403",
+      "repo_info": "[horizon3ai/CVE-2024-1403](https://github.com/horizon3ai/CVE-2024-1403)",
+      "description": "Progress OpenEdge Authentication Bypass",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T15:27:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-51448",
+      "repo_info": "[jakabakos/CVE-2023-51448-cacti-sqli-poc](https://github.com/jakabakos/CVE-2023-51448-cacti-sqli-poc)",
+      "description": "no description",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T11:23:11Z"
+    },
+    {
+      "cve_id": "CVE-2017-16651",
+      "repo_info": "[sephiroth950911/CVE-2017-16651-Exploit](https://github.com/sephiroth950911/CVE-2017-16651-Exploit)",
+      "description": "CyberPunk Style CVE-2017-16651 Roundcube Webmail Exploit",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T18:53:06Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[zhsh9/CVE-2014-6287](https://github.com/zhsh9/CVE-2014-6287)",
+      "description": "Rejetto HTTP File Server (aks HFS or HttpFileServer) 2.3x before 2.3c",
+      "date": "2024-03-06",
+      "raw_date": "2024-03-06T20:55:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.074346",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-03-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2024-09-27",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6769",
+      "repo_info": "[GO0dspeed/spill](https://github.com/GO0dspeed/spill)",
+      "description": "POC scanner for CVE-2024-47176",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T01:22:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-47176",
+      "repo_info": "[tonyarris/CVE-2024-47176-Scanner](https://github.com/tonyarris/CVE-2024-47176-Scanner)",
+      "description": "Scanner for the CUPS vulnerability CVE-2024-47176",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T20:04:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-47176",
+      "repo_info": "[workabhiwin09/CVE-2024-47176](https://github.com/workabhiwin09/CVE-2024-47176)",
+      "description": "CUPS Browsd Check_CVE-2024-47176",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T18:23:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-46532",
+      "repo_info": "[KamenRiderDarker/CVE-2024-46532](https://github.com/KamenRiderDarker/CVE-2024-46532)",
+      "description": "Reproduction of SQL Injection Vulnerabilities in OpenHIS",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T14:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-46383",
+      "repo_info": "[nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383](https://github.com/nitinronge91/Sensitive-Information-disclosure-via-SPI-flash-firmware-for-Hathway-router-CVE-2024-46383)",
+      "description": "CVE-2024-46383",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T04:19:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[Masamuneee/CVE-2024-32002-POC](https://github.com/Masamuneee/CVE-2024-32002-POC)",
+      "description": "This is a demo for CVE-2024-32002 POC",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T03:10:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[referefref/cupspot-2024-47177](https://github.com/referefref/cupspot-2024-47177)",
+      "description": "PoC honeypot for detecting exploit attempts against CVE-2024-47177",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T05:18:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[Masamuneee/hook](https://github.com/Masamuneee/hook)",
+      "description": "This is a demo for CVE-2024-32002 POC",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T03:09:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[th4s1s/CVE-2024-32002-PoC](https://github.com/th4s1s/CVE-2024-32002-PoC)",
+      "description": "Proof of Concept for CVE-2024-32002",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T03:29:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-31835",
+      "repo_info": "[paragbagul111/CVE-2024-31835](https://github.com/paragbagul111/CVE-2024-31835)",
+      "description": "Cross Site Scripting vulnerability in flatpress CMS Flatpress v1.3 allows a remote attacker to execute arbitrary code via a craftedpayload to the file name parameter.",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T15:17:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-25412",
+      "repo_info": "[paragbagul111/CVE-2024-25412](https://github.com/paragbagul111/CVE-2024-25412)",
+      "description": "A cross-site scripting (XSS) vulnerability in Flatpress v1.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the email field",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T16:13:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-25411",
+      "repo_info": "[paragbagul111/CVE-2024-25411](https://github.com/paragbagul111/CVE-2024-25411)",
+      "description": "A cross-site scripting (XSS) vulnerability in Flatpress v1.3 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the username parameter in setup.php",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T15:49:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-0044",
+      "repo_info": "[canyie/CVE-2024-0044](https://github.com/canyie/CVE-2024-0044)",
+      "description": "PoC and writeup for bypassing the initial patch of CVE-2024-0044, Android run-as any app vulnerability allowing privilege escalation from adb to installed app",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T09:02:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[technicalcorp2/CVE-2023-38831-exploit-generator](https://github.com/technicalcorp2/CVE-2023-38831-exploit-generator)",
+      "description": "no description",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T19:11:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[technicalcorp0/CVE-2023-38831-Exploit](https://github.com/technicalcorp0/CVE-2023-38831-Exploit)",
+      "description": "This project contains a Python script that exploits **CVE-2023-38831**, a vulnerability in **WinRAR** versions prior to 6.23. The exploit generates a **malicious RAR archive** that triggers the execution of arbitrary code when the victim opens a benign-looking file within the archive (such as a PDF).",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T18:23:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-9484",
+      "repo_info": "[deathquote/CVE-2020-9484](https://github.com/deathquote/CVE-2020-9484)",
+      "description": "Remake of CVE-2020-9484 by Pentestical",
+      "date": "2024-09-27",
+      "raw_date": "2024-09-27T07:32:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.111356",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2024-09-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

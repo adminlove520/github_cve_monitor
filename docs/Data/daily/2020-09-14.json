@@ -1,0 +1,34 @@
+{
+  "date": "2020-09-14",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-23934",
+      "repo_info": "[H0j3n/CVE-2020-23934](https://github.com/H0j3n/CVE-2020-23934)",
+      "description": "no description",
+      "date": "2020-09-14",
+      "raw_date": "2020-09-14T08:16:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[bb00/zer0dump](https://github.com/bb00/zer0dump)",
+      "description": "Abuse CVE-2020-1472 (Zerologon) to take over a domain and then repair the local stored machine account password.",
+      "date": "2020-09-14",
+      "raw_date": "2020-09-14T19:27:14Z"
+    },
+    {
+      "cve_id": "CVE-2017-9769",
+      "repo_info": "[ludy-dev/PHPUnit_eval-stdin_RCE](https://github.com/ludy-dev/PHPUnit_eval-stdin_RCE)",
+      "description": "(CVE-2017-9841) PHPUnit_eval-stdin_php Remote Code Execution",
+      "date": "2020-09-14",
+      "raw_date": "2020-09-14T12:33:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.823344",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

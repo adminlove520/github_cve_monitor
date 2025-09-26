@@ -1,0 +1,20 @@
+{
+  "date": "2020-04-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-9484",
+      "repo_info": "[TheCyberGeek/Centreon-20.04](https://github.com/TheCyberGeek/Centreon-20.04)",
+      "description": "CVE-2020-12688 - Authenticated RCE Centreon 20.04",
+      "date": "2020-04-30",
+      "raw_date": "2020-04-30T21:59:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.809565",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-04-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

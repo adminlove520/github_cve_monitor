@@ -1,0 +1,27 @@
+{
+  "date": "2021-03-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-22192",
+      "repo_info": "[lyy289065406/CVE-2021-22192](https://github.com/lyy289065406/CVE-2021-22192)",
+      "description": "CVE-2021-22192 靶场： 未授权用户 RCE 漏洞",
+      "date": "2021-03-27",
+      "raw_date": "2021-03-27T07:09:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-11932",
+      "repo_info": "[code-developers/CVE-2020-11932](https://github.com/code-developers/CVE-2020-11932)",
+      "description": "no description",
+      "date": "2021-03-27",
+      "raw_date": "2021-03-27T07:14:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.845616",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-03-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

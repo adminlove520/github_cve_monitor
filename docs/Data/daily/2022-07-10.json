@@ -1,0 +1,83 @@
+{
+  "date": "2022-07-10",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-33980",
+      "repo_info": "[trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/trhacknon/CVE-2022-33980-Apache-Commons-Configuration-RCE)",
+      "description": "no description",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T18:29:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-31805",
+      "repo_info": "[z92g/CVE-2021-31805](https://github.com/z92g/CVE-2021-31805)",
+      "description": "S2-061/S2-062 Struts2 远程命令执行漏洞 POC&amp;EXP",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T14:48:52Z"
+    },
+    {
+      "cve_id": "CVE-2021-27965",
+      "repo_info": "[Exploitables/CVE-2021-27965](https://github.com/Exploitables/CVE-2021-27965)",
+      "description": "The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T04:22:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-27965",
+      "repo_info": "[fengjixuchui/CVE-2021-27965](https://github.com/fengjixuchui/CVE-2021-27965)",
+      "description": "The MsIo64.sys driver before 1.1.19.1016 in MSI Dragon Center before 2.0.98.0 has a buffer overflow that allows privilege escalation via a crafted 0x80102040, 0x80102044, 0x80102050, or 0x80102054 IOCTL request.",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T05:53:36Z"
+    },
+    {
+      "cve_id": "CVE-2021-25094",
+      "repo_info": "[TUANB4DUT/typehub-exploiter](https://github.com/TUANB4DUT/typehub-exploiter)",
+      "description": "GILANG - Exploiter for CVE-2021-25094",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T02:01:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-25094",
+      "repo_info": "[xdx57/CVE-2021-25094](https://github.com/xdx57/CVE-2021-25094)",
+      "description": "Tatsu Plugin ZIP File add_custom_font unrestricted upload",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T17:01:43Z"
+    },
+    {
+      "cve_id": "CVE-2019-18845",
+      "repo_info": "[Exploitables/CVE-2019-18845](https://github.com/Exploitables/CVE-2019-18845)",
+      "description": "The MsIo64.sys and MsIo32.sys drivers in Patriot Viper RGB before 1.1 allow local users (including low integrity processes) to read and write to arbitrary memory locations, and consequently gain NT AUTHORITY\\SYSTEM privileges, by mapping \\Device\\PhysicalMemory into the calling process via ZwOpenSection and ZwMapViewOfSection.",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T04:19:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-18845",
+      "repo_info": "[fengjixuchui/CVE-2019-18845](https://github.com/fengjixuchui/CVE-2019-18845)",
+      "description": "The MsIo64.sys and MsIo32.sys drivers in Patriot Viper RGB before 1.1 allow local users (including low integrity processes) to read and write to arbitrary memory locations, and consequently gain NT AUTHORITY\\SYSTEM privileges, by mapping \\Device\\PhysicalMemory into the calling process via ZwOpenSection and ZwMapViewOfSection.",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T05:53:41Z"
+    },
+    {
+      "cve_id": "CVE-2009-4049",
+      "repo_info": "[Exploitables/CVE-2009-4049](https://github.com/Exploitables/CVE-2009-4049)",
+      "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T04:16:16Z"
+    },
+    {
+      "cve_id": "CVE-2009-4049",
+      "repo_info": "[fengjixuchui/CVE-2009-4049](https://github.com/fengjixuchui/CVE-2009-4049)",
+      "description": "Heap-based buffer overflow in aswRdr.sys (aka the TDI RDR driver) in avast! Home and Professional 4.8.1356.0 allows local users to cause a denial of service (memory corruption) or possibly gain privileges via crafted arguments to IOCTL 0x80002024.",
+      "date": "2022-07-10",
+      "raw_date": "2022-07-10T05:53:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.903170",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-07-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

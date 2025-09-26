@@ -1,0 +1,90 @@
+{
+  "date": "2022-05-28",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[west9b/CVE-2022-30525](https://github.com/west9b/CVE-2022-30525)",
+      "description": "CVE-2022-30525 POC&EXP",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T07:19:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[ChrisopherJohanso/CVE-2022-26809-RCE](https://github.com/ChrisopherJohanso/CVE-2022-26809-RCE)",
+      "description": "Mass RCE VIA CVE-2022-6809 AND THE METASPLOIT MODULE",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T13:52:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-23121",
+      "repo_info": "[kuznyJan1972/CVE-2022-23121-MASS-RCE](https://github.com/kuznyJan1972/CVE-2022-23121-MASS-RCE)",
+      "description": "no description",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T05:48:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-22972",
+      "repo_info": "[Dghpi9/CVE-2022-22972](https://github.com/Dghpi9/CVE-2022-22972)",
+      "description": "vmware authentication bypass",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T20:56:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-22972",
+      "repo_info": "[west9b/F5-BIG-IP-POC](https://github.com/west9b/F5-BIG-IP-POC)",
+      "description": "CVE-2020-5902 CVE-2021-22986 CVE-2022-1388 POC集合",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T13:30:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[0x4E0x650x6F/Wordpress-cve-CVE-2022-21661](https://github.com/0x4E0x650x6F/Wordpress-cve-CVE-2022-21661)",
+      "description": "Wordpress 5.8.2  CVE-2022-21661 Vuln enviroment POC exploit",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T10:46:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[trhacknon/CVE-2022-1388-PocExp](https://github.com/trhacknon/CVE-2022-1388-PocExp)",
+      "description": "no description",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T12:46:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[trhacknon/Exploit-F5-CVE-2022-1388](https://github.com/trhacknon/Exploit-F5-CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T12:43:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[trhacknon/F5-CVE-2022-1388-Exploit](https://github.com/trhacknon/F5-CVE-2022-1388-Exploit)",
+      "description": "no description",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T12:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[trhacknon/CVE-2022-1388](https://github.com/trhacknon/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T12:35:59Z"
+    },
+    {
+      "cve_id": "CVE-2010-2075",
+      "repo_info": "[MFernstrom/OffensivePascal-CVE-2010-2075](https://github.com/MFernstrom/OffensivePascal-CVE-2010-2075)",
+      "description": "FreePascal implementation of the UnrealIRCD CVE-2010-2075",
+      "date": "2022-05-28",
+      "raw_date": "2022-05-28T02:47:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.895871",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2022-05-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

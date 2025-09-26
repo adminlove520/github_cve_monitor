@@ -1,0 +1,104 @@
+{
+  "date": "2024-04-18",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[sxyrxyy/CVE-2024-3400-Check](https://github.com/sxyrxyy/CVE-2024-3400-Check)",
+      "description": "no description",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T21:12:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[Ravaan21/CVE-2024-3400](https://github.com/Ravaan21/CVE-2024-3400)",
+      "description": "CVE-2024-3400 POC written in Rust and Python",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T21:14:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[schooldropout1337/CVE-2024-3400](https://github.com/schooldropout1337/CVE-2024-3400)",
+      "description": "no description",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T10:16:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[swaybs/CVE-2024-3400](https://github.com/swaybs/CVE-2024-3400)",
+      "description": "Python script to check Palo Alto firewalls for CVE-2024-3400 exploit attempts",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T16:45:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[codeblueprint/CVE-2024-3400](https://github.com/codeblueprint/CVE-2024-3400)",
+      "description": "Simple Python code to check for arbitrary uploading for PaloAlto CVE-2024-3400",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T16:35:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[hahasagined/CVE-2024-3400](https://github.com/hahasagined/CVE-2024-3400)",
+      "description": "EDL for IPs attacking customers with CVE-2024-3400",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T15:06:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-3400",
+      "repo_info": "[neuralinhibitor/xzwhy](https://github.com/neuralinhibitor/xzwhy)",
+      "description": "XZ Utils CVE-2024-3094 POC for Kubernetes",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T13:08:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-32258",
+      "repo_info": "[liyansong2018/CVE-2024-32258](https://github.com/liyansong2018/CVE-2024-32258)",
+      "description": "no description",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T17:07:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-0305",
+      "repo_info": "[jidle123/cve-2024-0305exp](https://github.com/jidle123/cve-2024-0305exp)",
+      "description": "cve-2024-0305可用的exp",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T03:13:43Z"
+    },
+    {
+      "cve_id": "CVE-2018-11759",
+      "repo_info": "[julioliraup/Identificador-CVE-2018-11759](https://github.com/julioliraup/Identificador-CVE-2018-11759)",
+      "description": "no description",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T14:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[JoseLRC97/Ruby-on-Rails-ActionPack-Inline-ERB-Remote-Code-Execution](https://github.com/JoseLRC97/Ruby-on-Rails-ActionPack-Inline-ERB-Remote-Code-Execution)",
+      "description": "Script that exploits the vulnerability that allows remote code execution in Ruby 2.3.8 ​​with CVE-2016-2098",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T18:45:28Z"
+    },
+    {
+      "cve_id": "CVE-2015-3306",
+      "repo_info": "[JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution](https://github.com/JoseLRC97/ProFTPd-1.3.5-mod_copy-Remote-Command-Execution)",
+      "description": "Script that exploits the vulnerability of the ProFTPd 1.3.5 service with CVE-2015-3306",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T18:05:06Z"
+    },
+    {
+      "cve_id": "CVE-2010-2075",
+      "repo_info": "[JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution](https://github.com/JoseLRC97/UnrealIRCd-3.2.8.1-Backdoor-Command-Execution)",
+      "description": "Script that exploits the vulnerability that allows establishing a backdoor in the UnrealIRCd service with CVE-2010-2075",
+      "date": "2024-04-18",
+      "raw_date": "2024-04-18T18:55:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.082683",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2024-04-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

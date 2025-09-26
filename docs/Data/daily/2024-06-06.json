@@ -1,0 +1,97 @@
+{
+  "date": "2024-06-06",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-5084",
+      "repo_info": "[k3lpi3b4nsh33/CVE-2024-5084](https://github.com/k3lpi3b4nsh33/CVE-2024-5084)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T03:25:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-32640",
+      "repo_info": "[sammings/CVE-2024-32640](https://github.com/sammings/CVE-2024-32640)",
+      "description": "sql延时注入poc",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T08:56:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[alimuhammedkose/CVE-2024-32002-linux-smash](https://github.com/alimuhammedkose/CVE-2024-32002-linux-smash)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T21:26:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-30043",
+      "repo_info": "[W01fh4cker/CVE-2024-30043-XXE](https://github.com/W01fh4cker/CVE-2024-30043-XXE)",
+      "description": "Exploiting XXE Vulnerabilities on Microsoft SharePoint Server and Cloud via Confused URL Parsing",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T18:31:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[WanLiChangChengWanLiChang/CVE-2024-25600](https://github.com/WanLiChangChengWanLiChang/CVE-2024-25600)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T03:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[k3lpi3b4nsh33/CVE-2024-25600](https://github.com/k3lpi3b4nsh33/CVE-2024-25600)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T02:13:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[starlox0/CVE-2024-24919-POC](https://github.com/starlox0/CVE-2024-24919-POC)",
+      "description": "A Simple Exploit Code(POC) to Automate CVE-2024–24919",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T16:03:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-4813",
+      "repo_info": "[tnishiox/cve-2023-4813](https://github.com/tnishiox/cve-2023-4813)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T12:12:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[muhammad1596/CVE-2022-0847-DirtyPipe-Exploits](https://github.com/muhammad1596/CVE-2022-0847-DirtyPipe-Exploits)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T14:27:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[blackh00d/zerologon-poc](https://github.com/blackh00d/zerologon-poc)",
+      "description": "A script to exploit CVE-2020-1472 (Zerologon)",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T16:44:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-14974",
+      "repo_info": "[conan-sudo/CVE-2019-14974-bypass](https://github.com/conan-sudo/CVE-2019-14974-bypass)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T16:11:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-1335",
+      "repo_info": "[DigitalNinja00/CVE-2018-1335](https://github.com/DigitalNinja00/CVE-2018-1335)",
+      "description": "no description",
+      "date": "2024-06-06",
+      "raw_date": "2024-06-06T21:02:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.091239",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-06-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

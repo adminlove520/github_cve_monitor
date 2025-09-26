@@ -1,0 +1,27 @@
+{
+  "date": "2017-05-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-10235",
+      "repo_info": "[SpiderMate/Stutsfi](https://github.com/SpiderMate/Stutsfi)",
+      "description": "An exploit for CVE-2017-5638 Remote Code Execution (RCE) Vulnerability in Apache Struts 2",
+      "date": "2017-05-28",
+      "raw_date": "2017-05-28T03:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000367",
+      "repo_info": "[jpacora/Struts2Shell](https://github.com/jpacora/Struts2Shell)",
+      "description": "An exploit (and library) for CVE-2017-5638 - Apache Struts2 S2-045 bug.",
+      "date": "2017-05-28",
+      "raw_date": "2017-05-28T06:44:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.708797",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-05-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

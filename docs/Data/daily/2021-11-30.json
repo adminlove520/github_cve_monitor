@@ -1,0 +1,20 @@
+{
+  "date": "2021-11-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-2824",
+      "repo_info": "[listenquiet/cve-2017-2824-reverse-shell](https://github.com/listenquiet/cve-2017-2824-reverse-shell)",
+      "description": "no description",
+      "date": "2021-11-30",
+      "raw_date": "2021-11-30T09:42:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.871836",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-11-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

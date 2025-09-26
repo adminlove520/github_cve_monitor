@@ -1,0 +1,55 @@
+{
+  "date": "2020-12-24",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[dn9uy3n/Check-WP-CVE-2020-35489](https://github.com/dn9uy3n/Check-WP-CVE-2020-35489)",
+      "description": "The (WordPress) website test script can be exploited for Unlimited File Upload via CVE-2020-35489",
+      "date": "2020-12-24",
+      "raw_date": "2020-12-24T09:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2020-28169",
+      "repo_info": "[zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169](https://github.com/zubrahzz/FluentD-TD-agent-Exploit-CVE-2020-28169)",
+      "description": "Insecure Folder permission that lead to privilege escalation",
+      "date": "2020-12-24",
+      "raw_date": "2020-12-24T10:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-17008",
+      "repo_info": "[jas502n/CVE-2020-17008](https://github.com/jas502n/CVE-2020-17008)",
+      "description": "CVE-2020-17008 splWOW64 Elevation of Privilege",
+      "date": "2020-12-24",
+      "raw_date": "2020-12-24T04:00:29Z"
+    },
+    {
+      "cve_id": "CVE-2020-14645",
+      "repo_info": "[Schira4396/CVE-2020-14645](https://github.com/Schira4396/CVE-2020-14645)",
+      "description": "Weblogic Server CVE-2020-14645 EXP for Python （complete in one step）",
+      "date": "2020-12-24",
+      "raw_date": "2020-12-24T05:46:55Z"
+    },
+    {
+      "cve_id": "CVE-2016-8863",
+      "repo_info": "[mephi42/CVE-2016-8863](https://github.com/mephi42/CVE-2016-8863)",
+      "description": "CTFs are fun, but what about exploiting a real bug?",
+      "date": "2020-12-24",
+      "raw_date": "2020-12-24T02:02:27Z"
+    },
+    {
+      "cve_id": "CVE-2016-3088",
+      "repo_info": "[pudiding/CVE-2016-3088](https://github.com/pudiding/CVE-2016-3088)",
+      "description": "no description",
+      "date": "2020-12-24",
+      "raw_date": "2020-12-24T07:26:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.835153",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2020-12-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "date": "2022-08-09",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-31101",
+      "repo_info": "[karthikuj/CVE-2022-31101](https://github.com/karthikuj/CVE-2022-31101)",
+      "description": "Exploit for PrestaShop bockwishlist module 2.1.0 SQLi (CVE-2022-31101)",
+      "date": "2022-08-09",
+      "raw_date": "2022-08-09T10:29:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-21894",
+      "repo_info": "[Wack0/CVE-2022-21894](https://github.com/Wack0/CVE-2022-21894)",
+      "description": "baton drop (CVE-2022-21894): Secure Boot Security Feature Bypass Vulnerability",
+      "date": "2022-08-09",
+      "raw_date": "2022-08-09T15:53:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-21881",
+      "repo_info": "[theabysslabs/CVE-2022-21881](https://github.com/theabysslabs/CVE-2022-21881)",
+      "description": "POC of CVE-2022-21881 exploited at TianfuCup 2021 to escape Chrome Sandbox",
+      "date": "2022-08-09",
+      "raw_date": "2022-08-09T14:16:40Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[0xNix/CVE-2021-4034](https://github.com/0xNix/CVE-2021-4034)",
+      "description": "no description",
+      "date": "2022-08-09",
+      "raw_date": "2022-08-09T17:54:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[markisback/CVE-2018-6574](https://github.com/markisback/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2022-08-09",
+      "raw_date": "2022-08-09T23:45:13Z"
+    },
+    {
+      "cve_id": "CVE-2015-1328",
+      "repo_info": "[poxicity/CVE-2015-1328](https://github.com/poxicity/CVE-2015-1328)",
+      "description": "no description",
+      "date": "2022-08-09",
+      "raw_date": "2022-08-09T04:10:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.907198",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-08-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

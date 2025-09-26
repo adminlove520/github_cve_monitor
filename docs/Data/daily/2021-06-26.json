@@ -1,0 +1,34 @@
+{
+  "date": "2021-06-26",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[amil-ptl-test/ptl_cve_2018_6574](https://github.com/amil-ptl-test/ptl_cve_2018_6574)",
+      "description": "no description",
+      "date": "2021-06-26",
+      "raw_date": "2021-06-26T10:39:22Z"
+    },
+    {
+      "cve_id": "CVE-2015-1328",
+      "repo_info": "[notlikethis/CVE-2015-1328](https://github.com/notlikethis/CVE-2015-1328)",
+      "description": "compiled CVE-2015-1328",
+      "date": "2021-06-26",
+      "raw_date": "2021-06-26T22:20:07Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[amil-ptl-test/ptl_cve_2011_0228](https://github.com/amil-ptl-test/ptl_cve_2011_0228)",
+      "description": "no description",
+      "date": "2021-06-26",
+      "raw_date": "2021-06-26T10:37:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.855052",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-06-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-07-30",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[VladRico/CVE-2019-19781](https://github.com/VladRico/CVE-2019-19781)",
+      "description": "Shitrix : CVE-2019-19781 - Remote Code Execution on Citrix ADC Netscaler exploit",
+      "date": "2020-07-30",
+      "raw_date": "2020-07-30T17:37:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-8046",
+      "repo_info": "[mjancek/BlueborneDetection](https://github.com/mjancek/BlueborneDetection)",
+      "description": "Simple detection tool for Blueborne vulnerability found on Android devices --- CVE-2017-0781.",
+      "date": "2020-07-30",
+      "raw_date": "2020-07-30T21:06:19Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.818845",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-07-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

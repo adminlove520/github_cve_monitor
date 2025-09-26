@@ -1,0 +1,69 @@
+{
+  "date": "2022-12-09",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-45025",
+      "repo_info": "[yuriisanin/CVE-2022-45025](https://github.com/yuriisanin/CVE-2022-45025)",
+      "description": "[PoC] Command injection via PDF import in Markdown Preview Enhanced (VSCode, Atom)",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T22:48:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-41828",
+      "repo_info": "[murataydemir/CVE-2022-41828](https://github.com/murataydemir/CVE-2022-41828)",
+      "description": "[CVE-2022-41828] Amazon AWS Redshift JDBC Driver Remote Code Execution (RCE)",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T10:35:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-39253",
+      "repo_info": "[ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)",
+      "description": "no description",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T05:59:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-36537",
+      "repo_info": "[Malwareman007/CVE-2022-36537](https://github.com/Malwareman007/CVE-2022-36537)",
+      "description": "POC of CVE-2022-36537",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T14:15:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-36537",
+      "repo_info": "[agnihackers/CVE-2022-36537-EXPLOIT](https://github.com/agnihackers/CVE-2022-36537-EXPLOIT)",
+      "description": "CVE-2022-36537",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T11:29:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-36537",
+      "repo_info": "[f0ng/text4shellburpscanner](https://github.com/f0ng/text4shellburpscanner)",
+      "description": "text4shell(CVE-2022-42889) BurpSuite Scanner",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T08:18:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[M4fiaB0y/CVE-2022-1388](https://github.com/M4fiaB0y/CVE-2022-1388)",
+      "description": "Scan IP ranges for IP&#x27;s vulnerable to the F5 Big IP exploit (CVE-2022-1388)",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T06:51:21Z"
+    },
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[eb613819/CTF_CVE-2016-10033](https://github.com/eb613819/CTF_CVE-2016-10033)",
+      "description": "CTF based around CVE-2016-10033",
+      "date": "2022-12-09",
+      "raw_date": "2022-12-09T00:28:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.924901",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-12-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

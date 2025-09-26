@@ -1,0 +1,132 @@
+{
+  "date": "2025-01-03",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-56433",
+      "repo_info": "[JonnyWhatshisface/CVE-2024-56433](https://github.com/JonnyWhatshisface/CVE-2024-56433)",
+      "description": "CVE-2024-56433 - shadow-utils Default subordinate ID for local users creates risk of collision",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T13:11:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-55988",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55988](https://github.com/RandomRobbieBF/CVE-2024-55988)",
+      "description": "Navayan CSV Export &lt;= 1.0.9 - Unauthenticated SQL Injection",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T10:45:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-55982",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55982](https://github.com/RandomRobbieBF/CVE-2024-55982)",
+      "description": "Share Buttons – Social Media &lt;= 1.0.2 - Unauthenticated SQL Injection",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T12:23:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-55981",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55981](https://github.com/RandomRobbieBF/CVE-2024-55981)",
+      "description": "Nabz Image Gallery &lt;= v1.00 - Unauthenticated SQL Injection",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T12:38:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-55976",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55976](https://github.com/RandomRobbieBF/CVE-2024-55976)",
+      "description": "Critical Site Intel &lt;= 1.0 - Unauthenticated SQL Injection",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T13:32:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-55972",
+      "repo_info": "[RandomRobbieBF/CVE-2024-55972](https://github.com/RandomRobbieBF/CVE-2024-55972)",
+      "description": "eTemplates &lt;= 0.2.1 - Unauthenticated SQL Injection",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T12:47:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-54374",
+      "repo_info": "[RandomRobbieBF/CVE-2024-54374](https://github.com/RandomRobbieBF/CVE-2024-54374)",
+      "description": "Sogrid &lt;= 1.5.6 - Unauthenticated Local File Inclusion",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T10:08:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-53677",
+      "repo_info": "[EQSTLab/CVE-2024-53677](https://github.com/EQSTLab/CVE-2024-53677)",
+      "description": "Proof-of-Concept for CVE-2024-46538",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T02:30:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-51378",
+      "repo_info": "[i0x29A/CVE-2024-51378](https://github.com/i0x29A/CVE-2024-51378)",
+      "description": "A Python script to scan websites for the CVE-2024-51378 vulnerability.",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T08:05:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-50498",
+      "repo_info": "[Nxploited/CVE-2024-50498](https://github.com/Nxploited/CVE-2024-50498)",
+      "description": "no description",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T22:36:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-50498",
+      "repo_info": "[jgamblin/2024CVEDataReview](https://github.com/jgamblin/2024CVEDataReview)",
+      "description": "2024 CVE Data Review",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T18:39:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-49113",
+      "repo_info": "[barcrange/CVE-2024-49113-Checker](https://github.com/barcrange/CVE-2024-49113-Checker)",
+      "description": "no description",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T07:05:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-12970",
+      "repo_info": "[osmancanvural/CVE-2024-12970](https://github.com/osmancanvural/CVE-2024-12970)",
+      "description": "no description",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T10:23:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-51409",
+      "repo_info": "[Nxploited/CVE-2023-51409](https://github.com/Nxploited/CVE-2023-51409)",
+      "description": "no description",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T11:36:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[JanICT/poc-ldap-cve-2021-44228](https://github.com/JanICT/poc-ldap-cve-2021-44228)",
+      "description": "no description",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T10:15:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[FakesiteSecurity/CVE-2021-41773](https://github.com/FakesiteSecurity/CVE-2021-41773)",
+      "description": "MASS CVE-2021-41773",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T20:13:52Z"
+    },
+    {
+      "cve_id": "CVE-2017-8056",
+      "repo_info": "[itzexploit/CVE-2017-8056](https://github.com/itzexploit/CVE-2017-8056)",
+      "description": "CVE-2017-8056 XML-RPC Exploit DoS",
+      "date": "2025-01-03",
+      "raw_date": "2025-01-03T07:37:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.128156",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2025-01-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

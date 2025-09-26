@@ -1,0 +1,55 @@
+{
+  "date": "2020-11-02",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-7752",
+      "repo_info": "[ossf-cve-benchmark/CVE-2020-7752](https://github.com/ossf-cve-benchmark/CVE-2020-7752)",
+      "description": "no description",
+      "date": "2020-11-02",
+      "raw_date": "2020-11-02T20:55:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-17571",
+      "repo_info": "[elttam/ko7demo](https://github.com/elttam/ko7demo)",
+      "description": "A docker-contained koseven hello world to play with SQL injection CVE-2019-8979 affecting versions &lt; 3.3.10",
+      "date": "2020-11-02",
+      "raw_date": "2020-11-02T00:58:12Z"
+    },
+    {
+      "cve_id": "CVE-2019-10765",
+      "repo_info": "[ossf-cve-benchmark/CVE-2019-10765](https://github.com/ossf-cve-benchmark/CVE-2019-10765)",
+      "description": "no description",
+      "date": "2020-11-02",
+      "raw_date": "2020-11-02T20:55:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-10745",
+      "repo_info": "[ossf-cve-benchmark/CVE-2019-10745](https://github.com/ossf-cve-benchmark/CVE-2019-10745)",
+      "description": "no description",
+      "date": "2020-11-02",
+      "raw_date": "2020-11-02T20:55:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-8035",
+      "repo_info": "[ossf-cve-benchmark/CVE-2018-8035](https://github.com/ossf-cve-benchmark/CVE-2018-8035)",
+      "description": "no description",
+      "date": "2020-11-02",
+      "raw_date": "2020-11-02T20:54:14Z"
+    },
+    {
+      "cve_id": "CVE-2017-15361",
+      "repo_info": "[Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361](https://github.com/Elbarbons/ROCA-attack-on-vulnerability-CVE-2017-15361)",
+      "description": "no description",
+      "date": "2020-11-02",
+      "raw_date": "2020-11-02T14:12:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.828121",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2020-11-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

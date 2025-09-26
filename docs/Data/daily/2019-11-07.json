@@ -1,0 +1,27 @@
+{
+  "date": "2019-11-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-16858",
+      "repo_info": "[phongld97/detect-cve-2018-16858](https://github.com/phongld97/detect-cve-2018-16858)",
+      "description": "no description",
+      "date": "2019-11-07",
+      "raw_date": "2019-11-07T07:40:49Z"
+    },
+    {
+      "cve_id": "CVE-2017-12635",
+      "repo_info": "[assalielmehdi/CVE-2017-12635](https://github.com/assalielmehdi/CVE-2017-12635)",
+      "description": "Case study and POC of CVE-2017-12635: Apache CouchDB 1.7.0 / 2.x &lt; 2.1.1 - Remote Privilege Escalation",
+      "date": "2019-11-07",
+      "raw_date": "2019-11-07T20:02:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.792170",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-11-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

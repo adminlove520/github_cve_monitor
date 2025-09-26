@@ -1,0 +1,34 @@
+{
+  "date": "2024-03-23",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-48084",
+      "repo_info": "[bucketcat/CVE-2023-48084](https://github.com/bucketcat/CVE-2023-48084)",
+      "description": "Fixes broken syntax in the POC, automates the API_Token retrieval, stores the token as a variable and pipes into the fixed POC.",
+      "date": "2024-03-23",
+      "raw_date": "2024-03-23T00:31:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-40028",
+      "repo_info": "[0xyassine/CVE-2023-40028](https://github.com/0xyassine/CVE-2023-40028)",
+      "description": "no description",
+      "date": "2024-03-23",
+      "raw_date": "2024-03-23T15:25:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[sec13b/CVE-2021-44228-POC](https://github.com/sec13b/CVE-2021-44228-POC)",
+      "description": "exploit CVE-2021-44228",
+      "date": "2024-03-23",
+      "raw_date": "2024-03-23T05:03:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.077132",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2024-03-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

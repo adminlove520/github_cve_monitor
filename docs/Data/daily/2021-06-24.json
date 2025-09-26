@@ -1,0 +1,55 @@
+{
+  "date": "2021-06-24",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-3490",
+      "repo_info": "[chompie1337/Linux_LPE_eBPF_CVE-2021-3490](https://github.com/chompie1337/Linux_LPE_eBPF_CVE-2021-3490)",
+      "description": "no description",
+      "date": "2021-06-24",
+      "raw_date": "2021-06-24T18:50:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-21425",
+      "repo_info": "[CsEnox/CVE-2021-21425](https://github.com/CsEnox/CVE-2021-21425)",
+      "description": "GravCMS Unauthenticated Arbitrary YAML Write/Update leads to Code Execution (CVE-2021-21425)",
+      "date": "2021-06-24",
+      "raw_date": "2021-06-24T13:06:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-12744",
+      "repo_info": "[nobodyatall648/CVE-2019-12744](https://github.com/nobodyatall648/CVE-2019-12744)",
+      "description": "Remote Command Execution through Unvalidated File Upload in SeedDMS versions &lt;5.1.11",
+      "date": "2021-06-24",
+      "raw_date": "2021-06-24T12:58:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[noobTest1122/CVE-2018-6574](https://github.com/noobTest1122/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2021-06-24",
+      "raw_date": "2021-06-24T16:23:55Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[Badbird3/CVE-2017-5638](https://github.com/Badbird3/CVE-2017-5638)",
+      "description": "no description",
+      "date": "2021-06-24",
+      "raw_date": "2021-06-24T05:41:45Z"
+    },
+    {
+      "cve_id": "CVE-2014-8609",
+      "repo_info": "[injectionmethod/ZTE-Vuln-4-Skids](https://github.com/injectionmethod/ZTE-Vuln-4-Skids)",
+      "description": "Archive: Exploit https://www.cvedetails.com/cve/CVE-2014-2321/ For CentOS",
+      "date": "2021-06-24",
+      "raw_date": "2021-06-24T03:16:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.854792",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2021-06-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2021-11-17",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-37580",
+      "repo_info": "[fengwenhua/CVE-2021-37580](https://github.com/fengwenhua/CVE-2021-37580)",
+      "description": "CVE-2021-37580的poc",
+      "date": "2021-11-17",
+      "raw_date": "2021-11-17T13:26:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-28032",
+      "repo_info": "[nth347/CVE-2020-28032_PoC](https://github.com/nth347/CVE-2020-28032_PoC)",
+      "description": "PoC for CVE-2020-28032 (It&#x27;s just a POP chain in WordPress &lt; 5.5.2 for exploiting PHP Object Injection)",
+      "date": "2021-11-17",
+      "raw_date": "2021-11-17T07:09:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-28032",
+      "repo_info": "[ybdegit2020/wonderplugin](https://github.com/ybdegit2020/wonderplugin)",
+      "description": "cve-2020-35314,一个带phpcode的zip文件",
+      "date": "2021-11-17",
+      "raw_date": "2021-11-17T02:39:06Z"
+    },
+    {
+      "cve_id": "CVE-2017-17562",
+      "repo_info": "[freitzzz/bash-CVE-2017-17562](https://github.com/freitzzz/bash-CVE-2017-17562)",
+      "description": "PoC for CVE-2017-17562 written in bash",
+      "date": "2021-11-17",
+      "raw_date": "2021-11-17T18:21:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.870168",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-11-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

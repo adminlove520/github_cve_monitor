@@ -1,0 +1,34 @@
+{
+  "date": "2021-02-20",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-0232",
+      "repo_info": "[Nicoslo/Windows-exploitation-Apache-Tomcat-8.5.19-CVE-2019-0232-](https://github.com/Nicoslo/Windows-exploitation-Apache-Tomcat-8.5.19-CVE-2019-0232-)",
+      "description": "no description",
+      "date": "2021-02-20",
+      "raw_date": "2021-02-20T18:38:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-0802",
+      "repo_info": "[roninAPT/CVE-2018-0802](https://github.com/roninAPT/CVE-2018-0802)",
+      "description": "no description",
+      "date": "2021-02-20",
+      "raw_date": "2021-02-20T02:34:16Z"
+    },
+    {
+      "cve_id": "CVE-2014-6287",
+      "repo_info": "[Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287](https://github.com/Nicoslo/Windows-exploitation-Rejetto-HTTP-File-Server-HFS-2.3.x-CVE-2014-6287)",
+      "description": "no description",
+      "date": "2021-02-20",
+      "raw_date": "2021-02-20T18:28:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.841485",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2021-02-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

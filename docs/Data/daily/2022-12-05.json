@@ -1,0 +1,41 @@
+{
+  "date": "2022-12-05",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-43680",
+      "repo_info": "[nidhi7598/expat_2.1.0-_CVE-2022-43680](https://github.com/nidhi7598/expat_2.1.0-_CVE-2022-43680)",
+      "description": "no description",
+      "date": "2022-12-05",
+      "raw_date": "2022-12-05T12:24:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-2022",
+      "repo_info": "[sdfbjaksff/CVE-2022-2022](https://github.com/sdfbjaksff/CVE-2022-2022)",
+      "description": "no description",
+      "date": "2022-12-05",
+      "raw_date": "2022-12-05T11:25:16Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[TheKernelPanic/exploit-apache2-cve-2021-41773](https://github.com/TheKernelPanic/exploit-apache2-cve-2021-41773)",
+      "description": "Exploit for path transversal vulnerability in apache",
+      "date": "2022-12-05",
+      "raw_date": "2022-12-05T21:11:28Z"
+    },
+    {
+      "cve_id": "CVE-2010-1622",
+      "repo_info": "[HandsomeCat00/Spring-CVE-2010-1622](https://github.com/HandsomeCat00/Spring-CVE-2010-1622)",
+      "description": "no description",
+      "date": "2022-12-05",
+      "raw_date": "2022-12-05T02:28:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.924414",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-12-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

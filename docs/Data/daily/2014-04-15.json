@@ -1,0 +1,34 @@
+{
+  "date": "2014-04-15",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-3120",
+      "repo_info": "[einaros/heartbleed-tools](https://github.com/einaros/heartbleed-tools)",
+      "description": "OpenSSL Heartbleed (CVE-2014-0160) vulnerability scanner, data miner and RSA key-restore tools.",
+      "date": "2014-04-15",
+      "raw_date": "2014-04-15T14:09:54Z"
+    },
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[indiw0rm/-Heartbleed-](https://github.com/indiw0rm/-Heartbleed-)",
+      "description": "A checker (site and tool) for CVE-2014-0160:",
+      "date": "2014-04-15",
+      "raw_date": "2014-04-15T09:30:40Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[mozilla-services/Heartbleed](https://github.com/mozilla-services/Heartbleed)",
+      "description": "A checker (site and tool) for CVE-2014-0160",
+      "date": "2014-04-15",
+      "raw_date": "2014-04-15T22:22:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.609300",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2014-04-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

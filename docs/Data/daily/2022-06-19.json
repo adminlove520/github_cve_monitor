@@ -1,0 +1,69 @@
+{
+  "date": "2022-06-19",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-39593",
+      "repo_info": "[Ant1sec-ops/CVE-2023-39593](https://github.com/Ant1sec-ops/CVE-2023-39593)",
+      "description": "Database authenticated code execution",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T15:22:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[zir0x00/CVE-2022-30190-MASS-RCE](https://github.com/zir0x00/CVE-2022-30190-MASS-RCE)",
+      "description": "MSDT 0-Day Mass Exploitation Tool",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T12:10:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-30136",
+      "repo_info": "[zir0x00/CVE-2022-30136-MASS-RCE](https://github.com/zir0x00/CVE-2022-30136-MASS-RCE)",
+      "description": "CVE-2022-30136 Unauthenticated RCE in Microsoft Windows Network File System",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T12:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[AmoloHT/CVE-2022-26134](https://github.com/AmoloHT/CVE-2022-26134)",
+      "description": "「💥」CVE-2022-26134 - Confluence Pre-Auth RCE",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T13:50:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-22588",
+      "repo_info": "[PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588](https://github.com/PyterSmithDarkGhost/0DAYIPHONE13IOS15.2CVE-2022-22588)",
+      "description": "no description",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T04:24:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[tpt11fb/SpringVulScan](https://github.com/tpt11fb/SpringVulScan)",
+      "description": "burpsuite 的Spring漏洞扫描插件。SpringVulScan：支持检测：路由泄露-CVE-2022-22965-CVE-2022-22963-CVE-2022-22947-CVE-2016-4977",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T13:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-40903",
+      "repo_info": "[vulnz/CVE-2021-40903](https://github.com/vulnz/CVE-2021-40903)",
+      "description": "CVE-2021-40903",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T09:01:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-17662",
+      "repo_info": "[Tamagaft/CVE-2019-17662](https://github.com/Tamagaft/CVE-2019-17662)",
+      "description": "Golang implementation of CVE-2019-17662 TinyVNC Arbitrary File Read leading to Authentication Bypass Exploit",
+      "date": "2022-06-19",
+      "raw_date": "2022-06-19T16:33:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.900175",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-06-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

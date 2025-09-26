@@ -1,0 +1,27 @@
+{
+  "date": "2022-07-23",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[keven1z/CVE-2022-26134](https://github.com/keven1z/CVE-2022-26134)",
+      "description": "远程攻击者在Confluence未经身份验证的情况下，可构造OGNL表达式进行注入，实现在Confluence Server或Data Center上执行任意代码,在现有脚本上修改了poc，方便getshell。",
+      "date": "2022-07-23",
+      "raw_date": "2022-07-23T14:38:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-25461",
+      "repo_info": "[krdsploit/DELL-IDRAC-8-EXPLOIT](https://github.com/krdsploit/DELL-IDRAC-8-EXPLOIT)",
+      "description": "EXPLOIT FOR CVE IDRAC 8 2021",
+      "date": "2022-07-23",
+      "raw_date": "2022-07-23T08:55:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.905058",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-07-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

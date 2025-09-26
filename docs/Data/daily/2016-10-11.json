@@ -1,0 +1,20 @@
+{
+  "date": "2016-10-11",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-3839",
+      "repo_info": "[mabin004/cve-2015-3839_PoC](https://github.com/mabin004/cve-2015-3839_PoC)",
+      "description": "PoC of cve-2015-3839 which cause SMS app of Android Crash (DoS)",
+      "date": "2016-10-11",
+      "raw_date": "2016-10-11T12:58:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.688185",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

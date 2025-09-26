@@ -1,0 +1,34 @@
+{
+  "date": "2019-01-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8453",
+      "repo_info": "[ze0r/cve-2018-8453-exp](https://github.com/ze0r/cve-2018-8453-exp)",
+      "description": "cve-2018-8453 exp",
+      "date": "2019-01-18",
+      "raw_date": "2019-01-18T10:40:03Z"
+    },
+    {
+      "cve_id": "CVE-2018-8453",
+      "repo_info": "[Mkv4/cve-2018-8453-exp](https://github.com/Mkv4/cve-2018-8453-exp)",
+      "description": "cve-2018-8453 exp",
+      "date": "2019-01-18",
+      "raw_date": "2019-01-18T05:24:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[duckzsc2/CVE-2018-6574-POC](https://github.com/duckzsc2/CVE-2018-6574-POC)",
+      "description": "no description",
+      "date": "2019-01-18",
+      "raw_date": "2019-01-18T05:22:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.764964",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2019-01-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

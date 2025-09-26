@@ -1,0 +1,76 @@
+{
+  "date": "2023-08-29",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-40477",
+      "repo_info": "[wildptr-io/Winrar-CVE-2023-40477-POC](https://github.com/wildptr-io/Winrar-CVE-2023-40477-POC)",
+      "description": "CVE-2023-40477 PoC by Wild-Pointer",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T16:29:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[MortySecurity/CVE-2023-38831-Exploit-and-Detection](https://github.com/MortySecurity/CVE-2023-38831-Exploit-and-Detection)",
+      "description": "This repository has both an attack detection tool and a Proof-of-Concept (PoC) Python script for the WinRAR CVE-2023-38831 vulnerability.",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T16:12:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[winkler-winsen/Scan_WinRAR](https://github.com/winkler-winsen/Scan_WinRAR)",
+      "description": "Scan for WinRAR files affected to CVE-2023-40477",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T14:41:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[winkler-winsen/Scan_GhostScript](https://github.com/winkler-winsen/Scan_GhostScript)",
+      "description": "Scan for GhostScript files affected to CVE-2023-36664",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T14:01:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[thegr1ffyn/CVE-2023-38831](https://github.com/thegr1ffyn/CVE-2023-38831)",
+      "description": "Proof of Concept (POC) for CVE-2023-38831 WinRAR",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T06:11:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-0443",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2021-0443)",
+      "description": "no description",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T12:29:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-15436",
+      "repo_info": "[Trinadh465/linux-4.19.72_CVE-2020-15436](https://github.com/Trinadh465/linux-4.19.72_CVE-2020-15436)",
+      "description": "no description",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T10:53:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-0041",
+      "repo_info": "[jcalabres/root-exploit-pixel3](https://github.com/jcalabres/root-exploit-pixel3)",
+      "description": "Adapted CVE-2020-0041 root exploit for Pixel 3",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T20:48:56Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[hanmin0512/CVE-2014-6271_pwnable](https://github.com/hanmin0512/CVE-2014-6271_pwnable)",
+      "description": "no description",
+      "date": "2023-08-29",
+      "raw_date": "2023-08-29T06:58:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.043636",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

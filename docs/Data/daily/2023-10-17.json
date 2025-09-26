@@ -1,0 +1,139 @@
+{
+  "date": "2023-10-17",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5070",
+      "repo_info": "[RandomRobbieBF/CVE-2023-5070](https://github.com/RandomRobbieBF/CVE-2023-5070)",
+      "description": "Social Media Share Buttons &amp; Social Sharing Icons &lt;= 2.8.5 - Information Exposure",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T08:19:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-45828",
+      "repo_info": "[RandomRobbieBF/CVE-2023-45828](https://github.com/RandomRobbieBF/CVE-2023-45828)",
+      "description": "RumbleTalk Live Group Chat &lt;= 6.1.9 - Missing Authorization via handleRequest",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T08:41:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-45828",
+      "repo_info": "[chaudharyarjun/LooneyPwner](https://github.com/chaudharyarjun/LooneyPwner)",
+      "description": "Exploit tool for CVE-2023-4911, targeting the &#x27;Looney Tunables&#x27; glibc vulnerability in various Linux distributions.",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T07:44:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[birdm4nw/CVE-2023-38646](https://github.com/birdm4nw/CVE-2023-38646)",
+      "description": "Metabase open source before 0.46.6.1 and Metabase Enterprise before 1.46.6.1 allow attackers to execute arbitrary commands on the server, at the server&#x27;s privilege level. Authentication is not required for exploitation. The other fixed versions are 0.45.4.1, 1.45.4.1, 0.44.7.1, 1.44.7.1, 0.43.7.2, and 1.43.7.2.",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T07:43:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-38545",
+      "repo_info": "[d0rb/CVE-2023-38545](https://github.com/d0rb/CVE-2023-38545)",
+      "description": "socks5 heap buffer overflow",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T09:03:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-36076",
+      "repo_info": "[deIndra/CVE-2023-36076](https://github.com/deIndra/CVE-2023-36076)",
+      "description": "no description",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T07:37:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[ValentinPundikov/poc-CVE-2023-32784](https://github.com/ValentinPundikov/poc-CVE-2023-32784)",
+      "description": "no description",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T13:17:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[S4muraiMelayu1337/CVE-2023-29489](https://github.com/S4muraiMelayu1337/CVE-2023-29489)",
+      "description": "no description",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T11:18:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[ZephrFish/Cisco-IOS-XE-Scanner](https://github.com/ZephrFish/Cisco-IOS-XE-Scanner)",
+      "description": "CVE-2023-20198 &amp; 0Day Implant Scanner",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T22:41:14Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[emomeni/Simple-Ansible-for-CVE-2023-20198](https://github.com/emomeni/Simple-Ansible-for-CVE-2023-20198)",
+      "description": "no description",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T18:46:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[securityphoenix/cisco-CVE-2023-20198-tester](https://github.com/securityphoenix/cisco-CVE-2023-20198-tester)",
+      "description": "cisco-CVE-2023-20198-tester",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T15:44:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[d0rb/CVE-2023-20198](https://github.com/d0rb/CVE-2023-20198)",
+      "description": "CVE-2023-20198 PoC (!)",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T13:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[Atea-Redteam/CVE-2023-20198](https://github.com/Atea-Redteam/CVE-2023-20198)",
+      "description": "CVE-2023-20198 Checkscript",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T08:00:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[pypcod/CVE-2023-20198](https://github.com/pypcod/CVE-2023-20198)",
+      "description": "exploit CVE-2023-20198",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T10:37:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[raystr-atearedteam/CVE-2023-20198-checker](https://github.com/raystr-atearedteam/CVE-2023-20198-checker)",
+      "description": "no description",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T07:35:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-38601",
+      "repo_info": "[evilashz/PIGADVulnScanner](https://github.com/evilashz/PIGADVulnScanner)",
+      "description": "检测域内常见一把梭漏洞，包括：NoPac、ZeroLogon、CVE-2022-26923、PrintNightMare",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T06:29:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-34473",
+      "repo_info": "[f4alireza/CVE](https://github.com/f4alireza/CVE)",
+      "description": "Proxyshell for Exploiting CVE-2021-34473",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T08:38:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-7842",
+      "repo_info": "[yanissec/CVE-2018-7842](https://github.com/yanissec/CVE-2018-7842)",
+      "description": "CVE-2018-7842",
+      "date": "2023-10-17",
+      "raw_date": "2023-10-17T12:19:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.051686",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2023-10-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2024-07-07",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-5947",
+      "repo_info": "[Cappricio-Securities/CVE-2024-5947](https://github.com/Cappricio-Securities/CVE-2024-5947)",
+      "description": "Deep Sea Electronics DSE855 - Authentication Bypass",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T14:03:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-5947",
+      "repo_info": "[ildefonso0/php-7.2.34-CVE-2024](https://github.com/ildefonso0/php-7.2.34-CVE-2024)",
+      "description": "no description",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T13:57:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-38537",
+      "repo_info": "[Havoc10-sw/Detect_polyfill_CVE-2024-38537-](https://github.com/Havoc10-sw/Detect_polyfill_CVE-2024-38537-)",
+      "description": "Here&#x27;s a Python script that checks if the polyfill.io domain is present in the Content Security Policy (CSP) header of a given web application.",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T15:06:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-37726",
+      "repo_info": "[NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation](https://github.com/NextGenPentesters/CVE-2024-37726-MSI-Center-Local-Privilege-Escalation)",
+      "description": "no description",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T09:21:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[SamJUK/cosmicsting-validator](https://github.com/SamJUK/cosmicsting-validator)",
+      "description": "CosmicSting (CVE-2024-34102) POC / Patch Validator",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T23:35:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-34361",
+      "repo_info": "[T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE](https://github.com/T0X1Cx/CVE-2024-34361-PiHole-SSRF-to-RCE)",
+      "description": "This repository contains an exploit for CVE-2024-34361, a critical Pi-hole vulnerability (CVSS 8.6). It uses SSRF to achieve RCE by exploiting improper URL validation, allowing attackers to send arbitrary requests and execute commands on the system.  Disclaimer: For educational and ethical security testing only. Unauthorized use is illegal.",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T21:22:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[sysonlai/CVE-2024-32002-hook](https://github.com/sysonlai/CVE-2024-32002-hook)",
+      "description": "no description",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T14:50:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-23002",
+      "repo_info": "[xiaomaoxxx/CVE-2024-23002](https://github.com/xiaomaoxxx/CVE-2024-23002)",
+      "description": "this is test POC for git_rce",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T12:55:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc](https://github.com/m3m0o/chamilo-lms-unauthenticated-big-upload-rce-poc)",
+      "description": "This is a script written in Python that allows the exploitation of the Chamilo&#x27;s LMS software security flaw described in CVE-2023-4220",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T15:08:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[charlesgargasson/CVE-2023-4220](https://github.com/charlesgargasson/CVE-2023-4220)",
+      "description": "https://starlabs.sg/advisories/23/23-4220/",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T16:57:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220](https://github.com/dollarboysushil/Chamilo-LMS-Unauthenticated-File-Upload-CVE-2023-4220)",
+      "description": "Unrestricted file upload in big file upload functionality in `/main/inc/lib/javascript/bigupload/inc/bigUpload.php` in Chamilo LMS &lt;= v1.11.24 allows unauthenticated attackers to perform stored cross-site scripting attacks and obtain remote code execution via uploading of web shell.",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T15:53:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[Rai2en/CVE-2023-4220-Chamilo-LMS](https://github.com/Rai2en/CVE-2023-4220-Chamilo-LMS)",
+      "description": "This is a script written in Python that allows the exploitation of the Chamilo&#x27;s LMS software security flaw described in CVE-2023-4220",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T23:23:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[N1ghtfallXxX/CVE-2023-4220](https://github.com/N1ghtfallXxX/CVE-2023-4220)",
+      "description": "Chamilo LMS Unauthenticated Remote Code Execution",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T02:09:06Z"
+    },
+    {
+      "cve_id": "CVE-2021-20323",
+      "repo_info": "[cscpwn0sec/CVE-2021-20323](https://github.com/cscpwn0sec/CVE-2021-20323)",
+      "description": "Exploitation Scanner Cross Site Scripting vulnerability in Keycloak.",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T23:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[iNoSec2/cve-2018-6574](https://github.com/iNoSec2/cve-2018-6574)",
+      "description": "pentesterlab",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T14:05:43Z"
+    },
+    {
+      "cve_id": "CVE-2007-4559",
+      "repo_info": "[JamesDarf/tarpioka](https://github.com/JamesDarf/tarpioka)",
+      "description": "YISF 2024 CTF-Web Directory (Traversal via &quot;.tar&quot; file, CVE-2007-4559), easy",
+      "date": "2024-07-07",
+      "raw_date": "2024-07-07T16:37:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.097704",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2024-07-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

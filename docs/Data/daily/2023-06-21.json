@@ -1,0 +1,76 @@
+{
+  "date": "2023-06-21",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30347",
+      "repo_info": "[huzefa2212/CVE-2023-30347](https://github.com/huzefa2212/CVE-2023-30347)",
+      "description": "Reflected Cross-Site-Scripting",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T07:03:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-42475",
+      "repo_info": "[0xhaggis/CVE-2022-42475](https://github.com/0xhaggis/CVE-2022-42475)",
+      "description": "An exploit for CVE-2022-42475, a pre-authentication heap overflow in Fortinet networking products",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T21:22:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-46704",
+      "repo_info": "[MithatGuner/CVE-2021-46704-POC](https://github.com/MithatGuner/CVE-2021-46704-POC)",
+      "description": "CVE-2021-46704 GenieACS Command Injection POC",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T12:29:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-46704",
+      "repo_info": "[hheeyywweellccoommee/CVE-2021-46704-POC-bsnln](https://github.com/hheeyywweellccoommee/CVE-2021-46704-POC-bsnln)",
+      "description": "CVE-2021-46704 GenieACS Command Injection POC",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T13:00:53Z"
+    },
+    {
+      "cve_id": "CVE-2020-0917",
+      "repo_info": "[L0ch/CVE-2020-0917_Exploit](https://github.com/L0ch/CVE-2020-0917_Exploit)",
+      "description": "Hyper-V 1-day Exploit: CVE-2020-0917",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T02:35:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-0917",
+      "repo_info": "[hheeyywweellccoommee/CVE-2020-0917_Exploit-urcsn](https://github.com/hheeyywweellccoommee/CVE-2020-0917_Exploit-urcsn)",
+      "description": "Hyper-V 1-day Exploit: CVE-2020-0917",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T10:02:43Z"
+    },
+    {
+      "cve_id": "CVE-2018-11776",
+      "repo_info": "[tsong0ku/CVE-2018-11776-FIS](https://github.com/tsong0ku/CVE-2018-11776-FIS)",
+      "description": "no description",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T15:08:39Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability](https://github.com/Darkrai-404/CVE-2014-6271-Shellshock-Vulnerability)",
+      "description": "Shellshock is a vulnerability that allows systems containing a vulnerable version of Bash to be exploited to execute commands with higher privileges. This allows attackers to potentially take over that system. In the demo, we will learn how to detect and exploit such vulnerabilities in a given target.",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T07:11:51Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[hheeyywweellccoommee/CVE-2014-6271-Shellshock-Vulnerability-vazft](https://github.com/hheeyywweellccoommee/CVE-2014-6271-Shellshock-Vulnerability-vazft)",
+      "description": "Shellshock is a vulnerability that allows systems containing a vulnerable version of Bash to be exploited to execute commands with higher privileges. This allows attackers to potentially take over that system. In the demo, we will learn how to detect and exploit such vulnerabilities in a given target.",
+      "date": "2023-06-21",
+      "raw_date": "2023-06-21T09:00:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.033309",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-06-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

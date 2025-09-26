@@ -1,0 +1,20 @@
+{
+  "date": "2010-09-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2010-1205",
+      "repo_info": "[mk219533/CVE-2010-1205](https://github.com/mk219533/CVE-2010-1205)",
+      "description": "sample exploit of buffer overflow in libpng",
+      "date": "2010-09-14",
+      "raw_date": "2010-09-14T22:16:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.497922",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2010-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

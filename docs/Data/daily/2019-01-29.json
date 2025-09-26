@@ -1,0 +1,34 @@
+{
+  "date": "2019-01-29",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0248",
+      "repo_info": "[rubenmamo/CVE-2017-0248-Test](https://github.com/rubenmamo/CVE-2017-0248-Test)",
+      "description": "Sample project to test using Microsoft.CodeDom.Providers.DotNetCompilerPlatform 2.0.1 causing CVE-2017-0248",
+      "date": "2019-01-29",
+      "raw_date": "2019-01-29T13:23:24Z"
+    },
+    {
+      "cve_id": "CVE-2011-3368",
+      "repo_info": "[sk4la/cve_2011_3556](https://github.com/sk4la/cve_2011_3556)",
+      "description": "Python 3 implementation of an existing CVE-2011-3556 proof of concept (PoC).",
+      "date": "2019-01-29",
+      "raw_date": "2019-01-29T20:22:09Z"
+    },
+    {
+      "cve_id": "CVE-2006-1236",
+      "repo_info": "[Axua/CVE-2006-1236](https://github.com/Axua/CVE-2006-1236)",
+      "description": "Exploit script for Crossfire 1.9.0",
+      "date": "2019-01-29",
+      "raw_date": "2019-01-29T23:46:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.766023",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2019-01-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

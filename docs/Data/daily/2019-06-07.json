@@ -1,0 +1,27 @@
+{
+  "date": "2019-06-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-8561",
+      "repo_info": "[0xmachos/CVE-2019-8561](https://github.com/0xmachos/CVE-2019-8561)",
+      "description": "Proof of concept exploit for CVE-2019-8561 discovered by @jbradley89",
+      "date": "2019-06-07",
+      "raw_date": "2019-06-07T23:48:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-0859",
+      "repo_info": "[Sheisback/CVE-2019-0859-1day-Exploit](https://github.com/Sheisback/CVE-2019-0859-1day-Exploit)",
+      "description": "CVE-2019-0859 1day Exploit",
+      "date": "2019-06-07",
+      "raw_date": "2019-06-07T04:37:34Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.777758",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-06-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

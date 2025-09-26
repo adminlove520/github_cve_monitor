@@ -1,0 +1,97 @@
+{
+  "date": "2022-12-20",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-43271",
+      "repo_info": "[SecurityWillCheck/CVE-2022-43271](https://github.com/SecurityWillCheck/CVE-2022-43271)",
+      "description": "no description",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T04:40:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-39253",
+      "repo_info": "[ssst0n3/docker-cve-2022-39253-poc](https://github.com/ssst0n3/docker-cve-2022-39253-poc)",
+      "description": "no description",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T08:17:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-37958",
+      "repo_info": "[RCEman01/CVE-2022-37958-Windows-Server-RCE](https://github.com/RCEman01/CVE-2022-37958-Windows-Server-RCE)",
+      "description": "The vulnerability is in the SPNEGO Extended Negotiation (NEGOEX) Security Mechanism, which allows a client and server to negotiate the choice of security mechanism to use. This vulnerability is a pre-authentication remote code execution vulnerability impacting a wide range of protocols.",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T09:37:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[devengpk/CVE-2022-36804](https://github.com/devengpk/CVE-2022-36804)",
+      "description": "no description",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T17:55:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[Phantomiman/7-Zip.chm-Mitigation](https://github.com/Phantomiman/7-Zip.chm-Mitigation)",
+      "description": "7-Zip CVE-2022-29072 Mitigation - CHM file - This script detects if the .chm file exists and removes it.",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T15:30:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-3382",
+      "repo_info": "[PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC](https://github.com/PyterSmithDarkGhost/CVE-2022-3382ROBOTICAEXPLOITPOC)",
+      "description": "no description",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T22:01:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-2602",
+      "repo_info": "[kiks7/CVE-2022-2602-Kernel-Exploit](https://github.com/kiks7/CVE-2022-2602-Kernel-Exploit)",
+      "description": "no description",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T12:16:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-24086",
+      "repo_info": "[pescepilota/CVE-2022-24086](https://github.com/pescepilota/CVE-2022-24086)",
+      "description": "Proof of concept of CVE-2022-24086",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T13:44:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[shamo0/PDFkit-CMD-Injection](https://github.com/shamo0/PDFkit-CMD-Injection)",
+      "description": "CVE-2022-25765 pdfkit &lt;0.8.6 command injection.",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T14:59:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-45010",
+      "repo_info": "[BKreisel/CVE-2021-45010](https://github.com/BKreisel/CVE-2021-45010)",
+      "description": "🐍 Python Exploit for CVE-2021-45010",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T00:47:30Z"
+    },
+    {
+      "cve_id": "CVE-2021-34767",
+      "repo_info": "[lukejenkins/CVE-2021-34767](https://github.com/lukejenkins/CVE-2021-34767)",
+      "description": "Cisco IOS XE Software for Catalyst 9800 Series Wireless Controllers IPv6 Denial of Service Vulnerability",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T18:53:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-21809",
+      "repo_info": "[anldori/CVE-2021-21809](https://github.com/anldori/CVE-2021-21809)",
+      "description": "CVE-2021-21809 POC",
+      "date": "2022-12-20",
+      "raw_date": "2022-12-20T01:44:49Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.926351",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-12-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

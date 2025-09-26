@@ -1,0 +1,20 @@
+{
+  "date": "2016-07-21",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2006-6184",
+      "repo_info": "[shauntdergrigorian/cve-2006-6184](https://github.com/shauntdergrigorian/cve-2006-6184)",
+      "description": "This is a python-based standalone exploit for CVE-2006-6184. This exploit triggers a stack-based buffer overflows in Allied Telesyn TFTP Server (AT-TFTP) 1.9, and possibly earlier, allow remote attackers to cause a denial of service or execute arbitrary code.",
+      "date": "2016-07-21",
+      "raw_date": "2016-07-21T22:43:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.681313",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-07-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

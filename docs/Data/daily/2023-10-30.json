@@ -1,0 +1,139 @@
+{
+  "date": "2023-10-30",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5044",
+      "repo_info": "[r0binak/CVE-2023-5044](https://github.com/r0binak/CVE-2023-5044)",
+      "description": "PoC CVE-2023-5044",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T07:59:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[AliBrTab/CVE-2023-46747-POC](https://github.com/AliBrTab/CVE-2023-46747-POC)",
+      "description": "F5 BIG-IP unauthenticated remote code execution (RCE) and authentication bypass vulnerability!",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T15:50:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[k0zulzr/CVE-2023-46747-Mass-RCE](https://github.com/k0zulzr/CVE-2023-46747-Mass-RCE)",
+      "description": "CVE-2023-46747 (F5 BIG-IP) RCE",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T13:25:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[TomArn1/CVE-2023-46747-PoC](https://github.com/TomArn1/CVE-2023-46747-PoC)",
+      "description": "metasploit module for CVE-2023-46747 (F5 BIG-IP) RCE and the analyze",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T13:08:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-46478",
+      "repo_info": "[mr-xmen786/CVE-2023-46478](https://github.com/mr-xmen786/CVE-2023-46478)",
+      "description": "no description",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T11:28:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-42284",
+      "repo_info": "[andreysanyuk/CVE-2023-42284](https://github.com/andreysanyuk/CVE-2023-42284)",
+      "description": "Proof of concept for CVE-2023-42284 in Tyk Gateway",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T19:24:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-42283",
+      "repo_info": "[andreysanyuk/CVE-2023-42283](https://github.com/andreysanyuk/CVE-2023-42283)",
+      "description": "Proof of concept for CVE-2023-42283 in Tyk Gateway",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T19:05:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-41064",
+      "repo_info": "[MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064](https://github.com/MrR0b0t19/vulnerabilidad-LibWebP-CVE-2023-41064)",
+      "description": "longitudes de código para desencadenar esta vulnerabilidad",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T17:03:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-27524",
+      "repo_info": "[NguyenCongHaiNam/Research-CVE-2023-27524](https://github.com/NguyenCongHaiNam/Research-CVE-2023-27524)",
+      "description": "CVE-2023-27524",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T00:27:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-27524",
+      "repo_info": "[AIex-3/confluence-hack](https://github.com/AIex-3/confluence-hack)",
+      "description": "CVE-2023-22515",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T00:17:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[cybernetwiz/CVE-2023-23752](https://github.com/cybernetwiz/CVE-2023-23752)",
+      "description": "Joomla Unauthorized Access Vulnerability",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T14:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-0778",
+      "repo_info": "[nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778](https://github.com/nidhi7598/OPENSSL_1.0.1g_G2.5_CVE-2022-0778)",
+      "description": "no description",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T09:52:21Z"
+    },
+    {
+      "cve_id": "CVE-2021-43226",
+      "repo_info": "[Rosayxy/cve-2021-43226PoC](https://github.com/Rosayxy/cve-2021-43226PoC)",
+      "description": "a Proof of Concept of cve-2021-43226,stack overflow in Windows driver clfs.sys",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T06:47:50Z"
+    },
+    {
+      "cve_id": "CVE-2021-22911",
+      "repo_info": "[vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-](https://github.com/vlrhsgody/-vlrhsgody-RocketChat-CVE-2021-22911-)",
+      "description": "no description",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T15:09:37Z"
+    },
+    {
+      "cve_id": "CVE-2021-22880",
+      "repo_info": "[halkichi0308/CVE-2021-22880](https://github.com/halkichi0308/CVE-2021-22880)",
+      "description": "no description",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T08:30:12Z"
+    },
+    {
+      "cve_id": "CVE-2018-7852",
+      "repo_info": "[yanissec/CVE-2018-7852](https://github.com/yanissec/CVE-2018-7852)",
+      "description": "CVE-2018-7852",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T08:41:38Z"
+    },
+    {
+      "cve_id": "CVE-2018-1297",
+      "repo_info": "[48484848484848/Jmeter-CVE-2018-1297-](https://github.com/48484848484848/Jmeter-CVE-2018-1297-)",
+      "description": "no description",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T20:41:55Z"
+    },
+    {
+      "cve_id": "CVE-2007-6750",
+      "repo_info": "[Jeanpseven/slowl0ris](https://github.com/Jeanpseven/slowl0ris)",
+      "description": "Funciona pra explorar o CVE-2007-6750 (vulnerabilidade ao DoS de slowloris)",
+      "date": "2023-10-30",
+      "raw_date": "2023-10-30T16:50:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.054075",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2023-10-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

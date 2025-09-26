@@ -1,0 +1,62 @@
+{
+  "date": "2023-12-01",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-48849",
+      "repo_info": "[delsploit/CVE-2023-48849](https://github.com/delsploit/CVE-2023-48849)",
+      "description": "no description",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T11:24:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Fernando-olv/Joomla-CVE-2023-23752](https://github.com/Fernando-olv/Joomla-CVE-2023-23752)",
+      "description": "This Python implementation serves an educational purpose by demonstrating the exploitation of CVE-2023-23752. The code provides insight into the vulnerability&#x27;s exploitation.",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T02:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-40635",
+      "repo_info": "[mbadanoiu/CVE-2022-40635](https://github.com/mbadanoiu/CVE-2022-40635)",
+      "description": "CVE-2022-40635: Groovy Sandbox Bypass in CrafterCMS",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T10:28:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-40634",
+      "repo_info": "[mbadanoiu/CVE-2022-40634](https://github.com/mbadanoiu/CVE-2022-40634)",
+      "description": "CVE-2022-40634: FreeMarker Server-Side Template Injection in CrafterCMS",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T10:06:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-38691",
+      "repo_info": "[TomKing062/CVE-2022-38691_38692](https://github.com/TomKing062/CVE-2022-38691_38692)",
+      "description": "Let&#x27;s control Secure Boot Chain ourselves.",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T07:32:18Z"
+    },
+    {
+      "cve_id": "CVE-2017-18019",
+      "repo_info": "[SpiralBL0CK/CVE-2017-18019](https://github.com/SpiralBL0CK/CVE-2017-18019)",
+      "description": "Under Construction :) Please come back later",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T23:59:07Z"
+    },
+    {
+      "cve_id": "CVE-2012-2122",
+      "repo_info": "[zhangkaibin0921/CVE-2012-2122](https://github.com/zhangkaibin0921/CVE-2012-2122)",
+      "description": "no description",
+      "date": "2023-12-01",
+      "raw_date": "2023-12-01T09:16:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.059437",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-12-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

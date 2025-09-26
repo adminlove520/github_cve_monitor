@@ -1,0 +1,20 @@
+{
+  "date": "2019-06-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-15982",
+      "repo_info": "[JasonLOU/CVE_2018_15982](https://github.com/JasonLOU/CVE_2018_15982)",
+      "description": "no description",
+      "date": "2019-06-27",
+      "raw_date": "2019-06-27T02:02:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.779698",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-06-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

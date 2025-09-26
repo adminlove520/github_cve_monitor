@@ -1,0 +1,125 @@
+{
+  "date": "2023-01-21",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-46019",
+      "repo_info": "[actuator/cve](https://github.com/actuator/cve)",
+      "description": "CVE-2023-34761 - CVE-2023-36351 - CVE-2023-40038 - CVE-2023-40039 - CVE-2023-40040 - CVE-2023-42468 - CVE-2023-42469 - CVE-2023-42470 - CVE-2023-42471",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T01:57:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-24042",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24042](https://github.com/Live-Hack-CVE/CVE-2023-24042)",
+      "description": "A race condition in LightFTP through 2.2 allows an attacker to achieve path traversal via a malformed FTP request. A handler thread can use an overwritten context-&gt;FileName. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T07:09:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-24040",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24040](https://github.com/Live-Hack-CVE/CVE-2023-24040)",
+      "description": "** UNSUPPORTED WHEN ASSIGNED ** dtprintinfo in Common Desktop Environment 1.6 has a bug in the parser of lpstat (an invoked external command) during listing of the names of available printers. This allows low-privileged local users to inject arbitrary printer names via the $HOME/.printers file. This injection allows th CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T07:09:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-24039",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24039](https://github.com/Live-Hack-CVE/CVE-2023-24039)",
+      "description": "** UNSUPPORTED WHEN ASSIGNED ** A stack-based buffer overflow in ParseColors in libXm in Common Desktop Environment 1.6 can be exploited by local low-privileged users via the dtprintinfo setuid binary to escalate their privileges to root on Solaris 10 systems. NOTE: This vulnerability only affects products that are no  CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T07:09:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-24038",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24038](https://github.com/Live-Hack-CVE/CVE-2023-24038)",
+      "description": "The HTML-StripScripts module through 1.06 for Perl allows _hss_attval_style ReDoS because of catastrophic backtracking for HTML content with certain style attributes. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T07:10:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-22884",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22884](https://github.com/Live-Hack-CVE/CVE-2023-22884)",
+      "description": "Improper Neutralization of Special Elements used in a Command (&#x27;Command Injection&#x27;) vulnerability in Apache Software Foundation Apache Airflow, Apache Software Foundation Apache Airflow MySQL Provider.This issue affects Apache Airflow: before 2.5.1; Apache Airflow MySQL Provider: before 4.0.0. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T15:56:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-22809",
+      "repo_info": "[n3m1dotsys/CVE-2023-22809-sudoedit-privesc](https://github.com/n3m1dotsys/CVE-2023-22809-sudoedit-privesc)",
+      "description": "A script to automate privilege escalation with CVE-2023-22809 vulnerability",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T15:19:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-22742",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22742](https://github.com/Live-Hack-CVE/CVE-2023-22742)",
+      "description": "libgit2 is a cross-platform, linkable library implementation of Git. When using an SSH remote with the optional libssh2 backend, libgit2 does not perform certificate checking by default. Prior versions of libgit2 require the caller to set the `certificate_check` field of libgit2&#x27;s `git_remote_callbacks` structure - if  CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T01:37:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-22617",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22617](https://github.com/Live-Hack-CVE/CVE-2023-22617)",
+      "description": "A remote attacker might be able to cause infinite recursion in PowerDNS Recursor 4.8.0 via a DNS query that retrieves DS records for a misconfigured domain, because QName minimization is used in QM fallback mode. This is fixed in 4.8.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T21:26:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-0433",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0433](https://github.com/Live-Hack-CVE/CVE-2023-0433)",
+      "description": "Heap-based Buffer Overflow in GitHub repository vim/vim prior to 9.0.1225. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T18:10:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-0179",
+      "repo_info": "[TurtleARM/CVE-2023-0179-PoC](https://github.com/TurtleARM/CVE-2023-0179-PoC)",
+      "description": "no description",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T01:02:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-45770",
+      "repo_info": "[Marsel-marsel/CVE-2022-45770](https://github.com/Marsel-marsel/CVE-2022-45770)",
+      "description": "LPE exploit via windows driver",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T10:32:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-44900",
+      "repo_info": "[0xless/CVE-2022-44900-demo-lab](https://github.com/0xless/CVE-2022-44900-demo-lab)",
+      "description": "Demo webapp vulnerable to CVE-2022-44900",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T14:52:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-43138",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-43138](https://github.com/Live-Hack-CVE/CVE-2021-43138)",
+      "description": "In Async before 2.6.4 and 3.x before 3.2.2, a malicious user can obtain privileges via the mapValues() method, aka lib/internal/iterator.js createObjectIterator prototype pollution. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T07:09:48Z"
+    },
+    {
+      "cve_id": "CVE-2021-20294",
+      "repo_info": "[tin-z/CVE-2021-20294-POC](https://github.com/tin-z/CVE-2021-20294-POC)",
+      "description": "Simple CVE-2021-20294 poc",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T16:15:21Z"
+    },
+    {
+      "cve_id": "CVE-2020-36655",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36655](https://github.com/Live-Hack-CVE/CVE-2020-36655)",
+      "description": "Yii Yii2 Gii before 2.2.2 allows remote attackers to execute arbitrary code via the Generator.php messageCategory field. The attacker can embed arbitrary PHP code into the model file. CVE project by @Sn0wAlice",
+      "date": "2023-01-21",
+      "raw_date": "2023-01-21T07:10:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.990924",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2023-01-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

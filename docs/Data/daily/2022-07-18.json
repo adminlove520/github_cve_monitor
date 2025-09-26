@@ -1,0 +1,97 @@
+{
+  "date": "2022-07-18",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-35899",
+      "repo_info": "[AngeloPioAmirante/CVE-2022-35899](https://github.com/AngeloPioAmirante/CVE-2022-35899)",
+      "description": "Unquoted Service Path Asus GameSdk",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T14:06:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-35405",
+      "repo_info": "[viniciuspereiras/CVE-2022-35405](https://github.com/viniciuspereiras/CVE-2022-35405)",
+      "description": "ManageEngine PAM360, Password Manager Pro, and Access Manager Plus unauthenticated remote code execution vulnerability PoC",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T20:52:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[W01fh4cker/cve-2022-33891](https://github.com/W01fh4cker/cve-2022-33891)",
+      "description": "cve-2022-33891-poc",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T16:16:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-24086",
+      "repo_info": "[Cory65/CVE-2022-24086-POC](https://github.com/Cory65/CVE-2022-24086-POC)",
+      "description": "Verifed Proof of Concept on CVE-2022-24086 RCE",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T17:49:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-23614",
+      "repo_info": "[davwwwx/CVE-2022-23614](https://github.com/davwwwx/CVE-2022-23614)",
+      "description": "PoC for CVE-2022-23614 (Twig sort filter code execution/sandbox bypass)",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T10:14:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-22029",
+      "repo_info": "[mchoudhary15/CVE-2022-22029-NFS-Server-](https://github.com/mchoudhary15/CVE-2022-22029-NFS-Server-)",
+      "description": "no description",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T06:23:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-20138",
+      "repo_info": "[ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138](https://github.com/ShaikUsaf/ShaikUsaf-frameworks_base_AOSP10_r33_CVE-2022-20138)",
+      "description": "no description",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T11:36:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228](https://github.com/tharindudh/Log4j-Vulnerability-in-Ghidra-tool-CVE-2021-44228)",
+      "description": "Remote Code Execution attacks are one of the most frequent methods employed by cybercriminals to compromise susceptible computers. In the previous year, a serious zero-day vulnerability was identified in Log4j, a java program used by developers for debugging and application modification loggings. This is also a significant vulnerability that affects the so-called Ghidra reverse engineering tool.",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T20:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-36955",
+      "repo_info": "[JiaJinRong12138/CVE-2021-36955-EXP](https://github.com/JiaJinRong12138/CVE-2021-36955-EXP)",
+      "description": "CVE-2021-36955",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T07:08:56Z"
+    },
+    {
+      "cve_id": "CVE-2021-20138",
+      "repo_info": "[ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138](https://github.com/ShaikUsaf/frameworks_base_AOSP10_r33_CVE-2021-20138)",
+      "description": "no description",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T11:01:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-7529",
+      "repo_info": "[Shehzadcyber/CVE-2017-7529](https://github.com/Shehzadcyber/CVE-2017-7529)",
+      "description": "Nginx versions since 0.5.6 up to and including 1.13.2 are vulnerable to integer overflow vulnerability in nginx range filter module resulting into leak of potentially sensitive information triggered by specially crafted request.",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T05:14:55Z"
+    },
+    {
+      "cve_id": "CVE-2016-0451",
+      "repo_info": "[rwincey/Oracle-GoldenGate---CVE-2016-0451](https://github.com/rwincey/Oracle-GoldenGate---CVE-2016-0451)",
+      "description": "no description",
+      "date": "2022-07-18",
+      "raw_date": "2022-07-18T14:08:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.904294",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-07-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

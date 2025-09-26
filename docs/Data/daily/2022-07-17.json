@@ -1,0 +1,48 @@
+{
+  "date": "2022-07-17",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-32224",
+      "repo_info": "[ooooooo-q/cve-2022-32224-rails](https://github.com/ooooooo-q/cve-2022-32224-rails)",
+      "description": "no description",
+      "date": "2022-07-17",
+      "raw_date": "2022-07-17T04:09:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-32119",
+      "repo_info": "[trhacknon/CVE-2022-32119](https://github.com/trhacknon/CVE-2022-32119)",
+      "description": "no description",
+      "date": "2022-07-17",
+      "raw_date": "2022-07-17T19:20:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-24500",
+      "repo_info": "[Daro1967/CVE-2022-24500-RCE](https://github.com/Daro1967/CVE-2022-24500-RCE)",
+      "description": "CVE-2022-24500 Windows SMB Unauthenticated Remote Code Execution Vulnerability",
+      "date": "2022-07-17",
+      "raw_date": "2022-07-17T11:25:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-24500",
+      "repo_info": "[5xxxxx-Y/cve-2022](https://github.com/5xxxxx-Y/cve-2022)",
+      "description": "no description",
+      "date": "2022-07-17",
+      "raw_date": "2022-07-17T08:29:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-27239",
+      "repo_info": "[WizardsOfTheInternet/CVE-2021-27239](https://github.com/WizardsOfTheInternet/CVE-2021-27239)",
+      "description": "nDay exploit for CVE-2021-27239",
+      "date": "2022-07-17",
+      "raw_date": "2022-07-17T18:03:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.904173",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-07-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

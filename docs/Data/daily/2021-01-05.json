@@ -1,0 +1,69 @@
+{
+  "date": "2021-01-05",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-35262",
+      "repo_info": "[the-girl-who-lived/CVE-2020-35262](https://github.com/the-girl-who-lived/CVE-2020-35262)",
+      "description": "Cross Site Scripting (XSS) in Digisol DG-HR3400 Router",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T19:32:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-3452",
+      "repo_info": "[darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter](https://github.com/darklotuskdb/CISCO-CVE-2020-3452-Scanner-Exploiter)",
+      "description": "CISCO CVE-2020-3452 Scanner &amp; Exploiter",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T14:41:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-25498",
+      "repo_info": "[the-girl-who-lived/CVE-2020-25498](https://github.com/the-girl-who-lived/CVE-2020-25498)",
+      "description": "Stored XSS via CSRF in Beetel 777VR1 Router",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T17:38:52Z"
+    },
+    {
+      "cve_id": "CVE-2020-17518",
+      "repo_info": "[progfay/nodejs-http-transfer-encoding-smuggling-poc](https://github.com/progfay/nodejs-http-transfer-encoding-smuggling-poc)",
+      "description": "PoC of HTTP Request Smuggling in nodejs (CVE-2020-8287)",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T02:09:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-10148",
+      "repo_info": "[B1anda0/CVE-2020-10148](https://github.com/B1anda0/CVE-2020-10148)",
+      "description": "SolarWinds Orion API 远程代码执行漏洞批量检测脚本",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T13:42:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-16492",
+      "repo_info": "[dsp-testing/CVE-2018-16492](https://github.com/dsp-testing/CVE-2018-16492)",
+      "description": "no description",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T14:44:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-13797",
+      "repo_info": "[dsp-testing/CVE-2018-13797](https://github.com/dsp-testing/CVE-2018-13797)",
+      "description": "no description",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T18:56:56Z"
+    },
+    {
+      "cve_id": "CVE-2014-4688",
+      "repo_info": "[AndyFeiLi/CVE-2014-4688](https://github.com/AndyFeiLi/CVE-2014-4688)",
+      "description": "no description",
+      "date": "2021-01-05",
+      "raw_date": "2021-01-05T10:02:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.836479",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2021-01-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

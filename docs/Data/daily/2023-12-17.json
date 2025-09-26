@@ -1,0 +1,55 @@
+{
+  "date": "2023-12-17",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-50164",
+      "repo_info": "[dwisiswant0/cve-2023-50164-poc](https://github.com/dwisiswant0/cve-2023-50164-poc)",
+      "description": "Proof of Concept for Path Traversal in Apache Struts (&quot;CVE-2023-50164&quot;)",
+      "date": "2023-12-17",
+      "raw_date": "2023-12-17T14:18:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-49070",
+      "repo_info": "[0xrobiul/CVE-2023-49070](https://github.com/0xrobiul/CVE-2023-49070)",
+      "description": "Pre-auth RCE in Apache Ofbiz!!",
+      "date": "2023-12-17",
+      "raw_date": "2023-12-17T22:56:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-29063",
+      "repo_info": "[mbadanoiu/CVE-2022-29063](https://github.com/mbadanoiu/CVE-2022-29063)",
+      "description": "CVE-2022-29063: Java Deserialization via RMI Connection in Apache OfBiz",
+      "date": "2023-12-17",
+      "raw_date": "2023-12-17T21:11:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-25813",
+      "repo_info": "[mbadanoiu/CVE-2022-25813](https://github.com/mbadanoiu/CVE-2022-25813)",
+      "description": "CVE-2022-25813: FreeMarker Server-Side Template Injection in Apache OfBiz",
+      "date": "2023-12-17",
+      "raw_date": "2023-12-17T20:43:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-0320",
+      "repo_info": "[0x9567b/CVE-2022-0320](https://github.com/0x9567b/CVE-2022-0320)",
+      "description": "LFI in the Essential Addons for Elementor WordPress plugin",
+      "date": "2023-12-17",
+      "raw_date": "2023-12-17T08:38:49Z"
+    },
+    {
+      "cve_id": "CVE-2001-1473",
+      "repo_info": "[0xget/cve-2001-1473](https://github.com/0xget/cve-2001-1473)",
+      "description": "cve-2001-1473",
+      "date": "2023-12-17",
+      "raw_date": "2023-12-17T14:11:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.061710",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-12-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

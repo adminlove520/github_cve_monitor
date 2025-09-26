@@ -1,0 +1,125 @@
+{
+  "date": "2023-03-16",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-27842",
+      "repo_info": "[tristao-marinho/CVE-2023-27842](https://github.com/tristao-marinho/CVE-2023-27842)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T15:59:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-25610",
+      "repo_info": "[l1ced/CVE-2023-25610-mass](https://github.com/l1ced/CVE-2023-25610-mass)",
+      "description": "Mass RCE Exploiter for Fortinet(FortiOS/Fortiproxy) CVE-2023-25610",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T13:37:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[api0cradle/CVE-2023-23397-POC-Powershell](https://github.com/api0cradle/CVE-2023-23397-POC-Powershell)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T19:43:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[ka7ana/CVE-2023-23397](https://github.com/ka7ana/CVE-2023-23397)",
+      "description": "Simple PoC in PowerShell for CVE-2023-23397",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T19:10:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[grn-bogo/CVE-2023-23397](https://github.com/grn-bogo/CVE-2023-23397)",
+      "description": "Python script to create a message with the vulenrability properties set",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T15:00:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[alicangnll/CVE-2023-23397](https://github.com/alicangnll/CVE-2023-23397)",
+      "description": "CVE-2023-23397 - Microsoft Outlook Vulnerability",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T14:07:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-23397",
+      "repo_info": "[j0eyv/CVE-2023-23397](https://github.com/j0eyv/CVE-2023-23397)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T12:02:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-23396",
+      "repo_info": "[LucaBarile/CVE-2023-23396](https://github.com/LucaBarile/CVE-2023-23396)",
+      "description": "Exploit and report for CVE-2023-23396.",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T17:28:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-0179",
+      "repo_info": "[H4K6/CVE-2023-0179-PoC](https://github.com/H4K6/CVE-2023-0179-PoC)",
+      "description": "针对（CVE-2023-0179）漏洞利用  该漏洞被分配为CVE-2023-0179，影响了从5.5到6.2-rc3的所有Linux版本，尽管该利用在6.1.6上被测试。  漏洞的细节和文章可以在os-security上找到。",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T02:20:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-42475",
+      "repo_info": "[Amir-hy/cve-2022-42475](https://github.com/Amir-hy/cve-2022-42475)",
+      "description": "FortiOS buffer overflow vulnerability",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T00:05:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-23935",
+      "repo_info": "[antisecc/CVE-2022-23935](https://github.com/antisecc/CVE-2022-23935)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T14:47:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-22978",
+      "repo_info": "[Raghvendra1207/CVE-2022-22978](https://github.com/Raghvendra1207/CVE-2022-22978)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T09:34:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[4bhishek0/CVE-2022-0847](https://github.com/4bhishek0/CVE-2022-0847)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T17:00:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-26700",
+      "repo_info": "[jason-ntu/CVE-2021-26700](https://github.com/jason-ntu/CVE-2021-26700)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T14:49:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-25032",
+      "repo_info": "[Trinadh465/external_zlib_AOSP10_r33_CVE-2018-25032](https://github.com/Trinadh465/external_zlib_AOSP10_r33_CVE-2018-25032)",
+      "description": "no description",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T09:44:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-25032",
+      "repo_info": "[amr9k8/jwt-spoof-tool](https://github.com/amr9k8/jwt-spoof-tool)",
+      "description": "Automate JWT Exploit  (CVE-2018-0114)",
+      "date": "2023-03-16",
+      "raw_date": "2023-03-16T09:08:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.018703",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2023-03-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2020-01-22",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16784",
+      "repo_info": "[AlterSolutions/PyInstallerPrivEsc](https://github.com/AlterSolutions/PyInstallerPrivEsc)",
+      "description": "Exploit for PyInstaller CVE-2019-16784",
+      "date": "2020-01-22",
+      "raw_date": "2020-01-22T13:23:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-8809",
+      "repo_info": "[motikan2010/CVE-2017-8809_MediaWiki_RFD](https://github.com/motikan2010/CVE-2017-8809_MediaWiki_RFD)",
+      "description": "CVE-2017-8809 Docker - RFD(Reflected File Download) for MediaWiki",
+      "date": "2020-01-22",
+      "raw_date": "2020-01-22T10:21:51Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.799722",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-01-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

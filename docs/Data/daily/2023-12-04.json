@@ -1,0 +1,62 @@
+{
+  "date": "2023-12-04",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-49948",
+      "repo_info": "[codeb0ss/CVE-2023-49948-PoC](https://github.com/codeb0ss/CVE-2023-49948-PoC)",
+      "description": "no description",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T00:17:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-46474",
+      "repo_info": "[CUCUMBERanOrSNCompany/SealSecurityAssignment](https://github.com/CUCUMBERanOrSNCompany/SealSecurityAssignment)",
+      "description": "Researching on the vulnrability CVE-2023-26136",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T13:01:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-38831",
+      "repo_info": "[MyStuffYT/CVE-2023-38831-POC](https://github.com/MyStuffYT/CVE-2023-38831-POC)",
+      "description": "Proof-of-concept of CVE-2023-38831",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T11:13:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-25690",
+      "repo_info": "[thanhlam-attt/CVE-2023-25690](https://github.com/thanhlam-attt/CVE-2023-25690)",
+      "description": "no description",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T16:58:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[K3ysTr0K3R/CVE-2023-23752-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2023-23752-EXPLOIT)",
+      "description": "A PoC exploit for CVE-2023-23752 - Joomla Improper Access Check in Versions 4.0.0 through 4.2.7",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T13:05:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-2024",
+      "repo_info": "[team890/CVE-2023-2024](https://github.com/team890/CVE-2023-2024)",
+      "description": "For Aina",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T15:55:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[CygnusX-26/CVE-2022-44268-fixed-PoC](https://github.com/CygnusX-26/CVE-2022-44268-fixed-PoC)",
+      "description": "no description",
+      "date": "2023-12-04",
+      "raw_date": "2023-12-04T08:48:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.059775",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-12-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

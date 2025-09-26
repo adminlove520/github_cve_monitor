@@ -1,0 +1,272 @@
+{
+  "date": "2025-08-17",
+  "count": 37,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9090",
+      "repo_info": "[byteReaper77/CVE-2025-9090](https://github.com/byteReaper77/CVE-2025-9090)",
+      "description": "Command Injection in Tenda AC20 16.03.08.12 (/goform/telnet)",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T19:22:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-8876",
+      "repo_info": "[rxerium/CVE-2025-8875-CVE-2025-8876](https://github.com/rxerium/CVE-2025-8875-CVE-2025-8876)",
+      "description": "Detection for CVE-2025-8875 &amp; CVE-2025-8876",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T17:56:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC](https://github.com/pexlexity/WinRAR-CVE-2025-8088-Path-Traversal-PoC)",
+      "description": "Proof-of-Concept for CVE-2025-8088 vulnerability in WinRAR (path traversal via ADS)",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T06:31:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-54253",
+      "repo_info": "[jm7knz/CVE-2025-54253-Exploit-Demo](https://github.com/jm7knz/CVE-2025-54253-Exploit-Demo)",
+      "description": "🐙 CVE-2025-54253 exploit demo for Adobe AEM Forms on JEE: OGNL injection to RCE with PoC, Python 3.10 exploit code, reproducer and mitigation guidance.",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T22:04:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-32778",
+      "repo_info": "[00xCanelo/CVE-2025-32778](https://github.com/00xCanelo/CVE-2025-32778)",
+      "description": "PoC exploit for CVE-2025-32778: command injection in Web-Check OSINT tool",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T06:29:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-28397",
+      "repo_info": "[waleed-hassan569/CVE-2024-28397-command-execution-poc](https://github.com/waleed-hassan569/CVE-2024-28397-command-execution-poc)",
+      "description": "This vulnerability arises from incomplete sandboxing in js2py, where crafted JavaScript can traverse Python’s internal object model and access dangerous classes like subprocess.Popen, leading to arbitrary command execution.",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T04:00:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-23673",
+      "repo_info": "[shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0](https://github.com/shoucheng3/apache__sling-org-apache-sling-servlets-resolver_CVE-2024-23673_2-10-0)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T12:22:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-46818",
+      "repo_info": "[cuerv0x/CVE_2023_46818](https://github.com/cuerv0x/CVE_2023_46818)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T13:52:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-45278",
+      "repo_info": "[shoucheng3/yamcs__yamcs_CVE-2023-45278_5-8-6](https://github.com/shoucheng3/yamcs__yamcs_CVE-2023-45278_5-8-6)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T12:04:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-45277",
+      "repo_info": "[shoucheng3/yamcs__yamcs_CVE-2023-45277_5-8-6](https://github.com/shoucheng3/yamcs__yamcs_CVE-2023-45277_5-8-6)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T06:23:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-37460",
+      "repo_info": "[shoucheng3/codehaus-plexus__plexus-archiver_CVE-2023-37460_4-7-1](https://github.com/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2023-37460_4-7-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T13:21:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-34468",
+      "repo_info": "[shoucheng3/asf__nifi_CVE-2023-34468_1-21-0](https://github.com/shoucheng3/asf__nifi_CVE-2023-34468_1-21-0)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T17:24:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-33246",
+      "repo_info": "[shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0](https://github.com/shoucheng3/apache__rocketmq_CVE-2023-33246_5-1-0)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T17:15:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-32697",
+      "repo_info": "[shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1](https://github.com/shoucheng3/xerial__sqlite-jdbc_CVE-2023-32697_3-41-2-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T13:23:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-28465",
+      "repo_info": "[shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-28465_5-6-105](https://github.com/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-28465_5-6-105)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T10:27:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-46907",
+      "repo_info": "[shoucheng3/apache__jspwiki_CVE-2022-46907_2-11-3](https://github.com/shoucheng3/apache__jspwiki_CVE-2022-46907_2-11-3)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T10:39:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-46166",
+      "repo_info": "[shoucheng3/codecentric__spring-boot-admin_CVE-2022-46166_2-6-9](https://github.com/shoucheng3/codecentric__spring-boot-admin_CVE-2022-46166_2-6-9)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T07:15:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-4065",
+      "repo_info": "[shoucheng3/testng-team__testng_CVE-2022-4065_7-5](https://github.com/shoucheng3/testng-team__testng_CVE-2022-4065_7-5)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T17:12:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-3782",
+      "repo_info": "[shoucheng3/keycloak__keycloak_CVE-2022-3782_20-0-1](https://github.com/shoucheng3/keycloak__keycloak_CVE-2022-3782_20-0-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T17:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-33140",
+      "repo_info": "[shoucheng3/apache__nifi_CVE-2022-33140_1-16-2](https://github.com/shoucheng3/apache__nifi_CVE-2022-33140_1-16-2)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T08:04:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-32287",
+      "repo_info": "[shoucheng3/apache__uima-uimaj_CVE-2022-32287_3-3-0](https://github.com/shoucheng3/apache__uima-uimaj_CVE-2022-32287_3-3-0)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T08:16:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-29577",
+      "repo_info": "[shoucheng3/nahsra__antisamy_CVE-2022-29577_1-6-6-1](https://github.com/shoucheng3/nahsra__antisamy_CVE-2022-29577_1-6-6-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T06:23:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-26049",
+      "repo_info": "[shoucheng3/diffplug__goomph_CVE-2022-26049_3-37-1](https://github.com/shoucheng3/diffplug__goomph_CVE-2022-26049_3-37-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T11:41:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-25173",
+      "repo_info": "[shoucheng3/jenkinsci__workflow-cps-plugin_CVE-2022-25173_2646-v6ed3b5b01ff1](https://github.com/shoucheng3/jenkinsci__workflow-cps-plugin_CVE-2022-25173_2646-v6ed3b5b01ff1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T06:40:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-24891",
+      "repo_info": "[shoucheng3/ESAPI__esapi-java-legacy_CVE-2022-24891_2-2-3-1](https://github.com/shoucheng3/ESAPI__esapi-java-legacy_CVE-2022-24891_2-2-3-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T14:58:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-22931",
+      "repo_info": "[shoucheng3/asf__james-project_CVE-2022-22931_3-6-0](https://github.com/shoucheng3/asf__james-project_CVE-2022-22931_3-6-0)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T13:34:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-4178",
+      "repo_info": "[shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2](https://github.com/shoucheng3/fabric8io__kubernetes-client_CVE-2021-4178_5-0-2)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T09:20:25Z"
+    },
+    {
+      "cve_id": "CVE-2021-30181",
+      "repo_info": "[shoucheng3/apache__incubator-dubbo_CVE-2021-30181_2-6-8](https://github.com/shoucheng3/apache__incubator-dubbo_CVE-2021-30181_2-6-8)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T06:56:17Z"
+    },
+    {
+      "cve_id": "CVE-2020-5410",
+      "repo_info": "[shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5410_2-1-8-RELEASE](https://github.com/shoucheng3/spring-cloud__spring-cloud-config_CVE-2020-5410_2-1-8-RELEASE)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T07:21:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-35460",
+      "repo_info": "[shoucheng3/joniles__mpxj_CVE-2020-35460_8-3-4](https://github.com/shoucheng3/joniles__mpxj_CVE-2020-35460_8-3-4)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T09:10:07Z"
+    },
+    {
+      "cve_id": "CVE-2020-11998",
+      "repo_info": "[shoucheng3/apache__activemq_CVE-2020-11998_5-15-12](https://github.com/shoucheng3/apache__activemq_CVE-2020-11998_5-15-12)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T09:37:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-12185",
+      "repo_info": "[Drew-Alleman/CVE-2019-12185](https://github.com/Drew-Alleman/CVE-2019-12185)",
+      "description": "CVE-2019-12185 - eLabFTW 1.8.5 Python3 Exploit POC",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T03:16:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-10076",
+      "repo_info": "[shoucheng3/apache__jspwiki_CVE-2019-10076_2-11-0-M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10076_2-11-0-M3)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T11:53:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-1260",
+      "repo_info": "[shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE](https://github.com/shoucheng3/SpringSource__spring-security-oauth_CVE-2018-1260_2-3-2-RELEASE)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T08:44:59Z"
+    },
+    {
+      "cve_id": "CVE-2016-9177",
+      "repo_info": "[shoucheng3/perwendel__spark_CVE-2016-9177_2-5-1](https://github.com/shoucheng3/perwendel__spark_CVE-2016-9177_2-5-1)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T10:27:31Z"
+    },
+    {
+      "cve_id": "CVE-2015-10141",
+      "repo_info": "[n0m4d22/PoC-CVE-2015-10141-Xdebug](https://github.com/n0m4d22/PoC-CVE-2015-10141-Xdebug)",
+      "description": "Proof-of-Concept exploit script for Xdebug 2.5.5 and earlier versions (CVE-2015-10141).",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T14:41:48Z"
+    },
+    {
+      "cve_id": "CVE-2011-2732",
+      "repo_info": "[shoucheng3/spring-projects__spring-security_CVE-2011-2732_2-0-6-RELEASE](https://github.com/shoucheng3/spring-projects__spring-security_CVE-2011-2732_2-0-6-RELEASE)",
+      "description": "no description",
+      "date": "2025-08-17",
+      "raw_date": "2025-08-17T12:23:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.172000",
+  "metadata": {
+    "total_cves": 37,
+    "date_range": "2025-08-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

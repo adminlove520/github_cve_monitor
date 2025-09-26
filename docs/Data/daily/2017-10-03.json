@@ -1,0 +1,34 @@
+{
+  "date": "2017-10-03",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-9248",
+      "repo_info": "[GemGeorge/iBall-UTStar-CVEChecker](https://github.com/GemGeorge/iBall-UTStar-CVEChecker)",
+      "description": "POC checks for CVE-2017-6558, CVE-2017-14243 & CVE-2017-14244",
+      "date": "2017-10-03",
+      "raw_date": "2017-10-03T09:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-7089",
+      "repo_info": "[Bo0oM/CVE-2017-7089](https://github.com/Bo0oM/CVE-2017-7089)",
+      "description": "Webkit uxss exploit (CVE-2017-7089)",
+      "date": "2017-10-03",
+      "raw_date": "2017-10-03T12:13:43Z"
+    },
+    {
+      "cve_id": "CVE-2017-14493",
+      "repo_info": "[X-Vector/usbhijacking](https://github.com/X-Vector/usbhijacking)",
+      "description": "Usbhijacking - CVE-2017-8464",
+      "date": "2017-10-03",
+      "raw_date": "2017-10-03T18:18:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.720542",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-10-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

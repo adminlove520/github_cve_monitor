@@ -1,0 +1,139 @@
+{
+  "date": "2025-09-08",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6934",
+      "repo_info": "[Rosemary1337/CVE-2025-6934](https://github.com/Rosemary1337/CVE-2025-6934)",
+      "description": "CVE-2025-6934 - Exploit WordPress Opal Estate Pro",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T12:58:45Z"
+    },
+    {
+      "cve_id": "CVE-2025-6934",
+      "repo_info": "[shivammittal2403/CVE_Datebase](https://github.com/shivammittal2403/CVE_Datebase)",
+      "description": "All Data of cve till 8 sep 2025",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T05:27:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-57819",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-57819](https://github.com/B1ack4sh/Blackash-CVE-2025-57819)",
+      "description": "CVE-2025-57819",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T13:12:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-57819",
+      "repo_info": "[watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819](https://github.com/watchtowrlabs/watchTowr-vs-FreePBX-CVE-2025-57819)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T15:28:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-54914",
+      "repo_info": "[mrk336/Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914](https://github.com/mrk336/Azure-Networking-Privilege-Escalation-Exploit-CVE-2025-54914)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T03:33:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-42957",
+      "repo_info": "[callinston/CVE-2025-42957](https://github.com/callinston/CVE-2025-42957)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T19:42:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[Dany60-98/CVE-2025-30208-EXP](https://github.com/Dany60-98/CVE-2025-30208-EXP)",
+      "description": "🛠️ Detect and exploit the Vite development server&#x27;s arbitrary file read vulnerability (CVE-2025-30208) with customizable options for effective scanning.",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T20:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution](https://github.com/Makavellik/POC-CVE-2025-24813-Apache-Tomcat-Remote-Code-Execution)",
+      "description": "Este repositorio contiene un exploit automatizado desarrollado con fines educativos y de investigación en ciberseguridad, dirigido a demostrar una potencial vulnerabilidad de ejecución remota de código (RCE) en Apache Tomcat (CVE-2025-24813).",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T18:00:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-24799",
+      "repo_info": "[Rosemary1337/CVE-2025-24799](https://github.com/Rosemary1337/CVE-2025-24799)",
+      "description": "CVE-2025-24799 Exploit: GLPI - Unauthenticated SQL Injection",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T13:43:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-21333",
+      "repo_info": "[pradip022/CVE-2025-21333-POC](https://github.com/pradip022/CVE-2025-21333-POC)",
+      "description": "🛠️ Exploit CVE-2025-21333 in vkrnlintvsp.sys with this proof of concept, aimed at demonstrating potential threats on Windows 11 systems.",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T09:13:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[moften/regreSSHion-CVE-2024-6387](https://github.com/moften/regreSSHion-CVE-2024-6387)",
+      "description": "CVE-2024-6387",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T21:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[melmathari/dockerCVE-2024-835](https://github.com/melmathari/dockerCVE-2024-835)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T15:24:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-10220",
+      "repo_info": "[mrk336/CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability](https://github.com/mrk336/CVE-2024-10220-Kubernetes-gitRepo-Volume-Vulnerability)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T03:06:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-51770",
+      "repo_info": "[shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3_2_1_fixed](https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-51770_3_2_1_fixed)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T05:44:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[vaishnavucv/Project-Vuln-Detection-N-Mitigation_101](https://github.com/vaishnavucv/Project-Vuln-Detection-N-Mitigation_101)",
+      "description": "Vulnerability Detection and Mitigation Apache ActiveMQ - Security Architectures and Systems Administration - on - Apache ActiveMQ Deserialization Remote Code Execution (RCE) – CVE-2023-46604",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T21:03:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-22077",
+      "repo_info": "[grisuno/CVE-2022-22077](https://github.com/grisuno/CVE-2022-22077)",
+      "description": "CVE-2022-22077 is a high-severity vulnerability (CVSS score 7.8) affecting the RTCore64.sys driver distributed with MSI Center",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T21:12:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-21707",
+      "repo_info": "[useru1k/php-8.1.0-dev-exploit](https://github.com/useru1k/php-8.1.0-dev-exploit)",
+      "description": "Exploit for the PHP 8.1.0-dev backdoor vulnerability (CVE-2021-21707)",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T10:19:10Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[boritopalito/CVE-2012-2982](https://github.com/boritopalito/CVE-2012-2982)",
+      "description": "no description",
+      "date": "2025-09-08",
+      "raw_date": "2025-09-08T16:35:19Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.177092",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2025-09-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

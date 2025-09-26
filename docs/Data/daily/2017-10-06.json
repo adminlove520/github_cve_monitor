@@ -1,0 +1,27 @@
+{
+  "date": "2017-10-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-12717",
+      "repo_info": "[zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717](https://github.com/zi0Black/POC-CVE-2017-12615-or-CVE-2017-12717)",
+      "description": "CVE-2017-12617 and CVE-2017-12615 for tomcat server",
+      "date": "2017-10-06",
+      "raw_date": "2017-10-06T22:04:23Z"
+    },
+    {
+      "cve_id": "CVE-2016-3309",
+      "repo_info": "[siberas/CVE-2016-3309_Reloaded](https://github.com/siberas/CVE-2016-3309_Reloaded)",
+      "description": "Exploits for the win32kfull!bFill vulnerability on Win10 x64 RS2 using Bitmap or Palette techniques",
+      "date": "2017-10-06",
+      "raw_date": "2017-10-06T07:59:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.720812",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-10-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

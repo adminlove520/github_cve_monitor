@@ -1,0 +1,118 @@
+{
+  "date": "2025-05-21",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-5058",
+      "repo_info": "[d0n601/CVE-2025-5058](https://github.com/d0n601/CVE-2025-5058)",
+      "description": "eMagicOne Store Manager for WooCommerce &lt;= 1.2.5 - Unauthenticated Arbitrary File Upload via set_image Task",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T18:30:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-4918",
+      "repo_info": "[hendrewna/CVE-2025-4918](https://github.com/hendrewna/CVE-2025-4918)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T14:16:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-46801",
+      "repo_info": "[hendrewna/CVE-2025-46801](https://github.com/hendrewna/CVE-2025-46801)",
+      "description": "CVE-2025-46801 – Pgpool-II Authentication Bypass PoC",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T13:59:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-4322",
+      "repo_info": "[maximo896/CVE-2025-4322](https://github.com/maximo896/CVE-2025-4322)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T22:55:35Z"
+    },
+    {
+      "cve_id": "CVE-2025-12654",
+      "repo_info": "[Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/Laertharaz/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)",
+      "description": "Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T15:39:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-56429",
+      "repo_info": "[lisa-2905/CVE-2024-56429](https://github.com/lisa-2905/CVE-2024-56429)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T06:54:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-56429",
+      "repo_info": "[Regent8SH/PanOsExploitMultitool](https://github.com/Regent8SH/PanOsExploitMultitool)",
+      "description": "Exploitation and Post-Exploitation Multitool for Palo Alto PAN-OS Systems affected by vulnerabilities CVE-2024-0012 and CVE-2024-9474",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T03:59:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-56428",
+      "repo_info": "[lisa-2905/CVE-2024-56428](https://github.com/lisa-2905/CVE-2024-56428)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T07:52:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-12583",
+      "repo_info": "[pouriam23/CVE-2024-12583-](https://github.com/pouriam23/CVE-2024-12583-)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T16:33:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-38840",
+      "repo_info": "[windingacqui/bw-dump](https://github.com/windingacqui/bw-dump)",
+      "description": "A proof-of-concept for (CVE-2023-38840) that extracts plaintext master passwords from a locked Bitwarden vault. forensics, password-manager, redteam, security, windows, windowsapi",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T00:46:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[RdBBB3/SHELL-POC-CVE-2022-46169](https://github.com/RdBBB3/SHELL-POC-CVE-2022-46169)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T13:04:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-31813",
+      "repo_info": "[dodiorne/cve-2022-31813](https://github.com/dodiorne/cve-2022-31813)",
+      "description": "tester for cve-2022-31813",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T19:08:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[volodymyr-hladkyi-symphony/demo-cve-2022-21449](https://github.com/volodymyr-hladkyi-symphony/demo-cve-2022-21449)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T08:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-34527",
+      "repo_info": "[AUSK1LL9/CVE-2021-34527](https://github.com/AUSK1LL9/CVE-2021-34527)",
+      "description": "CVE-2021-34527 is a critical remote code execution and local privilege escalation vulnerability dubbed &quot;PrintNightmare.&quot;",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T22:23:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-10199",
+      "repo_info": "[finn79426/CVE-2020-10199](https://github.com/finn79426/CVE-2020-10199)",
+      "description": "no description",
+      "date": "2025-05-21",
+      "raw_date": "2025-05-21T03:29:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.153511",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-05-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

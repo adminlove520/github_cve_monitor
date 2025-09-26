@@ -1,0 +1,97 @@
+{
+  "date": "2024-05-03",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4040",
+      "repo_info": "[gotr00t0day/CVE-2024-4040](https://github.com/gotr00t0day/CVE-2024-4040)",
+      "description": "A server side template injection vulnerability in CrushFTP in all versions before 10.7.1 and 11.1.0 on all platforms allows unauthenticated remote attackers to read files from the filesystem outside of the VFS Sandbox, bypass authentication to gain administrative access, and perform remote code execution on the server.",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T23:29:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-29988",
+      "repo_info": "[Sploitus/CVE-2024-29988-exploit](https://github.com/Sploitus/CVE-2024-29988-exploit)",
+      "description": "Exploit for Microsoft SmartScreen malicious execution (april 2024)",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T12:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-28757",
+      "repo_info": "[saurabh2088/expat_2_1_0_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_0_CVE-2024-28757)",
+      "description": "no description",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T09:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-28757",
+      "repo_info": "[krnidhi/expat_2.1.1_CVE-2024-28757](https://github.com/krnidhi/expat_2.1.1_CVE-2024-28757)",
+      "description": "no description",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T04:58:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-28757",
+      "repo_info": "[saurabh2088/expat_2_1_1_CVE-2024-28757](https://github.com/saurabh2088/expat_2_1_1_CVE-2024-28757)",
+      "description": "no description",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T10:11:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-28757",
+      "repo_info": "[RenukaSelvar/expat_CVE-2024-28757](https://github.com/RenukaSelvar/expat_CVE-2024-28757)",
+      "description": "no description",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T09:21:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-27971",
+      "repo_info": "[truonghuuphuc/CVE-2024-27971-Note](https://github.com/truonghuuphuc/CVE-2024-27971-Note)",
+      "description": "no description",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T13:38:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN](https://github.com/X-Projetion/CVE-2024-27956-WORDPRESS-RCE-PLUGIN)",
+      "description": "CVE-2024-27956 WORDPRESS RCE PLUGIN",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T16:19:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[Athulya666/CVE-2024-23897](https://github.com/Athulya666/CVE-2024-23897)",
+      "description": "Jenkins CVE-2024-23897: Arbitrary File Read Vulnerability",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T08:18:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit](https://github.com/X-Projetion/CVE-2024-21413-Microsoft-Outlook-RCE-Exploit)",
+      "description": "CVE-2024-21413 Microsoft Outlook RCE Exploit",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T16:09:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-20353",
+      "repo_info": "[Spl0stus/CVE-2024-20353-CiscoASAandFTD](https://github.com/Spl0stus/CVE-2024-20353-CiscoASAandFTD)",
+      "description": "Exploit for Cisco ASA and FTD (may 2024)",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T12:46:09Z"
+    },
+    {
+      "cve_id": "CVE-2007-4559",
+      "repo_info": "[luigigubello/trellix-tarslip-patch-bypass](https://github.com/luigigubello/trellix-tarslip-patch-bypass)",
+      "description": "Bypass for CVE-2007-4559 Trellix patch",
+      "date": "2024-05-03",
+      "raw_date": "2024-05-03T00:09:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.084952",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-05-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

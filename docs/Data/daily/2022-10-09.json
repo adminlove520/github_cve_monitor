@@ -1,0 +1,62 @@
+{
+  "date": "2022-10-09",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[kljunowsky/CVE-2022-41040-POC](https://github.com/kljunowsky/CVE-2022-41040-POC)",
+      "description": "CVE-2022-41040 - Server Side Request Forgery (SSRF) in Microsoft Exchange Server",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T15:27:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-40684",
+      "repo_info": "[dickson0day/CVE-2022-40684](https://github.com/dickson0day/CVE-2022-40684)",
+      "description": "CVE-2022-40684: Critical Authentication Bypass in FortiOS and FortiProxy",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T10:54:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[4nth0ny1130/CVE-2022-39197-fix_patch](https://github.com/4nth0ny1130/CVE-2022-39197-fix_patch)",
+      "description": "CVE-2022-39197 bug fix patch",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T04:06:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-35914",
+      "repo_info": "[franckferman/GLPI-htmLawed-CVE-2022_35914-PoC](https://github.com/franckferman/GLPI-htmLawed-CVE-2022_35914-PoC)",
+      "description": "Automatic scanning (Shodan) and exploitation (PoC) script for the GLPI htmLawed vulnerability (CVE-2022_35914).",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T13:20:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-35914",
+      "repo_info": "[xiaobaiakai/CVE-2022-35914](https://github.com/xiaobaiakai/CVE-2022-35914)",
+      "description": "no description",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T07:46:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[skhalsa-sigsci/CVE-2022-26134-LAB](https://github.com/skhalsa-sigsci/CVE-2022-26134-LAB)",
+      "description": "Detecting CVE-2022-26134 using Nuclei",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T17:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2019-10654",
+      "repo_info": "[Timon-L/3007Project](https://github.com/Timon-L/3007Project)",
+      "description": "Secure coding project, research on CVE-2019-17498 and implement a player score function written in C.",
+      "date": "2022-10-09",
+      "raw_date": "2022-10-09T08:17:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.916166",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-10-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

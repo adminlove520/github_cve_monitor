@@ -1,0 +1,20 @@
+{
+  "date": "2018-06-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-5613",
+      "repo_info": "[w4fz5uck5/UDFPwn-CVE-2012-5613](https://github.com/w4fz5uck5/UDFPwn-CVE-2012-5613)",
+      "description": "MySQL 4.x/5.0 (Linux) - User-Defined Function (UDF) Dynamic Library (2) automation script.",
+      "date": "2018-06-14",
+      "raw_date": "2018-06-14T16:58:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.743717",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-06-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,1049 @@
+{
+  "date": "2023-02-02",
+  "count": 148,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-25015",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25015](https://github.com/Live-Hack-CVE/CVE-2023-25015)",
+      "description": "Clockwork Web before 0.1.2, when Rails before 5.2 is used, allows CSRF. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:20:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-25012",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25012](https://github.com/Live-Hack-CVE/CVE-2023-25012)",
+      "description": "The Linux kernel through 6.1.9 has a Use-After-Free in bigben_remove in drivers/hid/hid-bigbenff.c via a crafted USB device because the LED controllers remain registered for too long. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T01:50:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-24494",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24494](https://github.com/Live-Hack-CVE/CVE-2023-24494)",
+      "description": "A stored cross-site scripting (XSS) vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated, remote attacker can exploit this by convincing a user to click a specially crafted URL, to execute arbitrary script code in a user&#x27;s browser session. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-24493",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24493](https://github.com/Live-Hack-CVE/CVE-2023-24493)",
+      "description": "A formula injection vulnerability exists in Tenable.sc due to improper validation of user-supplied input before returning it to users. An authenticated attacker could leverage the reporting system to export reports containing formulas, which would then require a victim to approve and execute on a host. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-24459",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24459](https://github.com/Live-Hack-CVE/CVE-2023-24459)",
+      "description": "A missing permission check in Jenkins BearyChat Plugin 3.0.2 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-24458",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24458](https://github.com/Live-Hack-CVE/CVE-2023-24458)",
+      "description": "A cross-site request forgery (CSRF) vulnerability in Jenkins BearyChat Plugin 3.0.2 and earlier allows attackers to connect to an attacker-specified URL. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-24457",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24457](https://github.com/Live-Hack-CVE/CVE-2023-24457)",
+      "description": "A cross-site request forgery (CSRF) vulnerability in Jenkins Keycloak Authentication Plugin 2.3.0 and earlier allows attackers to trick users into logging in to the attacker&#x27;s account. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-24456",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24456](https://github.com/Live-Hack-CVE/CVE-2023-24456)",
+      "description": "Jenkins Keycloak Authentication Plugin 2.3.0 and earlier does not invalidate the previous session on login. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-24455",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24455](https://github.com/Live-Hack-CVE/CVE-2023-24455)",
+      "description": "Jenkins visualexpert Plugin 1.3 and earlier does not restrict the names of files in methods implementing form validation, allowing attackers with Item/Configure permission to check for the existence of an attacker-specified file path on the Jenkins controller file system. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-24454",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24454](https://github.com/Live-Hack-CVE/CVE-2023-24454)",
+      "description": "Jenkins TestQuality Updater Plugin 1.3 and earlier stores the TestQuality Updater password unencrypted in its global configuration file on the Jenkins controller where it can be viewed by users with access to the Jenkins controller file system. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-24453",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24453](https://github.com/Live-Hack-CVE/CVE-2023-24453)",
+      "description": "A missing check in Jenkins TestQuality Updater Plugin 1.3 and earlier allows attackers with Overall/Read permission to connect to an attacker-specified URL using attacker-specified username and password. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-24452",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24452](https://github.com/Live-Hack-CVE/CVE-2023-24452)",
+      "description": "A cross-site request forgery (CSRF) vulnerability in Jenkins TestQuality Updater Plugin 1.3 and earlier allows attackers to connect to an attacker-specified URL using attacker-specified username and password. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-24445",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24445](https://github.com/Live-Hack-CVE/CVE-2023-24445)",
+      "description": "Jenkins OpenID Plugin 2.4 and earlier improperly determines that a redirect URL after login is legitimately pointing to Jenkins. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-23128",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23128](https://github.com/Live-Hack-CVE/CVE-2023-23128)",
+      "description": "** DISPUTED ** Connectwise Control 22.8.10013.8329 is vulnerable to Cross Origin Resource Sharing (CORS). The vendor&#x27;s position is that two endpoints have Access-Control-Allow-Origin wildcarding to support product functionality, and that there is no risk from this behavior. The vulnerability report is thus not valid. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-23127",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23127](https://github.com/Live-Hack-CVE/CVE-2023-23127)",
+      "description": "** DISPUTED ** In Connectwise Control 22.8.10013.8329, the login page does not implement HSTS headers therefore not enforcing HTTPS. NOTE: the vendor&#x27;s position is that, by design, this is controlled by a configuration option in which a customer can choose to use HTTP (rather than HTTPS) during troubleshooting. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-23110",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23110](https://github.com/Live-Hack-CVE/CVE-2023-23110)",
+      "description": "An exploitable firmware modification vulnerability was discovered in certain Netgear products. The data integrity of the uploaded firmware image is ensured with a fixed checksum number. Therefore, an attacker can conduct a MITM attack to modify the user-uploaded firmware image and bypass the checksum verification. This CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-22458",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22458](https://github.com/Live-Hack-CVE/CVE-2023-22458)",
+      "description": "Redis is an in-memory database that persists on disk. Authenticated users can issue a `HRANDFIELD` or `ZRANDMEMBER` command with specially crafted arguments to trigger a denial-of-service by crashing Redis with an assertion failure. This problem affects Redis versions 6.2 or newer up to but not including 6.2.9 as well  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:09:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-0651",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0651](https://github.com/Live-Hack-CVE/CVE-2023-0651)",
+      "description": "A vulnerability was found in FastCMS 0.1.0. It has been classified as critical. Affected is an unknown function of the component Template Management. The manipulation leads to unrestricted upload. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used. VDB-220038 is t CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-0650",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0650](https://github.com/Live-Hack-CVE/CVE-2023-0650)",
+      "description": "A vulnerability was found in YAFNET up to 3.1.11 and classified as problematic. This issue affects some unknown processing of the component Signature Handler. The manipulation leads to cross site scripting. The attack may be initiated remotely. The exploit has been disclosed to the public and may be used. Upgrading to  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-0643",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0643](https://github.com/Live-Hack-CVE/CVE-2023-0643)",
+      "description": "Improper Handling of Additional Special Element in GitHub repository squidex/squidex prior to 7.4.0. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T13:57:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-0642",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0642](https://github.com/Live-Hack-CVE/CVE-2023-0642)",
+      "description": "Cross-Site Request Forgery (CSRF) in GitHub repository squidex/squidex prior to 7.4.0. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T13:57:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-0641",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0641](https://github.com/Live-Hack-CVE/CVE-2023-0641)",
+      "description": "A vulnerability was found in PHPGurukul Employee Leaves Management System 1.0. It has been declared as problematic. Affected by this vulnerability is an unknown functionality of the file changepassword.php. The manipulation of the argument newpassword/confirmpassword leads to weak password requirements. The attack can  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:49:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-0640",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0640](https://github.com/Live-Hack-CVE/CVE-2023-0640)",
+      "description": "A vulnerability was found in TRENDnet TEW-652BRP 3.04b01. It has been classified as critical. Affected is an unknown function of the file ping.ccp of the component Web Interface. The manipulation leads to command injection. It is possible to launch the attack remotely. The exploit has been disclosed to the public and m CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:49:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-0639",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0639](https://github.com/Live-Hack-CVE/CVE-2023-0639)",
+      "description": "A vulnerability was found in TRENDnet TEW-652BRP 3.04b01 and classified as problematic. This issue affects some unknown processing of the file get_set.ccp of the component Web Management Interface. The manipulation of the argument nextPage leads to cross site scripting. The attack may be initiated remotely. The associa CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:49:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-0638",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0638](https://github.com/Live-Hack-CVE/CVE-2023-0638)",
+      "description": "A vulnerability has been found in TRENDnet TEW-811DRU 1.0.10.0 and classified as critical. This vulnerability affects unknown code of the component Web Interface. The manipulation leads to command injection. The attack can be initiated remotely. The exploit has been disclosed to the public and may be used. VDB-220018 i CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:48:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-0637",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0637](https://github.com/Live-Hack-CVE/CVE-2023-0637)",
+      "description": "A vulnerability, which was classified as critical, was found in TRENDnet TEW-811DRU 1.0.10.0. This affects an unknown part of the file wan.asp of the component Web Management Interface. The manipulation leads to memory corruption. It is possible to initiate the attack remotely. The exploit has been disclosed to the pub CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:48:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-0599",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0599](https://github.com/Live-Hack-CVE/CVE-2023-0599)",
+      "description": "Rapid7 Metasploit Pro versions 4.21.2 and lower suffer from a stored cross site scripting vulnerability, due to a lack of JavaScript request string sanitization. Using this vulnerability, an authenticated attacker can execute arbitrary HTML and script code in the target browser against another Metasploit Pro user using CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T01:50:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-0400",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0400](https://github.com/Live-Hack-CVE/CVE-2023-0400)",
+      "description": "The protection bypass vulnerability in DLP for Windows 11.9.x is addressed in version 11.10.0. This allowed a local user to bypass DLP controls when uploading sensitive data from a mapped drive into a web email client. Loading from a local driver was correctly prevented. Versions prior to 11.9 correctly detected and bl CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:48:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-48279",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48279](https://github.com/Live-Hack-CVE/CVE-2022-48279)",
+      "description": "In ModSecurity before 2.9.6 and 3.x before 3.0.8, HTTP multipart requests were incorrectly parsed and could bypass the Web Application Firewall. NOTE: this is related to CVE-2022-39956 but can be considered independent changes to the ModSecurity (C language) codebase. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:09:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-48114",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48114](https://github.com/Live-Hack-CVE/CVE-2022-48114)",
+      "description": "RuoYi up to v4.7.5 was discovered to contain a SQL injection vulnerability via the component /tool/gen/createTable. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-48113",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48113](https://github.com/Live-Hack-CVE/CVE-2022-48113)",
+      "description": "A vulnerability in TOTOLINK N200RE_v5 firmware V9.3.5u.6139 allows unauthenticated attackers to access the telnet service via a crafted POST request. Attackers are also able to leverage this vulnerability to login as root via hardcoded credentials. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-46965",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46965](https://github.com/Live-Hack-CVE/CVE-2022-46965)",
+      "description": "PrestaShop module, totadministrativemandate before v1.7.1 was discovered to contain a SQL injection vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T13:57:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[miko550/CVE-2022-46169](https://github.com/miko550/CVE-2022-46169)",
+      "description": "no description",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-44877",
+      "repo_info": "[ColdFusionX/CVE-2022-44877-CWP7](https://github.com/ColdFusionX/CVE-2022-44877-CWP7)",
+      "description": "Control Web Panel 7 (CWP7) Remote Code Execution (RCE) (CVE-2022-44877) (Unauthenticated)",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:00:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC](https://github.com/duc-nt/CVE-2022-44268-ImageMagick-Arbitrary-File-Read-PoC)",
+      "description": "CVE-2022-44268 ImageMagick Arbitrary File Read - Payload Generator",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T15:34:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-43665",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43665](https://github.com/Live-Hack-CVE/CVE-2022-43665)",
+      "description": "A denial of service vulnerability exists in the malware scan functionality of ESTsoft Alyac 2.5.8.645. A specially-crafted PE file can lead to killing target process. An attacker can provide a malicious file to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:48:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-41026",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41026](https://github.com/Live-Hack-CVE/CVE-2022-41026)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-41025",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41025](https://github.com/Live-Hack-CVE/CVE-2022-41025)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-41024",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41024](https://github.com/Live-Hack-CVE/CVE-2022-41024)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-41023",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41023](https://github.com/Live-Hack-CVE/CVE-2022-41023)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-41022",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41022](https://github.com/Live-Hack-CVE/CVE-2022-41022)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-41021",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41021](https://github.com/Live-Hack-CVE/CVE-2022-41021)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-41020",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41020](https://github.com/Live-Hack-CVE/CVE-2022-41020)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:29:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-40269",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40269](https://github.com/Live-Hack-CVE/CVE-2022-40269)",
+      "description": "Authentication Bypass by Spoofing vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to 1.285X allows a re CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:49:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-40268",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40268](https://github.com/Live-Hack-CVE/CVE-2022-40268)",
+      "description": "Improper Restriction of Rendered UI Layers or Frames vulnerability in Mitsubishi Electric Corporation GOT2000 Series GT27 model versions 01.14.000 to 01.47.000, Mitsubishi Electric Corporation GOT2000 Series GT25 model versions 01.14.000 to 01.47.000 and Mitsubishi Electric Corporation GT SoftGOT2000 versions 1.265B to CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:49:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-39193",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-39193](https://github.com/Live-Hack-CVE/CVE-2022-39193)",
+      "description": "An issue was discovered in the CheckUser extension for MediaWiki through 1.39.x. Various components of this extension can expose information on the performer of edits and logged actions. This information should not allow public viewing: it is supposed to be viewable only by users with checkuser access. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-3918",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3918](https://github.com/Live-Hack-CVE/CVE-2022-3918)",
+      "description": "A program using FoundationNetworking in swift-corelibs-foundation is potentially vulnerable to CRLF ( ) injection in URLRequest headers. In this vulnerability, a client can insert one or several CRLF sequences into a URLRequest header value. When that request is sent via URLSession to an HTTP server, the server may int CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:09:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-37034",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-37034](https://github.com/Live-Hack-CVE/CVE-2022-37034)",
+      "description": "In dotCMS 5.x-22.06, it is possible to call the TempResource multiple times, each time requesting the dotCMS server to download a large file. If done repeatedly, this will result in Tomcat request-thread exhaustion and ultimately a denial of any other requests. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T01:50:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[imbas007/Atlassian-Bitbucket-CVE-2022-36804](https://github.com/imbas007/Atlassian-Bitbucket-CVE-2022-36804)",
+      "description": "no description",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T01:42:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-35977",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-35977](https://github.com/Live-Hack-CVE/CVE-2022-35977)",
+      "description": "Redis is an in-memory database that persists on disk. Authenticated users issuing specially crafted `SETRANGE` and `SORT(_RO)` commands can trigger an integer overflow, resulting with Redis attempting to allocate impossible amounts of memory and abort with an out-of-memory (OOM) panic. The problem is fixed in Redis ver CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:09:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-33323",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-33323](https://github.com/Live-Hack-CVE/CVE-2022-33323)",
+      "description": "Active Debug Code vulnerability in robot controller of Mitsubishi Electric Corporation industrial robot MELFA SD/SQ Series and MELFA F-Series allows a remote unauthenticated attacker to gain unauthorized access by authentication bypass through an unauthorized telnet login. As for the affected model names, controller ty CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:49:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-26501",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-26501](https://github.com/Live-Hack-CVE/CVE-2022-26501)",
+      "description": "Veeam Backup &amp; Replication 10.x and 11.x has Incorrect Access Control (issue 1 of 2). CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-26500",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-26500](https://github.com/Live-Hack-CVE/CVE-2022-26500)",
+      "description": "Improper limitation of path names in Veeam Backup &amp; Replication 9.5U3, 9.5U4,10.x, and 11.x allows remote authenticated users access to internal API functions that allows attackers to upload and execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-2546",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2546](https://github.com/Live-Hack-CVE/CVE-2022-2546)",
+      "description": "The All-in-One WP Migration WordPress plugin before 7.63 uses the wrong content type, and does not properly escape the response from the ai1wm_export AJAX action, allowing an attacker to craft a request that when submitted by any visitor will inject arbitrary html or javascript into the response that will be executed i CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T11:48:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-1289",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-1289](https://github.com/Live-Hack-CVE/CVE-2022-1289)",
+      "description": "A denial of service vulnerability was found in tildearrow Furnace. It has been classified as problematic. This is due to an incomplete fix of CVE-2022-1211. It is possible to initiate the attack remotely but it requires user interaction. The issue got fixed with the patch 0eb02422d5161767e9983bdaa5c429762d3477ce. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-0286",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-0286](https://github.com/Live-Hack-CVE/CVE-2022-0286)",
+      "description": "A flaw was found in the Linux kernel. A null pointer dereference in bond_ipsec_add_sa() may lead to local denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:22Z"
+    },
+    {
+      "cve_id": "CVE-2021-27065",
+      "repo_info": "[heikanet/Microsoft-Exchange-RCE](https://github.com/heikanet/Microsoft-Exchange-RCE)",
+      "description": "Microsoft Exchange CVE-2021-26855&amp;CVE-2021-27065",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T13:20:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-29396",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-29396](https://github.com/Live-Hack-CVE/CVE-2020-29396)",
+      "description": "A sandboxing issue in Odoo Community 11.0 through 13.0 and Odoo Enterprise 11.0 through 13.0, when running with Python 3.6 or later, allows remote authenticated users to execute arbitrary code, leading to privilege escalation. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-28052",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-28052](https://github.com/Live-Hack-CVE/CVE-2020-28052)",
+      "description": "An issue was discovered in Legion of the Bouncy Castle BC Java 1.65 and 1.66. The OpenBSDBCrypt.checkPassword utility method compared incorrect data when checking the password, allowing incorrect passwords to indicate they were matching with previously hashed ones that were different. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:44Z"
+    },
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[Kimorea/CVE-2020-27955-LFS](https://github.com/Kimorea/CVE-2020-27955-LFS)",
+      "description": "no description",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T09:28:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-27786",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-27786](https://github.com/Live-Hack-CVE/CVE-2020-27786)",
+      "description": "A flaw was found in the Linux kernel’s implementation of MIDI, where an attacker with a local account and the permissions to issue ioctl commands to midi devices could trigger a use-after-free issue. A write to this specific memory while freed and before use causes the flow of execution to change and possibly allow for CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-25221",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-25221](https://github.com/Live-Hack-CVE/CVE-2020-25221)",
+      "description": "get_gate_page in mm/gup.c in the Linux kernel 5.7.x and 5.8.x before 5.8.7 allows privilege escalation because of incorrect reference counting (caused by gate page mishandling) of the struct page that backs the vsyscall page. The result is a refcount underflow. This can be triggered by any 64-bit process that can use p CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:40Z"
+    },
+    {
+      "cve_id": "CVE-2020-24307",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24307](https://github.com/Live-Hack-CVE/CVE-2020-24307)",
+      "description": "An issue in mRemoteNG v1.76.20 allows attackers to escalate privileges via a crafted executable file. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T13:57:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-15658",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15658](https://github.com/Live-Hack-CVE/CVE-2020-15658)",
+      "description": "The code for downloading files did not properly take care of special characters, which led to an attacker being able to cut off the file ending at an earlier position, leading to a different file type being downloaded than shown in the dialog. This vulnerability affects Firefox ESR &lt; 78.1, Firefox &lt; 79, and Thunderbird CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-15656",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15656](https://github.com/Live-Hack-CVE/CVE-2020-15656)",
+      "description": "JIT optimizations involving the Javascript arguments object could confuse later optimizations. This risk was already mitigated by various precautions in the code, resulting in this bug rated at only moderate severity. This vulnerability affects Firefox ESR &lt; 78.1, Firefox &lt; 79, and Thunderbird &lt; 78.1. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:59Z"
+    },
+    {
+      "cve_id": "CVE-2020-15654",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15654](https://github.com/Live-Hack-CVE/CVE-2020-15654)",
+      "description": "When in an endless loop, a website specifying a custom cursor using CSS could make it look like the user is interacting with the user interface, when they are not. This could lead to a perceived broken state, especially when interactions with existing browser dialogs and warnings do not work. This vulnerability affects CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-15653",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15653](https://github.com/Live-Hack-CVE/CVE-2020-15653)",
+      "description": "An iframe sandbox element with the allow-popups flag could be bypassed when using noopener links. This could have led to security issues for websites relying on sandbox configurations that allowed popups and hosted arbitrary content. This vulnerability affects Firefox ESR &lt; 78.1, Firefox &lt; 79, and Thunderbird &lt; 78.1. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-7004",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-7004](https://github.com/Live-Hack-CVE/CVE-2019-7004)",
+      "description": "A Cross-Site Scripting (XSS) vulnerability in the WebUI component of IP Office Application Server could allow unauthorized code execution and potentially disclose sensitive information. All product versions 11.x are affected. Product versions prior to 11.0, including unsupported versions, were not evaluated. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-5446",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5446](https://github.com/Live-Hack-CVE/CVE-2019-5446)",
+      "description": "Command Injection in EdgeMAX EdgeSwitch prior to 1.8.2 allow an Admin user to execute commands as root. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-5445",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5445](https://github.com/Live-Hack-CVE/CVE-2019-5445)",
+      "description": "DoS in EdgeMAX EdgeSwitch prior to 1.8.2 allow an Admin user to Crash the SSH CLI interface by using crafted commands. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:54:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-19746",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-19746](https://github.com/Live-Hack-CVE/CVE-2019-19746)",
+      "description": "make_arrow in arrow.c in Xfig fig2dev 3.2.7b allows a segmentation fault and out-of-bounds write because of an integer overflow via a large arrow type. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-19722",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-19722](https://github.com/Live-Hack-CVE/CVE-2019-19722)",
+      "description": "In Dovecot before 2.3.9.2, an attacker can crash a push-notification driver with a crafted email when push notifications are used, because of a NULL Pointer Dereference. The email must use a group address as either the sender or the recipient. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-19649",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-19649](https://github.com/Live-Hack-CVE/CVE-2019-19649)",
+      "description": "Zoho ManageEngine Applications Manager before 13620 allows a remote unauthenticated SQL injection via the SyncEventServlet eventid parameter to the SyncEventServlet.java doGet function. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-14892",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-14892](https://github.com/Live-Hack-CVE/CVE-2019-14892)",
+      "description": "A flaw was discovered in jackson-databind in versions before 2.9.10, 2.8.11.5 and 2.6.7.3, where it would permit polymorphic deserialization of a malicious object using commons-configuration 1 and 2 JNDI classes. An attacker could use this flaw to execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:09:37Z"
+    },
+    {
+      "cve_id": "CVE-2019-10186",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-10186](https://github.com/Live-Hack-CVE/CVE-2019-10186)",
+      "description": "A flaw was found in moodle before versions 3.7.1, 3.6.5, 3.5.7. A sesskey (CSRF) token was not being utilised by the XML loading/unloading admin tool. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:22:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-10153",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-10153](https://github.com/Live-Hack-CVE/CVE-2019-10153)",
+      "description": "A flaw was discovered in fence-agents, prior to version 4.3.4, where using non-ASCII characters in a guest VM&#x27;s comment or other fields would cause fence_rhevm to exit with an exception. In cluster environments, this could lead to preventing automated recovery or otherwise denying service to clusters of which that VM i CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:28:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-3996",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3996](https://github.com/Live-Hack-CVE/CVE-2018-3996)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-3995",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3995](https://github.com/Live-Hack-CVE/CVE-2018-3995)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:53Z"
+    },
+    {
+      "cve_id": "CVE-2018-3994",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3994](https://github.com/Live-Hack-CVE/CVE-2018-3994)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:49Z"
+    },
+    {
+      "cve_id": "CVE-2018-3993",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3993](https://github.com/Live-Hack-CVE/CVE-2018-3993)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.2.0.9297. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-3981",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3981](https://github.com/Live-Hack-CVE/CVE-2018-3981)",
+      "description": "An exploitable out-of-bounds write exists in the TIFF-parsing functionality of Canvas Draw version 5.0.0. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-3967",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3967](https://github.com/Live-Hack-CVE/CVE-2018-3967)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:23Z"
+    },
+    {
+      "cve_id": "CVE-2018-3966",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3966](https://github.com/Live-Hack-CVE/CVE-2018-3966)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:20Z"
+    },
+    {
+      "cve_id": "CVE-2018-3965",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3965](https://github.com/Live-Hack-CVE/CVE-2018-3965)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-3962",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3962](https://github.com/Live-Hack-CVE/CVE-2018-3962)",
+      "description": "A use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.1.0.5096. A use-after-free condition can occur when accessing the CreationDate property of the this.info object. An attacker needs to trick the user to open the malicious file to trigger this vulnerability. If  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:09:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-3946",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3946](https://github.com/Live-Hack-CVE/CVE-2018-3946)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious f CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:42Z"
+    },
+    {
+      "cve_id": "CVE-2018-3945",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3945](https://github.com/Live-Hack-CVE/CVE-2018-3945)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:38Z"
+    },
+    {
+      "cve_id": "CVE-2018-3944",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3944](https://github.com/Live-Hack-CVE/CVE-2018-3944)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:32Z"
+    },
+    {
+      "cve_id": "CVE-2018-3943",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3943](https://github.com/Live-Hack-CVE/CVE-2018-3943)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-3942",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3942](https://github.com/Live-Hack-CVE/CVE-2018-3942)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:28Z"
+    },
+    {
+      "cve_id": "CVE-2018-3941",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3941](https://github.com/Live-Hack-CVE/CVE-2018-3941)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s Foxit PDF Reader version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malic CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-3940",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3940](https://github.com/Live-Hack-CVE/CVE-2018-3940)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused. An attacker needs to trick the user to open the malicious file to trigger. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-3939",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3939](https://github.com/Live-Hack-CVE/CVE-2018-3939)",
+      "description": "An exploitable use-after-free vulnerability exists in the JavaScript engine of Foxit Software&#x27;s PDF Reader, version 9.1.0.5096. A specially crafted PDF document can trigger a previously freed object in memory to be reused, resulting in arbitrary code execution. An attacker needs to trick the user to open the malicious  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T23:55:21Z"
+    },
+    {
+      "cve_id": "CVE-2018-3935",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3935](https://github.com/Live-Hack-CVE/CVE-2018-3935)",
+      "description": "An exploitable code execution vulnerability exists in the UDP network functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted set of UDP packets can allocate unlimited memory, resulting in denial of service. An attacker can send a set of packets to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:09Z"
+    },
+    {
+      "cve_id": "CVE-2018-3934",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3934](https://github.com/Live-Hack-CVE/CVE-2018-3934)",
+      "description": "An exploitable code execution vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted set of UDP packets can cause a logic flaw, resulting in an authentication bypass. An attacker can sniff network traffic and send a set of packets to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:12Z"
+    },
+    {
+      "cve_id": "CVE-2018-3928",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3928](https://github.com/Live-Hack-CVE/CVE-2018-3928)",
+      "description": "An exploitable code execution vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted set of UDP packets can cause a settings change, resulting in denial of service. An attacker can send a set of packets to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-3920",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3920](https://github.com/Live-Hack-CVE/CVE-2018-3920)",
+      "description": "An exploitable code execution vulnerability exists in the firmware update functionality of the Yi Home Camera 27US 1.8.7.0D. A specially crafted 7-Zip file can cause a CRC collision, resulting in a firmware update and code execution. An attacker can insert an SDcard to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:02Z"
+    },
+    {
+      "cve_id": "CVE-2018-3910",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3910](https://github.com/Live-Hack-CVE/CVE-2018-3910)",
+      "description": "An exploitable code execution vulnerability exists in the cloud OTA setup functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted SSID can cause a command injection, resulting in code execution. An attacker can cause a camera to connect to this SSID to trigger this vulnerability. Alternatively, an attacker c CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:58Z"
+    },
+    {
+      "cve_id": "CVE-2018-3900",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3900](https://github.com/Live-Hack-CVE/CVE-2018-3900)",
+      "description": "An exploitable code execution vulnerability exists in the QR code scanning functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted QR Code can cause a buffer overflow, resulting in code execution. An attacker can make the camera scan a QR code to trigger this vulnerability. Alternatively, a user could be con CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:55Z"
+    },
+    {
+      "cve_id": "CVE-2018-3899",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3899](https://github.com/Live-Hack-CVE/CVE-2018-3899)",
+      "description": "An exploitable code execution vulnerability exists in the QR code scanning functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted QR Code can cause a buffer overflow, resulting in code execution. The trans_info call can overwrite a buffer of size 0x104, which is more than enough to overflow the return addre CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-3898",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3898](https://github.com/Live-Hack-CVE/CVE-2018-3898)",
+      "description": "An exploitable code execution vulnerability exists in the QR code scanning functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted QR Code can cause a buffer overflow, resulting in code execution. The trans_info call can overwrite a buffer of size 0x104, which is more than enough to overflow the return addre CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:44Z"
+    },
+    {
+      "cve_id": "CVE-2018-3892",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3892](https://github.com/Live-Hack-CVE/CVE-2018-3892)",
+      "description": "An exploitable firmware downgrade vulnerability exists in the time syncing functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted packet can cause a buffer overflow, resulting in code execution. An attacker can intercept and alter network traffic to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:51Z"
+    },
+    {
+      "cve_id": "CVE-2018-3891",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3891](https://github.com/Live-Hack-CVE/CVE-2018-3891)",
+      "description": "An exploitable firmware downgrade vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted file can cause a logic flaw, resulting in a firmware downgrade. An attacker can insert an SD card to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-3890",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3890](https://github.com/Live-Hack-CVE/CVE-2018-3890)",
+      "description": "An exploitable code execution vulnerability exists in the firmware update functionality of Yi Home Camera 27US 1.8.7.0D. A specially crafted file can cause a logic flaw and command injection, resulting in code execution. An attacker can insert an SD card to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:22:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-3888",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3888](https://github.com/Live-Hack-CVE/CVE-2018-3888)",
+      "description": "A memory corruption vulnerability exists in the PCX-parsing functionality of Computerinsel Photoline 20.53. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code executio CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:37Z"
+    },
+    {
+      "cve_id": "CVE-2018-3887",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3887](https://github.com/Live-Hack-CVE/CVE-2018-3887)",
+      "description": "A memory corruption vulnerability exists in the PCX-parsing functionality of Computerinsel Photoline 20.53. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code executio CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-3871",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3871](https://github.com/Live-Hack-CVE/CVE-2018-3871)",
+      "description": "An exploitable out-of-bounds write exists in the PCX parsing functionality of Canvas Draw version 4.0.0. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code execution.  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:31Z"
+    },
+    {
+      "cve_id": "CVE-2018-3870",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3870](https://github.com/Live-Hack-CVE/CVE-2018-3870)",
+      "description": "An exploitable out-of-bounds write exists in the PCX parsing functionality of Canvas Draw version 4.0.0. A specially crafted PCX image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a PCX image to trigger this vulnerability and gain code execution.  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-3860",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3860](https://github.com/Live-Hack-CVE/CVE-2018-3860)",
+      "description": "An exploitable out-of-bounds write exists in the TIFF parsing functionality of Canvas Draw version 4.0.0. A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain the ability t CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:20Z"
+    },
+    {
+      "cve_id": "CVE-2018-3859",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3859](https://github.com/Live-Hack-CVE/CVE-2018-3859)",
+      "description": "An exploitable out-of-bounds write exists in the TIFF parsing functionality of Canvas Draw version 4.0.0. A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain code executio CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-3858",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3858](https://github.com/Live-Hack-CVE/CVE-2018-3858)",
+      "description": "An exploitable heap overflow exists in the TIFF parsing functionality of Canvas Draw version 4.0.0. A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain the ability to exec CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-25078",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25078](https://github.com/Live-Hack-CVE/CVE-2018-25078)",
+      "description": "man-db before 2.8.5 on Gentoo allows local users (with access to the man user account) to gain root privileges because /usr/bin/mandb is executed by root but not owned by root. (Also, the owner can strip the setuid and setgid bits.) CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T18:23:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-1386",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-1386](https://github.com/Live-Hack-CVE/CVE-2018-1386)",
+      "description": "IBM Tivoli Workload Automation for AIX (IBM Workload Scheduler 8.6, 9.1, 9.2, 9.3, and 9.4) contains directories with improper permissions that could allow a local user to with special access to gain root privileges. IBM X-Force ID: 138208. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T06:21:04Z"
+    },
+    {
+      "cve_id": "CVE-2018-1111",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-1111](https://github.com/Live-Hack-CVE/CVE-2018-1111)",
+      "description": "A command injection flaw was found in the NetworkManager integration script included in the DHCP client packages in Red Hat Enterprise Linux. A malicious DHCP server, or an attacker on the local network able to spoof DHCP responses, could use this flaw to execute arbitrary commands with root privileges on systems using CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:47Z"
+    },
+    {
+      "cve_id": "CVE-2017-9614",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-9614](https://github.com/Live-Hack-CVE/CVE-2017-9614)",
+      "description": "** DISPUTED ** The fill_input_buffer function in jdatasrc.c in libjpeg-turbo 1.5.1 allows remote attackers to cause a denial of service (invalid memory access and application crash) or possibly have unspecified other impact via a crafted jpg file. NOTE: Maintainer asserts the issue is due to a bug in downstream code ca CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T19:28:59Z"
+    },
+    {
+      "cve_id": "CVE-2017-7488",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-7488](https://github.com/Live-Hack-CVE/CVE-2017-7488)",
+      "description": "A flaw was found where authconfig could configure sssd in a way that treats existing and non-existing logins differently, leaking information on existence of a user. An attacker with physical or network access to the machine could enumerate users via a timing attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:03Z"
+    },
+    {
+      "cve_id": "CVE-2017-15097",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-15097](https://github.com/Live-Hack-CVE/CVE-2017-15097)",
+      "description": "Privilege escalation flaws were found in the Red Hat initialization scripts of PostgreSQL. An attacker with access to the postgres user account could use these flaws to obtain root access on the server machine. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:24Z"
+    },
+    {
+      "cve_id": "CVE-2017-12105",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12105](https://github.com/Live-Hack-CVE/CVE-2017-12105)",
+      "description": "An exploitable integer overflow exists in the way that the Blender open-source 3d creation suite v2.78c applies a particular object modifier to a Mesh. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-12104",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12104](https://github.com/Live-Hack-CVE/CVE-2017-12104)",
+      "description": "An exploitable integer overflow exists in the way that the Blender open-source 3d creation suite v2.78c draws a Particle object. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacker can convince  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:00Z"
+    },
+    {
+      "cve_id": "CVE-2017-12103",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12103](https://github.com/Live-Hack-CVE/CVE-2017-12103)",
+      "description": "An exploitable integer overflow exists in the way that the Blender open-source 3d creation suite v2.78c converts text rendered as a font into a curve. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An  CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:04Z"
+    },
+    {
+      "cve_id": "CVE-2017-12102",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12102](https://github.com/Live-Hack-CVE/CVE-2017-12102)",
+      "description": "An exploitable integer overflow exists in the way that the Blender open-source 3d creation suite v2.78c converts curves to polygons. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacker can convi CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:41Z"
+    },
+    {
+      "cve_id": "CVE-2017-12101",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12101](https://github.com/Live-Hack-CVE/CVE-2017-12101)",
+      "description": "An exploitable integer overflow exists in the &#x27;modifier_mdef_compact_influences&#x27; functionality of the Blender open-source 3d creation suite v2.78c. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An att CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:34Z"
+    },
+    {
+      "cve_id": "CVE-2017-12100",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12100](https://github.com/Live-Hack-CVE/CVE-2017-12100)",
+      "description": "An exploitable integer overflow exists in the &#x27;multires_load_old_dm&#x27; functionality of the Blender open-source 3d creation suite v2.78c. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacker can co CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:38Z"
+    },
+    {
+      "cve_id": "CVE-2017-12099",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12099](https://github.com/Live-Hack-CVE/CVE-2017-12099)",
+      "description": "An exploitable integer overflow exists in the upgrade of the legacy Mesh attribute &#x27;tface&#x27; of the Blender open-source 3d creation suite v2.78c. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacke CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-12086",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12086](https://github.com/Live-Hack-CVE/CVE-2017-12086)",
+      "description": "An exploitable integer overflow exists in the &#x27;BKE_mesh_calc_normals_tessface&#x27; functionality of the Blender open-source 3d creation suite. A specially crafted .blend file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the application. An attacker can CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:49Z"
+    },
+    {
+      "cve_id": "CVE-2017-12082",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-12082](https://github.com/Live-Hack-CVE/CVE-2017-12082)",
+      "description": "An exploitable integer overflow exists in the &#x27;CustomData&#x27; Mesh loading functionality of the Blender open-source 3d creation suite. A .blend file with a specially crafted external data file can cause an integer overflow resulting in a buffer overflow which can allow for code execution under the context of the applicati CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:39:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000371",
+      "repo_info": "[Trinadh465/linux-4.1.15_CVE-2017-1000371](https://github.com/Trinadh465/linux-4.1.15_CVE-2017-1000371)",
+      "description": "no description",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T07:22:19Z"
+    },
+    {
+      "cve_id": "CVE-2016-9922",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-9922](https://github.com/Live-Hack-CVE/CVE-2016-9922)",
+      "description": "CVE-2016-9921 CVE-2016-9922 Qemu: display: cirrus_vga: a divide by zero in cirrus_do_copy CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:08Z"
+    },
+    {
+      "cve_id": "CVE-2016-3693",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-3693](https://github.com/Live-Hack-CVE/CVE-2016-3693)",
+      "description": "A flaw was found in the provisioning template handling in foreman. An attacker, with permissions to create templates, can cause internal Rails information to be displayed when it is processed, resulting in potentially sensitive information being disclosed. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:31Z"
+    },
+    {
+      "cve_id": "CVE-2016-3107",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-3107](https://github.com/Live-Hack-CVE/CVE-2016-3107)",
+      "description": "It was found that the private key for the node certificate was contained in a world-readable file. A local user could possibly use this flaw to gain access to the private key information in the file. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:12Z"
+    },
+    {
+      "cve_id": "CVE-2015-5195",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5195](https://github.com/Live-Hack-CVE/CVE-2015-5195)",
+      "description": "It was found that ntpd would exit with a segmentation fault when a statistics type that was not enabled during compilation (e.g. timingstats) was referenced by the statistics or filegen configuration command. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2015-5194",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5194](https://github.com/Live-Hack-CVE/CVE-2015-5194)",
+      "description": "It was found that ntpd could crash due to an uninitialized variable when processing malformed logconfig configuration commands. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:50Z"
+    },
+    {
+      "cve_id": "CVE-2015-5189",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5189](https://github.com/Live-Hack-CVE/CVE-2015-5189)",
+      "description": "A race condition was found in the way the pcsd web UI backend performed authorization of user requests. An attacker could use this flaw to send a request that would be evaluated as originating from a different user, potentially allowing the attacker to perform actions with permissions of a more privileged user. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:38Z"
+    },
+    {
+      "cve_id": "CVE-2015-5188",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5188](https://github.com/Live-Hack-CVE/CVE-2015-5188)",
+      "description": "It was discovered that when uploading a file using a multipart/form-data submission to the EAP Web Console, the Console was vulnerable to Cross-Site Request Forgery (CSRF). This meant that an attacker could use the flaw together with a forgery attack to make changes to an authenticated instance. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:54Z"
+    },
+    {
+      "cve_id": "CVE-2015-5180",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5180](https://github.com/Live-Hack-CVE/CVE-2015-5180)",
+      "description": "CVE-2015-5180 glibc: DNS resolver NULL pointer dereference with crafted record type CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:41:05Z"
+    },
+    {
+      "cve_id": "CVE-2015-3258",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-3258](https://github.com/Live-Hack-CVE/CVE-2015-3258)",
+      "description": "A heap-based buffer overflow was discovered in the way the texttopdf utility of cups-filter processed print jobs with a specially crafted line size. An attacker able to submit print jobs could use this flaw to crash texttopdf or, possibly, execute arbitrary code with the privileges of the &quot;lp&quot; user. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:43Z"
+    },
+    {
+      "cve_id": "CVE-2015-3248",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-3248](https://github.com/Live-Hack-CVE/CVE-2015-3248)",
+      "description": "It was found that the &quot;/var/lib/openhpi&quot; directory provided by OpenHPI used world-writeable and world-readable permissions. A local user could use this flaw to view, modify, and delete OpenHPI-related data, or even fill up the storage device hosting the /var/lib directory. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:35Z"
+    },
+    {
+      "cve_id": "CVE-2015-3247",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-3247](https://github.com/Live-Hack-CVE/CVE-2015-3247)",
+      "description": "A race condition flaw, leading to a heap-based memory corruption, was found in spice&#x27;s worker_update_monitors_config() function, which runs under the QEMU-KVM context on the host. A user in a guest could leverage this flaw to crash the host QEMU-KVM process or, possibly, execute arbitrary code with the privileges of th CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2015-3239",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-3239](https://github.com/Live-Hack-CVE/CVE-2015-3239)",
+      "description": "An off-by-one array indexing error was found in the libunwind API, which could cause an error when reading untrusted binaries or dwarf debug info data. Red Hat products do not call the API in this way; and it is unlikely that any exploitable attack vector exists in current builds or supported usage. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:41:01Z"
+    },
+    {
+      "cve_id": "CVE-2015-3204",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-3204](https://github.com/Live-Hack-CVE/CVE-2015-3204)",
+      "description": "A flaw was discovered in the way Libreswan&#x27;s IKE daemon processed certain IKEv1 payloads. A remote attacker could send specially crafted IKEv1 payloads that, when processed, would lead to a denial of service (daemon crash). CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T21:40:58Z"
+    },
+    {
+      "cve_id": "CVE-2012-3386",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-3386](https://github.com/Live-Hack-CVE/CVE-2012-3386)",
+      "description": "It was found that the distcheck rule in Automake-generated Makefiles made a directory world-writable when preparing source archives. If a malicious, local user could access this directory, they could execute arbitrary code with the privileges of the user running &quot;make distcheck&quot;. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:27Z"
+    },
+    {
+      "cve_id": "CVE-2012-2386",
+      "repo_info": "[Live-Hack-CVE/CVE-2012-2386](https://github.com/Live-Hack-CVE/CVE-2012-2386)",
+      "description": "CVE-2012-2386 php: Integer overflow leading to heap-buffer overflow in the Phar extension CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:59Z"
+    },
+    {
+      "cve_id": "CVE-2011-4127",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-4127](https://github.com/Live-Hack-CVE/CVE-2011-4127)",
+      "description": "CVE-2011-4127 kernel: possible privilege escalation via SG_IO ioctl CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:43Z"
+    },
+    {
+      "cve_id": "CVE-2011-3609",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-3609](https://github.com/Live-Hack-CVE/CVE-2011-3609)",
+      "description": "CVE-2011-3609 JBoss AS: CSRF in the administration console &amp; HTTP management API CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:16Z"
+    },
+    {
+      "cve_id": "CVE-2011-3344",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-3344](https://github.com/Live-Hack-CVE/CVE-2011-3344)",
+      "description": "CVE-2011-3344 Satellite/Spacewalk: XSS on the Lost Password page CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:39Z"
+    },
+    {
+      "cve_id": "CVE-2011-2927",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-2927](https://github.com/Live-Hack-CVE/CVE-2011-2927)",
+      "description": "CVE-2011-2927 Satellite/Spacewalk: XSS flaw in channels search CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:51Z"
+    },
+    {
+      "cve_id": "CVE-2011-2920",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-2920](https://github.com/Live-Hack-CVE/CVE-2011-2920)",
+      "description": "CVE-2011-2920 Satellite: XSS flaw(s) in filter handling CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:11:02Z"
+    },
+    {
+      "cve_id": "CVE-2011-2487",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-2487](https://github.com/Live-Hack-CVE/CVE-2011-2487)",
+      "description": "A flaw was found in JBoss web services where the services used a weak symmetric encryption protocol, PKCS#1 v1.5. An attacker could use this weakness in chosen-ciphertext attacks to recover the symmetric key and conduct further attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-02",
+      "raw_date": "2023-02-02T16:10:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.000260",
+  "metadata": {
+    "total_cves": 148,
+    "date_range": "2023-02-02",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

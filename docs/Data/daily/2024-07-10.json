@@ -1,0 +1,97 @@
+{
+  "date": "2024-07-10",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[DimaMend/cve-2024-6387-poc](https://github.com/DimaMend/cve-2024-6387-poc)",
+      "description": "no description",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T13:27:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-5274",
+      "repo_info": "[Alchemist3dot14/CVE-2024-5274-Detection](https://github.com/Alchemist3dot14/CVE-2024-5274-Detection)",
+      "description": "Guardian Code: A Script to Uncover CVE-2024-5274 Vulnerabilities",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T02:15:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-37032",
+      "repo_info": "[ahboon/CVE-2024-37032-scanner](https://github.com/ahboon/CVE-2024-37032-scanner)",
+      "description": "CVE-2024-37032 scanner",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T07:24:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-36991",
+      "repo_info": "[Cappricio-Securities/CVE-2024-36991](https://github.com/Cappricio-Securities/CVE-2024-36991)",
+      "description": "Path traversal vulnerability in Splunk Enterprise on Windows versions below 9.2.2, 9.1.5, and 9.0.10 that allows reading sensitive files.",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T09:42:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[Ex-Arn/CVE-2024-34102-RCE](https://github.com/Ex-Arn/CVE-2024-34102-RCE)",
+      "description": "CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T16:40:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-23692",
+      "repo_info": "[pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692-](https://github.com/pradeepboo/Rejetto-HFS-2.x-RCE-CVE-2024-23692-)",
+      "description": "Rejetto HTTP File Server (HFS) 2.x - Unauthenticated RCE exploit module (CVE-2024-23692)",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T04:44:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-4357",
+      "repo_info": "[yoshida-git-ai/SpaceX-Starlink-Router-Gen-2-XSS](https://github.com/yoshida-git-ai/SpaceX-Starlink-Router-Gen-2-XSS)",
+      "description": "CVE-2023-49965 - SpaceX / Starlink Router Gen 2 XSS",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T06:28:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-4226",
+      "repo_info": "[krishnan-tech/CVE-2023-4226-POC](https://github.com/krishnan-tech/CVE-2023-4226-POC)",
+      "description": "POC for CVE-2023-4220 - Chamilo LMS Unauthenticated Big Upload File Remote Code Execution",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T02:26:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[Cmadhushanka/CVE-2023-32784-Exploitation](https://github.com/Cmadhushanka/CVE-2023-32784-Exploitation)",
+      "description": "year 2 semester 1 Systems and Network Programming Assignment",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T17:55:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[andria-dev/DolibabyPhp](https://github.com/andria-dev/DolibabyPhp)",
+      "description": "An authenticated RCE exploit for Dolibarr ERP/CRM CVE-2023-30253.",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T05:39:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[Cmadhushanka/CVE-2019-6447-Exploitation](https://github.com/Cmadhushanka/CVE-2019-6447-Exploitation)",
+      "description": "year 2 semester 1 Systems and Network Programming Assignment",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T18:04:14Z"
+    },
+    {
+      "cve_id": "CVE-2015-3864",
+      "repo_info": "[Cmadhushanka/CVE-2015-3864-Exploitation](https://github.com/Cmadhushanka/CVE-2015-3864-Exploitation)",
+      "description": "year 2 semester 1 Systems and Network Programming Assignment",
+      "date": "2024-07-10",
+      "raw_date": "2024-07-10T18:02:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.098444",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-07-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

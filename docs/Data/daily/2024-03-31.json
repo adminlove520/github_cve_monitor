@@ -1,0 +1,118 @@
+{
+  "date": "2024-03-31",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-31666",
+      "repo_info": "[hapa3/CVE-2024-31666](https://github.com/hapa3/CVE-2024-31666)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T08:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[jfrog/cve-2024-3094-tools](https://github.com/jfrog/cve-2024-3094-tools)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T10:46:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Mustafa1986/CVE-2024-3094](https://github.com/Mustafa1986/CVE-2024-3094)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T18:46:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[gayatriracha/CVE-2024-3094-Nmap-NSE-script](https://github.com/gayatriracha/CVE-2024-3094-Nmap-NSE-script)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T17:53:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Simplifi-ED/CVE-2024-3094-patcher](https://github.com/Simplifi-ED/CVE-2024-3094-patcher)",
+      "description": "Ansible playbook for patching CVE-2024-3094",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T14:09:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[krascovict/OSINT---CVE-2024-3094-](https://github.com/krascovict/OSINT---CVE-2024-3094-)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T12:21:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[Yuma-Tsushima07/CVE-2024-3094](https://github.com/Yuma-Tsushima07/CVE-2024-3094)",
+      "description": "A script to detect if xz is vulnerable - CVE-2024-3094",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T10:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[k4t3pr0/Check-CVE-2024-3094](https://github.com/k4t3pr0/Check-CVE-2024-3094)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T08:14:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[isuruwa/CVE-2024-3094](https://github.com/isuruwa/CVE-2024-3094)",
+      "description": "CVE-2024-3094",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T04:50:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-28247",
+      "repo_info": "[T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read](https://github.com/T0X1Cx/CVE-2024-28247-Pi-hole-Arbitrary-File-Read)",
+      "description": "This repository provides an exploit for CVE-2024-28247, highlighting a vulnerability that permits a remote attacker to read arbitrary files on the system.",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T15:25:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-43482",
+      "repo_info": "[Mr-xn/CVE-2023-43482](https://github.com/Mr-xn/CVE-2023-43482)",
+      "description": "TP-Link ER7206 Omada Gigabit VPN Router uhttpd freeStrategy Command injection Vulnerability",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T02:04:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-36645",
+      "repo_info": "[caffeinated-labs/CVE-2023-36645](https://github.com/caffeinated-labs/CVE-2023-36645)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T16:52:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-36644",
+      "repo_info": "[caffeinated-labs/CVE-2023-36644](https://github.com/caffeinated-labs/CVE-2023-36644)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T16:50:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-36643",
+      "repo_info": "[caffeinated-labs/CVE-2023-36643](https://github.com/caffeinated-labs/CVE-2023-36643)",
+      "description": "no description",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T16:55:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-0785",
+      "repo_info": "[MasterCode112/Upgraded_BlueBourne-CVE-2017-0785-](https://github.com/MasterCode112/Upgraded_BlueBourne-CVE-2017-0785-)",
+      "description": "upgraded of BlueBourne CVE-2017-0785 to python3",
+      "date": "2024-03-31",
+      "raw_date": "2024-03-31T12:22:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.078444",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-03-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

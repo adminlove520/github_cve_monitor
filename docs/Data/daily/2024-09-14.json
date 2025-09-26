@@ -1,0 +1,41 @@
+{
+  "date": "2024-09-14",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8504",
+      "repo_info": "[Chocapikk/CVE-2024-8504](https://github.com/Chocapikk/CVE-2024-8504)",
+      "description": "VICIdial Unauthenticated SQLi to RCE Exploit (CVE-2024-8503 and CVE-2024-8504)",
+      "date": "2024-09-14",
+      "raw_date": "2024-09-14T06:27:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-29847",
+      "repo_info": "[sinsinology/CVE-2024-29847](https://github.com/sinsinology/CVE-2024-29847)",
+      "description": "Exploit for CVE-2024-29847",
+      "date": "2024-09-14",
+      "raw_date": "2024-09-14T21:51:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-2876",
+      "repo_info": "[Quantum-Hacker/CVE-2024-2876](https://github.com/Quantum-Hacker/CVE-2024-2876)",
+      "description": "no description",
+      "date": "2024-09-14",
+      "raw_date": "2024-09-14T16:08:56Z"
+    },
+    {
+      "cve_id": "CVE-2017-7921",
+      "repo_info": "[initon/Hikvision---CVE-2017-7921](https://github.com/initon/Hikvision---CVE-2017-7921)",
+      "description": "Проверка на уязвимость камер Hikvision - CVE-2017-7921",
+      "date": "2024-09-14",
+      "raw_date": "2024-09-14T07:21:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.109423",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2024-09-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2022-10-20",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-5966",
+      "repo_info": "[pedrojosenavasperez/cve-2023-5966](https://github.com/pedrojosenavasperez/cve-2023-5966)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T13:00:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-5965",
+      "repo_info": "[pedrojosenavasperez/cve-2023-5965](https://github.com/pedrojosenavasperez/cve-2023-5965)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T15:35:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[RIP-Network/cve-2022-42889-scanner](https://github.com/RIP-Network/cve-2022-42889-scanner)",
+      "description": "Esta herramienta te ayudará a buscar la versión apache de una página web y decirte si es vulnerable o no.",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T18:37:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[uk0/cve-2022-42889-intercept](https://github.com/uk0/cve-2022-42889-intercept)",
+      "description": "通过 jvm 启动参数 以及 jps pid进行拦截非法参数",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T13:05:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-41082",
+      "repo_info": "[trhacknon/CVE-2022-41082-MASS-SCANNER](https://github.com/trhacknon/CVE-2022-41082-MASS-SCANNER)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T22:22:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/TaroballzChen/CVE-2022-41040-metasploit-ProxyNotShell)",
+      "description": "the metasploit script(POC) about CVE-2022-41040. Microsoft Exchange are vulnerable to a server-side request forgery (SSRF) attack. An authenticated attacker can use the vulnerability to elevate privileges.",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T03:11:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-41040",
+      "repo_info": "[trhacknon/CVE-2022-41040-metasploit-ProxyNotShell](https://github.com/trhacknon/CVE-2022-41040-metasploit-ProxyNotShell)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T22:14:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[trhacknon/CVE-2022-22954_](https://github.com/trhacknon/CVE-2022-22954_)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T01:25:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[lolminerxmrig/CVE-2022-22954_](https://github.com/lolminerxmrig/CVE-2022-22954_)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T08:08:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[trhacknon/CVE-2022-22947](https://github.com/trhacknon/CVE-2022-22947)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T20:35:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-21970",
+      "repo_info": "[Malwareman007/CVE-2022-21970](https://github.com/Malwareman007/CVE-2022-21970)",
+      "description": "POC OF CVE-2022-21970",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T20:55:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-21970",
+      "repo_info": "[securekomodo/text4shell-poc](https://github.com/securekomodo/text4shell-poc)",
+      "description": "Proof of Concept Appliction for testing CVE-2022-42889",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T18:07:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[mileticluka1/eval-stdin](https://github.com/mileticluka1/eval-stdin)",
+      "description": "Automated Exploit for CVE-2017-9841 (eval-stdin.php vulnerable file)",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T19:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2017-17485",
+      "repo_info": "[mattysaints/CVE-2017-17485](https://github.com/mattysaints/CVE-2017-17485)",
+      "description": "no description",
+      "date": "2022-10-20",
+      "raw_date": "2022-10-20T14:15:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.917988",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2022-10-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

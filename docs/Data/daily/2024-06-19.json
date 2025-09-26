@@ -1,0 +1,118 @@
+{
+  "date": "2024-06-19",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[amandineVdw/CVE-2024-4577](https://github.com/amandineVdw/CVE-2024-4577)",
+      "description": "no description",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T01:50:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-37791",
+      "repo_info": "[czheisenberg/CVE-2024-37791](https://github.com/czheisenberg/CVE-2024-37791)",
+      "description": "我的CVE-2024-37791",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T09:16:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-37079",
+      "repo_info": "[UnHackerEnCapital/PDFernetRemotelo](https://github.com/UnHackerEnCapital/PDFernetRemotelo)",
+      "description": "PoC - Prueba de Concepto de CVE-2024-4367 en conjunto al CVE-2023-38831 en un solo Script",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T23:23:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-34470",
+      "repo_info": "[bigb0x/CVE-2024-34470](https://github.com/bigb0x/CVE-2024-34470)",
+      "description": "POC and bulk scanner for CVE-2024-34470",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T11:32:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-34452",
+      "repo_info": "[surajhacx/CVE-2024-34452](https://github.com/surajhacx/CVE-2024-34452)",
+      "description": "Cross-Site Scripting (XSS) Vulnerability in CMSimple_XH",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T17:38:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-29973",
+      "repo_info": "[bigb0x/CVE-2024-29973](https://github.com/bigb0x/CVE-2024-29973)",
+      "description": "POC for CVE-2024-29973",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T10:34:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-29973",
+      "repo_info": "[momika233/CVE-2024-29973](https://github.com/momika233/CVE-2024-29973)",
+      "description": "no description",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T09:28:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-28397",
+      "repo_info": "[Marven11/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Marven11/CVE-2024-28397-js2py-Sandbox-Escape)",
+      "description": "js2py sandbox escape, bypass pyimport restriction.",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T01:46:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-27815",
+      "repo_info": "[jprx/CVE-2024-27815](https://github.com/jprx/CVE-2024-27815)",
+      "description": "XNU kernel buffer overflow. Introduced in xnu-10002.1.13, fixed in xnu-10063.121.3",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T22:03:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-47504",
+      "repo_info": "[davidxbors/CVE-2023-47504-POC](https://github.com/davidxbors/CVE-2023-47504-POC)",
+      "description": "no description",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T18:07:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[cc3305/CVE-2022-22947](https://github.com/cc3305/CVE-2022-22947)",
+      "description": "CVE-2022-22947 exploit script",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T15:31:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[MalekAlthubiany/CVE-2021-43798](https://github.com/MalekAlthubiany/CVE-2021-43798)",
+      "description": "no description",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T23:27:01Z"
+    },
+    {
+      "cve_id": "CVE-2020-2969",
+      "repo_info": "[emad-almousa/CVE-2020-2969](https://github.com/emad-almousa/CVE-2020-2969)",
+      "description": "CVE-2020-2969",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T09:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-17666",
+      "repo_info": "[uthrasri/CVE-2019-17666](https://github.com/uthrasri/CVE-2019-17666)",
+      "description": "no description",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T11:02:57Z"
+    },
+    {
+      "cve_id": "CVE-2019-16746",
+      "repo_info": "[uthrasri/CVE-2019-16746](https://github.com/uthrasri/CVE-2019-16746)",
+      "description": "no description",
+      "date": "2024-06-19",
+      "raw_date": "2024-06-19T11:17:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.093933",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-06-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

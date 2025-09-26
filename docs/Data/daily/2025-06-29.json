@@ -1,0 +1,83 @@
+{
+  "date": "2025-06-29",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6860",
+      "repo_info": "[byteReaper77/CVE-2025-6860](https://github.com/byteReaper77/CVE-2025-6860)",
+      "description": "A proof‑of‑concept command‑line tool in C for detecting the SQL injection vulnerability .",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T22:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-6218",
+      "repo_info": "[ignis-sec/CVE-2025-6218](https://github.com/ignis-sec/CVE-2025-6218)",
+      "description": "A simple proof of concept for WinRAR Path Traversal - RCE - CVE-2025-6218",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T19:06:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-6019",
+      "repo_info": "[neko205-mx/CVE-2025-6019_Exploit](https://github.com/neko205-mx/CVE-2025-6019_Exploit)",
+      "description": "no description",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T11:53:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[b0ySie7e/Notepad-8.8.1_CVE-2025-49144](https://github.com/b0ySie7e/Notepad-8.8.1_CVE-2025-49144)",
+      "description": "no description",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T00:11:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-4664",
+      "repo_info": "[amalmurali47/cve-2025-4664](https://github.com/amalmurali47/cve-2025-4664)",
+      "description": "PoC and Setup for CVE-2025-4664",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T19:37:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[TH-SecForge/CVE-2025-30208](https://github.com/TH-SecForge/CVE-2025-30208)",
+      "description": "CVE‑2025‑30208 is a medium-severity arbitrary file read vulnerability in the Vite development server (a popular frontend build tool)",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T15:33:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[bohmiiidd/CVE-2025-29927-exploit-code-](https://github.com/bohmiiidd/CVE-2025-29927-exploit-code-)",
+      "description": "no description",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T14:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-54085",
+      "repo_info": "[Mr-Zapi/CVE-2024-54085](https://github.com/Mr-Zapi/CVE-2024-54085)",
+      "description": "Just poc for CVE 2024-54085",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T22:26:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-39930",
+      "repo_info": "[theMcSam/CVE-2024-39930-PoC](https://github.com/theMcSam/CVE-2024-39930-PoC)",
+      "description": "Exploit Code for CVE-2024-39930 gogs ssh server RCE",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T22:46:00Z"
+    },
+    {
+      "cve_id": "CVE-2016-0957",
+      "repo_info": "[fuckwbored/CVE-2016-0957-payloads](https://github.com/fuckwbored/CVE-2016-0957-payloads)",
+      "description": "no description",
+      "date": "2025-06-29",
+      "raw_date": "2025-06-29T13:14:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.160963",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-06-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

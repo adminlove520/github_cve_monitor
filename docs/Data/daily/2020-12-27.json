@@ -1,0 +1,27 @@
+{
+  "date": "2020-12-27",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-6308",
+      "repo_info": "[InitRoot/CVE-2020-6308-PoC](https://github.com/InitRoot/CVE-2020-6308-PoC)",
+      "description": "PoC CVE-2020-6308",
+      "date": "2020-12-27",
+      "raw_date": "2020-12-27T10:37:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[RAVIPRAJ/cve-2019](https://github.com/RAVIPRAJ/cve-2019)",
+      "description": "no description",
+      "date": "2020-12-27",
+      "raw_date": "2020-12-27T11:21:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.835519",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-12-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

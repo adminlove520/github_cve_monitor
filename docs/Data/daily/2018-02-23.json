@@ -1,0 +1,20 @@
+{
+  "date": "2018-02-23",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-19131",
+      "repo_info": "[bazad/blanket](https://github.com/bazad/blanket)",
+      "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on iOS 11.2.6 leading to sandbox escape, privilege escalation, and codesigning bypass.",
+      "date": "2018-02-23",
+      "raw_date": "2018-02-23T00:19:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.733802",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-02-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

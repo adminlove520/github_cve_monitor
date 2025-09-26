@@ -1,0 +1,20 @@
+{
+  "date": "2014-09-13",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-4323",
+      "repo_info": "[android-rooting-tools/libfutex_exploit](https://github.com/android-rooting-tools/libfutex_exploit)",
+      "description": "CVE-2014-3153 exploit",
+      "date": "2014-09-13",
+      "raw_date": "2014-09-13T06:54:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.621806",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-09-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2015-06-09",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[marstornado/cve-2014-0160-Yunfeng-Jiang](https://github.com/marstornado/cve-2014-0160-Yunfeng-Jiang)",
+      "description": "no description",
+      "date": "2015-06-09",
+      "raw_date": "2015-06-09T03:55:14Z"
+    },
+    {
+      "cve_id": "CVE-2010-3904",
+      "repo_info": "[redhatkaty/-cve-2010-3904-report](https://github.com/redhatkaty/-cve-2010-3904-report)",
+      "description": "no description",
+      "date": "2015-06-09",
+      "raw_date": "2015-06-09T22:27:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.645392",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2015-06-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,125 @@
+{
+  "date": "2025-04-09",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-492030",
+      "repo_info": "[ImTheCopilotNow/CVE-2025-492030](https://github.com/ImTheCopilotNow/CVE-2025-492030)",
+      "description": "no description",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T20:47:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-492026",
+      "repo_info": "[ImTheCopilotNow/CVE-2025-492026](https://github.com/ImTheCopilotNow/CVE-2025-492026)",
+      "description": "no description",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T20:35:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-492025",
+      "repo_info": "[ImTheCopilotNow/CVE-2025-492025](https://github.com/ImTheCopilotNow/CVE-2025-492025)",
+      "description": "no description",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T20:34:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[llussiess/CVE-2025-31161](https://github.com/llussiess/CVE-2025-31161)",
+      "description": "no description",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T14:38:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-29810",
+      "repo_info": "[aleongx/CVE-2025-29810-check](https://github.com/aleongx/CVE-2025-29810-check)",
+      "description": "Para verificar si tu entorno podría ser vulnerable al CVE-2025-29810, necesitamos hacer algunas comprobaciones básicas, como:  Versión del sistema operativo y nivel de parche.  Presencia de la actualización de seguridad de abril de 2025 de Microsoft.  Verificar el rol de Active Directory Domain Services.",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T18:14:31Z"
+    },
+    {
+      "cve_id": "CVE-2025-26647",
+      "repo_info": "[Herman-Adu/middleware-vulnerability-cve-2025](https://github.com/Herman-Adu/middleware-vulnerability-cve-2025)",
+      "description": "no description",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T15:33:02Z"
+    },
+    {
+      "cve_id": "CVE-2025-26647",
+      "repo_info": "[l1uk/nextjs-middleware-exploit](https://github.com/l1uk/nextjs-middleware-exploit)",
+      "description": "Research on Next.js middleware vulnerability (CVE-2025-29927) allowing authorization bypass and potential exploits.",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T14:54:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[f8l124/CVE-2025-24813-POC](https://github.com/f8l124/CVE-2025-24813-POC)",
+      "description": "A simple, easy-to-use POC for CVE-2025-42813 (Apache Tomcat versions below 9.0.99).",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T15:20:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-24221",
+      "repo_info": "[AnonymousDeveloper69/CVE-2025-24221](https://github.com/AnonymousDeveloper69/CVE-2025-24221)",
+      "description": "CVE-2025-24221: Sensitive keychain data may be accessible from an iOS backup",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T11:32:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-22457",
+      "repo_info": "[sfewer-r7/CVE-2025-22457](https://github.com/sfewer-r7/CVE-2025-22457)",
+      "description": "no description",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T14:39:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-56071",
+      "repo_info": "[Nxploited/CVE-2024-56071](https://github.com/Nxploited/CVE-2024-56071)",
+      "description": "Simple Dashboard &lt;= 2.0 - Unauthenticated Privilege Escalation",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T14:32:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-48887",
+      "repo_info": "[cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit](https://github.com/cybersecplayground/CVE-2024-48887-FortiSwitch-Exploit)",
+      "description": "a lightweight JavaScript snippet showcasing how unauthorized password changes can be triggered on vulnerable Fortinet FortiSwitch GUI endpoints.",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T17:27:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-3640",
+      "repo_info": "[H1ng007/CVE-2024-3640_WafBypass](https://github.com/H1ng007/CVE-2024-3640_WafBypass)",
+      "description": "CVE-2024-3640绕过Waf进行漏洞利用",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T07:39:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM](https://github.com/ivanbg2004/ODH-BricksBuilder-CVE-2024-25600-THM)",
+      "description": "OD&amp;H&#x27;s scanner for CVE-2024-25600 vulnerability in the Bricks Builder WordPress plugin. For use in Try Hack Me (THM) environments.",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T23:30:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-21513",
+      "repo_info": "[nskath/CVE-2024-21513](https://github.com/nskath/CVE-2024-21513)",
+      "description": "PoC for CVE-2024-21513",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T16:13:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-39141",
+      "repo_info": "[MartiSabate/CVE-2023-39141-LFI-enumerator](https://github.com/MartiSabate/CVE-2023-39141-LFI-enumerator)",
+      "description": "enumerate files and directories from a remote server",
+      "date": "2025-04-09",
+      "raw_date": "2025-04-09T12:11:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.145217",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-04-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "date": "2017-04-18",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5633",
+      "repo_info": "[cardangi/Exploit-CVE-2017-5633](https://github.com/cardangi/Exploit-CVE-2017-5633)",
+      "description": "Exploit developed by me for CVE-2017-5633.",
+      "date": "2017-04-18",
+      "raw_date": "2017-04-18T01:44:33Z"
+    },
+    {
+      "cve_id": "CVE-2017-3599",
+      "repo_info": "[SECFORCE/CVE-2017-3599](https://github.com/SECFORCE/CVE-2017-3599)",
+      "description": "Proof of concept exploit for CVE-2017-3599",
+      "date": "2017-04-18",
+      "raw_date": "2017-04-18T17:08:39Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[NotAwful/CVE-2017-0199-Fix](https://github.com/NotAwful/CVE-2017-0199-Fix)",
+      "description": "Quick and dirty fix to OLE2 executing code via .hta",
+      "date": "2017-04-18",
+      "raw_date": "2017-04-18T06:33:45Z"
+    },
+    {
+      "cve_id": "CVE-2011-3368",
+      "repo_info": "[SECFORCE/CVE-2011-3368](https://github.com/SECFORCE/CVE-2011-3368)",
+      "description": "CVE-2011-3368 exploit code",
+      "date": "2017-04-18",
+      "raw_date": "2017-04-18T20:34:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.705055",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-04-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

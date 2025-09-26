@@ -1,0 +1,160 @@
+{
+  "date": "2024-01-23",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-65230",
+      "repo_info": "[CBaekhyunC/cve-2024-65230](https://github.com/CBaekhyunC/cve-2024-65230)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T10:16:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-65230",
+      "repo_info": "[xiaoqiao147/cve-2024-666](https://github.com/xiaoqiao147/cve-2024-666)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T09:26:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-0204",
+      "repo_info": "[cbeek-r7/CVE-2024-0204](https://github.com/cbeek-r7/CVE-2024-0204)",
+      "description": "Scanning for vulnerable GoAnywhere MFT CVE-2024-0204",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T22:42:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-0204",
+      "repo_info": "[horizon3ai/CVE-2024-0204](https://github.com/horizon3ai/CVE-2024-0204)",
+      "description": "Authentication Bypass in GoAnywhere MFT",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T20:16:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-0204",
+      "repo_info": "[jenkinsci-cert/SECURITY-3314-3315](https://github.com/jenkinsci-cert/SECURITY-3314-3315)",
+      "description": "Workaround for disabling the CLI to mitigate SECURITY-3314/CVE-2024-23897 and SECURITY-3315/CVE-2024-23898",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T19:19:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[thanhlam-attt/CVE-2023-7028](https://github.com/thanhlam-attt/CVE-2023-7028)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T19:11:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab](https://github.com/Shimon03/CVE-2023-7028-Account-Take-Over-Gitlab)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T10:37:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-5717",
+      "repo_info": "[uthrasri/CVE-2023-5717](https://github.com/uthrasri/CVE-2023-5717)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T09:04:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-45866",
+      "repo_info": "[jjjjjjjj987/cve-2023-45866-py](https://github.com/jjjjjjjj987/cve-2023-45866-py)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T21:39:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-45866",
+      "repo_info": "[mdaseem03/cpanel_xss_2023](https://github.com/mdaseem03/cpanel_xss_2023)",
+      "description": "cpanel_xss_2023 is a simple Python script designed for finding CVE-2023-29489 vulnerability in cpanel.",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T20:29:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-45182",
+      "repo_info": "[afine-com/CVE-2023-45182](https://github.com/afine-com/CVE-2023-45182)",
+      "description": "IBM i Access Client Solutions &lt; 1.1.9.4 - Weak password encryption",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T16:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-43317",
+      "repo_info": "[amjadali-110/CVE-2023-43317](https://github.com/amjadali-110/CVE-2023-43317)",
+      "description": "Vertical Privilege Escalation via Session Storage by Amjad Ali (CVE-2023-43317)",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T07:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-40109",
+      "repo_info": "[uthrasri/CVE-2023-40109](https://github.com/uthrasri/CVE-2023-40109)",
+      "description": "no description",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T13:03:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Niuwoo/CVE-2023-22527](https://github.com/Niuwoo/CVE-2023-22527)",
+      "description": "POC",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T09:28:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[sanjai-AK47/CVE-2023-22527](https://github.com/sanjai-AK47/CVE-2023-22527)",
+      "description": "An Exploitation tool to exploit the confluence server that are vulnerable to CVE-2023-22527 leads to RCE",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T17:07:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Manh130902/CVE-2023-22527-POC](https://github.com/Manh130902/CVE-2023-22527-POC)",
+      "description": "A critical severity Remote Code Execution (RCE) vulnerability (CVE-2023-22527) was discovered in Confluence Server and Data Center.",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T02:17:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Chocapikk/CVE-2023-22527](https://github.com/Chocapikk/CVE-2023-22527)",
+      "description": "Atlassian Confluence - Remote Code Execution",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T10:55:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[Vozec/CVE-2023-22527](https://github.com/Vozec/CVE-2023-22527)",
+      "description": "This repository presents a proof-of-concept of CVE-2023-22527",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T08:06:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[C1ph3rX13/CVE-2023-22527](https://github.com/C1ph3rX13/CVE-2023-22527)",
+      "description": "Atlassian Confluence - Remote Code Execution (CVE-2023-22527)",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T08:53:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-22527",
+      "repo_info": "[VNCERT-CC/CVE-2023-22527-confluence](https://github.com/VNCERT-CC/CVE-2023-22527-confluence)",
+      "description": "[Confluence] CVE-2023-22527 realworld poc",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T07:10:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-22518",
+      "repo_info": "[bibo318/CVE-2023-22518](https://github.com/bibo318/CVE-2023-22518)",
+      "description": "Lỗ hổng ủy quyền không phù hợp trong Trung tâm dữ liệu Confluence và Máy chủ + bugsBonus 🔥",
+      "date": "2024-01-23",
+      "raw_date": "2024-01-23T13:38:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.067570",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2024-01-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

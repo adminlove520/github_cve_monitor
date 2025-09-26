@@ -1,0 +1,76 @@
+{
+  "date": "2022-04-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-22965",
+      "repo_info": "[likewhite/CVE-2022-22965](https://github.com/likewhite/CVE-2022-22965)",
+      "description": "CVE-2022-22965 EXP",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T02:25:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[Nosferatuvjr/PwnKit](https://github.com/Nosferatuvjr/PwnKit)",
+      "description": "Prova de conceito para a vulnerabilidade Polkit Pkexec: CVE-2021-4034(Pkexec Local Privilege Escalation)",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T19:51:18Z"
+    },
+    {
+      "cve_id": "CVE-2021-37740",
+      "repo_info": "[robertguetzkow/CVE-2021-37740](https://github.com/robertguetzkow/CVE-2021-37740)",
+      "description": "PoC for DoS vulnerability CVE-2021-37740 in firmware v3.0.3 of SCN-IP100.03 and SCN-IP000.03 by MDT. The bug has been fixed in firmware v3.0.4.",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T18:07:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-32399",
+      "repo_info": "[nanopathi/linux-4.19.72_CVE-2021-32399](https://github.com/nanopathi/linux-4.19.72_CVE-2021-32399)",
+      "description": "no description",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T10:29:20Z"
+    },
+    {
+      "cve_id": "CVE-2021-0325",
+      "repo_info": "[nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325](https://github.com/nanopathi/external_libavc_AOSP10_r33_CVE-2021-0325)",
+      "description": "no description",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T14:11:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-0451",
+      "repo_info": "[nanopathi/external_aac_AOSP10_r33_CVE-2020-0451](https://github.com/nanopathi/external_aac_AOSP10_r33_CVE-2020-0451)",
+      "description": "no description",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T09:20:38Z"
+    },
+    {
+      "cve_id": "CVE-2020-0392",
+      "repo_info": "[Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392](https://github.com/Satheesh575555/frameworks_native_AOSP10_r33_CVE-2020-0392)",
+      "description": "no description",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T08:43:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-0245",
+      "repo_info": "[Satheesh575555/frameworks_av_AOSP10_r33_CVE-2020-0245](https://github.com/Satheesh575555/frameworks_av_AOSP10_r33_CVE-2020-0245)",
+      "description": "no description",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T11:04:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-0241",
+      "repo_info": "[nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0241](https://github.com/nanopathi/frameworks_av_AOSP10_r33_CVE-2020-0241)",
+      "description": "no description",
+      "date": "2022-04-01",
+      "raw_date": "2022-04-01T06:45:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.886046",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-04-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

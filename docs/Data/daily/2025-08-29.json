@@ -1,0 +1,90 @@
+{
+  "date": "2025-08-29",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-57819",
+      "repo_info": "[Sucuri-Labs/CVE-2025-57819-ioc-check](https://github.com/Sucuri-Labs/CVE-2025-57819-ioc-check)",
+      "description": "This is repository contains a script to check for current IOCs listed in the freepbx forum topic of the CVE-2025-57819",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T11:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-55763",
+      "repo_info": "[krispybyte/CVE-2025-55763](https://github.com/krispybyte/CVE-2025-55763)",
+      "description": "Heap overflow PoC for CivetWeb CVE-2025-55763",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T09:46:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-54309",
+      "repo_info": "[blueisbeautiful/CVE-2025-54309](https://github.com/blueisbeautiful/CVE-2025-54309)",
+      "description": "CrushFTP AS2 Authentication Bypass",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T03:05:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-52100",
+      "repo_info": "[changyaoyou/CVE-2025-52100](https://github.com/changyaoyou/CVE-2025-52100)",
+      "description": "CVE-2025-52100",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T04:32:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[AC8999/CVE-2025-49113](https://github.com/AC8999/CVE-2025-49113)",
+      "description": "Python Script for CVE-2025-49113. Roundcube Webmail before 1.5.10 and 1.6.x before 1.6.11 allows remote code execution by authenticated users because the _from parameter in a URL is not validated in program/actions/settings/upload.php, leading to PHP Object Deserialization.",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T20:40:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[AmberWolfCyber/UpSkope](https://github.com/AmberWolfCyber/UpSkope)",
+      "description": "Custom IPC Client and Proof of Concept exploit for CVE-2025-0309 (Netskope Windows Client LPE)",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T14:26:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[arun1033/CVE-2025-48384](https://github.com/arun1033/CVE-2025-48384)",
+      "description": "no description",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T11:48:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-34040",
+      "repo_info": "[jisi-001/CVE-2025-34040Exp](https://github.com/jisi-001/CVE-2025-34040Exp)",
+      "description": "致远OA存在文件上传导致RCE（CVE-2025-34040）",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T07:33:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-24201",
+      "repo_info": "[arojit/model-training-with-sft](https://github.com/arojit/model-training-with-sft)",
+      "description": "This project fine-tunes Qwen2.5-3B-Instruct using Supervised Fine-Tuning (SFT) to act as a Cybersecurity Expert. The model is trained on a curated dataset of OWASP Top 10, MITRE ATT&amp;CK, and recent CVEs (2020–2025).",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T16:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-30990",
+      "repo_info": "[silentsignal/CVE-2023-30990](https://github.com/silentsignal/CVE-2023-30990)",
+      "description": "CVE-2023-30990 exploits",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T11:24:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-20421",
+      "repo_info": "[sandiyochristan/oo](https://github.com/sandiyochristan/oo)",
+      "description": "Bad Spin: Android Binder Privilege Escalation Exploit (CVE-2022-20421)",
+      "date": "2025-08-29",
+      "raw_date": "2025-08-29T01:38:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.174997",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2025-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

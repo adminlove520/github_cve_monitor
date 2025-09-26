@@ -1,0 +1,755 @@
+{
+  "date": "2023-02-07",
+  "count": 106,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-25194",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25194](https://github.com/Live-Hack-CVE/CVE-2023-25194)",
+      "description": "A possible security vulnerability has been identified in Apache Kafka Connect. This requires access to a Kafka Connect worker, and the ability to create/modify connectors on it with an arbitrary Kafka client SASL JAAS config and a SASL-based security protocol, which has been possible on Kafka Connect clusters since Apa CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:17:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-25136",
+      "repo_info": "[jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free](https://github.com/jfrog/jfrog-CVE-2023-25136-OpenSSH_Double-Free)",
+      "description": "no description",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:33:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-24827",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24827](https://github.com/Live-Hack-CVE/CVE-2023-24827)",
+      "description": "syft is a a CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems. A password disclosure flaw was found in Syft versions v0.69.0 and v0.69.1. This flaw leaks the password stored in the SYFT_ATTEST_PASSWORD environment variable. The `SYFT_ATTEST_PASSWORD` enviro CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-24808",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24808](https://github.com/Live-Hack-CVE/CVE-2023-24808)",
+      "description": "PDFio is a C library for reading and writing PDF files. In versions prior to 1.1.0 a denial of service (DOS) vulnerability exists in the pdfio parser. Crafted pdf files can cause the program to run at 100% utilization and never terminate. The pdf which causes this crash found in testing is about 28kb in size and was di CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-23849",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23849](https://github.com/Live-Hack-CVE/CVE-2023-23849)",
+      "description": "Versions of Coverity Connect prior to 2022.12.0 are vulnerable to an unauthenticated Cross-Site Scripting vulnerability. Any web service hosted on the same sub domain can set a cookie for the whole subdomain which can be used to bypass other mitigations in place for malicious purposes. CVSS:3.1/AV:N/AC:H/PR:N/UI:N/S:U/ CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T02:17:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-23696",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23696](https://github.com/Live-Hack-CVE/CVE-2023-23696)",
+      "description": "Dell Command Intel vPro Out of Band, versions prior to 4.3.1, contain an Improper Authorization vulnerability. A locally authenticated malicious users could potentially exploit this vulnerability in order to write arbitrary files to the system. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:15:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-23609",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23609](https://github.com/Live-Hack-CVE/CVE-2023-23609)",
+      "description": "Contiki-NG is an open-source, cross-platform operating system for Next-Generation IoT devices. Versions prior to and including 4.8 are vulnerable to an out-of-bounds write that can occur in the BLE-L2CAP module. The Bluetooth Low Energy - Logical Link Control and Adaptation Layer Protocol (BLE-L2CAP) module handles fra CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:17:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-23582",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23582](https://github.com/Live-Hack-CVE/CVE-2023-23582)",
+      "description": "Snap One Wattbox WB-300-IP-3 versions WB10.9a17 and prior are vulnerable to a heap-based buffer overflow, which could allow an attacker to execute arbitrary code or crash the device remotely. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-23333",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23333](https://github.com/Live-Hack-CVE/CVE-2023-23333)",
+      "description": "There is a command injection vulnerability in SolarView Compact through 6.00, attackers can execute commands by bypassing internal restrictions through downloader.php. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-22736",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22736](https://github.com/Live-Hack-CVE/CVE-2023-22736)",
+      "description": "Argo CD is a declarative, GitOps continuous delivery tool for Kubernetes. Versions starting with 2.5.0-rc1 and above, prior to 2.5.8, and version 2.6.0-rc4, are vulnerable to an authorization bypass bug which allows a malicious Argo CD user to deploy Applications outside the configured allowed namespaces. Reconciled Ap CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-22643",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22643](https://github.com/Live-Hack-CVE/CVE-2023-22643)",
+      "description": "An Improper Neutralization of Special Elements used in an OS Command (&#x27;OS Command Injection&#x27;) vulnerability in libzypp-plugin-appdata of SUSE Linux Enterprise Server for SAP 15-SP3; openSUSE Leap 15.4 allows attackers that can trick users to use specially crafted REPO_ALIAS, REPO_TYPE or REPO_METADATA_PATH settings to  CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:15:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-22611",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22611](https://github.com/Live-Hack-CVE/CVE-2023-22611)",
+      "description": "A CWE-200: Exposure of Sensitive Information to an Unauthorized Actor vulnerability exists that could cause information disclosure when specific messages are sent to the server over the database server TCP port. Affected Products: EcoStruxure Geo SCADA Expert 2019 - 2021 (formerly known as ClearSCADA) (Versions prior t CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:17:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-22389",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22389](https://github.com/Live-Hack-CVE/CVE-2023-22389)",
+      "description": "Snap One Wattbox WB-300-IP-3 versions WB10.9a17 and prior store passwords in a plaintext file when the device configuration is exported via Save/Restore–&gt;Backup Settings, which could be read by any user accessing the file. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-0732",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0732](https://github.com/Live-Hack-CVE/CVE-2023-0732)",
+      "description": "A vulnerability has been found in SourceCodester Online Eyewear Shop 1.0 and classified as problematic. Affected by this vulnerability is an unknown functionality of the file oews/classes/Users.php of the component POST Request Handler. The manipulation of the argument firstname/middlename/lastname/lastname/contact lea CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:17:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-0728",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0728](https://github.com/Live-Hack-CVE/CVE-2023-0728)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to Cross-Site Request Forgery in versions up to, and including, 2.18.16. This is due to missing or incorrect nonce validation on the ajax_save_folder function. This makes it possible for unauthenticated attackers to invoke this function via forged request granted th CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:26:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-0713",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0713](https://github.com/Live-Hack-CVE/CVE-2023-0713)",
+      "description": "The Wicked Folders plugin for WordPress is vulnerable to authorization bypass due to a missing capability check on the ajax_add_folder function in versions up to, and including, 2.18.16. This makes it possible for authenticated attackers, with subscriber-level permissions and above, to invoke this function and perform  CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:26:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-0707",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0707](https://github.com/Live-Hack-CVE/CVE-2023-0707)",
+      "description": "A vulnerability was found in SourceCodester Medical Certificate Generator App 1.0. It has been rated as critical. Affected by this issue is the function delete_record of the file function.php. The manipulation of the argument id leads to sql injection. VDB-220346 is the identifier assigned to this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-0706",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0706](https://github.com/Live-Hack-CVE/CVE-2023-0706)",
+      "description": "A vulnerability, which was classified as critical, has been found in SourceCodester Medical Certificate Generator App 1.0. Affected by this issue is some unknown functionality of the file manage_record.php. The manipulation of the argument id leads to sql injection. The attack may be launched remotely. The identifier o CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:15:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-0615",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0615](https://github.com/Live-Hack-CVE/CVE-2023-0615)",
+      "description": "A memory leak flaw and potential divide by zero and Integer overflow was found in the Linux kernel V4L2 and vivid test code functionality. This issue occurs when a user triggers ioctls, such as VIDIOC_S_DV_TIMINGS ioctl. This could allow a local user to crash the system if vivid test code enabled. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T02:17:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-0074",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0074](https://github.com/Live-Hack-CVE/CVE-2023-0074)",
+      "description": "The WP Social Widget WordPress plugin before 2.2.4 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-0071",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0071](https://github.com/Live-Hack-CVE/CVE-2023-0071)",
+      "description": "The WP Tabs WordPress plugin before 2.1.17 does not validate and escape some of its shortcode attributes before outputting them back in a page/post where the shortcode is embed, which could allow users with the contributor role and above to perform Stored Cross-Site Scripting attacks. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-0045",
+      "repo_info": "[es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)",
+      "description": "no description",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T19:12:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-0033",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0033](https://github.com/Live-Hack-CVE/CVE-2023-0033)",
+      "description": "The PDF Viewer WordPress plugin before 1.0.0 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-4872",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4872](https://github.com/Live-Hack-CVE/CVE-2022-4872)",
+      "description": "The Chained Products WordPress plugin before 2.12.0 does not have authorisation and CSRF checks, as well as does not ensure that the option to be updated belong to the plugin, allowing unauthenticated attackers to set arbitrary options to &#x27;no&#x27; CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-4837",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4837](https://github.com/Live-Hack-CVE/CVE-2022-4837)",
+      "description": "The CPO Companion WordPress plugin before 1.1.0 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as admins. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-4835",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4835](https://github.com/Live-Hack-CVE/CVE-2022-4835)",
+      "description": "The Social Sharing Toolkit WordPress plugin through 2.6 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-4834",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4834](https://github.com/Live-Hack-CVE/CVE-2022-4834)",
+      "description": "The CPT Bootstrap Carousel WordPress plugin through 1.12 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such a CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:07:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-48311",
+      "repo_info": "[swzhouu/CVE-2022-48311](https://github.com/swzhouu/CVE-2022-48311)",
+      "description": "HP Deskjet 2540 series printer Firmware Version CEP1FN1418BR and Product Model Number A9U23B HTTP configuration page Cross Site Scripting (XSS) Vulnerability",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:13:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-4828",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4828](https://github.com/Live-Hack-CVE/CVE-2022-4828)",
+      "description": "The Bold Timeline Lite WordPress plugin before 1.1.5 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as ad CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:07:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-48166",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48166](https://github.com/Live-Hack-CVE/CVE-2022-48166)",
+      "description": "An access control issue in Wavlink WL-WN530HG4 M30HG4.V5030.201217 allows unauthenticated attackers to download configuration data and log files and obtain admin credentials. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-4787",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4787](https://github.com/Live-Hack-CVE/CVE-2022-4787)",
+      "description": "Themify Shortcodes WordPress plugin before 2.0.8 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-4781",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4781](https://github.com/Live-Hack-CVE/CVE-2022-4781)",
+      "description": "The Accordion Shortcodes WordPress plugin through 2.4.2 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:05:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-47770",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47770](https://github.com/Live-Hack-CVE/CVE-2022-47770)",
+      "description": "Serenissima Informatica Fast Checkin version v1.0 is vulnerable to Unauthenticated SQL Injection. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-4765",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4765](https://github.com/Live-Hack-CVE/CVE-2022-4765)",
+      "description": "The Portfolio for Elementor WordPress plugin before 2.3.1 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such  CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-4763",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4763](https://github.com/Live-Hack-CVE/CVE-2022-4763)",
+      "description": "The Icon Widget WordPress plugin before 1.3.0 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users such as admins. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:17:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-4749",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4749](https://github.com/Live-Hack-CVE/CVE-2022-4749)",
+      "description": "The Posts List Designer by Category WordPress plugin before 3.2 does not validate and escape some of its shortcode attributes before outputting them back in the page, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attacks which could be used against high privilege users CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-47419",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47419](https://github.com/Live-Hack-CVE/CVE-2022-47419)",
+      "description": "An XSS vulnerability was discovered in the Mayan EDMS DMS. Successful XSS exploitation was observed in the in-product tagging system. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:26:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-47417",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47417](https://github.com/Live-Hack-CVE/CVE-2022-47417)",
+      "description": "LogicalDOC Enterprise and Community Edition (CE) are vulnerable to a stored (persistent, or &quot;Type II&quot;) cross-site scripting (XSS) condition in the document file name. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:26:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-47416",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47416](https://github.com/Live-Hack-CVE/CVE-2022-47416)",
+      "description": "LogicalDOC Enterprise is vulnerable to a stored (persistent, or &quot;Type II&quot;) cross-site scripting (XSS) condition in the in-app chat system. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-47415",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47415](https://github.com/Live-Hack-CVE/CVE-2022-47415)",
+      "description": "LogicalDOC Enterprise and Community Edition (CE) are vulnerable to a stored (persistent, or &quot;Type II&quot;) cross-site scripting (XSS) condition in the in-app messaging system (both subject and message bodies). CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-47414",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47414](https://github.com/Live-Hack-CVE/CVE-2022-47414)",
+      "description": "If an attacker has access to the console for OpenKM (and is authenticated), a stored XSS vulnerability is reachable in the document &quot;note&quot; functionality. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-47413",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47413](https://github.com/Live-Hack-CVE/CVE-2022-47413)",
+      "description": "Given a malicious document provided by an attacker, the OpenKM DMS is vulnerable to a stored (persistent, or &quot;Type II&quot;) XSS condition. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-47412",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-47412](https://github.com/Live-Hack-CVE/CVE-2022-47412)",
+      "description": "Given a malicious document provided by an attacker, the ONLYOFFICE Workspace DMS is vulnerable to a stored (persistent, or &quot;Type II&quot;) cross-site scripting (XSS) condition. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:17:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-46663",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46663](https://github.com/Live-Hack-CVE/CVE-2022-46663)",
+      "description": "In GNU Less before 609, crafted data can result in &quot;less -R&quot; not filtering ANSI escape sequences sent to the terminal. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-46621",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46621](https://github.com/Live-Hack-CVE/CVE-2022-46621)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T17:53:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-46620",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46620](https://github.com/Live-Hack-CVE/CVE-2022-46620)",
+      "description": "** REJECT ** DO NOT USE THIS CANDIDATE NUMBER. ConsultIDs: none. Reason: This candidate was withdrawn by its CNA. Further investigation showed that it was not a security issue. Notes: none. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T17:53:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-4654",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4654](https://github.com/Live-Hack-CVE/CVE-2022-4654)",
+      "description": "The Pricing Tables WordPress Plugin WordPress plugin before 3.2.3 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-46496",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46496](https://github.com/Live-Hack-CVE/CVE-2022-46496)",
+      "description": "BTicino Door Entry HOMETOUCH for iOS 1.4.2 was discovered to be missing an SSL certificate. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T02:17:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-4649",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4649](https://github.com/Live-Hack-CVE/CVE-2022-4649)",
+      "description": "The WP Extended Search WordPress plugin before 2.1.2 does not validate and escape one of its shortcode attributes, which could allow users with a role as low as contributor to perform Stored Cross-Site Scripting attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-45854",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45854](https://github.com/Live-Hack-CVE/CVE-2022-45854)",
+      "description": "An improper check for unusual conditions in Zyxel NWA110AX firmware verisons prior to 6.50(ABTG.0)C0, which could allow a LAN attacker to cause a temporary denial-of-service (DoS) by sending crafted VLAN frames if the MAC address of the vulnerable AP were intercepted by the attacker. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-45544",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45544](https://github.com/Live-Hack-CVE/CVE-2022-45544)",
+      "description": "Insecure Permission vulnerability in Schlix Web Inc SCHLIX CMS 2.2.7-2 allows attacker to upload arbitrary files and execute arbitrary code via the tristao parameter. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T17:53:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-4553",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4553](https://github.com/Live-Hack-CVE/CVE-2022-4553)",
+      "description": "The FL3R FeelBox WordPress plugin through 8.1 does not have CSRF check when updating reseting moods which could allow attackers to make logged in admins perform such action via a CSRF attack and delete the lydl_posts &amp; lydl_poststimestamp DB tables CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-4552",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4552](https://github.com/Live-Hack-CVE/CVE-2022-4552)",
+      "description": "The FL3R FeelBox WordPress plugin through 8.1 does not have CSRF check when updating its settings, and is missing sanitisation as well as escaping, which could allow attackers to make logged in admin add Stored XSS payloads via a CSRF attack CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:48:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-45441",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45441](https://github.com/Live-Hack-CVE/CVE-2022-45441)",
+      "description": "A cross-site scripting (XSS) vulnerability in Zyxel NBG-418N v2 firmware versions prior to V1.00(AARP.13)C0, which could allow an attacker to store malicious scripts in the Logs page of the GUI on a vulnerable device. A successful XSS attack could force an authenticated user to execute the stored malicious scripts and  CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-44617",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44617](https://github.com/Live-Hack-CVE/CVE-2022-44617)",
+      "description": "A flaw was found in libXpm. When processing a file with width of 0 and a very large height, some parser functions will be called repeatedly and can lead to an infinite loop, resulting in a Denial of Service in the application linked to the library. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T02:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-43759",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43759](https://github.com/Live-Hack-CVE/CVE-2022-43759)",
+      "description": "A Improper Privilege Management vulnerability in SUSE Rancher, allows users with access to the escalate verb on PRTBs to escalate permissions for any -promoted resource in any cluster. This issue affects: SUSE Rancher Rancher versions prior to 2.5.17; Rancher versions prior to 2.6.10. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-43758",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43758](https://github.com/Live-Hack-CVE/CVE-2022-43758)",
+      "description": "A Improper Neutralization of Special Elements used in an OS Command (&#x27;OS Command Injection&#x27;) vulnerability in SUSE Rancher allows code execution for user with the ability to add an untrusted Helm catalog or modifying the URL configuration used to download KDM (only admin users by default) This issue affects: SUSE Ranch CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-43757",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43757](https://github.com/Live-Hack-CVE/CVE-2022-43757)",
+      "description": "A Cleartext Storage of Sensitive Information vulnerability in SUSE Rancher allows users on managed clusters to gain access to credentials. The impact depends on the credentials exposed This issue affects: SUSE Rancher Rancher versions prior to 2.5.17; Rancher versions prior to 2.6.10; Rancher versions prior to 2.7.1. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-43756",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43756](https://github.com/Live-Hack-CVE/CVE-2022-43756)",
+      "description": "A Improper Neutralization of Special Elements in Output Used by a Downstream Component (&#x27;Injection&#x27;) vulnerability in SUSE Rancher allows remote attackers to cause denial of service by supplying specially crafted git credentials. This issue affects: SUSE Rancher wrangler version 0.7.3 and prior versions; wrangler versi CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-43755",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-43755](https://github.com/Live-Hack-CVE/CVE-2022-43755)",
+      "description": "A Insufficient Entropy vulnerability in SUSE Rancher allows attackers that gained knowledge of the cattle-token to continue abusing this even after the token was renewed. This issue affects: SUSE Rancher Rancher versions prior to 2.6.10; Rancher versions prior to 2.7.1. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-4285",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4285](https://github.com/Live-Hack-CVE/CVE-2022-4285)",
+      "description": "An illegal memory access flaw was found in the binutils package. Parsing an ELF file containing corrupt symbol version information may result in a denial of service. This issue is the result of an incomplete fix for CVE-2020-16599. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:18:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-42291",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42291](https://github.com/Live-Hack-CVE/CVE-2022-42291)",
+      "description": "NVIDIA GeForce Experience contains a vulnerability in the installer, where a user installing the NVIDIA GeForce Experience software may inadvertently delete data from a linked location, which may lead to data tampering. An attacker does not have explicit control over the exploitation of this vulnerability, which requir CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-4139",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4139](https://github.com/Live-Hack-CVE/CVE-2022-4139)",
+      "description": "An incorrect TLB flush issue was found in the Linux kernel’s GPU i915 kernel driver, potentially leading to random memory corruption or data leaks. This flaw could allow a local user to crash the system or escalate their privileges on the system. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:18:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-41313",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41313](https://github.com/Live-Hack-CVE/CVE-2022-41313)",
+      "description": "A stored cross-site scripting vulnerability exists in the web application functionality of Moxa SDS-3008 Series Industrial Ethernet Switch 2.1. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can send an HTTP request to trigger this vulnerability.Form field id=&quot;switch_contact&quot; CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:04:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-41312",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41312](https://github.com/Live-Hack-CVE/CVE-2022-41312)",
+      "description": "A stored cross-site scripting vulnerability exists in the web application functionality of Moxa SDS-3008 Series Industrial Ethernet Switch 2.1. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can send an HTTP request to trigger this vulnerability.Form field id=&quot;Switch Descriptio CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:03:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-41311",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41311](https://github.com/Live-Hack-CVE/CVE-2022-41311)",
+      "description": "A stored cross-site scripting vulnerability exists in the web application functionality of Moxa SDS-3008 Series Industrial Ethernet Switch 2.1. A specially-crafted HTTP request can lead to arbitrary Javascript execution. An attacker can send an HTTP request to trigger this vulnerability.Form field id=&quot;webLocationMessag CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:03:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-40693",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40693](https://github.com/Live-Hack-CVE/CVE-2022-40693)",
+      "description": "A cleartext transmission vulnerability exists in the web application functionality of Moxa SDS-3008 Series Industrial Ethernet Switch 2.1. A specially-crafted network sniffing can lead to a disclosure of sensitive information. An attacker can sniff network traffic to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:03:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-40691",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40691](https://github.com/Live-Hack-CVE/CVE-2022-40691)",
+      "description": "An information disclosure vulnerability exists in the web application functionality of Moxa SDS-3008 Series Industrial Ethernet Switch 2.1. A specially-crafted HTTP request can lead to a disclosure of sensitive information. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:03:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-40224",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40224](https://github.com/Live-Hack-CVE/CVE-2022-40224)",
+      "description": "A denial of service vulnerability exists in the web server functionality of Moxa SDS-3008 Series Industrial Ethernet Switch 2.1. A specially-crafted HTTP message header can lead to denial of service. An attacker can send an HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:03:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-38547",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38547](https://github.com/Live-Hack-CVE/CVE-2022-38547)",
+      "description": "A post-authentication command injection vulnerability in the CLI command of Zyxel ZyWALL/USG series firmware versions 4.20 through 4.72, VPN series firmware versions 4.30 through 5.32, USG FLEX series firmware versions 4.50 through 5.32, and ATP series firmware versions 4.32 through 5.32, which could allow an authentic CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-32523",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-32523](https://github.com/Live-Hack-CVE/CVE-2022-32523)",
+      "description": "A CWE-120: Buffer Copy without Checking Size of Input vulnerability exists that could cause a stack-based buffer overflow, potentially leading to remote code execution when an attacker sends specially crafted online data request messages. Affected Products: IGSS Data Server - IGSSdataServer.exe (Versions prior to V15.0 CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:18:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-32518",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-32518](https://github.com/Live-Hack-CVE/CVE-2022-32518)",
+      "description": "A CWE-522: Insufficiently Protected Credentials vulnerability exists that could result in unwanted access to a DCE instance when performed over a network by a malicious third-party. This CVE is unique from CVE-2022-32520. Affected Products: Data Center Expert (Versions prior to V7.9.0) CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T22:18:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-3229",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3229](https://github.com/Live-Hack-CVE/CVE-2022-3229)",
+      "description": "Because the web management interface for Unified Intents&#x27; Unified Remote solution does not itself require authentication, a remote, unauthenticated attacker can change or disable authentication requirements for the Unified Remote protocol, and leverage this now-unauthenticated access to run code of the attacker&#x27;s choos CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T02:16:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-31611",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-31611](https://github.com/Live-Hack-CVE/CVE-2022-31611)",
+      "description": "NVIDIA GeForce Experience contains an uncontrolled search path vulnerability in all its client installers, where an attacker with user level privileges may cause the installer to load an arbitrary DLL when the installer is launched. A successful exploit of this vulnerability could lead to escalation of privileges and c CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T06:47:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-31254",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-31254](https://github.com/Live-Hack-CVE/CVE-2022-31254)",
+      "description": "A Incorrect Default Permissions vulnerability in rmt-server-regsharing service of SUSE Linux Enterprise Server for SAP 15, SUSE Linux Enterprise Server for SAP 15-SP1, SUSE Manager Server 4.1; openSUSE Leap 15.3, openSUSE Leap 15.4 allows local attackers with access to the _rmt user to escalate to root. This issue affe CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:15:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-31249",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-31249](https://github.com/Live-Hack-CVE/CVE-2022-31249)",
+      "description": "A Improper Neutralization of Special Elements used in an OS Command (&#x27;OS Command Injection&#x27;) vulnerability in wrangler of SUSE Rancher allows remote attackers to inject commands in the underlying host via crafted commands passed to Wrangler. This issue affects: SUSE Rancher wrangler version 0.7.3 and prior versions; wr CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-28923",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-28923](https://github.com/Live-Hack-CVE/CVE-2022-28923)",
+      "description": "Caddy v2.4.6 was discovered to contain an open redirection vulnerability which allows attackers to redirect users to phishing websites via crafted URLs. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T02:16:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-24990",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-24990](https://github.com/Live-Hack-CVE/CVE-2022-24990)",
+      "description": "TerraMaster NAS 4.2.29 and earlier allows remote attackers to discover the administrative password by sending &quot;User-Agent: TNAS&quot; to module/api.php?mobile/webNasIPS and then reading the PWD field in the response. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:04:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-23935",
+      "repo_info": "[0xFTW/CVE-2022-23935](https://github.com/0xFTW/CVE-2022-23935)",
+      "description": "CVE-2022-23935 exploit PoC exiftool version 12.37 written in python",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T13:02:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-22947",
+      "repo_info": "[Zh0um1/CVE-2022-22947](https://github.com/Zh0um1/CVE-2022-22947)",
+      "description": "CVE-2022-22947注入哥斯拉内存马",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T01:59:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-21953",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-21953](https://github.com/Live-Hack-CVE/CVE-2022-21953)",
+      "description": "A Missing Authorization vulnerability in of SUSE Rancher allows authenticated user to create an unauthorized shell pod and kubectl access in the local cluster This issue affects: SUSE Rancher Rancher versions prior to 2.5.17; Rancher versions prior to 2.6.10; Rancher versions prior to 2.7.1. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-21948",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-21948](https://github.com/Live-Hack-CVE/CVE-2022-21948)",
+      "description": "An Improper Neutralization of Input During Web Page Generation (&#x27;Cross-site Scripting&#x27;) vulnerability in paste allows remote attackers to place Javascript into SVG files. This issue affects: openSUSE paste paste version b57b9f87e303a3db9465776e657378e96845493b and prior versions. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T13:25:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-37491",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-37491](https://github.com/Live-Hack-CVE/CVE-2021-37491)",
+      "description": "An issue discovered in src/wallet/wallet.cpp in Dogecoin Project Dogecoin Core 1.14.3 and earlier allows attackers to view sensitive information via CWallet::CreateTransaction() function. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:39:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-31578",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31578](https://github.com/Live-Hack-CVE/CVE-2021-31578)",
+      "description": "In Boa, there is a possible escalation of privilege due to a stack buffer overflow. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-31577",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31577](https://github.com/Live-Hack-CVE/CVE-2021-31577)",
+      "description": "In Boa, there is a possible escalation of privilege due to a missing permission check. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:42Z"
+    },
+    {
+      "cve_id": "CVE-2021-31576",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31576](https://github.com/Live-Hack-CVE/CVE-2021-31576)",
+      "description": "In Boa, there is a possible information disclosure due to a missing permission check. This could lead to remote information disclosure to a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210008; Issue ID: OSBNB00123241. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-31575",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31575](https://github.com/Live-Hack-CVE/CVE-2021-31575)",
+      "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:35Z"
+    },
+    {
+      "cve_id": "CVE-2021-31574",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31574](https://github.com/Live-Hack-CVE/CVE-2021-31574)",
+      "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:32Z"
+    },
+    {
+      "cve_id": "CVE-2021-31573",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-31573](https://github.com/Live-Hack-CVE/CVE-2021-31573)",
+      "description": "In Config Manager, there is a possible command injection due to improper input validation. This could lead to remote escalation of privilege from a proximal attacker with no additional execution privileges needed. User interaction is not needed for exploitation. Patch ID: A20210009; Issue ID: OSBNB00123234. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T00:06:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-22986",
+      "repo_info": "[amitlttwo/CVE-2021-22986](https://github.com/amitlttwo/CVE-2021-22986)",
+      "description": "no description",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:19:20Z"
+    },
+    {
+      "cve_id": "CVE-2020-6090",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-6090](https://github.com/Live-Hack-CVE/CVE-2020-6090)",
+      "description": "An exploitable code execution vulnerability exists in the Web-Based Management (WBM) functionality of WAGO PFC 200 03.03.10(15). A specially crafted series of HTTP requests can cause code execution resulting in remote code execution. An attacker can make an authenticated HTTP request to trigger this vulnerability. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:12Z"
+    },
+    {
+      "cve_id": "CVE-2020-5902",
+      "repo_info": "[amitlttwo/CVE-2020-5902](https://github.com/amitlttwo/CVE-2020-5902)",
+      "description": "no description",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:07:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-27368",
+      "repo_info": "[swzhouu/CVE-2020-27368](https://github.com/swzhouu/CVE-2020-27368)",
+      "description": "TOTOLINK-A702R-V1.0.0-B20161227.1023 Directory Indexing Vulnerability",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-26733",
+      "repo_info": "[swzhouu/CVE-2020-26733](https://github.com/swzhouu/CVE-2020-26733)",
+      "description": "SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 Cross Site Scripting (XSS) Vulnerability",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:11:27Z"
+    },
+    {
+      "cve_id": "CVE-2020-26732",
+      "repo_info": "[swzhouu/CVE-2020-26732](https://github.com/swzhouu/CVE-2020-26732)",
+      "description": "SKYWORTH GN542VF Hardware Version 2.0 and Software Version 2.0.0.16 does not set the Secure flag for the session cookie in an HTTPS session",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T15:10:21Z"
+    },
+    {
+      "cve_id": "CVE-2018-14632",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-14632](https://github.com/Live-Hack-CVE/CVE-2018-14632)",
+      "description": "An out of bound write can occur when patching an Openshift object using the &#x27;oc patch&#x27; functionality in OpenShift Container Platform before 3.7. An attacker can use this flaw to cause a denial of service attack on the Openshift master api service which provides cluster management. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T17:53:09Z"
+    },
+    {
+      "cve_id": "CVE-2017-18079",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-18079](https://github.com/Live-Hack-CVE/CVE-2017-18079)",
+      "description": "drivers/input/serio/i8042.c in the Linux kernel before 4.12.4 allows attackers to cause a denial of service (NULL pointer dereference and system crash) or possibly have unspecified other impact because the port-&gt;exists value can change after it is validated. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:26Z"
+    },
+    {
+      "cve_id": "CVE-2017-18075",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-18075](https://github.com/Live-Hack-CVE/CVE-2017-18075)",
+      "description": "crypto/pcrypt.c in the Linux kernel before 4.14.13 mishandles freeing instances, allowing a local user able to access the AF_ALG-based AEAD interface (CONFIG_CRYPTO_USER_API_AEAD) and pcrypt (CONFIG_CRYPTO_PCRYPT) to cause a denial of service (kfree of an incorrect pointer) or possibly have unspecified other impact by  CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-17857",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-17857](https://github.com/Live-Hack-CVE/CVE-2017-17857)",
+      "description": "The check_stack_boundary function in kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging mishandling of invalid variable stack read operations. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:33Z"
+    },
+    {
+      "cve_id": "CVE-2017-17856",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-17856](https://github.com/Live-Hack-CVE/CVE-2017-17856)",
+      "description": "kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging the lack of stack-pointer alignment enforcement. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:37Z"
+    },
+    {
+      "cve_id": "CVE-2017-17855",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-17855](https://github.com/Live-Hack-CVE/CVE-2017-17855)",
+      "description": "kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (memory corruption) or possibly have unspecified other impact by leveraging improper use of pointers in place of scalars. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:30Z"
+    },
+    {
+      "cve_id": "CVE-2017-17854",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-17854](https://github.com/Live-Hack-CVE/CVE-2017-17854)",
+      "description": "kernel/bpf/verifier.c in the Linux kernel through 4.14.8 allows local users to cause a denial of service (integer overflow and memory corruption) or possibly have unspecified other impact by leveraging unrestricted integer values for pointer arithmetic. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T23:25:18Z"
+    },
+    {
+      "cve_id": "CVE-2015-10075",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10075](https://github.com/Live-Hack-CVE/CVE-2015-10075)",
+      "description": "A vulnerability was found in Custom-Content-Width 1.0. It has been declared as problematic. Affected by this vulnerability is the function override_content_width/register_settings of the file custom-content-width.php. The manipulation leads to cross site scripting. The attack can be launched remotely. The exploit has b CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T13:25:29Z"
+    },
+    {
+      "cve_id": "CVE-2015-10074",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10074](https://github.com/Live-Hack-CVE/CVE-2015-10074)",
+      "description": "A vulnerability was found in OpenSeaMap online_chart 1.2. It has been classified as problematic. Affected is the function init of the file index.php. The manipulation of the argument mtext leads to cross site scripting. It is possible to launch the attack remotely. Upgrading to version staging is able to address this i CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T11:15:12Z"
+    },
+    {
+      "cve_id": "CVE-2011-10002",
+      "repo_info": "[Live-Hack-CVE/CVE-2011-10002](https://github.com/Live-Hack-CVE/CVE-2011-10002)",
+      "description": "A vulnerability classified as critical has been found in weblabyrinth 0.3.1. This affects the function Labyrinth of the file labyrinth.inc.php. The manipulation leads to sql injection. Upgrading to version 0.3.2 is able to address this issue. The name of the patch is 60793fd8c8c4759596d3510641e96ea40e7f60e9. It is reco CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T20:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2006-20001",
+      "repo_info": "[Saksham2002/CVE-2006-20001](https://github.com/Saksham2002/CVE-2006-20001)",
+      "description": "A carefully crafted If: request header can cause a memory read, or write of a single zero byte, in a pool (heap) memory location beyond the header value sent. This could cause the process to crash. This issue affects Apache HTTP Server 2.4.54 and earlier. CVE project by @Sn0wAlice",
+      "date": "2023-02-07",
+      "raw_date": "2023-02-07T05:30:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.004526",
+  "metadata": {
+    "total_cves": 106,
+    "date_range": "2023-02-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

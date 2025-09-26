@@ -1,0 +1,27 @@
+{
+  "date": "2016-01-21",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-0728",
+      "repo_info": "[mfer/cve_2016_0728](https://github.com/mfer/cve_2016_0728)",
+      "description": "just testing the flaw.",
+      "date": "2016-01-21",
+      "raw_date": "2016-01-21T11:26:42Z"
+    },
+    {
+      "cve_id": "CVE-2016-0728",
+      "repo_info": "[sunnyjiang/cve_2016_0728](https://github.com/sunnyjiang/cve_2016_0728)",
+      "description": "no description",
+      "date": "2016-01-21",
+      "raw_date": "2016-01-21T08:37:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.665081",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-01-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

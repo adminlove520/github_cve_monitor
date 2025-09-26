@@ -1,0 +1,55 @@
+{
+  "date": "2014-04-10",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[waqasjamal-zz/HeartBleed-Vulnerability-Checker](https://github.com/waqasjamal-zz/HeartBleed-Vulnerability-Checker)",
+      "description": "This repo contains a script to automatically test sites for vulnerability to the Heartbleed Bug (CVE-2014-0160) based on the input file for the urls.",
+      "date": "2014-04-10",
+      "raw_date": "2014-04-10T11:42:33Z"
+    },
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[sammyfung/openssl-heartbleed-fix](https://github.com/sammyfung/openssl-heartbleed-fix)",
+      "description": "OpenSSL Heartbleed (CVE-2014-0160) Fix script",
+      "date": "2014-04-10",
+      "raw_date": "2014-04-10T19:47:42Z"
+    },
+    {
+      "cve_id": "CVE-2014-2734",
+      "repo_info": "[siddolo/knockbleed](https://github.com/siddolo/knockbleed)",
+      "description": "CVE-2014-0160 mass test against subdomains",
+      "date": "2014-04-10",
+      "raw_date": "2014-04-10T17:12:53Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[0x90/CVE-2014-0160](https://github.com/0x90/CVE-2014-0160)",
+      "description": "Heartbleed variants",
+      "date": "2014-04-10",
+      "raw_date": "2014-04-10T02:47:43Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[ice-security88/CVE-2014-0160](https://github.com/ice-security88/CVE-2014-0160)",
+      "description": "no description",
+      "date": "2014-04-10",
+      "raw_date": "2014-04-10T04:27:10Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[amerine/coronary](https://github.com/amerine/coronary)",
+      "description": "Test CIDR blocks for CVE-2014-0160/Heartbleed",
+      "date": "2014-04-10",
+      "raw_date": "2014-04-10T02:28:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.608800",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2014-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

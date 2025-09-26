@@ -1,0 +1,41 @@
+{
+  "date": "2023-09-06",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-3812",
+      "repo_info": "[nidhi7598/linux-4.19.72_CVE-2023-3812](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3812)",
+      "description": "no description",
+      "date": "2023-09-06",
+      "raw_date": "2023-09-06T06:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-36123",
+      "repo_info": "[9Bakabaka/CVE-2023-36123](https://github.com/9Bakabaka/CVE-2023-36123)",
+      "description": "The PoC of CVE-2023-36123",
+      "date": "2023-09-06",
+      "raw_date": "2023-09-06T14:29:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-3567",
+      "repo_info": "[nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567)",
+      "description": "no description",
+      "date": "2023-09-06",
+      "raw_date": "2023-09-06T11:16:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-42889",
+      "repo_info": "[Sic4rio/CVE-2022-42889](https://github.com/Sic4rio/CVE-2022-42889)",
+      "description": "Text4Shell",
+      "date": "2023-09-06",
+      "raw_date": "2023-09-06T01:13:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.045045",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2023-09-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

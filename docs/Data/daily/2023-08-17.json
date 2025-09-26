@@ -1,0 +1,76 @@
+{
+  "date": "2023-08-17",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4174",
+      "repo_info": "[codeb0ss/CVE-2023-4174](https://github.com/codeb0ss/CVE-2023-4174)",
+      "description": "CVE-2023-4174 - mooSocial 3.1.6 - Reflected Cross Site Scripting (XSS)",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T02:44:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-39143",
+      "repo_info": "[codeb0ss/CVE-2023-39143](https://github.com/codeb0ss/CVE-2023-39143)",
+      "description": "CVE-2023-39143 &lt; PaperCut &lt; Path Traversal (PT)",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T02:57:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-37979",
+      "repo_info": "[codeb0ss/CVE-2023-37979](https://github.com/codeb0ss/CVE-2023-37979)",
+      "description": "CVE-2023-37979 - WordPress Authenticated XSS in Ninja-forms Plugin + Upload File",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T02:24:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-35674",
+      "repo_info": "[actuator/imou](https://github.com/actuator/imou)",
+      "description": "CVE-2023-42470",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T02:12:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-32560",
+      "repo_info": "[x0rb3l/CVE-2023-32560](https://github.com/x0rb3l/CVE-2023-32560)",
+      "description": "Ivanti Avalanche v6.4.0.0 RCE POC",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T03:39:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-24329",
+      "repo_info": "[H4R335HR/CVE-2023-24329-PoC](https://github.com/H4R335HR/CVE-2023-24329-PoC)",
+      "description": "no description",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T10:33:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-21554",
+      "repo_info": "[3tternp/CVE-2023-21554](https://github.com/3tternp/CVE-2023-21554)",
+      "description": "no description",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T17:16:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-2033",
+      "repo_info": "[tianstcht/CVE-2023-2033](https://github.com/tianstcht/CVE-2023-2033)",
+      "description": "no description",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T02:40:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-21907",
+      "repo_info": "[asepsaepdin/CVE-2022-21907](https://github.com/asepsaepdin/CVE-2022-21907)",
+      "description": "no description",
+      "date": "2023-08-17",
+      "raw_date": "2023-08-17T13:58:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.041783",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-08-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

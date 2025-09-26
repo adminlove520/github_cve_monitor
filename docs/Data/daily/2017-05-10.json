@@ -1,0 +1,27 @@
+{
+  "date": "2017-05-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[chipironcin/CVE-2016-10033](https://github.com/chipironcin/CVE-2016-10033)",
+      "description": "Code and vulnerable WordPress container for exploiting CVE-2016-10033",
+      "date": "2017-05-10",
+      "raw_date": "2017-05-10T12:01:07Z"
+    },
+    {
+      "cve_id": "CVE-2016-10033",
+      "repo_info": "[GeneralTesler/CVE-2016-10033](https://github.com/GeneralTesler/CVE-2016-10033)",
+      "description": "RCE against WordPress 4.6; Python port of https://exploitbox.io/vuln/WordPress-Exploit-4-6-RCE-CODE-EXEC-CVE-2016-10033.html",
+      "date": "2017-05-10",
+      "raw_date": "2017-05-10T03:18:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.707096",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-05-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

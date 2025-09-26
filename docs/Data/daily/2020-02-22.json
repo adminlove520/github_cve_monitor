@@ -1,0 +1,20 @@
+{
+  "date": "2020-02-22",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-2291",
+      "repo_info": "[Tare05/Intel-CVE-2015-2291](https://github.com/Tare05/Intel-CVE-2015-2291)",
+      "description": "PoC exploit for CVE-2015-2291",
+      "date": "2020-02-22",
+      "raw_date": "2020-02-22T13:27:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.802875",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-02-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

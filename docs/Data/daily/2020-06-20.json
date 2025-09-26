@@ -1,0 +1,34 @@
+{
+  "date": "2020-06-20",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[cdedmondson/Modified-CVE-2019-15107](https://github.com/cdedmondson/Modified-CVE-2019-15107)",
+      "description": "no description",
+      "date": "2020-06-20",
+      "raw_date": "2020-06-20T19:03:03Z"
+    },
+    {
+      "cve_id": "CVE-2018-18778",
+      "repo_info": "[cyberharsh/Mini_httpd-CVE-2018-18778](https://github.com/cyberharsh/Mini_httpd-CVE-2018-18778)",
+      "description": "no description",
+      "date": "2020-06-20",
+      "raw_date": "2020-06-20T09:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2013-4547",
+      "repo_info": "[cyberharsh/Nginx-CVE-2013-4547](https://github.com/cyberharsh/Nginx-CVE-2013-4547)",
+      "description": "no description",
+      "date": "2020-06-20",
+      "raw_date": "2020-06-20T09:37:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.814951",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-06-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

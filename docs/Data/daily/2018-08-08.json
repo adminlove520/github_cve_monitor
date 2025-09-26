@@ -1,0 +1,20 @@
+{
+  "date": "2018-08-08",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-4233",
+      "repo_info": "[saelo/cve-2018-4233](https://github.com/saelo/cve-2018-4233)",
+      "description": "Exploit for CVE-2018-4233, a WebKit JIT optimization bug used during Pwn2Own 2018",
+      "date": "2018-08-08",
+      "raw_date": "2018-08-08T14:41:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.748623",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

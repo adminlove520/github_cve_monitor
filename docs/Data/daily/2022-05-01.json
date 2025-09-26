@@ -1,0 +1,34 @@
+{
+  "date": "2022-05-01",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[yuanLink/CVE-2022-26809](https://github.com/yuanLink/CVE-2022-26809)",
+      "description": "no description",
+      "date": "2022-05-01",
+      "raw_date": "2022-05-01T13:19:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-22961",
+      "repo_info": "[kaanymz/2022-04-06-critical-vmware-fix](https://github.com/kaanymz/2022-04-06-critical-vmware-fix)",
+      "description": "CVE-2022-22954, CVE-2022-22955,CVE-2022-22956, CVE-2022-22957, CVE-2022-22958, CVE-2022-22959, CVE-2022-22960, CVE-2022-22961 all in one!",
+      "date": "2022-05-01",
+      "raw_date": "2022-05-01T20:52:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-22948",
+      "repo_info": "[kaanymz/cve-2022-22948-vcenter](https://github.com/kaanymz/cve-2022-22948-vcenter)",
+      "description": "Resolving the CVE-2022-22948 vulnerability",
+      "date": "2022-05-01",
+      "raw_date": "2022-05-01T11:28:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.891230",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-05-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

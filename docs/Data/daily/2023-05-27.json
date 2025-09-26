@@ -1,0 +1,83 @@
+{
+  "date": "2023-05-27",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[libasv/Exploite-CVE-2023-30212-vulnerability](https://github.com/libasv/Exploite-CVE-2023-30212-vulnerability)",
+      "description": "Exploit-the-CVE-2023-30212-vulnerability",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T09:52:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[libasmon/Exploite-CVE-2023-30212-Vulnerability](https://github.com/libasmon/Exploite-CVE-2023-30212-Vulnerability)",
+      "description": "Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T06:43:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[libas7994/Exploit-the-CVE-2023-30212-vulnerability](https://github.com/libas7994/Exploit-the-CVE-2023-30212-vulnerability)",
+      "description": "Vulnerable Docker Environment CVE-2023-30212",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T09:29:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[libasmon/-create-a-vulnerable-Docker-environment-that-is-susceptible-to-CVE-2023-30212](https://github.com/libasmon/-create-a-vulnerable-Docker-environment-that-is-susceptible-to-CVE-2023-30212)",
+      "description": "Docker environment and exploit the CVE-2023-30212 vulnerabilityVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T05:06:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[libasmon/Vulnerable-Docker-Environment-CVE-2023-30212](https://github.com/libasmon/Vulnerable-Docker-Environment-CVE-2023-30212)",
+      "description": "Docker environment and exploit the CVE-2023-30212 vulnerability that affects versions of OURPHP prior to or equal to 7.2.0. This vulnerability allows for Cross-Site Scripting (XSS) attacks",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T04:53:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[libas7994/CVE-2023-30212](https://github.com/libas7994/CVE-2023-30212)",
+      "description": "Docker environment and exploit the CVE-2023-30212 is a security vulnerability that affects versions of OURPHP prior to or equal to 7.2.0 .This vulnerability allows for Cross-Site Scripting (XSS) attacks",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T04:24:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[TaroballzChen/CVE-2023-28432-metasploit-scanner](https://github.com/TaroballzChen/CVE-2023-28432-metasploit-scanner)",
+      "description": "MinIO Information Disclosure Vulnerability scanner by metasploit",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T14:55:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-27350",
+      "repo_info": "[Pari-Malam/CVE-2023-27350](https://github.com/Pari-Malam/CVE-2023-27350)",
+      "description": "Perfom With Massive Authentication Bypass In PaperCut MF/NG",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T11:32:35Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[hheeyywweellccoommee/CVE-2020-0796-POC-dmglv](https://github.com/hheeyywweellccoommee/CVE-2020-0796-POC-dmglv)",
+      "description": "WindowsProtocolTestSuites is to trigger BSoD, and full exploit poc.",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T01:01:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[elbiazo/CVE-2019-2215](https://github.com/elbiazo/CVE-2019-2215)",
+      "description": "Exploit for Bad Binder",
+      "date": "2023-05-27",
+      "raw_date": "2023-05-27T20:12:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.029445",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2023-05-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

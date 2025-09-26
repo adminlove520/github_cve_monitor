@@ -1,0 +1,76 @@
+{
+  "date": "2023-09-16",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-43339",
+      "repo_info": "[sromanhu/CVE-2023-43339-CMSmadesimple-Reflected-XSS---Installation](https://github.com/sromanhu/CVE-2023-43339-CMSmadesimple-Reflected-XSS---Installation)",
+      "description": "CMSmadesimple 2.2.18 is affected by a Cross-Site Scripting (XSS) vulnerability that allows attackers to execute arbitrary code via a crafted payload in the installation process.",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T13:35:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-43325",
+      "repo_info": "[ahrixia/CVE-2023-43325](https://github.com/ahrixia/CVE-2023-43325)",
+      "description": "mooSocial v3.1.8 is vulnerable to cross-site scripting on user login function.",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T01:05:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-43323",
+      "repo_info": "[ahrixia/CVE-2023-43323](https://github.com/ahrixia/CVE-2023-43323)",
+      "description": "mooSocial v3.1.8 is vulnerable to external service interaction on post function.",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T01:28:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-43148",
+      "repo_info": "[MinoTauro2020/CVE-2023-43148](https://github.com/MinoTauro2020/CVE-2023-43148)",
+      "description": "CVE CSRF DELETE ACCOUNT",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T11:48:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-36845",
+      "repo_info": "[vulncheck-oss/cve-2023-36845-scanner](https://github.com/vulncheck-oss/cve-2023-36845-scanner)",
+      "description": "A tool to discover Juniper firewalls vulnerable to CVE-2023-36845",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T09:11:21Z"
+    },
+    {
+      "cve_id": "CVE-2019-20372",
+      "repo_info": "[0xleft/CVE-2019-20372](https://github.com/0xleft/CVE-2019-20372)",
+      "description": "nginx http request smugling error_page directive",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T19:47:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-16278",
+      "repo_info": "[0xTabun/CVE-2019-16278](https://github.com/0xTabun/CVE-2019-16278)",
+      "description": "Nostromo 1.9.6 reverse shell",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T17:01:25Z"
+    },
+    {
+      "cve_id": "CVE-2019-13288",
+      "repo_info": "[gleaming0/CVE-2019-13288](https://github.com/gleaming0/CVE-2019-13288)",
+      "description": "no description",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T10:45:12Z"
+    },
+    {
+      "cve_id": "CVE-2011-3192",
+      "repo_info": "[futurezayka/CVE-2011-3192](https://github.com/futurezayka/CVE-2011-3192)",
+      "description": "no description",
+      "date": "2023-09-16",
+      "raw_date": "2023-09-16T14:01:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.046595",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-09-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

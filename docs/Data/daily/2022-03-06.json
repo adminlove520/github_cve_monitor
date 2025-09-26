@@ -1,0 +1,20 @@
+{
+  "date": "2022-03-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-23940",
+      "repo_info": "[manuelz120/CVE-2022-23940](https://github.com/manuelz120/CVE-2022-23940)",
+      "description": "PoC for CVE-2022-23940",
+      "date": "2022-03-06",
+      "raw_date": "2022-03-06T17:05:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.882747",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2022-03-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

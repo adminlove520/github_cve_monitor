@@ -1,0 +1,160 @@
+{
+  "date": "2022-04-20",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[hakivvi/CVE-2022-29464](https://github.com/hakivvi/CVE-2022-29464)",
+      "description": "WSO2 RCE (CVE-2022-29464) exploit and writeup.",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T21:23:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[DESC0N0C1D0/CVE-2022-26809-RCE](https://github.com/DESC0N0C1D0/CVE-2022-26809-RCE)",
+      "description": "This repository contains a PoC for  remote code execution CVE-2022-26809",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T20:54:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[nanaao/CVE-2022-26809](https://github.com/nanaao/CVE-2022-26809)",
+      "description": "A proof of concept of the CVE-2022-26809-RCE vulnerability.",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T11:08:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[jfrog/jfrog-CVE-2022-21449](https://github.com/jfrog/jfrog-CVE-2022-21449)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T10:23:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[khalednassar/CVE-2022-21449-TLS-PoC](https://github.com/khalednassar/CVE-2022-21449-TLS-PoC)",
+      "description": "CVE-2022-21449 Proof of Concept demonstrating its usage with a client running on a vulnerable Java version and a malicious TLS server",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T20:31:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[jmiettinen/CVE-2022-21449-vuln-test](https://github.com/jmiettinen/CVE-2022-21449-vuln-test)",
+      "description": "CVE-2022-21449 Vulnerability tester",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T11:47:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-1329",
+      "repo_info": "[Grazee/CVE-2022-1329-WordPress-Elementor-RCE](https://github.com/Grazee/CVE-2022-1329-WordPress-Elementor-RCE)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T01:06:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[0x4ndy/CVE-2021-4034-PoC](https://github.com/0x4ndy/CVE-2021-4034-PoC)",
+      "description": "CVE-2021-4034 PoC",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T19:44:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-36981",
+      "repo_info": "[0xBrAinsTorM/CVE-2021-36981](https://github.com/0xBrAinsTorM/CVE-2021-36981)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T12:26:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-0510",
+      "repo_info": "[pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510](https://github.com/pazhanivel07/hardware_interfaces-A10_r33_CVE-2021-0510)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T12:29:25Z"
+    },
+    {
+      "cve_id": "CVE-2021-0509",
+      "repo_info": "[hariomenkel/CobaltSploit](https://github.com/hariomenkel/CobaltSploit)",
+      "description": "Tool which leverages CVE-2021-36798 (HotCobalt) and related work from SentinelOne to DoS CobaltStrike 4.2 and 4.3 servers",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T16:36:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-0475",
+      "repo_info": "[ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0475](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2021-0475)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T06:36:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-0474",
+      "repo_info": "[pazhanivel07/system_bt_A10-r33_CVE-2021-0474](https://github.com/pazhanivel07/system_bt_A10-r33_CVE-2021-0474)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T13:17:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-0433",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2021-0433)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T12:03:35Z"
+    },
+    {
+      "cve_id": "CVE-2020-36109",
+      "repo_info": "[sunn1day/CVE-2020-36109-POC](https://github.com/sunn1day/CVE-2020-36109-POC)",
+      "description": "CVE-2020-36109  PoC causing DoS",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T20:07:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-0380",
+      "repo_info": "[ShaikUsaf/system_bt_AOSP10_r33_CVE-2020-0380](https://github.com/ShaikUsaf/system_bt_AOSP10_r33_CVE-2020-0380)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T06:19:13Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[CPT-Jack-A-Castle/Haruster-CVE-2019-0708-Exploit](https://github.com/CPT-Jack-A-Castle/Haruster-CVE-2019-0708-Exploit)",
+      "description": "MS CVE 2019-0708 Python Exploit",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T06:00:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[yavolo/CVE-2018-6574](https://github.com/yavolo/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T16:03:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-14714",
+      "repo_info": "[sunn1day/CVE-2018-14714-POC](https://github.com/sunn1day/CVE-2018-14714-POC)",
+      "description": "CVE-2018-14714 PoC RCE",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T20:12:36Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[jax7sec/CVE-2017-9841](https://github.com/jax7sec/CVE-2017-9841)",
+      "description": "CVE-2017-9841批量扫描及利用脚本。PHPUnit是其中的一个基于PHP的测试框架。 PHPUnit 4.8.28之前的版本和5.6.3之前的5.x版本中的Util/PHP/eval-stdin.php文件存在安全漏洞。远程攻击者可通过发送以‘<?php’字符串开头的HTTP POST数据利用该漏洞执行任意PHP代码。",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T07:01:20Z"
+    },
+    {
+      "cve_id": "CVE-2017-0199",
+      "repo_info": "[Phantomlancer123/CVE-2017-0199](https://github.com/Phantomlancer123/CVE-2017-0199)",
+      "description": "no description",
+      "date": "2022-04-20",
+      "raw_date": "2022-04-20T09:07:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.888780",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2022-04-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

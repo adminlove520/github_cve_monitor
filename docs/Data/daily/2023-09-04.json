@@ -1,0 +1,90 @@
+{
+  "date": "2023-09-04",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4278",
+      "repo_info": "[revan-ar/CVE-2023-4278](https://github.com/revan-ar/CVE-2023-4278)",
+      "description": "Wordpress Plugin Masterstudy LMS &lt;= 3.0.17 - Unauthenticated Instructor Account Creation",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T14:16:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-41080",
+      "repo_info": "[vulncheck-oss/fetch-broker-conf](https://github.com/vulncheck-oss/fetch-broker-conf)",
+      "description": "A tool to fetch the RocketMQ broker configuration in order to discover indicators of compromise for CVE-2023-33246",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T11:18:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-36143",
+      "repo_info": "[RobinTrigon/CVE-2023-36143](https://github.com/RobinTrigon/CVE-2023-36143)",
+      "description": "Maxprint Maxlink 1200G v3.4.11E has an OS command injection vulnerability in the &quot;Diagnostic tool&quot; functionality of the device.",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T05:08:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-3567",
+      "repo_info": "[nidhi7598/linux-4.19.72_CVE-2023-3567](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-3567)",
+      "description": "no description",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T06:31:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-35001",
+      "repo_info": "[syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-](https://github.com/syedhafiz1234/nftables-oob-read-write-exploit-CVE-2023-35001-)",
+      "description": "nftables oob read/write exploit (CVE-2023-35001)",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T03:25:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-34039",
+      "repo_info": "[syedhafiz1234/CVE-2023-34039](https://github.com/syedhafiz1234/CVE-2023-34039)",
+      "description": "CVE-2023-34039",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T03:27:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-28229",
+      "repo_info": "[Y3A/CVE-2023-28229](https://github.com/Y3A/CVE-2023-28229)",
+      "description": "no description",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T07:48:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-25136",
+      "repo_info": "[Business1sg00d/CVE-2023-25136](https://github.com/Business1sg00d/CVE-2023-25136)",
+      "description": "Looking into the memory when sshd 9.1p1 aborts due to a double free bug.",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T19:28:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-0069",
+      "repo_info": "[0xf15h/mtk_su](https://github.com/0xf15h/mtk_su)",
+      "description": "CVE-2020-0069",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T17:52:04Z"
+    },
+    {
+      "cve_id": "CVE-2019-13272",
+      "repo_info": "[asepsaepdin/CVE-2019-13272](https://github.com/asepsaepdin/CVE-2019-13272)",
+      "description": "no description",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T15:16:09Z"
+    },
+    {
+      "cve_id": "CVE-2014-3470",
+      "repo_info": "[hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470](https://github.com/hshivhare67/OpenSSL_1.0.1g_CVE-2014-3470)",
+      "description": "no description",
+      "date": "2023-09-04",
+      "raw_date": "2023-09-04T06:44:34Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.044709",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2023-09-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

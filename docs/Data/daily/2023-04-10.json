@@ -1,0 +1,41 @@
+{
+  "date": "2023-04-10",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30459",
+      "repo_info": "[Toxich4/CVE-2023-30459](https://github.com/Toxich4/CVE-2023-30459)",
+      "description": "CVE-2023-30459",
+      "date": "2023-04-10",
+      "raw_date": "2023-04-10T12:18:41Z"
+    },
+    {
+      "cve_id": "CVE-2023-30256",
+      "repo_info": "[ahrixia/CVE-2023-30256](https://github.com/ahrixia/CVE-2023-30256)",
+      "description": "QloApp 1.5.2: Vulnerable to XSS on two Parameter (email_create and back)",
+      "date": "2023-04-10",
+      "raw_date": "2023-04-10T16:02:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-29017",
+      "repo_info": "[Kaneki-hash/CVE-2023-29017-reverse-shell](https://github.com/Kaneki-hash/CVE-2023-29017-reverse-shell)",
+      "description": "no description",
+      "date": "2023-04-10",
+      "raw_date": "2023-04-10T15:33:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-22963",
+      "repo_info": "[SourM1lk/CVE-2022-22963-Exploit](https://github.com/SourM1lk/CVE-2022-22963-Exploit)",
+      "description": "Rust-based exploit for the CVE-2022-22963 vulnerability",
+      "date": "2023-04-10",
+      "raw_date": "2023-04-10T14:12:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.022587",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2023-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

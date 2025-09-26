@@ -1,0 +1,34 @@
+{
+  "date": "2020-11-09",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-27194",
+      "repo_info": "[xmzyshypnc/CVE-2020-27194](https://github.com/xmzyshypnc/CVE-2020-27194)",
+      "description": "my exp for CVE-2020-27194, tested on linux kernel 5.8.14.",
+      "date": "2020-11-09",
+      "raw_date": "2020-11-09T11:58:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[MuirlandOracle/CVE-2019-15107](https://github.com/MuirlandOracle/CVE-2019-15107)",
+      "description": "no description",
+      "date": "2020-11-09",
+      "raw_date": "2020-11-09T21:46:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-15133",
+      "repo_info": "[AlienX2001/better-poc-for-CVE-2018-15133](https://github.com/AlienX2001/better-poc-for-CVE-2018-15133)",
+      "description": "An automated PoC for CVE 2018-15133",
+      "date": "2020-11-09",
+      "raw_date": "2020-11-09T08:44:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.828938",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-11-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

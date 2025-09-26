@@ -1,0 +1,20 @@
+{
+  "date": "2017-03-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[opt9/Strutshock](https://github.com/opt9/Strutshock)",
+      "description": "Struts2 RCE CVE-2017-5638 non-intrusive check shell script",
+      "date": "2017-03-16",
+      "raw_date": "2017-03-16T02:59:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.702027",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-03-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

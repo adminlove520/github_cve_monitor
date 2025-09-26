@@ -1,0 +1,104 @@
+{
+  "date": "2025-08-14",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[onlytoxi/CVE-2025-8088-Winrar-Tool](https://github.com/onlytoxi/CVE-2025-8088-Winrar-Tool)",
+      "description": "Advanced WinRAR Path Traversal Exploit Tool for CVE-2025-8088",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T00:36:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-54424",
+      "repo_info": "[hophtien/CVE-2025-54424](https://github.com/hophtien/CVE-2025-54424)",
+      "description": "CVE-2025-54424: 1Panel TLS client cert bypass enables RCE via forged CN &#x27;panel_client&#x27; using a bundled scanning and exploitation tool. Affected: &lt;= v2.0.5. 🔐",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T05:16:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[ghostn4444/CVE-2025-53770](https://github.com/ghostn4444/CVE-2025-53770)",
+      "description": "CVE-2025-53770 - SharePoint",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T08:57:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-47533",
+      "repo_info": "[okkotsu1/CVE-2024-47533](https://github.com/okkotsu1/CVE-2024-47533)",
+      "description": "no description",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T05:28:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[Kento-Sec/CVE-2024-34102](https://github.com/Kento-Sec/CVE-2024-34102)",
+      "description": "no description",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T01:55:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-37305",
+      "repo_info": "[thomasarmel/rollback_car_attack_proverif](https://github.com/thomasarmel/rollback_car_attack_proverif)",
+      "description": "ProVerif proof of concept of the Rollback attack on car keyfob (CVE-2022-37418, CVE-2022-36945 and CVE-2022-37305)",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T11:45:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[seinab-ibrahim/Follina-Vulnerability-CVE-2022-30190-Exploit-Analysis](https://github.com/seinab-ibrahim/Follina-Vulnerability-CVE-2022-30190-Exploit-Analysis)",
+      "description": "Exploration of the Follina (CVE-2022-30190) Microsoft Office vulnerability, including a detailed analysis, proof-of-concept exploitation in a controlled lab, and mitigation strategies. For educational and research purposes only.",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T03:40:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-34527",
+      "repo_info": "[ArtAtrium/PrintNightmare](https://github.com/ArtAtrium/PrintNightmare)",
+      "description": "C# and Impacket implementation of PrintNightmare CVE-2021-1675/CVE-2021-34527",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T05:32:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-10077",
+      "repo_info": "[shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10077_2.11.0.M3)",
+      "description": "no description",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T17:03:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[solovvway/CVE-2018-6574](https://github.com/solovvway/CVE-2018-6574)",
+      "description": "POC of CVE-2018-6574 to solve Pentestlab challenge",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T14:39:24Z"
+    },
+    {
+      "cve_id": "CVE-2018-0114",
+      "repo_info": "[n0m-d/CVE-2018-0114-Go](https://github.com/n0m-d/CVE-2018-0114-Go)",
+      "description": "no description",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T03:19:10Z"
+    },
+    {
+      "cve_id": "CVE-2017-18362",
+      "repo_info": "[yawningmoney/CVE-2017-18362-LAB](https://github.com/yawningmoney/CVE-2017-18362-LAB)",
+      "description": "connectwise managedItsync vuln env (cve-2017-18362)",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T02:30:29Z"
+    },
+    {
+      "cve_id": "CVE-2014-4725",
+      "repo_info": "[Pwdnx1337/MASS-CVE-2014-4725](https://github.com/Pwdnx1337/MASS-CVE-2014-4725)",
+      "description": "exploiter",
+      "date": "2025-08-14",
+      "raw_date": "2025-08-14T02:45:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.171140",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-08-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

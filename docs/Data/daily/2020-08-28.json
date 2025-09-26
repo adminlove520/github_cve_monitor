@@ -1,0 +1,34 @@
+{
+  "date": "2020-08-28",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[TakuCoder/CVE-2018-6574](https://github.com/TakuCoder/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2020-08-28",
+      "raw_date": "2020-08-28T11:32:45Z"
+    },
+    {
+      "cve_id": "CVE-2017-9822",
+      "repo_info": "[murataydemir/CVE-2017-9822](https://github.com/murataydemir/CVE-2017-9822)",
+      "description": "[CVE-2017-9822] DotNetNuke Cookie Deserialization Remote Code Execution (RCE)",
+      "date": "2020-08-28",
+      "raw_date": "2020-08-28T12:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2005-0603",
+      "repo_info": "[Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure](https://github.com/Parcer0/CVE-2005-0603-phpBB-2.0.12-Full-path-disclosure)",
+      "description": "no description",
+      "date": "2020-08-28",
+      "raw_date": "2020-08-28T15:01:49Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.821705",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-08-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2019-04-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-1003000",
+      "repo_info": "[1NTheKut/CVE-2019-1003000_RCE-DETECTION](https://github.com/1NTheKut/CVE-2019-1003000_RCE-DETECTION)",
+      "description": "A C# module  to detect if a Jenkins server is vulnerable to the RCE vulnerability found in CVE-2019-1003000 (chained with  CVE-2018-1000861 for pre-auth RCE)",
+      "date": "2019-04-24",
+      "raw_date": "2019-04-24T23:52:42Z"
+    },
+    {
+      "cve_id": "CVE-2017-6971",
+      "repo_info": "[KeyStrOke95/nfsen_1.3.7_CVE-2017-6971](https://github.com/KeyStrOke95/nfsen_1.3.7_CVE-2017-6971)",
+      "description": "no description",
+      "date": "2019-04-24",
+      "raw_date": "2019-04-24T02:45:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.773727",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-04-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

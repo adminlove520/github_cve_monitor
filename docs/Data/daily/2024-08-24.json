@@ -1,0 +1,90 @@
+{
+  "date": "2024-08-24",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-50490",
+      "repo_info": "[canyie/MagiskEoP](https://github.com/canyie/MagiskEoP)",
+      "description": "Exploit and writeup for installed app to root privilege escalation through CVE-2024-48336 (Magisk Bug #8279), Privileges Escalation / Arbitrary Code Execution Vulnerability",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T08:51:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-4358",
+      "repo_info": "[fa-rrel/CVE-2024-4358](https://github.com/fa-rrel/CVE-2024-4358)",
+      "description": "Telerik Report Server deserialization and authentication bypass exploit chain for CVE-2024-4358/CVE-2024-1800",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T10:09:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-42834",
+      "repo_info": "[CyberSec-Supra/CVE-2024-42834](https://github.com/CyberSec-Supra/CVE-2024-42834)",
+      "description": "no description",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T02:21:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[ynwarcs/CVE-2024-38063](https://github.com/ynwarcs/CVE-2024-38063)",
+      "description": "poc for CVE-2024-38063 (RCE in tcpip.sys)",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T18:25:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[haroonawanofficial/CVE-2024-38063-Research-Tool](https://github.com/haroonawanofficial/CVE-2024-38063-Research-Tool)",
+      "description": "Looks like this exploit is theoretical rather practical",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T15:04:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-28995",
+      "repo_info": "[gotr00t0day/CVE-2024-28995](https://github.com/gotr00t0day/CVE-2024-28995)",
+      "description": "SolarWinds Serv-U was susceptible to a directory transversal vulnerability that would allow access to read sensitive files on the host machine.",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T17:05:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-28000",
+      "repo_info": "[Alucard0x1/CVE-2024-28000](https://github.com/Alucard0x1/CVE-2024-28000)",
+      "description": "LiteSpeed Cache Privilege Escalation PoC",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T05:12:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-50564",
+      "repo_info": "[thefizzyfish/CVE-2023-50564-pluck](https://github.com/thefizzyfish/CVE-2023-50564-pluck)",
+      "description": "CVE-2023-50564 -  An arbitrary file upload vulnerability in the component /inc/modules_install.php of Pluck-CMS v4.7.18 allows attackers to execute arbitrary code via uploading a crafted ZIP file.",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T19:09:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-42793",
+      "repo_info": "[FlojBoj/CVE-2023-42793](https://github.com/FlojBoj/CVE-2023-42793)",
+      "description": "TeamCity CVE-2023-42793 RCE (Remote Code Execution)",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T17:17:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[thefizzyfish/CVE-2023-4220](https://github.com/thefizzyfish/CVE-2023-4220)",
+      "description": "Python exploit for Chamilo Unrestricted File Upload Vuln - CVE-2023-4220",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T15:25:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[VanishedPeople/CVE-2023-4220](https://github.com/VanishedPeople/CVE-2023-4220)",
+      "description": "no description",
+      "date": "2024-08-24",
+      "raw_date": "2024-08-24T05:32:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.105674",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2024-08-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

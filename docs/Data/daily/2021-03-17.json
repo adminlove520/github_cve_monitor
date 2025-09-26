@@ -1,0 +1,20 @@
+{
+  "date": "2021-03-17",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[ColdFusionX/CVE-2019-11447_CuteNews-AvatarUploadRCE](https://github.com/ColdFusionX/CVE-2019-11447_CuteNews-AvatarUploadRCE)",
+      "description": "Exploit Code for CVE-2019-11447 aka CuteNews 2.1.2 Avatar upload RCE (Authenticated)",
+      "date": "2021-03-17",
+      "raw_date": "2021-03-17T12:07:12Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.844550",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-03-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2014-04-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-0094",
+      "repo_info": "[HasegawaTadamitsu/CVE-2014-0094-test-program-for-struts1](https://github.com/HasegawaTadamitsu/CVE-2014-0094-test-program-for-struts1)",
+      "description": "CVE-2014-0094 test program for struts1",
+      "date": "2014-04-27",
+      "raw_date": "2014-04-27T11:31:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.610341",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-04-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

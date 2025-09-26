@@ -1,0 +1,20 @@
+{
+  "date": "2013-01-18",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-0156",
+      "repo_info": "[mitaku/rails_cve_2013_0156_patch](https://github.com/mitaku/rails_cve_2013_0156_patch)",
+      "description": "no description",
+      "date": "2013-01-18",
+      "raw_date": "2013-01-18T03:35:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.568216",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2013-01-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

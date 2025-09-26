@@ -1,0 +1,20 @@
+{
+  "date": "2020-06-27",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2028",
+      "repo_info": "[m4drat/CVE-2013-2028-Exploit](https://github.com/m4drat/CVE-2013-2028-Exploit)",
+      "description": "CVE-2013-2028 python exploit",
+      "date": "2020-06-27",
+      "raw_date": "2020-06-27T15:08:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.815694",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-06-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

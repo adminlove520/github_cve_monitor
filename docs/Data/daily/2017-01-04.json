@@ -1,0 +1,20 @@
+{
+  "date": "2017-01-04",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-8462",
+      "repo_info": "[theori-io/chakra-2016-11](https://github.com/theori-io/chakra-2016-11)",
+      "description": "Proof-of-Concept exploit for Edge bugs (CVE-2016-7200 &amp; CVE-2016-7201)",
+      "date": "2017-01-04",
+      "raw_date": "2017-01-04T23:41:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.695602",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-01-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

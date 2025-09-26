@@ -1,0 +1,34 @@
+{
+  "date": "2018-07-17",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0541",
+      "repo_info": "[likekabin/CVE-2017-0541](https://github.com/likekabin/CVE-2017-0541)",
+      "description": "no description",
+      "date": "2018-07-17",
+      "raw_date": "2018-07-17T16:00:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-0478",
+      "repo_info": "[likekabin/CVE-2017-0478](https://github.com/likekabin/CVE-2017-0478)",
+      "description": "no description",
+      "date": "2018-07-17",
+      "raw_date": "2018-07-17T16:01:13Z"
+    },
+    {
+      "cve_id": "CVE-2015-5477",
+      "repo_info": "[likescam/ShareDoc_cve-2015-5477](https://github.com/likescam/ShareDoc_cve-2015-5477)",
+      "description": "no description",
+      "date": "2018-07-17",
+      "raw_date": "2018-07-17T15:54:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.746622",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-07-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

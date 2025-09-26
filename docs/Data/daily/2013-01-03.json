@@ -1,0 +1,20 @@
+{
+  "date": "2013-01-03",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2012-5664",
+      "repo_info": "[phusion/rails-cve-2012-5664-test](https://github.com/phusion/rails-cve-2012-5664-test)",
+      "description": "Demo app showing how the Rails CVE-2013-5664 vulnerability works.",
+      "date": "2013-01-03",
+      "raw_date": "2013-01-03T10:07:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.566884",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2013-01-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

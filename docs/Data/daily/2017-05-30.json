@@ -1,0 +1,34 @@
+{
+  "date": "2017-05-30",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-6008",
+      "repo_info": "[cbayet/Exploit-CVE-2017-6008](https://github.com/cbayet/Exploit-CVE-2017-6008)",
+      "description": "Exploits for CVE-2017-6008, a kernel pool buffer overflow leading to privilege escalation.",
+      "date": "2017-05-30",
+      "raw_date": "2017-05-30T09:55:55Z"
+    },
+    {
+      "cve_id": "CVE-2017-5487",
+      "repo_info": "[brianwrf/SambaHunter](https://github.com/brianwrf/SambaHunter)",
+      "description": "It is a simple script to exploit RCE for Samba (CVE-2017-7494 ).",
+      "date": "2017-05-30",
+      "raw_date": "2017-05-30T15:08:32Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000367",
+      "repo_info": "[c0d3z3r0/sudo-CVE-2017-1000367](https://github.com/c0d3z3r0/sudo-CVE-2017-1000367)",
+      "description": "no description",
+      "date": "2017-05-30",
+      "raw_date": "2017-05-30T18:12:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.709038",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2017-05-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

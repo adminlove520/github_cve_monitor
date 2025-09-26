@@ -1,0 +1,153 @@
+{
+  "date": "2023-02-18",
+  "count": 20,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-27053",
+      "repo_info": "[d3fudd/XSS-HGJ310](https://github.com/d3fudd/XSS-HGJ310)",
+      "description": "CVE-2023-27053 - Cross Site Scripting - Router CLARO (HGJ310)",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T20:05:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[WhiteOwl-Pub/CVE-2023-23752](https://github.com/WhiteOwl-Pub/CVE-2023-23752)",
+      "description": "Poc for CVE-2023-23752 (joomla CMS)",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T20:43:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Saboor-Hakimi/CVE-2023-23752](https://github.com/Saboor-Hakimi/CVE-2023-23752)",
+      "description": "CVE-2023-23752 nuclei template",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T12:19:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[YusinoMy/CVE-2023-23752](https://github.com/YusinoMy/CVE-2023-23752)",
+      "description": "Joomla! 未授权访问漏洞",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T03:36:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-0901",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0901](https://github.com/Live-Hack-CVE/CVE-2023-0901)",
+      "description": "Exposure of Sensitive Information to an Unauthorized Actor in GitHub repository pixelfed/pixelfed prior to 0.11.4. CVE project by @Sn0wAlice",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T07:12:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-0669",
+      "repo_info": "[yosef0x01/CVE-2023-0669](https://github.com/yosef0x01/CVE-2023-0669)",
+      "description": "CVE-2023-0669 Encrpytion helper",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T05:54:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-40348",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40348](https://github.com/Live-Hack-CVE/CVE-2022-40348)",
+      "description": "Cross Site Scripting (XSS) vulnerability in Intern Record System version 1.0 in /intern/controller.php in &#x27;name&#x27; and &#x27;email&#x27; parameters, allows attackers to execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T07:12:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-32132",
+      "repo_info": "[reewardius/CVE-2022-32132](https://github.com/reewardius/CVE-2022-32132)",
+      "description": "no description",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T13:11:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-32074",
+      "repo_info": "[reewardius/CVE-2022-32074](https://github.com/reewardius/CVE-2022-32074)",
+      "description": "no description",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T13:19:03Z"
+    },
+    {
+      "cve_id": "CVE-2022-31890",
+      "repo_info": "[reewardius/CVE-2022-31890](https://github.com/reewardius/CVE-2022-31890)",
+      "description": "no description",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T12:40:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-31889",
+      "repo_info": "[reewardius/CVE-2022-31889](https://github.com/reewardius/CVE-2022-31889)",
+      "description": "no description",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T13:14:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-0739",
+      "repo_info": "[ElGanz0/CVE-2022-0739](https://github.com/ElGanz0/CVE-2022-0739)",
+      "description": "BookingPress &lt; 1.0.11 - Unauthenticated SQL Injection",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T15:23:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-0492",
+      "repo_info": "[T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC](https://github.com/T1erno/CVE-2022-0492-Docker-Breakout-Checker-and-PoC)",
+      "description": "Docker Breakout Checker and PoC via CAP_SYS_ADMIN and via user namespaces (CVE-2022-0492)",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T04:48:25Z"
+    },
+    {
+      "cve_id": "CVE-2021-32846",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32846](https://github.com/Live-Hack-CVE/CVE-2021-32846)",
+      "description": "HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107, function `pci_vtsock_proc_tx` in `virtio-sock` can lead to to uninitialized memory use. In this situation, there is a check for the return value to be less or equal to `VTSOCK_MAXSEGS`, but that check is not sufficien CVE project by @Sn0wAlice",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T01:36:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-32845",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32845](https://github.com/Live-Hack-CVE/CVE-2021-32845)",
+      "description": "HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, the implementation of `qnotify` at `pci_vtrnd_notify` fails to check the return value of `vq_getchain`. This leads to `struct iovec iov;` being uninitialized and used to read memory in `len = (in CVE project by @Sn0wAlice",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T01:36:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-32844",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32844](https://github.com/Live-Hack-CVE/CVE-2021-32844)",
+      "description": "HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, ` vi_pci_write` has is a call to `vc_cfgwrite` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. T CVE project by @Sn0wAlice",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T01:36:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-32843",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32843](https://github.com/Live-Hack-CVE/CVE-2021-32843)",
+      "description": "HyperKit is a toolkit for embedding hypervisor capabilities in an application. In versions 0.20210107 and prior of HyperKit, `virtio.c` has is a call to `vc_cfgread` that does not check for null which when called makes the host crash. This issue may lead to a guest crashing the host causing a denial of service. This is CVE project by @Sn0wAlice",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T01:36:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[RicYaben/CVE-2020-1472-LAB](https://github.com/RicYaben/CVE-2020-1472-LAB)",
+      "description": "Lab introduction to ZeroLogon",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T14:52:17Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Yealid/CVE-2018-6574](https://github.com/Yealid/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T21:46:18Z"
+    },
+    {
+      "cve_id": "CVE-2018-2628",
+      "repo_info": "[Serendipity-Lucky/CVE-2018-2628](https://github.com/Serendipity-Lucky/CVE-2018-2628)",
+      "description": "CVE-2018-2628漏洞工具",
+      "date": "2023-02-18",
+      "raw_date": "2023-02-18T12:35:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.014756",
+  "metadata": {
+    "total_cves": 20,
+    "date_range": "2023-02-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

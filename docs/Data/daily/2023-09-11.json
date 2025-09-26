@@ -1,0 +1,104 @@
+{
+  "date": "2023-09-11",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4350",
+      "repo_info": "[0nyx-hkr/cve-2023-4350](https://github.com/0nyx-hkr/cve-2023-4350)",
+      "description": "creating an hack for that cve as a research and attack",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T14:09:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-4350",
+      "repo_info": "[im-hanzou/EVCer](https://github.com/im-hanzou/EVCer)",
+      "description": "Automatic Mass Tool for checking vulnerability in CVE-2023-0159 - Extensive VC Addons for WPBakery page builder &lt; 1.9.1 - Unauthenticated LFI",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T11:36:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-4238",
+      "repo_info": "[codeb0ss/CVE-2023-4238-PoC](https://github.com/codeb0ss/CVE-2023-4238-PoC)",
+      "description": "Mass Exploit - CVE-2023-4238 / Wordpress Prevent files/Access Plugin Upload_Webshell.php",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T23:53:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-41362",
+      "repo_info": "[SorceryIE/CVE-2023-41362_MyBB_ACP_RCE](https://github.com/SorceryIE/CVE-2023-41362_MyBB_ACP_RCE)",
+      "description": "no description",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T07:49:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-35674",
+      "repo_info": "[Thampakon/CVE-2023-35674](https://github.com/Thampakon/CVE-2023-35674)",
+      "description": "ช่องโหว่ CVE-2023-35674 *สถานะ: ยังไม่เสร็จ*",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T05:34:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-27470",
+      "repo_info": "[3lp4tr0n/CVE-2023-27470_Exercise](https://github.com/3lp4tr0n/CVE-2023-27470_Exercise)",
+      "description": "no description",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T08:04:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-4063",
+      "repo_info": "[im-hanzou/INPGer](https://github.com/im-hanzou/INPGer)",
+      "description": "Automatic Mass Tool for checking vulnerability in CVE-2022-4063 - InPost Gallery &lt; 2.1.4.1 - Unauthenticated LFI to RCE",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T20:01:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-0778",
+      "repo_info": "[Trinadh465/openssl-1.1.1g_CVE-2022-0778](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2022-0778)",
+      "description": "no description",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T07:30:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-4160",
+      "repo_info": "[nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160](https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-4160)",
+      "description": "no description",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T10:42:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-3712",
+      "repo_info": "[nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712](https://github.com/nidhi7598/OPENSSL_1.1.1g_CVE-2021-3712)",
+      "description": "no description",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T07:43:19Z"
+    },
+    {
+      "cve_id": "CVE-2021-23840",
+      "repo_info": "[Trinadh465/openssl-1.1.1g_CVE-2021-23840](https://github.com/Trinadh465/openssl-1.1.1g_CVE-2021-23840)",
+      "description": "no description",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T09:24:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-12077",
+      "repo_info": "[RandomRobbieBF/CVE-2020-12077](https://github.com/RandomRobbieBF/CVE-2020-12077)",
+      "description": "MapPress Maps Pro &lt; 2.53.9 - Remote Code Execution (RCE) due to Incorrect Access Control in AJAX Actions",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T12:43:47Z"
+    },
+    {
+      "cve_id": "CVE-2010-0232",
+      "repo_info": "[azorfus/CVE-2010-0232](https://github.com/azorfus/CVE-2010-0232)",
+      "description": "Development of an exploit for privilege escalation in Windows systems ( NT / 2k / XP / 2K3 / VISTA / 2k8 / 7 ) using the vulnerability CVE-2010-0232",
+      "date": "2023-09-11",
+      "raw_date": "2023-09-11T10:08:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.045735",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2023-09-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

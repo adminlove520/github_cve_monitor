@@ -1,0 +1,83 @@
+{
+  "date": "2024-08-25",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-5932",
+      "repo_info": "[EQSTSeminar/CVE-2024-5932](https://github.com/EQSTSeminar/CVE-2024-5932)",
+      "description": "Proof-of-Concept for CVE-2024-5932",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T11:51:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-45241",
+      "repo_info": "[d4lyw/CVE-2024-45241](https://github.com/d4lyw/CVE-2024-45241)",
+      "description": "Path Traversal in CentralSquare&#x27;s CryWolf",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T15:57:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-44083",
+      "repo_info": "[Azvanzed/CVE-2024-44083](https://github.com/Azvanzed/CVE-2024-44083)",
+      "description": "Makes IDA (all versions) to crash upon opening it.",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T12:33:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-2887",
+      "repo_info": "[rycbar77/CVE-2024-2887](https://github.com/rycbar77/CVE-2024-2887)",
+      "description": "For V8CTF M123",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T12:13:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-2887",
+      "repo_info": "[PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc](https://github.com/PumpkinBridge/Chrome-CVE-2024-2887-RCE-Poc)",
+      "description": "no description",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T07:30:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-28000",
+      "repo_info": "[ebrasha/CVE-2024-28000](https://github.com/ebrasha/CVE-2024-28000)",
+      "description": "LiteSpeed Cache Privilege Escalation PoC - CVE-2024-28000",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T16:57:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-28000",
+      "repo_info": "[Justintroup85/exploits-forsale-collateral-damage](https://github.com/Justintroup85/exploits-forsale-collateral-damage)",
+      "description": "Kernel exploit for Xbox SystemOS using CVE-2024-30088",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T12:47:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-21626",
+      "repo_info": "[FlojBoj/CVE-2024-21626](https://github.com/FlojBoj/CVE-2024-21626)",
+      "description": "no description",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T15:11:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-1939",
+      "repo_info": "[rycbar77/CVE-2024-1939](https://github.com/rycbar77/CVE-2024-1939)",
+      "description": "For V8CTF M122",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T12:08:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-35914",
+      "repo_info": "[noxlumens/CVE-2022-35914_poc](https://github.com/noxlumens/CVE-2022-35914_poc)",
+      "description": "Modified for GLPI Offsec Lab: call_user_func, array_map, passthru",
+      "date": "2024-08-25",
+      "raw_date": "2024-08-25T19:32:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.105834",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-08-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2017-07-28",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[Zer0d0y/Samba-CVE-2017-7494](https://github.com/Zer0d0y/Samba-CVE-2017-7494)",
+      "description": "搭建漏洞利用测试环境",
+      "date": "2017-07-28",
+      "raw_date": "2017-07-28T06:21:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.714244",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-07-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

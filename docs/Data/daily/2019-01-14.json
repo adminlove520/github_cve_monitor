@@ -1,0 +1,20 @@
+{
+  "date": "2019-01-14",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-12617",
+      "repo_info": "[ygouzerh/CVE-2017-12617](https://github.com/ygouzerh/CVE-2017-12617)",
+      "description": "Proof of Concept - RCE Exploitation : Web Shell on Apache Tomcat - Ensimag January 2018",
+      "date": "2019-01-14",
+      "raw_date": "2019-01-14T20:58:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.764558",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-01-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

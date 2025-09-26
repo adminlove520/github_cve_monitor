@@ -1,0 +1,27 @@
+{
+  "date": "2022-01-30",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-35476",
+      "repo_info": "[glowbase/CVE-2020-35476](https://github.com/glowbase/CVE-2020-35476)",
+      "description": "A remote code execution vulnerability occurs in OpenTSDB through 2.4.0 via command injection in the yrange parameter.",
+      "date": "2022-01-30",
+      "raw_date": "2022-01-30T05:09:07Z"
+    },
+    {
+      "cve_id": "CVE-2019-5420",
+      "repo_info": "[CyberSecurityUP/CVE-2019-5420-POC](https://github.com/CyberSecurityUP/CVE-2019-5420-POC)",
+      "description": "no description",
+      "date": "2022-01-30",
+      "raw_date": "2022-01-30T19:42:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.878998",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-01-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

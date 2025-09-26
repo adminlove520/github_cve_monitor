@@ -1,0 +1,55 @@
+{
+  "date": "2020-12-18",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-2978",
+      "repo_info": "[emad-almousa/CVE-2020-2978](https://github.com/emad-almousa/CVE-2020-2978)",
+      "description": "CVE-2020-2978",
+      "date": "2020-12-18",
+      "raw_date": "2020-12-18T06:56:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-27949",
+      "repo_info": "[LIJI32/SnatchBox](https://github.com/LIJI32/SnatchBox)",
+      "description": "SnatchBox (CVE-2020-27935) is a sandbox escape vulnerability and exploit affecting macOS up to version 10.15.x",
+      "date": "2020-12-18",
+      "raw_date": "2020-12-18T14:39:28Z"
+    },
+    {
+      "cve_id": "CVE-2020-27949",
+      "repo_info": "[ludy-dev/freemarker_RCE_struts2_s2-061](https://github.com/ludy-dev/freemarker_RCE_struts2_s2-061)",
+      "description": "(cve-2020-17530) struts2_s2-061 freemarker_RCE testscript",
+      "date": "2020-12-18",
+      "raw_date": "2020-12-18T07:03:57Z"
+    },
+    {
+      "cve_id": "CVE-2019-13768",
+      "repo_info": "[edxsh/CVE-2019-5782_CVE-2019-13768](https://github.com/edxsh/CVE-2019-5782_CVE-2019-13768)",
+      "description": "Full chain Chrome 71.0.3578.98 exploit",
+      "date": "2020-12-18",
+      "raw_date": "2020-12-18T21:57:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-1221",
+      "repo_info": "[edxsh/CVE-2019-1221](https://github.com/edxsh/CVE-2019-1221)",
+      "description": "no description",
+      "date": "2020-12-18",
+      "raw_date": "2020-12-18T22:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-0752",
+      "repo_info": "[edxsh/CVE-2019-0752](https://github.com/edxsh/CVE-2019-0752)",
+      "description": "no description",
+      "date": "2020-12-18",
+      "raw_date": "2020-12-18T22:53:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.834339",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2020-12-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

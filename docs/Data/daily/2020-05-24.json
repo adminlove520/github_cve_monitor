@@ -1,0 +1,27 @@
+{
+  "date": "2020-05-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-7192",
+      "repo_info": "[th3gundy/CVE-2019-7192_QNAP_Exploit](https://github.com/th3gundy/CVE-2019-7192_QNAP_Exploit)",
+      "description": "QNAP pre-auth root RCE Exploit (CVE-2019-7192 ~ CVE-2019-7195)",
+      "date": "2020-05-24",
+      "raw_date": "2020-05-24T15:44:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-12814",
+      "repo_info": "[Al1ex/CVE-2019-12814](https://github.com/Al1ex/CVE-2019-12814)",
+      "description": "CVE-2019-12814:Jackson JDOM XSLTransformer Gadget",
+      "date": "2020-05-24",
+      "raw_date": "2020-05-24T04:33:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.812375",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-05-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

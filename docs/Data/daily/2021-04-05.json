@@ -1,0 +1,41 @@
+{
+  "date": "2021-04-05",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8174",
+      "repo_info": "[delina1/CVE-2018-8174_EXP](https://github.com/delina1/CVE-2018-8174_EXP)",
+      "description": "no description",
+      "date": "2021-04-05",
+      "raw_date": "2021-04-05T02:31:54Z"
+    },
+    {
+      "cve_id": "CVE-2018-8174",
+      "repo_info": "[delina1/CVE-2018-8174](https://github.com/delina1/CVE-2018-8174)",
+      "description": "no description",
+      "date": "2021-04-05",
+      "raw_date": "2021-04-05T02:27:49Z"
+    },
+    {
+      "cve_id": "CVE-2018-13341",
+      "repo_info": "[Rajchowdhury420/CVE-2018-13341](https://github.com/Rajchowdhury420/CVE-2018-13341)",
+      "description": "This Tool Aims to Exploit the CVE-2018-13341",
+      "date": "2021-04-05",
+      "raw_date": "2021-04-05T13:37:28Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[maximilianmarx/bassmaster-rce](https://github.com/maximilianmarx/bassmaster-rce)",
+      "description": "Exploiting CVE-2014-7205 by injecting arbitrary JavaScript resulting in Remote Code Execution.",
+      "date": "2021-04-05",
+      "raw_date": "2021-04-05T17:02:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.846587",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-04-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

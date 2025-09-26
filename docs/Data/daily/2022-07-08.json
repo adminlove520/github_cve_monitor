@@ -1,0 +1,41 @@
+{
+  "date": "2022-07-08",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-33980",
+      "repo_info": "[tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE](https://github.com/tangxiaofeng7/CVE-2022-33980-Apache-Commons-Configuration-RCE)",
+      "description": "CVE-2022-33980 Apache Commons Configuration 远程命令执行漏洞",
+      "date": "2022-07-08",
+      "raw_date": "2022-07-08T09:25:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[coskper-papa/CVE-2022-26134](https://github.com/coskper-papa/CVE-2022-26134)",
+      "description": "confluence rce",
+      "date": "2022-07-08",
+      "raw_date": "2022-07-08T12:24:21Z"
+    },
+    {
+      "cve_id": "CVE-2019-6447",
+      "repo_info": "[Chethine/EsFileExplorer-CVE-2019-6447](https://github.com/Chethine/EsFileExplorer-CVE-2019-6447)",
+      "description": "Exploiting Android Vulnerability in ES File Explorer",
+      "date": "2022-07-08",
+      "raw_date": "2022-07-08T14:45:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[mmeza-developer/go--CVE-2018-6574](https://github.com/mmeza-developer/go--CVE-2018-6574)",
+      "description": "no description",
+      "date": "2022-07-08",
+      "raw_date": "2022-07-08T22:47:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.902950",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2022-07-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

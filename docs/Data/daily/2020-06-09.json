@@ -1,0 +1,34 @@
+{
+  "date": "2020-06-09",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-13777",
+      "repo_info": "[0xxon/cve-2020-13777](https://github.com/0xxon/cve-2020-13777)",
+      "description": "Zeek script to detect servers vulnerable to CVE-2020-13777",
+      "date": "2020-06-09",
+      "raw_date": "2020-06-09T01:11:10Z"
+    },
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[hg8/CVE-2019-16113-PoC](https://github.com/hg8/CVE-2019-16113-PoC)",
+      "description": "Bludit &gt;= 3.9.2 - Authenticated RCE (CVE-2019-16113)",
+      "date": "2020-06-09",
+      "raw_date": "2020-06-09T12:39:10Z"
+    },
+    {
+      "cve_id": "CVE-2004-1561",
+      "repo_info": "[ratiros01/CVE-2004-1561](https://github.com/ratiros01/CVE-2004-1561)",
+      "description": "no description",
+      "date": "2020-06-09",
+      "raw_date": "2020-06-09T14:54:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.813887",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-06-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

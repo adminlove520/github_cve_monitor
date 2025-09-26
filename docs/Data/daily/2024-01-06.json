@@ -1,0 +1,69 @@
+{
+  "date": "2024-01-06",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-52251",
+      "repo_info": "[BobTheShoplifter/CVE-2023-52251-POC](https://github.com/BobTheShoplifter/CVE-2023-52251-POC)",
+      "description": "CVE-2023-52251 There is a Remote Code Execution vulnerability provectus/kafka-ui.",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T11:07:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-51467",
+      "repo_info": "[JaneMandy/CVE-2023-51467-Exploit](https://github.com/JaneMandy/CVE-2023-51467-Exploit)",
+      "description": "Apache Ofbiz CVE-2023-51467  图形化漏洞利用工具",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T04:07:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-33137",
+      "repo_info": "[JaqueMalman/CVE-2023-33137](https://github.com/JaqueMalman/CVE-2023-33137)",
+      "description": "Tentando desesperadamente simular uma cve para o trabalho da disciplina de segurança da pós.",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T22:40:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-31446",
+      "repo_info": "[Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution](https://github.com/Dodge-MPTC/CVE-2023-31446-Remote-Code-Execution)",
+      "description": "Repository contains description for CVE-2023-31446",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T12:23:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[madhavmehndiratta/CVE-2023-27163](https://github.com/madhavmehndiratta/CVE-2023-27163)",
+      "description": "PoC for SSRF in request-baskets v1.2.1 (CVE-2023-27163)",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T13:16:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[LucasPDiniz/CVE-2021-4034](https://github.com/LucasPDiniz/CVE-2021-4034)",
+      "description": "Local Privilege Escalation (LPE) vulnerability in Polkit - Pwnkit",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T19:41:41Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[webscantest1/CVE-2018-6574](https://github.com/webscantest1/CVE-2018-6574)",
+      "description": "no description",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T01:17:43Z"
+    },
+    {
+      "cve_id": "CVE-2018-18778",
+      "repo_info": "[auk0x01/CVE-2018-18778-Scanner](https://github.com/auk0x01/CVE-2018-18778-Scanner)",
+      "description": "Scan CVE-2018-18778 with Python",
+      "date": "2024-01-06",
+      "raw_date": "2024-01-06T03:13:48Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.064847",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

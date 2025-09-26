@@ -1,0 +1,181 @@
+{
+  "date": "2024-10-27",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-48904",
+      "repo_info": "[zetraxz/CVE-2024-48904](https://github.com/zetraxz/CVE-2024-48904)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T08:24:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-48569",
+      "repo_info": "[MarioTesoro/CVE-2024-48569](https://github.com/MarioTesoro/CVE-2024-48569)",
+      "description": "Proof of concept of multiple Stored Cross-Site Scripting (XSS) vulnerabilities discovered in ACI Worldwide Proactive Risk Manager v 9.1.1.0",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T08:29:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[Jaden1419/CVE-2024-47575](https://github.com/Jaden1419/CVE-2024-47575)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T08:24:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[hatvix1/CVE-2024-47575](https://github.com/hatvix1/CVE-2024-47575)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T14:31:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-43532",
+      "repo_info": "[Jaden1419/CVE-2024-43532](https://github.com/Jaden1419/CVE-2024-43532)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T09:44:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-43532",
+      "repo_info": "[hatvix1/CVE-2024-43532](https://github.com/hatvix1/CVE-2024-43532)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T14:31:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[ebrasha/abdal-anydesk-remote-ip-detector](https://github.com/ebrasha/abdal-anydesk-remote-ip-detector)",
+      "description": "CVE-2024-52940 - A critical zero-day vulnerability in AnyDesk&#x27;s &quot;Allow Direct Connections&quot; feature, discovered and registered by Ebrahim Shafiei (EbraSha), exposing public and private IP addresses. For details, visit the NVD, Tenable, or MITRE pages.",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T15:29:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[Jaden1419/CVE-2024-28987](https://github.com/Jaden1419/CVE-2024-28987)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T09:43:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[hatvix1/CVE-2024-28987](https://github.com/hatvix1/CVE-2024-28987)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T14:31:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-23118",
+      "repo_info": "[zgimszhd61/CVE-2024-23118](https://github.com/zgimszhd61/CVE-2024-23118)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T17:34:20Z"
+    },
+    {
+      "cve_id": "CVE-2024-23117",
+      "repo_info": "[zgimszhd61/CVE-2024-23117](https://github.com/zgimszhd61/CVE-2024-23117)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T17:33:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-23116",
+      "repo_info": "[zgimszhd61/CVE-2024-23116](https://github.com/zgimszhd61/CVE-2024-23116)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T17:32:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-23114",
+      "repo_info": "[zgimszhd61/CVE-2024-23114](https://github.com/zgimszhd61/CVE-2024-23114)",
+      "description": "Repository for CVE-2024-23113",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T17:29:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[Jaden1419/CVE-2024-23113](https://github.com/Jaden1419/CVE-2024-23113)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T09:32:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-23113",
+      "repo_info": "[hatvix1/CVE-2024-23113](https://github.com/hatvix1/CVE-2024-23113)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T14:31:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-23112",
+      "repo_info": "[zgimszhd61/CVE-2024-23112](https://github.com/zgimszhd61/CVE-2024-23112)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T17:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-23111",
+      "repo_info": "[zgimszhd61/CVE-2024-23111](https://github.com/zgimszhd61/CVE-2024-23111)",
+      "description": "Repository for CVE-2024-23113",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T17:39:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-10448",
+      "repo_info": "[bevennyamande/CVE-2024-10448](https://github.com/bevennyamande/CVE-2024-10448)",
+      "description": "Blood bank CSRF Attack POC",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T20:18:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-0113",
+      "repo_info": "[zetraxz/CVE-2024-0113](https://github.com/zetraxz/CVE-2024-0113)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T12:22:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-50564",
+      "repo_info": "[TanveerS1ngh/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564-](https://github.com/TanveerS1ngh/Pluck-CMS-v4.7.18-Remote-Code-Execution-CVE-2023-50564-)",
+      "description": "Refurbish exploit in bash",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T20:21:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-4220",
+      "repo_info": "[TanveerS1ngh/Chamilo-LMS-CVE-2023-4220-Exploit](https://github.com/TanveerS1ngh/Chamilo-LMS-CVE-2023-4220-Exploit)",
+      "description": "Refurbish Chamilo LMS CVE-2023-4220 exploit written in bash",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T20:18:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425](https://github.com/TanveerS1ngh/WonderCMS-4.3.2-XSS-to-RCE-Exploits-CVE-2023-41425)",
+      "description": "CVE-2023-41425 Refurbish",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T20:28:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-2639",
+      "repo_info": "[devetop/CVE-2022-2639-PipeVersion](https://github.com/devetop/CVE-2022-2639-PipeVersion)",
+      "description": "no description",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T23:14:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-0944",
+      "repo_info": "[TanveerS1ngh/SQLPad-6.10.0-Exploit-CVE-2022-0944](https://github.com/TanveerS1ngh/SQLPad-6.10.0-Exploit-CVE-2022-0944)",
+      "description": "Refurbish",
+      "date": "2024-10-27",
+      "raw_date": "2024-10-27T20:26:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.116223",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2024-10-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

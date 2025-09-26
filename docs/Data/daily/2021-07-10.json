@@ -1,0 +1,27 @@
+{
+  "date": "2021-07-10",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8277",
+      "repo_info": "[AndrewIjano/CVE-2020-8277](https://github.com/AndrewIjano/CVE-2020-8277)",
+      "description": "no description",
+      "date": "2021-07-10",
+      "raw_date": "2021-07-10T20:42:11Z"
+    },
+    {
+      "cve_id": "CVE-2011-1249",
+      "repo_info": "[k4u5h41/CVE-2011-1249](https://github.com/k4u5h41/CVE-2011-1249)",
+      "description": "no description",
+      "date": "2021-07-10",
+      "raw_date": "2021-07-10T19:27:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.856658",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-07-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

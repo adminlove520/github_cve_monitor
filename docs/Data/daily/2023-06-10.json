@@ -1,0 +1,69 @@
+{
+  "date": "2023-06-10",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-31541",
+      "repo_info": "[DreamD2v/CVE-2023-31541](https://github.com/DreamD2v/CVE-2023-31541)",
+      "description": "no description",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T14:59:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[tucommenceapousser/CVE-2023-29489.py](https://github.com/tucommenceapousser/CVE-2023-29489.py)",
+      "description": "no description",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T22:48:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[tucommenceapousser/CVE-2023-29489](https://github.com/tucommenceapousser/CVE-2023-29489)",
+      "description": "no description",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T22:34:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-26563",
+      "repo_info": "[RupturaInfoSec/CVE-2023-26563-26564-26565](https://github.com/RupturaInfoSec/CVE-2023-26563-26564-26565)",
+      "description": "no description",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T13:33:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[0x2458bughunt/CVE-2023-25157](https://github.com/0x2458bughunt/CVE-2023-25157)",
+      "description": "no description",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T09:00:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[drfabiocastro/geoserver](https://github.com/drfabiocastro/geoserver)",
+      "description": "CVE-2023-25157 SQL injection vulnerability found in GeoServer",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T00:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-38694",
+      "repo_info": "[TomKing062/CVE-2022-38694_unlock_bootloader](https://github.com/TomKing062/CVE-2022-38694_unlock_bootloader)",
+      "description": "unlock bootloader for unisoc T7510, only tyyh2021 supported now, tyyh2020 will be added soon, other T7510 model could be added (do it yourself)",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T08:31:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-38694",
+      "repo_info": "[TomKing062/ud710_patch](https://github.com/TomKing062/ud710_patch)",
+      "description": "patch to compile jingpad source code (mainly use for CVE-2022-38694 now)",
+      "date": "2023-06-10",
+      "raw_date": "2023-06-10T11:47:31Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.031577",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-06-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "date": "2025-07-22",
+  "count": 32,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6965",
+      "repo_info": "[mariaecgzv/CVE-2025-6965-](https://github.com/mariaecgzv/CVE-2025-6965-)",
+      "description": "SQLite Memory Corruption Exploit",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T13:31:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-6558",
+      "repo_info": "[gmh5225/CVE-2025-6558-exp](https://github.com/gmh5225/CVE-2025-6558-exp)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T10:43:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-6082",
+      "repo_info": "[byteReaper77/CVE-2025-6082](https://github.com/byteReaper77/CVE-2025-6082)",
+      "description": "Proof‑of‑Concept exploits the Full Path Disclosure bug in the  “Birth Chart Compatibility” WordPress plugin (&lt;=v2.0)",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T15:38:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-6058",
+      "repo_info": "[0xgh057r3c0n/CVE-2025-6058](https://github.com/0xgh057r3c0n/CVE-2025-6058)",
+      "description": "WordPress WPBookit ≤ 1.0.4 Unauthenticated File Upload Exploit",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T22:26:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[Sec-Dan/CVE-2025-53770-Scanner](https://github.com/Sec-Dan/CVE-2025-53770-Scanner)",
+      "description": "A Python-based reconnaissance scanner for safely identifying potential exposure to SharePoint vulnerability CVE-2025-53770.",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T19:17:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[MuhammadWaseem29/CVE-2025-53770](https://github.com/MuhammadWaseem29/CVE-2025-53770)",
+      "description": "Unauthenticated Remote Code Execution via unsafe deserialization in Microsoft SharePoint Server (CVE-2025-53770)",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T19:20:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[imbas007/CVE-2025-53770-Vulnerable-Scanner](https://github.com/imbas007/CVE-2025-53770-Vulnerable-Scanner)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T13:55:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[GreenForceNetwork/Toolshell_CVE-2025-53770](https://github.com/GreenForceNetwork/Toolshell_CVE-2025-53770)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T10:51:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE](https://github.com/AdityaBhatt3010/CVE-2025-53770-SharePoint-Zero-Day-Variant-Exploited-for-Full-RCE)",
+      "description": "A critical zero-auth RCE vulnerability in SharePoint (CVE-2025-53770), now exploited in the wild, building directly on the spoofing flaw CVE-2025-49706.",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T09:32:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[ChetanKomal/sudo_exploit](https://github.com/ChetanKomal/sudo_exploit)",
+      "description": "CVE-2025-32463",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T06:26:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[tripoloski1337/CVE-2025-53770-scanner](https://github.com/tripoloski1337/CVE-2025-53770-scanner)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T04:26:59Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[b33b0y/CVE-2025-53770](https://github.com/b33b0y/CVE-2025-53770)",
+      "description": "CVE-2025-53770 – Vulnerability Research &amp; Exploitation",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T10:29:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-53770",
+      "repo_info": "[0xray5c68616e37/cve-2025-53770](https://github.com/0xray5c68616e37/cve-2025-53770)",
+      "description": "Unauthenticated Remote Code Execution via unsafe deserialization in Microsoft SharePoint Server (CVE-2025-53770)",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T22:33:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-52399",
+      "repo_info": "[a-hydrae/ToolShell-Honeypot](https://github.com/a-hydrae/ToolShell-Honeypot)",
+      "description": "Honeypot for CVE-2025-53770 aka ToolShell",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T13:44:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-5025",
+      "repo_info": "[KiPhuong/cve-2025-5025](https://github.com/KiPhuong/cve-2025-5025)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T02:52:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[0xCZR1/cve-2025-49144](https://github.com/0xCZR1/cve-2025-49144)",
+      "description": "Notepad++ Privilege Escalation",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T18:58:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-47917",
+      "repo_info": "[byteReaper77/CVE-2025-47917](https://github.com/byteReaper77/CVE-2025-47917)",
+      "description": "PoC exploit for CVE-2025-47917: Use-After-Free in mbedTLS leading to remote code execution.",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T00:34:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-34085",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-34085](https://github.com/B1ack4sh/Blackash-CVE-2025-34085)",
+      "description": "CVE-2025-34085",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T14:24:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-34085",
+      "repo_info": "[yukinime/CVE-2025-34085](https://github.com/yukinime/CVE-2025-34085)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T07:53:03Z"
+    },
+    {
+      "cve_id": "CVE-2025-2825",
+      "repo_info": "[Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass](https://github.com/Shivshantp/CVE-2025-2825-CrushFTP-AuthBypass)",
+      "description": "Authentication Bypass PoC for CVE-2025-2825 – Exploiting CrushFTP 10.x",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T10:40:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-39930",
+      "repo_info": "[alexander47777/-CVE-2024-39930](https://github.com/alexander47777/-CVE-2024-39930)",
+      "description": "Gogs Under Attack: Unpacking the Critical SSH Vulnerability (CVE-2024–39930)",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T12:36:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-3552",
+      "repo_info": "[KiPhuong/cve-2024-3552](https://github.com/KiPhuong/cve-2024-3552)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T08:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-32002",
+      "repo_info": "[Dre4m017/fuzzy](https://github.com/Dre4m017/fuzzy)",
+      "description": "cve-2024-32002",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T01:35:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-3121",
+      "repo_info": "[dark-ninja10/CVE-2024-3121](https://github.com/dark-ninja10/CVE-2024-3121)",
+      "description": "Remote Code Execution in create_conda_env function in parisneo/lollms",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T03:24:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC](https://github.com/saarcastified/CVE-2023-51385---OpenSSH-ProxyCommand-Injection-PoC)",
+      "description": "This repository contains a proof-of-concept (PoC) for exploiting the OpenSSH ProxyCommand vulnerability — CVE-2025-51385 — affecting OpenSSH servers &lt;9.6 Version",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T06:43:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[runooovb/CVE-2023-51385test](https://github.com/runooovb/CVE-2023-51385test)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T11:35:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-3460",
+      "repo_info": "[GURJOTEXPERT/CVE-2023-3460](https://github.com/GURJOTEXPERT/CVE-2023-3460)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T10:10:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-28771",
+      "repo_info": "[JinParkmida/cve-2023-28771-demo](https://github.com/JinParkmida/cve-2023-28771-demo)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T14:12:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-26671",
+      "repo_info": "[DefensiveOrigins/POC-CVE-2022-26671](https://github.com/DefensiveOrigins/POC-CVE-2022-26671)",
+      "description": "no description",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T19:49:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-1386",
+      "repo_info": "[fayassgit/CVE-2022-1386-FusionBuilder-SSRF](https://github.com/fayassgit/CVE-2022-1386-FusionBuilder-SSRF)",
+      "description": "Unauthenticated SSRF PoC in WordPress Fusion Builder &lt;3.6.2 (CVE-2022-1386)",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T07:37:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-7139",
+      "repo_info": "[adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC](https://github.com/adhammedhat111/Magento-CVE-2019-7139-SQLi-PoC)",
+      "description": "Proof-of-Concept (PoC) exploit for CVE-2019-7139, an unauthenticated SQL injection vulnerability in Magento (PRODSECBUG-2198). For educational and security research purposes only. Use with explicit permission from system owners. Includes documentation and mitigations.",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T02:38:19Z"
+    },
+    {
+      "cve_id": "CVE-2018-1207",
+      "repo_info": "[SYNKTeam/CVE-2018-1207](https://github.com/SYNKTeam/CVE-2018-1207)",
+      "description": "Reverse Shell CVE for iDRAC 7 &amp; 8 with firmware 2.52.52.52 and below.",
+      "date": "2025-07-22",
+      "raw_date": "2025-07-22T18:28:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.166233",
+  "metadata": {
+    "total_cves": 32,
+    "date_range": "2025-07-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

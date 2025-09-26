@@ -1,0 +1,20 @@
+{
+  "date": "2022-01-11",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-21907",
+      "repo_info": "[corelight/cve-2022-21907](https://github.com/corelight/cve-2022-21907)",
+      "description": "cve-2022-21907",
+      "date": "2022-01-11",
+      "raw_date": "2022-01-11T05:00:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.876970",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2022-01-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

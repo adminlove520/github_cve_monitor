@@ -1,0 +1,27 @@
+{
+  "date": "2017-07-29",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-0785",
+      "repo_info": "[mailinneberg/Broadpwn](https://github.com/mailinneberg/Broadpwn)",
+      "description": "Broadpwn bug (CVE-2017-9417)",
+      "date": "2017-07-29",
+      "raw_date": "2017-07-29T22:23:34Z"
+    },
+    {
+      "cve_id": "CVE-2015-3306",
+      "repo_info": "[davidtavarez/CVE-2015-3306](https://github.com/davidtavarez/CVE-2015-3306)",
+      "description": "ProFTPd 1.3.5 - File Copy",
+      "date": "2017-07-29",
+      "raw_date": "2017-07-29T04:31:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.714330",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-07-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

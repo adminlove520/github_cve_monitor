@@ -1,0 +1,34 @@
+{
+  "date": "2019-10-10",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8174",
+      "repo_info": "[arlyone/Apache-Struts-0Day-Exploit](https://github.com/arlyone/Apache-Struts-0Day-Exploit)",
+      "description": "Critical Remote Code Execution Vulnerability (CVE-2018-11776) Found in Apache Struts.",
+      "date": "2019-10-10",
+      "raw_date": "2019-10-10T13:09:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-6789",
+      "repo_info": "[synacktiv/Exim-CVE-2018-6789](https://github.com/synacktiv/Exim-CVE-2018-6789)",
+      "description": "PoC materials to exploit CVE-2018-6789",
+      "date": "2019-10-10",
+      "raw_date": "2019-10-10T09:36:03Z"
+    },
+    {
+      "cve_id": "CVE-2018-15968",
+      "repo_info": "[shellord/Drupalgeddon-Mass-Exploiter](https://github.com/shellord/Drupalgeddon-Mass-Exploiter)",
+      "description": "CVE-2018-7600 and CVE-2018-7602 Mass Exploiter",
+      "date": "2019-10-10",
+      "raw_date": "2019-10-10T11:56:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.789349",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2019-10-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

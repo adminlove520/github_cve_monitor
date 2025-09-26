@@ -1,0 +1,951 @@
+{
+  "date": "2023-01-06",
+  "count": 134,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-22671",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22671](https://github.com/Live-Hack-CVE/CVE-2023-22671)",
+      "description": "Ghidra/RuntimeScripts/Linux/support/launch.sh in NSA Ghidra through 10.2.2 passes user-provided input into eval, leading to command injection when calling analyzeHeadless with untrusted input. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-22475",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-22475](https://github.com/Live-Hack-CVE/CVE-2023-22475)",
+      "description": "Canarytokens is an open source tool which helps track activity and actions on your network. A Cross-Site Scripting vulnerability was identified in the history page of triggered Canarytokens prior to sha-fb61290. An attacker who discovers an HTTP-based Canarytoken (a URL) can use this to execute Javascript in the Canary CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-0028",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0028](https://github.com/Live-Hack-CVE/CVE-2023-0028)",
+      "description": "Cross-site Scripting (XSS) - Stored in GitHub repository linagora/twake prior to 2023.Q1.1200+. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-4879",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4879](https://github.com/Live-Hack-CVE/CVE-2022-4879)",
+      "description": "A vulnerability was found in Forged Alliance Forever up to 3746. It has been declared as critical. Affected by this vulnerability is an unknown functionality of the component Vote Handler. The manipulation leads to improper authorization. Upgrading to version 3747 is able to address this issue. The name of the patch is CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T13:51:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-4878",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4878](https://github.com/Live-Hack-CVE/CVE-2022-4878)",
+      "description": "A vulnerability classified as critical has been found in JATOS. Affected is the function ZipUtil of the file modules/common/app/utils/common/ZipUtil.java of the component ZIP Handler. The manipulation leads to path traversal. Upgrading to version 3.7.5-alpha is able to address this issue. The name of the patch is 2b425 CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-4861",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4861](https://github.com/Live-Hack-CVE/CVE-2022-4861)",
+      "description": "Incorrect implementation in authentication protocol in M-Files Client before 22.5.11356.0 allows high privileged user to get other users tokens to another resource. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-4860",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4860](https://github.com/Live-Hack-CVE/CVE-2022-4860)",
+      "description": "A vulnerability was found in KBase Metrics. It has been classified as critical. This affects the function upload_user_data of the file source/daily_cron_jobs/methods_upload_user_stats.py. The manipulation leads to sql injection. The name of the patch is 959dfb6b05991e30b0fa972a1ecdcaae8e1dae6d. It is recommended to app CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-4858",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4858](https://github.com/Live-Hack-CVE/CVE-2022-4858)",
+      "description": "Insertion of Sensitive Information into Log Files in M-Files Server before 22.10.11846.0 could allow to obtain sensitive tokens from logs, if specific configurations were set. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T21:32:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-4823",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4823](https://github.com/Live-Hack-CVE/CVE-2022-4823)",
+      "description": "A vulnerability, which was classified as problematic, was found in InSTEDD Nuntium. Affected is an unknown function of the file app/controllers/geopoll_controller.rb. The manipulation of the argument signature leads to observable timing discrepancy. It is possible to launch the attack remotely. The name of the patch is CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-4822",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4822](https://github.com/Live-Hack-CVE/CVE-2022-4822)",
+      "description": "A vulnerability, which was classified as problematic, has been found in FlatPress. This issue affects some unknown processing of the file setup/lib/main.lib.php of the component Setup. The manipulation leads to cross site scripting. The attack may be initiated remotely. The name of the patch is 5f23b4c2eac294cc0ba5e541 CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-4821",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4821](https://github.com/Live-Hack-CVE/CVE-2022-4821)",
+      "description": "A vulnerability classified as problematic was found in FlatPress. This vulnerability affects the function onupload of the file admin/panels/uploader/admin.uploader.php of the component XML File Handler/MD File Handler. The manipulation leads to cross site scripting. The attack can be initiated remotely. The name of the CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-4820",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4820](https://github.com/Live-Hack-CVE/CVE-2022-4820)",
+      "description": "A vulnerability classified as problematic has been found in FlatPress. This affects an unknown part of the file admin/panels/entry/admin.entry.list.php of the component Admin Area. The manipulation leads to cross site scripting. It is possible to initiate the attack remotely. The name of the patch is 229752b51025e67837 CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-4819",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4819](https://github.com/Live-Hack-CVE/CVE-2022-4819)",
+      "description": "A vulnerability was found in HotCRP. It has been rated as problematic. Affected by this issue is some unknown functionality. The manipulation leads to cross site scripting. The attack may be launched remotely. The name of the patch is d4ffdb0ef806453c54ddca7fdda3e5c60356285c. It is recommended to apply a patch to fix t CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-4817",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4817](https://github.com/Live-Hack-CVE/CVE-2022-4817)",
+      "description": "A vulnerability was found in centic9 jgit-cookbook. It has been declared as problematic. This vulnerability affects unknown code. The manipulation leads to insecure temporary file. The attack can be initiated remotely. The name of the patch is b8cb29b43dc704708d598c60ac1881db7cf8e9c3. It is recommended to apply a patch CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-4814",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4814](https://github.com/Live-Hack-CVE/CVE-2022-4814)",
+      "description": "Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-4813",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4813](https://github.com/Live-Hack-CVE/CVE-2022-4813)",
+      "description": "Insufficient Granularity of Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-4812",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4812](https://github.com/Live-Hack-CVE/CVE-2022-4812)",
+      "description": "Comparison of Object References Instead of Object Contents in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-4811",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4811](https://github.com/Live-Hack-CVE/CVE-2022-4811)",
+      "description": "Improper Authorization in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-4810",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4810](https://github.com/Live-Hack-CVE/CVE-2022-4810)",
+      "description": "Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:02Z"
+    },
+    {
+      "cve_id": "CVE-2022-4809",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4809](https://github.com/Live-Hack-CVE/CVE-2022-4809)",
+      "description": "Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-4808",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4808](https://github.com/Live-Hack-CVE/CVE-2022-4808)",
+      "description": "Improper Privilege Management in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-4807",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4807](https://github.com/Live-Hack-CVE/CVE-2022-4807)",
+      "description": "Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-4806",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4806](https://github.com/Live-Hack-CVE/CVE-2022-4806)",
+      "description": "Improper Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-4805",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4805](https://github.com/Live-Hack-CVE/CVE-2022-4805)",
+      "description": "Incorrect Use of Privileged APIs in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-4801",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4801](https://github.com/Live-Hack-CVE/CVE-2022-4801)",
+      "description": "Insufficient Granularity of Access Control in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-4800",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4800](https://github.com/Live-Hack-CVE/CVE-2022-4800)",
+      "description": "Improper Verification of Source of a Communication Channel in GitHub repository usememos/memos prior to 0.9.1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-4779",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4779](https://github.com/Live-Hack-CVE/CVE-2022-4779)",
+      "description": "StreamX applications from versions 6.02.01 to 6.04.34 are affected by a logic bug that allows to bypass the implemented authentication scheme. StreamX applications using StreamView HTML component with the public web server feature activated are affected. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-4778",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4778](https://github.com/Live-Hack-CVE/CVE-2022-4778)",
+      "description": "StreamX applications from versions 6.02.01 to 6.04.34 are affected by a path traversal vulnerability that allows authenticated users to get unauthorized access to files on the server&#x27;s filesystem. StreamX applications using StreamView HTML component with the public web server feature activated are affected. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-4773",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4773](https://github.com/Live-Hack-CVE/CVE-2022-4773)",
+      "description": "** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability classified as problematic was found in cloudsync. Affected by this vulnerability is the function getItem of the file src/main/java/cloudsync/connector/LocalFilesystemConnector.java. The manipulation leads to path traversal. It is possible t CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-4766",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4766](https://github.com/Live-Hack-CVE/CVE-2022-4766)",
+      "description": "A vulnerability was found in dolibarr_project_timesheet up to 4.5.5. It has been declared as problematic. This vulnerability affects unknown code of the component Form Handler. The manipulation leads to cross-site request forgery. The attack can be initiated remotely. Upgrading to version 4.5.6.a is able to address thi CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-46740",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46740](https://github.com/Live-Hack-CVE/CVE-2022-46740)",
+      "description": "There is a denial of service vulnerability in the Wi-Fi module of the HUAWEI WS7100-20 Smart WiFi Router.Successful exploit could cause a denial of service (DoS) condition. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-46442",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46442](https://github.com/Live-Hack-CVE/CVE-2022-46442)",
+      "description": "dedecms &lt;=V5.7.102 is vulnerable to SQL Injection. In sys_ sql_ n query.php there are no restrictions on the sql query. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:14:05Z"
+    },
+    {
+      "cve_id": "CVE-2022-46172",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-46172](https://github.com/Live-Hack-CVE/CVE-2022-46172)",
+      "description": "authentik is an open-source Identity provider focused on flexibility and versatility. In versions prior to 2022.10.4, and 2022.11.4, any authenticated user can create an arbitrary number of accounts through the default flows. This would circumvent any policy in a situation where it is undesirable for users to create ne CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-45935",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45935](https://github.com/Live-Hack-CVE/CVE-2022-45935)",
+      "description": "Usage of temporary files with insecure permissions by the Apache James server allows an attacker with local access to access private user data in transit. Vulnerable components includes the SMTP stack and IMAP APPEND command. This issue affects Apache James server version 3.7.2 and prior versions. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-45874",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45874](https://github.com/Live-Hack-CVE/CVE-2022-45874)",
+      "description": "Huawei Aslan Children&#x27;s Watch has an improper authorization vulnerability. Successful exploit could allow the attacker to access certain file. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-45787",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-45787](https://github.com/Live-Hack-CVE/CVE-2022-45787)",
+      "description": "Unproper laxist permissions on the temporary files used by MIME4J TempFileStorageProvider may lead to information disclosure to other local users. This issue affects Apache James MIME4J version 0.8.8 and prior versions. We recommend users to upgrade to MIME4j version 0.8.9 or later. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-44939",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44939](https://github.com/Live-Hack-CVE/CVE-2022-44939)",
+      "description": "Efs Software Easy Chat Server Version 3.1 was discovered to contain a DLL hijacking vulnerability via the component TextShaping.dll. This vulnerability allows attackers to execute arbitrary code via a crafted DLL. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-44877",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44877](https://github.com/Live-Hack-CVE/CVE-2022-44877)",
+      "description": "RESERVED An issue in the /login/index.php component of Centos Web Panel 7 before v0.9.8.1147 allows unauthenticated attackers to execute arbitrary system commands via crafted HTTP requests. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-44877",
+      "repo_info": "[komomon/CVE-2022-44877-RCE](https://github.com/komomon/CVE-2022-44877-RCE)",
+      "description": "CVE-2022-44877 Centos Web Panel 7 Unauthenticated Remote Code Execution",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-44870",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44870](https://github.com/Live-Hack-CVE/CVE-2022-44870)",
+      "description": "A reflected cross-site scripting (XSS) vulnerability in maccms10 v2022.1000.3032 allows attackers to execute arbitrary web scripts or HTML via a crafted payload injected into the Name parameter under the AD Management module. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:21Z"
+    },
+    {
+      "cve_id": "CVE-2022-44564",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44564](https://github.com/Live-Hack-CVE/CVE-2022-44564)",
+      "description": "Huawei Aslan Children&#x27;s Watch has a path traversal vulnerability. Successful exploitation may allow attackers to access or modify protected system resources. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-44541",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44541](https://github.com/Live-Hack-CVE/CVE-2022-44541)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:44:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-44540",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44540](https://github.com/Live-Hack-CVE/CVE-2022-44540)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:44:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-44539",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44539](https://github.com/Live-Hack-CVE/CVE-2022-44539)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:44:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-44538",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44538](https://github.com/Live-Hack-CVE/CVE-2022-44538)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:44:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-44537",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44537](https://github.com/Live-Hack-CVE/CVE-2022-44537)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:44:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-44536",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44536](https://github.com/Live-Hack-CVE/CVE-2022-44536)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-44149",
+      "repo_info": "[yerodin/CVE-2022-44149](https://github.com/yerodin/CVE-2022-44149)",
+      "description": "PO Exploit for CVE-2022-44149",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T20:00:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-44149",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-44149](https://github.com/Live-Hack-CVE/CVE-2022-44149)",
+      "description": "The web service on Nexxt Amp300 ARN02304U8 42.103.1.5095 devices allows remote OS command execution by placing &amp;telnetd in the JSON host field to the ping feature of the goform/sysTools component. Authentication is required. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-42979",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42979](https://github.com/Live-Hack-CVE/CVE-2022-42979)",
+      "description": "Information disclosure due to an insecure hostname validation in the RYDE application 5.8.43 for Android and iOS allows attackers to take over an account via a deep link. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-42256",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42256](https://github.com/Live-Hack-CVE/CVE-2022-42256)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an integer overflow in index validation may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-42255",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-42255](https://github.com/Live-Hack-CVE/CVE-2022-42255)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer (nvidia.ko), where an out-of-bounds array access may lead to denial of service, information disclosure, or data tampering. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-41967",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41967](https://github.com/Live-Hack-CVE/CVE-2022-41967)",
+      "description": "Dragonfly is a Java runtime dependency management library. Dragonfly v0.3.0-SNAPSHOT does not configure DocumentBuilderFactory to prevent XML external entity (XXE) attacks. This issue is patched in 0.3.1-SNAPSHOT. As a workaround, since Dragonfly only parses XML `SNAPSHOT` versions are being resolved, this vulnerabilit CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-41966",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41966](https://github.com/Live-Hack-CVE/CVE-2022-41966)",
+      "description": "XStream serializes Java objects to XML and back again. Versions prior to 1.4.20 may allow a remote attacker to terminate the application with a stack overflow error, resulting in a denial of service only via manipulation the processed input stream. The attack uses the hash code implementation for collections and maps t CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-41966",
+      "repo_info": "[111ddea/Xstream_cve-2022-41966](https://github.com/111ddea/Xstream_cve-2022-41966)",
+      "description": "no description",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T02:37:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-41613",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41613](https://github.com/Live-Hack-CVE/CVE-2022-41613)",
+      "description": "Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to an Out-of-Bounds Read when when parsing DGN files, which may allow an attacker to crash the product, disclose sensitive information, or execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-41579",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-41579](https://github.com/Live-Hack-CVE/CVE-2022-41579)",
+      "description": "There is an insufficient authentication vulnerability in some Huawei band products. Successful exploit could allow the attacker to spoof then connect to the band. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-40201",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40201](https://github.com/Live-Hack-CVE/CVE-2022-40201)",
+      "description": "Bentley Systems MicroStation Connect versions 10.17.0.209 and prior are vulnerable to a Stack-Based Buffer Overflow when a malformed design (DGN) file is parsed. This may allow an attacker to execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-40049",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40049](https://github.com/Live-Hack-CVE/CVE-2022-40049)",
+      "description": "SQL injection vulnerability in sourcecodester Theme Park Ticketing System 1.0 allows remote attackers to view sensitive information via the id parameter to the /tpts/manage_user.php page. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-39012",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-39012](https://github.com/Live-Hack-CVE/CVE-2022-39012)",
+      "description": "Huawei Aslan Children&#x27;s Watch has an improper input validation vulnerability. Successful exploitation may cause the watch&#x27;s application service abnormal. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:45:26Z"
+    },
+    {
+      "cve_id": "CVE-2022-34683",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34683](https://github.com/Live-Hack-CVE/CVE-2022-34683)",
+      "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler for DxgkDdiEscape, where a null-pointer dereference occurs, which may lead to denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-34682",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34682](https://github.com/Live-Hack-CVE/CVE-2022-34682)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer, where an unprivileged regular user can cause a null-pointer dereference, which may lead to denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-34681",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34681](https://github.com/Live-Hack-CVE/CVE-2022-34681)",
+      "description": "NVIDIA GPU Display Driver for Windows contains a vulnerability in the kernel mode layer (nvlddmkm.sys) handler, where improper input validation of a display-related data structure may lead to denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-34679",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34679](https://github.com/Live-Hack-CVE/CVE-2022-34679)",
+      "description": "NVIDIA GPU Display Driver for Linux contains a vulnerability in the kernel mode layer handler, where an unhandled return value can lead to a null-pointer dereference, which may lead to denial of service. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T21:31:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-3156",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-3156](https://github.com/Live-Hack-CVE/CVE-2022-3156)",
+      "description": "A remote code execution vulnerability exists in Rockwell Automation Studio 5000 Logix Emulate software. Users are granted elevated permissions on certain product services when the software is installed. Due to this misconfiguration, a malicious user could potentially achieve remote code execution on the targeted softwa CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:02:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-25923",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-25923](https://github.com/Live-Hack-CVE/CVE-2022-25923)",
+      "description": "Versions of the package exec-local-bin before 1.2.0 are vulnerable to Command Injection via the theProcess() functionality due to improper user-input sanitization. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-2484",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2484](https://github.com/Live-Hack-CVE/CVE-2022-2484)",
+      "description": "The signature check in the Nokia ASIK AirScale system module version 474021A.101 can be bypassed allowing an attacker to run modified firmware. This could result in the execution of a malicious kernel, arbitrary programs, or modified Nokia programs. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-2483",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2483](https://github.com/Live-Hack-CVE/CVE-2022-2483)",
+      "description": "The bootloader in the Nokia ASIK AirScale system module (versions 474021A.101 and 474021A.102) loads public keys for firmware verification signature. If an attacker modifies the flash contents to corrupt the keys, secure boot could be permanently disabled on a given device. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-2482",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2482](https://github.com/Live-Hack-CVE/CVE-2022-2482)",
+      "description": "A vulnerability exists in Nokia’s ASIK AirScale system module (versions 474021A.101 and 474021A.102) that could allow an attacker to place a script on the file system accessible from Linux. A script placed in the appropriate place could allow for arbitrary code execution in the bootloader. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-23555",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-23555](https://github.com/Live-Hack-CVE/CVE-2022-23555)",
+      "description": "authentik is an open-source Identity Provider focused on flexibility and versatility. Versions prior to 2022.11.4 and 2022.10.4 are vulnerable to Improper Authentication. Token reuse in invitation URLs leads to access control bypass via the use of a different enrollment flow than in the one provided. The vulnerability  CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-0739",
+      "repo_info": "[viardant/CVE-2022-0739](https://github.com/viardant/CVE-2022-0739)",
+      "description": "Exploit for WP BookingPress (&lt; 1.0.11) based on destr4ct POC.",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:07:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-4296",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4296](https://github.com/Live-Hack-CVE/CVE-2021-4296)",
+      "description": "A vulnerability, which was classified as problematic, has been found in w3c Unicorn. This issue affects the function ValidatorNuMessage of the file src/org/w3c/unicorn/response/impl/ValidatorNuMessage.java. The manipulation of the argument message leads to cross site scripting. The attack may be initiated remotely. The CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-4295",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4295](https://github.com/Live-Hack-CVE/CVE-2021-4295)",
+      "description": "A vulnerability classified as problematic was found in ONC code-validator-api up to 1.0.30. This vulnerability affects the function vocabularyValidationConfigurations of the file src/main/java/org/sitenv/vocabularies/configuration/CodeValidatorApiConfiguration.java of the component XML Handler. The manipulation leads t CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-4294",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4294](https://github.com/Live-Hack-CVE/CVE-2021-4294)",
+      "description": "A vulnerability was found in OpenShift OSIN. It has been classified as problematic. This affects the function ClientSecretMatches/CheckClientSecret. The manipulation of the argument secret leads to observable timing discrepancy. The name of the patch is 8612686d6dda34ae9ef6b5a974e4b7accb4fea29. It is recommended to app CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T21:32:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-4291",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4291](https://github.com/Live-Hack-CVE/CVE-2021-4291)",
+      "description": "A vulnerability was found in OpenMRS Admin UI Module up to 1.5.x. It has been declared as problematic. This vulnerability affects unknown code of the file omod/src/main/webapp/pages/metadata/locations/location.gsp. The manipulation leads to cross site scripting. The attack can be initiated remotely. Upgrading to versio CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-4289",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4289](https://github.com/Live-Hack-CVE/CVE-2021-4289)",
+      "description": "A vulnerability classified as problematic was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. Affected by this vulnerability is the function post of the file omod/src/main/java/org/openmrs/module/referenceapplication/page/controller/UserAppPageController.java of the component User App Page. The manip CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:59Z"
+    },
+    {
+      "cve_id": "CVE-2021-4288",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4288](https://github.com/Live-Hack-CVE/CVE-2021-4288)",
+      "description": "A vulnerability was found in OpenMRS openmrs-module-referenceapplication up to 2.11.x. It has been rated as problematic. This issue affects some unknown processing of the file omod/src/main/webapp/pages/userApp.gsp. The manipulation leads to cross site scripting. The attack may be initiated remotely. Upgrading to versi CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-4239",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4239](https://github.com/Live-Hack-CVE/CVE-2021-4239)",
+      "description": "The Noise protocol implementation suffers from weakened cryptographic security after encrypting 2^64 messages, and a potential denial of service attack. After 2^64 (~18.4 quintillion) messages are encrypted with the Encrypt function, the nonce counter will wrap around, causing multiple messages to be encrypted with the CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:14:09Z"
+    },
+    {
+      "cve_id": "CVE-2021-4235",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-4235](https://github.com/Live-Hack-CVE/CVE-2021-4235)",
+      "description": "Due to unbounded alias chasing, a maliciously crafted YAML file can cause the system to consume significant system resources. If parsing user input, this may be used as a denial of service vector. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:14:17Z"
+    },
+    {
+      "cve_id": "CVE-2021-32828",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-32828](https://github.com/Live-Hack-CVE/CVE-2021-32828)",
+      "description": "The Nuxeo Platform is an open source content management platform for building business applications. In version 11.5.109, the `oauth2` REST API is vulnerable to Reflected Cross-Site Scripting (XSS). This XSS can be escalated to Remote Code Execution (RCE) by levering the automation API. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T01:46:25Z"
+    },
+    {
+      "cve_id": "CVE-2020-7118",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-7118](https://github.com/Live-Hack-CVE/CVE-2020-7118)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:15:05Z"
+    },
+    {
+      "cve_id": "CVE-2020-7112",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-7112](https://github.com/Live-Hack-CVE/CVE-2020-7112)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:15:01Z"
+    },
+    {
+      "cve_id": "CVE-2020-36643",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36643](https://github.com/Live-Hack-CVE/CVE-2020-36643)",
+      "description": "A vulnerability was found in intgr uqm-wasm. It has been classified as critical. This affects the function log_displayBox in the library sc2/src/libs/log/msgbox_macosx.m. The manipulation leads to format string. The name of the patch is 1d5cbf3350a02c423ad6bef6dfd5300d38aa828f. It is recommended to apply a patch to fix CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:10Z"
+    },
+    {
+      "cve_id": "CVE-2020-36642",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36642](https://github.com/Live-Hack-CVE/CVE-2020-36642)",
+      "description": "A vulnerability was found in trampgeek jobe up to 1.6.x and classified as critical. This issue affects the function run_in_sandbox of the file application/libraries/LanguageTask.php. The manipulation leads to command injection. Upgrading to version 1.7.0 is able to address this issue. The name of the patch is 8f43daf50 CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T13:51:53Z"
+    },
+    {
+      "cve_id": "CVE-2020-36638",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36638](https://github.com/Live-Hack-CVE/CVE-2020-36638)",
+      "description": "** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Chris92de AdminServ. It has been rated as problematic. This issue affects some unknown processing of the file resources/core/adminserv.php. The manipulation of the argument error leads to cross site scripting. The attack may be CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T21:32:02Z"
+    },
+    {
+      "cve_id": "CVE-2020-36637",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36637](https://github.com/Live-Hack-CVE/CVE-2020-36637)",
+      "description": "** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability was found in Chris92de AdminServ. It has been declared as problematic. This vulnerability affects unknown code of the file resources/core/adminserv.php. The manipulation of the argument text leads to cross site scripting. The attack can be  CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T21:31:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-36636",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36636](https://github.com/Live-Hack-CVE/CVE-2020-36636)",
+      "description": "A vulnerability classified as problematic has been found in OpenMRS Admin UI Module up to 1.4.x. Affected is the function sendErrorMessage of the file omod/src/main/java/org/openmrs/module/adminui/page/controller/systemadmin/accounts/AccountPageController.java of the component Account Setup Handler. The manipulation le CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-36634",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36634](https://github.com/Live-Hack-CVE/CVE-2020-36634)",
+      "description": "A vulnerability classified as problematic has been found in Indeed Engineering util up to 1.0.33. Affected is the function visit/appendTo of the file varexport/src/main/java/com/indeed/util/varexport/servlet/ViewExportedVariablesServlet.java. The manipulation leads to cross site scripting. It is possible to launch the  CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:41:07Z"
+    },
+    {
+      "cve_id": "CVE-2020-36633",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36633](https://github.com/Live-Hack-CVE/CVE-2020-36633)",
+      "description": "A vulnerability was found in moodle-block_sitenews 1.0. It has been classified as problematic. This affects the function get_content of the file block_sitenews.php. The manipulation leads to cross-site request forgery. It is possible to initiate the attack remotely. Upgrading to version 1.1 is able to address this issu CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:41:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-36569",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36569](https://github.com/Live-Hack-CVE/CVE-2020-36569)",
+      "description": "Authentication is globally bypassed in github.com/nanobox-io/golang-nanoauth between v0.0.0-20160722212129-ac0cc4484ad4 and v0.0.0-20200131131040-063a3fb69896 if ListenAndServe is called with an empty token. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:14:13Z"
+    },
+    {
+      "cve_id": "CVE-2020-36567",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36567](https://github.com/Live-Hack-CVE/CVE-2020-36567)",
+      "description": "Unsanitized input in the default logger in github.com/gin-gonic/gin before v1.6.0 allows remote attackers to inject arbitrary log lines. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:02:25Z"
+    },
+    {
+      "cve_id": "CVE-2020-36564",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36564](https://github.com/Live-Hack-CVE/CVE-2020-36564)",
+      "description": "Due to improper validation of caller input, validation is silently disabled if the provided expected token is malformed, causing any user supplied token to be considered valid. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:14:26Z"
+    },
+    {
+      "cve_id": "CVE-2020-36563",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36563](https://github.com/Live-Hack-CVE/CVE-2020-36563)",
+      "description": "XML Digital Signatures generated and validated using this package use SHA-1, which may allow an attacker to craft inputs which cause hash collisions depending on their control over the input. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:44Z"
+    },
+    {
+      "cve_id": "CVE-2020-36562",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36562](https://github.com/Live-Hack-CVE/CVE-2020-36562)",
+      "description": "Due to unchecked type assertions, maliciously crafted messages can cause panics, which may be used as a denial of service vector. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-36561",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36561](https://github.com/Live-Hack-CVE/CVE-2020-36561)",
+      "description": "Due to improper path santization, archives containing relative file paths can cause files to be written (or overwritten) outside of the target directory. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2020-36559",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36559](https://github.com/Live-Hack-CVE/CVE-2020-36559)",
+      "description": "Due to improper santization of user input, HTTPEngine.Handle allows for directory traversal, allowing an attacker to read files outside of the target directory that the server has permission to read. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:13:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-24645",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24645](https://github.com/Live-Hack-CVE/CVE-2020-24645)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:57Z"
+    },
+    {
+      "cve_id": "CVE-2020-24644",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24644](https://github.com/Live-Hack-CVE/CVE-2020-24644)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:52Z"
+    },
+    {
+      "cve_id": "CVE-2020-24643",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24643](https://github.com/Live-Hack-CVE/CVE-2020-24643)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-24642",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-24642](https://github.com/Live-Hack-CVE/CVE-2020-24642)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:43Z"
+    },
+    {
+      "cve_id": "CVE-2019-5325",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5325](https://github.com/Live-Hack-CVE/CVE-2019-5325)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-5316",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5316](https://github.com/Live-Hack-CVE/CVE-2019-5316)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-5313",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5313](https://github.com/Live-Hack-CVE/CVE-2019-5313)",
+      "description": "CVE was unused by HPE. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-25099",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25099](https://github.com/Live-Hack-CVE/CVE-2019-25099)",
+      "description": "A vulnerability classified as critical was found in Arthmoor QSF-Portal. This vulnerability affects unknown code of the file index.php. The manipulation of the argument a leads to path traversal. The name of the patch is ea4f61e23ecb83247d174bc2e2cbab521c751a7d. It is recommended to apply a patch to fix this issue. VDB CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:03:08Z"
+    },
+    {
+      "cve_id": "CVE-2019-25092",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25092](https://github.com/Live-Hack-CVE/CVE-2019-25092)",
+      "description": "A vulnerability classified as problematic was found in Nakiami Mellivora up to 2.1.x. Affected by this vulnerability is the function print_user_ip_log of the file include/layout/user.inc.php of the component Admin Panel. The manipulation of the argument $entry[&#x27;ip&#x27;] leads to cross site scripting. The attack can be laun CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-25091",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25091](https://github.com/Live-Hack-CVE/CVE-2019-25091)",
+      "description": "A vulnerability classified as problematic has been found in nsupdate.info. This affects an unknown part of the file src/nsupdate/settings/base.py of the component CSRF Cookie Handler. The manipulation of the argument CSRF_COOKIE_HTTPONLY leads to cookie without &#x27;httponly&#x27; flag. It is possible to initiate the attack rem CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:13Z"
+    },
+    {
+      "cve_id": "CVE-2019-25090",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25090](https://github.com/Live-Hack-CVE/CVE-2019-25090)",
+      "description": "A vulnerability was found in FreePBX arimanager up to 13.0.5.3 and classified as problematic. Affected by this issue is some unknown functionality of the component Views Handler. The manipulation of the argument dataurl leads to cross site scripting. The attack may be launched remotely. Upgrading to version 13.0.5.4 is CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:41:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-25073",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25073](https://github.com/Live-Hack-CVE/CVE-2019-25073)",
+      "description": "Improper path santiziation in github.com/goadesign/goa before v3.0.9, v2.0.10, or v1.4.3 allow remote attackers to read files outside of the intended directory. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:13:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-25072",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-25072](https://github.com/Live-Hack-CVE/CVE-2019-25072)",
+      "description": "Due to support of Gzip compression in request bodies, as well as a lack of limiting response body sizes, a malicious server can cause a client to consume a significant amount of system resources, which may be used as a denial of service vector. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:05Z"
+    },
+    {
+      "cve_id": "CVE-2018-25068",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25068](https://github.com/Live-Hack-CVE/CVE-2018-25068)",
+      "description": "A vulnerability has been found in devent globalpom-utils up to 4.5.0 and classified as critical. This vulnerability affects the function createTmpDir of the file globalpomutils-fileresources/src/main/java/com/anrisoftware/globalpom/fileresourcemanager/FileResourceManagerProvider.java. The manipulation leads to insecure CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:19Z"
+    },
+    {
+      "cve_id": "CVE-2018-25067",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25067](https://github.com/Live-Hack-CVE/CVE-2018-25067)",
+      "description": "A vulnerability, which was classified as critical, was found in JoomGallery up to 3.3.3. This affects an unknown part of the file administrator/components/com_joomgallery/views/config/tmpl/default.php of the component Image Sort Handler. The manipulation leads to sql injection. Upgrading to version 3.3.4 is able to add CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-25066",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25066](https://github.com/Live-Hack-CVE/CVE-2018-25066)",
+      "description": "A vulnerability was found in PeterMu nodebatis up to 2.1.x. It has been classified as critical. Affected is an unknown function. The manipulation leads to sql injection. Upgrading to version 2.2.0 is able to address this issue. The name of the patch is 6629ff5b7e3d62ad8319007a54589ec1f62c7c35. It is recommended to upgr CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T13:51:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-25057",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25057](https://github.com/Live-Hack-CVE/CVE-2018-25057)",
+      "description": "A vulnerability was found in simple_php_link_shortener. It has been classified as critical. Affected is an unknown function of the file index.php. The manipulation of the argument $link[&quot;id&quot;] leads to sql injection. The name of the patch is b26ac6480761635ed94ccb0222ba6b732de6e53f. It is recommended to apply a patch to CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:02:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-25054",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25054](https://github.com/Live-Hack-CVE/CVE-2018-25054)",
+      "description": "A vulnerability was found in shred cilla. It has been classified as problematic. Affected is an unknown function of the file cilla-xample/src/main/webapp/WEB-INF/jsp/view/search.jsp of the component Search Handler. The manipulation of the argument details leads to cross site scripting. It is possible to launch the atta CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:30Z"
+    },
+    {
+      "cve_id": "CVE-2018-25050",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25050](https://github.com/Live-Hack-CVE/CVE-2018-25050)",
+      "description": "A vulnerability, which was classified as problematic, has been found in Harvest Chosen up to 1.8.6. Affected by this issue is the function AbstractChosen of the file coffee/lib/abstract-chosen.coffee. The manipulation of the argument group_label leads to cross site scripting. The attack may be launched remotely. Upgrad CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:13:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-25046",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-25046](https://github.com/Live-Hack-CVE/CVE-2018-25046)",
+      "description": "Due to improper path santization, archives containing relative file paths can cause files to be written (or overwritten) outside of the target directory. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:17Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[kriso4os/CVE-2018-25031](https://github.com/kriso4os/CVE-2018-25031)",
+      "description": "no description",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:58:15Z"
+    },
+    {
+      "cve_id": "CVE-2017-20150",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-20150](https://github.com/Live-Hack-CVE/CVE-2017-20150)",
+      "description": "A vulnerability was found in challenge website. It has been rated as critical. This issue affects some unknown processing. The manipulation leads to sql injection. The name of the patch is f1644b1d3502e5aa5284f31ea80d2623817f4d42. It is recommended to apply a patch to fix this issue. The identifier VDB-216989 was assig CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:20:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-20146",
+      "repo_info": "[Live-Hack-CVE/CVE-2017-20146](https://github.com/Live-Hack-CVE/CVE-2017-20146)",
+      "description": "Usage of the CORS handler may apply improper CORS headers, allowing the requester to explicitly control the value of the Access-Control-Allow-Origin header, which bypasses the expected behavior of the Same Origin Policy. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:22Z"
+    },
+    {
+      "cve_id": "CVE-2016-15011",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-15011](https://github.com/Live-Hack-CVE/CVE-2016-15011)",
+      "description": "A vulnerability classified as problematic was found in e-Contract dssp up to 1.3.1. Affected by this vulnerability is the function checkSignResponse of the file dssp-client/src/main/java/be/e_contract/dssp/client/SignResponseVerifier.java. The manipulation leads to xml external entity reference. Upgrading to version 1. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:28Z"
+    },
+    {
+      "cve_id": "CVE-2016-15005",
+      "repo_info": "[Live-Hack-CVE/CVE-2016-15005](https://github.com/Live-Hack-CVE/CVE-2016-15005)",
+      "description": "CSRF tokens are generated using math/rand, which is not a cryptographically secure rander number generation, making predicting their values relatively trivial and allowing an attacker to bypass CSRF protections which relatively few requests. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T18:14:27Z"
+    },
+    {
+      "cve_id": "CVE-2015-5521",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-5521](https://github.com/Live-Hack-CVE/CVE-2015-5521)",
+      "description": "Cross-site scripting (XSS) vulnerability in BlackCat CMS 1.1.2 allows remote attackers to inject arbitrary web script or HTML via the name in a new group to backend/groups/index.php. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T06:13:34Z"
+    },
+    {
+      "cve_id": "CVE-2015-10018",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10018](https://github.com/Live-Hack-CVE/CVE-2015-10018)",
+      "description": "A vulnerability has been found in DBRisinajumi d2files and classified as critical. Affected by this vulnerability is the function actionUpload/actionDownloadFile of the file controllers/D2filesController.php. The manipulation leads to sql injection. Upgrading to version 1.0.0 is able to address this issue. The name of  CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:03:03Z"
+    },
+    {
+      "cve_id": "CVE-2015-10017",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10017](https://github.com/Live-Hack-CVE/CVE-2015-10017)",
+      "description": "A vulnerability has been found in HPI-Information-Systems ProLOD and classified as critical. This vulnerability affects unknown code. The manipulation of the argument this leads to sql injection. The name of the patch is 3f710905458d49c77530bd3cbcd8960457566b73. It is recommended to apply a patch to fix this issue. The CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T13:51:44Z"
+    },
+    {
+      "cve_id": "CVE-2015-10016",
+      "repo_info": "[Live-Hack-CVE/CVE-2015-10016](https://github.com/Live-Hack-CVE/CVE-2015-10016)",
+      "description": "A vulnerability, which was classified as critical, has been found in jeff-kelley opensim-utils. Affected by this issue is the function DatabaseForRegion of the file regionscrits.php. The manipulation of the argument region leads to sql injection. The name of the patch is c29e5c729a833a29dbf5b1e505a0553fe154575e. It is  CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2014-125052",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125052](https://github.com/Live-Hack-CVE/CVE-2014-125052)",
+      "description": "A vulnerability was found in JervenBolleman sparql-identifiers and classified as critical. This issue affects some unknown processing of the file src/main/java/org/identifiers/db/RegistryDao.java. The manipulation leads to sql injection. The name of the patch is 44bb0db91c064e305b192fc73521d1dfd25bde52. It is recommend CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:41:11Z"
+    },
+    {
+      "cve_id": "CVE-2014-125051",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125051](https://github.com/Live-Hack-CVE/CVE-2014-125051)",
+      "description": "A vulnerability was found in himiklab yii2-jqgrid-widget up to 1.0.7. It has been declared as critical. This vulnerability affects the function addSearchOptionsRecursively of the file JqGridAction.php. The manipulation leads to sql injection. Upgrading to version 1.0.8 is able to address this issue. The name of the pat CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:05Z"
+    },
+    {
+      "cve_id": "CVE-2014-125050",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125050](https://github.com/Live-Hack-CVE/CVE-2014-125050)",
+      "description": "A vulnerability was found in ScottTZhang voter-js and classified as critical. Affected by this issue is some unknown functionality of the file main.js. The manipulation leads to sql injection. The name of the patch is 6317c67a56061aeeaeed3cf9ec665fd9983d8044. It is recommended to apply a patch to fix this issue. VDB-21 CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T19:21:01Z"
+    },
+    {
+      "cve_id": "CVE-2014-125049",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125049](https://github.com/Live-Hack-CVE/CVE-2014-125049)",
+      "description": "** UNSUPPPORTED WHEN ASSIGNED **** UNSUPPORTED WHEN ASSIGNED ** A vulnerability, which was classified as critical, was found in typcn Blogile. Affected is the function getNav of the file server.js. The manipulation of the argument query leads to sql injection. The name of the patch is cfec31043b562ffefe29fe01af6d3c5ed1 CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:02:59Z"
+    },
+    {
+      "cve_id": "CVE-2014-125048",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125048](https://github.com/Live-Hack-CVE/CVE-2014-125048)",
+      "description": "A vulnerability, which was classified as critical, has been found in kassi xingwall. This issue affects some unknown processing of the file app/controllers/oauth.js. The manipulation leads to session fixiation. The name of the patch is e9f0d509e1408743048e29d9c099d36e0e1f6ae7. It is recommended to apply a patch to fix  CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:02:54Z"
+    },
+    {
+      "cve_id": "CVE-2014-125047",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125047](https://github.com/Live-Hack-CVE/CVE-2014-125047)",
+      "description": "A vulnerability classified as critical has been found in tbezman school-store. This affects an unknown part. The manipulation leads to sql injection. The name of the patch is 2957fc97054216d3a393f1775efd01ae2b072001. It is recommended to apply a patch to fix this issue. The identifier VDB-217557 was assigned to this vu CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T13:51:40Z"
+    },
+    {
+      "cve_id": "CVE-2014-125046",
+      "repo_info": "[Live-Hack-CVE/CVE-2014-125046](https://github.com/Live-Hack-CVE/CVE-2014-125046)",
+      "description": "A vulnerability, which was classified as critical, was found in Seiji42 cub-scout-tracker. This affects an unknown part of the file databaseAccessFunctions.js. The manipulation leads to sql injection. The name of the patch is b4bc1a328b1f59437db159f9d136d9ed15707e31. It is recommended to apply a patch to fix this issue CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T11:40:19Z"
+    },
+    {
+      "cve_id": "CVE-2013-10008",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-10008](https://github.com/Live-Hack-CVE/CVE-2013-10008)",
+      "description": "A vulnerability was found in sheilazpy eShop. It has been classified as critical. Affected is an unknown function. The manipulation leads to sql injection. The name of the patch is e096c5849c4dc09e1074104531014a62a5413884. It is recommended to apply a patch to fix this issue. The identifier of this vulnerability is VDB CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T23:40:23Z"
+    },
+    {
+      "cve_id": "CVE-2013-10005",
+      "repo_info": "[Live-Hack-CVE/CVE-2013-10005](https://github.com/Live-Hack-CVE/CVE-2013-10005)",
+      "description": "The RemoteAddr and LocalAddr methods on the returned net.Conn may call themselves, leading to an infinite loop which will crash the program due to a stack overflow. CVE project by @Sn0wAlice",
+      "date": "2023-01-06",
+      "raw_date": "2023-01-06T16:02:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.977851",
+  "metadata": {
+    "total_cves": 134,
+    "date_range": "2023-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

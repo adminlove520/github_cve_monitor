@@ -1,0 +1,20 @@
+{
+  "date": "2015-06-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[kelleykong/cve-2014-6271-mengjia-kong](https://github.com/kelleykong/cve-2014-6271-mengjia-kong)",
+      "description": "system reading course",
+      "date": "2015-06-06",
+      "raw_date": "2015-06-06T03:27:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.645069",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-06-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

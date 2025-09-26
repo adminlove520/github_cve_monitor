@@ -1,0 +1,69 @@
+{
+  "date": "2024-08-29",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7646",
+      "repo_info": "[r0binak/CVE-2024-7646](https://github.com/r0binak/CVE-2024-7646)",
+      "description": "PoC CVE-2024-7646",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T19:10:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-7029",
+      "repo_info": "[K3ysTr0K3R/CVE-2024-7029-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2024-7029-EXPLOIT)",
+      "description": "no description",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T16:52:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-6769",
+      "repo_info": "[fortra/CVE-2024-6769](https://github.com/fortra/CVE-2024-6769)",
+      "description": "Activation cache poisoning to elevate from medium to high integrity (CVE-2024-6769)",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T16:40:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[identity-threat-labs/Article-RegreSSHion-CVE-2024-6387](https://github.com/identity-threat-labs/Article-RegreSSHion-CVE-2024-6387)",
+      "description": "In an era where digital security is crucial, a new vulnerability in OpenSSH, identified as CVE-2024-6387, has drawn the attention of system administrators and security professionals worldwide. Named &quot;regreSSHion,&quot; this severe security flaw allows remote code execution (RCE) and could significant threat to the integrity of vulnerable systems.",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T15:00:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-5274",
+      "repo_info": "[mistymntncop/CVE-2024-5274](https://github.com/mistymntncop/CVE-2024-5274)",
+      "description": "no description",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T11:58:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-25641",
+      "repo_info": "[StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26](https://github.com/StopThatTalace/CVE-2024-25641-CACTI-RCE-1.2.26)",
+      "description": "Fully automated PoC - CVE-2024-25641 - RCE - Cacti &lt; v1.2.26 🌵",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T06:27:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[LuisMateo1/Arbitrary-File-Read-CVE-2024-24919](https://github.com/LuisMateo1/Arbitrary-File-Read-CVE-2024-24919)",
+      "description": "no description",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T12:59:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[NasrallahBaadi/CVE-2019-15107](https://github.com/NasrallahBaadi/CVE-2019-15107)",
+      "description": "CVE-2019-15107 Webmin unauthenticated RCE",
+      "date": "2024-08-29",
+      "raw_date": "2024-08-29T13:58:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.106648",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2024-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

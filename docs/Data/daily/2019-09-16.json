@@ -1,0 +1,20 @@
+{
+  "date": "2019-09-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-12613",
+      "repo_info": "[ivanitlearning/CVE-2018-12613](https://github.com/ivanitlearning/CVE-2018-12613)",
+      "description": "Modified standalone exploit ported for Python 3",
+      "date": "2019-09-16",
+      "raw_date": "2019-09-16T12:14:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.787089",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-09-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2022-06-12",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-32013",
+      "repo_info": "[heavenswill/CVE-2022-32013](https://github.com/heavenswill/CVE-2022-32013)",
+      "description": "no description",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T13:15:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-31983",
+      "repo_info": "[mel1huc4r/CVE-2022-31983](https://github.com/mel1huc4r/CVE-2022-31983)",
+      "description": "no description",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T14:59:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-30525",
+      "repo_info": "[furkanzengin/CVE-2022-30525](https://github.com/furkanzengin/CVE-2022-30525)",
+      "description": "A OS Command Injection Vulnerability in the CGI Program of Zyxel",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T19:04:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-30190",
+      "repo_info": "[SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code](https://github.com/SrCroqueta/CVE-2022-30190_Temporary_Fix_Source_Code)",
+      "description": "These are the source codes of the Python scripts to apply the temporary protection against the CVE-2022-30190 vulnerability (Follina)",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T11:48:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Chocapikk/CVE-2022-26134](https://github.com/Chocapikk/CVE-2022-26134)",
+      "description": "CVE-2022-26134 - Confluence Pre-Auth Remote Code Execution via OGNL Injection",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T22:40:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[trhacknon/CVE-2022-26134-bis](https://github.com/trhacknon/CVE-2022-26134-bis)",
+      "description": "no description",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T21:26:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[trhacknon/CVE-2022-26134](https://github.com/trhacknon/CVE-2022-26134)",
+      "description": "no description",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T20:24:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-24087",
+      "repo_info": "[seymanurmutlu/CVE-2022-24086-CVE-2022-24087](https://github.com/seymanurmutlu/CVE-2022-24086-CVE-2022-24087)",
+      "description": "no description",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T19:54:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[1SeaMy/CVE-2022-22954](https://github.com/1SeaMy/CVE-2022-22954)",
+      "description": "I&#x27;m trying",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T21:41:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-22718",
+      "repo_info": "[ahmetfurkans/CVE-2022-22718](https://github.com/ahmetfurkans/CVE-2022-22718)",
+      "description": "no description",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T20:18:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-21449",
+      "repo_info": "[fundaergn/CVE-2022-21449](https://github.com/fundaergn/CVE-2022-21449)",
+      "description": "CVE 2022-21449",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T19:41:48Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[ra890927/Log4Shell-CVE-2121-44228-Demo](https://github.com/ra890927/Log4Shell-CVE-2121-44228-Demo)",
+      "description": "Log4Shell CVE-2021-44228 Demo",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T10:57:07Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[T-Guerrero/axios-redos](https://github.com/T-Guerrero/axios-redos)",
+      "description": "Axios Redos (CVE-2021-3749) proof of concept",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T03:06:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-15231",
+      "repo_info": "[NullBrunk/Webmin-RCE](https://github.com/NullBrunk/Webmin-RCE)",
+      "description": "Python3 code to exploit CVE-2019-15107 and CVE-2019-15231",
+      "date": "2022-06-12",
+      "raw_date": "2022-06-12T15:31:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.898990",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2022-06-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2018-09-27",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-9075",
+      "repo_info": "[beverlymiller818/cve-2018-9075](https://github.com/beverlymiller818/cve-2018-9075)",
+      "description": "no description",
+      "date": "2018-09-27",
+      "raw_date": "2018-09-27T17:58:00Z"
+    },
+    {
+      "cve_id": "CVE-2014-7911",
+      "repo_info": "[dangtunguyen/TowelRoot](https://github.com/dangtunguyen/TowelRoot)",
+      "description": "Gain root privilege by exploiting CVE-2014-3153 vulnerability",
+      "date": "2018-09-27",
+      "raw_date": "2018-09-27T03:16:15Z"
+    },
+    {
+      "cve_id": "CVE-2007-4607",
+      "repo_info": "[joeyrideout/CVE-2007-4607](https://github.com/joeyrideout/CVE-2007-4607)",
+      "description": "Make CVE-2007-4607 exploitable again!",
+      "date": "2018-09-27",
+      "raw_date": "2018-09-27T02:22:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.753144",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-09-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

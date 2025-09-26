@@ -1,0 +1,62 @@
+{
+  "date": "2023-05-11",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-28772",
+      "repo_info": "[Satheesh575555/linux-4.1.15_CVE-2023-28772](https://github.com/Satheesh575555/linux-4.1.15_CVE-2023-28772)",
+      "description": "no description",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T10:46:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-28772",
+      "repo_info": "[Trinadh465/linux-4.1.15_CVE-2023-28772](https://github.com/Trinadh465/linux-4.1.15_CVE-2023-28772)",
+      "description": "no description",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T07:47:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-28772",
+      "repo_info": "[hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu](https://github.com/hheeyywweellccoommee/linux-4.1.15_CVE-2023-28772-ipchu)",
+      "description": "no description",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T01:00:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-23638",
+      "repo_info": "[YYHYlh/Apache-Dubbo-CVE-2023-23638-exp](https://github.com/YYHYlh/Apache-Dubbo-CVE-2023-23638-exp)",
+      "description": "Apache Dubbo (CVE-2023-23638)漏洞利用的工程化实践",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T07:37:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-0461",
+      "repo_info": "[nidhi7598/linux-4.19.72_CVE-2023-0461](https://github.com/nidhi7598/linux-4.19.72_CVE-2023-0461)",
+      "description": "no description",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T05:21:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-0461",
+      "repo_info": "[hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd](https://github.com/hheeyywweellccoommee/linux-4.19.72_CVE-2023-0461-ycnbd)",
+      "description": "no description",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T01:00:45Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[mutur4/CVE-2021-3156](https://github.com/mutur4/CVE-2021-3156)",
+      "description": "no description",
+      "date": "2023-05-11",
+      "raw_date": "2023-05-11T19:38:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.027177",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

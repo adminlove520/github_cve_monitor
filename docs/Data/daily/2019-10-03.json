@@ -1,0 +1,34 @@
+{
+  "date": "2019-10-03",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[dorkerdevil/CVE-2019-11932](https://github.com/dorkerdevil/CVE-2019-11932)",
+      "description": "double-free bug in WhatsApp exploit poc",
+      "date": "2019-10-03",
+      "raw_date": "2019-10-03T09:26:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-11932",
+      "repo_info": "[viz27/Libssh2-Exploit](https://github.com/viz27/Libssh2-Exploit)",
+      "description": "Create an exploit to libssh2 vulnerabulity described in CVE-2019-13115",
+      "date": "2019-10-03",
+      "raw_date": "2019-10-03T17:26:08Z"
+    },
+    {
+      "cve_id": "CVE-2018-8453",
+      "repo_info": "[hpcprofessional/remediate_cesa_2019_2091](https://github.com/hpcprofessional/remediate_cesa_2019_2091)",
+      "description": "Remediation task for CVE-2018-15686, CVE-2018-16866, and CVE-2018-16888 affecting SystemD in EL7",
+      "date": "2019-10-03",
+      "raw_date": "2019-10-03T21:26:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.788704",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2019-10-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "date": "2025-01-06",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-22352",
+      "repo_info": "[DoTTak/CVE-2025-22352](https://github.com/DoTTak/CVE-2025-22352)",
+      "description": "PoC of CVE-2025-22352",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T01:59:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-56512",
+      "repo_info": "[absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit](https://github.com/absholi7ly/CVE-2024-56512-Apache-NiFi-Exploit)",
+      "description": "A tool to exploit the CVE-2024-56512  vulnerability in Apache NiFi, which allows unauthorized access to sensitive data through improperly secured APIs.",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T17:35:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-56289",
+      "repo_info": "[DoTTak/CVE-2024-56289](https://github.com/DoTTak/CVE-2024-56289)",
+      "description": "PoC of CVE-2024-56289",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T01:58:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-56278",
+      "repo_info": "[DoTTak/CVE-2024-56278](https://github.com/DoTTak/CVE-2024-56278)",
+      "description": "PoC of CVE-2024-56278",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T01:51:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-49113",
+      "repo_info": "[Sachinart/CVE-2024-49113-Checker](https://github.com/Sachinart/CVE-2024-49113-Checker)",
+      "description": "Hi, This is to check targets vulnerable for CVE-2024-49113 in bulk, faster.",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T11:59:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-34327",
+      "repo_info": "[0xsu3ks/CVE-2024-34327](https://github.com/0xsu3ks/CVE-2024-34327)",
+      "description": "no description",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T21:39:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-12594",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12594](https://github.com/RandomRobbieBF/CVE-2024-12594)",
+      "description": "ALL In One Custom Login Page &lt;= 7.1.1 - Missing Authorization to Authenticated (Subscriber+)Privilege Escalation",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T11:05:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-12558",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12558](https://github.com/RandomRobbieBF/CVE-2024-12558)",
+      "description": "WP BASE Booking of Appointments, Services and Events &lt;= 4.9.2 - Missing Authorization to Authenticated (Subscriber+) Sensitive Information Exposure via app_export_db",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T10:45:29Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[GroundCTL2MajorTom/CVE-2023-51385P-POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385P-POC)",
+      "description": "no description",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T03:13:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[GroundCTL2MajorTom/CVE-2023-51385POC](https://github.com/GroundCTL2MajorTom/CVE-2023-51385POC)",
+      "description": "no description",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T02:44:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-41425",
+      "repo_info": "[samu21req/CVE-2023-41425](https://github.com/samu21req/CVE-2023-41425)",
+      "description": "no description",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T19:38:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-35489",
+      "repo_info": "[gh202503/poc-cve-2020-35489](https://github.com/gh202503/poc-cve-2020-35489)",
+      "description": "poc-CVE-2020-35489",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T20:45:48Z"
+    },
+    {
+      "cve_id": "CVE-2014-3704",
+      "repo_info": "[RasmusKnothNielsen/Drupalgeddon-Python3](https://github.com/RasmusKnothNielsen/Drupalgeddon-Python3)",
+      "description": "An rewritten POC on the CVE-2014-3704",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T20:04:24Z"
+    },
+    {
+      "cve_id": "CVE-2004-1151",
+      "repo_info": "[lulugelian/CVE_2004_1151](https://github.com/lulugelian/CVE_2004_1151)",
+      "description": "CVE_2004_1151",
+      "date": "2025-01-06",
+      "raw_date": "2025-01-06T12:46:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.128663",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

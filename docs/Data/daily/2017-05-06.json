@@ -1,0 +1,27 @@
+{
+  "date": "2017-05-06",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8295",
+      "repo_info": "[cyberheartmi9/CVE-2017-8295](https://github.com/cyberheartmi9/CVE-2017-8295)",
+      "description": "no description",
+      "date": "2017-05-06",
+      "raw_date": "2017-05-06T09:51:01Z"
+    },
+    {
+      "cve_id": "CVE-2017-5689",
+      "repo_info": "[haxrob/amthoneypot](https://github.com/haxrob/amthoneypot)",
+      "description": "Honeypot for Intel&#x27;s AMT Firmware Vulnerability CVE-2017-5689",
+      "date": "2017-05-06",
+      "raw_date": "2017-05-06T15:35:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.706731",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-05-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

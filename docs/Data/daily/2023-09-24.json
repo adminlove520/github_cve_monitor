@@ -1,0 +1,104 @@
+{
+  "date": "2023-09-24",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4800",
+      "repo_info": "[b0marek/CVE-2023-4800](https://github.com/b0marek/CVE-2023-4800)",
+      "description": "Repository for CVE-2023-4800 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T12:11:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-4631",
+      "repo_info": "[b0marek/CVE-2023-4631](https://github.com/b0marek/CVE-2023-4631)",
+      "description": "Repository for CVE-2023-4631 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T08:38:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-4549",
+      "repo_info": "[b0marek/CVE-2023-4549](https://github.com/b0marek/CVE-2023-4549)",
+      "description": "Repository for CVE-2023-4549 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T11:57:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-4294",
+      "repo_info": "[b0marek/CVE-2023-4294](https://github.com/b0marek/CVE-2023-4294)",
+      "description": "Repository for CVE-2023-4294 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T10:16:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-4281",
+      "repo_info": "[b0marek/CVE-2023-4281](https://github.com/b0marek/CVE-2023-4281)",
+      "description": "Repository for CVE-2023-4281 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T12:21:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-4279",
+      "repo_info": "[b0marek/CVE-2023-4279](https://github.com/b0marek/CVE-2023-4279)",
+      "description": "Repository for CVE-2023-4279 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T08:26:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-42426",
+      "repo_info": "[b0marek/CVE-2023-42426](https://github.com/b0marek/CVE-2023-42426)",
+      "description": "Repository for CVE-2023-42426 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T07:34:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-42413",
+      "repo_info": "[chenghao-hao/cve-2023-42413](https://github.com/chenghao-hao/cve-2023-42413)",
+      "description": "ecology_9_sql",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T06:17:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-36844",
+      "repo_info": "[r3dcl1ff/CVE-2023-36844_Juniper_RCE](https://github.com/r3dcl1ff/CVE-2023-36844_Juniper_RCE)",
+      "description": "A Proof of Concept for chaining the CVEs [CVE-2023-36844, CVE-2023-36845, CVE-2023-36846, CVE-2023-36847] to achieve Remote Code Execution (phpinfo) in Juniper JunOS within SRX and EX Series products.Modified from original exploit developed by @watchTowr .",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T13:30:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-29360",
+      "repo_info": "[Nero22k/cve-2023-29360](https://github.com/Nero22k/cve-2023-29360)",
+      "description": "Exploit for CVE-2023-29360 targeting MSKSSRV.SYS driver",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T21:59:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-0157",
+      "repo_info": "[b0marek/CVE-2023-0157](https://github.com/b0marek/CVE-2023-0157)",
+      "description": "Repository for CVE-2023-0157 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T08:20:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-0156",
+      "repo_info": "[b0marek/CVE-2023-0156](https://github.com/b0marek/CVE-2023-0156)",
+      "description": "Repository for CVE-2023-0156 vulnerability.",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T08:10:31Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[Pab450/CVE-2018-9995](https://github.com/Pab450/CVE-2018-9995)",
+      "description": "CVE-2018-9995 Exploit Tool for Python3",
+      "date": "2023-09-24",
+      "raw_date": "2023-09-24T17:00:37Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.047806",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2023-09-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

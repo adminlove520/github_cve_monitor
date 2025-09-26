@@ -1,0 +1,34 @@
+{
+  "date": "2020-11-17",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-3396",
+      "repo_info": "[yuehanked/cve-2019-3396](https://github.com/yuehanked/cve-2019-3396)",
+      "description": "windows.vm",
+      "date": "2020-11-17",
+      "raw_date": "2020-11-17T02:01:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-8174",
+      "repo_info": "[baldassarreFe/FEP3370-advanced-ethical-hacking](https://github.com/baldassarreFe/FEP3370-advanced-ethical-hacking)",
+      "description": "DHCP exploitation with DynoRoot (CVE-2018-1111)",
+      "date": "2020-11-17",
+      "raw_date": "2020-11-17T19:10:29Z"
+    },
+    {
+      "cve_id": "CVE-2017-9805",
+      "repo_info": "[wilfred-wulbou/HG532d-RCE-Exploit](https://github.com/wilfred-wulbou/HG532d-RCE-Exploit)",
+      "description": "A Remote Code Execution (RCE) exploit for Huawei HG532d based on CVE-2017-17215 vulnerability. Modded from original PoC code from exploit-db.com",
+      "date": "2020-11-17",
+      "raw_date": "2020-11-17T11:22:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.829729",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-11-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

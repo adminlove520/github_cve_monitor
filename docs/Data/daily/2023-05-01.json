@@ -1,0 +1,76 @@
+{
+  "date": "2023-05-01",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-32784",
+      "repo_info": "[vdohney/keepass-password-dumper](https://github.com/vdohney/keepass-password-dumper)",
+      "description": "Original PoC for CVE-2023-32784",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T17:08:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-27742",
+      "repo_info": "[G37SYS73M/CVE-2023-27742](https://github.com/G37SYS73M/CVE-2023-27742)",
+      "description": "IDURAR ERP/CRM v1 was discovered to contain a SQL injection vulnerability via the component /api/login.",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T03:35:53Z"
+    },
+    {
+      "cve_id": "CVE-2023-23169",
+      "repo_info": "[S4nshine/CVE-2023-23169](https://github.com/S4nshine/CVE-2023-23169)",
+      "description": "no description",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T10:06:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-23169",
+      "repo_info": "[whalebone7/EagleEye](https://github.com/whalebone7/EagleEye)",
+      "description": "To filter the actual vulnerable URLs from the screenshots, you can use the ee.sh script. Simply run ./ee.sh -f &quot;path/to/index_screenshot.txt&quot; -k &quot;hacked&quot; and the script will filter the URLs that contain the reflective XSS payload (For Example: cPanel CVE-2023-29489 ) in their screenshots.",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T03:29:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-46718",
+      "repo_info": "[biscuitehh/cve-2022-46718-leaky-location](https://github.com/biscuitehh/cve-2022-46718-leaky-location)",
+      "description": "CVE-2022-46718: an app may be able to read sensitive location information.",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T18:34:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[FredBrave/CVE-2022-46169-CACTI-1.2.22](https://github.com/FredBrave/CVE-2022-46169-CACTI-1.2.22)",
+      "description": "This is a exploit of CVE-2022-46169 to cacti 1.2.22. This exploit allows through an RCE to obtain a reverse shell on your computer.",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T20:00:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[Ruycraft1514/CVE-2022-46169](https://github.com/Ruycraft1514/CVE-2022-46169)",
+      "description": "Exploit for cacti version 1.2.22",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T14:29:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-3129",
+      "repo_info": "[Zoo1sondv/CVE-2021-3129](https://github.com/Zoo1sondv/CVE-2021-3129)",
+      "description": "no description",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T03:20:13Z"
+    },
+    {
+      "cve_id": "CVE-2017-8464",
+      "repo_info": "[tuankiethkt020/Phat-hien-CVE-2017-8464](https://github.com/tuankiethkt020/Phat-hien-CVE-2017-8464)",
+      "description": "no description",
+      "date": "2023-05-01",
+      "raw_date": "2023-05-01T14:59:04Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.025622",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-05-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

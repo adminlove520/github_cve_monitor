@@ -1,0 +1,111 @@
+{
+  "date": "2025-02-04",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-26159",
+      "repo_info": "[godBADTRY/CVE-2025-26159](https://github.com/godBADTRY/CVE-2025-26159)",
+      "description": "This script decodes, filters, and extracts cookies as part of the exploitation of CVE-2025-26159.",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T11:37:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-22652",
+      "repo_info": "[DoTTak/CVE-2025-22652](https://github.com/DoTTak/CVE-2025-22652)",
+      "description": "PoC of CVE-2025-22652",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T05:39:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-57610",
+      "repo_info": "[nca785/CVE-2024-57610](https://github.com/nca785/CVE-2024-57610)",
+      "description": "Lack of Rate Limiting in Sylius v2.0.2",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T17:49:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-57609",
+      "repo_info": "[nca785/CVE-2024-57609](https://github.com/nca785/CVE-2024-57609)",
+      "description": "Open Redirect Vulnerability in Kanaries",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T17:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-57430",
+      "repo_info": "[ahrixia/CVE-2024-57430](https://github.com/ahrixia/CVE-2024-57430)",
+      "description": "CVE-2024-57430: PHPJabbers Cinema Booking System v2.0 is vulnerable to SQL injection, leading to unauthorized data access and privilege escalation.",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T11:14:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-57429",
+      "repo_info": "[ahrixia/CVE-2024-57429](https://github.com/ahrixia/CVE-2024-57429)",
+      "description": "CVE-2024-57429: PHPJabbers Cinema Booking System v2.0 is vulnerable to CSRF, allowing attackers to escalate privileges by forging requests on behalf of an admin.",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T11:14:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-57428",
+      "repo_info": "[ahrixia/CVE-2024-57428](https://github.com/ahrixia/CVE-2024-57428)",
+      "description": "CVE-2024-57428: PHPJabbers Cinema Booking System v2.0 suffers from stored XSS, enabling persistent JavaScript injection for phishing and malware attacks.",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T11:14:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-57427",
+      "repo_info": "[ahrixia/CVE-2024-57427](https://github.com/ahrixia/CVE-2024-57427)",
+      "description": "CVE-2024-57427: PHPJabbers Cinema Booking System v2.0 is vulnerable to reflected XSS, allowing session hijacking and phishing attacks.",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T11:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-2961",
+      "repo_info": "[suce0155/CVE-2024-2961_buddyforms_2.7.7](https://github.com/suce0155/CVE-2024-2961_buddyforms_2.7.7)",
+      "description": "CVE-2024-2961 Cnext RCE Exploit with Buddyforms 2.7.7",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T13:34:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-12542",
+      "repo_info": "[Nxploited/CVE-2024-12542-PoC](https://github.com/Nxploited/CVE-2024-12542-PoC)",
+      "description": "no description",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T01:08:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-26136",
+      "repo_info": "[dani33339/tough-cookie-Seal-Security](https://github.com/dani33339/tough-cookie-Seal-Security)",
+      "description": "CVE-2023-26136 vulnerability research",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T10:58:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-26136",
+      "repo_info": "[dani33339/tough-cookie-SealSecurity](https://github.com/dani33339/tough-cookie-SealSecurity)",
+      "description": "CVE-2023-26136 vulnerability research",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T22:33:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[qw3rtyou/CVE-2021-44228_dockernize](https://github.com/qw3rtyou/CVE-2021-44228_dockernize)",
+      "description": "no description",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T10:02:01Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[llccd/TempRoot-Huawei](https://github.com/llccd/TempRoot-Huawei)",
+      "description": "CVE-2019-2215 poc for Huawei hardened kernel",
+      "date": "2025-02-04",
+      "raw_date": "2025-02-04T08:58:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.133412",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-02-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

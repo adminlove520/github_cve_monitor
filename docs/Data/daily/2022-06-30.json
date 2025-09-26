@@ -1,0 +1,76 @@
+{
+  "date": "2022-06-30",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-29885",
+      "repo_info": "[quynhlab/CVE-2022-29885](https://github.com/quynhlab/CVE-2022-29885)",
+      "description": "Apache Tomcat CVE-2022-29885",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T16:09:25Z"
+    },
+    {
+      "cve_id": "CVE-2022-25845",
+      "repo_info": "[efchatz/QUIC-attacks](https://github.com/efchatz/QUIC-attacks)",
+      "description": "Attacks against QUIC (CVE 2022 30591)",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T18:25:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[Asbatel/CBDS_CVE-2022-0847_POC](https://github.com/Asbatel/CBDS_CVE-2022-0847_POC)",
+      "description": "no description",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T13:07:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022](https://github.com/AZMagic/Jpg-Png-Exploit-Downloader-Fud-Cryter-Malware-Builder-Cve-2022)",
+      "description": "We have collectively determined that these vulnerabilities are available to individuals other than the person(s) who discovered them. An unknowable number of people having access to these vulnerabilities makes this a critical issue for everyone using this software.About CVE CVE was launched in 1999 when most information security tools used their own databases with their own names for security vulnerabilities. At that time there was no significant variation among products and no easy way to determine when the different databases were referring to the same problem.Our Developers Our Developer team is highly experienced in various languages and can deliver quality software Exploit JPG fast &amp; reliably. Efficiency is guaranteed.",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T19:57:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[themarkin/Hta-Exploit-Downloader-Malware-Builder](https://github.com/themarkin/Hta-Exploit-Downloader-Malware-Builder)",
+      "description": "Features: -Include silent doc exploit -Several exploits, most are sendable via GMail -Compatible with every rat/keylogger/worm -Compatible with Windows XP - Windows 10 32/64 -FUD (DOC CHM) -Works with every MS Office from 2007 to 2016 (excluding Starter edition - there&#x27;s no macro support) -Startup -base64 encode",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T19:56:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022](https://github.com/AZMagic/Discord-Image-Token-Password-Grabber-Exploit-Cve-2022)",
+      "description": "Get system info (Version, CPU, GPU, RAM, IPs, BSSID, Location, Screen metrics, Installed apps)  Chromium based browsers (passwords, credit cards, cookies, history, autofill, bookmarks)  Firefox based browsers (db files, cookies, history, bookmarks) Internet explorer/Edge (passwords)  Saved wifi networks &amp; scan networks around device (SSID, BSSID) s File grabber (Documents, Images, Source codes, Databases, USB)  Detect banking &amp; cryptocurrency services in browsers  Steam, Uplay, Battle.Net, Minecraft session  Install keylogger &amp; clipper  Desktop &amp; Webcam screenshot",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T19:56:11Z"
+    },
+    {
+      "cve_id": "CVE-2021-42237",
+      "repo_info": "[vesperp/CVE-2021-42237-SiteCore-XP](https://github.com/vesperp/CVE-2021-42237-SiteCore-XP)",
+      "description": "no description",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T10:44:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-23017",
+      "repo_info": "[M507/CVE-2021-23017-PoC](https://github.com/M507/CVE-2021-23017-PoC)",
+      "description": "0.6.18 - 1.20.0 Nginx Memory Overwrite Vulnerability PoC",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T04:39:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-26413",
+      "repo_info": "[Kento-Sec/GitLab-Graphql-CVE-2020-26413](https://github.com/Kento-Sec/GitLab-Graphql-CVE-2020-26413)",
+      "description": "GitLab-Graphql-CVE-2020-26413 POC",
+      "date": "2022-06-30",
+      "raw_date": "2022-06-30T06:29:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.901661",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-06-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

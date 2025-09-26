@@ -1,0 +1,125 @@
+{
+  "date": "2024-11-01",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9263",
+      "repo_info": "[Jaden1419/CVE-2024-9263](https://github.com/Jaden1419/CVE-2024-9263)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T17:21:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-6473",
+      "repo_info": "[12345qwert123456/CVE-2024-6473-PoC](https://github.com/12345qwert123456/CVE-2024-6473-PoC)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T11:42:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-48904",
+      "repo_info": "[famixcm/CVE-2024-48904](https://github.com/famixcm/CVE-2024-48904)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T14:52:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-48217",
+      "repo_info": "[ajrielrm/CVE-2024-48217](https://github.com/ajrielrm/CVE-2024-48217)",
+      "description": "CVE-2024-48217 Sismart Vulnerability",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T04:44:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-48217",
+      "repo_info": "[m3ssap0/wordpress-jetpack-broken-access-control-exploit](https://github.com/m3ssap0/wordpress-jetpack-broken-access-control-exploit)",
+      "description": "Exploits Jetpack &lt; 13.9.1 broken access control (CVE-2024-9926).",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T14:03:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[krmxd/CVE-2024-47575](https://github.com/krmxd/CVE-2024-47575)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T13:52:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-47575",
+      "repo_info": "[Fruktolzzz/CVE-2024-47575](https://github.com/Fruktolzzz/CVE-2024-47575)",
+      "description": "CVE-2024-47575: FortiManager Missing Authentication",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T13:04:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-45492",
+      "repo_info": "[nidhihcl75/external_expat_2.6.2_CVE-2024-45492](https://github.com/nidhihcl75/external_expat_2.6.2_CVE-2024-45492)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T10:27:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-38821",
+      "repo_info": "[zetraxz/CVE-2024-38821](https://github.com/zetraxz/CVE-2024-38821)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T15:03:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-38249",
+      "repo_info": "[Jaden1419/CVE-2024-38249](https://github.com/Jaden1419/CVE-2024-38249)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T16:19:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[zgimszhd61/CVE-2024-23897-poc](https://github.com/zgimszhd61/CVE-2024-23897-poc)",
+      "description": "CVE-2024-23897是一个影响Jenkins的严重安全漏洞",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T01:16:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-1071",
+      "repo_info": "[Spid3heX/CVE-2024-1071-PoC-Script](https://github.com/Spid3heX/CVE-2024-1071-PoC-Script)",
+      "description": "wp/ultimate-member  -  SQL Injection Vulnerability Exploit Script.",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T14:57:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-46747",
+      "repo_info": "[zgimszhd61/CVE-2023-46747-RCE-poc](https://github.com/zgimszhd61/CVE-2023-46747-RCE-poc)",
+      "description": "no description",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T01:52:51Z"
+    },
+    {
+      "cve_id": "CVE-2021-26690",
+      "repo_info": "[7own/CVE-2021-26690---Apache-mod_session](https://github.com/7own/CVE-2021-26690---Apache-mod_session)",
+      "description": "CVE-2021-26690 patch diffing - Apache HTTP mod_session NULL pointer dereference",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T16:51:23Z"
+    },
+    {
+      "cve_id": "CVE-2015-9251",
+      "repo_info": "[moften/CVE-2015-9251](https://github.com/moften/CVE-2015-9251)",
+      "description": "PoC para CVE-2015-9251 jQuery menor a 3.0.0.",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T16:02:04Z"
+    },
+    {
+      "cve_id": "CVE-2014-0195",
+      "repo_info": "[PezwariNaan/CVE-2014-0195](https://github.com/PezwariNaan/CVE-2014-0195)",
+      "description": "Exploit for CVE-2014-0195",
+      "date": "2024-11-01",
+      "raw_date": "2024-11-01T19:46:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.117272",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2024-11-01",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

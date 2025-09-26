@@ -1,0 +1,20 @@
+{
+  "date": "2014-09-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2013-2094",
+      "repo_info": "[dani87/ntpscanner](https://github.com/dani87/ntpscanner)",
+      "description": "Scans NTP servers for CVE-2013-5211 NTP DDOS amplification vulnerability.",
+      "date": "2014-09-07",
+      "raw_date": "2014-09-07T16:02:25Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.621239",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2014-09-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

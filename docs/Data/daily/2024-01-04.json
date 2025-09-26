@@ -1,0 +1,76 @@
+{
+  "date": "2024-01-04",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-6553",
+      "repo_info": "[julienbrs/exploit-CVE-2023-6553](https://github.com/julienbrs/exploit-CVE-2023-6553)",
+      "description": "no description",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T14:33:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-6553",
+      "repo_info": "[D0g3-8Bit/OFBiz-Attack](https://github.com/D0g3-8Bit/OFBiz-Attack)",
+      "description": "A Tool For CVE-2023-49070/CVE-2023-51467 Attack",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T12:31:49Z"
+    },
+    {
+      "cve_id": "CVE-2023-51467",
+      "repo_info": "[Subha-BOO7/Exploit_CVE-2023-51467](https://github.com/Subha-BOO7/Exploit_CVE-2023-51467)",
+      "description": "no description",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T12:44:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-3460",
+      "repo_info": "[julienbrs/exploit-CVE-2023-3460](https://github.com/julienbrs/exploit-CVE-2023-3460)",
+      "description": "no description",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T22:43:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-27163",
+      "repo_info": "[Rubioo02/CVE-2023-27163](https://github.com/Rubioo02/CVE-2023-27163)",
+      "description": "A exploit for the CVE-2023-27163 (SSRF) vulnerability in the web application request-baskets (&lt;= v.1.2.1)",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T14:46:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[p4ncontomat3/CVE-2022-21661](https://github.com/p4ncontomat3/CVE-2022-21661)",
+      "description": "Script to validate WordPress CVE-2022-21661",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T15:49:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[cdxiaodong/CVE-2021-4034-touch](https://github.com/cdxiaodong/CVE-2021-4034-touch)",
+      "description": "touch 生成文件",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T07:43:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-26855",
+      "repo_info": "[timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt](https://github.com/timb-machine-mirrors/testanull-CVE-2021-26855_read_poc.txt)",
+      "description": "Clone from gist",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T22:48:21Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[Xewdy444/Netgrave](https://github.com/Xewdy444/Netgrave)",
+      "description": "A tool for retrieving login credentials from Netwave IP cameras using a memory dump vulnerability (CVE-2018-17240)",
+      "date": "2024-01-04",
+      "raw_date": "2024-01-04T21:44:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.064574",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-01-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

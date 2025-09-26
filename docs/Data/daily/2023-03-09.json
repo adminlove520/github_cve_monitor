@@ -1,0 +1,104 @@
+{
+  "date": "2023-03-09",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[GhostToKnow/CVE-2023-23752](https://github.com/GhostToKnow/CVE-2023-23752)",
+      "description": "开源，go多并发批量探测poc，准确率高",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T07:32:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[gibran-abdillah/CVE-2023-23752](https://github.com/gibran-abdillah/CVE-2023-23752)",
+      "description": "Bulk scanner + get config from CVE-2023-23752",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T07:42:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-22551",
+      "repo_info": "[viswagb/CVE-2023-22551](https://github.com/viswagb/CVE-2023-22551)",
+      "description": "Reproduce CVE-2023-22551",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T04:47:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-47986",
+      "repo_info": "[mauricelambert/CVE-2022-47986](https://github.com/mauricelambert/CVE-2022-47986)",
+      "description": "CVE-2022-47986: Python, Ruby, NMAP and Metasploit modules to exploit the vulnerability.",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T22:03:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-4395",
+      "repo_info": "[MrG3P5/CVE-2022-4395](https://github.com/MrG3P5/CVE-2022-4395)",
+      "description": "Mass Auto Exploit CVE-2022-4395 Unauthenticated Arbitrary File Upload",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T12:35:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-37969",
+      "repo_info": "[fortra/CVE-2022-37969](https://github.com/fortra/CVE-2022-37969)",
+      "description": "Windows LPE exploit for CVE-2022-37969",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T21:17:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-2588",
+      "repo_info": "[dom4570/CVE-2022-2588](https://github.com/dom4570/CVE-2022-2588)",
+      "description": "no description",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T21:29:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-24637",
+      "repo_info": "[Pflegusch/CVE-2022-24637](https://github.com/Pflegusch/CVE-2022-24637)",
+      "description": "Open Web Analytics 1.7.3 - Remote Code Execution",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T10:40:24Z"
+    },
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[sei-fish/CVE-2021-22205](https://github.com/sei-fish/CVE-2021-22205)",
+      "description": "no description",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T11:53:37Z"
+    },
+    {
+      "cve_id": "CVE-2021-1732",
+      "repo_info": "[fenasal/CVE-2021-1732](https://github.com/fenasal/CVE-2021-1732)",
+      "description": "CVE-­2021­-1732 Microsoft Windows 10 本地提权漏 研究及Poc/Exploit开发",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T07:14:45Z"
+    },
+    {
+      "cve_id": "CVE-2020-35391",
+      "repo_info": "[H454NSec/CVE-2020-35391](https://github.com/H454NSec/CVE-2020-35391)",
+      "description": "Tenda f3 Malformed HTTP Request Header Processing Vulnerability.",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T15:36:22Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[wenruoya/CVE-2019-15107](https://github.com/wenruoya/CVE-2019-15107)",
+      "description": "CVE-2019-15107测试程序",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T14:43:29Z"
+    },
+    {
+      "cve_id": "CVE-2018-15473",
+      "repo_info": "[sergiovks/SSH-User-Enum-Python3-CVE-2018-15473](https://github.com/sergiovks/SSH-User-Enum-Python3-CVE-2018-15473)",
+      "description": "SSH User Enumerator in Python3, CVE-2018-15473, I updated the code of this exploit (https://www.exploit-db.com/exploits/45939) to work with python3 instead of python2.",
+      "date": "2023-03-09",
+      "raw_date": "2023-03-09T15:23:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.017587",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2023-03-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

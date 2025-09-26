@@ -1,0 +1,146 @@
+{
+  "date": "2024-05-27",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-3515",
+      "repo_info": "[Olabanji10/Apache-GOExploiter](https://github.com/Olabanji10/Apache-GOExploiter)",
+      "description": "🛠 Exploit vulnerable Apache Tomcat servers by scanning for CVE-2025-24813 and uploading files with this Go-based toolkit.",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T22:12:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-5084",
+      "repo_info": "[Chocapikk/CVE-2024-5084](https://github.com/Chocapikk/CVE-2024-5084)",
+      "description": "Hash Form – Drag &amp; Drop Form Builder &lt;= 1.1.0 - Unauthenticated Arbitrary File Upload to Remote Code Execution",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T20:04:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[eoslvs/CVE-2024-4956](https://github.com/eoslvs/CVE-2024-4956)",
+      "description": "no description",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T13:48:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-4956",
+      "repo_info": "[thinhap/CVE-2024-4956-PoC](https://github.com/thinhap/CVE-2024-4956-PoC)",
+      "description": "no description",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T03:09:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-3552",
+      "repo_info": "[truonghuuphuc/CVE-2024-3552-Poc](https://github.com/truonghuuphuc/CVE-2024-3552-Poc)",
+      "description": "CVE-2024-3552 Web Directory Free &lt;= 1.6.9 - Unauthenticated SQL Injection",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T15:36:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-21683",
+      "repo_info": "[phucrio/CVE-2024-21683-RCE](https://github.com/phucrio/CVE-2024-21683-RCE)",
+      "description": "no description",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T11:14:54Z"
+    },
+    {
+      "cve_id": "CVE-2024-21683",
+      "repo_info": "[ambionics/cnext-exploits](https://github.com/ambionics/cnext-exploits)",
+      "description": "Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv()",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T08:30:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-21683",
+      "repo_info": "[absholi7ly/Microsoft-Edge-Information-Disclosure](https://github.com/absholi7ly/Microsoft-Edge-Information-Disclosure)",
+      "description": "CVE-2024-30056 Microsoft Edge (Chromium-based) Information Disclosure Vulnerability",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T06:37:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-51385",
+      "repo_info": "[c0deur/CVE-2023-51385](https://github.com/c0deur/CVE-2023-51385)",
+      "description": "no description",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T19:29:55Z"
+    },
+    {
+      "cve_id": "CVE-2023-49070",
+      "repo_info": "[pulentoski/CVE-2023-51467-and-CVE-2023-49070](https://github.com/pulentoski/CVE-2023-51467-and-CVE-2023-49070)",
+      "description": "Apache OFBiz Authentication Bypass Vulnerability (CVE-2023-51467 and CVE-2023-49070)",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T01:40:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-42793",
+      "repo_info": "[junnythemarksman/CVE-2023-42793](https://github.com/junnythemarksman/CVE-2023-42793)",
+      "description": "TeamCity CVE-2023-42793 exploit written in Rust",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T03:31:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[xchg-rax-rax/CVE-2023-38646](https://github.com/xchg-rax-rax/CVE-2023-38646)",
+      "description": "Exploit for CVE-2023-38646, a pre-auth RCE in Metbase",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T19:56:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-34040",
+      "repo_info": "[huyennhat-dev/cve-2023-34040](https://github.com/huyennhat-dev/cve-2023-34040)",
+      "description": "no description",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T15:57:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-30253",
+      "repo_info": "[nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253](https://github.com/nikn0laty/Exploit-for-Dolibarr-17.0.0-CVE-2023-30253)",
+      "description": "Reverse Shell POC exploit for Dolibarr &lt;= 17.0.0 (CVE-2023-30253), PHP Code Injection",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T15:10:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-30253",
+      "repo_info": "[04Shivam/CVE-2023-30253-Exploit](https://github.com/04Shivam/CVE-2023-30253-Exploit)",
+      "description": "Poc for CVE-2023-30253",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T11:00:43Z"
+    },
+    {
+      "cve_id": "CVE-2019-10092",
+      "repo_info": "[mbadanoiu/CVE-2019-10092](https://github.com/mbadanoiu/CVE-2019-10092)",
+      "description": "CVE-2019-10092: Limited Cross-Site Scripting in &quot;Proxy Error&quot; Page",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T20:09:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-11784",
+      "repo_info": "[Cappricio-Securities/CVE-2018-11784](https://github.com/Cappricio-Securities/CVE-2018-11784)",
+      "description": "Apache Tomcat - Open Redirect",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T14:28:30Z"
+    },
+    {
+      "cve_id": "CVE-2017-5487",
+      "repo_info": "[Jhonsonwannaa/CVE-2017-5487](https://github.com/Jhonsonwannaa/CVE-2017-5487)",
+      "description": "wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php in the REST API implementation in WordPress 4.7 before 4.7.1 does not properly restrict listings of post authors, which allows remote attackers to obtain sensitive information via a wp-json/wp/v2/users request.",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T21:19:33Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[Uno13x/CVE-2011-2523-PoC](https://github.com/Uno13x/CVE-2011-2523-PoC)",
+      "description": "PoC CVE-2011-2523",
+      "date": "2024-05-27",
+      "raw_date": "2024-05-27T19:13:59Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.089236",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2024-05-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

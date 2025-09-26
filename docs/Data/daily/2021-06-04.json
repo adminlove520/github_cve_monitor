@@ -1,0 +1,27 @@
+{
+  "date": "2021-06-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-21985",
+      "repo_info": "[daedalus/CVE-2021-21985](https://github.com/daedalus/CVE-2021-21985)",
+      "description": "CVE-2021-21985 vmware 6.7-9.8 RCE",
+      "date": "2021-06-04",
+      "raw_date": "2021-06-04T01:15:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-8835",
+      "repo_info": "[digamma-ai/CVE-2020-8835-verification](https://github.com/digamma-ai/CVE-2020-8835-verification)",
+      "description": "Formal verification example for CVE-2020-8835",
+      "date": "2021-06-04",
+      "raw_date": "2021-06-04T16:15:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.852855",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-06-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

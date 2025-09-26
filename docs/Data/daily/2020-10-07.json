@@ -1,0 +1,27 @@
+{
+  "date": "2020-10-07",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-16113",
+      "repo_info": "[m4rm0k/CVE-2019-16113](https://github.com/m4rm0k/CVE-2019-16113)",
+      "description": "Bludit 3.9.2 - Remote command execution - CVE-2019-16113",
+      "date": "2020-10-07",
+      "raw_date": "2020-10-07T21:16:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-17275",
+      "repo_info": "[NatteeSetobol/Etern-blue-Windows-7-Checker](https://github.com/NatteeSetobol/Etern-blue-Windows-7-Checker)",
+      "description": "Eternal Blue is a well known SMB expliot created by the NSA to attack various versions of Windows including Windows 7. Etern-Blue-Windows-7-Checker will basically send SMB packets to a host to see if that Windows host machine is vulnerable to Eternal blue Exploit (CVE-2017-0143).",
+      "date": "2020-10-07",
+      "raw_date": "2020-10-07T06:19:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.825547",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2020-10-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

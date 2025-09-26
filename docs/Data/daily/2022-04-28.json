@@ -1,0 +1,146 @@
+{
+  "date": "2022-04-28",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-36162",
+      "repo_info": "[jbaines-r7/theway](https://github.com/jbaines-r7/theway)",
+      "description": "A tool for extracting, modifying, and crafting ASDM binary packages (CVE-2022-20829)",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T17:04:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[YavuzSahbaz/Limbas-4.3.36.1319-is-vulnerable-to-Cross-Site-Scripting-XSS-](https://github.com/YavuzSahbaz/Limbas-4.3.36.1319-is-vulnerable-to-Cross-Site-Scripting-XSS-)",
+      "description": "CVE-2022-28454",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T01:12:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-28508",
+      "repo_info": "[YavuzSahbaz/CVE-2022-28508](https://github.com/YavuzSahbaz/CVE-2022-28508)",
+      "description": "CVE-2022-28508",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T01:10:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-24449",
+      "repo_info": "[jet-pentest/CVE-2022-24449](https://github.com/jet-pentest/CVE-2022-24449)",
+      "description": "Solar Appscreener XXE",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T12:51:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-23990",
+      "repo_info": "[Satheesh575555/external_expat_AOSP10_r33_CVE-2022-23990](https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-23990)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T05:39:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-21728",
+      "repo_info": "[mwina/CVE-2022-21728-test](https://github.com/mwina/CVE-2022-21728-test)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T23:56:58Z"
+    },
+    {
+      "cve_id": "CVE-2021-45485",
+      "repo_info": "[Satheesh575555/linux-4.19.72_CVE-2021-45485](https://github.com/Satheesh575555/linux-4.19.72_CVE-2021-45485)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T07:38:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-40444",
+      "repo_info": "[RedLeavesChilde/CVE-2021-40444](https://github.com/RedLeavesChilde/CVE-2021-40444)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T02:14:10Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[digital-dev/Log4j-Remediation](https://github.com/digital-dev/Log4j-Remediation)",
+      "description": "Loops through all Log4j files and remediates CVE-2021-44228",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T23:56:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[realrodri/ExploiteameEsta](https://github.com/realrodri/ExploiteameEsta)",
+      "description": "CVE-2021-30937 vulnerability checking app",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T14:50:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-39706",
+      "repo_info": "[Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706](https://github.com/Trinadh465/packages_apps_Settings_AOSP10_r33_CVE-2021-39706)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T11:30:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-33034",
+      "repo_info": "[Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034](https://github.com/Trinadh465/device_renesas_kernel_AOSP10_r33_CVE-2021-33034)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T10:04:41Z"
+    },
+    {
+      "cve_id": "CVE-2021-24507",
+      "repo_info": "[RandomRobbieBF/CVE-2021-24507](https://github.com/RandomRobbieBF/CVE-2021-24507)",
+      "description": "Astra Pro Addon < 3.5.2 - Unauthenticated SQL Injection - CVE-2021-24507",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T13:10:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-0329",
+      "repo_info": "[ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0329](https://github.com/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0329)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T08:41:00Z"
+    },
+    {
+      "cve_id": "CVE-2021-0328",
+      "repo_info": "[ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0328](https://github.com/ShaikUsaf/packages_apps_Bluetooth_AOSP10_r33_CVE-2021-0328)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T08:28:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-27301",
+      "repo_info": "[chertoGUN/CVE-2020-27301-hostapd](https://github.com/chertoGUN/CVE-2020-27301-hostapd)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T05:53:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-0453",
+      "repo_info": "[Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453](https://github.com/Trinadh465/packages_apps_Nfc_AOSP10_r33_CVE-2020-0453)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T13:12:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-0452",
+      "repo_info": "[ShaikUsaf/external_libexif_AOSP10_CVE-2020-0452](https://github.com/ShaikUsaf/external_libexif_AOSP10_CVE-2020-0452)",
+      "description": "no description",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T10:23:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-2215",
+      "repo_info": "[enceka/cve-2019-2215-3.18](https://github.com/enceka/cve-2019-2215-3.18)",
+      "description": "for kernel 3.18.x",
+      "date": "2022-04-28",
+      "raw_date": "2022-04-28T03:47:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.890599",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2022-04-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

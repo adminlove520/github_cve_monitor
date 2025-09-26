@@ -1,0 +1,104 @@
+{
+  "date": "2025-06-30",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6543",
+      "repo_info": "[seabed-atavism/CVE-2025-6543](https://github.com/seabed-atavism/CVE-2025-6543)",
+      "description": "Citrix Bleed 2 PoC",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T07:47:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-6543",
+      "repo_info": "[lex1010/CVE-2025-6543](https://github.com/lex1010/CVE-2025-6543)",
+      "description": "Citrix Bleed 2 PoC",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T13:07:55Z"
+    },
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-](https://github.com/mingshenhk/CitrixBleed-2-CVE-2025-5777-PoC-)",
+      "description": "详细讲解CitrixBleed 2 — CVE-2025-5777（越界泄漏）PoC 和检测套件",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T11:02:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-5777",
+      "repo_info": "[nagenar/CVE-2025-5777-Session-Hijack](https://github.com/nagenar/CVE-2025-5777-Session-Hijack)",
+      "description": "no description",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T10:27:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-40898",
+      "repo_info": "[ForceEA001/CVE-2024-40898-SSL-Bypass-Detection](https://github.com/ForceEA001/CVE-2024-40898-SSL-Bypass-Detection)",
+      "description": "This Python script is a Proof-of-Concept (PoC) scanner for detecting the vulnerability CVE-2024-40898, which affects Apache HTTP Server’s SSL certificate validation.",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T15:40:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-27388",
+      "repo_info": "[Mahesh-970/CVE-2024-27388_afterPatch](https://github.com/Mahesh-970/CVE-2024-27388_afterPatch)",
+      "description": "no description",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T10:37:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-27388",
+      "repo_info": "[Mahesh-970/CVE-2024-27388_whitesource](https://github.com/Mahesh-970/CVE-2024-27388_whitesource)",
+      "description": "no description",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T06:56:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-33647",
+      "repo_info": "[vpxuser/CVE-2022-33647](https://github.com/vpxuser/CVE-2022-33647)",
+      "description": "fork from https://github.com/skelsec/minikerberos/blob/8691e6ae92870f4dc8c117f6e1068907f6396e09/minikerberos/examples/CVE_2022_33647.py",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T12:41:20Z"
+    },
+    {
+      "cve_id": "CVE-2022-32250",
+      "repo_info": "[g3un/cve-2022-32250](https://github.com/g3un/cve-2022-32250)",
+      "description": "no description",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T02:30:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-25869",
+      "repo_info": "[gkalpak/angularjs-poc-cve-2022-25869](https://github.com/gkalpak/angularjs-poc-cve-2022-25869)",
+      "description": "A minimal reproduction of an AngularJS &lt;textarea&gt; XSS vulnerability on IE (tracked as CVE-2022-2586).",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T16:34:32Z"
+    },
+    {
+      "cve_id": "CVE-2020-11984",
+      "repo_info": "[masahiro331/CVE-2020-11984](https://github.com/masahiro331/CVE-2020-11984)",
+      "description": "no description",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T03:51:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-10933",
+      "repo_info": "[iris-sast/zip4j](https://github.com/iris-sast/zip4j)",
+      "description": "CWE-Bench-Java CVE-2018-1002202 versions 1.3.2, 1.3.3",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T16:35:10Z"
+    },
+    {
+      "cve_id": "CVE-2017-17761",
+      "repo_info": "[mirellesilvajs/iot-vuln-lab-cve-2017-17761](https://github.com/mirellesilvajs/iot-vuln-lab-cve-2017-17761)",
+      "description": "Simulação educacional de exploração de falha em dispositivos IoT com base no CVE-2017-17761",
+      "date": "2025-06-30",
+      "raw_date": "2025-06-30T18:36:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.161117",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-06-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

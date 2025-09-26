@@ -1,0 +1,195 @@
+{
+  "date": "2024-07-05",
+  "count": 26,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[azurejoga/CVE-2024-6387-how-to-fix](https://github.com/azurejoga/CVE-2024-6387-how-to-fix)",
+      "description": "Vulnerability remediation and mitigationCVE-2024-6387",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T21:29:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[SiberianHacker/CVE-2024-6387-Finder](https://github.com/SiberianHacker/CVE-2024-6387-Finder)",
+      "description": "CVE-2024-6387 SSH finder",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T15:15:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[saberdhaouadi/OpenSSH_CVE2024_Checking](https://github.com/saberdhaouadi/OpenSSH_CVE2024_Checking)",
+      "description": "This script used for Linux systems to check version of openSSH",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T12:06:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[sardine-web/CVE-2024-6387-template](https://github.com/sardine-web/CVE-2024-6387-template)",
+      "description": "Quick regreSSHion checker (based on software version) for nuclei CVE-2024-6387",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T11:05:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[imv7/CVE-2024-6387](https://github.com/imv7/CVE-2024-6387)",
+      "description": "no description",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T11:18:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[felipecruz91/node-ip-vex](https://github.com/felipecruz91/node-ip-vex)",
+      "description": "Sample project that uses VEX to supress CVE-2024-29415.",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T07:50:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[Segurmatica/CVE-2024-6387-CHECK](https://github.com/Segurmatica/CVE-2024-6387-CHECK)",
+      "description": "CVE-2024-6387-Check es una herramienta ligera y eficiente diseñada para identificar servidores que ejecutan versiones vulnerables de OpenSSH, específicamente el fallo de seguridad conocido como regreSSHion (CVE-2024-6387). Este script facilita el análisis rápido de múltiples direcciones IP, nombres de dominio y rangos de red CIDR.",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T07:51:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[0x4D31/cve-2024-6387_hassh](https://github.com/0x4D31/cve-2024-6387_hassh)",
+      "description": "HASSH fingerprints for identifying OpenSSH servers potentially vulnerable to CVE-2024-6387 (regreSSHion).",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T02:46:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[cybersagor/CVE-2024-4577](https://github.com/cybersagor/CVE-2024-4577)",
+      "description": "CVE-2024-4577 Exploits",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T12:47:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-4040",
+      "repo_info": "[entroychang/CVE-2024-4040](https://github.com/entroychang/CVE-2024-4040)",
+      "description": "CVE-2024-4040 PoC",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T05:46:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-39943",
+      "repo_info": "[truonghuuphuc/CVE-2024-39943-Poc](https://github.com/truonghuuphuc/CVE-2024-39943-Poc)",
+      "description": "CVE-2024-39943 rejetto HFS (aka HTTP File Server) 3 before 0.52.10 on Linux, UNIX, and macOS allows OS command execution by remote authenticated users (if they have Upload permissions). This occurs because a shell is used to execute df (i.e., with execSync instead of spawnSync in child_process in Node.js).",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T06:46:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-39210",
+      "repo_info": "[KRookieSec/CVE-2024-39210](https://github.com/KRookieSec/CVE-2024-39210)",
+      "description": "Best house rental management system Local file contains vulnerability",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T08:01:22Z"
+    },
+    {
+      "cve_id": "CVE-2024-37770",
+      "repo_info": "[k3ppf0r/CVE-2024-37770](https://github.com/k3ppf0r/CVE-2024-37770)",
+      "description": "CVE-2024-37770",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T16:13:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[robertdfrench/ifuncd-up](https://github.com/robertdfrench/ifuncd-up)",
+      "description": "GNU IFUNC is the real culprit behind CVE-2024-3094",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T18:36:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[RevoltSecurities/CVE-2024-36401](https://github.com/RevoltSecurities/CVE-2024-36401)",
+      "description": "Exploiter a Vulnerability detection and Exploitation tool for GeoServer Unauthenticated Remote Code Execution CVE-2024-36401.",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T15:24:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[Niuwoo/CVE-2024-36401](https://github.com/Niuwoo/CVE-2024-36401)",
+      "description": "POC",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T03:02:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-3094",
+      "repo_info": "[DANO-AMP/CVE-2024-3094](https://github.com/DANO-AMP/CVE-2024-3094)",
+      "description": "SSH EXPLOIT BYPASS AUTH SSH",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T12:02:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-30088",
+      "repo_info": "[Zombie-Kaiser/CVE-2024-30088-Windows-poc](https://github.com/Zombie-Kaiser/CVE-2024-30088-Windows-poc)",
+      "description": "该漏洞存在于 NtQueryInformationToken 函数中，特别是在处理AuthzBasepCopyoutInternalSecurityAttributes 函数时，该漏洞源于内核在操作对象时对锁定机制的不当管理，这一失误可能导致恶意实体意外提升权限。",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T16:02:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-2122",
+      "repo_info": "[codeb0ss/CVE-2024-2122-PoC](https://github.com/codeb0ss/CVE-2024-2122-PoC)",
+      "description": "no description",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T21:19:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-2122",
+      "repo_info": "[dgicloud/patch_regreSSHion](https://github.com/dgicloud/patch_regreSSHion)",
+      "description": "Correção e Atualização do OpenSSH para CVE-2024-6387",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T16:59:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-42793",
+      "repo_info": "[HusenjanDev/CVE-2023-42793](https://github.com/HusenjanDev/CVE-2023-42793)",
+      "description": "TeamCity RCE for Linux (CVE-2023-42793)",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T17:39:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-27532",
+      "repo_info": "[puckiestyle/CVE-2023-27532-RCE-Only](https://github.com/puckiestyle/CVE-2023-27532-RCE-Only)",
+      "description": "no description",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T14:00:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-20963",
+      "repo_info": "[Ailenchick/CVE-2023-20963](https://github.com/Ailenchick/CVE-2023-20963)",
+      "description": "no description",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T15:02:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-20945",
+      "repo_info": "[Ailenchick/CVE-2023-20945](https://github.com/Ailenchick/CVE-2023-20945)",
+      "description": "no description",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T15:03:40Z"
+    },
+    {
+      "cve_id": "CVE-2021-36260",
+      "repo_info": "[tamim1089/HikvisionExploiter](https://github.com/tamim1089/HikvisionExploiter)",
+      "description": "HikvisionExploiter is a Python-based utility designed to automate exploitation and directory accessibility checks on Hikvision network cameras exploiting the Web interface Version 3.1.3.150324 + CVE-2021-36260 Detection",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T16:58:14Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[athulmur/CVE-2018-6574](https://github.com/athulmur/CVE-2018-6574)",
+      "description": "A POC to demonstrate CVE-2018-6574",
+      "date": "2024-07-05",
+      "raw_date": "2024-07-05T17:06:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.097263",
+  "metadata": {
+    "total_cves": 26,
+    "date_range": "2024-07-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

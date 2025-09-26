@@ -1,0 +1,76 @@
+{
+  "date": "2024-11-08",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9890",
+      "repo_info": "[RandomRobbieBF/CVE-2024-9890](https://github.com/RandomRobbieBF/CVE-2024-9890)",
+      "description": "User Toolkit &lt;= 1.2.3 - Authenticated (Subscriber+) Authentication Bypass",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T12:56:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-51179",
+      "repo_info": "[Lakshmirnr/CVE-2024-51179](https://github.com/Lakshmirnr/CVE-2024-51179)",
+      "description": "no description",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T11:47:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-50477",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50477](https://github.com/RandomRobbieBF/CVE-2024-50477)",
+      "description": "Stacks Mobile App Builder &lt;= 5.2.3 - Authentication Bypass via Account Takeover",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T17:22:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-50450",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50450](https://github.com/RandomRobbieBF/CVE-2024-50450)",
+      "description": "WordPress Meta Data and Taxonomies Filter (MDTF) &lt;= 1.3.3.4 - Unauthenticated Arbitrary Shortcode Execution",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T11:24:16Z"
+    },
+    {
+      "cve_id": "CVE-2024-50427",
+      "repo_info": "[RandomRobbieBF/CVE-2024-50427](https://github.com/RandomRobbieBF/CVE-2024-50427)",
+      "description": "SurveyJS: Drag &amp; Drop WordPress Form Builder &lt;= 1.9.136 - Authenticated (Subscriber+) Arbitrary File Upload",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T12:24:06Z"
+    },
+    {
+      "cve_id": "CVE-2024-2928",
+      "repo_info": "[nuridincersaygili/CVE-2024-2928](https://github.com/nuridincersaygili/CVE-2024-2928)",
+      "description": "Arbitrary file read exploit for CVE-2024-2928 in mlflow",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T03:55:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-10470",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10470](https://github.com/RandomRobbieBF/CVE-2024-10470)",
+      "description": "WPLMS Learning Management System for WordPress &lt;= 4.962 – Unauthenticated Arbitrary File Read and Deletion",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T19:47:34Z"
+    },
+    {
+      "cve_id": "CVE-2022-41099",
+      "repo_info": "[rhett-hislop/PatchWinRE](https://github.com/rhett-hislop/PatchWinRE)",
+      "description": "Automate updating the Windows Recovery Environment (WinRE) on deployed devices to address the security vulnerabilities in CVE-2022-41099.",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T10:50:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-12422",
+      "repo_info": "[BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC](https://github.com/BaiHLiu/RuoYI-4.2-Shiro-721-Docker-PoC)",
+      "description": "若依4.2 (Shiro 1.4.1) Shiro-721 (CVE-2019-12422)漏洞复现环境",
+      "date": "2024-11-08",
+      "raw_date": "2024-11-08T12:30:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.118561",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-11-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "date": "2022-08-29",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-36200",
+      "repo_info": "[afaq1337/CVE-2022-36200](https://github.com/afaq1337/CVE-2022-36200)",
+      "description": "CVE-2022-36200 PoC",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T11:03:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[Vulnmachines/Apache-spark-CVE-2022-33891](https://github.com/Vulnmachines/Apache-spark-CVE-2022-33891)",
+      "description": "Apache Spark RCE - CVE-2022-33891",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T08:48:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-21587",
+      "repo_info": "[coreruleset/project-seaweed](https://github.com/coreruleset/project-seaweed)",
+      "description": "GSoC 2022 Project testing CVEs against CRS",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T17:39:27Z"
+    },
+    {
+      "cve_id": "CVE-2021-36260",
+      "repo_info": "[TakenoSite/Simple-CVE-2021-36260](https://github.com/TakenoSite/Simple-CVE-2021-36260)",
+      "description": "no description",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T15:21:11Z"
+    },
+    {
+      "cve_id": "CVE-2020-9715",
+      "repo_info": "[WonjunChun/CVE-2020-9715](https://github.com/WonjunChun/CVE-2020-9715)",
+      "description": "Adobe Acrobat Reader UAF vulnerability Exploit code",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T14:33:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-8917",
+      "repo_info": "[Siopy/CVE-2017-8917](https://github.com/Siopy/CVE-2017-8917)",
+      "description": "CVE-2017-8917 - Joomla 3.7.0 &#x27;com_fields&#x27; SQL Injection",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T11:51:00Z"
+    },
+    {
+      "cve_id": "CVE-2017-7269",
+      "repo_info": "[denchief1/CVE-2017-7269](https://github.com/denchief1/CVE-2017-7269)",
+      "description": "CVE-2017-7269 implemented in C#",
+      "date": "2022-08-29",
+      "raw_date": "2022-08-29T03:05:06Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.910165",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2022-08-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

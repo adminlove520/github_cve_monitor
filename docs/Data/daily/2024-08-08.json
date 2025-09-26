@@ -1,0 +1,97 @@
+{
+  "date": "2024-08-08",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[ManuelKy08/CVE-2024-4577---RR](https://github.com/ManuelKy08/CVE-2024-4577---RR)",
+      "description": "no description",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T14:04:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-4320",
+      "repo_info": "[bolkv/CVE-2024-4320](https://github.com/bolkv/CVE-2024-4320)",
+      "description": "no description",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T03:54:38Z"
+    },
+    {
+      "cve_id": "CVE-2024-43044",
+      "repo_info": "[HwMex0/CVE-2024-43044](https://github.com/HwMex0/CVE-2024-43044)",
+      "description": "The script checks Jenkins endpoints for CVE-2024-43044 by retrieving the Jenkins version from the innstance and comparing it against known vulnerable version ranges.",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T08:28:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-43044",
+      "repo_info": "[wubinworks/magento2-cosmic-sting-patch](https://github.com/wubinworks/magento2-cosmic-sting-patch)",
+      "description": "Magento 2 patch for CVE-2024-34102(aka CosmicSting). Another way(as an extension) to hotfix the security hole if you cannot apply the official patch or cannot upgrade Magento.",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T07:47:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-41651",
+      "repo_info": "[Fckroun/CVE-2024-41651](https://github.com/Fckroun/CVE-2024-41651)",
+      "description": "CVE-2024-41651",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T17:25:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-40500",
+      "repo_info": "[nitipoom-jar/CVE-2024-40500](https://github.com/nitipoom-jar/CVE-2024-40500)",
+      "description": "no description",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T17:12:58Z"
+    },
+    {
+      "cve_id": "CVE-2024-38856",
+      "repo_info": "[securelayer7/CVE-2024-38856_Scanner](https://github.com/securelayer7/CVE-2024-38856_Scanner)",
+      "description": "Apache OFBiz RCE Scanner &amp; Exploit (CVE-2024-38856)",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T02:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-38077",
+      "repo_info": "[jenkinsci-cert/SECURITY-3430](https://github.com/jenkinsci-cert/SECURITY-3430)",
+      "description": "This repository provides a workaround preventing exploitation of SECURITY-3430 / CVE-2024-43044",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T11:55:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-25897",
+      "repo_info": "[i-100-user/CVE-2024-25897](https://github.com/i-100-user/CVE-2024-25897)",
+      "description": "exploit que vulnera  Jenkins hecho en Python",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T18:21:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-23708",
+      "repo_info": "[uthrasri/CVE-2024-23708](https://github.com/uthrasri/CVE-2024-23708)",
+      "description": "no description",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T13:16:58Z"
+    },
+    {
+      "cve_id": "CVE-2022-3590",
+      "repo_info": "[huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner](https://github.com/huynhvanphuc/CVE-2022-3590-WordPress-Vulnerability-Scanner)",
+      "description": "no description",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T03:02:05Z"
+    },
+    {
+      "cve_id": "CVE-2020-13945",
+      "repo_info": "[Pixelcraftch/CVE-2020-13945-EXPLOIT](https://github.com/Pixelcraftch/CVE-2020-13945-EXPLOIT)",
+      "description": "PoC exploit for CVE-2020-13945 - Apache APISIX Remote Code Execution (RCE)",
+      "date": "2024-08-08",
+      "raw_date": "2024-08-08T12:10:51Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.103092",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-08-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

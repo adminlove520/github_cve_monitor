@@ -1,0 +1,111 @@
+{
+  "date": "2025-04-21",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[TX-One/CVE-2025-31161](https://github.com/TX-One/CVE-2025-31161)",
+      "description": "CrushFTP CVE-2025-31161 Exploit Tool 🔓",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T23:57:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[imbas007/CVE-2025-30208-template](https://github.com/imbas007/CVE-2025-30208-template)",
+      "description": "CVE-2025-30208 vite file read nuclei template",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T01:33:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-30065",
+      "repo_info": "[ThreatRadarAI/TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-](https://github.com/ThreatRadarAI/TRA-001-Critical-RCE-Vulnerability-in-Apache-Parquet-CVE-2025-30065-Simulation-)",
+      "description": "A CVSS 10.0-rated vulnerability in the parquet-avro Java module allows remote code execution via unsafe deserialization when parsing schemas. Tracked as CVE-2025-30065, this flaw affects Apache Parquet ≤ 1.15.0. All users must upgrade to version 1.15.1 immediately to mitigate exploitation risks.",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T15:28:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[pouriam23/Next.js-Middleware-Bypass-CVE-2025-29927-](https://github.com/pouriam23/Next.js-Middleware-Bypass-CVE-2025-29927-)",
+      "description": "no description",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T12:50:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[zhuowei/apple-positional-audio-codec-invalid-header](https://github.com/zhuowei/apple-positional-audio-codec-invalid-header)",
+      "description": "looking into CVE-2025-31200 - can&#x27;t figure it out yet",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T05:38:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-24071",
+      "repo_info": "[pswalia2u/CVE-2025-24071_POC](https://github.com/pswalia2u/CVE-2025-24071_POC)",
+      "description": "no description",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T20:05:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-24016",
+      "repo_info": "[cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC](https://github.com/cybersecplayground/CVE-2025-24016-Wazuh-Remote-Code-Execution-RCE-PoC)",
+      "description": "A critical RCE vulnerability has been identified in the Wazuh server due to unsafe deserialization in the wazuh-manager package. This bug affects Wazuh versions ≥ 4.4.0 and has been patched in version 4.9.1.",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T19:13:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[topilov/axiom-jdk](https://github.com/topilov/axiom-jdk)",
+      "description": "CVE-2024-38828: DoS via Spring MVC controller method with byte[] parameter",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T15:49:39Z"
+    },
+    {
+      "cve_id": "CVE-2024-40446",
+      "repo_info": "[TaiYou-TW/CVE-2024-40445_CVE-2024-40446](https://github.com/TaiYou-TW/CVE-2024-40445_CVE-2024-40446)",
+      "description": "This repository serves as the public reference for CVE-2024-40445 and CVE-2024-40446. Both vulnerabilities impact MimeTeX, an open-source software package for rendering LaTeX expressions, which appears to be no longer maintained.",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T15:01:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-31317",
+      "repo_info": "[mianliupindao/CVE-2024-31317-PoC-Deployer](https://github.com/mianliupindao/CVE-2024-31317-PoC-Deployer)",
+      "description": "no description",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T18:58:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-28987",
+      "repo_info": "[alecclyde/CVE-2024-28987](https://github.com/alecclyde/CVE-2024-28987)",
+      "description": "Proof of Concept Exploit for CVE-2024-28987: SolarWinds Web Help Desk Hardcoded Credential Vulnerability",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T19:44:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[custiya/geoserver-CVE-2023-25157](https://github.com/custiya/geoserver-CVE-2023-25157)",
+      "description": "no description",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T13:13:01Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[fzlaziz/-CVE-2021-4034](https://github.com/fzlaziz/-CVE-2021-4034)",
+      "description": "no description",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T07:04:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-34371",
+      "repo_info": "[tavgar/CVE-2021-34371](https://github.com/tavgar/CVE-2021-34371)",
+      "description": "python exploit - Neo4j 3.4.18 - RMI based Remote Code Execution (RCE)",
+      "date": "2025-04-21",
+      "raw_date": "2025-04-21T20:41:53Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.147939",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2025-04-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

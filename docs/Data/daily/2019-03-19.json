@@ -1,0 +1,27 @@
+{
+  "date": "2019-03-19",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[dollyptm/cve-2018-6574](https://github.com/dollyptm/cve-2018-6574)",
+      "description": "no description",
+      "date": "2019-03-19",
+      "raw_date": "2019-03-19T12:54:23Z"
+    },
+    {
+      "cve_id": "CVE-2018-20250",
+      "repo_info": "[joydragon/Detect-CVE-2018-20250](https://github.com/joydragon/Detect-CVE-2018-20250)",
+      "description": "Herramienta para revisar si es que un payload tiene componente malicioso de acuerdo a CVE-2018-20250",
+      "date": "2019-03-19",
+      "raw_date": "2019-03-19T14:51:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.770471",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2019-03-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

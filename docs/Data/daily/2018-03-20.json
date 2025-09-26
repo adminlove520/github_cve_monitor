@@ -1,0 +1,27 @@
+{
+  "date": "2018-03-20",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0114",
+      "repo_info": "[zi0Black/POC-CVE-2018-0114](https://github.com/zi0Black/POC-CVE-2018-0114)",
+      "description": "This repository contains the POC of an exploit for node-jose < 0.11.0",
+      "date": "2018-03-20",
+      "raw_date": "2018-03-20T20:37:29Z"
+    },
+    {
+      "cve_id": "CVE-2017-0213",
+      "repo_info": "[ggolawski/struts-rce](https://github.com/ggolawski/struts-rce)",
+      "description": "Apache Struts CVE-2017-5638 RCE exploitation",
+      "date": "2018-03-20",
+      "raw_date": "2018-03-20T10:51:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.736026",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-03-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

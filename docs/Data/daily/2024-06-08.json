@@ -1,0 +1,76 @@
+{
+  "date": "2024-06-08",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[xcanwin/CVE-2024-4577-PHP-RCE](https://github.com/xcanwin/CVE-2024-4577-PHP-RCE)",
+      "description": "全球首款利用PHP默认环境的CVE-2024-4577 PHP-CGI RCE 漏洞 EXP，共享原创EXP，支持SSRF，支持绕过WAF",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T13:04:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[ZephrFish/CVE-2024-4577-PHP-RCE](https://github.com/ZephrFish/CVE-2024-4577-PHP-RCE)",
+      "description": "PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T12:23:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[zomasec/CVE-2024-4577](https://github.com/zomasec/CVE-2024-4577)",
+      "description": "CVE-2024-4577 Exploit POC",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T06:36:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[manuelinfosec/CVE-2024-4577](https://github.com/manuelinfosec/CVE-2024-4577)",
+      "description": "Proof Of Concept RCE exploit for critical vulnerability in PHP &lt;8.2.15 (Windows), allowing attackers to execute arbitrary commands.",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T05:27:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[0x20c/CVE-2024-4577-nuclei](https://github.com/0x20c/CVE-2024-4577-nuclei)",
+      "description": "CVE-2024-4577 nuclei-templates",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T03:12:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-29269",
+      "repo_info": "[Jhonsonwannaa/CVE-2024-29269](https://github.com/Jhonsonwannaa/CVE-2024-29269)",
+      "description": "https://nvd.nist.gov/vuln/detail/CVE-2024-29269",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T22:06:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-24919",
+      "repo_info": "[satchhacker/cve-2024-24919](https://github.com/satchhacker/cve-2024-24919)",
+      "description": "no description",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T10:17:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[xorbbo/cve-2023-22515](https://github.com/xorbbo/cve-2023-22515)",
+      "description": "NSE script to check if app is vulnerable to cve-2023-22515",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T20:04:44Z"
+    },
+    {
+      "cve_id": "CVE-2009-0347",
+      "repo_info": "[Cappricio-Securities/CVE-2009-0347](https://github.com/Cappricio-Securities/CVE-2009-0347)",
+      "description": "Autonomy Ultraseek - Open Redirect",
+      "date": "2024-06-08",
+      "raw_date": "2024-06-08T02:27:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.091645",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2024-06-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

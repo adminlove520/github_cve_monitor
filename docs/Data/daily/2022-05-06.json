@@ -1,0 +1,55 @@
+{
+  "date": "2022-05-06",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-30489",
+      "repo_info": "[badboycxcc/XSS-CVE-2022-30489](https://github.com/badboycxcc/XSS-CVE-2022-30489)",
+      "description": "no description",
+      "date": "2022-05-06",
+      "raw_date": "2022-05-06T00:47:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-25236",
+      "repo_info": "[Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236](https://github.com/Satheesh575555/external_expat_AOSP10_r33_CVE-2022-25236)",
+      "description": "no description",
+      "date": "2022-05-06",
+      "raw_date": "2022-05-06T05:19:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-21984",
+      "repo_info": "[u201424348/CVE-2022-21984](https://github.com/u201424348/CVE-2022-21984)",
+      "description": "no description",
+      "date": "2022-05-06",
+      "raw_date": "2022-05-06T17:08:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed](https://github.com/MrCl0wnLab/Nuclei-Template-CVE-2022-1388-BIG-IP-iControl-REST-Exposed)",
+      "description": "This vulnerability may allow an unauthenticated attacker with network access to the BIG-IP system through the management port and/or self IP addresses to execute arbitrary system commands, create or delete files, or disable services. There is no data plane exposure; this is a control plane issue only.",
+      "date": "2022-05-06",
+      "raw_date": "2022-05-06T06:22:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-1040",
+      "repo_info": "[killvxk/CVE-2022-1040](https://github.com/killvxk/CVE-2022-1040)",
+      "description": "may the poc with you",
+      "date": "2022-05-06",
+      "raw_date": "2022-05-06T08:56:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-0441",
+      "repo_info": "[biulove0x/CVE-2022-0441](https://github.com/biulove0x/CVE-2022-0441)",
+      "description": "WordPress Plugin MasterStudy LMS 2.7.5 - Unauthenticated Admin Account Creation",
+      "date": "2022-05-06",
+      "raw_date": "2022-05-06T17:40:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.891832",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2022-05-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

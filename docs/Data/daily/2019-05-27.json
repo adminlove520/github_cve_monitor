@@ -1,0 +1,41 @@
+{
+  "date": "2019-05-27",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-6340",
+      "repo_info": "[jas502n/CVE-2019-6340](https://github.com/jas502n/CVE-2019-6340)",
+      "description": "Drupal8&#x27;s REST RCE, SA-CORE-2019-003, CVE-2019-6340",
+      "date": "2019-05-27",
+      "raw_date": "2019-05-27T19:06:14Z"
+    },
+    {
+      "cve_id": "CVE-2017-13156",
+      "repo_info": "[caxmd/CVE-2017-13156](https://github.com/caxmd/CVE-2017-13156)",
+      "description": "no description",
+      "date": "2019-05-27",
+      "raw_date": "2019-05-27T20:32:05Z"
+    },
+    {
+      "cve_id": "CVE-2014-0114",
+      "repo_info": "[aenlr/strutt-cve-2014-0114](https://github.com/aenlr/strutt-cve-2014-0114)",
+      "description": "no description",
+      "date": "2019-05-27",
+      "raw_date": "2019-05-27T07:04:54Z"
+    },
+    {
+      "cve_id": "CVE-2013-0156",
+      "repo_info": "[R3dKn33-zz/CVE-2013-0156](https://github.com/R3dKn33-zz/CVE-2013-0156)",
+      "description": "Arbitrary deserialization that can be used to trigger SQL injection and even Code execution",
+      "date": "2019-05-27",
+      "raw_date": "2019-05-27T19:17:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.776764",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2019-05-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

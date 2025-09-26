@@ -1,0 +1,118 @@
+{
+  "date": "2023-06-20",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-3640",
+      "repo_info": "[pray77/CVE-2023-3640](https://github.com/pray77/CVE-2023-3640)",
+      "description": "SCTF 2023 kernel pwn &amp;&amp; CVE-2023-3640",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T06:21:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-34584",
+      "repo_info": "[fu2x2000/-CVE-2023-34584](https://github.com/fu2x2000/-CVE-2023-34584)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T20:17:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-33476",
+      "repo_info": "[mellow-hype/cve-2023-33476](https://github.com/mellow-hype/cve-2023-33476)",
+      "description": "Exploits for a heap overflow in MiniDLNA &lt;=1.3.2 (CVE-2023-33476)",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T01:13:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-33405",
+      "repo_info": "[hacip/CVE-2023-33405](https://github.com/hacip/CVE-2023-33405)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T18:37:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-33404",
+      "repo_info": "[hacip/CVE-2023-33404](https://github.com/hacip/CVE-2023-33404)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T18:14:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[VisDev23/Vulnerable-Docker--CVE-2023-30212-](https://github.com/VisDev23/Vulnerable-Docker--CVE-2023-30212-)",
+      "description": "This contains the necessary files and Docker to replicate A vulnerability in OURPHP that has a XSS Vulnerability (CVE-2023-30212)",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T09:08:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-](https://github.com/JasaluRah/Creating-a-Vulnerable-Docker-Environment-CVE-2023-30212-)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T12:20:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[AAsh035/CVE-2023-30212](https://github.com/AAsh035/CVE-2023-30212)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T10:50:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[VisDev23/Vulnerable-Docker-CVE-2023-30212](https://github.com/VisDev23/Vulnerable-Docker-CVE-2023-30212)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T08:18:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-2868",
+      "repo_info": "[cfielding-r7/poc-cve-2023-2868](https://github.com/cfielding-r7/poc-cve-2023-2868)",
+      "description": "no description",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T18:43:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-22809",
+      "repo_info": "[Chan9Yan9/CVE-2023-22809](https://github.com/Chan9Yan9/CVE-2023-22809)",
+      "description": "Analysis &amp; Exploit",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T00:38:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-1454",
+      "repo_info": "[Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln](https://github.com/Sweelg/CVE-2023-1454-Jeecg-Boot-qurestSql-SQLvuln)",
+      "description": "jmreport/qurestSql 未授权SQL注入批量扫描poc Jeecg-Boot是一款基于Spring Boot和Jeecg-Boot-Plus的快速开发平台，最新的jeecg-boot 3.5.0 中被爆出多个SQL注入漏洞。",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T08:12:49Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[0xeremus/dirty-pipe-poc](https://github.com/0xeremus/dirty-pipe-poc)",
+      "description": "POC Exploit to add user to Sudo for CVE-2022-0847 Dirty Pipe Vulnerability",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T23:48:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[jakabakos/spring4shell](https://github.com/jakabakos/spring4shell)",
+      "description": "PoC and exploit for CVE-2022-22965 Spring4Shell",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T11:45:29Z"
+    },
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[vudala/CVE-2021-42013](https://github.com/vudala/CVE-2021-42013)",
+      "description": "Exploring CVE-2021-42013, using Suricata and OpenVAS to gather info",
+      "date": "2023-06-20",
+      "raw_date": "2023-06-20T21:43:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.033119",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2023-06-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

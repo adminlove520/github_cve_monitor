@@ -1,0 +1,48 @@
+{
+  "date": "2022-02-19",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-20028",
+      "repo_info": "[Exploitspacks/CVE-2021-20028](https://github.com/Exploitspacks/CVE-2021-20028)",
+      "description": "SonicWall Exploit CVE-2021-20028",
+      "date": "2022-02-19",
+      "raw_date": "2022-02-19T21:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2020-0787",
+      "repo_info": "[Exploitspacks/CVE-2020-0787](https://github.com/Exploitspacks/CVE-2020-0787)",
+      "description": "Vulnerability: CVE-2020-0787 (Published: March 10, 2020) Supported versions: Vista/2008/W7/2008R2/W8/2012/W8.1/2012R2/W10/2016/2019 Supported architecture: x86/x64 Development stage: v1.0.20130 (stable) Code size: 36Kb",
+      "date": "2022-02-19",
+      "raw_date": "2022-02-19T22:18:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-0787",
+      "repo_info": "[ulexec/ChromeSHELFLoader](https://github.com/ulexec/ChromeSHELFLoader)",
+      "description": "An exploit for CVE-2020-6418 implementing a SHELF Loader. Published as part of Tmp.0ut volume 2",
+      "date": "2022-02-19",
+      "raw_date": "2022-02-19T20:00:04Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[Exploitspacks/CVE-2019-0708](https://github.com/Exploitspacks/CVE-2019-0708)",
+      "description": "Modified exploit",
+      "date": "2022-02-19",
+      "raw_date": "2022-02-19T22:39:05Z"
+    },
+    {
+      "cve_id": "CVE-2017-3002",
+      "repo_info": "[Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3](https://github.com/Exploitspacks/MS17-010-2017-2997-CVE-2017-2998-CVE-2017-2999-CVE-2017-3000-CVE-2017-3001-CVE-2017-3002-CVE-2017-3)",
+      "description": "Fully modified exploit for Ms17-010",
+      "date": "2022-02-19",
+      "raw_date": "2022-02-19T22:45:52Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.881135",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-02-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2016-03-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-8299",
+      "repo_info": "[kernoelpanic/CVE-2015-8299](https://github.com/kernoelpanic/CVE-2015-8299)",
+      "description": "CVE-2015-8299 Advisory and PoC",
+      "date": "2016-03-08",
+      "raw_date": "2016-03-08T12:19:50Z"
+    },
+    {
+      "cve_id": "CVE-2010-0738",
+      "repo_info": "[1872892142/jboss-autopwn-1](https://github.com/1872892142/jboss-autopwn-1)",
+      "description": "JBoss Autopwn as featured at BlackHat Europe 2010 - this version incorporates CVE-2010-0738 the JBoss authentication bypass VERB manipulation vulnerability as discovered by Minded Security",
+      "date": "2016-03-08",
+      "raw_date": "2016-03-08T07:43:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.669437",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-03-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

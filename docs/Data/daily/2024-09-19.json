@@ -1,0 +1,118 @@
+{
+  "date": "2024-09-19",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-8752",
+      "repo_info": "[D3anSPGDMS/CVE-2024-8752](https://github.com/D3anSPGDMS/CVE-2024-8752)",
+      "description": "poc of cve-2024-8752(WebIQ 2.15.9)",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T02:20:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-8522",
+      "repo_info": "[Avento/CVE-2024-8522](https://github.com/Avento/CVE-2024-8522)",
+      "description": "LearnPress – WordPress LMS Plugin &lt;= 4.2.7 - Unauthenticated SQL Injection via &#x27;c_only_fields&#x27;",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T07:04:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-46256",
+      "repo_info": "[barttran2k/POC_CVE-2024-46256](https://github.com/barttran2k/POC_CVE-2024-46256)",
+      "description": "POC_CVE-2024-46256",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T09:35:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-45241",
+      "repo_info": "[verylazytech/CVE-2024-45241](https://github.com/verylazytech/CVE-2024-45241)",
+      "description": "no description",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T12:43:48Z"
+    },
+    {
+      "cve_id": "CVE-2024-38812",
+      "repo_info": "[maybeheisenberg/CVE-2024-38812](https://github.com/maybeheisenberg/CVE-2024-38812)",
+      "description": "no description",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T18:31:04Z"
+    },
+    {
+      "cve_id": "CVE-2023-47253",
+      "repo_info": "[OpenXP-Research/CVE-2023-47253](https://github.com/OpenXP-Research/CVE-2023-47253)",
+      "description": "CVE-2023-47253 - Qualitor &lt;= 8.20 RCE",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T14:06:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-47253",
+      "repo_info": "[vnxdtzip/CVE-2023-47253](https://github.com/vnxdtzip/CVE-2023-47253)",
+      "description": "CVE-2023-47253 - Qualitor &lt;= 8.20 RCE",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T13:59:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-47253",
+      "repo_info": "[gmh5225/CVE-2023-47253](https://github.com/gmh5225/CVE-2023-47253)",
+      "description": "CVE-2023-47253 - Qualitor &lt;= 8.20 RCE",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T17:52:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-1177",
+      "repo_info": "[charlesgargasson/CVE-2023-1177](https://github.com/charlesgargasson/CVE-2023-1177)",
+      "description": "MLFlow Path Traversal",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T10:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-47132",
+      "repo_info": "[OpenXP-Research/CVE-2022-47132](https://github.com/OpenXP-Research/CVE-2022-47132)",
+      "description": "Academy LMS &lt;= 5.10 CSRF",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T14:11:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-47131",
+      "repo_info": "[OpenXP-Research/CVE-2022-47131](https://github.com/OpenXP-Research/CVE-2022-47131)",
+      "description": "Academy LMS &lt;= 5.10 CSRF / XSS",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T14:12:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-47130",
+      "repo_info": "[OpenXP-Research/CVE-2022-47130](https://github.com/OpenXP-Research/CVE-2022-47130)",
+      "description": "Academy LMS &lt;= 5.10 CSRF",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T14:14:14Z"
+    },
+    {
+      "cve_id": "CVE-2022-2546",
+      "repo_info": "[OpenXP-Research/CVE-2022-2546](https://github.com/OpenXP-Research/CVE-2022-2546)",
+      "description": "All-in-One WP Migration &lt; 7.63 - Unauthenticated Reflected XSS + CSRF",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T14:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-43650",
+      "repo_info": "[OpenXP-Research/CVE-2021-43650](https://github.com/OpenXP-Research/CVE-2021-43650)",
+      "description": "Webrun &lt;= 3.6.0.42 SQLi",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T14:10:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-14322",
+      "repo_info": "[sergiovks/CVE-2019-14322](https://github.com/sergiovks/CVE-2019-14322)",
+      "description": "Modification of: PoC of CVE-2019-14322: Improper Limitation of a Pathname to a Restricted Directory (&#x27;Path Traversal&#x27;)",
+      "date": "2024-09-19",
+      "raw_date": "2024-09-19T07:17:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.110207",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-09-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

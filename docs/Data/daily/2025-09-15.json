@@ -1,0 +1,97 @@
+{
+  "date": "2025-09-15",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9074",
+      "repo_info": "[fortihack/CVE-2025-9074](https://github.com/fortihack/CVE-2025-9074)",
+      "description": "no description",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T22:05:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-9074",
+      "repo_info": "[william31212/CVE-Requests-1896609](https://github.com/william31212/CVE-Requests-1896609)",
+      "description": "[Pending]CVE-2025-59376, CVE-2025-59377",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T12:52:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-55234",
+      "repo_info": "[mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense](https://github.com/mrk336/Patch-the-Path-CVE-2025-55234-Detection-Defense)",
+      "description": "This playbook outlines detection, containment, and remediation strategies for CVE-2025-55234, a critical Windows SMB privilege escalation flaw.",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T03:21:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-55234",
+      "repo_info": "[mrk336/ElkStack-Secured-From-Logs-to-CVEs](https://github.com/mrk336/ElkStack-Secured-From-Logs-to-CVEs)",
+      "description": "ElkStack delivers a hands on ELK pipeline that turns raw Node.js logs into actionable alerts. The article walks through index mapping, Logstash ingestion and Kibana dashboards that surfaced three real CVEs—CVE‑2025‑23165, ‑66 and ‑67 identified this year",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T03:00:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[keymaker-arch/KSMBDrain](https://github.com/keymaker-arch/KSMBDrain)",
+      "description": "CVE-2025-38501, KSMBDrain",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T08:26:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[intbjw/Inspector-xss-poc](https://github.com/intbjw/Inspector-xss-poc)",
+      "description": "CVE-2025–58444",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T07:49:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[EQSTLab/CVE-2025-3248](https://github.com/EQSTLab/CVE-2025-3248)",
+      "description": "Langflow Remote Code Execution",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T00:38:05Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[acan0007/CVE-2025-31161](https://github.com/acan0007/CVE-2025-31161)",
+      "description": "Authentication bypass vulnerability in versions of the CrushFTP server.",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T04:24:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-28397",
+      "repo_info": "[0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE](https://github.com/0xDTC/js2py-Sandbox-Escape-CVE-2024-28397-RCE)",
+      "description": "no description",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T15:16:20Z"
+    },
+    {
+      "cve_id": "CVE-2019-9978",
+      "repo_info": "[xxoprt/payloadCVE-2019-9978](https://github.com/xxoprt/payloadCVE-2019-9978)",
+      "description": "payload txt",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T13:50:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-11762",
+      "repo_info": "[shoucheng3/apache__tika_CVE-2018-11762_1_19_fixed](https://github.com/shoucheng3/apache__tika_CVE-2018-11762_1_19_fixed)",
+      "description": "no description",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T00:17:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-12611",
+      "repo_info": "[tcetin704/CVE-2017-12611](https://github.com/tcetin704/CVE-2017-12611)",
+      "description": "no description",
+      "date": "2025-09-15",
+      "raw_date": "2025-09-15T17:13:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.178451",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2025-09-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

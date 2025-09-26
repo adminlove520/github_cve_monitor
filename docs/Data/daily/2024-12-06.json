@@ -1,0 +1,83 @@
+{
+  "date": "2024-12-06",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-54679",
+      "repo_info": "[hotplugin0x01/CVE-2024-54679](https://github.com/hotplugin0x01/CVE-2024-54679)",
+      "description": "CVE-2024-54679 - CyberPanel (aka Cyber Panel) Denial of Service (https://nvd.nist.gov/vuln/detail/CVE-2024-54679)",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T06:02:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-52335",
+      "repo_info": "[cloudefence/CVE-2024-52335](https://github.com/cloudefence/CVE-2024-52335)",
+      "description": "CVE-2024-52335: Improper Neutralization of Special Elements used in an SQL Command (&#x27;SQL Injection&#x27;) (CWE-89)",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T20:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-50677",
+      "repo_info": "[ZumiYumi/CVE-2024-50677](https://github.com/ZumiYumi/CVE-2024-50677)",
+      "description": "This repository presents a proof-of-concept of CVE-2024-50677",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T01:04:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-42327",
+      "repo_info": "[depers-rus/CVE-2024-42327](https://github.com/depers-rus/CVE-2024-42327)",
+      "description": "no description",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T16:06:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[Laukage/Windows-CVE-2024-38063](https://github.com/Laukage/Windows-CVE-2024-38063)",
+      "description": "no description",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T21:45:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-35286",
+      "repo_info": "[lu4m575/CVE-2024-35286_scan.nse](https://github.com/lu4m575/CVE-2024-35286_scan.nse)",
+      "description": "no description",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T23:44:44Z"
+    },
+    {
+      "cve_id": "CVE-2024-12155",
+      "repo_info": "[McTavishSue/CVE-2024-12155](https://github.com/McTavishSue/CVE-2024-12155)",
+      "description": "CVE-2024-12155 Missing Authorization (CWE-862)",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T13:03:09Z"
+    },
+    {
+      "cve_id": "CVE-2024-11392",
+      "repo_info": "[redspy-sec/D-Link](https://github.com/redspy-sec/D-Link)",
+      "description": "CVE-2024-10914 D-Link Remote Code Execution (RCE)",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T19:03:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-10516",
+      "repo_info": "[RandomRobbieBF/CVE-2024-10516](https://github.com/RandomRobbieBF/CVE-2024-10516)",
+      "description": "Swift Performance Lite &lt;= 2.3.7.1 - Unauthenticated Local PHP File Inclusion via &#x27;ajaxify&#x27;",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T11:24:19Z"
+    },
+    {
+      "cve_id": "CVE-2022-32250",
+      "repo_info": "[seadragnol/CVE-2022-32250](https://github.com/seadragnol/CVE-2022-32250)",
+      "description": "no description",
+      "date": "2024-12-06",
+      "raw_date": "2024-12-06T13:49:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.123780",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-12-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

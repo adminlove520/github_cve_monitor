@@ -1,0 +1,97 @@
+{
+  "date": "2024-02-22",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-25600",
+      "repo_info": "[Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress](https://github.com/Tornad0007/CVE-2024-25600-Bricks-Builder-plugin-for-WordPress)",
+      "description": "This tool is designed to exploit the CVE-2024-25600 vulnerability found in the Bricks Builder plugin for WordPress. The vulnerability allows for unauthenticated remote code execution on affected websites. The tool automates the exploitation process by retrieving nonces and sending specially crafted requests to execute arbitrary commands.",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:53:45Z"
+    },
+    {
+      "cve_id": "CVE-2024-25270",
+      "repo_info": "[fbkcs/CVE-2024-25270](https://github.com/fbkcs/CVE-2024-25270)",
+      "description": "for future article of research vulnerability in MIRAPOLIS LMS",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T08:18:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-22532",
+      "repo_info": "[pwndorei/CVE-2024-22532](https://github.com/pwndorei/CVE-2024-22532)",
+      "description": "no description",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:44:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-51409",
+      "repo_info": "[RandomRobbieBF/CVE-2023-51409](https://github.com/RandomRobbieBF/CVE-2023-51409)",
+      "description": "AI Engine: ChatGPT Chatbot &lt;= 1.9.98 - Unauthenticated Arbitrary File Upload via rest_upload",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T16:26:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-51409",
+      "repo_info": "[ek3nk4r/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/ek3nk4r/Jpg-Png-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:51:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-51409",
+      "repo_info": "[ek3nk4r/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/ek3nk4r/Hta-Exploit-Builder-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:51:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-51409",
+      "repo_info": "[ek3nk4r/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/ek3nk4r/Slient-PDF-FUD-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:46:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-51409",
+      "repo_info": "[ek3nk4r/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware](https://github.com/ek3nk4r/Slient-Url-Exploit-Slient-Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:51:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[UserConnecting/Exploit-CVE-2023-38646-Metabase](https://github.com/UserConnecting/Exploit-CVE-2023-38646-Metabase)",
+      "description": "Exploit for the Remote Code Execution (RCE) vulnerability identified in Metabase versions before 0.46.6.1 (open source) and 1.46.6.1 (Enterprise). Authentication is not required for exploitation.",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T02:55:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-33891",
+      "repo_info": "[K3ysTr0K3R/CVE-2022-33891-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2022-33891-EXPLOIT)",
+      "description": "A PoC exploit for CVE-2022-33891 - Apache Spark UI Remote Code Execution (RCE)",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T15:05:00Z"
+    },
+    {
+      "cve_id": "CVE-2020-0096",
+      "repo_info": "[nahid0x1/CVE-2020-0096-strandhogg-exploit-p0c](https://github.com/nahid0x1/CVE-2020-0096-strandhogg-exploit-p0c)",
+      "description": "Android Application Task Hijacking Aka Strandhogg Attack Exploit",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T20:55:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-25031",
+      "repo_info": "[johnlaurance/CVE-2018-25031-test2](https://github.com/johnlaurance/CVE-2018-25031-test2)",
+      "description": "no description",
+      "date": "2024-02-22",
+      "raw_date": "2024-02-22T10:41:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.072269",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-02-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

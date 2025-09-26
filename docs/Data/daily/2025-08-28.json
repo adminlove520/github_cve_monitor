@@ -1,0 +1,125 @@
+{
+  "date": "2025-08-28",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-7955",
+      "repo_info": "[Nxploited/CVE-2025-7955](https://github.com/Nxploited/CVE-2025-7955)",
+      "description": "RingCentral Communications 1.5 - 1.6.8 - Missing Server‑Side Verification to Authentication Bypass via ringcentral_admin_login_2fa_verify Function",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T12:18:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-7775",
+      "repo_info": "[hacker-r3volv3r/CVE-2025-7775-PoC](https://github.com/hacker-r3volv3r/CVE-2025-7775-PoC)",
+      "description": "no description",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T07:22:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-57819",
+      "repo_info": "[rxerium/CVE-2025-57819](https://github.com/rxerium/CVE-2025-57819)",
+      "description": "Detection for CVE-2025-57819",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T10:15:33Z"
+    },
+    {
+      "cve_id": "CVE-2025-55580",
+      "repo_info": "[ddobrev25/CVE-2025-55580](https://github.com/ddobrev25/CVE-2025-55580)",
+      "description": "CVE-2025-55580",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T18:29:44Z"
+    },
+    {
+      "cve_id": "CVE-2025-55579",
+      "repo_info": "[ddobrev25/CVE-2025-55579](https://github.com/ddobrev25/CVE-2025-55579)",
+      "description": "CVE-2025-55579",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T15:54:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-55188",
+      "repo_info": "[lunbun/CVE-2025-55188](https://github.com/lunbun/CVE-2025-55188)",
+      "description": "Proof-of-Concept of CVE-2025-55188: 7-Zip Arbitrary File Write",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T03:33:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-5419",
+      "repo_info": "[pavan3478/CVE-2025-5419](https://github.com/pavan3478/CVE-2025-5419)",
+      "description": "🔍 Analyze CVE-2025-5419 to understand its impact and mitigate risks effectively in your systems.",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T22:20:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[jacobholtz/CVE-2025-48384-poc](https://github.com/jacobholtz/CVE-2025-48384-poc)",
+      "description": "PoC for CVE-2025-48384",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T15:10:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[jacobholtz/CVE-2025-48384-submodule](https://github.com/jacobholtz/CVE-2025-48384-submodule)",
+      "description": "no description",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T15:54:22Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[butyraldehyde/CVE-2025-48384-PoC-Part2](https://github.com/butyraldehyde/CVE-2025-48384-PoC-Part2)",
+      "description": "RCE hook",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T17:43:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-48384",
+      "repo_info": "[butyraldehyde/CVE-2025-48384-PoC](https://github.com/butyraldehyde/CVE-2025-48384-PoC)",
+      "description": "Built to call on CVE-2025-48384-PoC-Part2 for RCE",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T18:54:58Z"
+    },
+    {
+      "cve_id": "CVE-2025-32433",
+      "repo_info": "[Mdusmandasthaheer/CVE-2025-32433](https://github.com/Mdusmandasthaheer/CVE-2025-32433)",
+      "description": "no description",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T15:01:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-31200",
+      "repo_info": "[hunters-sec/CVE-2025-31200](https://github.com/hunters-sec/CVE-2025-31200)",
+      "description": "IOS audio buffer overflow CVE-2025-31200 POC",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T13:53:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[zs1n/CVE-2025-29927](https://github.com/zs1n/CVE-2025-29927)",
+      "description": "PoC - NextJS Middleware 15.2.2 - Authorization Bypass",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T06:55:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-28397",
+      "repo_info": "[Naved124/CVE-2024-28397-js2py-Sandbox-Escape](https://github.com/Naved124/CVE-2024-28397-js2py-Sandbox-Escape)",
+      "description": "no description",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T07:39:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-12877",
+      "repo_info": "[soltanali0/CVE-2024-12877-Exploit](https://github.com/soltanali0/CVE-2024-12877-Exploit)",
+      "description": "no description",
+      "date": "2025-08-28",
+      "raw_date": "2025-08-28T15:57:01Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.174772",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2025-08-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2022-06-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-21661",
+      "repo_info": "[PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main](https://github.com/PyterSmithDarkGhost/CVE-2022-21661-WordPress-Core-5.8.2-WP_Query-SQL-Injection-main)",
+      "description": "no description",
+      "date": "2022-06-18",
+      "raw_date": "2022-06-18T14:42:04Z"
+    },
+    {
+      "cve_id": "CVE-2002-1614",
+      "repo_info": "[wlensinas/CVE-2002-1614](https://github.com/wlensinas/CVE-2002-1614)",
+      "description": "no description",
+      "date": "2022-06-18",
+      "raw_date": "2022-06-18T18:43:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.900082",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-06-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

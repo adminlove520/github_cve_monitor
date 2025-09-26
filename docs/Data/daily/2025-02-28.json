@@ -1,0 +1,41 @@
+{
+  "date": "2025-02-28",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-44603",
+      "repo_info": "[Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers](https://github.com/Moulish2004/CVE-2025-44603-CSRF-Leads_to_Create_FakeUsers)",
+      "description": "CSRF can create fake users by tricking an authenticated user into submitting a malicious request. The web app trusts the session, allowing unauthorized account creation, leading to privilege escalation or spam. Mitigation includes CSRF tokens, Same Site cookies, and authentication checks like CAPTCHAs.",
+      "date": "2025-02-28",
+      "raw_date": "2025-02-28T06:31:12Z"
+    },
+    {
+      "cve_id": "CVE-2025-25296",
+      "repo_info": "[Macazella/Analisis_Vulnerabilidades_CVE](https://github.com/Macazella/Analisis_Vulnerabilidades_CVE)",
+      "description": "&quot;Análisis de vulnerabilidades CVE reportadas en 2024 y 2025 con visualización en Power BI.&quot;",
+      "date": "2025-02-28",
+      "raw_date": "2025-02-28T12:15:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-47051",
+      "repo_info": "[mallo-m/CVE-2024-47051](https://github.com/mallo-m/CVE-2024-47051)",
+      "description": "Mautic &lt; 5.2.3 Authenticated RCE",
+      "date": "2025-02-28",
+      "raw_date": "2025-02-28T05:35:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-6199",
+      "repo_info": "[AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199](https://github.com/AbdrrahimDahmani/php_filter_chains_oracle_exploit_for_CVE-2023-6199)",
+      "description": "A CLI to exploit parameters vulnerable to PHP filter chain error based oracle, modified to exploit CVE-2023-6199",
+      "date": "2025-02-28",
+      "raw_date": "2025-02-28T20:48:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.137314",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2025-02-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

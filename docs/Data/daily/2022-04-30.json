@@ -1,0 +1,97 @@
+{
+  "date": "2022-04-30",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-29885",
+      "repo_info": "[4ra1n/CVE-2022-29885](https://github.com/4ra1n/CVE-2022-29885)",
+      "description": "Apache Tomcat CVE-2022-29885",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T02:30:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[UUFR/CVE-2022-29464](https://github.com/UUFR/CVE-2022-29464)",
+      "description": "CVE-2022-29464",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T04:30:51Z"
+    },
+    {
+      "cve_id": "CVE-2022-28099",
+      "repo_info": "[IbrahimEkimIsik/CVE-2022-28099](https://github.com/IbrahimEkimIsik/CVE-2022-28099)",
+      "description": "SQL injection for Poultry Farm Management System 1.0",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T02:01:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[ZyxelTeam/CVE-2022-26809-RCE](https://github.com/ZyxelTeam/CVE-2022-26809-RCE)",
+      "description": "This repository contains a PoC for remote code execution CVE-2022-26809",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T15:49:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-1077",
+      "repo_info": "[MrEmpy/CVE-2022-1077](https://github.com/MrEmpy/CVE-2022-1077)",
+      "description": "TEM FLEX-1080/FLEX-1085 1.6.0 log log.cgi Information Disclosure",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T21:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-3560",
+      "repo_info": "[WinMin/CVE-2021-3560](https://github.com/WinMin/CVE-2021-3560)",
+      "description": "PolicyKit CVE-2021-3560 Exploitation (Authentication Agent)",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T05:53:45Z"
+    },
+    {
+      "cve_id": "CVE-2021-22924",
+      "repo_info": "[Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924](https://github.com/Trinadh465/external_curl_AOSP10_r33_CVE-2021-22924)",
+      "description": "no description",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T03:40:15Z"
+    },
+    {
+      "cve_id": "CVE-2021-22204",
+      "repo_info": "[TPower2112/Writing-Sample-1](https://github.com/TPower2112/Writing-Sample-1)",
+      "description": "CVE-2021-44228 Log4j Summary",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T02:35:38Z"
+    },
+    {
+      "cve_id": "CVE-2021-0511",
+      "repo_info": "[Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511](https://github.com/Trinadh465/platform_art_AOSP10_r33_CVE-2021-0511)",
+      "description": "no description",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T05:54:11Z"
+    },
+    {
+      "cve_id": "CVE-2020-0418",
+      "repo_info": "[Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418](https://github.com/Trinadh465/packages_apps_PackageInstaller_AOSP10_r33_CVE-2020-0418)",
+      "description": "no description",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T06:16:17Z"
+    },
+    {
+      "cve_id": "CVE-2020-0381",
+      "repo_info": "[Trinadh465/external_sonivox_AOSP10_r33_CVE-2020-0381](https://github.com/Trinadh465/external_sonivox_AOSP10_r33_CVE-2020-0381)",
+      "description": "no description",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T06:37:25Z"
+    },
+    {
+      "cve_id": "CVE-2019-9787",
+      "repo_info": "[kuangting4231/mitigation-cve-2019-9787](https://github.com/kuangting4231/mitigation-cve-2019-9787)",
+      "description": "no description",
+      "date": "2022-04-30",
+      "raw_date": "2022-04-30T12:19:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.891056",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2022-04-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

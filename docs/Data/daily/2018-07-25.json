@@ -1,0 +1,20 @@
+{
+  "date": "2018-07-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2004-2271",
+      "repo_info": "[PercussiveElbow/CVE-2004-2271-MiniShare-1.4.1-Buffer-Overflow](https://github.com/PercussiveElbow/CVE-2004-2271-MiniShare-1.4.1-Buffer-Overflow)",
+      "description": "no description",
+      "date": "2018-07-25",
+      "raw_date": "2018-07-25T23:31:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.747329",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-07-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

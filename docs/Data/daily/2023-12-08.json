@@ -1,0 +1,118 @@
+{
+  "date": "2023-12-08",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-0001",
+      "repo_info": "[jiupta/CVE-2024-0001-EXP](https://github.com/jiupta/CVE-2024-0001-EXP)",
+      "description": "no description",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T10:01:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-50643",
+      "repo_info": "[V3x0r/CVE-2023-50643](https://github.com/V3x0r/CVE-2023-50643)",
+      "description": "CVE-2023-50643",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T16:37:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-49964",
+      "repo_info": "[mbadanoiu/CVE-2023-49964](https://github.com/mbadanoiu/CVE-2023-49964)",
+      "description": "CVE-2023-49964: FreeMarker Server-Side Template Injection in Alfresco",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:47:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-4966",
+      "repo_info": "[jmussmann/cve-2023-4966-iocs](https://github.com/jmussmann/cve-2023-4966-iocs)",
+      "description": "Python script to search Citrix NetScaler logs for possible CVE-2023-4966 exploitation.",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T10:28:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-4966",
+      "repo_info": "[GhostBalladw/wuhaozhe-s-CVE](https://github.com/GhostBalladw/wuhaozhe-s-CVE)",
+      "description": "CVE-2023-41623",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T04:15:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-46456",
+      "repo_info": "[cyberaz0r/GL.iNet-Multiple-Vulnerabilities](https://github.com/cyberaz0r/GL.iNet-Multiple-Vulnerabilities)",
+      "description": "Exploits for GL.iNet CVE-2023-46454, CVE-2023-46455 and CVE-2023-46456",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T01:45:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-21118",
+      "repo_info": "[Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118](https://github.com/Trinadh465/frameworks_native_AOSP-10_r33_CVE-2023-21118)",
+      "description": "no description",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T11:29:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[netbell/CVE-2023-20198-Fix](https://github.com/netbell/CVE-2023-20198-Fix)",
+      "description": "Check for and remediate conditions that make an IOS-XE device vulnerable to CVE-2023-20198",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T21:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malwaree](https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malwaree)",
+      "description": "In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:55:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[tovbumacius/Slient-Url-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware](https://github.com/tovbumacius/Slient-Url-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "URL Contamination Exploit Muted Java Drive-By downloads can transpire during the act of perusing a website, inaugurating an electronic mail communication.",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:53:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware](https://github.com/tovbumacius/Slient-PDF-FUD-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "A meticulous scrutiny of the Exploit PDFs innards exposes a network of malevolence, unveiling both the nefarious hyperlink and the URL that precipitates",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware](https://github.com/tovbumacius/Jpg-Png-Exploit-Slient--Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "In the hushed galleries of the Silent JPG Exploit, a symphony shrouded in enigma unfurls—an opus named silent-jpg-exploit-2018—a title that reverberates through the annals of intrigue.",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[tovbumacius/Hta-Exploit-Builder-Slient--Builder-Exploit-Database-Cve-2023-Malware](https://github.com/tovbumacius/Hta-Exploit-Builder-Slient--Builder-Exploit-Database-Cve-2023-Malware)",
+      "description": "Microsoft Windows HTA (HTML Application) - Pinnacle of Remote Code Execution",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:53:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-21392",
+      "repo_info": "[mbadanoiu/CVE-2022-21392](https://github.com/mbadanoiu/CVE-2022-21392)",
+      "description": "CVE-2022-21392: Local Privilege Escalation via NMR SUID in Oracle Enterprise Manager",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T20:13:23Z"
+    },
+    {
+      "cve_id": "CVE-2019-6693",
+      "repo_info": "[saladandonionrings/cve-2019-6693](https://github.com/saladandonionrings/cve-2019-6693)",
+      "description": "An authorized remote user with access or knowledge of the standard encryption key can gain access and decrypt the FortiOS backup files and all non-administator passwords, private keys and High Availability passwords.",
+      "date": "2023-12-08",
+      "raw_date": "2023-12-08T11:00:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.060259",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2023-12-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

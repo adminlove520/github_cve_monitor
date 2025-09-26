@@ -1,0 +1,97 @@
+{
+  "date": "2023-06-23",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-34839",
+      "repo_info": "[sahiloj/CVE-2023-34839](https://github.com/sahiloj/CVE-2023-34839)",
+      "description": "no description",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T11:51:46Z"
+    },
+    {
+      "cve_id": "CVE-2023-34838",
+      "repo_info": "[sahiloj/CVE-2023-34838](https://github.com/sahiloj/CVE-2023-34838)",
+      "description": "no description",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T11:51:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-34837",
+      "repo_info": "[sahiloj/CVE-2023-34837](https://github.com/sahiloj/CVE-2023-34837)",
+      "description": "no description",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T11:50:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-34836",
+      "repo_info": "[sahiloj/CVE-2023-34836](https://github.com/sahiloj/CVE-2023-34836)",
+      "description": "no description",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T11:50:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-34835",
+      "repo_info": "[sahiloj/CVE-2023-34835](https://github.com/sahiloj/CVE-2023-34835)",
+      "description": "no description",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T11:49:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-34599",
+      "repo_info": "[maddsec/CVE-2023-34599](https://github.com/maddsec/CVE-2023-34599)",
+      "description": "Multiple Cross-Site Scripting (XSS) vulnerabilities have been identified in Gibbon v25.0.0, which enable attackers to execute arbitrary Javascript code.",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T20:10:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-34598",
+      "repo_info": "[maddsec/CVE-2023-34598](https://github.com/maddsec/CVE-2023-34598)",
+      "description": "Gibbon v25.0.0 is vulnerable to a Local File Inclusion (LFI) vulnerability where it&#x27;s possible to include the content of several files present in the installation folder in the server&#x27;s response.",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T19:49:38Z"
+    },
+    {
+      "cve_id": "CVE-2023-33768",
+      "repo_info": "[purseclab/CVE-2023-33768](https://github.com/purseclab/CVE-2023-33768)",
+      "description": "DoS against Belkin smart plugs via crafted firmware injection",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T18:28:18Z"
+    },
+    {
+      "cve_id": "CVE-2023-27997",
+      "repo_info": "[puckiestyle/cve-2023-27997](https://github.com/puckiestyle/cve-2023-27997)",
+      "description": "no description",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T15:15:54Z"
+    },
+    {
+      "cve_id": "CVE-2022-44321",
+      "repo_info": "[Halcy0nic/CVEs-for-picoc-3.2.2](https://github.com/Halcy0nic/CVEs-for-picoc-3.2.2)",
+      "description": "Reproduction files for CVE-2022-44312 through CVE-2022-44321",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T00:16:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-30136",
+      "repo_info": "[VEEXH/CVE-2022-30136](https://github.com/VEEXH/CVE-2022-30136)",
+      "description": "Windows Network File System Remote exploit (DoS) PoC",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T17:13:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-5955",
+      "repo_info": "[MikeTheHash/CVE-2018-5955](https://github.com/MikeTheHash/CVE-2018-5955)",
+      "description": "An exploit for CVE-2018-5955 GitStack 2.3.10 Unauthenticated RCE",
+      "date": "2023-06-23",
+      "raw_date": "2023-06-23T20:25:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.033625",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2023-06-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

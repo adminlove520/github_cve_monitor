@@ -1,0 +1,97 @@
+{
+  "date": "2025-04-05",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-32118",
+      "repo_info": "[Nxploited/CVE-2025-32118](https://github.com/Nxploited/CVE-2025-32118)",
+      "description": "WordPress CMP – Coming Soon &amp; Maintenance plugin &lt;= 4.1.13 - Remote Code Execution (RCE) vulnerability",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T07:14:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-30208",
+      "repo_info": "[lilil3333/Vite-CVE-2025-30208-EXP](https://github.com/lilil3333/Vite-CVE-2025-30208-EXP)",
+      "description": "Vite-CVE-2025-30208-EXP单目标检测，支持自定义读取路径，深度检索",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T04:59:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-30065",
+      "repo_info": "[ron-imperva/CVE-2025-30065-PoC](https://github.com/ron-imperva/CVE-2025-30065-PoC)",
+      "description": "CVE-2025-30065 PoC",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T09:43:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[Balajih4kr/cve-2025-29927](https://github.com/Balajih4kr/cve-2025-29927)",
+      "description": "CVE-2025-29927 is a critical vulnerability in Next.js, a popular React-based web framework. The flaw exists in how the middleware feature handles certain internal headers — specifically, the x-middleware-subrequest header",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T17:02:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[MuhammadWaseem29/CVE-2025-24813](https://github.com/MuhammadWaseem29/CVE-2025-24813)",
+      "description": "no description",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T18:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[AsaL1n/CVE-2025-24813](https://github.com/AsaL1n/CVE-2025-24813)",
+      "description": "simple exp for CVE-2025-24813",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T09:07:13Z"
+    },
+    {
+      "cve_id": "CVE-2025-12654",
+      "repo_info": "[ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder](https://github.com/ThoristKaw/Anydesk-Exploit-CVE-2025-12654-RCE-Builder)",
+      "description": "Exploit development targets vulnerabilities using tools like exploitation frameworks. CVE databases list risks, while CVE-2025-44228 is an example of a flaw. AnyDesk exploits highlight security gaps.",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T18:00:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-12654",
+      "repo_info": "[Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce](https://github.com/Kariaoston/Lnk-Exploit-FileBinder-Certificate-Spoofer-Reg-Doc-Cve-Rce)",
+      "description": "Exploit development involves tools like exploitation frameworks and CVE databases. LNK exploits, such as LNK builder or LNK payload techniques, leverage vulnerabilities like CVE-2025-44228 for silent RCE execution through shortcut files.",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T09:35:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-12654",
+      "repo_info": "[SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK](https://github.com/SetKursma/Phantom-Registy-Exploit-CVE2025-20682-Runtime-FUD-LNK)",
+      "description": "Exploit development involves tools like exploitation frameworks and CVE databases. Registry exploits, such as reg exploit or registry-based payloads, leverage vulnerabilities for silent execution, often using FUD techniques to evade detection.",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T10:25:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-12654",
+      "repo_info": "[Karitosmuan/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud](https://github.com/Karitosmuan/Office-Exploit-Cve2025-Xml-Doc-Docx-Rce-Builder-Fud)",
+      "description": "Exploit development targets vulnerabilities like CVE-2025-44228, often using tools like silent exploit builders. Office documents, including DOC files, are exploited through malware payloads and CVE exploits, impacting platforms like Office 365.",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T09:56:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[kuzeyardabulut/CVE-2024-0582](https://github.com/kuzeyardabulut/CVE-2024-0582)",
+      "description": "A data-only exploit for CVE-2024-0582",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T14:39:53Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[vedpakhare/vsftpd-234-vuln-report](https://github.com/vedpakhare/vsftpd-234-vuln-report)",
+      "description": "Vulnerability assessment and exploitation of vsftpd 2.3.4 (CVE-2011-2523) using Metasploit. Full report and proof of root access included.",
+      "date": "2025-04-05",
+      "raw_date": "2025-04-05T07:39:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.144436",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2025-04-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

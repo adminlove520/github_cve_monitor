@@ -1,0 +1,20 @@
+{
+  "date": "2021-02-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-5413",
+      "repo_info": "[forse01/CVE-2019-5413-NetBeans-NoJson](https://github.com/forse01/CVE-2019-5413-NetBeans-NoJson)",
+      "description": "no description",
+      "date": "2021-02-16",
+      "raw_date": "2021-02-16T07:25:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.841127",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-02-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

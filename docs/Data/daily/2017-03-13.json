@@ -1,0 +1,27 @@
+{
+  "date": "2017-03-13",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[oktavianto/CVE-2017-5638-Apache-Struts2](https://github.com/oktavianto/CVE-2017-5638-Apache-Struts2)",
+      "description": "Example PHP Exploiter for CVE-2017-5638",
+      "date": "2017-03-13",
+      "raw_date": "2017-03-13T11:39:55Z"
+    },
+    {
+      "cve_id": "CVE-2016-4657",
+      "repo_info": "[Mimoja/CVE-2016-4657-NintendoSwitch](https://github.com/Mimoja/CVE-2016-4657-NintendoSwitch)",
+      "description": "CVE-2016-4657 for NintendoSwitch rwx",
+      "date": "2017-03-13",
+      "raw_date": "2017-03-13T13:08:17Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.701715",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2017-03-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2015-09-10",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-5119",
+      "repo_info": "[CiscoCXSecurity/CVE-2015-5119_walkthrough](https://github.com/CiscoCXSecurity/CVE-2015-5119_walkthrough)",
+      "description": "Archive from the article CVE-2015-5119 Flash ByteArray UaF: A beginner&#x27;s walkthrough",
+      "date": "2015-09-10",
+      "raw_date": "2015-09-10T10:10:36Z"
+    },
+    {
+      "cve_id": "CVE-2015-1538",
+      "repo_info": "[jduck/cve-2015-1538-1](https://github.com/jduck/cve-2015-1538-1)",
+      "description": "An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution",
+      "date": "2015-09-10",
+      "raw_date": "2015-09-10T23:00:59Z"
+    },
+    {
+      "cve_id": "CVE-2015-1538",
+      "repo_info": "[renjithsasidharan/cve-2015-1538-1](https://github.com/renjithsasidharan/cve-2015-1538-1)",
+      "description": "An exploit for CVE-2015-1538-1 - Google Stagefright ‘stsc’ MP4 Atom Integer Overflow Remote Code Execution",
+      "date": "2015-09-10",
+      "raw_date": "2015-09-10T19:34:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.653612",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2015-09-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

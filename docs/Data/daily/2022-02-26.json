@@ -1,0 +1,27 @@
+{
+  "date": "2022-02-26",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-18326",
+      "repo_info": "[hamm0nz/CVE-2020-18326](https://github.com/hamm0nz/CVE-2020-18326)",
+      "description": "Exploit PoC for CVE-2020-18326",
+      "date": "2022-02-26",
+      "raw_date": "2022-02-26T17:30:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-18325",
+      "repo_info": "[hamm0nz/CVE-2020-18325](https://github.com/hamm0nz/CVE-2020-18325)",
+      "description": "Exploit PoC for CVE-2020-18325",
+      "date": "2022-02-26",
+      "raw_date": "2022-02-26T17:06:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.881926",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-02-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

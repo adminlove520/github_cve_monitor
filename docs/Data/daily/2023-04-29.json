@@ -1,0 +1,55 @@
+{
+  "date": "2023-04-29",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-29983",
+      "repo_info": "[zPrototype/CVE-2023-29983](https://github.com/zPrototype/CVE-2023-29983)",
+      "description": "no description",
+      "date": "2023-04-29",
+      "raw_date": "2023-04-29T22:52:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[haxor1337x/Scanner-CVE-2023-29489](https://github.com/haxor1337x/Scanner-CVE-2023-29489)",
+      "description": "Scanner CVE-2023-29489 Python (Selenium)",
+      "date": "2023-04-29",
+      "raw_date": "2023-04-29T18:52:37Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[Mostafa-Elguerdawi/CVE-2023-29489](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489)",
+      "description": "no description",
+      "date": "2023-04-29",
+      "raw_date": "2023-04-29T05:54:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-29489",
+      "repo_info": "[Mostafa-Elguerdawi/CVE-2023-29489.yaml](https://github.com/Mostafa-Elguerdawi/CVE-2023-29489.yaml)",
+      "description": "no description",
+      "date": "2023-04-29",
+      "raw_date": "2023-04-29T05:52:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-46169",
+      "repo_info": "[devilgothies/CVE-2022-46169](https://github.com/devilgothies/CVE-2022-46169)",
+      "description": "PoC for CVE-2022-46169 that affects Cacti 1.2.22 version",
+      "date": "2023-04-29",
+      "raw_date": "2023-04-29T22:14:17Z"
+    },
+    {
+      "cve_id": "CVE-2022-23529",
+      "repo_info": "[69camau/sw1tch](https://github.com/69camau/sw1tch)",
+      "description": "poc of CVE-2022-46689 written purely in swift",
+      "date": "2023-04-29",
+      "raw_date": "2023-04-29T11:21:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.025354",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2023-04-29",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

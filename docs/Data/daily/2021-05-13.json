@@ -1,0 +1,27 @@
+{
+  "date": "2021-05-13",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8813",
+      "repo_info": "[yuaneuro/ofbiz-poc](https://github.com/yuaneuro/ofbiz-poc)",
+      "description": "CVE-2020-9496和CVE-2021-26295利用dnslog批量验证漏洞poc及exp",
+      "date": "2021-05-13",
+      "raw_date": "2021-05-13T13:28:15Z"
+    },
+    {
+      "cve_id": "CVE-2020-27955",
+      "repo_info": "[Arnoldqqq/CVE-2020-27955](https://github.com/Arnoldqqq/CVE-2020-27955)",
+      "description": "no description",
+      "date": "2021-05-13",
+      "raw_date": "2021-05-13T10:30:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.850590",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-05-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,748 @@
+{
+  "date": "2023-02-03",
+  "count": 105,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-25139",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25139](https://github.com/Live-Hack-CVE/CVE-2023-25139)",
+      "description": "sprintf in the GNU C Library (glibc) 2.37 has a buffer overflow (out-of-bounds write) in some situations with a correct buffer size. This is unrelated to CWE-676. It may write beyond the bounds of the destination buffer when attempting to write a padded, thousands-separated string representation of a number, if the buf CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T12:07:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-25136",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25136](https://github.com/Live-Hack-CVE/CVE-2023-25136)",
+      "description": "OpenSSH server (sshd) 9.1 introduced a double-free vulnerability during options.kex_algorithms handling. This is fixed in OpenSSH 9.2. The double free can be triggered by an unauthenticated attacker in the default configuration; however, the vulnerability discoverer reports that &quot;exploiting this vulnerability will not  CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T12:07:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-25135",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-25135](https://github.com/Live-Hack-CVE/CVE-2023-25135)",
+      "description": "vBulletin before 5.6.9 PL1 allows an unauthenticated remote attacker to execute arbitrary code via a crafted HTTP request that triggers deserialization. This occurs because verify_serialized checks that a value is serialized by calling unserialize and then checking for errors. The fixed versions are 5.6.7 PL1, 5.6.8 PL CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:36:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-24426",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24426](https://github.com/Live-Hack-CVE/CVE-2023-24426)",
+      "description": "Jenkins Azure AD Plugin 303.va_91ef20ee49f and earlier does not invalidate the previous session on login. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-24425",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24425](https://github.com/Live-Hack-CVE/CVE-2023-24425)",
+      "description": "Jenkins Kubernetes Credentials Provider Plugin 1.208.v128ee9800c04 and earlier does not set the appropriate context for Kubernetes credentials lookup, allowing attackers with Item/Configure permission to access and potentially capture Kubernetes credentials they are not entitled to. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:52Z"
+    },
+    {
+      "cve_id": "CVE-2023-24138",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-24138](https://github.com/Live-Hack-CVE/CVE-2023-24138)",
+      "description": "TOTOLINK CA300-PoE V6.2c.884 was discovered to contain a command injection vulnerability via the host_time parameter in the NTPSyncWithHost function. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:43:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-23130",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23130](https://github.com/Live-Hack-CVE/CVE-2023-23130)",
+      "description": "** DISPUTED ** Connectwise Automate 2022.11 is vulnerable to Cleartext authentication. Authentication is being done via HTTP (cleartext) with SSL disabled. OTE: the vendor&#x27;s position is that, by design, this is controlled by a configuration option in which a customer can choose to use HTTP (rather than HTTPS) during tr CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T12:07:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-23126",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23126](https://github.com/Live-Hack-CVE/CVE-2023-23126)",
+      "description": "** DISPUTED ** Connectwise Automate 2022.11 is vulnerable to Clickjacking. The login screen can be iframed and used to manipulate users to perform unintended actions. NOTE: the vendor&#x27;s position is that a Content-Security-Policy HTTP response header is present to block this attack. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T12:07:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-23120",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23120](https://github.com/Live-Hack-CVE/CVE-2023-23120)",
+      "description": "The use of the cyclic redundancy check (CRC) algorithm for integrity check during firmware update makes TRENDnet TV-IP651WI Network Camera firmware version v1.07.01 and earlier vulnerable to firmware modification attacks. An attacker can conduct a man-in-the-middle (MITM) attack to modify the new firmware image and byp CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-23119",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-23119](https://github.com/Live-Hack-CVE/CVE-2023-23119)",
+      "description": "The use of the cyclic redundancy check (CRC) algorithm for integrity check during firmware update makes Ubiquiti airFiber AF2X Radio firmware version 3.2.2 and earlier vulnerable to firmware modification attacks. An attacker can conduct a man-in-the-middle (MITM) attack to modify the new firmware image and bypass the c CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:07Z"
+    },
+    {
+      "cve_id": "CVE-2023-0658",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0658](https://github.com/Live-Hack-CVE/CVE-2023-0658)",
+      "description": "A vulnerability, which was classified as critical, was found in Multilaser RE057 and RE170 2.1/2.2. This affects an unknown part of the file /param.file.tgz of the component Backup File Handler. The manipulation leads to information disclosure. It is possible to initiate the attack remotely. The identifier VDB-220053 w CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T02:06:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-0634",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0634](https://github.com/Live-Hack-CVE/CVE-2023-0634)",
+      "description": "An uncontrolled process operation was found in the newgrp command provided by the shadow-utils package. This issue could cause the execution of arbitrary code provided by a user when running the newgrp command. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T02:06:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-0549",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0549](https://github.com/Live-Hack-CVE/CVE-2023-0549)",
+      "description": "A vulnerability, which was classified as problematic, has been found in YAFNET up to 3.1.10. This issue affects some unknown processing of the file /forum/PostPrivateMessage of the component Private Message Handler. The manipulation of the argument subject/message leads to cross site scripting. The attack may be initia CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T13:16:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-0124",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0124](https://github.com/Live-Hack-CVE/CVE-2023-0124)",
+      "description": "Delta Electronics DOPSoft versions 4.00.16.22 and prior are vulnerable to an out-of-bounds write, which could allow an attacker to remotely execute arbitrary code when a malformed file is introduced to the software. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-0123",
+      "repo_info": "[Live-Hack-CVE/CVE-2023-0123](https://github.com/Live-Hack-CVE/CVE-2023-0123)",
+      "description": "Delta Electronics DOPSoft versions 4.00.16.22 and prior are vulnerable to a stack-based buffer overflow, which could allow an attacker to remotely execute arbitrary code when a malformed file is introduced to the software. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-0045",
+      "repo_info": "[es0j/CVE-2023-0045](https://github.com/es0j/CVE-2023-0045)",
+      "description": "no description",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T21:51:04Z"
+    },
+    {
+      "cve_id": "CVE-2022-48074",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-48074](https://github.com/Live-Hack-CVE/CVE-2022-48074)",
+      "description": "An issue in NoMachine before v8.2.3 allows attackers to execute arbitrary commands via a crafted .nxs file. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T12:07:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-47986",
+      "repo_info": "[ohnonoyesyes/CVE-2022-47986](https://github.com/ohnonoyesyes/CVE-2022-47986)",
+      "description": "Aspera Faspex Pre Auth RCE",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:32:13Z"
+    },
+    {
+      "cve_id": "CVE-2022-46604",
+      "repo_info": "[galoget/ResponsiveFileManager-CVE-2022-46604](https://github.com/galoget/ResponsiveFileManager-CVE-2022-46604)",
+      "description": "Responsive FileManager v.9.9.5 vulnerable to CVE-2022–46604.",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T08:56:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-4634",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-4634](https://github.com/Live-Hack-CVE/CVE-2022-4634)",
+      "description": "All versions prior to Delta Electronic’s CNCSoft version 1.01.34 (running ScreenEditor versions 1.01.5 and prior) are vulnerable to a stack-based buffer overflow, which could allow an attacker to remotely execute arbitrary code. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:36:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[agathanon/cve-2022-44268](https://github.com/agathanon/cve-2022-44268)",
+      "description": "Payload generator and extractor for CVE-2022-44268 written in Python.",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:02:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[Ashifcoder/CVE-2022-44268-automated-poc](https://github.com/Ashifcoder/CVE-2022-44268-automated-poc)",
+      "description": "An information disclosure vulnerability that could be exploited to read arbitrary files from a server when parsing an image in Image Magic.",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T11:33:27Z"
+    },
+    {
+      "cve_id": "CVE-2022-44268",
+      "repo_info": "[y1nglamore/CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment](https://github.com/y1nglamore/CVE-2022-44268-ImageMagick-Vulnerable-Docker-Environment)",
+      "description": "The vulnerable recurrence docker environment for CVE-2022-44268",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T08:02:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-40998",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-40998](https://github.com/Live-Hack-CVE/CVE-2022-40998)",
+      "description": "Several stack-based buffer overflow vulnerabilities exist in the DetranCLI command parsing functionality of Siretta QUARTZ-GOLD G5.0.1.5-210720-141020. A specially-crafted network packet can lead to arbitrary command execution. An attacker can send a sequence of requests to trigger these vulnerabilities.This buffer ove CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-38389",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-38389](https://github.com/Live-Hack-CVE/CVE-2022-38389)",
+      "description": "IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 233975. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T02:06:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-34138",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-34138](https://github.com/Live-Hack-CVE/CVE-2022-34138)",
+      "description": "Insecure direct object references (IDOR) in the web server of Biltema IP and Baby Camera Software v124 allows attackers to access sensitive information. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-31144",
+      "repo_info": "[SpiralBL0CK/CVE-2022-31144](https://github.com/SpiralBL0CK/CVE-2022-31144)",
+      "description": "CVE-2022-31144 dos pt redis, not finished yet or too soon, this can be turned into rce but oh well if you smart enough",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T08:40:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-2327",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-2327](https://github.com/Live-Hack-CVE/CVE-2022-2327)",
+      "description": "io_uring use work_flags to determine which identity need to grab from the calling process to make sure it is consistent with the calling process when executing IORING_OP. Some operations are missing some types, which can lead to incorrect reference counts which can then lead to a double free. We recommend upgrading the CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T12:07:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-22486",
+      "repo_info": "[Live-Hack-CVE/CVE-2022-22486](https://github.com/Live-Hack-CVE/CVE-2022-22486)",
+      "description": "IBM Tivoli Workload Scheduler 9.4, 9.5, and 10.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 226328. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T02:06:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-28116",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-28116](https://github.com/Live-Hack-CVE/CVE-2021-28116)",
+      "description": "Squid through 4.14 and 5.x through 5.0.5, in some configurations, allows information disclosure because of an out-of-bounds read in WCCP protocol data. This can be leveraged as part of a chain for remote code execution as nobody. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:39Z"
+    },
+    {
+      "cve_id": "CVE-2021-24467",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-24467](https://github.com/Live-Hack-CVE/CVE-2021-24467)",
+      "description": "The Leaflet Map WordPress plugin before 3.0.0 does not verify the CSRF nonce when saving its settings, which allows attackers to make a logged in admin update the settings via a Cross-Site Request Forgery attack. This could lead to Cross-Site Scripting issues by either changing the URL of the JavaScript library being u CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:34Z"
+    },
+    {
+      "cve_id": "CVE-2021-21781",
+      "repo_info": "[Live-Hack-CVE/CVE-2021-21781](https://github.com/Live-Hack-CVE/CVE-2021-21781)",
+      "description": "An information disclosure vulnerability exists in the ARM SIGPAGE functionality of Linux Kernel v5.4.66 and v5.4.54. The latest version (5.11-rc4) seems to still be vulnerable. A userland application can read the contents of the sigpage, which can leak kernel memory contents. An attacker can read a process’s memory at  CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:07Z"
+    },
+    {
+      "cve_id": "CVE-2020-7923",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-7923](https://github.com/Live-Hack-CVE/CVE-2020-7923)",
+      "description": "A user authorized to perform database queries may cause denial of service by issuing specially crafted queries, which violate an invariant in the query subsystem&#x27;s support for geoNear. This issue affects: MongoDB Inc. MongoDB Server v4.4 versions prior to 4.4.0-rc7; v4.2 versions prior to 4.2.8; v4.0 versions prior to  CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:37Z"
+    },
+    {
+      "cve_id": "CVE-2020-7576",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-7576](https://github.com/Live-Hack-CVE/CVE-2020-7576)",
+      "description": "A vulnerability has been identified in Camstar Enterprise Platform (All versions), Opcenter Execution Core (All versions &lt; V8.2), Opcenter Execution Core (V8.2). An authenticated user with the ability to create containers, packages or register defects could perform stored Cross-Site Scripting (XSS) attacks within the v CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-5267",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-5267](https://github.com/Live-Hack-CVE/CVE-2020-5267)",
+      "description": "In ActionView before versions 6.0.2.2 and 5.2.4.2, there is a possible XSS vulnerability in ActionView&#x27;s JavaScript literal escape helpers. Views that use the `j` or `escape_javascript` methods may be susceptible to XSS attacks. The issue is fixed in versions 6.0.2.2 and 5.2.4.2. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-4788",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-4788](https://github.com/Live-Hack-CVE/CVE-2020-4788)",
+      "description": "IBM Power9 (AIX 7.1, 7.2, and VIOS 3.1) processors could allow a local user to obtain sensitive information from the data in the L1 cache under extenuating circumstances. IBM X-Force ID: 189296. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-36403",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-36403](https://github.com/Live-Hack-CVE/CVE-2020-36403)",
+      "description": "HTSlib through 1.10.2 allows out-of-bounds write access in vcf_parse_format (called from vcf_parse and vcf_read). CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:56Z"
+    },
+    {
+      "cve_id": "CVE-2020-26732",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-26732](https://github.com/Live-Hack-CVE/CVE-2020-26732)",
+      "description": "SKYWORTH GN542VF Boa version 0.94.13 does not set the Secure flag for the session cookie in an HTTPS session, which makes it easier for remote attackers to capture this cookie by intercepting its transmission within an HTTP session. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:43Z"
+    },
+    {
+      "cve_id": "CVE-2020-26664",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-26664](https://github.com/Live-Hack-CVE/CVE-2020-26664)",
+      "description": "A vulnerability in EbmlTypeDispatcher::send in VideoLAN VLC media player 3.0.11 allows attackers to trigger a heap-based buffer overflow via a crafted .mkv file. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:03Z"
+    },
+    {
+      "cve_id": "CVE-2020-1878",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-1878](https://github.com/Live-Hack-CVE/CVE-2020-1878)",
+      "description": "Huawei smartphone OxfordS-AN00A with versions earlier than 10.0.1.152D(C735E152R3P3),versions earlier than 10.0.1.160(C00E160R4P1) have an improper authentication vulnerability. Authentication to target component is improper when device performs an operation. Attackers exploit this vulnerability to obtain some informat CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:15Z"
+    },
+    {
+      "cve_id": "CVE-2020-16845",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-16845](https://github.com/Live-Hack-CVE/CVE-2020-16845)",
+      "description": "Go before 1.13.15 and 14.x before 1.14.7 can have an infinite read loop in ReadUvarint and ReadVarint in encoding/binary via invalid inputs. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-16251",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-16251](https://github.com/Live-Hack-CVE/CVE-2020-16251)",
+      "description": "HashiCorp Vault and Vault Enterprise versions 0.8.3 and newer, when configured with the GCP GCE auth method, may be vulnerable to authentication bypass. Fixed in 1.2.5, 1.3.8, 1.4.4, and 1.5.1. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:26Z"
+    },
+    {
+      "cve_id": "CVE-2020-16118",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-16118](https://github.com/Live-Hack-CVE/CVE-2020-16118)",
+      "description": "In GNOME Balsa before 2.6.0, a malicious server operator or man in the middle can trigger a NULL pointer dereference and client crash by sending a PREAUTH response to imap_mbox_connect in libbalsa/imap/imap-handle.c. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:49Z"
+    },
+    {
+      "cve_id": "CVE-2020-15803",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-15803](https://github.com/Live-Hack-CVE/CVE-2020-15803)",
+      "description": "Zabbix before 3.0.32rc1, 4.x before 4.0.22rc1, 4.1.x through 4.4.x before 4.4.10rc1, and 5.x before 5.0.2rc1 allows stored XSS in the URL Widget. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:55Z"
+    },
+    {
+      "cve_id": "CVE-2020-14347",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14347](https://github.com/Live-Hack-CVE/CVE-2020-14347)",
+      "description": "A flaw was found in the way xserver memory was not properly initialized. This could leak parts of server memory to the X client. In cases where Xorg server runs with elevated privileges, this could result in possible ASLR bypass. Xorg-server before version 1.20.9 is vulnerable. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-14042",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-14042](https://github.com/Live-Hack-CVE/CVE-2020-14042)",
+      "description": "** PRODUCT NOT SUPPORTED WHEN ASSIGNED ** A Cross Site Scripting (XSS) vulnerability was found in Codiad v1.7.8 and later. The vulnerability occurs because of improper sanitization of the folder&#x27;s name $path variable in components/filemanager/class.filemanager.php. NOTE: the vendor states &quot;Codiad is no longer under act CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-13300",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-13300](https://github.com/Live-Hack-CVE/CVE-2020-13300)",
+      "description": "GitLab CE/EE version 13.3 prior to 13.3.4 was vulnerable to an OAuth authorization scope change without user consent in the middle of the authorization flow. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:46Z"
+    },
+    {
+      "cve_id": "CVE-2020-12674",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-12674](https://github.com/Live-Hack-CVE/CVE-2020-12674)",
+      "description": "In Dovecot before 2.3.11.3, sending a specially formatted RPA request will crash the auth service because a length of zero is mishandled. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:50Z"
+    },
+    {
+      "cve_id": "CVE-2020-12673",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-12673](https://github.com/Live-Hack-CVE/CVE-2020-12673)",
+      "description": "In Dovecot before 2.3.11.3, sending a specially formatted NTLM request will crash the auth service because of an out-of-bounds read. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:54Z"
+    },
+    {
+      "cve_id": "CVE-2020-10963",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-10963](https://github.com/Live-Hack-CVE/CVE-2020-10963)",
+      "description": "FrozenNode Laravel-Administrator through 5.0.12 allows unrestricted file upload (and consequently Remote Code Execution) via admin/tips_image/image/file_upload image upload with PHP content within a GIF image that has the .php extension. NOTE: this product is discontinued. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:47Z"
+    },
+    {
+      "cve_id": "CVE-2020-10730",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-10730](https://github.com/Live-Hack-CVE/CVE-2020-10730)",
+      "description": "A NULL pointer dereference, or possible use-after-free flaw was found in Samba AD LDAP server in versions before 4.10.17, before 4.11.11 and before 4.12.4. Although some versions of Samba shipped with Red Hat Enterprise Linux do not support Samba in AD mode, the affected code is shipped with the libldb package. This fl CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:40Z"
+    },
+    {
+      "cve_id": "CVE-2020-10675",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-10675](https://github.com/Live-Hack-CVE/CVE-2020-10675)",
+      "description": "The Library API in buger jsonparser through 2019-12-04 allows attackers to cause a denial of service (infinite loop) via a Delete call. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:34Z"
+    },
+    {
+      "cve_id": "CVE-2020-0305",
+      "repo_info": "[Live-Hack-CVE/CVE-2020-0305](https://github.com/Live-Hack-CVE/CVE-2020-0305)",
+      "description": "In cdev_get of char_dev.c, there is a possible use-after-free due to a race condition. This could lead to local escalation of privilege with System execution privileges needed. User interaction is not needed for exploitation.Product: AndroidVersions: Android-10Android ID: A-153467744 CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:53Z"
+    },
+    {
+      "cve_id": "CVE-2019-7307",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-7307](https://github.com/Live-Hack-CVE/CVE-2019-7307)",
+      "description": "Apport before versions 2.14.1-0ubuntu3.29+esm1, 2.20.1-0ubuntu2.19, 2.20.9-0ubuntu7.7, 2.20.10-0ubuntu27.1, 2.20.11-0ubuntu5 contained a TOCTTOU vulnerability when reading the users ~/.apport-ignore.xml file, which allows a local attacker to replace this file with a symlink to any other file on the system and so cause  CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-7003",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-7003](https://github.com/Live-Hack-CVE/CVE-2019-7003)",
+      "description": "A SQL injection vulnerability in the reporting component of Avaya Control Manager could allow an unauthenticated attacker to execute arbitrary SQL commands and retrieve sensitive data related to other users on the system. Affected versions of Avaya Control Manager include 7.x and 8.0.x versions prior to 8.0.4.0. Unsupp CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:11Z"
+    },
+    {
+      "cve_id": "CVE-2019-6648",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-6648](https://github.com/Live-Hack-CVE/CVE-2019-6648)",
+      "description": "On version 1.9.0, If DEBUG logging is enable, F5 Container Ingress Service (CIS) for Kubernetes and Red Hat OpenShift (k8s-bigip-ctlr) log files may contain BIG-IP secrets such as SSL Private Keys and Private key Passphrases as provided as inputs by an AS3 Declaration. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:33Z"
+    },
+    {
+      "cve_id": "CVE-2019-6643",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-6643](https://github.com/Live-Hack-CVE/CVE-2019-6643)",
+      "description": "On versions 14.1.0-14.1.0.5, 14.0.0-14.0.0.4, 13.0.0-13.1.2, 12.1.0-12.1.4.1, and 11.5.2-11.6.4, an attacker sending specifically crafted DHCPv6 requests through a BIG-IP virtual server configured with a DHCPv6 profile may be able to cause the TMM process to produce a core file. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-5454",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5454](https://github.com/Live-Hack-CVE/CVE-2019-5454)",
+      "description": "SQL Injection in the Nextcloud Android app prior to version 3.0.0 allows to destroy a local cache when a harmful query is executed requiring to resetup the account. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:43Z"
+    },
+    {
+      "cve_id": "CVE-2019-5447",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-5447](https://github.com/Live-Hack-CVE/CVE-2019-5447)",
+      "description": "A path traversal vulnerability in &lt;= v0.2.6 of http-file-server npm module allows attackers to list files in arbitrary folders. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-4296",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4296](https://github.com/Live-Hack-CVE/CVE-2019-4296)",
+      "description": "IBM Robotic Process Automation with Automation Anywhere 11 information disclosure could allow a local user to obtain e-mail contents from the client debug log file. IBM X-Force ID: 160759. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-4295",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4295](https://github.com/Live-Hack-CVE/CVE-2019-4295)",
+      "description": "IBM Robotic Process Automation with Automation Anywhere 11 could allow an attacker with specialized access to obtain highly sensitive from the credential vault. IBM X-Force ID: 160758. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:45Z"
+    },
+    {
+      "cve_id": "CVE-2019-4269",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4269](https://github.com/Live-Hack-CVE/CVE-2019-4269)",
+      "description": "IBM WebSphere Application Server 7.0, 8.0, 8.5, and 9.0 Admin Console could allow a remote attacker to obtain sensitive information when a specially crafted url causes a stack trace to be dumped. IBM X-Force ID: 160202. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-4263",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4263](https://github.com/Live-Hack-CVE/CVE-2019-4263)",
+      "description": "IBM Content Navigator 3.0CD is vulnerable to local file inclusion, allowing an attacker to access a configuration file in the ICN server. IBM X-Force ID: 160015. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:10Z"
+    },
+    {
+      "cve_id": "CVE-2019-4260",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4260](https://github.com/Live-Hack-CVE/CVE-2019-4260)",
+      "description": "IBM Daeja ViewONE Professional, Standard &amp; Virtual 5.0 through 5.0.5 could allow an unauthorized user to download server files resulting in sensitive information disclosure. IBM X-Force ID: 160012. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:26Z"
+    },
+    {
+      "cve_id": "CVE-2019-4257",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4257](https://github.com/Live-Hack-CVE/CVE-2019-4257)",
+      "description": "IBM InfoSphere Information Server 11.5 and 11.7 is affected by an information disclosure vulnerability. Sensitive information in an error message may be used to conduct further attacks against the system. IBM X-Force ID: 159945. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-4252",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4252](https://github.com/Live-Hack-CVE/CVE-2019-4252)",
+      "description": "IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1 could allow a remote attacker to traverse directories on the system. An attacker could send a specially-crafted URL request containing &quot;dot dot&quot; sequences (/../) to view arbitrary files on the system. IBM X-Force ID: 159883. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-4250",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4250](https://github.com/Live-Hack-CVE/CVE-2019-4250)",
+      "description": "IBM Jazz Foundation products (IBM Rational Collaborative Lifecycle Management 6.0 through 6.0.6.1) is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trust CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:48Z"
+    },
+    {
+      "cve_id": "CVE-2019-4238",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4238](https://github.com/Live-Hack-CVE/CVE-2019-4238)",
+      "description": "IBM InfoSphere Information Server 11.3, 11.5, and 11.7 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 159464. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-4220",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4220](https://github.com/Live-Hack-CVE/CVE-2019-4220)",
+      "description": "IBM InfoSphere Information Server 11.7.1.0 stores a common hard coded encryption key that could be used to decrypt sensitive information. IBM X-Force ID: 159229. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:34Z"
+    },
+    {
+      "cve_id": "CVE-2019-4210",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4210](https://github.com/Live-Hack-CVE/CVE-2019-4210)",
+      "description": "IBM QRadar SIEM 7.3.2 could allow a user to bypass authentication exposing certain functionality which could lead to information disclosure or modification of application configuration. IBM X-Force ID: 158986. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:03Z"
+    },
+    {
+      "cve_id": "CVE-2019-4208",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4208](https://github.com/Live-Hack-CVE/CVE-2019-4208)",
+      "description": "IBM TRIRIGA Application Platform 3.5.3 and 3.6.0 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 159129. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-4207",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4207](https://github.com/Live-Hack-CVE/CVE-2019-4207)",
+      "description": "IBM TRIRIGA Application Platform 3.5.3 and 3.6.0 may disclose sensitive information only available to a local user that could be used in further attacks against the system. IBM X-Force ID: 159148. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:29:42Z"
+    },
+    {
+      "cve_id": "CVE-2019-4173",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4173](https://github.com/Live-Hack-CVE/CVE-2019-4173)",
+      "description": "IBM Cognos Controller 10.2.0, 10.2.1, 10.3.0, 10.3.1, and 10.4.0 could allow a remote attacker to obtain sensitive information, caused by a flaw in the HTTP OPTIONS method, aka Optionsbleed. By sending an OPTIONS HTTP request, a remote attacker could exploit this vulnerability to read secret data from process memory an CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:59Z"
+    },
+    {
+      "cve_id": "CVE-2019-4166",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4166](https://github.com/Live-Hack-CVE/CVE-2019-4166)",
+      "description": "IBM StoredIQ 7.6 could allow a remote attacker to conduct phishing attacks, using an open redirect attack. By persuading a victim to visit a specially-crafted Web site, a remote attacker could exploit this vulnerability to spoof the URL displayed to redirect a user to a malicious Web site that would appear to be truste CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-4162",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4162](https://github.com/Live-Hack-CVE/CVE-2019-4162)",
+      "description": "IBM Security Information Queue (ISIQ) 1.0.0, 1.0.1, and 1.0.2 is missing the HTTP Strict Transport Security header. Users can navigate by mistake to the unencrypted version of the web application or accept invalid certificates. This leads to sensitive data being sent unencrypted over the wire. IBM X-Force ID: 158661. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:06Z"
+    },
+    {
+      "cve_id": "CVE-2019-4157",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4157](https://github.com/Live-Hack-CVE/CVE-2019-4157)",
+      "description": "IBM Security Access Manager 9.0.1 through 9.0.6 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 158573. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-4156",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4156](https://github.com/Live-Hack-CVE/CVE-2019-4156)",
+      "description": "IBM Security Access Manager 9.0.1 through 9.0.6 uses weaker than expected cryptographic algorithms that could allow an attacker to decrypt highly sensitive information. IBM X-Force ID: 158572. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-4140",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4140](https://github.com/Live-Hack-CVE/CVE-2019-4140)",
+      "description": "IBM Tivoli Storage Manager Server (IBM Spectrum Protect 7.1 and 8.1) could allow a local user to replace existing databases by restoring old data. IBM X-Force ID: 158336. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:30Z"
+    },
+    {
+      "cve_id": "CVE-2019-4103",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4103](https://github.com/Live-Hack-CVE/CVE-2019-4103)",
+      "description": "IBM Tivoli Netcool/Impact 7.1.0 allows for remote execution of command by low privileged User. Remote code execution allow to execute arbitrary code on system which lead to take control over the system. IBM X-Force ID: 158094. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:10Z"
+    },
+    {
+      "cve_id": "CVE-2019-4080",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4080](https://github.com/Live-Hack-CVE/CVE-2019-4080)",
+      "description": "IBM WebSphere Application Server Admin Console 7.5, 8.0, 8.5, and 9.0 is vulnerable to a potential denial of service, caused by improper parameter parsing. A remote attacker could exploit this to consume all available CPU resources. IBM X-Force ID: 157380. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:27Z"
+    },
+    {
+      "cve_id": "CVE-2019-4070",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4070](https://github.com/Live-Hack-CVE/CVE-2019-4070)",
+      "description": "IBM Intelligent Operations Center (IOC) 5.1.0 through 5.2.0 is vulnerable to cross-site scripting. This vulnerability allows users to embed arbitrary JavaScript code in the Web UI thus altering the intended functionality potentially leading to credentials disclosure within a trusted session. IBM X-Force ID: 157015. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:17Z"
+    },
+    {
+      "cve_id": "CVE-2019-4067",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4067](https://github.com/Live-Hack-CVE/CVE-2019-4067)",
+      "description": "IBM Intelligent Operations Center (IOC) 5.1.0 through 5.2.0 does not require that users should have strong passwords by default, which makes it easier for attackers to compromise user accounts. IBM X-Force ID: 157012. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:51Z"
+    },
+    {
+      "cve_id": "CVE-2019-4063",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4063](https://github.com/Live-Hack-CVE/CVE-2019-4063)",
+      "description": "IBM Sterling B2B Integrator 5.2.0.1 through 6.0.0.0 Standard Edition could allow highly sensitive information to be transmitted in plain text. An attacker could obtain this information using man in the middle techniques. IBM X-ForceID: 157008. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-4062",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4062](https://github.com/Live-Hack-CVE/CVE-2019-4062)",
+      "description": "IBM i2 Intelligent Analyis Platform 9.0.0 through 9.1.1 is vulnerable to an XML External Entity Injection (XXE) attack when processing XML data. A remote attacker could exploit this vulnerability to expose sensitive information or consume memory resources. IBM X-Force ID: 157007. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:00Z"
+    },
+    {
+      "cve_id": "CVE-2019-4052",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-4052](https://github.com/Live-Hack-CVE/CVE-2019-4052)",
+      "description": "IBM API Connect 2018.1 and 2018.4.1.2 apis can be leveraged by unauthenticated users to discover login ids of registered users. IBM X-Force ID: 156544. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:53:31Z"
+    },
+    {
+      "cve_id": "CVE-2019-3612",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-3612](https://github.com/Live-Hack-CVE/CVE-2019-3612)",
+      "description": "Information Disclosure vulnerability in McAfee DXL Platform and TIE Server in DXL prior to 5.0.1 HF2 and TIE prior to 2.3.1 HF1 allows Authenticated users to view sensitive information in plain text via the GUI or command line. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-20485",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-20485](https://github.com/Live-Hack-CVE/CVE-2019-20485)",
+      "description": "qemu/qemu_driver.c in libvirt before 6.0.0 mishandles the holding of a monitor job during a query to a guest agent, which allows attackers to cause a denial of service (API blockage). CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:29Z"
+    },
+    {
+      "cve_id": "CVE-2019-17350",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-17350](https://github.com/Live-Hack-CVE/CVE-2019-17350)",
+      "description": "An issue was discovered in Xen through 4.12.x allowing Arm domU attackers to cause a denial of service (infinite loop) involving a compare-and-exchange operation. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:18Z"
+    },
+    {
+      "cve_id": "CVE-2019-17342",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-17342](https://github.com/Live-Hack-CVE/CVE-2019-17342)",
+      "description": "An issue was discovered in Xen through 4.11.x allowing x86 PV guest OS users to cause a denial of service or gain privileges by leveraging a race condition that arose when XENMEM_exchange was introduced. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:22Z"
+    },
+    {
+      "cve_id": "CVE-2019-17341",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-17341](https://github.com/Live-Hack-CVE/CVE-2019-17341)",
+      "description": "An issue was discovered in Xen through 4.11.x allowing x86 PV guest OS users to cause a denial of service or gain privileges by leveraging a page-writability race condition during addition of a passed-through PCI device. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:06:14Z"
+    },
+    {
+      "cve_id": "CVE-2019-15654",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-15654](https://github.com/Live-Hack-CVE/CVE-2019-15654)",
+      "description": "Comba AC2400 devices are prone to password disclosure via a simple crafted /09/business/upgrade/upcfgAction.php?download=true request to the web management server. The request doesn&#x27;t require any authentication and will lead to saving the DBconfig.cfg file. At the end of the file, the login information is stored in cle CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T17:42:19Z"
+    },
+    {
+      "cve_id": "CVE-2019-13748",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-13748](https://github.com/Live-Hack-CVE/CVE-2019-13748)",
+      "description": "Insufficient policy enforcement in developer tools in Google Chrome prior to 79.0.3945.79 allowed a local attacker to obtain potentially sensitive information from process memory via a crafted HTML page. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-13746",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-13746](https://github.com/Live-Hack-CVE/CVE-2019-13746)",
+      "description": "Insufficient policy enforcement in Omnibox in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to spoof the contents of the Omnibox (URL bar) via a crafted HTML page. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:35Z"
+    },
+    {
+      "cve_id": "CVE-2019-13744",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-13744](https://github.com/Live-Hack-CVE/CVE-2019-13744)",
+      "description": "Insufficient policy enforcement in cookies in Google Chrome prior to 79.0.3945.79 allowed a remote attacker to leak cross-origin data via a crafted HTML page. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T22:05:32Z"
+    },
+    {
+      "cve_id": "CVE-2019-10163",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-10163](https://github.com/Live-Hack-CVE/CVE-2019-10163)",
+      "description": "A Vulnerability has been found in PowerDNS Authoritative Server before versions 4.1.9, 4.0.8 allowing a remote, authorized master server to cause a high CPU load or even prevent any further updates to any slave zone by sending a large number of NOTIFY messages. Note that only servers configured as slaves are affected b CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:15Z"
+    },
+    {
+      "cve_id": "CVE-2019-10129",
+      "repo_info": "[Live-Hack-CVE/CVE-2019-10129](https://github.com/Live-Hack-CVE/CVE-2019-10129)",
+      "description": "A vulnerability was found in postgresql versions 11.x prior to 11.3. Using a purpose-crafted insert to a partitioned table, an attacker can read arbitrary bytes of server memory. In the default configuration, any user can create a partitioned table suitable for this attack. (Exploit prerequisites are the same as for CV CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:19Z"
+    },
+    {
+      "cve_id": "CVE-2018-3876",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3876](https://github.com/Live-Hack-CVE/CVE-2018-3876)",
+      "description": "An exploitable buffer overflow vulnerability exists in the credentials handler of video-core&#x27;s HTTP server of Samsung SmartThings Hub STH-ETH-250-Firmware version 0.20.17. The strncpy overflows the destination buffer, which has a size of 64 bytes. An attacker can send an arbitrarily long &quot;bucket&quot; value in order to expl CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:17Z"
+    },
+    {
+      "cve_id": "CVE-2018-3868",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3868](https://github.com/Live-Hack-CVE/CVE-2018-3868)",
+      "description": "A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T06:37:21Z"
+    },
+    {
+      "cve_id": "CVE-2018-3861",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3861](https://github.com/Live-Hack-CVE/CVE-2018-3861)",
+      "description": "A specially crafted TIFF image processed via the application can lead to an out-of-bounds write, overwriting arbitrary data. An attacker can deliver a TIFF image to trigger this vulnerability and gain code execution. CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-3836",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3836](https://github.com/Live-Hack-CVE/CVE-2018-3836)",
+      "description": "An exploitable command injection vulnerability exists in the gplotMakeOutput function of Leptonica 1.74.4. A specially crafted gplot rootname argument can cause a command injection resulting in arbitrary code execution. An attacker can provide a malicious path as input to an application that passes attacker data to thi CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:14Z"
+    },
+    {
+      "cve_id": "CVE-2018-3835",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3835](https://github.com/Live-Hack-CVE/CVE-2018-3835)",
+      "description": "An exploitable out of bounds write vulnerability exists in version 2.2 of the Per Face Texture mapping application known as PTEX. The vulnerability is present in the reading of a file without proper parameter checking. The value read in, is not verified to be valid and its use can lead to a buffer overflow, potentially CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:29Z"
+    },
+    {
+      "cve_id": "CVE-2018-3834",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-3834](https://github.com/Live-Hack-CVE/CVE-2018-3834)",
+      "description": "An exploitable permanent denial of service vulnerability exists in Insteon Hub running firmware version 1013. The firmware upgrade functionality, triggered via PubNub, retrieves signed firmware binaries using plain HTTP requests. The device doesn&#x27;t check the kind of firmware image that is going to be installed and thus CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T19:54:25Z"
+    },
+    {
+      "cve_id": "CVE-2018-16869",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-16869](https://github.com/Live-Hack-CVE/CVE-2018-16869)",
+      "description": "A Bleichenbacher type side-channel based padding oracle attack was found in the way nettle handles endian conversion of RSA decrypted PKCS#1 v1.5 data. An attacker who is able to run a process on the same physical core as the victim process, could use this flaw extract plaintext or in some cases downgrade any TLS conne CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:23Z"
+    },
+    {
+      "cve_id": "CVE-2018-14622",
+      "repo_info": "[Live-Hack-CVE/CVE-2018-14622](https://github.com/Live-Hack-CVE/CVE-2018-14622)",
+      "description": "A null-pointer dereference vulnerability was found in libtirpc before version 0.3.3-rc3. The return value of makefd_xprt() was not checked in all instances, which could lead to a crash when the server exhausted the maximum number of available file descriptors. A remote attacker could cause an rpc-based application to c CVE project by @Sn0wAlice",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T15:30:28Z"
+    },
+    {
+      "cve_id": "CVE-2017-14980",
+      "repo_info": "[TheDarthMole/CVE-2017-14980](https://github.com/TheDarthMole/CVE-2017-14980)",
+      "description": "no description",
+      "date": "2023-02-03",
+      "raw_date": "2023-02-03T18:30:02Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.001624",
+  "metadata": {
+    "total_cves": 105,
+    "date_range": "2023-02-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

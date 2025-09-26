@@ -1,0 +1,90 @@
+{
+  "date": "2022-08-26",
+  "count": 11,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-38766",
+      "repo_info": "[AUTOCRYPT-IVS-VnV/CVE-2022-38766](https://github.com/AUTOCRYPT-IVS-VnV/CVE-2022-38766)",
+      "description": "PoC for vulnerability in Renault ZOE Keyless System(CVE-2022-38766)",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T08:43:40Z"
+    },
+    {
+      "cve_id": "CVE-2022-27925",
+      "repo_info": "[Chocapikk/CVE-2022-27925-Revshell](https://github.com/Chocapikk/CVE-2022-27925-Revshell)",
+      "description": "Python Script to exploit Zimbra Auth Bypass + RCE (CVE-2022-27925)",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T20:19:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[1337in/CVE-2022-26134web](https://github.com/1337in/CVE-2022-26134web)",
+      "description": "CVE-2022-26134 web payload",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T07:38:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-20142",
+      "repo_info": "[pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142](https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20142)",
+      "description": "no description",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T10:35:11Z"
+    },
+    {
+      "cve_id": "CVE-2022-20007",
+      "repo_info": "[pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007](https://github.com/pazhanivel07/frameworks_base_AOSP10_r33_CVE-2022-20007)",
+      "description": "no description",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T09:25:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-20007",
+      "repo_info": "[nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20007](https://github.com/nidhi7598/frameworks_base_AOSP_10_r33_CVE-2022-20007)",
+      "description": "no description",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T05:17:14Z"
+    },
+    {
+      "cve_id": "CVE-2021-25642",
+      "repo_info": "[safe3s/CVE-2021-25642](https://github.com/safe3s/CVE-2021-25642)",
+      "description": "CVE-2021-25642",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T03:51:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[lele8/CVE-2020-1472](https://github.com/lele8/CVE-2020-1472)",
+      "description": "ZeroLogon exploitation script,One-click recovery of domain controller machine Hash",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T09:06:04Z"
+    },
+    {
+      "cve_id": "CVE-2020-0416",
+      "repo_info": "[Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416](https://github.com/Satheesh575555/packages_apps_Settings_AOSP10_r33_CVE-2020-0416)",
+      "description": "no description",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T05:44:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-1932",
+      "repo_info": "[BKreisel/CVE-2018-1932X](https://github.com/BKreisel/CVE-2018-1932X)",
+      "description": "Rust POC for CVE-2018-1932X kernel driver vulnerabilities",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T18:42:13Z"
+    },
+    {
+      "cve_id": "CVE-2008-0166",
+      "repo_info": "[demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166](https://github.com/demining/Vulnerable-to-Debian-OpenSSL-bug-CVE-2008-0166)",
+      "description": "Search for BTC coins on earlier versions of Bitcoin Core with critical vulnerability OpenSSL 0.9.8 CVE-2008-0166",
+      "date": "2022-08-26",
+      "raw_date": "2022-08-26T12:18:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.909750",
+  "metadata": {
+    "total_cves": 11,
+    "date_range": "2022-08-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

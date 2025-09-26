@@ -1,0 +1,34 @@
+{
+  "date": "2020-01-19",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-2551",
+      "repo_info": "[hktalent/CVE-2020-2551](https://github.com/hktalent/CVE-2020-2551)",
+      "description": "how detect CVE-2020-2551 poc exploit python Weblogic RCE with IIOP",
+      "date": "2020-01-19",
+      "raw_date": "2020-01-19T13:01:32Z"
+    },
+    {
+      "cve_id": "CVE-2019-17570",
+      "repo_info": "[r00t4dm/CVE-2019-17570](https://github.com/r00t4dm/CVE-2019-17570)",
+      "description": "xmlrpc common deserialization vulnerability",
+      "date": "2020-01-19",
+      "raw_date": "2020-01-19T02:57:26Z"
+    },
+    {
+      "cve_id": "CVE-2017-2751",
+      "repo_info": "[BaderSZ/CVE-2017-2751](https://github.com/BaderSZ/CVE-2017-2751)",
+      "description": "Mini-paper on CVE-2017-2751, HP EFI password extraction.",
+      "date": "2020-01-19",
+      "raw_date": "2020-01-19T00:41:23Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.799369",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-01-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

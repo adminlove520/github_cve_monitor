@@ -1,0 +1,20 @@
+{
+  "date": "2019-10-30",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[3rg1s/CVE-2016-2098](https://github.com/3rg1s/CVE-2016-2098)",
+      "description": "no description",
+      "date": "2019-10-30",
+      "raw_date": "2019-10-30T12:36:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.791340",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-10-30",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

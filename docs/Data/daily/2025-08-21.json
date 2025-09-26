@@ -1,0 +1,118 @@
+{
+  "date": "2025-08-21",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9132",
+      "repo_info": "[barbaraeivyu/CVE-2025-9132](https://github.com/barbaraeivyu/CVE-2025-9132)",
+      "description": "no description",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T11:52:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-8671",
+      "repo_info": "[mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2](https://github.com/mateusm1403/PoC-CVE-2025-8671-MadeYouReset-HTTP-2)",
+      "description": "PoC para validar vulnerabilidade MadeYouReset",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T21:20:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[amel-62/WinRAR-CVE-2025-8088-PoC-RAR](https://github.com/amel-62/WinRAR-CVE-2025-8088-PoC-RAR)",
+      "description": "🚀 Demonstrate the WinRAR CVE-2025-8088 exploit with a PoC RAR archive that installs a VBScript on startup, showcasing its impact on vulnerable systems.",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T07:40:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[ghostn4444/CVE-2025-8088](https://github.com/ghostn4444/CVE-2025-8088)",
+      "description": "This PoC is for authorized study and testing. CVE-2025-8088 is actively exploited, and misuse may violate laws or cause harm. Update to WinRAR 7.13+ to avoid suspicious RARs.",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T07:49:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-55287",
+      "repo_info": "[Eternalvalhalla/CVE-2025-55287-POC](https://github.com/Eternalvalhalla/CVE-2025-55287-POC)",
+      "description": "Authenticated stored XSS priv esc PoC. Affects Genealogy versions prior to 4.4.0",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T18:06:09Z"
+    },
+    {
+      "cve_id": "CVE-2025-43300",
+      "repo_info": "[h4xnz/CVE-2025-43300](https://github.com/h4xnz/CVE-2025-43300)",
+      "description": "no description",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T10:44:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-25256",
+      "repo_info": "[JMS-Security/CVE-2025-25256-PoC](https://github.com/JMS-Security/CVE-2025-25256-PoC)",
+      "description": "CVE-2025-25256: Fortinet FortiSIEM OS Command Injection CVE PoC (Proof of Concept)",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T09:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-22235",
+      "repo_info": "[idealzh/cve-2025-22235-demo](https://github.com/idealzh/cve-2025-22235-demo)",
+      "description": "no description",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T07:01:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-3721",
+      "repo_info": "[qalvynn/CVE-2024-3721---POC](https://github.com/qalvynn/CVE-2024-3721---POC)",
+      "description": "POC on how mirai can target &quot; CVE-2024-3721 &quot; { TBK DVR-4104 and DVR-4216 }",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T02:26:34Z"
+    },
+    {
+      "cve_id": "CVE-2024-2961",
+      "repo_info": "[scriptSails/glibcs](https://github.com/scriptSails/glibcs)",
+      "description": "Exploits for CNEXT (CVE-2024-2961), a buffer overflow in the glibc&#x27;s iconv()",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T09:24:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-41892",
+      "repo_info": "[user01-1/CVE-2023-41892_poc](https://github.com/user01-1/CVE-2023-41892_poc)",
+      "description": "Customized this for my own use",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T08:21:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-35078",
+      "repo_info": "[0nsec/CVE-2023-35078](https://github.com/0nsec/CVE-2023-35078)",
+      "description": "CVE-2023-35078 - Ivanti MobileIron Core Remote Unauthenticated API Access Exploit tool",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T05:53:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-32532",
+      "repo_info": "[my0113/shiro-cve-2022-32532](https://github.com/my0113/shiro-cve-2022-32532)",
+      "description": "no description",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T07:53:49Z"
+    },
+    {
+      "cve_id": "CVE-2019-0222",
+      "repo_info": "[shoucheng3/apache__activemq_CVE-2019-0222_5-15-8](https://github.com/shoucheng3/apache__activemq_CVE-2019-0222_5-15-8)",
+      "description": "no description",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T02:19:35Z"
+    },
+    {
+      "cve_id": "CVE-2015-8351",
+      "repo_info": "[Philip-Otter/CVE-2015-8351_Otter_Remix](https://github.com/Philip-Otter/CVE-2015-8351_Otter_Remix)",
+      "description": "Exploit code for CVE-2015-8351",
+      "date": "2025-08-21",
+      "raw_date": "2025-08-21T21:10:45Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.173440",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-08-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

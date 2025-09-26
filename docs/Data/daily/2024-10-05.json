@@ -1,0 +1,111 @@
+{
+  "date": "2024-10-05",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7954",
+      "repo_info": "[MuhammadWaseem29/RCE-CVE-2024-7954](https://github.com/MuhammadWaseem29/RCE-CVE-2024-7954)",
+      "description": "no description",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T07:24:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-47176",
+      "repo_info": "[gumerzzzindo/CVE-2024-47176](https://github.com/gumerzzzindo/CVE-2024-47176)",
+      "description": "no description",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T09:22:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-45519",
+      "repo_info": "[Chocapikk/CVE-2024-45519](https://github.com/Chocapikk/CVE-2024-45519)",
+      "description": "Zimbra - Remote Command Execution (CVE-2024-45519)",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T00:15:18Z"
+    },
+    {
+      "cve_id": "CVE-2024-36401",
+      "repo_info": "[netuseradministrator/CVE-2024-36401](https://github.com/netuseradministrator/CVE-2024-36401)",
+      "description": "geoserver图形化漏洞利用工具",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T10:08:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-32640",
+      "repo_info": "[inviewp/CVE-2024-32640](https://github.com/inviewp/CVE-2024-32640)",
+      "description": "no description",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T07:14:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-26304",
+      "repo_info": "[X-Projetion/CVE-2024-26304-RCE-exploit](https://github.com/X-Projetion/CVE-2024-26304-RCE-exploit)",
+      "description": "CVE-2024-26304 is a critical vulnerability (CVSS score of 9.8) affecting ArubaOS",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T01:38:36Z"
+    },
+    {
+      "cve_id": "CVE-2023-47253",
+      "repo_info": "[inviewp/Qualitor_CVE-2023-47253](https://github.com/inviewp/Qualitor_CVE-2023-47253)",
+      "description": "no description",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T06:31:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-38709",
+      "repo_info": "[mrmtwoj/apache-vulnerability-testing](https://github.com/mrmtwoj/apache-vulnerability-testing)",
+      "description": "Apache HTTP Server Vulnerability Testing Tool - PoC for CVE-2024-38472 , CVE-2024-39573 , CVE-2024-38477 , CVE-2024-38476 , CVE-2024-38475 , CVE-2024-38474 ,  CVE-2024-38473 , CVE-2023-38709",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T20:32:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-38709",
+      "repo_info": "[geniuszlyy/GenGravSSTIExploit](https://github.com/geniuszlyy/GenGravSSTIExploit)",
+      "description": "is a PoC Python script that exploits an authenticated Server-Side Template Injection (SSTI) vulnerability in Grav CMS versions &lt;= 1.7.44 (CVE-2024-28116)",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T12:05:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-30800",
+      "repo_info": "[AxthonyV/MikroTik](https://github.com/AxthonyV/MikroTik)",
+      "description": "CVE-2023-30800",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T16:30:13Z"
+    },
+    {
+      "cve_id": "CVE-2023-30800",
+      "repo_info": "[bluestarry33/exp](https://github.com/bluestarry33/exp)",
+      "description": "针对CVE-2023-35854的批量扫描脚本",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T12:33:12Z"
+    },
+    {
+      "cve_id": "CVE-2021-43798",
+      "repo_info": "[sazzad1337/Grafana-CVE-2021-43798](https://github.com/sazzad1337/Grafana-CVE-2021-43798)",
+      "description": "Python implementation of a tool for decrypting and encrypting sensitive data in Grafana, specifically addressing the vulnerabilities associated with CVE-2021-43798. Grafana encrypts all data source passwords using the AES algorithm with the secret_key found in the defaults.ini configuration file.",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T18:51:12Z"
+    },
+    {
+      "cve_id": "CVE-2019-16172",
+      "repo_info": "[TrixSec/CVE-2019-16172](https://github.com/TrixSec/CVE-2019-16172)",
+      "description": "The CVE-2019-16172 Scanner is designed to check LimeSurvey instances for the stored XSS vulnerability.",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T08:30:54Z"
+    },
+    {
+      "cve_id": "CVE-2010-1938",
+      "repo_info": "[Nexxus67/cve-2010-1938](https://github.com/Nexxus67/cve-2010-1938)",
+      "description": "A simple Python script to test an off-by-one vulnerability in the OPIE library (CVE-2010-1938). This vulnerability affects certain FTP servers and may allow for Denial of Service (DoS) or arbitrary code execution.",
+      "date": "2024-10-05",
+      "raw_date": "2024-10-05T18:21:40Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.112657",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2024-10-05",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

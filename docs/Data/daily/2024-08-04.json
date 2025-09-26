@@ -1,0 +1,34 @@
+{
+  "date": "2024-08-04",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-26229",
+      "repo_info": "[Cracked5pider/eop24-26229](https://github.com/Cracked5pider/eop24-26229)",
+      "description": "A firebeam plugin that exploits the CVE-2024-26229 vulnerability to perform elevation of privilege from a  privileged user",
+      "date": "2024-08-04",
+      "raw_date": "2024-08-04T17:40:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-1112",
+      "repo_info": "[enessakircolak/CVE-2024-1112](https://github.com/enessakircolak/CVE-2024-1112)",
+      "description": "no description",
+      "date": "2024-08-04",
+      "raw_date": "2024-08-04T13:26:46Z"
+    },
+    {
+      "cve_id": "CVE-2024-1112",
+      "repo_info": "[nexussecelite/EvilDroid](https://github.com/nexussecelite/EvilDroid)",
+      "description": "EvilDroid automates the exploitation of CVE-2024-0044, installing malicious payloads on a target device and extracting sensitive data. It features automated ADB connection checks, APK pushing, UID extraction, payload generation, and real-time progress updates, providing a seamless and professional user experience.",
+      "date": "2024-08-04",
+      "raw_date": "2024-08-04T13:14:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.102553",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2024-08-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

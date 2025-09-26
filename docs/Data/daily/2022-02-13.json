@@ -1,0 +1,20 @@
+{
+  "date": "2022-02-13",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-8917",
+      "repo_info": "[gmohlamo/CVE-2017-8917](https://github.com/gmohlamo/CVE-2017-8917)",
+      "description": "Python exploit for CVE-2017-8917 - Joomla 3.7.0 &#x27;com_fields&#x27; SQL Injection",
+      "date": "2022-02-13",
+      "raw_date": "2022-02-13T11:49:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.880446",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2022-02-13",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "date": "2025-03-11",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-21333",
+      "repo_info": "[aleongx/KQL_sentinel_CVE-2025-21333](https://github.com/aleongx/KQL_sentinel_CVE-2025-21333)",
+      "description": "KQL para deteccion de CVE-2025-21333 en Sentinel",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T17:32:07Z"
+    },
+    {
+      "cve_id": "CVE-2024-9756",
+      "repo_info": "[Nxploited/CVE-2024-9756](https://github.com/Nxploited/CVE-2024-9756)",
+      "description": "Order Attachments for WooCommerce 2.0 - 2.4.1 - Missing Authorization to Authenticated (Subscriber+) Limited Arbitrary File Upload",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T02:04:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-8289",
+      "repo_info": "[pashayogi/CVE-2024-8289](https://github.com/pashayogi/CVE-2024-8289)",
+      "description": "CVE-2024-8289 https://www.cve.org/CVERecord?id=CVE-2024-8289, Vendor  wcmp  Product  MultiVendorX – The Ultimate WooCommerce Multivendor Marketplace Solution",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T14:05:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-6132",
+      "repo_info": "[Nxploited/CVE-2024-6132](https://github.com/Nxploited/CVE-2024-6132)",
+      "description": "Pexels: Free Stock Photos &lt;= 1.2.2 - Authenticated (Contributor+) Arbitrary File Upload",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T11:20:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-54383",
+      "repo_info": "[pashayogi/CVE-2024-54383](https://github.com/pashayogi/CVE-2024-54383)",
+      "description": "CVE-2024-54383, https://www.cve.org/CVERecord?id=CVE-2024-54383",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T14:26:43Z"
+    },
+    {
+      "cve_id": "CVE-2024-34370",
+      "repo_info": "[pashayogi/CVE-2024-34370](https://github.com/pashayogi/CVE-2024-34370)",
+      "description": "CVE-2024-34370, https://www.cve.org/CVERecord?id=CVE-2024-34370",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T16:35:19Z"
+    },
+    {
+      "cve_id": "CVE-2024-12008",
+      "repo_info": "[spyata123/CVE-2024-12008-information-exposure-vulnerability-in-W3-Total-Cache](https://github.com/spyata123/CVE-2024-12008-information-exposure-vulnerability-in-W3-Total-Cache)",
+      "description": "CVE-2024-12008 information exposure vulnerability in W3 Total Cache",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T14:01:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-12008",
+      "repo_info": "[spyata123/W3TotalChache](https://github.com/spyata123/W3TotalChache)",
+      "description": "Testing for CVE-2019-6715 (Arbitrary File Read)/ CVE-2024-12365 (SSRF/Info Disclosure)",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T13:35:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[sharafu-sblsec/CVE-2024-10924](https://github.com/sharafu-sblsec/CVE-2024-10924)",
+      "description": "CVE-2024-10924 - Authentication Bypass in ReallySimpleSSL Wordpress Plugin",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T14:06:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-10924",
+      "repo_info": "[moonadon9/CVE_2024](https://github.com/moonadon9/CVE_2024)",
+      "description": "CVE_2024_musescore",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T14:00:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-5359",
+      "repo_info": "[spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache](https://github.com/spyata123/Cleartext-Storage-vulnerability-CVE-2023-5359-in-W3-Total-Cache)",
+      "description": "Targets versions ≤2.7.5 vulnerable to CVE-2023-5359",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T13:51:32Z"
+    },
+    {
+      "cve_id": "CVE-2023-37635",
+      "repo_info": "[oussama-binike/cve-2023-37635](https://github.com/oussama-binike/cve-2023-37635)",
+      "description": "no description",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T00:52:08Z"
+    },
+    {
+      "cve_id": "CVE-2021-42013",
+      "repo_info": "[Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013](https://github.com/Vanshuk-Bhagat/Apache-HTTP-Server-Vulnerabilities-CVE-2021-41773-and-CVE-2021-42013)",
+      "description": "In this project, I documented a detailed penetration testing process targeting Apache HTTP Server vulnerabilities, specifically CVE-2021-41773 and CVE-2021-42013, which involve Path Traversal and Remote Code Execution (RCE).",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T07:56:58Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[xdrake1010/CVE-2017-11882-Preventer](https://github.com/xdrake1010/CVE-2017-11882-Preventer)",
+      "description": "CVE-2017-11882 Preventer for .docx files",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T16:47:04Z"
+    },
+    {
+      "cve_id": "CVE-2013-2010",
+      "repo_info": "[spyata123/w3-total-cache-cve-2013-2010](https://github.com/spyata123/w3-total-cache-cve-2013-2010)",
+      "description": "Remote code execution running on w3 total cache cve 2013-2010",
+      "date": "2025-03-11",
+      "raw_date": "2025-03-11T14:32:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.139084",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2025-03-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

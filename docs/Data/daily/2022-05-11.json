@@ -1,0 +1,125 @@
+{
+  "date": "2022-05-11",
+  "count": 16,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-28078",
+      "repo_info": "[bigzooooz/CVE-2022-28078](https://github.com/bigzooooz/CVE-2022-28078)",
+      "description": "Home Owners Collection Management System 1.0 - Reflected XSS",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T06:28:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-28077",
+      "repo_info": "[bigzooooz/CVE-2022-28077](https://github.com/bigzooooz/CVE-2022-28077)",
+      "description": "Home Owners Collection Management System 1.0 - Reflected XSS",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T06:23:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-26937",
+      "repo_info": "[corelight/CVE-2022-26937](https://github.com/corelight/CVE-2022-26937)",
+      "description": "A Zeek package to detect CVE-2022-26937, a vulnerability in the Network Lock Manager (NLM) protocol in Windows MFS server.",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T18:36:45Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[seciurdt/CVE-2022-26809-RCE](https://github.com/seciurdt/CVE-2022-26809-RCE)",
+      "description": "CVE-2022-26809   -  is a remote code execution vulnerablity in rpc runtime and affects a wide versions of windows",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T20:38:55Z"
+    },
+    {
+      "cve_id": "CVE-2022-25315",
+      "repo_info": "[ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25315](https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25315)",
+      "description": "no description",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T09:31:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-25314",
+      "repo_info": "[ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25314](https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25314)",
+      "description": "no description",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T09:11:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-25313",
+      "repo_info": "[ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25313](https://github.com/ShaikUsaf/external_expact_AOSP10_r33_CVE-2022-25313)",
+      "description": "no description",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T07:40:30Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[ExploitPwner/CVE-2022-1388](https://github.com/ExploitPwner/CVE-2022-1388)",
+      "description": "On F5 BIG-IP undisclosed requests may bypass iControl REST authentication. Note: Software versions which have reached End of Technical Support (EoTS) are not evaluated",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T00:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[pauloink/CVE-2022-1388](https://github.com/pauloink/CVE-2022-1388)",
+      "description": "no description",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T21:55:43Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[omnigodz/CVE-2022-1388](https://github.com/omnigodz/CVE-2022-1388)",
+      "description": "This repository consists of the python exploit for CVE-2022-1388 (F5's BIG-IP Authentication Bypass to RCE)",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T20:27:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[mr-vill4in/CVE-2022-1388](https://github.com/mr-vill4in/CVE-2022-1388)",
+      "description": "CVE-2022-1388",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T20:13:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[AmirHoseinTangsiriNET/CVE-2022-1388-Scanner](https://github.com/AmirHoseinTangsiriNET/CVE-2022-1388-Scanner)",
+      "description": "no description",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T17:43:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[EvilLizard666/CVE-2022-1388](https://github.com/EvilLizard666/CVE-2022-1388)",
+      "description": "CVE-2022-1388 Scanner",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T19:33:37Z"
+    },
+    {
+      "cve_id": "CVE-2022-1388",
+      "repo_info": "[kuznyJan1972/cve-2022-1388-mass](https://github.com/kuznyJan1972/cve-2022-1388-mass)",
+      "description": "big-ip icontrol rest auth bypass RCE MASS with huge list of ip dumped",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T14:57:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-25213",
+      "repo_info": "[adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload](https://github.com/adminsec5247/CVE-2020-25213-wordpress-wp-file-manager-fileupload)",
+      "description": "WordPress的文件管理器插件（wp-file-manager）6.9版本之前存在安全漏洞，该漏洞允许远程攻击者上传和执行任意PHP代码。",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T07:10:15Z"
+    },
+    {
+      "cve_id": "CVE-2013-4710",
+      "repo_info": "[Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability](https://github.com/Snip3R69/CVE-2013-4710-WebView-RCE-Vulnerability)",
+      "description": "Android 3.0 through 4.1.x on Disney Mobile, eAccess, KDDI, NTT DOCOMO, SoftBank, and other devices does not properly implement the WebView class, which allows remote attackers to execute arbitrary methods of Java objects or cause a denial of service (reboot) via a crafted web page, as demonstrated by use of the WebView.addJavascriptInterface method, a related issue to CVE-2012-6636.",
+      "date": "2022-05-11",
+      "raw_date": "2022-05-11T08:53:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.892929",
+  "metadata": {
+    "total_cves": 16,
+    "date_range": "2022-05-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

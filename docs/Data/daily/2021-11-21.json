@@ -1,0 +1,41 @@
+{
+  "date": "2021-11-21",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-22053",
+      "repo_info": "[SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053](https://github.com/SecCoder-Security-Lab/spring-cloud-netflix-hystrix-dashboard-cve-2021-22053)",
+      "description": "Spring Cloud Netflix Hystrix Dashboard template resolution vulnerability CVE-2021-22053",
+      "date": "2021-11-21",
+      "raw_date": "2021-11-21T08:47:56Z"
+    },
+    {
+      "cve_id": "CVE-2020-5752",
+      "repo_info": "[yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-](https://github.com/yevh/CVE-2020-5752-Druva-inSync-Windows-Client-6.6.3---Local-Privilege-Escalation-PowerShell-)",
+      "description": "Druva inSync Windows Client 6.6.3 - Local Privilege Escalation (PowerShell) RCE",
+      "date": "2021-11-21",
+      "raw_date": "2021-11-21T08:30:24Z"
+    },
+    {
+      "cve_id": "CVE-2020-0133",
+      "repo_info": "[ypl6/cve-demo-2020-8287](https://github.com/ypl6/cve-demo-2020-8287)",
+      "description": "no description",
+      "date": "2021-11-21",
+      "raw_date": "2021-11-21T05:16:41Z"
+    },
+    {
+      "cve_id": "CVE-2016-10140",
+      "repo_info": "[Arsham1024/CVE_Crawler](https://github.com/Arsham1024/CVE_Crawler)",
+      "description": "Crawl MS numbers and CVEs from 2015 -2016",
+      "date": "2021-11-21",
+      "raw_date": "2021-11-21T04:15:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.870729",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-11-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

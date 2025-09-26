@@ -1,0 +1,76 @@
+{
+  "date": "2025-06-28",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-55891",
+      "repo_info": "[terribledactyl/CVE-2025-55891](https://github.com/terribledactyl/CVE-2025-55891)",
+      "description": "no description",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T01:42:21Z"
+    },
+    {
+      "cve_id": "CVE-2025-49144",
+      "repo_info": "[65-75-65-83-72/CVE-2025-49144_PoC](https://github.com/65-75-65-83-72/CVE-2025-49144_PoC)",
+      "description": "Discover CVE-2025-49144, a local privilege escalation flaw in Notepad++ installers. Learn how attackers exploit this vulnerability. 🐙🔍",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T02:38:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-33073",
+      "repo_info": "[obscura-cert/CVE-2025-33073](https://github.com/obscura-cert/CVE-2025-33073)",
+      "description": "no description",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T18:17:28Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[obscura-cert/CVE-2025-31650](https://github.com/obscura-cert/CVE-2025-31650)",
+      "description": "no description",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T18:12:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-31650",
+      "repo_info": "[65-75-65-83-72/65-75-65-83-72.github.io](https://github.com/65-75-65-83-72/65-75-65-83-72.github.io)",
+      "description": "Discover the CVE-2025-49144 vulnerability in Notepad++ installers. This PoC highlights local privilege escalation risks. 🛠️🔍",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T02:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-4367",
+      "repo_info": "[pS3ud0RAnD0m/cve-2024-4367-poc](https://github.com/pS3ud0RAnD0m/cve-2024-4367-poc)",
+      "description": "POC for PDF JS&#x27; CVE-2024-4367 vuln",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T17:46:10Z"
+    },
+    {
+      "cve_id": "CVE-2024-43425",
+      "repo_info": "[aninfosec/CVE-2024-43425-Poc](https://github.com/aninfosec/CVE-2024-43425-Poc)",
+      "description": "no description",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T08:49:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-30258",
+      "repo_info": "[delldevmann/CVE-2023-30258](https://github.com/delldevmann/CVE-2023-30258)",
+      "description": "BILLING THM",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T00:58:56Z"
+    },
+    {
+      "cve_id": "CVE-2022-24785",
+      "repo_info": "[ZapcoMan/spring4shell-vulnerable-application](https://github.com/ZapcoMan/spring4shell-vulnerable-application)",
+      "description": "（CVE-2022-22965）PoC 应用程序和漏洞利用",
+      "date": "2025-06-28",
+      "raw_date": "2025-06-28T11:03:11Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.160801",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2025-06-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

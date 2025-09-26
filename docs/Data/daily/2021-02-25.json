@@ -1,0 +1,41 @@
+{
+  "date": "2021-02-25",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[Osyanina/westone-CVE-2020-17519-scanner](https://github.com/Osyanina/westone-CVE-2020-17519-scanner)",
+      "description": "A vulnerability scanner that detects CVE-2020-17519 vulnerabilities.",
+      "date": "2021-02-25",
+      "raw_date": "2021-02-25T11:06:05Z"
+    },
+    {
+      "cve_id": "CVE-2020-14883",
+      "repo_info": "[Osyanina/westone-CVE-2020-14883-scanner](https://github.com/Osyanina/westone-CVE-2020-14883-scanner)",
+      "description": "A vulnerability scanner that detects CVE-2020-14883 vulnerabilities.",
+      "date": "2021-02-25",
+      "raw_date": "2021-02-25T11:21:56Z"
+    },
+    {
+      "cve_id": "CVE-2020-14882",
+      "repo_info": "[milo2012/CVE-2020-14882](https://github.com/milo2012/CVE-2020-14882)",
+      "description": "CVE-2020-14882",
+      "date": "2021-02-25",
+      "raw_date": "2021-02-25T12:57:08Z"
+    },
+    {
+      "cve_id": "CVE-2015-6967",
+      "repo_info": "[dix0nym/CVE-2015-6967](https://github.com/dix0nym/CVE-2015-6967)",
+      "description": "Nibbleblog 4.0.3 - Arbitrary File Upload (CVE-2015-6967)",
+      "date": "2021-02-25",
+      "raw_date": "2021-02-25T21:57:24Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.841989",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2021-02-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

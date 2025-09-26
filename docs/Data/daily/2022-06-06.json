@@ -1,0 +1,83 @@
+{
+  "date": "2022-06-06",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[h3v0x/CVE-2022-26134](https://github.com/h3v0x/CVE-2022-26134)",
+      "description": "Confluence Pre-Auth Remote Code Execution via OGNL Injection (CVE-2022-26134)",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T02:43:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[PsykoDev/CVE-2022-26134](https://github.com/PsykoDev/CVE-2022-26134)",
+      "description": "no description",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T16:45:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[Rojacur/FollinaPatcherCLI](https://github.com/Rojacur/FollinaPatcherCLI)",
+      "description": "Désactivation du protocole MSDT URL (CVE-2022-30190) avec gestion des erreurs et de l&#x27;exit code pour un déploiement en masse",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T16:25:41Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[archanchoudhury/Confluence-CVE-2022-26134](https://github.com/archanchoudhury/Confluence-CVE-2022-26134)",
+      "description": "This repository talks about Zero-Day Exploitation of Atlassian Confluence, it&#x27;s defense and analysis point of view from a SecOps or Blue Team perspective",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T06:16:47Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[SIFalcon/confluencePot](https://github.com/SIFalcon/confluencePot)",
+      "description": "Simple Honeypot for Atlassian Confluence (CVE-2022-26134)",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T15:44:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[IamVSM/msdt-follina](https://github.com/IamVSM/msdt-follina)",
+      "description": "Microsoft MS-MSDT Follina (0-day Vulnerability) CVE-2022-30190 Attack Vector",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T09:17:25Z"
+    },
+    {
+      "cve_id": "CVE-2021-35064",
+      "repo_info": "[Trhackno/CVE-2021-35064](https://github.com/Trhackno/CVE-2021-35064)",
+      "description": "no description",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T00:14:54Z"
+    },
+    {
+      "cve_id": "CVE-2021-0589",
+      "repo_info": "[Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589](https://github.com/Satheesh575555/system_bt_AOSP10_r33_CVE-2021-0589)",
+      "description": "no description",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T12:13:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-5420",
+      "repo_info": "[PenTestical/CVE-2019-5420](https://github.com/PenTestical/CVE-2019-5420)",
+      "description": "Exploit in Rails Development Mode. With some knowledge of a target application it is possible for an attacker to guess the automatically generated development mode secret token. This secret token can be used in combination with other Rails internals to escalate to a remote code execution exploit.",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T10:01:35Z"
+    },
+    {
+      "cve_id": "CVE-2004-0230",
+      "repo_info": "[RakeshShinde97/CVE-2004-0230-TCP-Sequence-Number-Approximation-Based-Denial-of-Service](https://github.com/RakeshShinde97/CVE-2004-0230-TCP-Sequence-Number-Approximation-Based-Denial-of-Service)",
+      "description": "TCP, when using a large Window Size, makes it easier for remote attackers to guess sequence numbers and cause a denial of service (connection loss) to persistent TCP connections by repeatedly injecting a TCP RST packet.",
+      "date": "2022-06-06",
+      "raw_date": "2022-06-06T04:30:03Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.897703",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-06-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

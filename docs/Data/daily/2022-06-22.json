@@ -1,0 +1,69 @@
+{
+  "date": "2022-06-22",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-34298",
+      "repo_info": "[watchtowrlabs/CVE-2022-34298](https://github.com/watchtowrlabs/CVE-2022-34298)",
+      "description": "PoC exploit for CVE-2022-34298, OpenAM authentication bypass",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T14:38:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[electr0lulz/Mass-exploit-CVE-2022-29464](https://github.com/electr0lulz/Mass-exploit-CVE-2022-29464)",
+      "description": "Mass Exploit for CVE 2022-29464 on Carbon",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T20:58:33Z"
+    },
+    {
+      "cve_id": "CVE-2022-23222",
+      "repo_info": "[PenteraIO/CVE-2022-23222-POC](https://github.com/PenteraIO/CVE-2022-23222-POC)",
+      "description": "no description",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T14:01:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-22980",
+      "repo_info": "[jweny/cve-2022-22980-exp](https://github.com/jweny/cve-2022-22980-exp)",
+      "description": "CVE-2022-22980 exp demp可作为扫描器靶场",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T07:51:22Z"
+    },
+    {
+      "cve_id": "CVE-2022-22980",
+      "repo_info": "[li8u99/Spring-Data-Mongodb-Demo](https://github.com/li8u99/Spring-Data-Mongodb-Demo)",
+      "description": "CVE-2022-22980环境",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T07:39:42Z"
+    },
+    {
+      "cve_id": "CVE-2020-8512",
+      "repo_info": "[trhacknon/CVE-2020-8512](https://github.com/trhacknon/CVE-2020-8512)",
+      "description": "IceWarp WebMail 11.4.4.1 - Reflective Cross-Site Scripting",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T07:10:53Z"
+    },
+    {
+      "cve_id": "CVE-2020-17519",
+      "repo_info": "[trhacknon/CVE-2020-17519](https://github.com/trhacknon/CVE-2020-17519)",
+      "description": "no description",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T03:53:52Z"
+    },
+    {
+      "cve_id": "CVE-2015-2291",
+      "repo_info": "[Exploitables/CVE-2015-2291](https://github.com/Exploitables/CVE-2015-2291)",
+      "description": "(1) IQVW32.sys before 1.3.1.0 and (2) IQVW64.sys before 1.3.1.0 in the Intel Ethernet diagnostics driver for Windows allows local users to cause a denial of service or possibly execute arbitrary code with kernel privileges via a crafted (a) 0x80862013, (b) 0x8086200B, (c) 0x8086200F, or (d) 0x80862007 IOCTL call.",
+      "date": "2022-06-22",
+      "raw_date": "2022-06-22T05:22:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.900568",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2022-06-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

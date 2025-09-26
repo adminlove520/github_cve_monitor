@@ -1,0 +1,27 @@
+{
+  "date": "2016-10-26",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-6366",
+      "repo_info": "[swagatbora90/CheckFlashPlayerVersion](https://github.com/swagatbora90/CheckFlashPlayerVersion)",
+      "description": "Check the Browser&#x27;s FlashPlayer version to check if it is vulnerable to exploit CVE-2016-7855",
+      "date": "2016-10-26",
+      "raw_date": "2016-10-26T19:53:29Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[gforresu/SpringPathTraversal](https://github.com/gforresu/SpringPathTraversal)",
+      "description": "String MVC Framework Path-Traversal proof of concept. CVE-2014-3625",
+      "date": "2016-10-26",
+      "raw_date": "2016-10-26T16:51:00Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.689544",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-10-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

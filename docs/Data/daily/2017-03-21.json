@@ -1,0 +1,41 @@
+{
+  "date": "2017-03-21",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-3881",
+      "repo_info": "[KarzsGHR/S2-046_S2-045_POC](https://github.com/KarzsGHR/S2-046_S2-045_POC)",
+      "description": "S2-046-S2-045: Struts 2 Remote Code Execution vulnerability（CVE-2017-5638）",
+      "date": "2017-03-21",
+      "raw_date": "2017-03-21T17:36:40Z"
+    },
+    {
+      "cve_id": "CVE-2017-12636",
+      "repo_info": "[jas502n/st2-046-poc](https://github.com/jas502n/st2-046-poc)",
+      "description": "st2-046-poc  CVE-2017-5638",
+      "date": "2017-03-21",
+      "raw_date": "2017-03-21T05:47:49Z"
+    },
+    {
+      "cve_id": "CVE-2014-9301",
+      "repo_info": "[ottimo/burp-alfresco-referer-proxy-cve-2014-9301](https://github.com/ottimo/burp-alfresco-referer-proxy-cve-2014-9301)",
+      "description": "no description",
+      "date": "2017-03-21",
+      "raw_date": "2017-03-21T14:05:12Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[cph/rabl-old](https://github.com/cph/rabl-old)",
+      "description": "rabl 0.8.6 + fix for CVE-2014-4671",
+      "date": "2017-03-21",
+      "raw_date": "2017-03-21T19:43:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.702486",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2017-03-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "date": "2021-12-10",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-46417",
+      "repo_info": "[tivuhh/log4noshell](https://github.com/tivuhh/log4noshell)",
+      "description": "Java agent that disables Apache Log4J's JNDI Lookup. Fixes CVE-2021-44228, aka \"Log4Shell.\"",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T21:59:31Z"
+    },
+    {
+      "cve_id": "CVE-2021-45026",
+      "repo_info": "[JetP1ane/Zena-CVE-2021-45026](https://github.com/JetP1ane/Zena-CVE-2021-45026)",
+      "description": "no description",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T13:55:33Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[racoon-rac/CVE-2021-44228](https://github.com/racoon-rac/CVE-2021-44228)",
+      "description": "no description",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T23:37:55Z"
+    },
+    {
+      "cve_id": "CVE-2021-44158",
+      "repo_info": "[kozmer/log4j-shell-poc](https://github.com/kozmer/log4j-shell-poc)",
+      "description": "A Proof-Of-Concept for the CVE-2021-44228 vulnerability.",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T23:19:28Z"
+    },
+    {
+      "cve_id": "CVE-2021-44077",
+      "repo_info": "[CreeperHost/Log4jPatcher](https://github.com/CreeperHost/Log4jPatcher)",
+      "description": "A mitigation for CVE-2021-44228 (log4shell) that works by patching the vulnerability at runtime. (Works with any vulnerable java software, tested with java 6 and newer)",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T09:16:46Z"
+    },
+    {
+      "cve_id": "CVE-2021-22205",
+      "repo_info": "[christophetd/log4shell-vulnerable-app](https://github.com/christophetd/log4shell-vulnerable-app)",
+      "description": "Spring Boot web application vulnerable to Log4Shell (CVE-2021-44228).",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T12:38:20Z"
+    },
+    {
+      "cve_id": "CVE-2019-15514",
+      "repo_info": "[graysuit/CVE-2019-15514](https://github.com/graysuit/CVE-2019-15514)",
+      "description": "telegram bug that discloses user's hidden phone number (still unpatched) (exploit included)",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T19:03:53Z"
+    },
+    {
+      "cve_id": "CVE-2017-12617",
+      "repo_info": "[LongWayHomie/CVE-2017-12617](https://github.com/LongWayHomie/CVE-2017-12617)",
+      "description": "CVE-2017-12617 is a critical vulnerability leading to Remote Code Execution (RCE) in Apache Tomcat.",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T22:21:07Z"
+    },
+    {
+      "cve_id": "CVE-2016-10956",
+      "repo_info": "[p0dalirius/CVE-2016-10956-mail-masta](https://github.com/p0dalirius/CVE-2016-10956-mail-masta)",
+      "description": "MailMasta wordpress plugin Local File Inclusion vulnerability (CVE-2016-10956)",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T16:06:46Z"
+    },
+    {
+      "cve_id": "CVE-2012-2982",
+      "repo_info": "[R00tendo/CVE-2012-2982](https://github.com/R00tendo/CVE-2012-2982)",
+      "description": "no description",
+      "date": "2021-12-10",
+      "raw_date": "2021-12-10T15:29:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.872919",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2021-12-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

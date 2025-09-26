@@ -1,0 +1,181 @@
+{
+  "date": "2023-10-20",
+  "count": 24,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-45657",
+      "repo_info": "[RandomRobbieBF/CVE-2023-45657](https://github.com/RandomRobbieBF/CVE-2023-45657)",
+      "description": "Nexter &lt;= 2.0.3 - Authenticated (Subscriber+) SQL Injection via &#x27;to&#x27; and &#x27;from&#x27;",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T12:01:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-42442",
+      "repo_info": "[C1ph3rX13/CVE-2023-42442](https://github.com/C1ph3rX13/CVE-2023-42442)",
+      "description": "CVE-2023-42442",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T08:33:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-3971",
+      "repo_info": "[ashangp923/CVE-2023-3971](https://github.com/ashangp923/CVE-2023-3971)",
+      "description": "To find HTML injection and XSS",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T18:11:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-38646",
+      "repo_info": "[AnvithLobo/CVE-2023-38646](https://github.com/AnvithLobo/CVE-2023-38646)",
+      "description": "RCE Exploit for CVE-2023-38646",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T15:21:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-38609",
+      "repo_info": "[mc-17/CVE-2023-38609](https://github.com/mc-17/CVE-2023-38609)",
+      "description": "SIP bypass using package scripts",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T14:34:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-36802",
+      "repo_info": "[x0rb3l/CVE-2023-36802-MSKSSRV-LPE](https://github.com/x0rb3l/CVE-2023-36802-MSKSSRV-LPE)",
+      "description": "PoC for CVE-2023-36802 Microsoft Kernel Streaming Service Proxy",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T02:05:27Z"
+    },
+    {
+      "cve_id": "CVE-2023-34051",
+      "repo_info": "[horizon3ai/CVE-2023-34051](https://github.com/horizon3ai/CVE-2023-34051)",
+      "description": "VMware Aria Operations for Logs CVE-2023-34051",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T14:59:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-28432",
+      "repo_info": "[yTxZx/CVE-2023-28432](https://github.com/yTxZx/CVE-2023-28432)",
+      "description": "no description",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T10:20:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[AlissoftCodes/CVE-2023-23752](https://github.com/AlissoftCodes/CVE-2023-23752)",
+      "description": "Joomla Unauthenticated Information Disclosure (CVE-2023-23752) exploit",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T13:32:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[yTxZx/CVE-2023-23752](https://github.com/yTxZx/CVE-2023-23752)",
+      "description": "no description",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T08:17:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[youcannotseemeagain/CVE-2023-22515_RCE](https://github.com/youcannotseemeagain/CVE-2023-22515_RCE)",
+      "description": "Confluence后台rce",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T08:23:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-22515",
+      "repo_info": "[X1r0z/spring-amqp-deserialization](https://github.com/X1r0z/spring-amqp-deserialization)",
+      "description": "A Proof of Concept of Spring AMQP Deserialization Vulnerability (CVE-2023-34050)",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T05:46:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-20963",
+      "repo_info": "[Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963](https://github.com/Trinadh465/frameworks_base_AOSP10_r33_CVE-2023-20963)",
+      "description": "no description",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T09:11:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[sohaibeb/CVE-2023-20198](https://github.com/sohaibeb/CVE-2023-20198)",
+      "description": "CISCO CVE POC SCRIPT",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T23:34:12Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[Mangaia/cve-test](https://github.com/Mangaia/cve-test)",
+      "description": "testing cve-2023-41993-test",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T22:04:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[iveresk/cve-2023-20198](https://github.com/iveresk/cve-2023-20198)",
+      "description": "1vere$k POC on the CVE-2023-20198",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T16:01:17Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[m474r5/CVE-2023-20198-RCE](https://github.com/m474r5/CVE-2023-20198-RCE)",
+      "description": "CVE-2023-20198 straight RCE without implant",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T11:30:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-20198",
+      "repo_info": "[reket99/Cisco_CVE-2023-20198](https://github.com/reket99/Cisco_CVE-2023-20198)",
+      "description": "no description",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T05:28:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-1698",
+      "repo_info": "[thedarknessdied/WAGO-CVE-2023-1698](https://github.com/thedarknessdied/WAGO-CVE-2023-1698)",
+      "description": "WAGO系统远程代码执行漏洞(CVE-2023-1698)",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T12:15:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-1698",
+      "repo_info": "[deIndra/CVE-2023-1698](https://github.com/deIndra/CVE-2023-1698)",
+      "description": "no description",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T05:40:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-26134",
+      "repo_info": "[yTxZx/CVE-2022-26134](https://github.com/yTxZx/CVE-2022-26134)",
+      "description": "no description",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T07:42:36Z"
+    },
+    {
+      "cve_id": "CVE-2018-7844",
+      "repo_info": "[yanissec/CVE-2018-7844](https://github.com/yanissec/CVE-2018-7844)",
+      "description": "CVE-2018-7844",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T09:43:56Z"
+    },
+    {
+      "cve_id": "CVE-2018-10097",
+      "repo_info": "[ashangp923/CVE-2018-10097](https://github.com/ashangp923/CVE-2018-10097)",
+      "description": "To exploit XSS injection",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T18:06:19Z"
+    },
+    {
+      "cve_id": "CVE-2017-7410",
+      "repo_info": "[ashangp923/CVE-2017-7410](https://github.com/ashangp923/CVE-2017-7410)",
+      "description": "To exploit SQL injection vulnerability",
+      "date": "2023-10-20",
+      "raw_date": "2023-10-20T17:58:28Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.052295",
+  "metadata": {
+    "total_cves": 24,
+    "date_range": "2023-10-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

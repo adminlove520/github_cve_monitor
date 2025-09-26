@@ -1,0 +1,27 @@
+{
+  "date": "2018-02-03",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-2569",
+      "repo_info": "[amit-raut/CVE-2016-2569](https://github.com/amit-raut/CVE-2016-2569)",
+      "description": "Squid 3.x before 3.5.15 and 4.x before 4.0.7 does not properly append data to String objects, which allows remote servers to cause a denial of service (assertion failure and daemon exit) via a long string, as demonstrated by a crafted HTTP Vary header.",
+      "date": "2018-02-03",
+      "raw_date": "2018-02-03T20:47:08Z"
+    },
+    {
+      "cve_id": "CVE-2009-0229",
+      "repo_info": "[pagvac/pocs](https://github.com/pagvac/pocs)",
+      "description": "phpMyAdmin '/scripts/setup.php' PHP Code Injection RCE PoC (CVE-2009-1151)",
+      "date": "2018-02-03",
+      "raw_date": "2018-02-03T22:26:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.731916",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-02-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

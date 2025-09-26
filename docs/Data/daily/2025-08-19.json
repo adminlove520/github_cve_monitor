@@ -1,0 +1,223 @@
+{
+  "date": "2025-08-19",
+  "count": 30,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-9216",
+      "repo_info": "[d0n601/CVE-2025-9216](https://github.com/d0n601/CVE-2025-9216)",
+      "description": "StoreEngine – Powerful WordPress eCommerce Plugin for Payments, Memberships, Affiliates, Sales &amp; More &lt;= 1.4.0 - Authenticated (Subscriber+) Arbitrary File Upload",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T21:05:42Z"
+    },
+    {
+      "cve_id": "CVE-2025-9215",
+      "repo_info": "[d0n601/CVE-2025-9215](https://github.com/d0n601/CVE-2025-9215)",
+      "description": "StoreEngine – Powerful WordPress eCommerce Plugin for Payments, Memberships, Affiliates, Sales &amp; More &lt;= 1.4.0 - Authenticated (Subscriber+) Arbitrary File Download",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T21:04:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-8723",
+      "repo_info": "[Nxploited/CVE-2025-8723](https://github.com/Nxploited/CVE-2025-8723)",
+      "description": "Cloudflare Image Resizing &lt;= 1.5.6 - Unauthenticated Remote Code Execution",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T11:50:01Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[nhattanhh/CVE-2025-8088](https://github.com/nhattanhh/CVE-2025-8088)",
+      "description": "CVE-2025-8088",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T04:20:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-55287",
+      "repo_info": "[SEORY0/CVE-Analyzer](https://github.com/SEORY0/CVE-Analyzer)",
+      "description": "2025-2 ASC Project : AI 기반 CVE 자동 분석 및 실행 환경 구축 프레임워크",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T09:34:39Z"
+    },
+    {
+      "cve_id": "CVE-2025-50383",
+      "repo_info": "[Abdullah4eb/CVE-2025-50383](https://github.com/Abdullah4eb/CVE-2025-50383)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T11:11:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP](https://github.com/SteamPunk424/CVE-2025-49113-Roundcube-RCE-PHP)",
+      "description": "This is a rewritten exploit to work with php",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T02:35:15Z"
+    },
+    {
+      "cve_id": "CVE-2025-29927",
+      "repo_info": "[R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927](https://github.com/R3verseIN/Nextjs-middleware-vulnerable-appdemo-CVE-2025-29927)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T14:07:04Z"
+    },
+    {
+      "cve_id": "CVE-2024-53900",
+      "repo_info": "[www-spam/CVE-2024-53900](https://github.com/www-spam/CVE-2024-53900)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T10:20:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-36042",
+      "repo_info": "[zaaraZiof0/CVE-2024-36042](https://github.com/zaaraZiof0/CVE-2024-36042)",
+      "description": "CVE-2024-36042 Silverpeas authentication bypass vulnerability #Silverpeas #vulnerability #authentication",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T20:14:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-49109",
+      "repo_info": "[shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0](https://github.com/shoucheng3/apache__dolphinscheduler_CVE-2023-49109_3-2-0)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T17:23:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-24422",
+      "repo_info": "[shoucheng3/jenkinsci__script-security-plugin_CVE-2023-24422_1228.vd93135a_2fb_25](https://github.com/shoucheng3/jenkinsci__script-security-plugin_CVE-2023-24422_1228.vd93135a_2fb_25)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T02:16:08Z"
+    },
+    {
+      "cve_id": "CVE-2023-24057",
+      "repo_info": "[shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91](https://github.com/shoucheng3/hapifhir__org_hl7_fhir_core_CVE-2023-24057_5-6-91)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T16:59:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-4137",
+      "repo_info": "[shoucheng3/keycloak__keycloak_CVE-2022-4137_20-0-3](https://github.com/shoucheng3/keycloak__keycloak_CVE-2022-4137_20-0-3)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T01:51:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-31194",
+      "repo_info": "[shoucheng3/DSpace__DSpace_CVE-2022-31194_5-10](https://github.com/shoucheng3/DSpace__DSpace_CVE-2022-31194_5-10)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T06:30:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-28367",
+      "repo_info": "[shoucheng3/nahsra__antisamy_CVE-2022-28367_1-6-5](https://github.com/shoucheng3/nahsra__antisamy_CVE-2022-28367_1-6-5)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T15:57:38Z"
+    },
+    {
+      "cve_id": "CVE-2022-24897",
+      "repo_info": "[shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6](https://github.com/shoucheng3/xwiki__xwiki-commons_CVE-2022-24897_12-6-6)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T06:30:59Z"
+    },
+    {
+      "cve_id": "CVE-2022-22932",
+      "repo_info": "[shoucheng3/asf__karaf_CVE-2022-22932_4-3-5](https://github.com/shoucheng3/asf__karaf_CVE-2022-22932_4-3-5)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T17:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2022-20617",
+      "repo_info": "[shoucheng3/jenkinsci__docker-commons-plugin_CVE-2022-20617_1-17](https://github.com/shoucheng3/jenkinsci__docker-commons-plugin_CVE-2022-20617_1-17)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T16:58:09Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[charanvoonna/CVE-2021-41773](https://github.com/charanvoonna/CVE-2021-41773)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T15:07:56Z"
+    },
+    {
+      "cve_id": "CVE-2019-5688",
+      "repo_info": "[watsa01/CVE-2019-5688](https://github.com/watsa01/CVE-2019-5688)",
+      "description": "POC Code for the NVFLASH driver",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T08:34:41Z"
+    },
+    {
+      "cve_id": "CVE-2019-17573",
+      "repo_info": "[shoucheng3/asf__cxf_CVE-2019-17573_3-2-11](https://github.com/shoucheng3/asf__cxf_CVE-2019-17573_3-2-11)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T10:13:46Z"
+    },
+    {
+      "cve_id": "CVE-2019-10219",
+      "repo_info": "[shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final](https://github.com/shoucheng3/hibernate__hibernate-validator_CVE-2019-10219_6-0-17-Final)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T16:59:36Z"
+    },
+    {
+      "cve_id": "CVE-2019-10078",
+      "repo_info": "[shoucheng3/apache__jspwiki_CVE-2019-10078_2-11-0-M3](https://github.com/shoucheng3/apache__jspwiki_CVE-2019-10078_2-11-0-M3)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T09:10:57Z"
+    },
+    {
+      "cve_id": "CVE-2018-17297",
+      "repo_info": "[shoucheng3/dromara__hutool_CVE-2018-17297_4-1-11](https://github.com/shoucheng3/dromara__hutool_CVE-2018-17297_4-1-11)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T06:28:30Z"
+    },
+    {
+      "cve_id": "CVE-2018-1002201",
+      "repo_info": "[shoucheng3/zeroturnaround__zt-zip_CVE-2018-1002201_1-12](https://github.com/shoucheng3/zeroturnaround__zt-zip_CVE-2018-1002201_1-12)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T11:45:04Z"
+    },
+    {
+      "cve_id": "CVE-2018-1002200",
+      "repo_info": "[shoucheng3/codehaus-plexus__plexus-archiver_CVE-2018-1002200_3-5](https://github.com/shoucheng3/codehaus-plexus__plexus-archiver_CVE-2018-1002200_3-5)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T15:55:43Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000487",
+      "repo_info": "[shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15](https://github.com/shoucheng3/codehaus-plexus__plexus-utils_CVE-2017-1000487_3-0-15)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T15:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2014-3576",
+      "repo_info": "[shoucheng3/apache__activemq_CVE-2014-3576_5-10-1](https://github.com/shoucheng3/apache__activemq_CVE-2014-3576_5-10-1)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T01:41:45Z"
+    },
+    {
+      "cve_id": "CVE-2013-7285",
+      "repo_info": "[shoucheng3/x-stream__xstream_CVE-2013-7285_1-4-6](https://github.com/shoucheng3/x-stream__xstream_CVE-2013-7285_1-4-6)",
+      "description": "no description",
+      "date": "2025-08-19",
+      "raw_date": "2025-08-19T11:08:56Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.172686",
+  "metadata": {
+    "total_cves": 30,
+    "date_range": "2025-08-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

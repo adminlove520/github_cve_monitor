@@ -1,0 +1,118 @@
+{
+  "date": "2024-05-09",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[abbiy/Backdooring-Oncord-Android-Sterio-](https://github.com/abbiy/Backdooring-Oncord-Android-Sterio-)",
+      "description": "CVE-2024-36842, Creating Persistent Backdoor on Oncord+ android/ios car infotaiment using malicious script!",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T12:28:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-34221",
+      "repo_info": "[dovankha/CVE-2024-34221](https://github.com/dovankha/CVE-2024-34221)",
+      "description": "CVE-2024-34221 - Insecure pemission",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T10:32:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-28279",
+      "repo_info": "[unrealjbr/CVE-2024-28279](https://github.com/unrealjbr/CVE-2024-28279)",
+      "description": "CVE-2024-28279",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T12:40:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-28277",
+      "repo_info": "[unrealjbr/CVE-2024-28277](https://github.com/unrealjbr/CVE-2024-28277)",
+      "description": "CVE-2024-28277",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T12:37:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-28276",
+      "repo_info": "[unrealjbr/CVE-2024-28276](https://github.com/unrealjbr/CVE-2024-28276)",
+      "description": "CVE-2024-28276",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T12:28:53Z"
+    },
+    {
+      "cve_id": "CVE-2024-27956",
+      "repo_info": "[nancyariah4/CVE-2024-27956](https://github.com/nancyariah4/CVE-2024-27956)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T12:07:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-26026",
+      "repo_info": "[passwa11/CVE-2024-26026](https://github.com/passwa11/CVE-2024-26026)",
+      "description": "CVE-2024-26026: BIG-IP Next Central Manager API UNAUTHENTICATED SQL INJECTION",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T03:14:14Z"
+    },
+    {
+      "cve_id": "CVE-2024-21793",
+      "repo_info": "[FeatherStark/CVE-2024-21793](https://github.com/FeatherStark/CVE-2024-21793)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T02:31:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-0566",
+      "repo_info": "[xbz0n/CVE-2024-0566](https://github.com/xbz0n/CVE-2024-0566)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T17:30:24Z"
+    },
+    {
+      "cve_id": "CVE-2024-0399",
+      "repo_info": "[xbz0n/CVE-2024-0399](https://github.com/xbz0n/CVE-2024-0399)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T18:21:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-52654",
+      "repo_info": "[FoxyProxys/CVE-2023-52654](https://github.com/FoxyProxys/CVE-2023-52654)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T20:53:03Z"
+    },
+    {
+      "cve_id": "CVE-2021-45046",
+      "repo_info": "[shaily29-eng/CyberSecurity_CVE-2021-45046](https://github.com/shaily29-eng/CyberSecurity_CVE-2021-45046)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T03:04:17Z"
+    },
+    {
+      "cve_id": "CVE-2020-0688",
+      "repo_info": "[W01fh4cker/CVE-2020-0688-GUI](https://github.com/W01fh4cker/CVE-2020-0688-GUI)",
+      "description": "GUI Exploit Tool for CVE-2020-0688(Microsoft Exchange default MachineKeySection deserialize vulnerability)",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T12:50:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[batmoshka55/CVE-2018-9995_dvr_credentials](https://github.com/batmoshka55/CVE-2018-9995_dvr_credentials)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T09:03:42Z"
+    },
+    {
+      "cve_id": "CVE-2017-0143",
+      "repo_info": "[InTheDarkness2102/CVE-2017-0143-MS-17-010-EternalBlue](https://github.com/InTheDarkness2102/CVE-2017-0143-MS-17-010-EternalBlue)",
+      "description": "no description",
+      "date": "2024-05-09",
+      "raw_date": "2024-05-09T06:03:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.085874",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2024-05-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

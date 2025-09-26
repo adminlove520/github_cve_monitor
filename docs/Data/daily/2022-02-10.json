@@ -1,0 +1,34 @@
+{
+  "date": "2022-02-10",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-25089",
+      "repo_info": "[ComparedArray/printix-CVE-2022-25089](https://github.com/ComparedArray/printix-CVE-2022-25089)",
+      "description": "An \"Incorrect Use of a Privileged API\" vulnerability in PrintixService.exe, in Printix's \"Printix Secure Cloud Print Management\", Version 1.3.1106.0 and below allows a Local Or Remote attacker the ability change all HKEY Windows Registry values as SYSTEM context via the UITasks.PersistentRegistryData parameter.",
+      "date": "2022-02-10",
+      "raw_date": "2022-02-10T19:12:43Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[jbaines-r7/staystaystay](https://github.com/jbaines-r7/staystaystay)",
+      "description": "Proof of Concept for CVE-2021-1585: Cisco ASA Device Manager RCE",
+      "date": "2022-02-10",
+      "raw_date": "2022-02-10T21:52:24Z"
+    },
+    {
+      "cve_id": "CVE-2019-7609",
+      "repo_info": "[wolf1892/CVE-2019-7609](https://github.com/wolf1892/CVE-2019-7609)",
+      "description": "docker lab setup for kibana-7609",
+      "date": "2022-02-10",
+      "raw_date": "2022-02-10T06:22:54Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.880142",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2022-02-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

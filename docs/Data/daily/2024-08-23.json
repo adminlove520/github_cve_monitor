@@ -1,0 +1,97 @@
+{
+  "date": "2024-08-23",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-7928",
+      "repo_info": "[th3gokul/CVE-2024-7928](https://github.com/th3gokul/CVE-2024-7928)",
+      "description": "CVE-2024-7928: FastAdmin &lt; V1.3.4.20220530 Arbitrary File Reading Vulnerability",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T15:50:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-4879",
+      "repo_info": "[RedTeamPentesting/moodle-rce-calculatedquestions](https://github.com/RedTeamPentesting/moodle-rce-calculatedquestions)",
+      "description": "Scripts for Analysis of a RCE in Moodle Calculated Questions (CVE-2024-43425)",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T09:13:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-43044",
+      "repo_info": "[convisolabs/CVE-2024-43044-jenkins](https://github.com/convisolabs/CVE-2024-43044-jenkins)",
+      "description": "Exploit for the vulnerability CVE-2024-43044 in Jenkins",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T20:26:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-41992",
+      "repo_info": "[fj016/CVE-2024-41992-PoC](https://github.com/fj016/CVE-2024-41992-PoC)",
+      "description": "PoC for the CVE-2024-41992 (RCE on devices running WiFi-TestSuite-DUT)",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T23:48:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-41992",
+      "repo_info": "[partywavesec/invesalius3_vulnerabilities](https://github.com/partywavesec/invesalius3_vulnerabilities)",
+      "description": "InVesalius discovered CVE. CVE-2024-42845",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T13:43:27Z"
+    },
+    {
+      "cve_id": "CVE-2024-38473",
+      "repo_info": "[juanschallibaum/CVE-2024-38473-Nuclei-Template](https://github.com/juanschallibaum/CVE-2024-38473-Nuclei-Template)",
+      "description": "Nuclei template to detect Apache servers vulnerable to CVE-2024-38473",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T14:39:31Z"
+    },
+    {
+      "cve_id": "CVE-2024-38063",
+      "repo_info": "[Th3Tr1ckst3r/CVE-2024-38063](https://github.com/Th3Tr1ckst3r/CVE-2024-38063)",
+      "description": "CVE-2024-38063 research so you don&#x27;t have to.",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T06:28:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-28000",
+      "repo_info": "[realbotnet/CVE-2024-28000](https://github.com/realbotnet/CVE-2024-28000)",
+      "description": "0Day CVE-2024-28000 Auto Exploiter on WordPress LiteSpeed Cache plugin",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T13:28:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-21689",
+      "repo_info": "[salvadornakamura/CVE-2024-21689](https://github.com/salvadornakamura/CVE-2024-21689)",
+      "description": "CVE-2024–21689 RCE Bamboo Data Center and Server Atlassian POC",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T15:32:50Z"
+    },
+    {
+      "cve_id": "CVE-2024-0039",
+      "repo_info": "[23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039](https://github.com/23Nero/fix-02-failure-CVE-2024-31319-CVE-2024-0039)",
+      "description": "no description",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T06:28:12Z"
+    },
+    {
+      "cve_id": "CVE-2024-0039",
+      "repo_info": "[Destiny0991/check_38077](https://github.com/Destiny0991/check_38077)",
+      "description": "Windows远程桌面授权服务CVE-2024-38077检测工具",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T08:32:40Z"
+    },
+    {
+      "cve_id": "CVE-2019-19470",
+      "repo_info": "[juliourena/CVE-2019-19470-RedTeamRD](https://github.com/juliourena/CVE-2019-19470-RedTeamRD)",
+      "description": "Este repositorio contiene el código y las instrucciones para replicar el exploit CVE-2019-19470 descubierto por CODEWHITE. Aquí se encuentran el código fuente de los ejemplos que utilicé en el meetup de HackTheBox para explicar mi proceso de aprendizaje y creación de este exploit.",
+      "date": "2024-08-23",
+      "raw_date": "2024-08-23T22:40:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.105501",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-08-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

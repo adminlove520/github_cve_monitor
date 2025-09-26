@@ -1,0 +1,27 @@
+{
+  "date": "2021-07-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-25461",
+      "repo_info": "[robertguetzkow/ets5-password-recovery](https://github.com/robertguetzkow/ets5-password-recovery)",
+      "description": "ETS5 Password Recovery Tool is a PoC for CVE-2021-36799",
+      "date": "2021-07-18",
+      "raw_date": "2021-07-18T13:59:43Z"
+    },
+    {
+      "cve_id": "CVE-2019-9053",
+      "repo_info": "[k4u5h41/CVE-2019-9053](https://github.com/k4u5h41/CVE-2019-9053)",
+      "description": "no description",
+      "date": "2021-07-18",
+      "raw_date": "2021-07-18T20:37:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.857480",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2021-07-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

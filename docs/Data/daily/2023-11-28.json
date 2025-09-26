@@ -1,0 +1,132 @@
+{
+  "date": "2023-11-28",
+  "count": 17,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-6289",
+      "repo_info": "[RandomRobbieBF/CVE-2023-6289](https://github.com/RandomRobbieBF/CVE-2023-6289)",
+      "description": "Swift Performance Lite &lt;= 2.3.6.14 - Missing Authorization to Unauthenticated Settings Export",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T20:05:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-49980",
+      "repo_info": "[geraldoalcantara/CVE-2023-49980](https://github.com/geraldoalcantara/CVE-2023-49980)",
+      "description": "Best Student Result Management System 1.0 - Directory Listing CVE-2023-49980",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T13:40:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-49976",
+      "repo_info": "[geraldoalcantara/CVE-2023-49976](https://github.com/geraldoalcantara/CVE-2023-49976)",
+      "description": "Customer Support System 1.0 is vulnerable to stored XSS. A XSS vulnerability exists in version 1 of the Customer Support System. A malicious actor can insert JavaScript code through the &quot;subject&quot; field when editing/creating a ticket.",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T13:53:45Z"
+    },
+    {
+      "cve_id": "CVE-2023-49547",
+      "repo_info": "[geraldoalcantara/CVE-2023-49547](https://github.com/geraldoalcantara/CVE-2023-49547)",
+      "description": "Customer Support System 1.0 - SQL Injection Login Bypass",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T12:59:10Z"
+    },
+    {
+      "cve_id": "CVE-2023-49545",
+      "repo_info": "[geraldoalcantara/CVE-2023-49545](https://github.com/geraldoalcantara/CVE-2023-49545)",
+      "description": "Customer Support System 1.0 - Directory Listing",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T05:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-49544",
+      "repo_info": "[geraldoalcantara/CVE-2023-49544](https://github.com/geraldoalcantara/CVE-2023-49544)",
+      "description": "Customer Support System 1.0 - Local File Inclusion",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T06:21:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-49314",
+      "repo_info": "[louiselalanne/CVE-2023-49314](https://github.com/louiselalanne/CVE-2023-49314)",
+      "description": "Asana Desktop 2.1.0 on macOS allows code injection because of specific Electron Fuses. There is inadequate protection against code injection through settings such as RunAsNode and  enableNodeCliInspectArguments, and thus r3ggi/electroniz3r can be used to perform an attack.",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T10:39:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-41993",
+      "repo_info": "[ZZY3312/CVE-2023-41993](https://github.com/ZZY3312/CVE-2023-41993)",
+      "description": "no description",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T00:55:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-41991",
+      "repo_info": "[ZZY3312/CVE-2023-41991](https://github.com/ZZY3312/CVE-2023-41991)",
+      "description": "no description",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T00:38:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-36025",
+      "repo_info": "[J466Y/test_CVE-2023-36025](https://github.com/J466Y/test_CVE-2023-36025)",
+      "description": "test repo for CVE-2023-36025",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T10:34:50Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[dr-cable-tv/Geoserver-CVE-2023-25157](https://github.com/dr-cable-tv/Geoserver-CVE-2023-25157)",
+      "description": "Geoserver SQL Injection Exploit",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T07:23:00Z"
+    },
+    {
+      "cve_id": "CVE-2023-25157",
+      "repo_info": "[ayhan-dev/CVE-LIST](https://github.com/ayhan-dev/CVE-LIST)",
+      "description": "list CVE - 2023",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T06:54:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-23752",
+      "repo_info": "[Youns92/Joomla-v4.2.8---CVE-2023-23752](https://github.com/Youns92/Joomla-v4.2.8---CVE-2023-23752)",
+      "description": "CVE-2023-23752",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T16:08:16Z"
+    },
+    {
+      "cve_id": "CVE-2023-22518",
+      "repo_info": "[C1ph3rX13/CVE-2023-22518](https://github.com/C1ph3rX13/CVE-2023-22518)",
+      "description": "Confluence CVE-2023-22518",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T03:33:16Z"
+    },
+    {
+      "cve_id": "CVE-2022-26923",
+      "repo_info": "[Gh-Badr/CVE-2022-26923](https://github.com/Gh-Badr/CVE-2022-26923)",
+      "description": "A proof of concept exploiting CVE-2022-26923.",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T16:13:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-26923",
+      "repo_info": "[Jump-Wang-111/AmzWord](https://github.com/Jump-Wang-111/AmzWord)",
+      "description": "An automated attack chain based on CVE-2022-30190, 163 email backdoor, and image steganography.",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T03:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2011-2523",
+      "repo_info": "[4m3rr0r/CVE-2011-2523-poc](https://github.com/4m3rr0r/CVE-2011-2523-poc)",
+      "description": "Python exploit for CVE-2011-2523 (VSFTPD 2.3.4 Backdoor Command Execution)",
+      "date": "2023-11-28",
+      "raw_date": "2023-11-28T10:52:33Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.058920",
+  "metadata": {
+    "total_cves": 17,
+    "date_range": "2023-11-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

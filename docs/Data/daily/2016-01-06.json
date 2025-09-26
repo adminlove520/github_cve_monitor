@@ -1,0 +1,20 @@
+{
+  "date": "2016-01-06",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-2900",
+      "repo_info": "[securifera/CVE-2015-2900-Exploit](https://github.com/securifera/CVE-2015-2900-Exploit)",
+      "description": "no description",
+      "date": "2016-01-06",
+      "raw_date": "2016-01-06T18:34:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.663741",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

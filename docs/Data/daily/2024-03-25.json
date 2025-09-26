@@ -1,0 +1,83 @@
+{
+  "date": "2024-03-25",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-29272",
+      "repo_info": "[awjkjflkwlekfdjs/CVE-2024-29272](https://github.com/awjkjflkwlekfdjs/CVE-2024-29272)",
+      "description": "no description",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T22:43:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-29197",
+      "repo_info": "[mansploit/CVE-2024-29197-exploit](https://github.com/mansploit/CVE-2024-29197-exploit)",
+      "description": "TENDA ROUTER AC10 - RCE (full research)",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T09:47:01Z"
+    },
+    {
+      "cve_id": "CVE-2024-29194",
+      "repo_info": "[mansploit/CVE-2024-29194-POC](https://github.com/mansploit/CVE-2024-29194-POC)",
+      "description": "exploit for OneUptime - grab the master_key, escalate to admin",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T09:29:37Z"
+    },
+    {
+      "cve_id": "CVE-2024-2856",
+      "repo_info": "[Schnaidr/CVE-2024-2856-Stack-overflow-EXP](https://github.com/Schnaidr/CVE-2024-2856-Stack-overflow-EXP)",
+      "description": "Tenda AC10 Router exploit stack-based buffer overflow",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T14:34:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-24409",
+      "repo_info": "[passtheticket/CVE-2024-24409](https://github.com/passtheticket/CVE-2024-24409)",
+      "description": "ADManager Plus Build &lt; 7210 Elevation of Privilege Vulnerability",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T20:51:56Z"
+    },
+    {
+      "cve_id": "CVE-2024-23722",
+      "repo_info": "[alexcote1/CVE-2024-23722-poc](https://github.com/alexcote1/CVE-2024-23722-poc)",
+      "description": "no description",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T17:50:33Z"
+    },
+    {
+      "cve_id": "CVE-2024-2054",
+      "repo_info": "[Madan301/CVE-2024-2054](https://github.com/Madan301/CVE-2024-2054)",
+      "description": "no description",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T07:01:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[ph-hitachi/CVE-2023-46604](https://github.com/ph-hitachi/CVE-2023-46604)",
+      "description": "no description",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T23:32:26Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[youmulijiang/evil-winrar](https://github.com/youmulijiang/evil-winrar)",
+      "description": "evil-winrar,CVE-2023-38831漏洞利用和社会工程学攻击框架 (evil-winrar, CVE-2023-38831 Vulnerability Exploitation and Social Engineering Attack Framework)",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T14:05:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-32932",
+      "repo_info": "[ox1111/CVE-2022-32932](https://github.com/ox1111/CVE-2022-32932)",
+      "description": "no description",
+      "date": "2024-03-25",
+      "raw_date": "2024-03-25T23:00:41Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.077374",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2024-03-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

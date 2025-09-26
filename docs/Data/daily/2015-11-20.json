@@ -1,0 +1,20 @@
+{
+  "date": "2015-11-20",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-6576",
+      "repo_info": "[CallMeJonas/CVE-2015-6576](https://github.com/CallMeJonas/CVE-2015-6576)",
+      "description": "A PoC for the Bamboo deserialization exploit",
+      "date": "2015-11-20",
+      "raw_date": "2015-11-20T14:16:18Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.659709",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-11-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

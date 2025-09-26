@@ -1,0 +1,62 @@
+{
+  "date": "2023-06-17",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-30777",
+      "repo_info": "[Alucard0x1/CVE-2023-30777](https://github.com/Alucard0x1/CVE-2023-30777)",
+      "description": "Proof of Concept (PoC) URL generator for a reflected XSS vulnerability in the Advanced Custom Fields WordPress plugin.",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T12:43:51Z"
+    },
+    {
+      "cve_id": "CVE-2023-30777",
+      "repo_info": "[AAsh035/CVE2023-](https://github.com/AAsh035/CVE2023-)",
+      "description": "no description",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T11:35:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[AAsh035/CVE-2023-30212-Vulnerable-Lab](https://github.com/AAsh035/CVE-2023-30212-Vulnerable-Lab)",
+      "description": "no description",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T11:21:09Z"
+    },
+    {
+      "cve_id": "CVE-2023-30212",
+      "repo_info": "[hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb](https://github.com/hheeyywweellccoommee/CVE-2023-30212-Vulnerable-Lab-xjghb)",
+      "description": "no description",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T12:01:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-25610",
+      "repo_info": "[qi4L/CVE-2023-25610](https://github.com/qi4L/CVE-2023-25610)",
+      "description": "FortiOS 管理界面中的堆内存下溢导致远程代码执行",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T06:57:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-24078",
+      "repo_info": "[rio128128/CVE-2023-24078](https://github.com/rio128128/CVE-2023-24078)",
+      "description": "CVE-2023-24078 for FuguHub / BarracudaDrive",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T10:11:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-24078",
+      "repo_info": "[overgrowncarrot1/CVE-2023-24078](https://github.com/overgrowncarrot1/CVE-2023-24078)",
+      "description": "CVE-2023-24078 for FuguHub / BarracudaDrive",
+      "date": "2023-06-17",
+      "raw_date": "2023-06-17T03:39:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.032746",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-06-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

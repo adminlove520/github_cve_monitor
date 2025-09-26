@@ -1,0 +1,139 @@
+{
+  "date": "2025-07-14",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-7620",
+      "repo_info": "[Yuri08loveElaina/cve_2025_7620](https://github.com/Yuri08loveElaina/cve_2025_7620)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T05:47:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-7606",
+      "repo_info": "[sunhuiHi666/CVE-2025-7606](https://github.com/sunhuiHi666/CVE-2025-7606)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T01:59:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-7605",
+      "repo_info": "[sunhuiHi666/CVE-2025-7605](https://github.com/sunhuiHi666/CVE-2025-7605)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T01:58:40Z"
+    },
+    {
+      "cve_id": "CVE-2025-7340",
+      "repo_info": "[Nxploited/CVE-2025-7340](https://github.com/Nxploited/CVE-2025-7340)",
+      "description": "HT Contact Form Widget For Elementor Page Builder &amp; Gutenberg Blocks &amp; Form Builder. &lt;= 2.2.1 - Unauthenticated Arbitrary File Upload",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T23:27:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-52689",
+      "repo_info": "[UltimateHG/CVE-2025-52689-PoC](https://github.com/UltimateHG/CVE-2025-52689-PoC)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T09:18:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-52488",
+      "repo_info": "[SystemVll/CVE-2025-52488](https://github.com/SystemVll/CVE-2025-52488)",
+      "description": "This exploit targets a vulnerability in DNN (formerly DotNetNuke) versions 6.0.0 to before 10.0.1 that allows attackers to disclose NTLM hashes through Unicode path normalization attacks.",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T01:44:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-49493",
+      "repo_info": "[SystemVll/CVE-2025-49493](https://github.com/SystemVll/CVE-2025-49493)",
+      "description": "This is a Python-based exploit for **CVE-2025-49493**, which affects Akamai CloudTest versions before 60 2025.06.02 (12988). The vulnerability allows for XML External Entity (XXE) injection through the SOAP service endpoint.",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T02:05:27Z"
+    },
+    {
+      "cve_id": "CVE-2025-48827",
+      "repo_info": "[SystemVll/CVE-2025-48827](https://github.com/SystemVll/CVE-2025-48827)",
+      "description": "This repository contains a proof-of-concept exploit for CVE-2025-48827, a critical authentication bypass vulnerability affecting vBulletin 5.0.0–5.7.5 and 6.0.0–6.0.3 when running on PHP 8.1 or later. The vulnerability allows unauthenticated attackers to invoke protected API methods remotely.",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T02:17:46Z"
+    },
+    {
+      "cve_id": "CVE-2025-44137",
+      "repo_info": "[mheranco/CVE-2025-44137](https://github.com/mheranco/CVE-2025-44137)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T10:10:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-44137",
+      "repo_info": "[secwatch92/fortiweb_rce_toolkit](https://github.com/secwatch92/fortiweb_rce_toolkit)",
+      "description": "A powerful and modular PoC tool for CVE‑2025‑25257 in Fortinet FortiWeb, enabling reverse shell, encrypted data exfiltration, persistence, and cleanup capabilities.",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T14:20:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-44136",
+      "repo_info": "[mheranco/CVE-2025-44136](https://github.com/mheranco/CVE-2025-44136)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T09:53:04Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[dbarquero/cve-2025-32463-lab](https://github.com/dbarquero/cve-2025-32463-lab)",
+      "description": "Educational Docker lab to simulate privilege escalation via CVE-2025-32463",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T23:16:18Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[mickhacking/Thank-u-Next](https://github.com/mickhacking/Thank-u-Next)",
+      "description": "CVE-2025-29927 PoC - Auth Bypass Exploit - Python Tool using httpx - Middleware Vulnerability - Ethical Hacking Toolkit",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T18:57:41Z"
+    },
+    {
+      "cve_id": "CVE-2025-32463",
+      "repo_info": "[MohamedKarrab/CVE-2025-32463](https://github.com/MohamedKarrab/CVE-2025-32463)",
+      "description": "Privilege escalation to root using sudo chroot, NO NEED for gcc installed.",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T23:07:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-27415",
+      "repo_info": "[jiseoung/CVE-2025-27415-PoC](https://github.com/jiseoung/CVE-2025-27415-PoC)",
+      "description": "Nuxt3 Acceptance of Extraneous Untrusted Data With Trusted Data vulnerability",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T07:10:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-25257",
+      "repo_info": "[mtjanus106/CVE-2025-25257](https://github.com/mtjanus106/CVE-2025-25257)",
+      "description": "Explore the CVE-2025-25257 exploit for FortiWeb. This repo includes a full exploit and a proof of concept for file read/write. 🐱💻🔒",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T05:15:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[Armand2002/Exploit-CVE-2025-1974-Lab](https://github.com/Armand2002/Exploit-CVE-2025-1974-Lab)",
+      "description": "no description",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T13:46:24Z"
+    },
+    {
+      "cve_id": "CVE-2023-5360",
+      "repo_info": "[X3RX3SSec/CVE-2023-5360](https://github.com/X3RX3SSec/CVE-2023-5360)",
+      "description": "Royal Elementor Addons - Unauthenticated Remote Code Execution",
+      "date": "2025-07-14",
+      "raw_date": "2025-07-14T18:09:35Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.164419",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2025-07-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

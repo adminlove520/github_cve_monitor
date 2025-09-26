@@ -1,0 +1,20 @@
+{
+  "date": "2020-04-15",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-20085",
+      "repo_info": "[AleDiBen/NVMS1000-Exploit](https://github.com/AleDiBen/NVMS1000-Exploit)",
+      "description": "NVMS 1000 - Directory Traversal Attack Exploit for CVE-2019-20085",
+      "date": "2020-04-15",
+      "raw_date": "2020-04-15T10:31:14Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.808150",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-04-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

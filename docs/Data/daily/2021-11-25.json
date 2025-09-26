@@ -1,0 +1,104 @@
+{
+  "date": "2021-11-25",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2021-42694",
+      "repo_info": "[pierDipi/unicode-control-characters-action](https://github.com/pierDipi/unicode-control-characters-action)",
+      "description": "A GitHub Action to find Unicode control characters using the Red Hat diagnostic tool https://access.redhat.com/security/vulnerabilities/RHSB-2021-007 to detect RHSB-2021-007 Trojan source attacks (CVE-2021-42574,CVE-2021-42694)",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T08:02:31Z"
+    },
+    {
+      "cve_id": "CVE-2020-0796",
+      "repo_info": "[lisinan988/CVE-2020-0796-exp](https://github.com/lisinan988/CVE-2020-0796-exp)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T04:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2020-0133",
+      "repo_info": "[Nivaskumark/CVE-2020-0133-packages_apps_Sett](https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Sett)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T14:49:20Z"
+    },
+    {
+      "cve_id": "CVE-2020-0133",
+      "repo_info": "[Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch](https://github.com/Nivaskumark/CVE-2020-0133-packages_apps_Settings_nopatch)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T14:38:58Z"
+    },
+    {
+      "cve_id": "CVE-2020-0114",
+      "repo_info": "[Nivaskumark/CVE-2020-0114-frameworks_base11](https://github.com/Nivaskumark/CVE-2020-0114-frameworks_base11)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T15:13:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-0114",
+      "repo_info": "[Nivaskumark/_beforeCVE-2020-0114-frameworks_base](https://github.com/Nivaskumark/_beforeCVE-2020-0114-frameworks_base)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T15:04:14Z"
+    },
+    {
+      "cve_id": "CVE-2020-0097",
+      "repo_info": "[Nivaskumark/CVE-2020-0097-frameworks_base_after](https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_after)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T15:47:33Z"
+    },
+    {
+      "cve_id": "CVE-2020-0097",
+      "repo_info": "[Nivaskumark/CVE-2020-0097-frameworks_base_before](https://github.com/Nivaskumark/CVE-2020-0097-frameworks_base_before)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T15:29:28Z"
+    },
+    {
+      "cve_id": "CVE-2020-0074",
+      "repo_info": "[Nivaskumark/CVE-2020-0074-frameworks_base_old1](https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old1)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T16:17:23Z"
+    },
+    {
+      "cve_id": "CVE-2020-0074",
+      "repo_info": "[Nivaskumark/CVE-2020-0074-frameworks_base_old](https://github.com/Nivaskumark/CVE-2020-0074-frameworks_base_old)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T16:02:52Z"
+    },
+    {
+      "cve_id": "CVE-2019-0708",
+      "repo_info": "[lisinan988/CVE-2019-0708-scan](https://github.com/lisinan988/CVE-2019-0708-scan)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T04:53:22Z"
+    },
+    {
+      "cve_id": "CVE-2018-8174",
+      "repo_info": "[lisinan988/CVE-2018-8174-exp](https://github.com/lisinan988/CVE-2018-8174-exp)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T05:06:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-11882",
+      "repo_info": "[lisinan988/CVE-2017-11882-exp](https://github.com/lisinan988/CVE-2017-11882-exp)",
+      "description": "no description",
+      "date": "2021-11-25",
+      "raw_date": "2021-11-25T05:03:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.871187",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2021-11-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

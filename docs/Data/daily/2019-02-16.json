@@ -1,0 +1,20 @@
+{
+  "date": "2019-02-16",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-46638",
+      "repo_info": "[naonymous101/CVE-2022-46638](https://github.com/naonymous101/CVE-2022-46638)",
+      "description": "Blog Pribadi",
+      "date": "2019-02-16",
+      "raw_date": "2019-02-16T16:50:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.767552",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2019-02-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "date": "2014-10-16",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-4113",
+      "repo_info": "[stdevel/poodle_protector](https://github.com/stdevel/poodle_protector)",
+      "description": "Python script for automatically protecting your systems against POODLE vulnerability (CVE-2014-3566)",
+      "date": "2014-10-16",
+      "raw_date": "2014-10-16T07:49:23Z"
+    },
+    {
+      "cve_id": "CVE-2014-3566",
+      "repo_info": "[mikesplain/CVE-2014-3566-poodle-cookbook](https://github.com/mikesplain/CVE-2014-3566-poodle-cookbook)",
+      "description": "no description",
+      "date": "2014-10-16",
+      "raw_date": "2014-10-16T01:24:38Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.624814",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2014-10-16",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

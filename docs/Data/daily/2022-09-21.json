@@ -1,0 +1,76 @@
+{
+  "date": "2022-09-21",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-39197",
+      "repo_info": "[safe3s/CVE-2022-39197](https://github.com/safe3s/CVE-2022-39197)",
+      "description": "CVE-2022-39197",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T06:22:10Z"
+    },
+    {
+      "cve_id": "CVE-2022-38577",
+      "repo_info": "[sornram9254/CVE-2022-38577-Processmaker](https://github.com/sornram9254/CVE-2022-38577-Processmaker)",
+      "description": "ProcessMaker before v3.5.4 was discovered to contain insecure permissions in the user profile page. This vulnerability allows attackers to escalate normal users to Administrators.",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T04:29:42Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[kljunowsky/CVE-2022-36804-POC](https://github.com/kljunowsky/CVE-2022-36804-POC)",
+      "description": "Bitbucket CVE-2022-36804 unauthenticated remote command execution",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T10:36:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[awsassets/CVE-2022-36804-RCE](https://github.com/awsassets/CVE-2022-36804-RCE)",
+      "description": "A critical vulnerability (CVE-2022-36804) in Atlassian Bitbucket Server and Data Center could be exploited by unauthorized attackers to execute malicious code on vulnerable instances.",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T09:18:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[bcdunbar/CVE-2021-44228-poc](https://github.com/bcdunbar/CVE-2021-44228-poc)",
+      "description": "CVE-2021-44228 POC / Example",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T20:33:06Z"
+    },
+    {
+      "cve_id": "CVE-2021-44228",
+      "repo_info": "[ocastel/log4j-shell-poc](https://github.com/ocastel/log4j-shell-poc)",
+      "description": "A Proof-Of-Concept for the CVE-2021-44228 vulnerability.",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T07:43:15Z"
+    },
+    {
+      "cve_id": "CVE-2018-11235",
+      "repo_info": "[EmaVirgRep/CVE-2018-11235](https://github.com/EmaVirgRep/CVE-2018-11235)",
+      "description": "no description",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T09:21:59Z"
+    },
+    {
+      "cve_id": "CVE-2015-8562",
+      "repo_info": "[Caihuar/Joomla-cve-2015-8562](https://github.com/Caihuar/Joomla-cve-2015-8562)",
+      "description": "no description",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T07:40:02Z"
+    },
+    {
+      "cve_id": "CVE-2015-5531",
+      "repo_info": "[j-jasson/CVE-2015-5531-POC](https://github.com/j-jasson/CVE-2015-5531-POC)",
+      "description": "no description",
+      "date": "2022-09-21",
+      "raw_date": "2022-09-21T09:57:58Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.913493",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-09-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

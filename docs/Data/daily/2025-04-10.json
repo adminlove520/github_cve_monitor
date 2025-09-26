@@ -1,0 +1,104 @@
+{
+  "date": "2025-04-10",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-4102025",
+      "repo_info": "[ImTheCopilotNow/CVE-2025-4102025](https://github.com/ImTheCopilotNow/CVE-2025-4102025)",
+      "description": "no description",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T23:16:19Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[PuddinCat/CVE-2025-3248-POC](https://github.com/PuddinCat/CVE-2025-3248-POC)",
+      "description": "POC of CVE-2025-3248, RCE of LangFlow",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T14:04:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[xuemian168/CVE-2025-3248](https://github.com/xuemian168/CVE-2025-3248)",
+      "description": "A vulnerability scanner for CVE-2025-3248 in Langflow applications. 用于扫描 Langflow 应用中 CVE-2025-3248 漏洞的工具。",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T11:45:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-31033",
+      "repo_info": "[Nxploited/CVE-2025-31033](https://github.com/Nxploited/CVE-2025-31033)",
+      "description": "WordPress Buddypress Humanity Plugin &lt;= 1.2 is vulnerable to Cross Site Request Forgery (CSRF)",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T10:47:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-29705",
+      "repo_info": "[yxzrw/CVE-2025-29705](https://github.com/yxzrw/CVE-2025-29705)",
+      "description": "CVE-2025-29705",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T15:56:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-24813",
+      "repo_info": "[Franconyu/Poc_for_CVE-2025-24813](https://github.com/Franconyu/Poc_for_CVE-2025-24813)",
+      "description": "no description",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T14:49:14Z"
+    },
+    {
+      "cve_id": "CVE-2025-22457",
+      "repo_info": "[securekomodo/CVE-2025-22457](https://github.com/securekomodo/CVE-2025-22457)",
+      "description": "CVE-2025-22457: Python Exploit POC Scanner to Detect Ivanti Connect Secure RCE",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T03:27:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-1974",
+      "repo_info": "[Rubby2001/CVE-2025-1974-go](https://github.com/Rubby2001/CVE-2025-1974-go)",
+      "description": "Exploit CVE-2025-1974 with a single file.",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T07:25:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-48887",
+      "repo_info": "[groshi215/CVE-2024-48887-Exploit](https://github.com/groshi215/CVE-2024-48887-Exploit)",
+      "description": "Unverified Password Change (CWE-620)",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T12:17:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[deadlybangle/CVE-2024-4577-PHP-RCE](https://github.com/deadlybangle/CVE-2024-4577-PHP-RCE)",
+      "description": "PHP RCE PoC for CVE-2024-4577 written in bash, go, python and a nuclei template cve-2024-4577, pentest, php, poc, rce-exploit, redteam",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T12:09:28Z"
+    },
+    {
+      "cve_id": "CVE-2023-6063",
+      "repo_info": "[incommatose/CVE-2023-6063](https://github.com/incommatose/CVE-2023-6063)",
+      "description": "no description",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T15:56:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-37932",
+      "repo_info": "[Tim-Hoekstra/CVE-2022-37932](https://github.com/Tim-Hoekstra/CVE-2022-37932)",
+      "description": "no description",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T03:27:07Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[Mattb709/CVE-2019-15107-Scanner](https://github.com/Mattb709/CVE-2019-15107-Scanner)",
+      "description": "Webmin-RCE-PoC-CVE-2019-15107 is a Python-based scanner that detects vulnerable Webmin (1.890 - 1.920) servers affected by CVE-2019-15107, an unauthenticated remote code execution (RCE) vulnerability in the /password_change.cgi endpoint.",
+      "date": "2025-04-10",
+      "raw_date": "2025-04-10T20:46:47Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.145415",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-04-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

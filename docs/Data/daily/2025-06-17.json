@@ -1,0 +1,139 @@
+{
+  "date": "2025-06-17",
+  "count": 18,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-6220",
+      "repo_info": "[d0n601/CVE-2025-6220](https://github.com/d0n601/CVE-2025-6220)",
+      "description": "Ultimate Addons for Contact Form 7 &lt;= 3.5.12 - Authenticated (Administrator+) Arbitrary File Upload via &#x27;save_options&#x27;",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T22:34:49Z"
+    },
+    {
+      "cve_id": "CVE-2025-6085",
+      "repo_info": "[d0n601/CVE-2025-6085](https://github.com/d0n601/CVE-2025-6085)",
+      "description": "Make Connector &lt;= 1.5.10 - Authenticated (Administrator+) Arbitrary File Upload",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T22:17:26Z"
+    },
+    {
+      "cve_id": "CVE-2025-5964",
+      "repo_info": "[byteReaper77/CVE-2025-5964-](https://github.com/byteReaper77/CVE-2025-5964-)",
+      "description": "C PoC language for emulating path traversal vulnerability (CVE-2025-5964) in M-Files25.6.14925.0",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T01:28:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[5kr1pt/Roundcube_CVE-2025-49113](https://github.com/5kr1pt/Roundcube_CVE-2025-49113)",
+      "description": "Explicação + Lab no THM",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T18:26:23Z"
+    },
+    {
+      "cve_id": "CVE-2025-49113",
+      "repo_info": "[B1ack4sh/Blackash-CVE-2025-49113](https://github.com/B1ack4sh/Blackash-CVE-2025-49113)",
+      "description": "CVE-2025-49113",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T13:01:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-48466",
+      "repo_info": "[shipcod3/CVE-2025-48466](https://github.com/shipcod3/CVE-2025-48466)",
+      "description": "Modbus Packet Injection on Advantech WISE 4060LAN / IoT Gateway for door control",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T14:06:57Z"
+    },
+    {
+      "cve_id": "CVE-2025-46171",
+      "repo_info": "[oiyl/CVE-2025-46171](https://github.com/oiyl/CVE-2025-46171)",
+      "description": "no description",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T15:29:38Z"
+    },
+    {
+      "cve_id": "CVE-2025-45620",
+      "repo_info": "[weedl/CVE-2025-45620](https://github.com/weedl/CVE-2025-45620)",
+      "description": "no description",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T13:58:43Z"
+    },
+    {
+      "cve_id": "CVE-2025-45619",
+      "repo_info": "[weedl/CVE-2025-45619](https://github.com/weedl/CVE-2025-45619)",
+      "description": "CVE proof of concept regarding the CVE-2025-45619 vulnerabillity.",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T13:40:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-43200",
+      "repo_info": "[allinsthon/CVE-2025-43200](https://github.com/allinsthon/CVE-2025-43200)",
+      "description": "no description",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T12:00:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-4123",
+      "repo_info": "[DesDoTvl/CVE-2025-4123grafana](https://github.com/DesDoTvl/CVE-2025-4123grafana)",
+      "description": "Escaner para encontrar vulnerabilidad CVE-2025-4123 grafana",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T11:35:48Z"
+    },
+    {
+      "cve_id": "CVE-2025-3248",
+      "repo_info": "[ynsmroztas/CVE-2025-3248-Langflow-RCE](https://github.com/ynsmroztas/CVE-2025-3248-Langflow-RCE)",
+      "description": "CVE-2025-3248 Langflow RCE Exploit",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T09:06:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-2135",
+      "repo_info": "[sangnguyenthien/CVE-2025-2135](https://github.com/sangnguyenthien/CVE-2025-2135)",
+      "description": "no description",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T09:41:51Z"
+    },
+    {
+      "cve_id": "CVE-2025-0133",
+      "repo_info": "[ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS](https://github.com/ynsmroztas/-CVE-2025-0133-GlobalProtect-XSS)",
+      "description": "CVE-2025-0133 GlobalProtect XSS",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T17:59:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-30333",
+      "repo_info": "[tuaandatt/CVE-2022-30333---UnRAR](https://github.com/tuaandatt/CVE-2022-30333---UnRAR)",
+      "description": "no description",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T01:29:57Z"
+    },
+    {
+      "cve_id": "CVE-2021-31956",
+      "repo_info": "[deletehead/Pool-Overflow-CVE-2021-31956](https://github.com/deletehead/Pool-Overflow-CVE-2021-31956)",
+      "description": "Kernel Pool Overflow Exploit targeting CVE-2021-31956",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T19:57:13Z"
+    },
+    {
+      "cve_id": "CVE-2019-15107",
+      "repo_info": "[EdouardosStav/CVE-2019-15107-RCE-WebMin](https://github.com/EdouardosStav/CVE-2019-15107-RCE-WebMin)",
+      "description": "no description",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T10:19:58Z"
+    },
+    {
+      "cve_id": "CVE-2017-0143",
+      "repo_info": "[Mafiosohack/offensive-security-lab-1](https://github.com/Mafiosohack/offensive-security-lab-1)",
+      "description": "A hands-on vulnerability assessment and exploitation of a Windows 7 VM using the EternalBlue (CVE-2017-0143) exploit. Includes scanning, exploitation with Metasploit, post-exploitation, and remediation steps in a controlled lab environment.",
+      "date": "2025-06-17",
+      "raw_date": "2025-06-17T10:14:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.158625",
+  "metadata": {
+    "total_cves": 18,
+    "date_range": "2025-06-17",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

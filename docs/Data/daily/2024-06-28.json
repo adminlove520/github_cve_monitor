@@ -1,0 +1,146 @@
+{
+  "date": "2024-06-28",
+  "count": 19,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-6387",
+      "repo_info": "[ReeFSpeK/CocoaPods-RCE](https://github.com/ReeFSpeK/CocoaPods-RCE)",
+      "description": "CocoaPods RCE Vulnerability CVE-2024-38366",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T13:11:28Z"
+    },
+    {
+      "cve_id": "CVE-2024-5737",
+      "repo_info": "[afine-com/CVE-2024-5737](https://github.com/afine-com/CVE-2024-5737)",
+      "description": "AdmirorFrames Joomla! Extension &lt; 5.0 - HTML Injection",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:27:35Z"
+    },
+    {
+      "cve_id": "CVE-2024-5736",
+      "repo_info": "[afine-com/CVE-2024-5736](https://github.com/afine-com/CVE-2024-5736)",
+      "description": "AdmirorFrames Joomla! Extension &lt; 5.0 - Server-Side Request Forgery",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:27:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-5735",
+      "repo_info": "[afine-com/CVE-2024-5735](https://github.com/afine-com/CVE-2024-5735)",
+      "description": "AdmirorFrames Joomla! Extension &lt; 5.0 - Full Path Disclosure",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:15:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[AlperenY-cs/CVE-2024-4577](https://github.com/AlperenY-cs/CVE-2024-4577)",
+      "description": "Create lab for CVE-2024-4577",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T14:11:15Z"
+    },
+    {
+      "cve_id": "CVE-2024-4577",
+      "repo_info": "[olebris/CVE-2024-4577](https://github.com/olebris/CVE-2024-4577)",
+      "description": "CVE-2024-4577",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:19:59Z"
+    },
+    {
+      "cve_id": "CVE-2024-4040",
+      "repo_info": "[olebris/CVE-2024-4040](https://github.com/olebris/CVE-2024-4040)",
+      "description": "CVE-2024-4040 PoC",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:32:51Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[dr3u1d/CVE-2024-34102-RCE](https://github.com/dr3u1d/CVE-2024-34102-RCE)",
+      "description": "CVE-2024-34102 unauthenticated RCE PoC for Magento/adobe commerce",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T00:02:55Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[Chocapikk/CVE-2024-34102](https://github.com/Chocapikk/CVE-2024-34102)",
+      "description": "CosmicSting (CVE-2024-34102)",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T23:33:21Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[d0rb/CVE-2024-34102](https://github.com/d0rb/CVE-2024-34102)",
+      "description": "A PoC demonstration ,  critical XML entity injection vulnerability in Magento",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T14:50:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-34102",
+      "repo_info": "[11whoami99/CVE-2024-34102](https://github.com/11whoami99/CVE-2024-34102)",
+      "description": "no description",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T12:45:40Z"
+    },
+    {
+      "cve_id": "CVE-2024-21650",
+      "repo_info": "[codeb0ss/CVE-2024-21650-PoC](https://github.com/codeb0ss/CVE-2024-21650-PoC)",
+      "description": "Mass Exploit - CVE-2024-21650 - XWiki &lt; Remote code execution (RCE)",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T16:00:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-21413",
+      "repo_info": "[olebris/CVE-2024-21413](https://github.com/olebris/CVE-2024-21413)",
+      "description": "CVE-2024-21413 PoC",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:27:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[olebris/Exploit_CVE_2023_7028-](https://github.com/olebris/Exploit_CVE_2023_7028-)",
+      "description": "Exploit_CVE_2023_7028",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T09:54:59Z"
+    },
+    {
+      "cve_id": "CVE-2023-34362",
+      "repo_info": "[glen-pearson/MoveIT-CVE-2023-34362-RCE](https://github.com/glen-pearson/MoveIT-CVE-2023-34362-RCE)",
+      "description": "Modified RCE with a remote shell and logging",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T17:13:15Z"
+    },
+    {
+      "cve_id": "CVE-2022-46395",
+      "repo_info": "[SmileTabLabo/CVE-2022-46395](https://github.com/SmileTabLabo/CVE-2022-46395)",
+      "description": "no description",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T16:37:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-20186",
+      "repo_info": "[SmileTabLabo/CVE-2022-20186](https://github.com/SmileTabLabo/CVE-2022-20186)",
+      "description": "no description",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T15:53:30Z"
+    },
+    {
+      "cve_id": "CVE-2020-35717",
+      "repo_info": "[Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-](https://github.com/Redfox-Secuirty/Hacking-Electron-Apps-CVE-2020-35717-)",
+      "description": "no description",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T10:00:00Z"
+    },
+    {
+      "cve_id": "CVE-2017-12617",
+      "repo_info": "[scirusvulgaris/CVE-2017-12617](https://github.com/scirusvulgaris/CVE-2017-12617)",
+      "description": "no description",
+      "date": "2024-06-28",
+      "raw_date": "2024-06-28T08:33:41Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.095445",
+  "metadata": {
+    "total_cves": 19,
+    "date_range": "2024-06-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

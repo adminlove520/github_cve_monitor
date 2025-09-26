@@ -1,0 +1,34 @@
+{
+  "date": "2020-10-19",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-25540",
+      "repo_info": "[Schira4396/CVE-2020-25540](https://github.com/Schira4396/CVE-2020-25540)",
+      "description": "ThinkAdmin CVE-2020-25540 poc",
+      "date": "2020-10-19",
+      "raw_date": "2020-10-19T09:56:20Z"
+    },
+    {
+      "cve_id": "CVE-2019-13272",
+      "repo_info": "[datntsec/CVE-2019-13272](https://github.com/datntsec/CVE-2019-13272)",
+      "description": "no description",
+      "date": "2020-10-19",
+      "raw_date": "2020-10-19T02:33:29Z"
+    },
+    {
+      "cve_id": "CVE-2017-5487",
+      "repo_info": "[sonatype-workshops/struts2-rce](https://github.com/sonatype-workshops/struts2-rce)",
+      "description": "Exploitable target to CVE-2017-5638",
+      "date": "2020-10-19",
+      "raw_date": "2020-10-19T13:21:30Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.826775",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-10-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

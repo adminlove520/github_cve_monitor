@@ -1,0 +1,20 @@
+{
+  "date": "2020-01-12",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19781",
+      "repo_info": "[jamesjguthrie/Shitrix-CVE-2019-19781](https://github.com/jamesjguthrie/Shitrix-CVE-2019-19781)",
+      "description": "My working exploit script for Shitrix (CVE-2019-19781)",
+      "date": "2020-01-12",
+      "raw_date": "2020-01-12T18:53:29Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.798564",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-01-12",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

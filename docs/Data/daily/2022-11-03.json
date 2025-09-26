@@ -1,0 +1,83 @@
+{
+  "date": "2022-11-03",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-41446",
+      "repo_info": "[RashidKhanPathan/CVE-2022-41446](https://github.com/RashidKhanPathan/CVE-2022-41446)",
+      "description": "Privilege Escalation in Teachers Record Management System using CodeIgnitor",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T09:10:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-41445",
+      "repo_info": "[RashidKhanPathan/CVE-2022-41445](https://github.com/RashidKhanPathan/CVE-2022-41445)",
+      "description": "Cross Site Scripting in Teacher&#x27;s Record Management System using CodeIgnitor",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T09:06:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-36946",
+      "repo_info": "[Satheesh575555/linux-4.19.72_CVE-2022-36946](https://github.com/Satheesh575555/linux-4.19.72_CVE-2022-36946)",
+      "description": "no description",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T09:49:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[Jhonsonwannaa/CVE-2022-36804](https://github.com/Jhonsonwannaa/CVE-2022-36804)",
+      "description": "no description",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T23:31:48Z"
+    },
+    {
+      "cve_id": "CVE-2022-3602",
+      "repo_info": "[corelight/CVE-2022-3602](https://github.com/corelight/CVE-2022-3602)",
+      "description": "Detects attempts at exploitation of CVE-2022-3602, a remote code execution vulnerability in OpenSSL v 3.0.0 through v.3.0.6",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T03:19:52Z"
+    },
+    {
+      "cve_id": "CVE-2022-33679",
+      "repo_info": "[Amulab/CVE-2022-33679](https://github.com/Amulab/CVE-2022-33679)",
+      "description": "poc of CVE-2022-33679",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T11:19:29Z"
+    },
+    {
+      "cve_id": "CVE-2022-33679",
+      "repo_info": "[Blyth0He/CVE-2022-33679](https://github.com/Blyth0He/CVE-2022-33679)",
+      "description": "poc of CVE-2022-33679",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T09:52:31Z"
+    },
+    {
+      "cve_id": "CVE-2022-31692",
+      "repo_info": "[SpindleSec/cve-2022-31692-demo](https://github.com/SpindleSec/cve-2022-31692-demo)",
+      "description": "A project demonstrating an app that is vulnerable to Spring Security authorization bypass CVE-2022-31692",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T08:35:20Z"
+    },
+    {
+      "cve_id": "CVE-2021-3156",
+      "repo_info": "[PhuketIsland/CVE-2021-3156-centos7](https://github.com/PhuketIsland/CVE-2021-3156-centos7)",
+      "description": "利用sudo提权，只针对cnetos7",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T13:10:23Z"
+    },
+    {
+      "cve_id": "CVE-2021-27905",
+      "repo_info": "[pdelteil/CVE-2021-27905.POC](https://github.com/pdelteil/CVE-2021-27905.POC)",
+      "description": "POC for LFI related to CVE-2021-27905",
+      "date": "2022-11-03",
+      "raw_date": "2022-11-03T00:41:16Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.919966",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2022-11-03",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

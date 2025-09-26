@@ -1,0 +1,27 @@
+{
+  "date": "2022-04-08",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-5195",
+      "repo_info": "[ArkAngeL43/CVE-2016-5195](https://github.com/ArkAngeL43/CVE-2016-5195)",
+      "description": "Ported golang version of dirtycow.c",
+      "date": "2022-04-08",
+      "raw_date": "2022-04-08T18:18:36Z"
+    },
+    {
+      "cve_id": "CVE-2008-4250",
+      "repo_info": "[cveiga2008/cveiga2008](https://github.com/cveiga2008/cveiga2008)",
+      "description": "Config files for my GitHub profile.",
+      "date": "2022-04-08",
+      "raw_date": "2022-04-08T22:15:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.886984",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2022-04-08",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

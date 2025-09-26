@@ -1,0 +1,97 @@
+{
+  "date": "2024-01-26",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[vmtyan/poc-cve-2024-23897](https://github.com/vmtyan/poc-cve-2024-23897)",
+      "description": "no description",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T21:39:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[xaitax/CVE-2024-23897](https://github.com/xaitax/CVE-2024-23897)",
+      "description": "CVE-2024-23897 - Jenkins &lt;= 2.441 &amp; &lt;= LTS 2.426.2 PoC and scanner.",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T19:00:03Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[h4x0r-dz/CVE-2024-23897](https://github.com/h4x0r-dz/CVE-2024-23897)",
+      "description": "CVE-2024-23897",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T09:44:32Z"
+    },
+    {
+      "cve_id": "CVE-2024-23897",
+      "repo_info": "[binganao/CVE-2024-23897](https://github.com/binganao/CVE-2024-23897)",
+      "description": "no description",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T08:02:00Z"
+    },
+    {
+      "cve_id": "CVE-2024-23747",
+      "repo_info": "[louiselalanne/CVE-2024-23747](https://github.com/louiselalanne/CVE-2024-23747)",
+      "description": "Moderna Sistemas ModernaNet Hospital Management System 2024 is susceptible to an Insecure Direct Object Reference (IDOR) vulnerability",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T00:43:29Z"
+    },
+    {
+      "cve_id": "CVE-2024-23746",
+      "repo_info": "[louiselalanne/CVE-2024-23746](https://github.com/louiselalanne/CVE-2024-23746)",
+      "description": "Miro Desktop 0.8.18 on macOS allows Electron code injection.",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T00:39:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-7028",
+      "repo_info": "[mochammadrafi/CVE-2023-7028](https://github.com/mochammadrafi/CVE-2023-7028)",
+      "description": "Python Code for Exploit Automation CVE-2023-7028",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T06:29:34Z"
+    },
+    {
+      "cve_id": "CVE-2023-47400",
+      "repo_info": "[LucasVanHaaren/CVE-2023-47400](https://github.com/LucasVanHaaren/CVE-2023-47400)",
+      "description": "Proof of Concept for the CVE-2023-47400",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T09:35:47Z"
+    },
+    {
+      "cve_id": "CVE-2023-47400",
+      "repo_info": "[Lotus6/ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell)",
+      "description": "Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T13:11:21Z"
+    },
+    {
+      "cve_id": "CVE-2023-45779",
+      "repo_info": "[metaredteam/rtx-cve-2023-45779](https://github.com/metaredteam/rtx-cve-2023-45779)",
+      "description": "Proof-of-concept code for the Android APEX key reuse vulnerability described in https://rtx.meta.security/exploitation/2024/01/30/Android-vendors-APEX-test-keys.html",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T21:17:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-11510",
+      "repo_info": "[0xab01/-CVE-2019-11510-Exploit](https://github.com/0xab01/-CVE-2019-11510-Exploit)",
+      "description": "no description",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T04:16:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-5158",
+      "repo_info": "[puzzle-tools/-CVE-2018-5158.pdf](https://github.com/puzzle-tools/-CVE-2018-5158.pdf)",
+      "description": "a simple PDF file for CVE-2018-5158",
+      "date": "2024-01-26",
+      "raw_date": "2024-01-26T09:19:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.068190",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2024-01-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

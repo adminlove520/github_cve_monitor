@@ -1,0 +1,76 @@
+{
+  "date": "2023-11-11",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-4863",
+      "repo_info": "[huiwen-yayaya/CVE-2023-4863](https://github.com/huiwen-yayaya/CVE-2023-4863)",
+      "description": "no description",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T06:51:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-46022",
+      "repo_info": "[ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46022-Code-Projects-Blood-Bank-1.0-OOB-SQL-Injection-Vulnerability)",
+      "description": "no description",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T10:54:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-46021",
+      "repo_info": "[ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46021-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)",
+      "description": "no description",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T09:14:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-46020",
+      "repo_info": "[ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46020-Code-Projects-Blood-Bank-1.0-Stored-Cross-Site-Scripting-Vulnerability)",
+      "description": "no description",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T08:37:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-46019",
+      "repo_info": "[ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability](https://github.com/ersinerenler/CVE-2023-46019-Code-Projects-Blood-Bank-1.0-Reflected-Cross-Site-Scripting-Vulnerability)",
+      "description": "no description",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T08:23:30Z"
+    },
+    {
+      "cve_id": "CVE-2023-46018",
+      "repo_info": "[ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability](https://github.com/ersinerenler/CVE-2023-46018-Code-Projects-Blood-Bank-1.0-SQL-Injection-Vulnerability)",
+      "description": "no description",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T07:37:57Z"
+    },
+    {
+      "cve_id": "CVE-2023-29406",
+      "repo_info": "[LuizGustavoP/EP3_Redes](https://github.com/LuizGustavoP/EP3_Redes)",
+      "description": "Implementações de servidores HTML em GO para análise da vulnerabilidade CVE-2023-29406.",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T16:28:22Z"
+    },
+    {
+      "cve_id": "CVE-2023-29406",
+      "repo_info": "[k4but0/Ubuntu-LPE](https://github.com/k4but0/Ubuntu-LPE)",
+      "description": "One-Liner CVE-2023-32629/CVE-2023-2640 Ubuntu Privilege Escalation",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T14:33:38Z"
+    },
+    {
+      "cve_id": "CVE-2019-2725",
+      "repo_info": "[CalegariMindSec/Exploit-CVE-2019-2725](https://github.com/CalegariMindSec/Exploit-CVE-2019-2725)",
+      "description": "A simple exploit for CVE-2019-2725.",
+      "date": "2023-11-11",
+      "raw_date": "2023-11-11T13:27:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.056316",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2023-11-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

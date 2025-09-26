@@ -1,0 +1,83 @@
+{
+  "date": "2025-02-11",
+  "count": 10,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-24200",
+      "repo_info": "[McTavishSue/CVE-2025-24200](https://github.com/McTavishSue/CVE-2025-24200)",
+      "description": "CVE-2025-24200 - Incorrect Authorization",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T15:05:25Z"
+    },
+    {
+      "cve_id": "CVE-2024-55347",
+      "repo_info": "[sahil3276/CVE-2024-55347](https://github.com/sahil3276/CVE-2024-55347)",
+      "description": "Public Disclosure of CVE-2024-55347",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T06:11:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-55347",
+      "repo_info": "[AlissonFaoli/Apache-OFBiz-Exploit](https://github.com/AlissonFaoli/Apache-OFBiz-Exploit)",
+      "description": "Exploit for Apache OFBiz - CVE-2024-38856",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T03:39:47Z"
+    },
+    {
+      "cve_id": "CVE-2024-53704",
+      "repo_info": "[istagmbh/CVE-2024-53704](https://github.com/istagmbh/CVE-2024-53704)",
+      "description": "demonstriert, wie mittels missbräuchlicher Nutzung eines Swap-Cookies eine VPN-Session übernommen werden kann. Wichtig: Dieses Projekt dient ausschliesslich zu Bildungs- und Forschungszwecken – bitte nur in Umgebungen verwenden, in denen Du explizit authorisiert bist.",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T20:43:23Z"
+    },
+    {
+      "cve_id": "CVE-2024-44378",
+      "repo_info": "[aezdmr/CVE-2024-44378](https://github.com/aezdmr/CVE-2024-44378)",
+      "description": "no description",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T15:03:17Z"
+    },
+    {
+      "cve_id": "CVE-2024-42009",
+      "repo_info": "[0xbassiouny1337/CVE-2024-42009](https://github.com/0xbassiouny1337/CVE-2024-42009)",
+      "description": "This script exploits a stored XSS vulnerability (CVE-2024-42009) in Roundcube Webmail version 1.6.7. It injects a malicious payload into the webmail system, which, when triggered, exfiltrates email content from the victim’s inbox.",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T23:02:42Z"
+    },
+    {
+      "cve_id": "CVE-2024-10930",
+      "repo_info": "[sahil3276/CVE-2024-10930](https://github.com/sahil3276/CVE-2024-10930)",
+      "description": "Public Disclosure of CVE-2024-10930",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T07:22:13Z"
+    },
+    {
+      "cve_id": "CVE-2024-10914",
+      "repo_info": "[yenyangmjaze/cve-2024-10914](https://github.com/yenyangmjaze/cve-2024-10914)",
+      "description": "no description",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T20:03:16Z"
+    },
+    {
+      "cve_id": "CVE-2020-29607",
+      "repo_info": "[Alienfader/CVE-2020-29607](https://github.com/Alienfader/CVE-2020-29607)",
+      "description": "no description",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T21:02:55Z"
+    },
+    {
+      "cve_id": "CVE-2019-12102",
+      "repo_info": "[Egi08/CVE-2019-12102-Scanner](https://github.com/Egi08/CVE-2019-12102-Scanner)",
+      "description": "no description",
+      "date": "2025-02-11",
+      "raw_date": "2025-02-11T10:31:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.134421",
+  "metadata": {
+    "total_cves": 10,
+    "date_range": "2025-02-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

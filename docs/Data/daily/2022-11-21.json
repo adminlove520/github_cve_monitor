@@ -1,0 +1,76 @@
+{
+  "date": "2022-11-21",
+  "count": 9,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-41352",
+      "repo_info": "[aryrz/cve-2022-41352-zimbra-rce](https://github.com/aryrz/cve-2022-41352-zimbra-rce)",
+      "description": "no description",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T07:10:12Z"
+    },
+    {
+      "cve_id": "CVE-2022-29464",
+      "repo_info": "[Jhonsonwannaa/CVE-2022-29464-](https://github.com/Jhonsonwannaa/CVE-2022-29464-)",
+      "description": "no description",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T13:57:53Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[Jhonsonwannaa/CVE-2022-22954](https://github.com/Jhonsonwannaa/CVE-2022-22954)",
+      "description": "no description",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T21:22:39Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[pwnb0y/Text4shell-exploit](https://github.com/pwnb0y/Text4shell-exploit)",
+      "description": "Python Script to exploit RCE of CVE-2022-42889",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T18:01:28Z"
+    },
+    {
+      "cve_id": "CVE-2022-20409",
+      "repo_info": "[Markakd/bad_io_uring](https://github.com/Markakd/bad_io_uring)",
+      "description": "Android kernel exploitation for CVE-2022-20409",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T22:42:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[qwert419/linux-](https://github.com/qwert419/linux-)",
+      "description": "修改版CVE-2022-0847",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T01:21:35Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[siegfrkn/CSCI5403_CVE20220847_Detection](https://github.com/siegfrkn/CSCI5403_CVE20220847_Detection)",
+      "description": "no description",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T00:40:18Z"
+    },
+    {
+      "cve_id": "CVE-2022-0847",
+      "repo_info": "[siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection](https://github.com/siegfrkn/CSCI5403_FinalProject_CVE20220847_Detection)",
+      "description": "no description",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T00:39:16Z"
+    },
+    {
+      "cve_id": "CVE-2017-9841",
+      "repo_info": "[Jhonsonwannaa/CVE-2017-9841-](https://github.com/Jhonsonwannaa/CVE-2017-9841-)",
+      "description": "no description",
+      "date": "2022-11-21",
+      "raw_date": "2022-11-21T16:36:48Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.922497",
+  "metadata": {
+    "total_cves": 9,
+    "date_range": "2022-11-21",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

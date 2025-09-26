@@ -1,0 +1,160 @@
+{
+  "date": "2018-11-19",
+  "count": 21,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-8039",
+      "repo_info": "[tafamace/CVE-2018-8039](https://github.com/tafamace/CVE-2018-8039)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T12:08:07Z"
+    },
+    {
+      "cve_id": "CVE-2018-8038",
+      "repo_info": "[tafamace/CVE-2018-8038](https://github.com/tafamace/CVE-2018-8038)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T12:14:45Z"
+    },
+    {
+      "cve_id": "CVE-2018-7489",
+      "repo_info": "[tafamace/CVE-2018-7489](https://github.com/tafamace/CVE-2018-7489)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T13:13:27Z"
+    },
+    {
+      "cve_id": "CVE-2018-13864",
+      "repo_info": "[tafamace/CVE-2018-13864](https://github.com/tafamace/CVE-2018-13864)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T09:40:47Z"
+    },
+    {
+      "cve_id": "CVE-2018-1324",
+      "repo_info": "[tafamace/CVE-2018-1324](https://github.com/tafamace/CVE-2018-1324)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T12:46:37Z"
+    },
+    {
+      "cve_id": "CVE-2018-1313",
+      "repo_info": "[tafamace/CVE-2018-1313](https://github.com/tafamace/CVE-2018-1313)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T12:38:21Z"
+    },
+    {
+      "cve_id": "CVE-2018-1270",
+      "repo_info": "[tafamace/CVE-2018-1270](https://github.com/tafamace/CVE-2018-1270)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T11:47:40Z"
+    },
+    {
+      "cve_id": "CVE-2018-1259",
+      "repo_info": "[tafamace/CVE-2018-1259](https://github.com/tafamace/CVE-2018-1259)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T09:25:32Z"
+    },
+    {
+      "cve_id": "CVE-2018-12540",
+      "repo_info": "[tafamace/CVE-2018-12540](https://github.com/tafamace/CVE-2018-12540)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T11:41:16Z"
+    },
+    {
+      "cve_id": "CVE-2018-12537",
+      "repo_info": "[tafamace/CVE-2018-12537](https://github.com/tafamace/CVE-2018-12537)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T11:18:35Z"
+    },
+    {
+      "cve_id": "CVE-2018-12418",
+      "repo_info": "[tafamace/CVE-2018-12418](https://github.com/tafamace/CVE-2018-12418)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T11:12:00Z"
+    },
+    {
+      "cve_id": "CVE-2018-10936",
+      "repo_info": "[tafamace/CVE-2018-10936](https://github.com/tafamace/CVE-2018-10936)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T13:09:47Z"
+    },
+    {
+      "cve_id": "CVE-2017-2666",
+      "repo_info": "[tafamace/CVE-2017-2666](https://github.com/tafamace/CVE-2017-2666)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T10:33:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-17485",
+      "repo_info": "[tafamace/CVE-2017-17485](https://github.com/tafamace/CVE-2017-17485)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T09:29:28Z"
+    },
+    {
+      "cve_id": "CVE-2017-12624",
+      "repo_info": "[tafamace/CVE-2017-12624](https://github.com/tafamace/CVE-2017-12624)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T10:07:55Z"
+    },
+    {
+      "cve_id": "CVE-2016-6798",
+      "repo_info": "[tafamace/CVE-2016-6798](https://github.com/tafamace/CVE-2016-6798)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T08:59:42Z"
+    },
+    {
+      "cve_id": "CVE-2016-4438",
+      "repo_info": "[tafamace/CVE-2016-4438](https://github.com/tafamace/CVE-2016-4438)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T08:49:25Z"
+    },
+    {
+      "cve_id": "CVE-2016-0793",
+      "repo_info": "[tafamace/CVE-2016-0793](https://github.com/tafamace/CVE-2016-0793)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T08:40:58Z"
+    },
+    {
+      "cve_id": "CVE-2014-8110",
+      "repo_info": "[tafamace/CVE-2014-8110](https://github.com/tafamace/CVE-2014-8110)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T07:38:20Z"
+    },
+    {
+      "cve_id": "CVE-2013-4002",
+      "repo_info": "[tafamace/CVE-2013-4002](https://github.com/tafamace/CVE-2013-4002)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T07:24:42Z"
+    },
+    {
+      "cve_id": "CVE-2012-5575",
+      "repo_info": "[tafamace/CVE-2012-5575](https://github.com/tafamace/CVE-2012-5575)",
+      "description": "no description",
+      "date": "2018-11-19",
+      "raw_date": "2018-11-19T06:08:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.758628",
+  "metadata": {
+    "total_cves": 21,
+    "date_range": "2018-11-19",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

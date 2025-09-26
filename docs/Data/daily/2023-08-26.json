@@ -1,0 +1,62 @@
+{
+  "date": "2023-08-26",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-41080",
+      "repo_info": "[shiomiyan/CVE-2023-41080](https://github.com/shiomiyan/CVE-2023-41080)",
+      "description": "no description",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T15:11:31Z"
+    },
+    {
+      "cve_id": "CVE-2023-40362",
+      "repo_info": "[ally-petitt/CVE-2023-40362](https://github.com/ally-petitt/CVE-2023-40362)",
+      "description": "CVE-2023-40362 Vulnerabilitiy details and proof of concept",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T01:35:43Z"
+    },
+    {
+      "cve_id": "CVE-2023-38388",
+      "repo_info": "[codeb0ss/CVE-2023-38388](https://github.com/codeb0ss/CVE-2023-38388)",
+      "description": "Mass Exploit - CVE-2023-38388 &lt; Unauthenticated &lt; Arbitrary File Upload",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T05:51:06Z"
+    },
+    {
+      "cve_id": "CVE-2023-31419",
+      "repo_info": "[soundarkutty/Stored-xss](https://github.com/soundarkutty/Stored-xss)",
+      "description": "Got My CVE Published CVE-2023-41575",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T09:26:35Z"
+    },
+    {
+      "cve_id": "CVE-2023-2648",
+      "repo_info": "[bingtangbanli/cve-2023-2523-and-cve-2023-2648](https://github.com/bingtangbanli/cve-2023-2523-and-cve-2023-2648)",
+      "description": "no description",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T11:23:58Z"
+    },
+    {
+      "cve_id": "CVE-2023-21939",
+      "repo_info": "[Y4Sec-Team/CVE-2023-21939](https://github.com/Y4Sec-Team/CVE-2023-21939)",
+      "description": "JDK CVE-2023-21939",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T06:45:26Z"
+    },
+    {
+      "cve_id": "CVE-2018-16858",
+      "repo_info": "[Henryisnotavailable/CVE-2018-16858-Python](https://github.com/Henryisnotavailable/CVE-2018-16858-Python)",
+      "description": "Python implementation of CVE-2018-16858",
+      "date": "2023-08-26",
+      "raw_date": "2023-08-26T14:50:55Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.043170",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-08-26",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

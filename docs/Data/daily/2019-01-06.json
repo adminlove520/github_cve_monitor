@@ -1,0 +1,118 @@
+{
+  "date": "2019-01-06",
+  "count": 15,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-7600",
+      "repo_info": "[cved-sources/cve-2018-7600](https://github.com/cved-sources/cve-2018-7600)",
+      "description": "cve-2018-7600",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T23:41:33Z"
+    },
+    {
+      "cve_id": "CVE-2018-2628",
+      "repo_info": "[fakedob/tvsz](https://github.com/fakedob/tvsz)",
+      "description": "CVE-2018-6389 PoC node js multisite with proxy",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T22:57:48Z"
+    },
+    {
+      "cve_id": "CVE-2018-11788",
+      "repo_info": "[brianwrf/CVE-2018-11788](https://github.com/brianwrf/CVE-2018-11788)",
+      "description": "Apache Karaf XXE Vulnerability (CVE-2018-11788)",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T11:01:39Z"
+    },
+    {
+      "cve_id": "CVE-2018-11776",
+      "repo_info": "[cved-sources/cve-2018-11776](https://github.com/cved-sources/cve-2018-11776)",
+      "description": "cve-2018-11776",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T22:47:25Z"
+    },
+    {
+      "cve_id": "CVE-2017-7494",
+      "repo_info": "[cved-sources/cve-2017-7494](https://github.com/cved-sources/cve-2017-7494)",
+      "description": "cve-2017-7494",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T23:58:26Z"
+    },
+    {
+      "cve_id": "CVE-2016-7434",
+      "repo_info": "[cved-sources/cve-2016-7434](https://github.com/cved-sources/cve-2016-7434)",
+      "description": "cve-2016-7434",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T22:15:24Z"
+    },
+    {
+      "cve_id": "CVE-2016-6515",
+      "repo_info": "[cved-sources/cve-2016-6515](https://github.com/cved-sources/cve-2016-6515)",
+      "description": "cve-2016-6515",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T22:07:47Z"
+    },
+    {
+      "cve_id": "CVE-2015-8103",
+      "repo_info": "[cved-sources/cve-2015-8103](https://github.com/cved-sources/cve-2015-8103)",
+      "description": "cve-2015-8103",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T22:01:09Z"
+    },
+    {
+      "cve_id": "CVE-2015-5602",
+      "repo_info": "[cved-sources/cve-2015-5602](https://github.com/cved-sources/cve-2015-5602)",
+      "description": "cve-2015-5602",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T23:50:01Z"
+    },
+    {
+      "cve_id": "CVE-2015-3306",
+      "repo_info": "[cved-sources/cve-2015-3306](https://github.com/cved-sources/cve-2015-3306)",
+      "description": "cve-2015-3306",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T21:25:23Z"
+    },
+    {
+      "cve_id": "CVE-2015-1427",
+      "repo_info": "[cved-sources/cve-2015-1427](https://github.com/cved-sources/cve-2015-1427)",
+      "description": "cve-2015-1427",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T21:18:13Z"
+    },
+    {
+      "cve_id": "CVE-2014-6271",
+      "repo_info": "[cved-sources/cve-2014-6271](https://github.com/cved-sources/cve-2014-6271)",
+      "description": "cve-2014-6271",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T21:08:32Z"
+    },
+    {
+      "cve_id": "CVE-2014-0160",
+      "repo_info": "[cved-sources/cve-2014-0160](https://github.com/cved-sources/cve-2014-0160)",
+      "description": "cve-2014-0160",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T20:57:53Z"
+    },
+    {
+      "cve_id": "CVE-2010-0426",
+      "repo_info": "[cved-sources/cve-2010-0426](https://github.com/cved-sources/cve-2010-0426)",
+      "description": "cve-2010-0426",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T17:38:19Z"
+    },
+    {
+      "cve_id": "CVE-2009-1324",
+      "repo_info": "[war4uthor/CVE-2009-1324](https://github.com/war4uthor/CVE-2009-1324)",
+      "description": "CVE-2009-1324 - ASX to MP3 Converter Local Buffer Overflow. Tested on Windows XP Professional SP3",
+      "date": "2019-01-06",
+      "raw_date": "2019-01-06T12:06:15Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.763609",
+  "metadata": {
+    "total_cves": 15,
+    "date_range": "2019-01-06",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

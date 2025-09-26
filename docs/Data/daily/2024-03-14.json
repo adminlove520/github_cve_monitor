@@ -1,0 +1,62 @@
+{
+  "date": "2024-03-14",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-28088",
+      "repo_info": "[levpachmanov/cve-2024-28088-poc](https://github.com/levpachmanov/cve-2024-28088-poc)",
+      "description": "no description",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T07:02:11Z"
+    },
+    {
+      "cve_id": "CVE-2024-25228",
+      "repo_info": "[rkraper339/CVE-2024-25228-POC](https://github.com/rkraper339/CVE-2024-25228-POC)",
+      "description": "CVE-2024-25228 POC RCE Unpatched Command Injection in Vinchin Backup &amp; Recovery Versions",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T14:51:41Z"
+    },
+    {
+      "cve_id": "CVE-2024-2432",
+      "repo_info": "[Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP](https://github.com/Hagrid29/CVE-2024-2432-PaloAlto-GlobalProtect-EoP)",
+      "description": "no description",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T17:48:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-12883",
+      "repo_info": "[mhtsec/cve-2024-12883](https://github.com/mhtsec/cve-2024-12883)",
+      "description": "no description",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T21:40:40Z"
+    },
+    {
+      "cve_id": "CVE-2023-33246",
+      "repo_info": "[hanch7274/CVE-2023-33246](https://github.com/hanch7274/CVE-2023-33246)",
+      "description": "no description",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T04:29:15Z"
+    },
+    {
+      "cve_id": "CVE-2023-20048",
+      "repo_info": "[0zer0d4y/FuegoTest](https://github.com/0zer0d4y/FuegoTest)",
+      "description": "A CLI tool for detecting CVE-2023-20048 vulnerability in Cisco Firepower Management Center.",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T01:32:41Z"
+    },
+    {
+      "cve_id": "CVE-2020-7961",
+      "repo_info": "[manrop2702/CVE-2020-7961](https://github.com/manrop2702/CVE-2020-7961)",
+      "description": "no description",
+      "date": "2024-03-14",
+      "raw_date": "2024-03-14T07:29:50Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.075586",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-03-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

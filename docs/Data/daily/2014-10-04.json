@@ -1,0 +1,27 @@
+{
+  "date": "2014-10-04",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2014-4377",
+      "repo_info": "[davidmurray/CVE-2014-4377](https://github.com/davidmurray/CVE-2014-4377)",
+      "description": "CydiaSubstrate-based fix for CVE-2014-4377.",
+      "date": "2014-10-04",
+      "raw_date": "2014-10-04T00:16:04Z"
+    },
+    {
+      "cve_id": "CVE-2005-1125",
+      "repo_info": "[tagatac/libsafe-CVE-2005-1125](https://github.com/tagatac/libsafe-CVE-2005-1125)",
+      "description": "Libsafe - Safety Check Bypass Vulnerability (Proof of Concept Exploit & Time Randomization to Thwart It)",
+      "date": "2014-10-04",
+      "raw_date": "2014-10-04T21:27:57Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.623828",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2014-10-04",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "date": "2016-12-25",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-2098",
+      "repo_info": "[bazad/physmem](https://github.com/bazad/physmem)",
+      "description": "Local privilege escalation through macOS 10.12.1 via CVE-2016-1825 or CVE-2016-7617.",
+      "date": "2016-12-25",
+      "raw_date": "2016-12-25T05:07:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.694720",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2016-12-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

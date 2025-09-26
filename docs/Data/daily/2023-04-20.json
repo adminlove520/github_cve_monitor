@@ -1,0 +1,62 @@
+{
+  "date": "2023-04-20",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-21823",
+      "repo_info": "[Elizarfish/CVE-2023-21823](https://github.com/Elizarfish/CVE-2023-21823)",
+      "description": "CVE-2023-21823 PoC",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T11:26:48Z"
+    },
+    {
+      "cve_id": "CVE-2023-21768",
+      "repo_info": "[zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit](https://github.com/zoemurmure/CVE-2023-21768-AFD-for-WinSock-EoP-exploit)",
+      "description": "no description",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T08:26:42Z"
+    },
+    {
+      "cve_id": "CVE-2023-21554",
+      "repo_info": "[g3tS3rvic3s/CVE-2023-21554-RCE-POC](https://github.com/g3tS3rvic3s/CVE-2023-21554-RCE-POC)",
+      "description": "metasploit module for CVE-2023-21554 remote code execution in msmq service which dont require any authentication and user interaction",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T17:58:25Z"
+    },
+    {
+      "cve_id": "CVE-2023-21554",
+      "repo_info": "[g1x-r/CVE-2023-21554-PoC](https://github.com/g1x-r/CVE-2023-21554-PoC)",
+      "description": "CVE-2023-21554 unauthenticated RCE in Microsoft Message Queuing (MSMQ) aka QueueJumper",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T13:38:46Z"
+    },
+    {
+      "cve_id": "CVE-2022-0435",
+      "repo_info": "[wlswotmd/CVE-2022-0435](https://github.com/wlswotmd/CVE-2022-0435)",
+      "description": "no description",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T17:29:02Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[MatanelGordon/docker-cve-2021-41773](https://github.com/MatanelGordon/docker-cve-2021-41773)",
+      "description": "A little demonstration of cve-2021-41773 on httpd docker containers",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T22:37:06Z"
+    },
+    {
+      "cve_id": "CVE-2020-17453",
+      "repo_info": "[karthi-the-hacker/CVE-2020-17453](https://github.com/karthi-the-hacker/CVE-2020-17453)",
+      "description": "CVE-2020-17453 is a powerful scanner for bug bounty hunters and penetration testers to discover vulnerabilities in their web applications.",
+      "date": "2023-04-20",
+      "raw_date": "2023-04-20T06:00:13Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.023971",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2023-04-20",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

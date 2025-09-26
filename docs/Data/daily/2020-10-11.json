@@ -1,0 +1,20 @@
+{
+  "date": "2020-10-11",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-0208",
+      "repo_info": "[dima5455/Cve-2018-0208](https://github.com/dima5455/Cve-2018-0208)",
+      "description": "Cve 2018-0208",
+      "date": "2020-10-11",
+      "raw_date": "2020-10-11T10:38:41Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.825933",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2020-10-11",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

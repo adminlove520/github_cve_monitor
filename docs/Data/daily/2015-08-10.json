@@ -1,0 +1,20 @@
+{
+  "date": "2015-08-10",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-4495",
+      "repo_info": "[vincd/CVE-2015-4495](https://github.com/vincd/CVE-2015-4495)",
+      "description": "Exploit for CVE-2015-4495 / mfsa2015-78",
+      "date": "2015-08-10",
+      "raw_date": "2015-08-10T22:46:46Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.650827",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2015-08-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

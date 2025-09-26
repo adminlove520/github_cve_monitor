@@ -1,0 +1,20 @@
+{
+  "date": "2018-10-10",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-12596",
+      "repo_info": "[iioch/ban-exploitable-bitcoin-nodes](https://github.com/iioch/ban-exploitable-bitcoin-nodes)",
+      "description": "Ban all denial-of-service vulnerability exploitable nodes from your node CVE-2018-17144",
+      "date": "2018-10-10",
+      "raw_date": "2018-10-10T19:44:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.754415",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2018-10-10",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

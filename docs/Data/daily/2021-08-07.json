@@ -1,0 +1,20 @@
+{
+  "date": "2021-08-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-18634",
+      "repo_info": "[fahmifj/Docker-breakout-runc](https://github.com/fahmifj/Docker-breakout-runc)",
+      "description": "Modified version of CVE-2019-5736-PoC by Frichetten",
+      "date": "2021-08-07",
+      "raw_date": "2021-08-07T20:51:07Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.859514",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-08-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

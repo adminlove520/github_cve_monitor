@@ -1,0 +1,27 @@
+{
+  "date": "2016-10-28",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2016-8462",
+      "repo_info": "[CunningLogic/PixelDump_CVE-2016-8462](https://github.com/CunningLogic/PixelDump_CVE-2016-8462)",
+      "description": "Pixel bootlaoder exploit for reading flash storage",
+      "date": "2016-10-28",
+      "raw_date": "2016-10-28T16:26:18Z"
+    },
+    {
+      "cve_id": "CVE-2008-7220",
+      "repo_info": "[followboy1999/CVE-2008-7220](https://github.com/followboy1999/CVE-2008-7220)",
+      "description": "no description",
+      "date": "2016-10-28",
+      "raw_date": "2016-10-28T08:30:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.689707",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2016-10-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

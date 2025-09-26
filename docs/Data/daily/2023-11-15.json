@@ -1,0 +1,97 @@
+{
+  "date": "2023-11-15",
+  "count": 12,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-6063",
+      "repo_info": "[motikan2010/CVE-2023-6063-PoC](https://github.com/motikan2010/CVE-2023-6063-PoC)",
+      "description": "CVE-2023-6063 (WP Fastest Cache &lt; 1.2.2 - UnAuth SQL Injection)",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T14:53:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-54436",
+      "repo_info": "[NHPT/CVE-2023-54436](https://github.com/NHPT/CVE-2023-54436)",
+      "description": "CVE-2023-54436",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T13:54:56Z"
+    },
+    {
+      "cve_id": "CVE-2023-54436",
+      "repo_info": "[xk-mt/WinRAR-Vulnerability-recurrence-tutorial](https://github.com/xk-mt/WinRAR-Vulnerability-recurrence-tutorial)",
+      "description": "WinRAR-6.22、CVE-2023-38831、CNNVD-202308-1943、DM-202307-003730、QVD-2023-19572漏洞复现",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T07:01:05Z"
+    },
+    {
+      "cve_id": "CVE-2023-47489",
+      "repo_info": "[nitipoom-jar/CVE-2023-47489](https://github.com/nitipoom-jar/CVE-2023-47489)",
+      "description": "no description",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T16:07:02Z"
+    },
+    {
+      "cve_id": "CVE-2023-47488",
+      "repo_info": "[nitipoom-jar/CVE-2023-47488](https://github.com/nitipoom-jar/CVE-2023-47488)",
+      "description": "no description",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T16:32:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-47437",
+      "repo_info": "[herombey/CVE-2023-47437](https://github.com/herombey/CVE-2023-47437)",
+      "description": "Vulnerability Disclosure",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T18:55:03Z"
+    },
+    {
+      "cve_id": "CVE-2023-46604",
+      "repo_info": "[vjayant93/CVE-2023-46604-POC](https://github.com/vjayant93/CVE-2023-46604-POC)",
+      "description": "POC repo for CVE-2023-46604",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T19:11:01Z"
+    },
+    {
+      "cve_id": "CVE-2023-39539",
+      "repo_info": "[AdamWen230/CVE-2023-39539-PoC](https://github.com/AdamWen230/CVE-2023-39539-PoC)",
+      "description": "PoC for CVE-2023-39539 in Cacti 1.2.22",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T21:39:54Z"
+    },
+    {
+      "cve_id": "CVE-2023-32422",
+      "repo_info": "[gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite](https://github.com/gergelykalman/CVE-2023-32422-a-macOS-TCC-bypass-in-sqlite)",
+      "description": "no description",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T18:21:20Z"
+    },
+    {
+      "cve_id": "CVE-2023-1521",
+      "repo_info": "[rubbxalc/CVE-2023-1521](https://github.com/rubbxalc/CVE-2023-1521)",
+      "description": "no description",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T15:31:44Z"
+    },
+    {
+      "cve_id": "CVE-2022-29469",
+      "repo_info": "[S4muraiMelayu1337/CVE-2022-29469](https://github.com/S4muraiMelayu1337/CVE-2022-29469)",
+      "description": "no description",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T18:47:44Z"
+    },
+    {
+      "cve_id": "CVE-2021-38297",
+      "repo_info": "[gkrishnan724/CVE-2021-38297](https://github.com/gkrishnan724/CVE-2021-38297)",
+      "description": "Working in Progress POC for CVE2021-38297",
+      "date": "2023-11-15",
+      "raw_date": "2023-11-15T20:52:36Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.056931",
+  "metadata": {
+    "total_cves": 12,
+    "date_range": "2023-11-15",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

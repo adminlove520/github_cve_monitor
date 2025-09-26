@@ -1,0 +1,27 @@
+{
+  "date": "2018-05-24",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-17485",
+      "repo_info": "[surajraghuvanshi/PaloAltoRceDetectionAndExploit](https://github.com/surajraghuvanshi/PaloAltoRceDetectionAndExploit)",
+      "description": "Detecion for the vulnerability CVE-2017-15944",
+      "date": "2018-05-24",
+      "raw_date": "2018-05-24T23:19:57Z"
+    },
+    {
+      "cve_id": "CVE-2017-16995",
+      "repo_info": "[dangokyo/CVE_2017_16995](https://github.com/dangokyo/CVE_2017_16995)",
+      "description": "no description",
+      "date": "2018-05-24",
+      "raw_date": "2018-05-24T13:11:42Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.741891",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2018-05-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "date": "2020-01-18",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2019-19844",
+      "repo_info": "[0xsha/CVE_2019_19844](https://github.com/0xsha/CVE_2019_19844)",
+      "description": "CVE-2019-19844 Docker Edition",
+      "date": "2020-01-18",
+      "raw_date": "2020-01-18T13:32:21Z"
+    },
+    {
+      "cve_id": "CVE-2019-11580",
+      "repo_info": "[HE-Wenjian/iGPU-Leak](https://github.com/HE-Wenjian/iGPU-Leak)",
+      "description": "[CVE-2019-14615] iGPU Leak: An Information Leakage Vulnerability on Intel Integrated GPU",
+      "date": "2020-01-18",
+      "raw_date": "2020-01-18T08:23:46Z"
+    },
+    {
+      "cve_id": "CVE-2018-6574",
+      "repo_info": "[No1zy/CVE-2018-6574-PoC](https://github.com/No1zy/CVE-2018-6574-PoC)",
+      "description": "no description",
+      "date": "2020-01-18",
+      "raw_date": "2020-01-18T10:21:08Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.799270",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-01-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "date": "2023-08-18",
+  "count": 8,
+  "cves": [
+    {
+      "cve_id": "CVE-2023-38890",
+      "repo_info": "[akshadjoshi/CVE-2023-38890](https://github.com/akshadjoshi/CVE-2023-38890)",
+      "description": "poc",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T16:37:39Z"
+    },
+    {
+      "cve_id": "CVE-2023-34634",
+      "repo_info": "[radman404/CVE-2023-34634](https://github.com/radman404/CVE-2023-34634)",
+      "description": "Python rewrite of the POC for CVE-2023-34634",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T09:00:44Z"
+    },
+    {
+      "cve_id": "CVE-2023-24329",
+      "repo_info": "[Pandante-Central/CVE-2023-24329-codeql-test](https://github.com/Pandante-Central/CVE-2023-24329-codeql-test)",
+      "description": "no description",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T16:53:11Z"
+    },
+    {
+      "cve_id": "CVE-2023-20073",
+      "repo_info": "[RegularITCat/CVE-2023-20073](https://github.com/RegularITCat/CVE-2023-20073)",
+      "description": "PoC based on https://unsafe[.]sh/go-173464.html research",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T02:42:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-47615",
+      "repo_info": "[RandomRobbieBF/CVE-2022-47615](https://github.com/RandomRobbieBF/CVE-2022-47615)",
+      "description": "LearnPress Plugin &lt; 4.2.0 - Unauthenticated LFI Description",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T15:04:36Z"
+    },
+    {
+      "cve_id": "CVE-2022-45808",
+      "repo_info": "[RandomRobbieBF/CVE-2022-45808](https://github.com/RandomRobbieBF/CVE-2022-45808)",
+      "description": "LearnPress Plugin &lt; 4.2.0 - Unauthenticated SQLi",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T15:43:50Z"
+    },
+    {
+      "cve_id": "CVE-2018-9995",
+      "repo_info": "[K3ysTr0K3R/CVE-2018-9995-EXPLOIT](https://github.com/K3ysTr0K3R/CVE-2018-9995-EXPLOIT)",
+      "description": "A PoC exploit for CVE-2018-9995 - DVR Authentication Bypass",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T19:42:17Z"
+    },
+    {
+      "cve_id": "CVE-2017-5941",
+      "repo_info": "[arthurvmbl/nodejshell](https://github.com/arthurvmbl/nodejshell)",
+      "description": "Exploit de reverseshell para desserialização em NodeJs (CVE-2017-5941)",
+      "date": "2023-08-18",
+      "raw_date": "2023-08-18T00:54:43Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.041941",
+  "metadata": {
+    "total_cves": 8,
+    "date_range": "2023-08-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

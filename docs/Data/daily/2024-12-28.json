@@ -1,0 +1,62 @@
+{
+  "date": "2024-12-28",
+  "count": 7,
+  "cves": [
+    {
+      "cve_id": "CVE-2024-9234",
+      "repo_info": "[Nxploited/CVE-2024-9234](https://github.com/Nxploited/CVE-2024-9234)",
+      "description": "no description",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T11:00:02Z"
+    },
+    {
+      "cve_id": "CVE-2024-7954",
+      "repo_info": "[0dayan0n/RCE_CVE-2024-7954-](https://github.com/0dayan0n/RCE_CVE-2024-7954-)",
+      "description": "The porte_plume plugin used by SPIP before 4.30-alpha2, 4.2.13, and 4.1.16 is vulnerable to an arbitrary code execution vulnerability. A remote and unauthenticated attacker can execute arbitrary PHP as the SPIP user by sending a crafted HTTP request. (CRITICAL)",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T01:05:05Z"
+    },
+    {
+      "cve_id": "CVE-2024-50379",
+      "repo_info": "[gomtaengi/CVE-2024-50379-exp](https://github.com/gomtaengi/CVE-2024-50379-exp)",
+      "description": "CVE-2024-50379-exp",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T06:03:49Z"
+    },
+    {
+      "cve_id": "CVE-2024-30085",
+      "repo_info": "[murdok1982/Exploit-PoC-para-CVE-2024-30085](https://github.com/murdok1982/Exploit-PoC-para-CVE-2024-30085)",
+      "description": "Exploit en Python diseñado para aprovechar la vulnerabilidad de elevación de privilegios CVE-2024-30085",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T10:03:26Z"
+    },
+    {
+      "cve_id": "CVE-2024-11616",
+      "repo_info": "[inb1ts/CVE-2024-11616](https://github.com/inb1ts/CVE-2024-11616)",
+      "description": "Crash PoC for exploiting Netskope Endpoint DLP double-fetch.",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T10:48:23Z"
+    },
+    {
+      "cve_id": "CVE-2023-40028",
+      "repo_info": "[rvizx/CVE-2023-40028](https://github.com/rvizx/CVE-2023-40028)",
+      "description": "CVE-2023-40028 PoC Exploit",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T21:17:08Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[TuanCui22/CVE-2020-1472-Zerologon-impacket-2024](https://github.com/TuanCui22/CVE-2020-1472-Zerologon-impacket-2024)",
+      "description": "updated packages and libraries to demo CVE-2020-1472 ZeroLogon in 2024.",
+      "date": "2024-12-28",
+      "raw_date": "2024-12-28T01:58:26Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.127279",
+  "metadata": {
+    "total_cves": 7,
+    "date_range": "2024-12-28",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

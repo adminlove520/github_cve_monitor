@@ -1,0 +1,27 @@
+{
+  "date": "2015-12-18",
+  "count": 2,
+  "cves": [
+    {
+      "cve_id": "CVE-2015-7755",
+      "repo_info": "[hdm/juniper-cve-2015-7755](https://github.com/hdm/juniper-cve-2015-7755)",
+      "description": "Notes, binaries, and related information from analysis of the CVE-2015-7755 & CVE-2015-7756 issues within Juniper ScreenOS",
+      "date": "2015-12-18",
+      "raw_date": "2015-12-18T20:20:01Z"
+    },
+    {
+      "cve_id": "CVE-2011-1974",
+      "repo_info": "[charmstead/apache-reverse-proxy-cve20114317](https://github.com/charmstead/apache-reverse-proxy-cve20114317)",
+      "description": "Automatically exported from code.google.com/p/apache-reverse-proxy-cve20114317",
+      "date": "2015-12-18",
+      "raw_date": "2015-12-18T08:29:10Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.662108",
+  "metadata": {
+    "total_cves": 2,
+    "date_range": "2015-12-18",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

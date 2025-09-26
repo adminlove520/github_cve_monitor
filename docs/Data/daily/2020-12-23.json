@@ -1,0 +1,41 @@
+{
+  "date": "2020-12-23",
+  "count": 4,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-35590",
+      "repo_info": "[N4nj0/CVE-2020-35590](https://github.com/N4nj0/CVE-2020-35590)",
+      "description": "Brute-force tool for WordPress Plugin Limit Login Attempts Reloaded &gt;=2.13.0 - Login Limit Bypass (CVE-2020-35590)",
+      "date": "2020-12-23",
+      "raw_date": "2020-12-23T23:11:34Z"
+    },
+    {
+      "cve_id": "CVE-2020-35590",
+      "repo_info": "[anasbousselham/webminscan](https://github.com/anasbousselham/webminscan)",
+      "description": "Webmin Exploit Scanner CVE-2020-35606 CVE-2019-12840",
+      "date": "2020-12-23",
+      "raw_date": "2020-12-23T18:22:36Z"
+    },
+    {
+      "cve_id": "CVE-2020-17057",
+      "repo_info": "[fengjixuchui/cve-2020-17057](https://github.com/fengjixuchui/cve-2020-17057)",
+      "description": "cve-2020-17057 poc",
+      "date": "2020-12-23",
+      "raw_date": "2020-12-23T10:10:20Z"
+    },
+    {
+      "cve_id": "CVE-2020-1472",
+      "repo_info": "[SaharAttackit/CVE-2020-1472](https://github.com/SaharAttackit/CVE-2020-1472)",
+      "description": "no description",
+      "date": "2020-12-23",
+      "raw_date": "2020-12-23T08:12:21Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.834957",
+  "metadata": {
+    "total_cves": 4,
+    "date_range": "2020-12-23",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

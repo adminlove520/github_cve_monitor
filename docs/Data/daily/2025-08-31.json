@@ -1,0 +1,104 @@
+{
+  "date": "2025-08-31",
+  "count": 13,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-8714",
+      "repo_info": "[orderby99/CVE-2025-8714-POC](https://github.com/orderby99/CVE-2025-8714-POC)",
+      "description": "PoC de RCE en PostgreSQL — CVE-2025-8714",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T15:11:47Z"
+    },
+    {
+      "cve_id": "CVE-2025-7775",
+      "repo_info": "[rxerium/CVE-2025-7775](https://github.com/rxerium/CVE-2025-7775)",
+      "description": "Detection for CVE-2025-7775",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T17:05:29Z"
+    },
+    {
+      "cve_id": "CVE-2025-55349",
+      "repo_info": "[GoldenTicketLabs/CVE-2025-55349](https://github.com/GoldenTicketLabs/CVE-2025-55349)",
+      "description": "repo for CVE-2025-55349",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T14:34:08Z"
+    },
+    {
+      "cve_id": "CVE-2025-55349",
+      "repo_info": "[U65535F/ThrottleStopPoC](https://github.com/U65535F/ThrottleStopPoC)",
+      "description": "CVE-2025-7771: Arbitrary physical memory and I/O port read/write via ThrottleStop driver",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T12:46:25Z"
+    },
+    {
+      "cve_id": "CVE-2025-52413",
+      "repo_info": "[GoldenTicketLabs/CVE-2025-52413](https://github.com/GoldenTicketLabs/CVE-2025-52413)",
+      "description": "repo for CVE-2025-52413",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T18:17:00Z"
+    },
+    {
+      "cve_id": "CVE-2025-50565",
+      "repo_info": "[Kamgreen50/STIG-Edge-RCE-CVE2025-9478](https://github.com/Kamgreen50/STIG-Edge-RCE-CVE2025-9478)",
+      "description": "Remediation of Microsoft Edge (Chromium) Remote Code Execution vulnerability (CVE-2025-9478, Plugin ID: 258091). Documentation includes before/after evidence, remediation steps, and Tenable validation.",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T20:29:10Z"
+    },
+    {
+      "cve_id": "CVE-2025-4428",
+      "repo_info": "[rxerium/CVE-2025-4427-CVE-2025-4428](https://github.com/rxerium/CVE-2025-4427-CVE-2025-4428)",
+      "description": "Detection for CVE-2025-4427 and CVE-2025-4428",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T19:00:53Z"
+    },
+    {
+      "cve_id": "CVE-2025-2776",
+      "repo_info": "[mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack](https://github.com/mrk336/From-EternalBlue-to-CVE-2025-2776-The-Evolution-of-an-SMB-Attack)",
+      "description": "It shook the world in 2017 and has evolved into today’s CVE‑2025‑2776. Microsoft still relies on SMBv1, this article will explain how attackers have tweaked the chain from a simple DLL to a full reverse‑shell stack, and what that means for the defenders.",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T13:23:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-2776",
+      "repo_info": "[drcrypterdotru/Apache-GOExploiter](https://github.com/drcrypterdotru/Apache-GOExploiter)",
+      "description": "Apache (CVE-2025-24813) GOExploiter Checker &amp; Exploiter very Fast",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T10:01:08Z"
+    },
+    {
+      "cve_id": "CVE-2024-48307",
+      "repo_info": "[jisi-001/CVE-2024-48307POC](https://github.com/jisi-001/CVE-2024-48307POC)",
+      "description": "jeecg-boot getDictItemsByTable接口存在SQL注入漏洞",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T12:44:30Z"
+    },
+    {
+      "cve_id": "CVE-2024-40711",
+      "repo_info": "[birukG09/veeam-rce-remediation-kit](https://github.com/birukG09/veeam-rce-remediation-kit)",
+      "description": "Defensive toolkit for auditing, hardening, and monitoring Veeam Backup &amp; Replication against the critical .NET Remoting deserialization RCE (CVE-2024-40711). Includes PowerShell scripts for version audit &amp; forensic log collection, Splunk/Elastic SIEM queries, and PDF runbooks for patching and incident response.",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T20:03:26Z"
+    },
+    {
+      "cve_id": "CVE-2021-41773",
+      "repo_info": "[hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-](https://github.com/hackedrishi/CTF_WRITEUPS-TryHackMe-CVE-2021-41773-)",
+      "description": "CTF_WRITEUPS/TryHackMe /CVE-2021-41773/",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T16:59:48Z"
+    },
+    {
+      "cve_id": "CVE-2015-9251",
+      "repo_info": "[wakefulblock262/CVE-2015-9251](https://github.com/wakefulblock262/CVE-2015-9251)",
+      "description": "CVE-2015-9251 exploit example",
+      "date": "2025-08-31",
+      "raw_date": "2025-08-31T08:32:27Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:13.175392",
+  "metadata": {
+    "total_cves": 13,
+    "date_range": "2025-08-31",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

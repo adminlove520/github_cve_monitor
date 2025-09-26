@@ -1,0 +1,20 @@
+{
+  "date": "2017-10-07",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2017-15095",
+      "repo_info": "[bazad/ctl_ctloutput-leak](https://github.com/bazad/ctl_ctloutput-leak)",
+      "description": "CVE-2017-13868: Information leak of uninitialized kernel heap data in XNU.",
+      "date": "2017-10-07",
+      "raw_date": "2017-10-07T09:42:05Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.720923",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2017-10-07",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "date": "2022-09-25",
+  "count": 5,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-36804",
+      "repo_info": "[tahtaciburak/cve-2022-36804](https://github.com/tahtaciburak/cve-2022-36804)",
+      "description": "A simple PoC for Atlassian Bitbucket RCE [CVE-2022-36804]",
+      "date": "2022-09-25",
+      "raw_date": "2022-09-25T13:16:57Z"
+    },
+    {
+      "cve_id": "CVE-2022-28282",
+      "repo_info": "[Pwnrin/CVE-2022-28282](https://github.com/Pwnrin/CVE-2022-28282)",
+      "description": "PoC for CVE-2022-28282",
+      "date": "2022-09-25",
+      "raw_date": "2022-09-25T07:46:23Z"
+    },
+    {
+      "cve_id": "CVE-2022-1040",
+      "repo_info": "[jam620/Sophos-Vulnerability](https://github.com/jam620/Sophos-Vulnerability)",
+      "description": "CVE-2022-1040",
+      "date": "2022-09-25",
+      "raw_date": "2022-09-25T15:15:01Z"
+    },
+    {
+      "cve_id": "CVE-2022-1040",
+      "repo_info": "[jam620/Zimbra](https://github.com/jam620/Zimbra)",
+      "description": "CVE-2022-27925",
+      "date": "2022-09-25",
+      "raw_date": "2022-09-25T15:09:49Z"
+    },
+    {
+      "cve_id": "CVE-2021-4034",
+      "repo_info": "[flux10n/CVE-2021-4034](https://github.com/flux10n/CVE-2021-4034)",
+      "description": "Vulnerability to CVE-2021-4034 Pwnkit",
+      "date": "2022-09-25",
+      "raw_date": "2022-09-25T02:46:20Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.914122",
+  "metadata": {
+    "total_cves": 5,
+    "date_range": "2022-09-25",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

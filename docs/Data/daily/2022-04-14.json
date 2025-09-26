@@ -1,0 +1,111 @@
+{
+  "date": "2022-04-14",
+  "count": 14,
+  "cves": [
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[websecnl/CVE-2022-26809](https://github.com/websecnl/CVE-2022-26809)",
+      "description": "Remote Code Execution Exploit in the RPC Library",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T08:12:24Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy](https://github.com/sherlocksecurity/Microsoft-CVE-2022-26809-The-Little-Boy)",
+      "description": "The poc for CVE-2022-26809 RCE via RPC will be updated here.",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T03:41:32Z"
+    },
+    {
+      "cve_id": "CVE-2022-26809",
+      "repo_info": "[corelight/cve-2022-26809](https://github.com/corelight/cve-2022-26809)",
+      "description": "Detects attempts and successful exploitation of CVE-2022-26809",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T16:58:09Z"
+    },
+    {
+      "cve_id": "CVE-2022-24087",
+      "repo_info": "[Neimar47574/CVE-2022-24087](https://github.com/Neimar47574/CVE-2022-24087)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T16:56:08Z"
+    },
+    {
+      "cve_id": "CVE-2022-22954",
+      "repo_info": "[tyleraharrison/VMware-CVE-2022-22954-Command-Injector](https://github.com/tyleraharrison/VMware-CVE-2022-22954-Command-Injector)",
+      "description": "Proof of Concept for exploiting VMware CVE-2022-22954",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T23:38:06Z"
+    },
+    {
+      "cve_id": "CVE-2022-0824",
+      "repo_info": "[k3rwin/spring-cloud-function-rce](https://github.com/k3rwin/spring-cloud-function-rce)",
+      "description": "Spring Cloud Function SPEL表达式注入漏洞（CVE-2022-22963）",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T11:10:50Z"
+    },
+    {
+      "cve_id": "CVE-2022-0185",
+      "repo_info": "[featherL/CVE-2022-0185-exploit](https://github.com/featherL/CVE-2022-0185-exploit)",
+      "description": "CVE-2022-0185 exploit",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T10:46:04Z"
+    },
+    {
+      "cve_id": "CVE-2021-41184",
+      "repo_info": "[gabrielolivra/Exploit-Medium-CVE-2021-41184](https://github.com/gabrielolivra/Exploit-Medium-CVE-2021-41184)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T13:42:54Z"
+    },
+    {
+      "cve_id": "CVE-2019-11447",
+      "repo_info": "[0xkasra/CVE-2019-11447](https://github.com/0xkasra/CVE-2019-11447)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T01:45:04Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[0xkasra/CVE-2017-5638](https://github.com/0xkasra/CVE-2017-5638)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T02:48:22Z"
+    },
+    {
+      "cve_id": "CVE-2017-5638",
+      "repo_info": "[MarkusCarelli1/4B5F5F4Bp](https://github.com/MarkusCarelli1/4B5F5F4Bp)",
+      "description": "PoC for CVE-2017-0075",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T02:16:31Z"
+    },
+    {
+      "cve_id": "CVE-2017-18349",
+      "repo_info": "[h0cksr/Fastjson--CVE-2017-18349-](https://github.com/h0cksr/Fastjson--CVE-2017-18349-)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T16:31:46Z"
+    },
+    {
+      "cve_id": "CVE-2017-12149",
+      "repo_info": "[VVeakee/CVE-2017-12149](https://github.com/VVeakee/CVE-2017-12149)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T13:24:51Z"
+    },
+    {
+      "cve_id": "CVE-2015-6967",
+      "repo_info": "[0xkasra/CVE-2015-6967](https://github.com/0xkasra/CVE-2015-6967)",
+      "description": "no description",
+      "date": "2022-04-14",
+      "raw_date": "2022-04-14T01:57:39Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.887748",
+  "metadata": {
+    "total_cves": 14,
+    "date_range": "2022-04-14",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

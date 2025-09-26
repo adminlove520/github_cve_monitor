@@ -1,0 +1,34 @@
+{
+  "date": "2020-03-24",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-10663",
+      "repo_info": "[rails-lts/json_cve_2020_10663](https://github.com/rails-lts/json_cve_2020_10663)",
+      "description": "Workaround for CVE-2020-10663 (vulnerability in json gem)",
+      "date": "2020-03-24",
+      "raw_date": "2020-03-24T09:53:23Z"
+    },
+    {
+      "cve_id": "CVE-2019-14326",
+      "repo_info": "[seqred-s-a/cve-2019-14326](https://github.com/seqred-s-a/cve-2019-14326)",
+      "description": "Privilege escalation in Andy emulator",
+      "date": "2020-03-24",
+      "raw_date": "2020-03-24T10:31:23Z"
+    },
+    {
+      "cve_id": "CVE-2015-0235",
+      "repo_info": "[chayim/GHOSTCHECK-cve-2015-0235](https://github.com/chayim/GHOSTCHECK-cve-2015-0235)",
+      "description": "A check for GHOST; cve-2015-0235",
+      "date": "2020-03-24",
+      "raw_date": "2020-03-24T15:03:09Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.806026",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2020-03-24",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

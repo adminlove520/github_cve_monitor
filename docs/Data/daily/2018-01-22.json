@@ -1,0 +1,34 @@
+{
+  "date": "2018-01-22",
+  "count": 3,
+  "cves": [
+    {
+      "cve_id": "CVE-2018-2628",
+      "repo_info": "[bazad/launchd-portrep](https://github.com/bazad/launchd-portrep)",
+      "description": "CVE-2018-4280: Mach port replacement vulnerability in launchd on macOS 10.13.5 leading to local privilege escalation and SIP bypass.",
+      "date": "2018-01-22",
+      "raw_date": "2018-01-22T06:22:59Z"
+    },
+    {
+      "cve_id": "CVE-2017-9934",
+      "repo_info": "[garnetsunset/CiscoIOSSNMPToolkit](https://github.com/garnetsunset/CiscoIOSSNMPToolkit)",
+      "description": "Cisco iOS SNMP Overflow Exploit Toolkit (CVE-2017-6736)",
+      "date": "2018-01-22",
+      "raw_date": "2018-01-22T21:15:43Z"
+    },
+    {
+      "cve_id": "CVE-2017-1000475",
+      "repo_info": "[lajarajorge/CVE-2017-1000475](https://github.com/lajarajorge/CVE-2017-1000475)",
+      "description": "Unquoted Path Service",
+      "date": "2018-01-22",
+      "raw_date": "2018-01-22T21:10:22Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.730807",
+  "metadata": {
+    "total_cves": 3,
+    "date_range": "2018-01-22",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

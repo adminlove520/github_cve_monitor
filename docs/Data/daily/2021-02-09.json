@@ -1,0 +1,20 @@
+{
+  "date": "2021-02-09",
+  "count": 1,
+  "cves": [
+    {
+      "cve_id": "CVE-2020-8554",
+      "repo_info": "[alebedev87/gatekeeper-cve-2020-8554](https://github.com/alebedev87/gatekeeper-cve-2020-8554)",
+      "description": "no description",
+      "date": "2021-02-09",
+      "raw_date": "2021-02-09T21:29:44Z"
+    }
+  ],
+  "generated_at": "2025-09-26T12:11:12.840459",
+  "metadata": {
+    "total_cves": 1,
+    "date_range": "2021-02-09",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}
