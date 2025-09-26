@@ -3,7 +3,7 @@
 > Automatic monitor Github CVE using Github Actions 
 
 ## 报告信息
-- **生成时间**: 2025-09-25 02:22:34
+- **生成时间**: 2025-09-26 02:21:16
 - **数据来源**: GitHub仓库（未识别CVE编号）
 - **说明**: 本报告包含在GitHub上找到但未能提取有效CVE编号的仓库信息
 
@@ -298,9 +298,10 @@
 | 🚫 未识别 | [procamora/OpenSSH-Username-Enumeration](https://github.com/procamora/OpenSSH-Username-Enumeration) | CVE: 2018-15473 | 2020-02-09T23:51:58Z|
 | 🚫 未识别 | [Moon1705/easy_security](https://github.com/Moon1705/easy_security) | Project with sublist3r, massan, CVE-2018-15473, ssh bruteforce, ftp bruteforce and nikto. | 2020-05-08T10:29:00Z|
 | 🚫 未识别 | [AliAmouz/CVE2025-24893](https://github.com/AliAmouz/CVE2025-24893) | no description | 2025-09-24T10:03:08Z|
+| 🚫 未识别 | [Andromeda254/cve](https://github.com/Andromeda254/cve) | list of cve from 2001 to 2024 | 2025-09-26T00:13:16Z|
 
 
 ---
 
-**报告生成时间**: 2025-09-25 02:27:21  
-**总记录数**: 287
+**报告生成时间**: 2025-09-26 02:25:42  
+**总记录数**: 288
