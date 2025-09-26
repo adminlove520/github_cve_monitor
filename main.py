@@ -14,14 +14,71 @@ import json
 
 # 确定项目根目录
 def get_project_root():
-    # 获取当前文件所在目录
-    current_dir = os.path.dirname(os.path.abspath(__file__))
-    # 检查是否在嵌套目录结构中
-    if 'github_cve_monitor' in current_dir and current_dir.count('github_cve_monitor') > 1:
-        # 如果在嵌套目录中，找到第一个github_cve_monitor目录
+    """
+    获取项目根目录的绝对路径，处理嵌套目录情况
+    解决GitHub Actions环境中的目录嵌套问题
+    """
+    # 获取当前文件所在目录（包含main.py的目录）
+    current_file_path = os.path.abspath(__file__)
+    current_dir = os.path.dirname(current_file_path)
+    print(f"DEBUG: 当前文件路径: {current_file_path}")
+    print(f"DEBUG: 当前目录: {current_dir}")
+    
+    # 情况1: 检查当前目录是否已经包含所有必要文件/目录
+    if os.path.exists(os.path.join(current_dir, 'main.py')) and \
+       os.path.exists(os.path.join(current_dir, 'docs')) and \
+       os.path.exists(os.path.join(current_dir, 'db')):
+        print(f"DEBUG: 当前目录已包含所有必要文件/目录")
+        return current_dir
+    
+    # 情况2: 检查GitHub Actions典型嵌套结构
+    # 在GitHub Actions中，代码通常在 /home/runner/work/repo_name/repo_name 中
+    if 'runner' in current_dir and 'work' in current_dir:
+        # 查找最后一个项目目录名
         parts = current_dir.split(os.path.sep)
-        monitor_index = parts.index('github_cve_monitor')
-        return os.path.sep.join(parts[:monitor_index+1])
+        # 检查是否存在嵌套的项目目录
+        for i, part in enumerate(parts):
+            if part and i < len(parts) - 1 and parts[i] == parts[i+1]:
+                # 找到嵌套目录，返回完整路径
+                nested_path = os.path.sep.join(parts[:i+2])
+                if os.path.exists(os.path.join(nested_path, 'main.py')):
+                    print(f"DEBUG: 检测到GitHub Actions嵌套目录结构: {nested_path}")
+                    return nested_path
+    
+    # 情况3: 尝试向下查找（针对GitHub Actions环境，可能当前在work目录而不是实际代码目录）
+    # 检查当前目录下是否有名为github_cve_monitor的子目录
+    possible_nested_dir = os.path.join(current_dir, 'github_cve_monitor')
+    if os.path.exists(possible_nested_dir) and \
+       os.path.exists(os.path.join(possible_nested_dir, 'main.py')) and \
+       os.path.exists(os.path.join(possible_nested_dir, 'docs')) and \
+       os.path.exists(os.path.join(possible_nested_dir, 'db')):
+        print(f"DEBUG: 检测到向下嵌套的项目目录: {possible_nested_dir}")
+        return possible_nested_dir
+    
+    # 情况4: 逐级向上查找
+    test_dir = current_dir
+    max_depth = 5  # 设置最大查找深度
+    
+    for depth in range(max_depth):
+        # 向上一级目录
+        parent_dir = os.path.dirname(test_dir)
+        if parent_dir == test_dir:  # 到达文件系统根目录
+            print(f"DEBUG: 到达文件系统根目录")
+            break
+        
+        print(f"DEBUG: 向上查找层级 {depth+1}: {parent_dir}")
+        
+        # 检查父目录是否包含所有必要文件/目录
+        if os.path.exists(os.path.join(parent_dir, 'main.py')) and \
+           os.path.exists(os.path.join(parent_dir, 'docs')) and \
+           os.path.exists(os.path.join(parent_dir, 'db')):
+            print(f"DEBUG: 在父目录找到项目根目录: {parent_dir}")
+            return parent_dir
+        
+        test_dir = parent_dir
+    
+    # 如果所有方法都失败，返回当前目录作为最后手段
+    print(f"DEBUG: 无法确定项目根目录，返回当前目录作为默认值")
     return current_dir
 
 # 获取项目根目录
