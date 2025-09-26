@@ -180,8 +180,8 @@ jobs:
                       if update_match:
                           fallback_stats['last_update'] = update_match.group(1)
                   
-                  # 2. 扫描docs/Data目录计算实际监控天数和CVE数量
-                  data_dir = 'docs/Data'
+                  # 2. 扫描docs/data目录计算实际监控天数和CVE数量
+                  data_dir = 'docs/data'
                   if os.path.exists(data_dir):
                       # 匹配日期格式的目录
                       import re
@@ -289,8 +289,8 @@ jobs:
           try:
               print('扫描报告目录...')
               
-              # 获取docs/Data目录下的所有日期目录
-              data_dir = Path('docs/Data')
+              # 获取docs/data目录下的所有日期目录
+              data_dir = Path('docs/data')
               date_dirs = sorted([d for d in data_dir.glob('*-W*-*-*')], reverse=True)
               
               for date_dir in date_dirs[:10]:  # 只获取最近10天的报告
@@ -360,9 +360,9 @@ jobs:
               # 实现本地扫描获取真实报告数据的降级方案
               fallback_reports = []
               try:
-                  # 扫描docs/Data目录下的所有日期格式子目录
+                  # 扫描docs/data目录下的所有日期格式子目录
                   import os
-                  data_dir = 'docs/Data'
+                  data_dir = 'docs/data'
                   # 匹配YYYY-Wxx-MM-DD格式的目录
                   import re
                   date_pattern = re.compile(r'^\d{4}-W\d{2}-\d{2}-\d{2}$')
