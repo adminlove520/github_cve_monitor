@@ -32,7 +32,7 @@ jobs:
           
           # 为前端生成安全的配置文件
           # 确保目录存在
-          mkdir -p docs/Data
+          mkdir -p docs/data
           mkdir -p docs/config
           
           cat > docs/config/config.json << EOF
@@ -45,7 +45,7 @@ jobs:
           }
           EOF
           
-          cat > docs/Data/config.json << EOF
+          cat > docs/data/config.json << EOF
           {
             "github_token": "$GH_TOKEN_VALUE",
             "api_base_url": "https://api.github.com",
@@ -85,7 +85,9 @@ jobs:
           python3 main.py
           
       - name: 生成Wiki统计数据
-        run: python3 scripts/generate_wiki_stats.py
+        run: |
+          echo "当前工作目录: $(pwd)"
+          python3 scripts/generate_wiki_stats.py
       - name: save changes
         run: |
           git config --global user.email "cve-monitor@users.noreply.github.com"
@@ -134,13 +136,13 @@ jobs:
           
           #### Week 38
           
-          - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/Data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
+          - 📅 [${DATE_STR} 每日报告](https://adminlove520.github.io/github_cve_monitor/data/${WEEK_STR}/daily_${DATE_STR//-/}.md) - 最新
           EOF
           
           # 添加历史报告链接
-          if [ -d "../docs/Data" ]; then
+          if [ -d "../docs/data" ]; then
             echo "" >> "每日报告.md"
-            for dir in ../docs/Data/*/; do
+            for dir in ../docs/data/*/; do
               if [ -d "$dir" ]; then
                 dir_name=$(basename "$dir")
                 if [ "$dir_name" != "${WEEK_STR}" ]; then
@@ -148,7 +150,7 @@ jobs:
                     if [ -f "$file" ]; then
                       file_name=$(basename "$file" .md)
                       date_part=$(echo "$file_name" | sed 's/daily_//' | sed 's/\(.\{4\}\)\(.\{2\}\)\(.\{2\}\)/\1-\2-\3/')
-                      echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/Data/$dir_name/$file_name.md)" >> "每日报告.md"
+                      echo "- 📅 [$date_part 每日报告](https://adminlove520.github.io/github_cve_monitor/data/$dir_name/$file_name.md)" >> "每日报告.md"
                     fi
                   done
                 fi
