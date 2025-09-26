@@ -1,0 +1,161 @@
+{
+  "generated_at": "2025-09-26T19:11:31.995556",
+  "version": "3.0",
+  "summary": {
+    "total_cves": 125,
+    "date_range": {
+      "start": "2024-01-01",
+      "end": "2024-01-10"
+    },
+    "avg_daily_cves": 12.5,
+    "active_days": 10,
+    "max_daily_cves": 20
+  },
+  "cve_types": {
+    "注入攻击": 2,
+    "路径遍历": 1,
+    "远程代码执行": 1,
+    "缓冲区溢出": 1
+  },
+  "poc_exp_stats": {
+    "仅POC": 0,
+    "仅EXP": 5,
+    "POC+EXP": 0,
+    "无POC/EXP": 0
+  },
+  "vendor_product_stats": {
+    "vendors": {
+      "timstrifler": 1,
+      "livemesh": 1,
+      "wpdevteam": 1,
+      "brainstormforce": 1,
+      "xpeedstudio": 1
+    },
+    "products": {
+      "Exclusive Addons for Elementor": 1,
+      "Elementor Addons by Livemesh": 1,
+      "Essential Addons for Elementor – Best Elementor Templates, Widgets, Kits & WooCommerce Builders": 1,
+      "Elementor Header & Footer Builder": 1,
+      "ElementsKit Elementor addons": 1
+    },
+    "vendor_product_pairs": {
+      "timstrifler - Exclusive Addons for Elementor": 1,
+      "livemesh - Elementor Addons by Livemesh": 1,
+      "wpdevteam - Essential Addons for Elementor – Best Elementor Templates, Widgets, Kits & WooCommerce Builders": 1,
+      "brainstormforce - Elementor Header & Footer Builder": 1,
+      "xpeedstudio - ElementsKit Elementor addons": 1
+    }
+  },
+  "fingerprint_stats": {
+    "Spring": 1,
+    "Java": 1,
+    "Apache": 1,
+    "MySQL": 1,
+    "Jenkins": 1,
+    "Nginx": 1,
+    "ThinkPHP": 1
+  },
+  "trends": [
+    {
+      "date": "2024-01-01",
+      "daily_count": 15,
+      "cumulative_total": 15,
+      "growth_rate": 0.0
+    },
+    {
+      "date": "2024-01-02",
+      "daily_count": 18,
+      "cumulative_total": 33,
+      "growth_rate": 20.0
+    },
+    {
+      "date": "2024-01-03",
+      "daily_count": 20,
+      "cumulative_total": 53,
+      "growth_rate": 11.1
+    },
+    {
+      "date": "2024-01-04",
+      "daily_count": 12,
+      "cumulative_total": 65,
+      "growth_rate": -40.0
+    },
+    {
+      "date": "2024-01-05",
+      "daily_count": 14,
+      "cumulative_total": 79,
+      "growth_rate": 16.7
+    }
+  ],
+  "recent_data": [
+    {
+      "date": "2024-01-05",
+      "total_cves": 14,
+      "cves": [
+        {
+          "cve_id": "CVE-2024-1234",
+          "title": "Spring Cloud Gateway 路径遍历漏洞",
+          "description": "Spring Cloud Gateway 中存在路径遍历漏洞，攻击者可通过构造特殊请求访问服务器敏感文件。CWE-22 Improper Limitation of a Pathname to a Restricted Directory ('Path Traversal')",
+          "severity": "HIGH",
+          "published_at": "2024-01-05T10:00:00Z",
+          "repo_name": "spring-cloud/spring-cloud-gateway",
+          "repo_info": "Spring Cloud Gateway is a library that provides an API gateway built on top of the Spring Ecosystem",
+          "tags": [
+            "vulnerability",
+            "security"
+          ]
+        },
+        {
+          "cve_id": "CVE-2024-1235",
+          "title": "Apache Struts2 远程代码执行漏洞",
+          "description": "Apache Struts2 中存在远程代码执行漏洞，攻击者可通过构造恶意请求执行任意代码。CWE-94 Improper Control of Generation of Code ('Code Injection')",
+          "severity": "CRITICAL",
+          "published_at": "2024-01-05T11:30:00Z",
+          "repo_name": "apache/struts",
+          "repo_info": "Apache Struts is an open-source web application framework for developing Java EE web applications",
+          "tags": [
+            "rce",
+            "poc"
+          ]
+        },
+        {
+          "cve_id": "CVE-2024-1236",
+          "title": "MySQL Server 权限提升漏洞",
+          "description": "MySQL Server 中存在权限提升漏洞，攻击者可在特定条件下提升权限。CWE-269 Improper Privilege Management",
+          "severity": "MEDIUM",
+          "published_at": "2024-01-05T13:45:00Z",
+          "repo_name": "mysql/mysql-server",
+          "repo_info": "MySQL Server is the world's most popular open source database",
+          "tags": [
+            "privilege-escalation"
+          ]
+        },
+        {
+          "cve_id": "CVE-2024-1237",
+          "title": "Jenkins 跨站脚本漏洞",
+          "description": "Jenkins 中存在跨站脚本漏洞，攻击者可通过构造恶意请求注入恶意脚本。CWE-79 Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')",
+          "severity": "MEDIUM",
+          "published_at": "2024-01-05T15:20:00Z",
+          "repo_name": "jenkinsci/jenkins",
+          "repo_info": "Jenkins is an open source automation server",
+          "tags": [
+            "xss"
+          ]
+        },
+        {
+          "cve_id": "CVE-2024-1238",
+          "title": "Nginx 缓冲区溢出漏洞",
+          "description": "Nginx 中存在缓冲区溢出漏洞，攻击者可通过构造特殊请求导致服务崩溃。CWE-119 Improper Restriction of Operations within the Bounds of a Memory Buffer",
+          "severity": "HIGH",
+          "published_at": "2024-01-05T16:55:00Z",
+          "repo_name": "nginx/nginx",
+          "repo_info": "Nginx is an HTTP and reverse proxy server",
+          "tags": [
+            "buffer-overflow",
+            "dos"
+          ]
+        }
+      ]
+    }
+  ]
+}

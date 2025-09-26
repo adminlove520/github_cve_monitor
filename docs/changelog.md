@@ -1,8 +1,26 @@
-# Change Log
-All notable changes to this project will be documented in this file.
- 
-The format is based on [Keep a Changelog](http://keepachangelog.com/)
-and this project adheres to [Semantic Versioning](http://semver.org/).
+# 更新日志
+本文件记录了项目的所有显著变更。
+
+格式基于 [Keep a Changelog](http://keepachangelog.com/)
+并遵循 [语义化版本控制](http://semver.org/) 规范。
+
+## [3.0] - 2025-09-26
+
+### 核心功能
+- 🚀 基于CVE官方API的精确漏洞类型分析（支持CWE分类）
+- 🏢 新增厂商/产品统计功能，提供三个维度的数据（厂商、产品、厂商-产品对）
+- 🛠️ 增强的POC/EXP检测机制，提供更准确的可用性评估
+- 📊 重构的统计数据生成系统，支持自动更新
+
+### 前端增强
+- 🎨 全新统计页面，支持多维度数据可视化
+- 📱 响应式设计优化，提升移动端浏览体验
+- 🔄 多路径数据加载策略，实现优雅降级
+
+### 数据架构改进
+- 🏗️ 完整的每日数据系统，支持历史趋势分析
+- 🔍 优化的数据加载机制（目录扫描替代日期计算）
+- 🛡️ 增强的错误处理和重试机制，提高稳定性
 
 ## [2.2.3] - 2025-09-25
 

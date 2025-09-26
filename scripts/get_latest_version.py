@@ -24,8 +24,8 @@ def get_latest_version():
             with open(docs_changelog, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            # 匹配类似 [2.2.2] 的版本号
-            version_pattern = r'##\s*\[(\d+\.\d+\.\d+)\]'
+            # 匹配类似 [3.0] 或 [2.2.3] 的版本号
+            version_pattern = r'##\s*\[(\d+\.\d+(?:\.\d+)?)\]'
             matches = re.findall(version_pattern, content)
             
             if matches:
@@ -41,8 +41,8 @@ def get_latest_version():
             with open(archive_changelog, 'r', encoding='utf-8') as f:
                 content = f.read()
             
-            # 匹配类似 [v2.2.1] 或 [2.1] 的版本号
-            version_pattern = r'##\s*\[v?(\d+\.\d+\.\d+)\]'
+            # 匹配类似 [v3.0] 或 [v2.2.3] 的版本号
+            version_pattern = r'##\s*\[v?(\d+\.\d+(?:\.\d+)?)\]'
             matches = re.findall(version_pattern, content)
             
             if matches:

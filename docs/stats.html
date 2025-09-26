@@ -221,6 +221,46 @@
     </div>
     
     <div class="chart-container">
+      <div class="chart-title">🔍 CVE分类统计（基于CWE和关键词）</div>
+      <div id="cwe-classification">
+        <div style="text-align: center; padding: 20px; color: #666;">
+          🔄 正在加载CVE分类数据...
+        </div>
+      </div>
+    </div>
+    
+    <div class="chart-container">
+      <div class="chart-title">🛠️ POC/EXP统计（基于仓库标签和描述内容分析）</div>
+      <div id="poc-exp-stats">
+        <div style="text-align: center; padding: 20px; color: #666;">
+          🔄 正在加载POC/EXP统计数据...
+        </div>
+      </div>
+    </div>
+    
+    <div class="chart-container">
+      <div class="chart-title">🏢 厂商/产品统计（基于CVE官方API）</div>
+      <div id="vendor-product-stats">
+        <div style="text-align: center; padding: 20px; color: #666;">
+          🔄 正在加载厂商/产品统计数据...
+        </div>
+      </div>
+    </div>
+    
+    <div class="chart-container">
+      <div class="chart-title">💡 数据获取架构与统计方法</div>
+      <div id="data-architecture">
+        <div style="padding: 20px; line-height: 1.8;">
+          <h4 style="color: #EF3A38; margin-top: 0;">系统版本：v3.0 - 基于CVE API的精确统计</h4>
+          <p><strong>核心特点：</strong>自动化更新、静态文件缓存、无Token依赖、实时统计、CWE分类支持、技术栈指纹识别</p>
+          <p><strong>CWE漏洞分类：</strong>优先从CVE官方API获取CWE ID和分类信息，基于Top 25+ CWE分类映射到中文类型</p>
+          <p><strong>厂商/产品统计：</strong>通过CVE官方API获取准确的厂商和产品信息，统计厂商、产品及厂商-产品组合数据</p>
+          <p><strong>POC/EXP识别：</strong>采用多维度指标判断POC/EXP可用性，包括仓库标签分析、文件扩展名和命名模式</p>
+        </div>
+      </div>
+    </div>
+    
+    <div class="chart-container">
       <div class="chart-title">🔧 系统状态</div>
       <div class="system-status">
         <div class="status-item">
@@ -1120,6 +1160,257 @@
       }
     }
     
+    // 从wiki统计数据JSON文件加载数据
+    async function loadWikiStats() {
+      try {
+        console.log('📊 开始加载wiki统计数据...');
+        
+        // 尝试从多个可能的路径加载统计数据
+        const possiblePaths = [
+          '../docs/data/statistics/wiki_stats.json',
+          'data/statistics/wiki_stats.json',
+          './docs/data/statistics/wiki_stats.json'
+        ];
+        
+        let statsData = null;
+        let loadSuccess = false;
+        
+        for (const path of possiblePaths) {
+          try {
+            const response = await fetch(path);
+            if (response.ok) {
+              statsData = await response.json();
+              loadSuccess = true;
+              console.log(`✅ 从 ${path} 成功加载统计数据`);
+              break;
+            }
+          } catch (err) {
+            console.warn(`⚠️ 尝试从 ${path} 加载失败:`, err.message);
+          }
+        }
+        
+        // 如果无法加载数据，返回null
+        if (!loadSuccess) {
+          console.warn('⚠️ 无法加载wiki_stats.json文件');
+          return null;
+        }
+        
+        // 更新总体统计信息
+        if (statsData.summary) {
+          document.getElementById('total-cves').textContent = statsData.summary.total_cves?.toLocaleString() || '加载中...';
+          document.getElementById('days-running').textContent = statsData.summary.active_days || '计算中...';
+        }
+        
+        // 渲染各个统计模块
+        renderCWEClassification(statsData.cve_types || {});
+        renderPOCExpStats(statsData.poc_exp_stats || {});
+        renderVendorProductStats(statsData.vendor_product_stats || {});
+        
+        return statsData;
+      } catch (error) {
+        console.error('❌ 加载wiki统计数据失败:', error);
+        showError('cwe-classification', '加载CVE分类数据失败');
+        showError('poc-exp-stats', '加载POC/EXP统计数据失败');
+        showError('vendor-product-stats', '加载厂商/产品统计数据失败');
+        return null;
+      }
+    }
+    
+    // 渲染CWE分类统计
+    function renderCWEClassification(cveTypes) {
+      const container = document.getElementById('cwe-classification');
+      
+      // 计算总数
+      const total = Object.values(cveTypes).reduce((sum, count) => sum + count, 0);
+      
+      if (total === 0) {
+        container.innerHTML = '<div style="text-align: center; padding: 20px; color: #666;">📄 暂无CVE分类数据</div>';
+        return;
+      }
+      
+      // 定义颜色方案
+      const colors = {
+        '注入攻击': '#EF3A38',
+        '路径遍历': '#ff6348',
+        '远程代码执行': '#ff4757',
+        '缓冲区溢出': '#ffa502',
+        '跨站脚本': '#6c5ce7',
+        '未授权访问': '#00b894',
+        '信息泄露': '#0984e3',
+        '其他类型': '#636e72'
+      };
+      
+      let html = '<table class="trend-table" style="width: 100%; margin-bottom: 20px;">' +
+                 '<thead><tr><th>类型</th><th>数量</th><th>占比</th></tr></thead><tbody>';
+      
+      // 按数量排序
+      const sortedTypes = Object.entries(cveTypes)
+        .sort(([,a], [,b]) => b - a)
+        .filter(([, count]) => count > 0);
+      
+      sortedTypes.forEach(([type, count]) => {
+        const percentage = ((count / total) * 100).toFixed(1);
+        const color = colors[type] || '#6c5ce7';
+        
+        html += `<tr>
+                  <td>${type}</td>
+                  <td>${count}</td>
+                  <td>
+                    <div style="display: flex; align-items: center; gap: 10px;">
+                      <div style="width: 100px; height: 8px; background: #e9ecef; border-radius: 4px; overflow: hidden;">
+                        <div style="width: ${percentage}%; height: 100%; background: ${color};"></div>
+                      </div>
+                      <span>${percentage}%</span>
+                    </div>
+                  </td>
+                </tr>`;
+      });
+      
+      html += '</tbody></table>';
+      container.innerHTML = html;
+    }
+    
+    // 渲染POC/EXP统计
+    function renderPOCExpStats(pocExpStats) {
+      const container = document.getElementById('poc-exp-stats');
+      
+      // 计算总数
+      const total = Object.values(pocExpStats).reduce((sum, count) => sum + count, 0);
+      
+      if (total === 0) {
+        container.innerHTML = '<div style="text-align: center; padding: 20px; color: #666;">📄 暂无POC/EXP统计数据</div>';
+        return;
+      }
+      
+      // 定义状态颜色
+      const statusColors = {
+        '仅POC': '#00b894',
+        '仅EXP': '#EF3A38',
+        'POC+EXP': '#ff6348',
+        '无POC/EXP': '#636e72'
+      };
+      
+      let html = '<table class="trend-table" style="width: 100%; margin-bottom: 20px;">' +
+                 '<thead><tr><th>类型</th><th>数量</th><th>占比</th></tr></thead><tbody>';
+      
+      Object.entries(pocExpStats)
+        .filter(([, count]) => count > 0)
+        .forEach(([type, count]) => {
+          const percentage = ((count / total) * 100).toFixed(1);
+          const color = statusColors[type] || '#6c5ce7';
+          
+          html += `<tr>
+                    <td>${type}</td>
+                    <td>${count}</td>
+                    <td>
+                      <div style="display: flex; align-items: center; gap: 10px;">
+                        <div style="width: 100px; height: 8px; background: #e9ecef; border-radius: 4px; overflow: hidden;">
+                          <div style="width: ${percentage}%; height: 100%; background: ${color};"></div>
+                        </div>
+                        <span>${percentage}%</span>
+                      </div>
+                    </td>
+                  </tr>`;
+        });
+      
+      html += '</tbody></table>';
+      container.innerHTML = html;
+    }
+    
+    // 渲染厂商/产品统计
+    function renderVendorProductStats(vendorProductStats) {
+      const container = document.getElementById('vendor-product-stats');
+      
+      const { vendors = {}, products = {}, vendor_product_pairs = {} } = vendorProductStats;
+      
+      let html = '';
+      
+      // 渲染厂商统计
+      if (Object.keys(vendors).length > 0) {
+        const vendorTotal = Object.values(vendors).reduce((sum, count) => sum + count, 0);
+        const sortedVendors = Object.entries(vendors)
+          .sort(([,a], [,b]) => b - a)
+          .slice(0, 15);
+        
+        html += `<div style="margin-bottom: 30px;">
+                  <h4 style="color: #333; margin-top: 0; border-bottom: 2px solid #EF3A38; padding-bottom: 10px;">厂商统计Top 15</h4>
+                  <table class="trend-table" style="width: 100%;">
+                    <thead><tr><th>厂商</th><th>漏洞数量</th><th>占比</th></tr></thead><tbody>`;
+        
+        sortedVendors.forEach(([vendor, count]) => {
+          const percentage = ((count / vendorTotal) * 100).toFixed(1);
+          html += `<tr>
+                    <td>${vendor}</td>
+                    <td>${count}</td>
+                    <td>${percentage}%</td>
+                  </tr>`;
+        });
+        
+        html += '</tbody></table></div>';
+      }
+      
+      // 渲染产品统计
+      if (Object.keys(products).length > 0) {
+        const productTotal = Object.values(products).reduce((sum, count) => sum + count, 0);
+        const sortedProducts = Object.entries(products)
+          .sort(([,a], [,b]) => b - a)
+          .slice(0, 15);
+        
+        html += `<div style="margin-bottom: 30px;">
+                  <h4 style="color: #333; margin-top: 0; border-bottom: 2px solid #EF3A38; padding-bottom: 10px;">产品统计Top 15</h4>
+                  <table class="trend-table" style="width: 100%;">
+                    <thead><tr><th>产品</th><th>漏洞数量</th><th>占比</th></tr></thead><tbody>`;
+        
+        sortedProducts.forEach(([product, count]) => {
+          const percentage = ((count / productTotal) * 100).toFixed(1);
+          const displayProduct = product.length > 50 ? product.substring(0, 50) + '...' : product;
+          html += `<tr>
+                    <td title="${product}">${displayProduct}</td>
+                    <td>${count}</td>
+                    <td>${percentage}%</td>
+                  </tr>`;
+        });
+        
+        html += '</tbody></table></div>';
+      }
+      
+      // 渲染厂商-产品组合统计
+      if (Object.keys(vendor_product_pairs).length > 0) {
+        const sortedPairs = Object.entries(vendor_product_pairs)
+          .sort(([,a], [,b]) => b - a)
+          .slice(0, 10);
+        
+        html += `<div style="margin-bottom: 20px;">
+                  <h4 style="color: #333; margin-top: 0; border-bottom: 2px solid #EF3A38; padding-bottom: 10px;">厂商-产品组合Top 10</h4>
+                  <table class="trend-table" style="width: 100%;">
+                    <thead><tr><th>厂商 - 产品</th><th>漏洞数量</th></tr></thead><tbody>`;
+        
+        sortedPairs.forEach(([pair, count]) => {
+          const displayPair = pair.length > 70 ? pair.substring(0, 70) + '...' : pair;
+          html += `<tr>
+                    <td title="${pair}">${displayPair}</td>
+                    <td>${count}</td>
+                  </tr>`;
+        });
+        
+        html += '</tbody></table></div>';
+      }
+      
+      if (!html) {
+        html = '<div style="text-align: center; padding: 20px; color: #666;">📄 暂无厂商/产品统计数据</div>';
+      }
+      
+      container.innerHTML = html;
+    }
+    
+    // 显示错误信息
+    function showError(elementId, message) {
+      const element = document.getElementById(elementId);
+      if (element) {
+        element.innerHTML = `<div style="text-align: center; padding: 20px; color: #dc3545;">🚨 ${message}</div>`;
+      }
+    }
+    
     // 页面加载完成后执行
     document.addEventListener('DOMContentLoaded', async function() {
       // 显示加载状态并开始调试
@@ -1135,8 +1426,15 @@
         loadDynamicStats().catch(err => console.error('loadDynamicStats失败:', err)),
         loadStats().catch(err => console.error('loadStats失败:', err)),
         analyzeCVEData().catch(err => console.error('analyzeCVEData失败:', err)),
-        loadDailyTrend().catch(err => console.error('loadDailyTrend失败:', err))
+        loadDailyTrend().catch(err => console.error('loadDailyTrend失败:', err)),
+        loadWikiStats().catch(err => console.error('loadWikiStats失败:', err))
       ]);
+      
+      // 移除"即将推出"区域
+      const comingSoon = document.querySelector('.coming-soon');
+      if (comingSoon) {
+        comingSoon.style.display = 'none';
+      }
     });
   </script>
 </body>
