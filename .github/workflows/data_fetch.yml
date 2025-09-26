@@ -407,7 +407,7 @@ jobs:
                           'date': report['date'],
                           'filename': "{}/index.html".format(report['directory']),
                           'cves_count': report['cves_count'],
-                          'title': f"{report['date']} CVE情报速递"
+                          'title': "{0} CVE情报速递".format(report['date'])
                       })
                   
                   print(f'✅ 本地扫描成功获取 {len(fallback_reports)} 条报告信息')
