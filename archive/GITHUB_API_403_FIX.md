@@ -4,8 +4,8 @@
 
 在访问GitHub CVE Monitor的每日报告页面时，可能会遇到以下错误：
 
-1. `GET https://adminlove520.github.io/github_cve_monitor/Data/config.json 404 (Not Found)`
-2. `GET https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/Data 403 (Forbidden)`
+1. `GET https://adminlove520.github.io/github_cve_monitor/data/config.json 404 (Not Found)`
+2. `GET https://api.github.com/repos/adminlove520/github_cve_monitor/contents/docs/data 403 (Forbidden)`
 
 这些错误通常与GitHub API认证和配置文件缺失有关。
 
@@ -42,7 +42,7 @@ set GITHUB_TOKEN=your_token_here
 
 程序支持从以下位置的配置文件读取token（优先级从高到低）：
 1. 环境变量 `GITHUB_TOKEN`
-2. `docs/Data/config.json`
+2. `docs/data/config.json`
 3. `docs/config.json`
 4. `config.json`
 
@@ -63,7 +63,7 @@ set GITHUB_TOKEN=your_token_here
 ## 验证修复
 
 1. 确保GitHub Actions工作流已成功运行
-2. 检查`docs/Data/config.json`文件是否存在
+2. 检查`docs/data/config.json`文件是否存在
 3. 访问每日报告页面，确认错误已解决
 
 ## 常见问题

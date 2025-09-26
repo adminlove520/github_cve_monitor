@@ -66,7 +66,7 @@ if (day.isReal && prevDay && prevDay.isReal && prevDay.count > 0) {
 
 ### 目录结构
 ```
-docs/Data/daily/
+docs/data/daily/
 ├── 2025-09-23.json    # 今日数据（手动维护）
 └── ...                # 其他日期的数据文件
 ```

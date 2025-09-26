@@ -58,8 +58,8 @@ def init_daily_file(date_str):
     month = today.strftime("%m")
     day = today.strftime("%d")
     
-    # 创建目录结构 /Data/YYYY-W-mm-dd
-    dir_path = f"docs/Data/{year}-W{week_number}-{month}-{day}"
+    # 创建目录结构 /data/YYYY-W-mm-dd
+    dir_path = f"docs/data/{year}-W{week_number}-{month}-{day}"
     Path(dir_path).mkdir(parents=True, exist_ok=True)
     
     # 创建每日报告文件
@@ -91,7 +91,7 @@ def write_daily_file(file_path, new_contents):
 
 def update_daily_index():
     """更新每日 情报速递 报告索引文件"""
-    data_dir = Path("docs/Data")
+    data_dir = Path("docs/data")
     if not data_dir.exists():
         return
     
@@ -115,7 +115,7 @@ def update_daily_index():
         
         for daily_file in daily_files:
             file_name = daily_file.name
-            relative_path = f"Data/{date_dir.name}/{file_name}"
+            relative_path = f"data/{date_dir.name}/{file_name}"
             date_str = file_name.replace("daily_", "").replace(".md", "")
             
             # 格式化日期显示
@@ -158,7 +158,7 @@ def update_sidebar():
             new_lines.append(line)
             # 在主页链接后添加每日报告链接
             if "- [主页](README.md)" in line or "- [Home](README.md)" in line:
-                new_lines.append("- [每日报告](/Data/index.md)\n")
+                new_lines.append("- [每日报告](/data/index.md)\n")
         
         # 写回文件
         with open(sidebar_path, 'w', encoding='utf-8') as f:
@@ -168,7 +168,7 @@ def load_config():
     """从配置文件加载配置信息"""
     config_paths = [
         "docs/config/config.json",
-        "docs/Data/config.json",
+        "docs/data/config.json",
         "docs/config.json",
         "config.json"
     ]
