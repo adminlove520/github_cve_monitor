@@ -278,9 +278,9 @@ def main():
     script_dir = os.path.dirname(os.path.abspath(__file__))
     project_root = os.path.dirname(script_dir)
     
-    # 设置默认路径为绝对路径 - 使用小写的data目录
+    # 设置默认路径为绝对路径 - 使用大写的Data目录
     default_readme = os.path.join(project_root, 'docs', 'README.md')
-    default_output = os.path.join(project_root, 'docs', 'data', 'daily')
+    default_output = os.path.join(project_root, 'docs', 'Data', 'daily')
     
     parser = argparse.ArgumentParser(description='增强版每日CVE数据生成器')
     parser.add_argument('--readme', '-r', 

@@ -167,6 +167,7 @@ def update_sidebar():
 def load_config():
     """从配置文件加载配置信息"""
     config_paths = [
+        "docs/config/config.json",
         "docs/Data/config.json",
         "docs/config.json",
         "config.json"
