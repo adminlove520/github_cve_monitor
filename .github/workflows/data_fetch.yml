@@ -3,7 +3,7 @@ name: 数据获取与缓存
 on:
   schedule:
     # 每30分钟运行一次
-    - cron: '*/30 * * * *'
+    - cron: '0 */4 * * *'
   workflow_dispatch:
     inputs:
       force_refresh:
