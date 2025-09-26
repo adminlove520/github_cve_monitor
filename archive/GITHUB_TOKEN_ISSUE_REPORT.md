@@ -21,7 +21,7 @@
 
 ### 3. GitHub Actions流程分析
 GitHub Actions工作流中的token处理流程：
-1. 生成配置文件，将`${{ secrets.GH_TOKEN }}`写入`docs/config.json`和`docs/Data/config.json`
+1. 生成配置文件，将`${{ secrets.GH_TOKEN }}`写入`docs/config.json`和`docs/data/config.json`
 2. 通过环境变量`GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}`传递token给Python脚本
 
 ## 问题根本原因
