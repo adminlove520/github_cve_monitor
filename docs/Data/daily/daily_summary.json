@@ -1,14 +1,14 @@
 {
-  "generated_at": "2025-09-25T00:56:18.713403",
+  "generated_at": "2025-09-26T00:55:28.617474",
   "script_version": "2.0",
   "total_files": 3053,
-  "total_cves": 26848,
+  "total_cves": 26857,
   "date_range": {
     "start": "2009-06-08",
     "end": "2025-09-24"
   },
   "statistics": {
-    "avg_daily_cves": 8.79,
+    "avg_daily_cves": 8.8,
     "max_daily_cves": 811,
     "min_daily_cves": 1,
     "empty_days": 0,
@@ -18329,9 +18329,9 @@
     },
     {
       "date": "2025-09-24",
-      "daily_count": 7,
-      "cumulative_total": 26848,
-      "growth_rate": -66.67
+      "daily_count": 16,
+      "cumulative_total": 26857,
+      "growth_rate": -23.81
     }
   ],
   "recent_7_days": [
@@ -18373,9 +18373,9 @@
     },
     {
       "date": "2025-09-24",
-      "daily_count": 7,
-      "cumulative_total": 26848,
-      "growth_rate": -66.67
+      "daily_count": 16,
+      "cumulative_total": 26857,
+      "growth_rate": -23.81
     }
   ],
   "recent_30_days": [
@@ -18555,9 +18555,9 @@
     },
     {
       "date": "2025-09-24",
-      "daily_count": 7,
-      "cumulative_total": 26848,
-      "growth_rate": -66.67
+      "daily_count": 16,
+      "cumulative_total": 26857,
+      "growth_rate": -23.81
     }
   ],
   "daily_stats": [
@@ -36876,7 +36876,7 @@
     {
       "file": "2025-09-24.json",
       "date": "2025-09-24",
-      "count": 7,
+      "count": 16,
       "path": "../docs/Data/daily/2025-09-24.json"
     }
   ]
