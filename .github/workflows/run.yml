@@ -84,6 +84,7 @@ jobs:
           git config --global user.email "cve-monitor@users.noreply.github.com"
           git config --global user.name "CVE-Bot"
           DATE_STR=$(date +"%Y-%m-%d")
+          git add .
           git commit --all --message "每日情报速递更新：daily_${DATE_STR}.md" || echo "no changes to commit"
           git push
       - name: Update Wiki
