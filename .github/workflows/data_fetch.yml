@@ -41,6 +41,8 @@ jobs:
     steps:
       - name: 检出代码
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
       
       - name: 设置Python环境
         uses: actions/setup-python@v4
@@ -67,7 +69,10 @@ jobs:
       
       - name: 创建数据目录
         run: |
-          mkdir -p docs/Data/cache
+          echo "当前工作目录: $(pwd)"
+          echo "目录结构:"
+          ls -la
+          mkdir -p docs/data/cache
       
       - name: 获取统计数据
         id: fetch_stats
