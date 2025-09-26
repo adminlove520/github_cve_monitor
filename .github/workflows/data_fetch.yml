@@ -403,11 +403,14 @@ jobs:
                   
                   # 构建报告数据
                   for report in report_dirs:
+                      # 使用字符串连接替代格式化，避免引号转义问题
+                      directory = report['directory']
+                      date = report['date']
                       fallback_reports.append({
-                          'date': report['date'],
-                          'filename': "{}/index.html".format(report['directory']),
+                          'date': date,
+                          'filename': directory + '/index.html',
                           'cves_count': report['cves_count'],
-                          'title': "{0} CVE情报速递".format(report['date'])
+                          'title': date + ' CVE情报速递'
                       })
                   
                   print(f'✅ 本地扫描成功获取 {len(fallback_reports)} 条报告信息')

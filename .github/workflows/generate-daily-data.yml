@@ -24,6 +24,11 @@ on:
         description: '结束日期 (YYYY-MM-DD，可选)'
         required: false
         type: string
+      force_push:
+        description: '强制推送数据，即使没有检测到变更'
+        required: false
+        default: false
+        type: boolean
 
 jobs:
   generate-daily-data:
@@ -58,19 +63,19 @@ jobs:
           ${{ github.event.inputs.end_date && format('--end-date {0}', github.event.inputs.end_date) || '' }} \
           --verbose
     
-    # - name: 检查是否有变更
-    #   id: check_changes
-    #   run: |
-    #     if git diff --quiet HEAD -- docs/Data/daily/; then
-    #       echo "changes=false" >> $GITHUB_OUTPUT
-    #       echo "📝 没有检测到数据变更"
-    #     else
-    #       echo "changes=true" >> $GITHUB_OUTPUT
-    #       echo "✅ 检测到数据变更"
-    #     fi
+    - name: 检查是否有变更
+      id: check_changes
+      run: |
+        if git diff --quiet HEAD -- docs/Data/daily/; then
+          echo "changes=false" >> $GITHUB_OUTPUT
+          echo "📝 没有检测到数据变更"
+        else
+          echo "changes=true" >> $GITHUB_OUTPUT
+          echo "✅ 检测到数据变更"
+        fi
     
     - name: 提交和推送变更
-      if: steps.check_changes.outputs.changes == 'true'
+      if: steps.check_changes.outputs.changes == 'true' || github.event.inputs.force_push == 'true'
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
@@ -81,20 +86,45 @@ jobs:
         # 获取当前日期
         CURRENT_DATE=$(date '+%Y-%m-%d')
         
-        # 统计新增文件数量
-        NEW_FILES=$(git diff --cached --name-only --diff-filter=A | wc -l)
-        MODIFIED_FILES=$(git diff --cached --name-only --diff-filter=M | wc -l)
-        
         # 创建提交信息
-        COMMIT_MSG="🤖 自动更新每日CVE数据 ($CURRENT_DATE)"
-        if [ "$NEW_FILES" -gt 0 ]; then
-          COMMIT_MSG="$COMMIT_MSG - 新增 $NEW_FILES 个文件"
-        fi
-        if [ "$MODIFIED_FILES" -gt 0 ]; then
-          COMMIT_MSG="$COMMIT_MSG - 更新 $MODIFIED_FILES 个文件"
+        if [ "${{ github.event.inputs.force_push }}" == "true" ]; then
+          # 强制推送时的提交信息
+          COMMIT_MSG="🤖 强制更新每日CVE数据 ($CURRENT_DATE)"
+          # 检查是否有新增或修改的文件
+          if git diff --cached --quiet; then
+            # 如果没有变更，创建一个空提交
+            echo "⚠️ 检测到没有文件变更，但启用了强制推送，创建空提交"
+            git commit --allow-empty -m "$COMMIT_MSG"
+          else
+            # 有变更时统计文件数量
+            NEW_FILES=$(git diff --cached --name-only --diff-filter=A | wc -l)
+            MODIFIED_FILES=$(git diff --cached --name-only --diff-filter=M | wc -l)
+            
+            if [ "$NEW_FILES" -gt 0 ]; then
+              COMMIT_MSG="$COMMIT_MSG - 新增 $NEW_FILES 个文件"
+            fi
+            if [ "$MODIFIED_FILES" -gt 0 ]; then
+              COMMIT_MSG="$COMMIT_MSG - 更新 $MODIFIED_FILES 个文件"
+            fi
+            
+            git commit -m "$COMMIT_MSG"
+          fi
+        else
+          # 正常推送时的提交信息和统计
+          COMMIT_MSG="🤖 自动更新每日CVE数据 ($CURRENT_DATE)"
+          NEW_FILES=$(git diff --cached --name-only --diff-filter=A | wc -l)
+          MODIFIED_FILES=$(git diff --cached --name-only --diff-filter=M | wc -l)
+          
+          if [ "$NEW_FILES" -gt 0 ]; then
+            COMMIT_MSG="$COMMIT_MSG - 新增 $NEW_FILES 个文件"
+          fi
+          if [ "$MODIFIED_FILES" -gt 0 ]; then
+            COMMIT_MSG="$COMMIT_MSG - 更新 $MODIFIED_FILES 个文件"
+          fi
+          
+          git commit -m "$COMMIT_MSG"
         fi
         
-        git commit -m "$COMMIT_MSG"
         git push
     
     - name: 生成运行报告
@@ -105,7 +135,9 @@ jobs:
         echo "|------|------|------|" >> $GITHUB_STEP_SUMMARY
         echo "| 脚本执行 | ✅ 成功 | 增强版数据生成器运行完成 |" >> $GITHUB_STEP_SUMMARY
         
-        if [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
+        if [ "${{ github.event.inputs.force_push }}" == "true" ]; then
+          echo "| 数据更新 | ⚡ 强制更新 | 已执行强制推送操作 |" >> $GITHUB_STEP_SUMMARY
+        elif [ "${{ steps.check_changes.outputs.changes }}" == "true" ]; then
           echo "| 数据更新 | ✅ 有更新 | 检测到新数据并已提交 |" >> $GITHUB_STEP_SUMMARY
         else
           echo "| 数据更新 | ℹ️ 无变更 | 未检测到新数据 |" >> $GITHUB_STEP_SUMMARY
