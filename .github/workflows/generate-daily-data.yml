@@ -66,7 +66,7 @@ jobs:
     - name: 检查是否有变更
       id: check_changes
       run: |
-        if git diff --quiet HEAD -- docs/Data/daily/; then
+        if git diff --quiet HEAD -- docs/data/daily/; then
           echo "changes=false" >> $GITHUB_OUTPUT
           echo "📝 没有检测到数据变更"
         else
@@ -81,7 +81,7 @@ jobs:
         git config --local user.name "GitHub Action"
         
         # 添加所有变更的文件
-        git add docs/Data/daily/
+        git add docs/data/daily/
         
         # 获取当前日期
         CURRENT_DATE=$(date '+%Y-%m-%d')
@@ -144,11 +144,11 @@ jobs:
         fi
         
         # 显示最新的汇总统计
-        if [ -f "docs/Data/daily/daily_summary.json" ]; then
-          TOTAL_CVES=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['total_cves'])")
-          TOTAL_FILES=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['total_files'])")
-          DATE_RANGE_START=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['date_range']['start'])")
-          DATE_RANGE_END=$(python3 -c "import json; data=json.load(open('docs/Data/daily/daily_summary.json')); print(data['date_range']['end'])")
+        if [ -f "docs/data/daily/daily_summary.json" ]; then
+          TOTAL_CVES=$(python3 -c "import json; data=json.load(open('docs/data/daily/daily_summary.json')); print(data['total_cves'])")
+          TOTAL_FILES=$(python3 -c "import json; data=json.load(open('docs/data/daily/daily_summary.json')); print(data['total_files'])")
+          DATE_RANGE_START=$(python3 -c "import json; data=json.load(open('docs/data/daily/daily_summary.json')); print(data['date_range']['start'])")
+          DATE_RANGE_END=$(python3 -c "import json; data=json.load(open('docs/data/daily/daily_summary.json')); print(data['date_range']['end'])")
           
           echo "| 总CVE数量 | 📊 $TOTAL_CVES | 累计记录数 |" >> $GITHUB_STEP_SUMMARY
           echo "| 总文件数 | 📁 $TOTAL_FILES | 生成的JSON文件数 |" >> $GITHUB_STEP_SUMMARY
