@@ -303,97 +303,150 @@ def get_info(year):
             per_page = 30 # 无token时每页30条
             print(f"No GitHub Token found, using unauthenticated request (Year: {year})")
 
-        print("DEBUG: os.environ content:")
-        for key, value in os.environ.items():
-            if "GITHUB" in key.upper(): # Only print relevant environment variables
-                print(f"  {key}: {value[:10]}...")
-
-        # 添加请求头的调试信息
-        print(f"DEBUG: 请求头: {headers}")
-        
         # 添加User-Agent头，避免被GitHub阻止
         headers['User-Agent'] = 'CVE-Monitor-App'
         
         max_retries = 3
         retry_count = 0
+        max_pages = 10  # 限制最大页数，防止无限循环
         
-        while retry_count < max_retries:
+        while retry_count < max_retries and page <= max_pages:
             api = f"https://api.github.com/search/repositories?q=CVE-{year}&sort=updated&page={page}&per_page={per_page}"
+            print(f"DEBUG: 正在获取年份 {year} 的第 {page}/{max_pages} 页数据")
             print(f"DEBUG: API请求URL: {api}")
+            
+            # 智能延迟 - 避免连续请求过快
+            if page > 1:
+                if not github_token:
+                    # 无token时等待更长时间
+                    wait_time = random.randint(5, 15)
+                    print(f"DEBUG: 无Token，等待 {wait_time} 秒后请求下一页")
+                    time.sleep(wait_time)
+                else:
+                    # 有token时也添加适当延迟
+                    wait_time = random.randint(1, 3)
+                    print(f"DEBUG: 有Token，等待 {wait_time} 秒后请求下一页")
+                    time.sleep(wait_time)
+            
             response = requests.get(api, headers=headers)
 
             # 打印详细的响应信息用于调试
             print(f"DEBUG: API请求状态码: {response.status_code}")
             
-            if 'X-RateLimit-Limit' in response.headers:
+            # 获取并显示速率限制信息
+            remaining = limit = reset_time = None
+            if 'X-RateLimit-Remaining' in response.headers:
                 remaining = response.headers.get('X-RateLimit-Remaining')
                 limit = response.headers.get('X-RateLimit-Limit')
+                reset_time = response.headers.get('X-RateLimit-Reset')
                 print(f"API Rate Limit: {remaining}/{limit}")
                 
-                # 如果剩余请求次数很少，等待一段时间
-                if remaining and int(remaining) < 10:
-                    print(f"警告: 接近速率限制，剩余请求次数: {remaining}")
-                    time.sleep(60)  # 等待1分钟
+                # 计算重置时间（人性化显示）
+                if reset_time:
+                    reset_seconds = int(reset_time) - int(time.time())
+                    if reset_seconds > 0:
+                        print(f"API限制将在 {reset_seconds} 秒后重置")
+                
+                # 智能速率限制处理
+                if remaining and limit:
+                    remaining_int = int(remaining)
+                    limit_int = int(limit)
+                    
+                    # 如果剩余请求次数很少，等待较长时间
+                    if remaining_int < 5:
+                        print(f"⚠️  警告: 剩余请求次数极少 ({remaining_int}/{limit_int})，等待更长时间...")
+                        wait_time = min(60, max(15, reset_seconds // 2)) if reset_seconds else 60
+                        print(f"DEBUG: 等待 {wait_time} 秒后继续")
+                        time.sleep(wait_time)
+                    # 如果剩余请求次数较少，等待适当时间
+                    elif remaining_int < 10:
+                        print(f"⚠️  警告: 接近速率限制，剩余请求次数: {remaining_int}/{limit_int}")
+                        time.sleep(random.randint(10, 30))
 
             # 处理403错误
             if response.status_code == 403:
-                print(f"错误: GitHub API返回403 Forbidden")
+                print(f"❌ 错误: GitHub API返回403 Forbidden")
                 print(f"响应内容: {response.text}")
                 if 'X-GitHub-SSO' in response.headers:
                     print(f"SSO要求: {response.headers.get('X-GitHub-SSO')}")
                 
                 # 检查是否是速率限制错误
                 if 'rate limit' in response.text.lower():
-                    print("检测到速率限制，等待一段时间后重试...")
-                    time.sleep(60)  # 等待1分钟后再重试
+                    print("⏱️  检测到速率限制，等待一段时间后重试...")
+                    wait_time = reset_seconds + 10 if reset_seconds else 60  # 等待到限制重置后再重试
+                    print(f"DEBUG: 等待 {wait_time} 秒后重试")
+                    time.sleep(wait_time)
                     retry_count += 1
                     continue
                 else:
+                    print("❌ 非速率限制错误，终止请求")
                     break
 
             # 处理401错误（认证失败）
             if response.status_code == 401:
-                print(f"错误: GitHub API返回401 Unauthorized")
+                print(f"❌ 错误: GitHub API返回401 Unauthorized")
                 print(f"响应内容: {response.text}")
                 break
+                
+            # 处理其他错误状态码
+            if response.status_code != 200:
+                print(f"❌ 错误: GitHub API返回状态码 {response.status_code}")
+                print(f"响应内容: {response.text}")
+                retry_count += 1
+                time.sleep(5)
+                continue
 
-            req = response.json()
+            try:
+                req = response.json()
+            except Exception as e:
+                print(f"❌ 错误: 解析JSON响应失败: {e}")
+                print(f"原始响应内容: {response.text[:200]}...")  # 只打印部分内容
+                retry_count += 1
+                time.sleep(5)
+                continue
             
             # 检查是否有错误信息
             if "message" in req:
-                print(f"API响应消息: {req['message']}")
+                print(f"⚠️  API响应消息: {req['message']}")
                 # 如果是速率限制错误，等待后重试
                 if "rate limit" in req['message'].lower() or "limit" in req['message'].lower():
-                    print("检测到速率限制错误，等待一段时间后重试...")
-                    time.sleep(60)  # 等待1分钟后再重试
+                    print("⏱️  检测到速率限制错误，等待一段时间后重试...")
+                    wait_time = reset_seconds + 10 if reset_seconds else 60
+                    print(f"DEBUG: 等待 {wait_time} 秒后重试")
+                    time.sleep(wait_time)
                     retry_count += 1
                     continue
 
-            items = req.get("items")
+            items = req.get("items", [])
+            print(f"DEBUG: 当前页获取到 {len(items)} 条数据")
 
             if not items:
+                print(f"DEBUG: 无更多数据，停止请求")
                 break
 
             all_items.extend(items)
+            print(f"DEBUG: 累计获取到 {len(all_items)} 条数据")
 
             # 如果当前页返回的item数量小于per_page，说明已经是最后一页
             if len(items) < per_page:
+                print(f"DEBUG: 已获取最后一页数据")
                 break
             
             page += 1
-            # 随机等待以避免API限制 (仅在无token时等待)
-            if not github_token:
-                count = random.randint(3, 15)
-                time.sleep(count)
-            else:
-                # 有token时也稍微等待，避免触发速率限制
-                time.sleep(1)
-
             retry_count = 0  # 重置重试计数
+            
+            # 对于大量数据，每获取3页后休息更长时间
+            if page % 3 == 0:
+                rest_time = random.randint(10, 30)
+                print(f"📊 已获取 {page} 页数据，休息 {rest_time} 秒以避免触发限制...")
+                time.sleep(rest_time)
 
+        print(f"✅ 完成年份 {year} 的数据获取，共获取 {len(all_items)} 条记录")
         return all_items
     except Exception as e:
-        print("An error occurred in the network request", e)
+        print(f"❌ 网络请求发生错误: {e}")
+        import traceback
+        print(f"错误详情: {traceback.format_exc()}")
         return None
 
 
@@ -519,17 +572,78 @@ def main():
     start_year = max(2020, year-1)  # 不早于2020年
     end_year = max(2020, year-5)    # 最多获取5年前的数据，但不早于2020年
     
+    print(f"🔍 开始获取历史数据（{start_year}年 到 {end_year}年）")
+    
+    # 跟踪连续失败次数，避免无限重试
+    consecutive_failures = 0
+    max_consecutive_failures = 2
+    
     for i in range(start_year, end_year-1, -1):
-        item = get_info(i)
-        if item is None or len(item) == 0:
-            continue
-        print(f"年份: {i} : 获取到 {len(item)} 条原始数据")
-        sorted_data = db_match(item)
-        if len(sorted_data) != 0:
-            print(f"年份 {i} : 更新 {len(sorted_data)} 条记录")
-            sorted_list.extend(sorted_data)
-        count = random.randint(3, 15)
-        time.sleep(count)
+        print(f"📅 正在处理年份: {i}")
+        
+        try:
+            # 添加用户友好的进度指示
+            year_progress = (start_year - i + 1) / (start_year - end_year + 1)
+            print(f"📊 进度: {year_progress:.1%}")
+            
+            item = get_info(i)
+            
+            # 检查数据获取结果
+            if item is None:
+                print(f"❌ 年份 {i} 获取数据失败，跳过")
+                consecutive_failures += 1
+                # 如果连续失败次数过多，可能是API问题，暂停更长时间
+                if consecutive_failures >= max_consecutive_failures:
+                    print(f"⚠️  连续 {consecutive_failures} 个年份获取失败，休息更长时间...")
+                    time.sleep(random.randint(30, 60))
+                else:
+                    time.sleep(random.randint(5, 10))
+                continue
+            
+            consecutive_failures = 0  # 重置失败计数
+            
+            if len(item) == 0:
+                print(f"📭 年份 {i} 没有获取到新数据")
+                time.sleep(random.randint(3, 5))
+                continue
+            
+            print(f"✅ 年份: {i} : 获取到 {len(item)} 条原始数据")
+            
+            # 处理数据匹配
+            sorted_data = db_match(item)
+            if len(sorted_data) != 0:
+                print(f"📋 年份 {i} : 更新 {len(sorted_data)} 条记录")
+                sorted_list.extend(sorted_data)
+            else:
+                print(f"📝 年份 {i} : 没有需要更新的新记录")
+            
+            # 根据获取到的数据量调整等待时间
+            if len(item) > 50:
+                wait_time = random.randint(8, 15)
+                print(f"📊 数据量较大，等待 {wait_time} 秒...")
+            else:
+                wait_time = random.randint(3, 8)
+                print(f"📊 数据量适中，等待 {wait_time} 秒...")
+            
+            time.sleep(wait_time)
+            
+        except Exception as e:
+            print(f"❌ 处理年份 {i} 时发生错误: {e}")
+            import traceback
+            print(f"错误详情: {traceback.format_exc()}")
+            consecutive_failures += 1
+            
+            # 出错后等待更长时间再继续
+            error_wait_time = random.randint(10, 20)
+            print(f"⏱️  出错后等待 {error_wait_time} 秒再继续...")
+            time.sleep(error_wait_time)
+            
+            # 如果连续失败次数过多，终止历史数据获取
+            if consecutive_failures >= max_consecutive_failures:
+                print(f"❌ 已连续 {consecutive_failures} 个年份处理失败，终止历史数据获取")
+                break
+    
+    print(f"✅ 历史数据获取完成")
     
     # 生成全量数据报告
     cur = db.cursor()
