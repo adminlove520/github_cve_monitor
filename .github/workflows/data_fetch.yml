@@ -369,8 +369,13 @@ jobs:
                       if os.path.isdir(item_path) and date_pattern.match(item):
                           # 解析日期信息
                           parts = item.split('-')
-                          year, month, day = parts[0], parts[3], parts[4]
-                          date_str = f'{year}-{month}-{day}'
+                          # 确保parts数组有足够的元素
+                          if len(parts) >= 5:
+                              year, month, day = parts[0], parts[3], parts[4]
+                              date_str = f'{year}-{month}-{day}'
+                          else:
+                              # 使用目录名作为日期字符串
+                              date_str = item
                           
                           # 尝试从index.html获取CVE数量（通过简单文件读取）
                           cves_count = 0
