@@ -1,6 +1,6 @@
 {
   "date": "2025-01-11",
-  "count": 9,
+  "count": 10,
   "cves": [
     {
       "cve_id": "CVE-2025-0282",
@@ -29,6 +29,13 @@
       "description": "A Python script to detect CVE-2024-41713, a directory traversal vulnerability in Apache HTTP Server, enabling unauthorized access to restricted resources. This tool is for educational purposes and authorized testing only. Unauthorized usage is unethical and illegal.",
       "date": "2025-01-11",
       "raw_date": "2025-01-11T02:39:36Z"
+    },
+    {
+      "cve_id": "CVE-2024-12877",
+      "repo_info": "[RandomRobbieBF/CVE-2024-12877](https://github.com/RandomRobbieBF/CVE-2024-12877)",
+      "description": "GiveWP – Donation Plugin and Fundraising Platform &lt;= 3.19.2 - Unauthenticated PHP Object Injection",
+      "date": "2025-01-11",
+      "raw_date": "2025-01-11T13:54:59Z"
     },
     {
       "cve_id": "CVE-2024-12856",
@@ -66,9 +73,9 @@
       "raw_date": "2025-01-11T16:48:45Z"
     }
   ],
-  "generated_at": "2025-09-27T00:53:46.786174",
+  "generated_at": "2025-09-27T16:01:06.716923",
   "metadata": {
-    "total_cves": 9,
+    "total_cves": 10,
     "date_range": "2025-01-11",
     "source": "README.md",
     "script_version": "2.0"

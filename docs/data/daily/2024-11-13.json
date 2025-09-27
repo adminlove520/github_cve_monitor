@@ -1,6 +1,6 @@
 {
   "date": "2024-11-13",
-  "count": 19,
+  "count": 20,
   "cves": [
     {
       "cve_id": "CVE-2024-8963",
@@ -87,6 +87,13 @@
       "raw_date": "2024-11-13T08:30:00Z"
     },
     {
+      "cve_id": "CVE-2023-1405",
+      "repo_info": "[RandomRobbieBF/CVE-2023-1405](https://github.com/RandomRobbieBF/CVE-2023-1405)",
+      "description": "Formidable Forms &lt;= 6.1.2 - Unauthenticated PHP Object Injection",
+      "date": "2024-11-13",
+      "raw_date": "2024-11-13T15:04:51Z"
+    },
+    {
       "cve_id": "CVE-2022-21661",
       "repo_info": "[kittypurrnaz/cve-2022-21661](https://github.com/kittypurrnaz/cve-2022-21661)",
       "description": "no description",
@@ -136,9 +143,9 @@
       "raw_date": "2024-11-13T18:37:18Z"
     }
   ],
-  "generated_at": "2025-09-27T00:53:46.774611",
+  "generated_at": "2025-09-27T16:01:06.655417",
   "metadata": {
-    "total_cves": 19,
+    "total_cves": 20,
     "date_range": "2024-11-13",
     "source": "README.md",
     "script_version": "2.0"

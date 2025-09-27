@@ -1,7 +1,14 @@
 {
   "date": "2019-02-18",
-  "count": 2,
+  "count": 3,
   "cves": [
+    {
+      "cve_id": "CVE-2025-5419",
+      "repo_info": "[somprasong-tukman/CVE-2025-5419](https://github.com/somprasong-tukman/CVE-2025-5419)",
+      "description": "🔍 Exploit CVE-2025-5419 to understand its impact and develop effective mitigation strategies for enhanced software security.",
+      "date": "2019-02-18",
+      "raw_date": "2019-02-18T07:54:35Z"
+    },
     {
       "cve_id": "CVE-2019-6453",
       "repo_info": "[proofofcalc/cve-2019-6453-poc](https://github.com/proofofcalc/cve-2019-6453-poc)",
@@ -17,9 +24,9 @@
       "raw_date": "2019-02-18T19:07:02Z"
     }
   ],
-  "generated_at": "2025-09-27T00:53:46.400241",
+  "generated_at": "2025-09-27T16:01:04.890021",
   "metadata": {
-    "total_cves": 2,
+    "total_cves": 3,
     "date_range": "2019-02-18",
     "source": "README.md",
     "script_version": "2.0"

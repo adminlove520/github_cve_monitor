@@ -1,6 +1,6 @@
 {
   "date": "2025-07-10",
-  "count": 25,
+  "count": 26,
   "cves": [
     {
       "cve_id": "CVE-2025-6554",
@@ -29,6 +29,13 @@
       "description": "CVE-2025-5777 Citrix NetScaler Memory Leak Exploit (CitrixBleed 2)",
       "date": "2025-07-10",
       "raw_date": "2025-07-10T07:15:07Z"
+    },
+    {
+      "cve_id": "CVE-2025-4840",
+      "repo_info": "[RandomRobbieBF/CVE-2025-4840](https://github.com/RandomRobbieBF/CVE-2025-4840)",
+      "description": "Likes and Dislikes Plugin &lt;= 1.0.0 - Unauthenticated SQL Injection",
+      "date": "2025-07-10",
+      "raw_date": "2025-07-10T10:11:32Z"
     },
     {
       "cve_id": "CVE-2025-48384",
@@ -178,9 +185,9 @@
       "raw_date": "2025-07-10T13:46:01Z"
     }
   ],
-  "generated_at": "2025-09-27T00:53:46.822804",
+  "generated_at": "2025-09-27T16:01:06.897838",
   "metadata": {
-    "total_cves": 25,
+    "total_cves": 26,
     "date_range": "2025-07-10",
     "source": "README.md",
     "script_version": "2.0"

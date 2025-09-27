@@ -1,0 +1,55 @@
+{
+  "date": "2025-09-27",
+  "count": 6,
+  "cves": [
+    {
+      "cve_id": "CVE-2025-59932",
+      "repo_info": "[At0mXploit/CVE-2025-59843-CVE-2025-59932](https://github.com/At0mXploit/CVE-2025-59843-CVE-2025-59932)",
+      "description": "CVE on FlagForge on versions 2.0.0 to 2.3.0. Upgrade to version 2.3.1 to fix the issue.",
+      "date": "2025-09-27",
+      "raw_date": "2025-09-27T02:55:20Z"
+    },
+    {
+      "cve_id": "CVE-2025-5304",
+      "repo_info": "[Nxploited/CVE-2025-5304](https://github.com/Nxploited/CVE-2025-5304)",
+      "description": "PT Project Notebooks 1.0.0 - 1.1.3 - Missing Authorization to Unauthenticated Privilege Escalation",
+      "date": "2025-09-27",
+      "raw_date": "2025-09-27T02:19:06Z"
+    },
+    {
+      "cve_id": "CVE-2025-4606",
+      "repo_info": "[UcenHaxor07/CVE-2025-4606](https://github.com/UcenHaxor07/CVE-2025-4606)",
+      "description": "no description",
+      "date": "2025-09-27",
+      "raw_date": "2025-09-27T02:04:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-39596",
+      "repo_info": "[Nxploited/CVE-2025-39596](https://github.com/Nxploited/CVE-2025-39596)",
+      "description": "Quentn WP &lt;= 1.2.8 - Unauthenticated Privilege Escalation",
+      "date": "2025-09-27",
+      "raw_date": "2025-09-27T07:27:24Z"
+    },
+    {
+      "cve_id": "CVE-2025-39596",
+      "repo_info": "[umxr286/ExploitScript](https://github.com/umxr286/ExploitScript)",
+      "description": "Exploit Research &amp; Mitigation for CVE-2025-9999 This repository documents the technical analysis of CVE-2025-9999, including proof-of-concept code for controlled testing, and outlines recommended security mitigations. Intended for educational and defensive cybersecurity research only.",
+      "date": "2025-09-27",
+      "raw_date": "2025-09-27T06:54:36Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[0xDTC/CrushFTP-auth-bypass-CVE-2025-31161-](https://github.com/0xDTC/CrushFTP-auth-bypass-CVE-2025-31161-)",
+      "description": "no description",
+      "date": "2025-09-27",
+      "raw_date": "2025-09-27T06:16:59Z"
+    }
+  ],
+  "generated_at": "2025-09-27T16:01:06.997519",
+  "metadata": {
+    "total_cves": 6,
+    "date_range": "2025-09-27",
+    "source": "README.md",
+    "script_version": "2.0"
+  }
+}

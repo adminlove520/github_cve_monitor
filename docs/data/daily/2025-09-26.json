@@ -1,18 +1,102 @@
 {
   "date": "2025-09-26",
-  "count": 1,
+  "count": 13,
   "cves": [
+    {
+      "cve_id": "CVE-2025-8422",
+      "repo_info": "[RandomRobbieBF/CVE-2025-8422](https://github.com/RandomRobbieBF/CVE-2025-8422)",
+      "description": "Propovoice &lt;= 1.7.6.7 - Unauthenticated Arbitrary File Read",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T10:04:32Z"
+    },
+    {
+      "cve_id": "CVE-2025-8088",
+      "repo_info": "[kyomber/CVE-2025-8088](https://github.com/kyomber/CVE-2025-8088)",
+      "description": "CVE-2025-8088 based path traversal tool",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T14:31:48Z"
+    },
     {
       "cve_id": "CVE-2025-6384",
       "repo_info": "[maestro-ant/CrafterCMS-CVE-2025-6384](https://github.com/maestro-ant/CrafterCMS-CVE-2025-6384)",
       "description": "PoC exploit for an authenticated RCE in CrafterCMS via Groovy sandbox bypass (CVE-2025-6384)",
       "date": "2025-09-26",
       "raw_date": "2025-09-26T02:08:30Z"
+    },
+    {
+      "cve_id": "CVE-2025-56795",
+      "repo_info": "[B1tBreaker/CVE-2025-56795](https://github.com/B1tBreaker/CVE-2025-56795)",
+      "description": "Stored Cross-Site Scripting (XSS) vulnerability affecting the recipe creation functionality in Mealie versions up to 3.0.1.",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T17:06:37Z"
+    },
+    {
+      "cve_id": "CVE-2025-56383",
+      "repo_info": "[zer0t0/CVE-2025-56383-Proof-of-Concept](https://github.com/zer0t0/CVE-2025-56383-Proof-of-Concept)",
+      "description": "CVE-2025-56383-Proof-of-Concept",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T07:15:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-55817",
+      "repo_info": "[5qu1n7/CVE-2025-55817](https://github.com/5qu1n7/CVE-2025-55817)",
+      "description": "ChilliCream Nitro GraphQL version 28.0.13 is vulnerable to multiple Stored Cross Site Scripting (XSS) Vulnerabilities",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T16:38:16Z"
+    },
+    {
+      "cve_id": "CVE-2025-39866",
+      "repo_info": "[byteReaper77/CVE-2025-39866](https://github.com/byteReaper77/CVE-2025-39866)",
+      "description": "Proof of concept for CVE-2025-39866 (UAF and race condition)",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T15:35:50Z"
+    },
+    {
+      "cve_id": "CVE-2025-39866",
+      "repo_info": "[Jainil-89/CVE](https://github.com/Jainil-89/CVE)",
+      "description": "Xss In Tawk.to Live Chat Support (CVE-2025-57483)",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T14:29:56Z"
+    },
+    {
+      "cve_id": "CVE-2025-3515",
+      "repo_info": "[robertskimengote/lab-cve-2025-3515](https://github.com/robertskimengote/lab-cve-2025-3515)",
+      "description": "🛠️ Reproduce and validate CVE-2025-3515 by setting up a Dockerized WordPress lab for testing unrestricted file uploads in a vulnerable plugin.",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T22:19:34Z"
+    },
+    {
+      "cve_id": "CVE-2025-31161",
+      "repo_info": "[Teexo/CVE-2025-31161](https://github.com/Teexo/CVE-2025-31161)",
+      "description": "Scans target to see if its vulnerable to CVE-2025-31161",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T21:52:57Z"
+    },
+    {
+      "cve_id": "CVE-2024-0582",
+      "repo_info": "[pwnmonk/io_uring-n-day](https://github.com/pwnmonk/io_uring-n-day)",
+      "description": "CVE-2024-0582 exploit",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T10:11:19Z"
+    },
+    {
+      "cve_id": "CVE-2023-36802",
+      "repo_info": "[rahul0xkr/Reproducing-CVE-2023-36802](https://github.com/rahul0xkr/Reproducing-CVE-2023-36802)",
+      "description": "Lab Project analyzing CVE-2023-36802 (mskssrv.sys) - object type confusion bug",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T15:51:33Z"
+    },
+    {
+      "cve_id": "CVE-2023-36802",
+      "repo_info": "[bbugdigger/ktor-xxe-poc](https://github.com/bbugdigger/ktor-xxe-poc)",
+      "description": "Proof-of-Concept of CVE-2023-45612",
+      "date": "2025-09-26",
+      "raw_date": "2025-09-26T10:29:23Z"
     }
   ],
-  "generated_at": "2025-09-27T00:53:46.841413",
+  "generated_at": "2025-09-27T16:01:06.997519",
   "metadata": {
-    "total_cves": 1,
+    "total_cves": 13,
     "date_range": "2025-09-26",
     "source": "README.md",
     "script_version": "2.0"
