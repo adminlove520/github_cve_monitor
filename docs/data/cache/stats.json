@@ -1,9 +1,8 @@
 {
-  "repo_created_at": "2025-09-22T15:21:44Z",
-  "repo_updated_at": "2025-09-27T07:36:06Z",
-  "api_limit": "5000",
-  "api_remaining": "4950",
-  "monitoring_days": 4,
+  "total_cves": 26891,
+  "last_update": "2025-09-27",
+  "api_limit": "限制中",
+  "api_remaining": "未知",
   "system_uptime": "99.9%",
-  "generated_at": "2025-09-27T07:36:41.892047"
+  "generated_at": "2025-09-27T08:07:28.701720"
 }
