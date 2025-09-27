@@ -11,6 +11,13 @@ import os
 import locale
 from pathlib import Path
 import json
+# 导入dotenv库以支持从.env文件读取环境变量
+try:
+    from dotenv import load_dotenv
+    load_dotenv()  # 加载.env文件中的环境变量
+    print("DEBUG: 已加载dotenv库并从.env文件读取环境变量")
+except ImportError:
+    print("DEBUG: 未安装dotenv库，跳过从.env文件读取环境变量")
 
 # 确定项目根目录
 def get_project_root():
@@ -132,8 +139,8 @@ def init_daily_file(date_str):
     month = today.strftime("%m")
     day = today.strftime("%d")
     
-    # 创建目录结构 /data/YYYY-W-mm-dd
-    dir_path = os.path.join(PROJECT_ROOT, f"docs/data/{year}-W{week_number}-{month}-{day}")
+    # 创建目录结构 /reports/weekly/YYYY-W-mm-dd
+    dir_path = os.path.join(PROJECT_ROOT, f"docs/reports/weekly/{year}-W{week_number}-{month}-{day}")
     Path(dir_path).mkdir(parents=True, exist_ok=True)
     
     # 创建每日报告文件
@@ -168,7 +175,7 @@ def write_daily_file(file_path, new_contents):
 
 def update_daily_index():
     """更新每日 情报速递 报告索引文件"""
-    data_dir = Path(os.path.join(PROJECT_ROOT, "docs/data"))
+    data_dir = Path(os.path.join(PROJECT_ROOT, "docs/reports/weekly"))
     if not data_dir.exists():
         return
     
@@ -262,8 +269,8 @@ def load_config():
     return {}
 
 def get_github_token():
-    """获取GitHub Token，优先级：环境变量 > 配置文件"""
-    # 首先检查环境变量
+    """获取GitHub Token，优先级：环境变量(.env或系统环境变量) > 配置文件"""
+    # 首先检查环境变量（会自动包括从.env文件加载的变量）
     github_token = os.environ.get('GITHUB_TOKEN')
     if github_token:
         print(f"DEBUG: 从环境变量获取到GITHUB_TOKEN")
@@ -284,6 +291,7 @@ def get_github_token():
         return github_token
     
     print("DEBUG: 未找到有效的GitHub Token")
+    print("DEBUG: 您可以在项目根目录创建.env文件，并添加GITHUB_TOKEN=your_token_here")
     return None
 
 def get_info(year):
@@ -882,15 +890,50 @@ def main():
         # 先运行数据生成脚本创建汇总文件
         import subprocess
         print("📊 正在生成汇总数据...")
-        subprocess.run([sys.executable, os.path.join(PROJECT_ROOT, 'scripts/enhanced_daily_data_generator.py'), '--fill-gaps'], 
-                      check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        print("✅ 数据汇总文件已生成")
+        
+        # 构建命令参数
+        script_path = os.path.join(PROJECT_ROOT, 'scripts/enhanced_daily_data_generator.py')
+        
+        # 尝试使用不同的Python解释器路径
+        python_executables = [sys.executable, 'python', 'python3']
+        success = False
+        
+        for python_exe in python_executables:
+            try:
+                print(f"DEBUG: 尝试使用Python解释器: {python_exe}")
+                # 使用shell=True在Windows上更可靠，特别是当路径包含空格时
+                subprocess.run([python_exe, script_path, '--fill-gaps'],
+                             check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=(os.name == 'nt'))
+                success = True
+                print("✅ 数据汇总文件已生成")
+                break
+            except Exception as e:
+                print(f"DEBUG: 使用 {python_exe} 失败: {e}")
+                # 如果不是最后一个尝试，继续尝试下一个
+                if python_exe != python_executables[-1]:
+                    print(f"DEBUG: 尝试使用下一个Python解释器...")
+                    continue
+                else:
+                    raise
         
         # 再运行统计生成脚本
         print("📈 正在生成Wiki统计数据...")
-        subprocess.run([sys.executable, os.path.join(PROJECT_ROOT, 'scripts/generate_wiki_stats.py')], 
-                      check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE)
-        print("✅ Wiki统计数据已生成")
+        stats_script_path = os.path.join(PROJECT_ROOT, 'scripts/generate_wiki_stats.py')
+        
+        for python_exe in python_executables:
+            try:
+                print(f"DEBUG: 尝试使用Python解释器: {python_exe}")
+                subprocess.run([python_exe, stats_script_path],
+                             check=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=(os.name == 'nt'))
+                print("✅ Wiki统计数据已生成")
+                break
+            except Exception as e:
+                print(f"DEBUG: 使用 {python_exe} 失败: {e}")
+                if python_exe != python_executables[-1]:
+                    print(f"DEBUG: 尝试使用下一个Python解释器...")
+                    continue
+                else:
+                    raise
     except Exception as e:
         print(f"⚠️  统计数据生成过程中出现错误: {e}")
         # 继续执行，不中断主流程
