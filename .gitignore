@@ -47,3 +47,4 @@ logs/
 # 前端配置文件（包含敏感信息，由GitHub Actions动态生成）
 docs/config.json
 docs/data/config.json
+.env
