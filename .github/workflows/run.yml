@@ -76,17 +76,13 @@ jobs:
           if [ -z "$GITHUB_TOKEN" ]; then
             echo "警告: 未找到有效的GitHub Token，将使用无认证请求（API速率限制严重）"
             echo "Token来源: 无有效Token"
-            # 无token时使用更保守的参数设置
-            echo "使用保守参数设置：延迟因子=2.0，最大页数=5，启用严格速率限制"
-            python3 main.py --delay-factor 2.0 --max-pages 5 --strict-rate-limit
           else
             echo "GitHub Token已设置"
             echo "Token来源: $TOKEN_SOURCE"
             echo "Token长度: ${#GITHUB_TOKEN}"
-            # 有token时使用适当的参数设置
-            echo "使用优化参数设置：延迟因子=1.5，最大页数=8，启用严格速率限制"
-            python3 main.py --delay-factor 1.5 --max-pages 8 --strict-rate-limit
           fi
+          
+          python3 main.py
           
       - name: 生成Wiki统计数据
         run: |

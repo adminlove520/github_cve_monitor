@@ -11,7 +11,6 @@ import os
 import locale
 from pathlib import Path
 import json
-import argparse
 # 导入dotenv库以支持从.env文件读取环境变量
 try:
     from dotenv import load_dotenv
@@ -295,16 +294,13 @@ def get_github_token():
     print("DEBUG: 您可以在项目根目录创建.env文件，并添加GITHUB_TOKEN=your_token_here")
     return None
 
-def get_info(year, max_pages=10, per_page=100, delay_factor=1.0):
+def get_info(year):
     try:
         all_items = []
         page = 1
+        per_page = 100 # 默认每页100条，有token时使用
         github_token = get_github_token()
         headers = {}
-        
-        # 根据是否有token调整默认每页数量
-        if not github_token:
-            per_page = 30  # 无token时每页30条
 
         if github_token:
             print(f"DEBUG: GITHUB_TOKEN is set. Value: {github_token[:5]}...") # Print partial token for security
@@ -331,15 +327,14 @@ def get_info(year, max_pages=10, per_page=100, delay_factor=1.0):
             if page > 1:
                 if not github_token:
                     # 无token时等待更长时间
-                    base_wait_time = random.randint(5, 15)
+                    wait_time = random.randint(5, 15)
+                    print(f"DEBUG: 无Token，等待 {wait_time} 秒后请求下一页")
+                    time.sleep(wait_time)
                 else:
                     # 有token时也添加适当延迟
-                    base_wait_time = random.randint(1, 3)
-                
-                # 应用延迟因子
-                wait_time = base_wait_time * delay_factor
-                print(f"DEBUG: 等待 {wait_time:.1f} 秒后请求下一页 (基础: {base_wait_time}, 因子: {delay_factor})")
-                time.sleep(wait_time)
+                    wait_time = random.randint(1, 3)
+                    print(f"DEBUG: 有Token，等待 {wait_time} 秒后请求下一页")
+                    time.sleep(wait_time)
             
             try:
                 # 添加超时参数，避免请求无限期挂起
@@ -383,18 +378,15 @@ def get_info(year, max_pages=10, per_page=100, delay_factor=1.0):
                     limit_int = int(limit)
                     
                     # 如果剩余请求次数很少，等待较长时间
-                if remaining_int < 5:
-                    print(f"⚠️  警告: 剩余请求次数极少 ({remaining_int}/{limit_int})，等待更长时间...")
-                    base_wait_time = min(60, max(15, reset_seconds // 2)) if reset_seconds else 60
-                    wait_time = base_wait_time * delay_factor
-                    print(f"DEBUG: 等待 {wait_time:.1f} 秒后继续 (基础: {base_wait_time}, 因子: {delay_factor})")
-                    time.sleep(wait_time)
-                # 如果剩余请求次数较少，等待适当时间
-                elif remaining_int < 10:
-                    print(f"⚠️  警告: 接近速率限制，剩余请求次数: {remaining_int}/{limit_int}")
-                    base_wait_time = random.randint(10, 30)
-                    wait_time = base_wait_time * delay_factor
-                    time.sleep(wait_time)
+                    if remaining_int < 5:
+                        print(f"⚠️  警告: 剩余请求次数极少 ({remaining_int}/{limit_int})，等待更长时间...")
+                        wait_time = min(60, max(15, reset_seconds // 2)) if reset_seconds else 60
+                        print(f"DEBUG: 等待 {wait_time} 秒后继续")
+                        time.sleep(wait_time)
+                    # 如果剩余请求次数较少，等待适当时间
+                    elif remaining_int < 10:
+                        print(f"⚠️  警告: 接近速率限制，剩余请求次数: {remaining_int}/{limit_int}")
+                        time.sleep(random.randint(10, 30))
 
             # 处理403错误
             if response.status_code == 403:
@@ -560,9 +552,8 @@ def get_info(year, max_pages=10, per_page=100, delay_factor=1.0):
             
             # 对于大量数据，每获取3页后休息更长时间
             if page % 3 == 0:
-                base_rest_time = random.randint(10, 30)
-                rest_time = base_rest_time * delay_factor
-                print(f"📊 已获取 {page} 页数据，休息 {rest_time:.1f} 秒以避免触发限制... (基础: {base_rest_time}, 因子: {delay_factor})")
+                rest_time = random.randint(10, 30)
+                print(f"📊 已获取 {page} 页数据，休息 {rest_time} 秒以避免触发限制...")
                 time.sleep(rest_time)
 
         print(f"✅ 完成年份 {year} 的数据获取，共获取 {len(all_items)} 条记录")
@@ -644,27 +635,6 @@ def write_others_file(new_contents):
     f.close()
 
 def main():
-    # 解析命令行参数
-    parser = argparse.ArgumentParser(description='GitHub CVE Monitor')
-    parser.add_argument('--delay-factor', '-d', type=float, default=1.0,
-                        help='延迟因子，控制请求间隔时间的倍数 (默认: 1.0)')
-    parser.add_argument('--max-pages', '-p', type=int, default=10,
-                        help='每个年份的最大请求页数 (默认: 10)')
-    parser.add_argument('--per-page', '-pp', type=int, default=100,
-                        help='每页请求的数据量 (默认: 100，无token时会自动调整为30)')
-    parser.add_argument('--strict-rate-limit', '-s', action='store_true',
-                        help='启用严格的速率限制模式，增加额外的延迟')
-    
-    args = parser.parse_args()
-    
-    # 根据是否启用严格速率限制模式调整延迟因子
-    delay_factor = args.delay_factor
-    if args.strict_rate_limit:
-        delay_factor *= 1.5  # 严格模式下增加50%的延迟
-        print(f"DEBUG: 已启用严格速率限制模式，最终延迟因子: {delay_factor}")
-    
-    print(f"DEBUG: 命令行参数 - 延迟因子: {args.delay_factor}, 最大页数: {args.max_pages}, 每页数量: {args.per_page}")
-    
     # 获取当前日期
     today = datetime.now()
     date_str = today.strftime("%Y%m%d")
@@ -686,7 +656,7 @@ def main():
     
     # 首先获取当年的数据（当日数据）
     print(f"获取当年 ({year}) 的CVE数据...")
-    item = get_info(year, max_pages=args.max_pages, per_page=args.per_page, delay_factor=delay_factor)
+    item = get_info(year)
     if item is not None and len(item) > 0:
         print(f"年份: {year} : 获取到 {len(item)} 条原始数据")
         sorted_data = db_match(item)
@@ -731,7 +701,7 @@ def main():
             year_progress = (start_year - i + 1) / (start_year - end_year + 1)
             print(f"📊 进度: {year_progress:.1%}")
             
-            item = get_info(i, max_pages=args.max_pages, per_page=args.per_page, delay_factor=delay_factor)
+            item = get_info(i)
             
             # 检查数据获取结果
             if item is None:
