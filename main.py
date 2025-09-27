@@ -551,10 +551,10 @@ def get_info(year):
             retry_count = 0  # 重置重试计数
             
             # 对于大量数据，每获取3页后休息更长时间
-            if page % 3 == 0:
-                rest_time = random.randint(10, 30)
-                print(f"📊 已获取 {page} 页数据，休息 {rest_time} 秒以避免触发限制...")
-                time.sleep(rest_time)
+            # if page % 3 == 0:
+            #     rest_time = random.randint(10, 30)
+            #     print(f"📊 已获取 {page} 页数据，休息 {rest_time} 秒以避免触发限制...")
+            #     time.sleep(rest_time)
 
         print(f"✅ 完成年份 {year} 的数据获取，共获取 {len(all_items)} 条记录")
         return all_items
