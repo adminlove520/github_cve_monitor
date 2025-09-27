@@ -320,8 +320,9 @@ def get_info(year):
         
         while retry_count < max_retries and page <= max_pages:
             api = f"https://api.github.com/search/repositories?q=CVE-{year}&sort=updated&page={page}&per_page={per_page}"
-            print(f"DEBUG: 正在获取年份 {year} 的第 {page}/{max_pages} 页数据")
+            print(f"DEBUG: 正在获取年份 {year} 的第 {page}/{max_pages} 页数据，重试次数: {retry_count}/{max_retries}")
             print(f"DEBUG: API请求URL: {api}")
+            print(f"DEBUG: 当前重试计数: {retry_count}，最大重试次数: {max_retries}")
             
             # 智能延迟 - 避免连续请求过快
             if page > 1:
@@ -473,6 +474,7 @@ def get_info(year):
                 import traceback
                 print(f"错误详情: {traceback.format_exc()[:200]}")
                 retry_count += 1
+                print(f"DEBUG: 增加重试计数到 {retry_count}")
                 time.sleep(5)
                 continue
             
@@ -555,6 +557,12 @@ def get_info(year):
             #     rest_time = random.randint(10, 30)
             #     print(f"📊 已获取 {page} 页数据，休息 {rest_time} 秒以避免触发限制...")
             #     time.sleep(rest_time)
+        
+        # 添加退出循环的调试信息
+        if retry_count >= max_retries:
+            print(f"⚠️  已达到最大重试次数({max_retries})，停止获取年份 {year} 的数据")
+        if page > max_pages:
+            print(f"⚠️  已达到最大页数限制({max_pages})，停止获取年份 {year} 的数据")
 
         print(f"✅ 完成年份 {year} 的数据获取，共获取 {len(all_items)} 条记录")
         return all_items
